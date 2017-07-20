@@ -1865,15 +1865,15 @@ greg03.cha 1 10 03 e la # .
 greg03.cha 1 10 03 u s' e k El e la # ?
 greg03.cha 1 10 03 o , s' e la .
 greg03.cha 1 10 03 o a-t@-sj§ a t§n o-REj !
-greg03.cha 1 10 03 ty v2 k2 Z2 la mEt @n o la m5 ?
+greg03.cha 1 10 03 ty v2 k2 Z2 la mEt @ o la m5 ?
 greg03.cha 1 10 03 ty kON ?
 greg03.cha 1 10 03 El kOl .
 greg03.cha 1 10 03 El kOl la m5 .
 greg03.cha 1 10 03 o k e s2 k El a fE la m5 ?
 greg03.cha 1 10 03 wi .
 greg03.cha 1 10 03 mER-si gRe-gwaR !
-greg03.cha 1 10 03 Z2 la mE @n o ?
-greg03.cha 1 10 03 tut @n o ?
+greg03.cha 1 10 03 Z2 la mE @ o ?
+greg03.cha 1 10 03 tut @ o ?
 greg03.cha 1 10 03 R°-gaRd , § la mE la .
 greg03.cha 1 10 03 Op !
 greg03.cha 1 10 03 k e s2 k El fE ?
@@ -2334,7 +2334,7 @@ greg04.cha 1 11 22 @-kOR vwa-tyR .
 greg04.cha 1 11 22 o @-kOR yn vwa-tyR .
 greg04.cha 1 11 22 1 wa-zo ?
 greg04.cha 1 11 22 u il e l wa-zo ?
-greg04.cha 1 11 22 il et @n o l wa-zo .
+greg04.cha 1 11 22 il et @ o l wa-zo .
 greg04.cha 1 11 22 o la la ki e s2 ki a-Riv ?
 greg04.cha 1 11 22 b§-ZuR a-dRi-j5 .
 greg04.cha 1 11 22 sa va ?
@@ -5740,7 +5740,7 @@ greg09.cha 2 5 13 Z2 sE pa s' et 1 tRyk a aR-p§ mE .
 greg09.cha 2 5 13 § di 1 fy-zi a aR-p§ mE la § di-RE pREsk ka-n§ a aR-p§ .
 greg09.cha 2 5 13 wi .
 greg09.cha 2 5 13 wi .
-greg09.cha 2 5 13 a-vEk 1n aR-p§ ty vwa .
+greg09.cha 2 5 13 a-vEk 1 aR-p§ ty vwa .
 greg09.cha 2 5 13 a-REt twa e-kut § n a pa b°-zw5 d2 bR8i pa-Ra-zit .
 greg09.cha 2 5 13 ty vwa R°-gaRd gRe-gwaR k e s2 ki s2 pas k e s2 ki sOR dy ka-n§ R°-gaRd .
 greg09.cha 2 5 13 s8i a-vEk t§ dwa .
@@ -5749,7 +5749,7 @@ greg09.cha 2 5 13 va i s8i l2 fil .
 greg09.cha 2 5 13 k e s2 k2 s' e sa ?
 greg09.cha 2 5 13 k e s2 k il i a o bu ?
 greg09.cha 2 5 13 k e s2 k2 ty a a-tRa-pe o bu dy aR-p§ ?
-greg09.cha 2 5 13 1n aR-p§ sa sER a a-tRa-pe la ba-lEn .
+greg09.cha 2 5 13 1 aR-p§ sa sER a a-tRa-pe la ba-lEn .
 greg09.cha 2 5 13 R°-gaRd .
 greg09.cha 2 5 13 la ty R°-tuRn la si-t8a-sj§ la 5 .
 greg09.cha 2 5 13 a wi b5 R°-tuRn la paZ .
@@ -5781,7 +5781,7 @@ greg09.cha 2 5 13 s' e syR l2 bOR dy ba-to sa ?
 greg09.cha 2 5 13 s' e d°-v@ ?
 greg09.cha 2 5 13 sa s' et 1 bOR .
 greg09.cha 2 5 13 sa s' e la tEt dy ba-to la S°-mi-ne .
-greg09.cha 2 5 13 s' e s2 ki et @n o .
+greg09.cha 2 5 13 s' e s2 ki et @ o .
 greg09.cha 2 5 13 mE wi .
 greg09.cha 2 5 13 a b§ ?
 greg09.cha 2 5 13 wi .
@@ -5794,8 +5794,8 @@ greg09.cha 2 5 13 m§tR mwa l2 ba dy ba-to .
 greg09.cha 2 5 13 l2 ba dy ba-to u e s2 k il e ?
 greg09.cha 2 5 13 u s' e tut @ ba ?
 greg09.cha 2 5 13 n§ .
-greg09.cha 2 5 13 e tut @n o ?
-greg09.cha 2 5 13 tut @n o d a-bOR .
+greg09.cha 2 5 13 e tut @ o ?
+greg09.cha 2 5 13 tut @ o d a-bOR .
 greg09.cha 2 5 13 wi mE @-f5 .
 greg09.cha 2 5 13 sa s' e l2 dRa-po .
 greg09.cha 2 5 13 il a di k2 s' e-tE l2 bOR dy ba-to .

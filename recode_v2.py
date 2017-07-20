@@ -60,7 +60,16 @@ liaison_words = ['un', 'des', 'les', 'ces',\
 				 'plus','très','bien','quand','comment','trop','beaucoup']
 
 liaison_words = liaison_words + adjectives
-exceptions_next = ['et','oh','euh','hein', 'ah', 'ou']
+
+# Exceptions
+# Words beginning with h-aspiré (list retrieved from wikipedia article: https://fr.wikipedia.org/wiki/H_aspiré)
+h_aspire = []
+with open('h_aspire.txt') as Hlist:
+	for line in Hlist:
+		line = line.strip()
+		h_aspire.append(line)
+			
+exceptions_next = ['et', 'oh', 'euh', 'ah', 'ou'] + h_aspire
 
 # Read line by line and search words in dictionary:
 #count_liaison = 0
