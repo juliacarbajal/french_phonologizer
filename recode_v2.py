@@ -69,7 +69,7 @@ liaison_words = ['un', 'des', 'les', 'ces',\
 				 'aux', 'aucun', 'tout', 'quels', 'quelles', 'quelques',\
 				 'on', 'nous', 'vous', 'ils', 'elles',\
 				 'est', 'ont', 'chez', 'dans', 'en', 'sans',\
-				 'plus','très','bien','quand','comment','trop','beaucoup']
+				 'plus','très','bien','quand','trop','beaucoup']
 
 liaison_words = liaison_words + adjectives
 
@@ -128,6 +128,8 @@ special['allons'] = 'y'
 special['prends'] = 'en'
 special['prenez'] = 'en'
 special['prenons'] = 'en'
+# Others
+special['comment'] = 'allez'
 
 # Exceptions
 # Words beginning with h-aspiré (list retrieved from wikipedia article: https://fr.wikipedia.org/wiki/H_aspiré)
@@ -139,6 +141,27 @@ with open('h_aspire.txt') as Hlist:
 			
 exceptions_next = ['et', 'oh', 'euh', 'ah', 'ou', 'u', 'i', 'où'] + h_aspire
 
+
+def check_liaison(current_word, next_word) :
+	# This function checks if liaison applies, returns True or False
+	# Case 1: List of mandatory special cases (see above)
+	if (current_word in special) and (next_word in special[current_word]) :
+		do_liaison = True
+	# Case 2: Mandatory words + any vowel-initial word, excluding words in exception list
+	elif (current_word in liaison_words) and (next_word in dico) :
+		firstphon = dico[next_word][0] # Read first phoneme of next word
+		if firstphon in vowels and \
+		next_word not in exceptions_next :
+			do_liaison = True
+		else :
+			do_liaison = False
+	# Case 3: Plural noun + vowel-initial adjective
+	elif (current_word in plural_nouns) and (next_word in V_adjectives) :
+		do_liaison = True
+	else :
+		do_liaison = False
+	return do_liaison
+	
 # TRANSCRIBE:
 # Read line by line and search words in dictionary
 with open('extract.txt') as input_file:
@@ -153,27 +176,12 @@ with open('extract.txt') as input_file:
 				newwords.append(dico[word]) # Transcribe the word
 				nextword = words[i+1]
 				lastletter = word[-1]
-				if (word in plural_nouns) and (nextword in V_adjectives): #NOTE TO SELF: THIS HAS TO BE PUT INTO A FUNCTION!
+				if (lastletter in liaison) and check_liaison(word, nextword): 
 					newwords[i] += liaison[lastletter] # Attach liaison consonant
 					unedited = (word + ' ' + nextword).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
 					unedited = unedited.decode('cp1252').encode('utf-8') # Back to unicode for printing
 					edited = (newwords[i] + ' ' + dico[nextword])
 					print >> f, (str(j+1).ljust(5)+unedited+ edited)
-				elif word in special and nextword in special[word]:
-					newwords[i] += liaison[lastletter] # Attach liaison consonant
-					unedited = (word + ' ' + nextword).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
-					unedited = unedited.decode('cp1252').encode('utf-8') # Back to unicode for printing
-					edited = (newwords[i] + ' ' + dico[nextword])
-					print >> f, (str(j+1).ljust(5)+unedited+ edited)
-				elif word in liaison_words and nextword in dico:
-					firstphon = dico[nextword][0] # Read first phoneme of next word
-					if firstphon in vowels and \
-					nextword not in exceptions_next:
-						newwords[i] += liaison[lastletter] # Attach liaison consonant
-						unedited = (word + ' ' + nextword).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
-						unedited = unedited.decode('cp1252').encode('utf-8') # Back to unicode for printing
-						edited = (newwords[i] + ' ' + dico[nextword])
-						print >> f, (str(j+1).ljust(5)+unedited+ edited)
 			else:
 				newwords.append('#') 
 		newwords.append(full_line[-1])
