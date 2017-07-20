@@ -2,7 +2,6 @@
 # It only saves the nouns for which this gram. categ. is the most frequent for the word
 
 f = open('output_NOMp.txt', 'w')
-#f2 = open('duplicates.txt','w')
 
 freqNOM = {}
 with open('Lexique380.txt') as dic:
@@ -22,4 +21,3 @@ for noun, v in sorted(freqNOM.items()):
 	print >> f, noun		
 	
 f.close()
-#f2.close()
