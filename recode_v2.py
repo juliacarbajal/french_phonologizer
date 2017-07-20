@@ -137,7 +137,7 @@ with open('h_aspire.txt') as Hlist:
 		line = line.strip()
 		h_aspire.append(line)
 			
-exceptions_next = ['et', 'oh', 'euh', 'ah', 'ou'] + h_aspire
+exceptions_next = ['et', 'oh', 'euh', 'ah', 'ou', 'u', 'i', 'où'] + h_aspire
 
 # TRANSCRIBE:
 # Read line by line and search words in dictionary
