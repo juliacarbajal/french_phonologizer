@@ -161,27 +161,30 @@ def check_liaison(current_word, next_word) :
 	else :
 		do_liaison = False
 	return do_liaison
+
+def print_edited(line_index, current_word, next_word, transcribed_word, file_name) :
+	unedited = (current_word + ' ' + next_word).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
+	unedited = unedited.decode('cp1252').encode('utf-8') # Back to unicode for printing
+	edited   = (transcribed_word + ' ' + dico[next_word])
+	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited)
 	
 # TRANSCRIBE:
-# Read line by line and search words in dictionary
+# Read line by line, transcribe from dictionary and apply liaison if appropriate
 with open('extract.txt') as input_file:
 	for j, line in enumerate(input_file):
 		line = line.decode('cp1252').encode('utf-8')
-		newwords = []
+		newwords  = []
 		full_line = line.lower().split()
-		info = full_line[:4]
+		info  = full_line[:4] # ID and age
 		words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
 		for i, word in enumerate(words[:-1]): 
 			if word in dico:
 				newwords.append(dico[word]) # Transcribe the word
 				nextword = words[i+1]
 				lastletter = word[-1]
-				if (lastletter in liaison) and check_liaison(word, nextword): 
+				if (lastletter in liaison) and check_liaison(word, nextword) : 
 					newwords[i] += liaison[lastletter] # Attach liaison consonant
-					unedited = (word + ' ' + nextword).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
-					unedited = unedited.decode('cp1252').encode('utf-8') # Back to unicode for printing
-					edited = (newwords[i] + ' ' + dico[nextword])
-					print >> f, (str(j+1).ljust(5)+unedited+ edited)
+					print_edited(j, word, nextword, newwords[i], f) # Print edited transcription
 			else:
 				newwords.append('#') 
 		newwords.append(full_line[-1])
