@@ -19,7 +19,7 @@ for file in os.listdir(location):
 
 print "Total files found:\t", counter
 
-# Load participants
+# Load participants:
 participants = []
 age = {}
 with open('participants.txt') as Plist:
@@ -31,6 +31,7 @@ with open('participants.txt') as Plist:
 			child_info = aux[5].split('|')
 			age[aux[1]] = child_info[3]
 
+# Read and clean files:
 for file in chafiles:
 	with open(file) as corpus:
 		child_age = age[file]
@@ -41,35 +42,55 @@ for file in chafiles:
 			newline = []
 			line = line.strip()
 			if ((line[0] == '*') and (line[1:4] in participants)) or (continue_next == 1):
-				if print_filename == 1:
-					print >> f, file+' '+child_age+' ',
 				continue_next = 0
-				newline = line.replace('["]','')
+				newline = line.replace('www','*') # Untranscribed material
+				newline = newline.replace('xxx','*') # Unintelligible words
+				newline = newline.replace('yyy','*')
+				newline = newline.replace('xx','*')
+				newline = newline.replace('yy','*')
+				newline = newline.replace('["]','')
 				newline = newline.replace('[*]','')
-				newline = newline.replace('(.)','.')
-				newline = newline.replace('(..)','.')
-				newline = newline.replace('(...)','.')
-				newline = re.sub('\[: .*\]', '', newline) # [: word]
-				newline = re.sub('^\+\<$',' ', newline) # +<
-				newline = re.sub('^\+,$',' ', newline) # +,
-				newline = re.sub('^\+\"$',' ', newline) # +"
-				newline = re.sub('\+{2}$',' ', newline) # ++
-				newline = re.sub('\+\.\.\.','.', newline) # +...
-				newline = re.sub('\+\/\/\.*','.', newline) # +//
-				newline = re.sub('\+\/\.*','.', newline) # +/
-				newline = newline.replace('  ',' ') # Correct any double spaces
+				newline = newline.replace('(.)',',') # Pauses replaced by commas
+				newline = newline.replace('(..)',',')
+				newline = newline.replace('(...)',',')
+				newline = newline.replace('+"/','')
+				newline = re.sub('\[:\s[^\]]*\]', '', newline) # [: smth] This notes the intended word
+				newline = re.sub('\[=\s[^\]]*\]', '', newline) # [= smth] This notes the meaning of a referent
+				newline = re.sub('\[%\s[^\]]*\]', '', newline) # [% smth] This is an annotation.
+				newline = re.sub('\[[^\]]*\]', '', newline) # Delete the rest of the brackets.
+				newline = re.sub('&=[^ ]*', '', newline) # Delete &=word annotations.
+				newline = newline.replace('+<','') # +<
+				newline = newline.replace('+,','') # +,
+				newline = newline.replace('+"','') # +"
+				newline = newline.replace('++','') # ++
+				newline = newline.replace('+...','.') # +...
+				newline = newline.replace('+//','.') # +//
+				newline = newline.replace('+/','.') # +/
+				newline = newline.replace('+',' ') # Separate words joined by +
+				newline = newline.replace(',',' ,') # Add space before comma
+				newline = newline.replace(';',' ;') # Add space before semicollon
+				newline = newline.replace('<','') # < This marks citations, we delete the symbol but keep the citation
+				newline = newline.replace('>','') # >This marks citations, we delete the symbol but keep the citation
+				newline = re.sub('.+',' ', newline) # This is some code for audio files, to discard.
+				newline = re.sub('@.','',newline)
+				
+				newline = ' '.join(newline.split()) # Correct any double or triple spaces
 				newline = newline.replace('\t ','\t') # Correct extra spaces at the beginning
 				newline = newline.replace('\t','') # Erase initial tab
 				if (line[0] == '*'):
-					start_text = 5
+					start_text = 6
 				else:
 					start_text = 0
-				if (line[-1] not in ['.',',','?','!',';',':']):
-					continue_next = 1
-					print_filename = 0
-					print >> f, newline[start_text:], # If line is unfinished (continues in next line) keep printing on same line
-				else:
-					print >> f, newline[start_text:]
-					print_filename = 1
+				text_line = newline[start_text:]
+				if (text_line != '.') and (text_line != '* .'):
+					if (print_filename == 1):
+						print >> f, file+' '+child_age+' ',
+					if (newline[-1] not in ['.',',','?','!',';',':']):
+						continue_next = 1
+						print_filename = 0
+						print >> f, newline[start_text:], # If line is unfinished (continues in next line) keep printing on same line
+					else:
+						print >> f, newline[start_text:]
+						print_filename = 1
 
 f.close()
