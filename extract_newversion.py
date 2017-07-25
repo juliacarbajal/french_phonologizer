@@ -33,11 +33,16 @@ with open('participants.txt') as Plist:
 
 for file in chafiles:
 	with open(file) as corpus:
+		child_age = age[file]
+		child_age = re.sub('[;\.]',' ',child_age)
 		continue_next = 0
+		print_filename = 1
 		for j, line in enumerate(corpus):
 			newline = []
 			line = line.strip()
 			if ((line[0] == '*') and (line[1:4] in participants)) or (continue_next == 1):
+				if print_filename == 1:
+					print >> f, file+' '+child_age+' ',
 				continue_next = 0
 				newline = line.replace('["]','')
 				newline = newline.replace('[*]','')
@@ -54,10 +59,17 @@ for file in chafiles:
 				newline = re.sub('\+\/\.*','.', newline) # +/
 				newline = newline.replace('  ',' ') # Correct any double spaces
 				newline = newline.replace('\t ','\t') # Correct extra spaces at the beginning
+				newline = newline.replace('\t','') # Erase initial tab
+				if (line[0] == '*'):
+					start_text = 5
+				else:
+					start_text = 0
 				if (line[-1] not in ['.',',','?','!',';',':']):
 					continue_next = 1
-					print >> f, newline, # If line is unfinished (continues in next line) keep printing on same line
+					print_filename = 0
+					print >> f, newline[start_text:], # If line is unfinished (continues in next line) keep printing on same line
 				else:
-					print >> f, newline
+					print >> f, newline[start_text:]
+					print_filename = 1
 
 f.close()
