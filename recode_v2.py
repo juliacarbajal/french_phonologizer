@@ -1,8 +1,8 @@
 # This Python file uses the following encoding: utf-8
 import sys # This is not necessary anymore (but I'll keep it as a reminder that I might reintroduce it for batch-processing)
 
-f = open('liaisonv3.txt', 'w')
-foutput = open('outputpruebav3.txt','w')
+f = open('liaison_cases.txt', 'w')
+foutput = open('recoded_with_liaison.txt','w')
 
 # Special symbols to be added to dictionary:
 dico = {}
@@ -43,6 +43,7 @@ liaison['n'] = 'n'
 liaison['d'] = 't'
 liaison['f'] = 'v'
 liaison['x'] = 'z'
+liaison['r'] = 'R'
 
 punctuation = [',', '?', '!', '.', ';', ':']
 
@@ -66,12 +67,15 @@ with open('output_NOMp.txt') as NOMlist:
 			plural_nouns.append(line)
 
 # Mandatory liaison:
-liaison_words = ['un', 'des', 'les', 'ces',\
+liaison_words = ['un', "quelqu'un", 'des', 'les', 'ces',\
                  'mon', 'ton', 'son', 'mes', 'tes', 'ses', 'nos', 'vos', 'leurs',\
-				 'aux', 'aucun', 'tout', 'quels', 'quelles', 'quelques',\
+				 'aux', 'aucun', 'tout', 'toutes', 'quels', 'quelles', 'quelques',\
+				 'lesquels', 'lesquelles', 'auxquels', 'auxquelles', 'desquels', 'desquelles',\
+				 'plusieurs', 'certains', 'certaines', 'autres',\
 				 'on', 'nous', 'vous', 'ils', 'elles',\
-				 'est', 'ont', 'chez', 'dans', 'en', 'sans',\
-				 'plus','très','bien','quand','trop','beaucoup']
+				 'est', 'ont', 'chez', 'dans', 'en', 'sans', 'sous',\
+				 'plus', 'moins', 'très', 'bien', 'trop', 'beaucoup',\
+				 'deux', 'trois', 'vingt', 'cent']
 
 liaison_words = liaison_words + adjectives
 
@@ -132,6 +136,8 @@ special['prenez'] = 'en'
 special['prenons'] = 'en'
 # Others
 special['comment'] = 'allez'
+special['quand'] = 'est'
+special['quant'] = ['à', 'aux']
 
 # Exceptions
 # Words beginning with h-aspiré (list retrieved from wikipedia article: https://fr.wikipedia.org/wiki/H_aspiré)
@@ -141,7 +147,7 @@ with open('h_aspire.txt') as Hlist:
 		line = line.strip()
 		h_aspire.append(line)
 			
-exceptions_next = ['et', 'oh', 'euh', 'ah', 'ou', 'u', 'i', 'où'] + h_aspire
+exceptions_next = ['et', 'oh', 'euh', 'ah', 'ou', 'u', 'i', 'où', 'apparemment'] + h_aspire
 
 
 def check_liaison(all_words, k) : #current_word, next_word, next_word_2) :
