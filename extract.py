@@ -79,6 +79,7 @@ def clean_text(current_line):
 	new_line = new_line.replace(':','')   # Except for :eng, the colon just indicates a stretch in the sound, so we erase it.
 	new_line = new_line.replace("'","' ") # Add a space after apostrophe (we break down words like c'est, l'a, etc)
 	new_line = new_line.replace("aujourd' hui","aujourd'hui") # We correct aujourd'hui (broken in previous line)
+	new_line = new_line.replace("quelqu'  un","quelqu'un")    # We correct quelqu'un/e
 	return new_line
 
 def print_line(current_line, filename):
@@ -115,6 +116,7 @@ for file in chafiles:
 				newline = newline.replace(', .','.')
 				newline = newline.replace(', ,',',')
 				newline = newline.replace('. .','.')
+				
 				# Print:
 				if (continue_line == 1):
 					continue_line = print_line(newline, f)

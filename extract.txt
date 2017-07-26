@@ -1468,7 +1468,7 @@ greg03.cha 1 10 03  et à chaque fois il reprend en disant venir venir pour se r
 greg03.cha 1 10 03  et il a éliminé papy du discours mais c' est en filigrane .
 greg03.cha 1 10 03  c' est à dire la charnière ça c' est fait quand on lui a dit qu' il allait plus venir papy .
 greg03.cha 1 10 03  ah d' accord .
-greg03.cha 1 10 03  mais il dit viens quand il appelle quelqu' un ?
+greg03.cha 1 10 03  mais il dit viens quand il appelle quelqu'un ?
 greg03.cha 1 10 03  euh .
 greg03.cha 1 10 03  je l' ai déjà entendu .
 greg03.cha 1 10 03  fréquemment ?
@@ -2754,11 +2754,11 @@ greg05.cha 2 0 05  des fleurs !
 greg05.cha 2 0 05  y a personne .
 greg05.cha 2 0 05  mais si y a un monsieur qui passe .
 greg05.cha 2 0 05  peut être .
-greg05.cha 2 0 05  oh écoute y a quelqu' un qui arrive .
+greg05.cha 2 0 05  oh écoute y a quelqu'un qui arrive .
 greg05.cha 2 0 05  c' est une madame .
 greg05.cha 2 0 05  tu la vois ?
-greg05.cha 2 0 05  y a quelqu' un qui descend .
-greg05.cha 2 0 05  y a quelqu' un y a personne .
+greg05.cha 2 0 05  y a quelqu'un qui descend .
+greg05.cha 2 0 05  y a quelqu'un y a personne .
 greg05.cha 2 0 05  ah peut être !
 greg05.cha 2 0 05  ah oui j' ai vu la voiture .
 greg05.cha 2 0 05  oui oui .
@@ -3029,7 +3029,7 @@ greg06.cha 2 1 25  oui .
 greg06.cha 2 1 25  ah oui le petit vélo !
 greg06.cha 2 1 25  il est par terre .
 greg06.cha 2 1 25  il a dit quoi là ?
-greg06.cha 2 1 25  y a quelqu' un ?
+greg06.cha 2 1 25  y a quelqu'un ?
 greg06.cha 2 1 25  non .
 greg06.cha 2 1 25  c' est quoi ?
 greg06.cha 2 1 25  oh !
@@ -3468,7 +3468,7 @@ greg07.cha 2 3 01  ça y est ça recommence !
 greg07.cha 2 3 01  qui est ce qui a fait ça encore aux roues ?
 greg07.cha 2 3 01  non c' est pas celle qui était cassée .
 greg07.cha 2 3 01  celle qui était cassée je l' ai laissée là bas .
-greg07.cha 2 3 01  y a encore quelqu' un qui a dû s' asseoir dessus ou quelque chose parce que là ça a été un peu abîmé .
+greg07.cha 2 3 01  y a encore quelqu'un qui a dû s' asseoir dessus ou quelque chose parce que là ça a été un peu abîmé .
 greg07.cha 2 3 01  regarde Adrien la roue est folle maintenant .
 greg07.cha 2 3 01  non parce que là on arrive encore à les faire tourner mais c' est idiot .
 greg07.cha 2 3 01  c' est un très joli jouet et vous arrivez encore à les casser .
@@ -4519,9 +4519,9 @@ greg08.cha 2 5 01  ah c' est ton petit banc .
 greg08.cha 2 5 01  pour faire pipi .
 greg08.cha 2 5 01  alors tu es grand maintenant .
 greg08.cha 2 5 01  il est propre jour et nuit ce garçon de deux ans et quatre mois .
-greg08.cha 2 5 01  je connais quelqu' un qui doit être très content .
+greg08.cha 2 5 01  je connais quelqu'un qui doit être très content .
 greg08.cha 2 5 01  oui oui ça aide .
-greg08.cha 2 5 01  je connais quelqu' un qui doit être très content .
+greg08.cha 2 5 01  je connais quelqu'un qui doit être très content .
 greg08.cha 2 5 01  et moi aussi je suis très content de savoir que Grégoire il est propre jour et nuit .
 greg08.cha 2 5 01  qu' est ce que tu as dit ?
 greg08.cha 2 5 01  il a décidé ça cet été à la .
@@ -4931,7 +4931,7 @@ greg09.cha 2 5 13  le petit garçon glisse sur le toboggan .
 greg09.cha 2 5 13  heuh heuh !
 greg09.cha 2 5 13  oui .
 greg09.cha 2 5 13  qui est ce qui fait aussi ?
-greg09.cha 2 5 13  y a quelqu' un que je connais moi qui sait faire ça aussi .
+greg09.cha 2 5 13  y a quelqu'un que je connais moi qui sait faire ça aussi .
 greg09.cha 2 5 13  Adrien .
 greg09.cha 2 5 13  qui est ce qui monte sur la moto ?
 greg09.cha 2 5 13  oui .
@@ -5361,7 +5361,7 @@ greg09.cha 2 5 13  Grégoire commence à s' endormir .
 greg09.cha 2 5 13  qui est ce qui est là ?
 greg09.cha 2 5 13  tu sais pas .
 greg09.cha 2 5 13  là c' est la soute au charbon là c' est les moteurs .
-greg09.cha 2 5 13  y a quelqu' un qui se lave dans la salle de bains y a une dame qui se repose sur son lit un petit garçon qui écrit y en a un autre qui fait des galipettes sur son lit .
+greg09.cha 2 5 13  y a quelqu'un qui se lave dans la salle de bains y a une dame qui se repose sur son lit un petit garçon qui écrit y en a un autre qui fait des galipettes sur son lit .
 greg09.cha 2 5 13  ça c' est des petits coquins parce qu' on peut tomber quand on fait ça .
 greg09.cha 2 5 13  là c' est Théo qui met ses chaussures .
 greg09.cha 2 5 13  à propos de qui c' est qui il commence à bien maîtriser .
@@ -5393,7 +5393,7 @@ greg09.cha 2 5 13  où est ce que tu vois sa maman ?
 greg09.cha 2 5 13  non y a pas sa maman dans la mer .
 greg09.cha 2 5 13  ça c' est Théo c' est pas la maman c' est le garçon Théo regarde son pantalon à bretelles et son pull rayé .
 greg09.cha 2 5 13  eh oui !
-greg09.cha 2 5 13  y a quelqu' un qui lui a lancé une bouée c' est peut être pas une bouée .
+greg09.cha 2 5 13  y a quelqu'un qui lui a lancé une bouée c' est peut être pas une bouée .
 greg09.cha 2 5 13  non c' est pas Théo .
 greg09.cha 2 5 13  Théo il est là il a plongé dans l' eau .
 greg09.cha 2 5 13  il a dû passer par dessus bord .
@@ -6013,11 +6013,11 @@ greg10.cha 2 5 27  la roue de derrière s' est mouillée d' accord d' accord .
 greg10.cha 2 5 27  et alors elle roulait sur le sable et ça faisait pas des traces ?
 greg10.cha 2 5 27  sur l' escalier ?
 greg10.cha 2 5 27  mais alors ça secouait ?
-greg10.cha 2 5 27  et y avait quelqu' un dans cette jeep ?
+greg10.cha 2 5 27  et y avait quelqu'un dans cette jeep ?
 greg10.cha 2 5 27  tu les connaissais ?
 greg10.cha 2 5 27  qui c' était ?
 greg10.cha 2 5 27  c' était un monsieur .
-greg10.cha 2 5 27  mais il voulait pas écraser quelqu' un ?
+greg10.cha 2 5 27  mais il voulait pas écraser quelqu'un ?
 greg10.cha 2 5 27  ah bon mais tu n' avais pas peur de la jeep .
 greg10.cha 2 5 27  elle était gentille la jeep oui d' accord .
 greg10.cha 2 5 27  elle voulait pas t' écraser elle était pas t' écraser hein .
