@@ -2,7 +2,7 @@ import re
 import os
 
 location = os.getcwd()
-f = open('prueba1.txt','w')
+f = open('prueba2.txt','w')
 
 # Get filenames to analyse:
 chafiles = []
@@ -31,76 +31,84 @@ with open('participants.txt') as Plist:
 			child_info = aux[5].split('|')
 			age[aux[1]] = child_info[3]
 
+def clean_text(current_line):
+	# Annotations:
+	new_line = current_line.replace('www','*') # Untranscribed material
+	new_line = new_line.replace('0','*')       # Untranscribed material
+	new_line = new_line.replace('xxx','*') # Unintelligible words
+	new_line = new_line.replace('yyy','*')
+	new_line = new_line.replace('xx','*')
+	new_line = new_line.replace('yy','*')
+	new_line = new_line.replace('["]','')
+	new_line = new_line.replace('[*]','')
+	new_line = new_line.replace('(.)',',') # Pauses, replaced by commas
+	new_line = new_line.replace('(..)',',')
+	new_line = new_line.replace('(...)',',')
+	new_line = re.sub('\[:\s[^\]]*\]', '', new_line) # [: smth] This notes the intended word
+	new_line = re.sub('\[=\s[^\]]*\]', '', new_line) # [= smth] This notes the meaning of a referent
+	new_line = re.sub('\[%\s[^\]]*\]', '', new_line) # [% smth] This is an annotation.
+	new_line = re.sub('\[[^\]]*\]', '', new_line)    # Delete the rest of the brackets.
+	new_line = re.sub('&=[^ ]*', '', new_line)       # Delete &=word annotations.
+	new_line = new_line.replace(':eng','')           # This marks english words
+	# Punctuation marks:
+	new_line = new_line.replace('+<', '')  # +<
+	new_line = new_line.replace('+,', '')  # +,
+	new_line = new_line.replace('+"/', '') # +"/
+	new_line = new_line.replace('+"', '')  # +"
+	new_line = new_line.replace('++', '')  # ++
+	new_line = new_line.replace('+...', '.') # +...
+	new_line = new_line.replace('+//', '.')  # +//
+	new_line = new_line.replace('+/', '.')   # +/
+	new_line = new_line.replace('+', ' ')  # Separate words joined by +
+	new_line = new_line.replace('_', '-')  # Composed words transcribed with _ replaced by -
+	new_line = new_line.replace(',', ' ,') # Add space before comma
+	new_line = new_line.replace(';', ' ;') # Add space before semicolon
+	new_line = new_line.replace('..', '.') # Correct double stops
+	new_line = new_line.replace('.', ' .') # Add space before stops
+	new_line = new_line.replace('<', '')   # < This marks citations, we delete the symbol but keep the citation
+	new_line = new_line.replace('>', '')   # > This marks citations, we delete the symbol but keep the citation
+	new_line = re.sub('.+',' ', new_line) # This is some code for audio files, to discard.
+	new_line = re.sub('@.','',new_line)
+	new_line = new_line.replace(':','')   # Except for :eng, the colon just indicates a stretch in the sound, so we erase it.
+	new_line = new_line.replace("'","' ") # Add a space after apostrophe (we break down words like c'est, l'a, etc)
+	new_line = new_line.replace("aujourd' hui","aujourd'hui") # We correct aujourd'hui (broken in previous line)
+	return new_line
+
+def print_line(current_line, filename):
+	if (current_line[-1] not in ['.','?','!',';',':']):
+		continue_next = 1
+		print >> f, current_line, # If line is unfinished (continues in next line) keep printing on same line
+	else:
+		print >> f, current_line
+		continue_next = 0
+	return continue_next
+
 # Read and clean files:
 for file in chafiles:
-	with open(file) as corpus:
-		child_age = age[file]
-		child_age = re.sub('[;\.]',' ',child_age)
-		continue_next = 0
-		print_filename = 1
+	child_age = age[file]
+	child_age = re.sub('[;\.]',' ',child_age) # Replace age written as "y;m.d" by "y m d"
+	continue_next = 0
+	with open(file) as corpus:	
 		for j, line in enumerate(corpus):
-			newline = []
 			line = line.strip()
 			if ((line[0] == '*') and (line[1:4] in participants)) or (continue_next == 1):
-				continue_next = 0
 				if (line[0] == '*'):
 					start_text = 6
 				else:
 					start_text = 0
-				newline = line[start_text:]
-				# Annotations:
-				newline = newline.replace('www','*') # Untranscribed material
-				newline = newline.replace('xxx','*') # Unintelligible words
-				newline = newline.replace('yyy','*')
-				newline = newline.replace('xx','*')
-				newline = newline.replace('yy','*')
-				newline = newline.replace('["]','')
-				newline = newline.replace('[*]','')
-				newline = newline.replace('(.)',',') # Pauses replaced by commas
-				newline = newline.replace('(..)',',')
-				newline = newline.replace('(...)',',')
-				newline = re.sub('\[:\s[^\]]*\]', '', newline) # [: smth] This notes the intended word
-				newline = re.sub('\[=\s[^\]]*\]', '', newline) # [= smth] This notes the meaning of a referent
-				newline = re.sub('\[%\s[^\]]*\]', '', newline) # [% smth] This is an annotation.
-				newline = re.sub('\[[^\]]*\]', '', newline) # Delete the rest of the brackets.
-				newline = re.sub('&=[^ ]*', '', newline) # Delete &=word annotations.
-				newline = newline.replace(':eng','') # This marks english words
-				# Punctuation marks:
-				newline = newline.replace('+<','') # +<
-				newline = newline.replace('+,','') # +,
-				newline = newline.replace('+"/','') # +"/
-				newline = newline.replace('+"','') # +"
-				newline = newline.replace('++','') # ++
-				newline = newline.replace('+...','.') # +...
-				newline = newline.replace('+//','.') # +//
-				newline = newline.replace('+/','.') # +/
-				newline = newline.replace('+',' ') # Separate words joined by +
-				newline = newline.replace('_','-') # Composed words transcribed with _ replaced by -
-				newline = newline.replace(',',' ,') # Add space before comma
-				newline = newline.replace(';',' ;') # Add space before semicolon
-				newline = newline.replace('..','.') # Correct double stops
-				newline = newline.replace('.',' .') # Add space before stops
-				newline = newline.replace('<','') # < This marks citations, we delete the symbol but keep the citation
-				newline = newline.replace('>','') # > This marks citations, we delete the symbol but keep the citation
-				newline = re.sub('.+',' ', newline) # This is some code for audio files, to discard.
-				newline = re.sub('@.','',newline)
-				newline = newline.replace(':','') # Except for :eng, the colon just indicates a stretch in the sound, so we erase it.
-				newline = newline.replace("'","' ") # Add a space after apostrophe (we break down words like c'est, l'a, etc)
-				newline = newline.replace("aujourd' hui","aujourd'hui") # We correct aujourd'hui (broken in previous line)
-				# White spaces:
-				newline = ' '.join(newline.split()) # Correct any double or triple spaces
-				newline = newline.replace('\t ','\t') # Correct extra spaces at the beginning
-				newline = newline.replace('\t','') # Erase initial tab
-				
-				if (newline != '.') and (newline != '* .'):
-					if (print_filename == 1):
-						print >> f, file+' '+child_age+' ',
-					if (newline[-1] not in ['.',',','?','!',';',':']):
-						continue_next = 1
-						print_filename = 0
-						print >> f, newline, # If line is unfinished (continues in next line) keep printing on same line
-					else:
-						print >> f, newline
-						print_filename = 1
+				thisline = line[start_text:]
+				newline = clean_text(thisline)
+				# Correct white spaces:
+				newline = newline.split()
+				if (continue_next == 0) and (newline[0]==','): # Note: only do this in first line of a dialog
+					newline = newline[1:] # Get rid of any comma left at the beginning of the line
+				newline = ' '.join(newline)
+				newline = newline.replace(', .','.')
+				# Print:
+				if (continue_next == 1):
+					continue_next = print_line(newline, f)
+				elif (continue_next == 0) and (newline != '.') and (newline != '* .'):
+					print >> f, file+' '+child_age+' ',
+					continue_next = print_line(newline, f)
 
 f.close()
