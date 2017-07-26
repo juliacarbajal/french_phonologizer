@@ -144,14 +144,26 @@ with open('h_aspire.txt') as Hlist:
 exceptions_next = ['et', 'oh', 'euh', 'ah', 'ou', 'u', 'i', 'où'] + h_aspire
 
 
-def check_liaison(current_word, next_word, next_word_2) :
+def check_liaison(all_words, k) : #current_word, next_word, next_word_2) :
 	# This function checks if liaison applies, returns True or False
-	
+	current_word = all_words[k]
+	next_word    = all_words[k+1]
+	next_word_2  = '#'
+	prev_word    = '#'
+	if (current_word not in punctuation) and (next_word not in punctuation) :
+		next_word_2 = all_words[k+2]
+	if (k>0) :
+		prev_word   = all_words[k-1]
+		
 	# Case 1: List of mandatory special cases (see above)
 	if (current_word in special) and (next_word in special[current_word]) :
 		do_liaison = True
-		if (current_word == 'vas') and (next_word_2[-2:] == 'er') :
-			do_liaison = False # Correct 'vas y + infinitif' cases, e.g. vas y arriver
+		# Correct 'tu vas y + infinitif' cases, e.g. tu vas y arriver:
+		if (current_word == 'vas') and ((prev_word == 'tu') or (next_word_2[-2:] in ['er','ir'])) :
+			do_liaison = False 
+		# Correct 'en fait il/elle' cases, 'tout à fait', 'il fait', etc:
+		if (current_word == 'fait') and (prev_word in ['en', 'à', 'il', 'elle', 'i(l)']) :
+			do_liaison = False
 			
 	# Case 2: Mandatory words + any vowel-initial word, excluding words in exception list
 	elif (current_word in liaison_words) and (next_word in dico) :
@@ -176,7 +188,7 @@ def print_edited(line_index, current_word, next_word, transcribed_word, file_nam
 	edited   = (transcribed_word + ' ' + dico[next_word])
 	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited)
 	
-# TRANSCRIBE:
+
 # Read line by line, transcribe from dictionary and apply liaison if appropriate
 with open('extract.txt') as input_file:
 	for j, line in enumerate(input_file):
@@ -187,14 +199,10 @@ with open('extract.txt') as input_file:
 		for i, word in enumerate(words[:-1]): 
 			if word in dico:
 				newwords.append(dico[word]) # Transcribe the word
-				nextword = words[i+1]
-				if (word not in punctuation) and (nextword not in punctuation) :
-					nextword2 = words[i+2]
-				else :
-					nextword2 = '#'
 				lastletter = word[-1]
-				if (lastletter in liaison) and check_liaison(word, nextword, nextword2) : 
+				if (lastletter in liaison) and check_liaison(words, i) :
 					newwords[i] += liaison[lastletter] # Attach liaison consonant
+					nextword = words[i+1]
 					print_edited(j, word, nextword, newwords[i], f)
 			else:
 				newwords.append('#') 
