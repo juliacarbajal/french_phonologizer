@@ -149,8 +149,9 @@ with open('h_aspire.txt') as Hlist:
 			
 exceptions_next = ['et', 'oh', 'euh', 'ah', 'ou', 'u', 'i', 'où', 'apparemment'] + h_aspire
 
+# Functions:
 
-def check_liaison(all_words, k) : #current_word, next_word, next_word_2) :
+def check_liaison(all_words, k) :
 	# This function checks if liaison applies, returns True or False
 	do_liaison = False
 	current_word = all_words[k]
@@ -187,19 +188,32 @@ def check_liaison(all_words, k) : #current_word, next_word, next_word_2) :
 		
 	return do_liaison
 
-def print_edited(line_index, current_word, next_word, transcribed_word, file_name) :
+def print_edited(line_index, all_words, k, transcribed_word, file_name): #(line_index, current_word, next_word, transcribed_word, file_name) :
 	# This function prints a list of all the liaison cases that were applied.
+	current_word = all_words[k]
+	next_word    = all_words[k+1]
 	unedited = (current_word + ' ' + next_word).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
 	unedited = unedited.decode('cp1252').encode('utf-8')                                   # Back to unicode for printing
-	edited   = (transcribed_word + ' ' + dico[next_word])
-	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited)
+	edited   = (transcribed_word + ' ' + dico[next_word]).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
+	edited   = edited.decode('cp1252').encode('utf-8')                                               # Back to unicode for printing
+	
+	if len(all_words)<6:
+		context = all_words
+	elif (len(all_words)>=6) and (k<=2):
+		context = all_words[:6]
+	elif (len(all_words)>=6) and (k>2) and (k<= len(all_words)-2):
+		context = all_words[k-2:k+3]
+	else:
+		context = all_words[-6:]
+	context = ' '.join(context)
+	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
 	
 
 # Read line by line, transcribe from dictionary and apply liaison if appropriate
 with open('extract.txt') as input_file:
-	for j, line in enumerate(input_file):
+	for line_ID, line_text in enumerate(input_file):
 		newwords  = []
-		full_line = line.lower().split()
+		full_line = line_text.lower().split()
 		info  = full_line[:4] # ID and age
 		words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
 		for i, word in enumerate(words[:-1]): 
@@ -209,7 +223,7 @@ with open('extract.txt') as input_file:
 				if (lastletter in liaison) and check_liaison(words, i) :
 					newwords[i] += liaison[lastletter] # Attach liaison consonant
 					nextword = words[i+1]
-					print_edited(j, word, nextword, newwords[i], f)
+					print_edited(line_ID, words, i, newwords[i], f) #(j, word, nextword, newwords[i], f)
 			else:
 				newwords.append('#') 
 		newwords.append(full_line[-1])
