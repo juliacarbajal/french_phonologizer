@@ -225,10 +225,74 @@ with open('extract.txt') as input_file:
 				if (lastletter in liaison) and check_liaison(words, i) :
 					newwords[i] += liaison[lastletter] # Attach liaison consonant
 					nextword = words[i+1]
-					print_edited(line_ID, words, i, newwords[i], f) #(j, word, nextword, newwords[i], f)
+					print_edited(line_ID, words, i, newwords[i], f)
 			else:
 				newwords.append('#') 
 		newwords.append(full_line[-1])
 		print >> foutput , ' '.join(info + newwords) # Concatenate with ID and age and print
 f.close()
 foutput.close()
+
+# LIQUID DELETION
+f2 = open('liquid_deletion_cases.txt', 'w')
+foutput2 = open('recoded_L_D.txt', 'w')
+
+# Symbols used as in Lexique: http://www.lexique.org/outils/Manuel_Lexique.htm#_Toc108519023
+obstruents = ['p', 'b', 't', 'd', 'k', 'g', 'f', 'v', 's', 'z', 'S', 'Z']
+liquids = ['l', 'R']
+nasals = ['m', 'n', 'N']
+consonants = obstruents + liquids + nasals
+
+def check_liquid_deletion(all_words, k) :
+	do_liquid_deletion = False
+	current_word = all_words[k]
+	next_word = all_words[k+1]
+	is_OL_cluster = (len(current_word)>2) and (current_word[-2] in obstruents) and (current_word[-1] in liquids)
+	if (is_OL_cluster) and (next_word[0] in consonants):
+		do_liquid_deletion = True
+	return do_liquid_deletion
+	
+def print_liquid_del(line_index, all_words_phon, k, all_words_ort, transcribed_word, file_name):
+	# This function prints a list of all the liaison cases that were applied.
+	current_word = all_words_phon[k]
+	next_word    = all_words_phon[k+1]
+	unedited = (current_word + ' ' + next_word).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
+	unedited = unedited.decode('cp1252').encode('utf-8')                                   # Back to unicode for printing
+	edited   = (transcribed_word + ' ' + next_word).decode('utf-8').encode('cp1252').ljust(30)
+	edited   = edited.decode('cp1252').encode('utf-8')
+	# Add a part of the sentence to clarify the context:
+	if len(all_words_ort)<6:
+		context = all_words_ort
+	elif (len(all_words_ort)>=6) and (k<=2):
+		context = all_words_ort[:6]
+	elif (len(all_words_ort)>=6) and (k>2) and (k<= len(all_words_ort)-2):
+		context = all_words_ort[k-2:k+3]
+	else:
+		context = all_words_ort[-6:]
+	context = ' '.join(context)
+	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
+
+text_ort = []
+with open('extract.txt') as original_file:
+	for line_ID, line_text in enumerate(original_file):
+		text_ort.append(line_text.strip())
+		
+with open('recoded_with_liaison.txt') as input_file:
+	
+		for line_ID, line_text in enumerate(input_file):
+			newwords  = []
+			full_line = line_text.split()
+			full_line_ort = text_ort[line_ID].split()
+			info  = full_line[:4] # ID and age
+			words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
+			words_ort = full_line_ort[4:]
+			for i, word in enumerate(words[:-1]): 
+				newwords.append(word)
+				if (word != '#') and check_liquid_deletion(words, i) :
+					newwords[i] = word[:-1] # Delete liquid
+					nextword = words[i+1]
+					print_liquid_del(line_ID, words, i, words_ort, newwords[i], f2)
+			newwords.append(full_line[-1])
+			print >> foutput2 , ' '.join(info + newwords) # Concatenate with ID and age and print
+f2.close()
+foutput2.close()
