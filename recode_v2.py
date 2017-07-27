@@ -77,7 +77,7 @@ liaison_words = ['un', "quelqu'un", 'des', 'les', 'ces',\
 				 'plus', 'moins', 'très', 'bien', 'trop', 'beaucoup',\
 				 'deux', 'trois', 'vingt', 'cent']
 
-liaison_words = liaison_words + adjectives
+#liaison_words = liaison_words + adjectives
 
 # Special cases:
 special = {}
@@ -152,38 +152,38 @@ exceptions_next = ['et', 'oh', 'euh', 'ah', 'ou', 'u', 'i', 'où', 'apparemment'
 
 def check_liaison(all_words, k) : #current_word, next_word, next_word_2) :
 	# This function checks if liaison applies, returns True or False
+	do_liaison = False
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
-	next_word_2  = '#'
-	prev_word    = '#'
-	if (current_word not in punctuation) and (next_word not in punctuation) :
-		next_word_2 = all_words[k+2]
-	if (k>0) :
-		prev_word   = all_words[k-1]
-		
-	# Case 1: List of mandatory special cases (see above)
-	if (current_word in special) and (next_word in special[current_word]) :
-		do_liaison = True
-		# Correct 'tu vas y + infinitif' cases, e.g. tu vas y arriver:
-		if (current_word == 'vas') and ((prev_word == 'tu') or (next_word_2[-2:] in ['er','ir'])) :
-			do_liaison = False 
-		# Correct 'en fait il/elle' cases, 'tout à fait', 'il fait', etc:
-		if (current_word == 'fait') and (prev_word in ['en', 'à', 'il', 'elle', 'i(l)']) :
-			do_liaison = False
+	next_word_starts_with_vowel = (next_word in dico) and (next_word not in punctuation) and (dico[next_word][0] in vowels)
+	
+	if (current_word not in punctuation) and (next_word_starts_with_vowel):
+		next_word_2  = all_words[k+2]
+		prev_word    = '#'
+		if (k>0) :
+			prev_word   = all_words[k-1]
 			
-	# Case 2: Mandatory words + any vowel-initial word, excluding words in exception list
-	elif (current_word in liaison_words) and (next_word in dico) :
-		firstphon = dico[next_word][0] # Read first phoneme of next word
-		if (firstphon in vowels) and (next_word not in exceptions_next) :
+		# Case 1: List of mandatory special cases (see above)
+		if (current_word in special) and (next_word in special[current_word]) :
 			do_liaison = True
-		else :
-			do_liaison = False
-			
-	# Case 3: Plural noun + vowel-initial adjective
-	elif (current_word in plural_nouns) and (next_word in V_adjectives) :
-		do_liaison = True
-	else :
-		do_liaison = False
+			# Correct 'tu vas y + infinitif' cases:
+			if (current_word == 'vas') and ((prev_word == 'tu') or (next_word_2[-2:] in ['er','ir'])) :
+				do_liaison = False 
+			# Correct 'en fait il/elle' cases, 'tout à fait', 'il fait', etc:
+			if (current_word == 'fait') and (prev_word in ['en', 'à', 'il', 'elle', 'i(l)']) :
+				do_liaison = False
+				
+		# Case 2: Mandatory words + any vowel-initial word, excluding words in exception list
+		elif (current_word in liaison_words) and (next_word not in exceptions_next):
+			do_liaison = True
+				
+		# Case 3: Plural noun + vowel-initial adjective
+		elif (current_word in plural_nouns) and (next_word in V_adjectives) :
+			do_liaison = True
+
+		# Case 4: Adjectives + vowel-initial words (Note: should probably constrain to vowel-initial nouns)
+		elif (current_word in adjectives) and (next_word not in exceptions_next) and (next_word not in ['il', 'elle', 'un', 'une']) :
+			do_liaison = True
 		
 	return do_liaison
 
