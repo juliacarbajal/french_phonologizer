@@ -254,11 +254,12 @@ def check_liquid_deletion(all_words, k) :
 	
 def print_liquid_del(line_index, all_words_phon, k, all_words_ort, transcribed_word, file_name):
 	# This function prints a list of all the liaison cases that were applied.
-	current_word = all_words_phon[k]
-	next_word    = all_words_phon[k+1]
-	unedited = (current_word + ' ' + next_word).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
+	current_word_ort = all_words_ort[k]
+	next_word_ort    = all_words_ort[k+1]
+	next_word_phon    = all_words_phon[k+1]
+	unedited = (current_word_ort + ' ' + next_word_ort).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
 	unedited = unedited.decode('cp1252').encode('utf-8')                                   # Back to unicode for printing
-	edited   = (transcribed_word + ' ' + next_word).decode('utf-8').encode('cp1252').ljust(30)
+	edited   = (transcribed_word + ' ' + next_word_phon).decode('utf-8').encode('cp1252').ljust(30)
 	edited   = edited.decode('cp1252').encode('utf-8')
 	# Add a part of the sentence to clarify the context:
 	if len(all_words_ort)<6:
