@@ -58,6 +58,8 @@ with open('output_ADJ.txt') as ADJlist:
 		if line[-1] in liaison: 
 			adjectives.append(line)
 
+adjectives = adjectives + ['deux', 'trois', 'vingt', 'cent']
+
 # Load the plural nouns:
 plural_nouns = []
 with open('output_NOMp.txt') as NOMlist:
@@ -74,10 +76,8 @@ liaison_words = ['un', "quelqu'un", 'des', 'les', 'ces',\
 				 'plusieurs', 'certains', 'certaines', 'autres',\
 				 'on', 'nous', 'vous', 'ils', 'elles',\
 				 'est', 'ont', 'chez', 'dans', 'en', 'sans', 'sous',\
-				 'plus', 'moins', 'très', 'bien', 'trop', 'beaucoup',\
-				 'deux', 'trois', 'vingt', 'cent']
+				 'plus', 'moins', 'très', 'bien', 'trop', 'beaucoup']
 
-#liaison_words = liaison_words + adjectives
 
 # Special cases:
 special = {}
@@ -147,7 +147,7 @@ with open('h_aspire.txt') as Hlist:
 		line = line.strip()
 		h_aspire.append(line)
 			
-exceptions_next = ['et', 'oh', 'euh', 'ah', 'ou', 'u', 'i', 'où', 'apparemment'] + h_aspire
+exceptions_next = ['et', 'oh', 'euh', 'hum', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends'] + h_aspire
 
 # Functions:
 
@@ -177,26 +177,28 @@ def check_liaison(all_words, k) :
 		# Case 2: Mandatory words + any vowel-initial word, excluding words in exception list
 		elif (current_word in liaison_words) and (next_word not in exceptions_next):
 			do_liaison = True
+			if (current_word == 'aux') and (next_word == 'à'):
+				do_liaison = False
 				
 		# Case 3: Plural noun + vowel-initial adjective
 		elif (current_word in plural_nouns) and (next_word in V_adjectives) :
 			do_liaison = True
 
 		# Case 4: Adjectives + vowel-initial words (Note: should probably constrain to vowel-initial nouns)
-		elif (current_word in adjectives) and (next_word not in exceptions_next) and (next_word not in ['il', 'elle', 'un', 'une']) :
+		elif (current_word in adjectives) and (next_word not in exceptions_next) and (next_word not in ['il', 'elle', 'un', 'une', 'en', 'alors', 'à', 'écoutez', 'écoute']) :
 			do_liaison = True
 		
 	return do_liaison
 
-def print_edited(line_index, all_words, k, transcribed_word, file_name): #(line_index, current_word, next_word, transcribed_word, file_name) :
+def print_edited(line_index, all_words, k, transcribed_word, file_name):
 	# This function prints a list of all the liaison cases that were applied.
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
 	unedited = (current_word + ' ' + next_word).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
 	unedited = unedited.decode('cp1252').encode('utf-8')                                   # Back to unicode for printing
-	edited   = (transcribed_word + ' ' + dico[next_word]).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
-	edited   = edited.decode('cp1252').encode('utf-8')                                               # Back to unicode for printing
-	
+	edited   = (transcribed_word + ' ' + dico[next_word]).decode('utf-8').encode('cp1252').ljust(30)
+	edited   = edited.decode('cp1252').encode('utf-8')
+	# Add a part of the sentence to clarify the context:
 	if len(all_words)<6:
 		context = all_words
 	elif (len(all_words)>=6) and (k<=2):
