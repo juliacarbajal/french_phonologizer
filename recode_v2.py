@@ -233,6 +233,7 @@ with open('extract.txt') as input_file:
 f.close()
 foutput.close()
 
+
 # LIQUID DELETION
 f2 = open('liquid_deletion_cases.txt', 'w')
 foutput2 = open('recoded_L_D.txt', 'w')
@@ -252,7 +253,7 @@ def check_liquid_deletion(all_words, k) :
 		do_liquid_deletion = True
 	return do_liquid_deletion
 	
-def print_liquid_del(line_index, all_words_phon, k, all_words_ort, transcribed_word, file_name):
+def print_applied_cases(line_index, all_words_phon, k, all_words_ort, transcribed_word, file_name):
 	# This function prints a list of all the liaison cases that were applied.
 	current_word_ort = all_words_ort[k]
 	next_word_ort    = all_words_ort[k+1]
@@ -292,8 +293,55 @@ with open('recoded_with_liaison.txt') as input_file:
 				if (word != '#') and check_liquid_deletion(words, i) :
 					newwords[i] = word[:-1] # Delete liquid
 					nextword = words[i+1]
-					print_liquid_del(line_ID, words, i, words_ort, newwords[i], f2)
+					print_applied_cases(line_ID, words, i, words_ort, newwords[i], f2)
 			newwords.append(full_line[-1])
 			print >> foutput2 , ' '.join(info + newwords) # Concatenate with ID and age and print
 f2.close()
 foutput2.close()
+
+
+# SCHWA INSERTION
+
+f3 = open('schwa_insertion_cases.txt', 'w')
+foutput3 = open('recoded_L_D_S.txt', 'w')
+
+def check_C_cluster(word_phon,onset_or_coda):
+	is_C_cluster = False
+	if len(word_phon)>2 :
+		if onset_or_coda == 'coda':
+			phon1 = word_phon[-2]
+			phon2 = word_phon[-1]
+		elif onset_or_coda == 'onset':
+			phon1 = word_phon[0]
+			phon2 = word_phon[1]
+		if (phon1 in consonants) and (phon2 in consonants):
+			is_C_cluster = True
+	return is_C_cluster
+			
+def check_schwa_insertion(all_words, k) :
+	do_insert_schwa = False
+	current_word = all_words[k]
+	next_word    = all_words[k+1]
+	if check_C_cluster(current_word,'coda') and check_C_cluster(next_word,'onset'):
+		do_insert_schwa = True
+	return do_insert_schwa
+
+with open('recoded_L_D.txt') as input_file:
+	for line_ID, line_text in enumerate(input_file):
+		newwords  = []
+		full_line = line_text.split()
+		full_line_ort = text_ort[line_ID].split()
+		info  = full_line[:4] # ID and age
+		words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
+		words_ort = full_line_ort[4:]
+		for i, word in enumerate(words[:-1]): 
+			newwords.append(word)
+			if (word != '#') and check_schwa_insertion(words, i) :
+				newwords[i] += '°' # Delete liquid
+				nextword = words[i+1]
+				print_applied_cases(line_ID, words, i, words_ort, newwords[i], f3)
+		newwords.append(full_line[-1])
+		print >> foutput3 , ' '.join(info + newwords) # Concatenate with ID and age and print
+	
+f3.close()
+foutput3.close()
