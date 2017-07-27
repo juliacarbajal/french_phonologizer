@@ -32,7 +32,7 @@ with open('french.dic') as dic:
 			dico[aux[0]] = aux[1]
 
 # Liaison vowels and consonants
-vowels = ['a','i','e','E','o','O','u','y','§','1','5','2','9','@']
+vowels = ['a','i','e','E','o','O','u','y','§','1','5','2','9','@','°','3']
 
 liaison = {}
 liaison['s'] = 'z'
@@ -224,7 +224,7 @@ with open('extract.txt') as input_file:
 				lastletter = word[-1]
 				if (lastletter in liaison) and check_liaison(words, i) :
 					newwords[i] += liaison[lastletter] # Attach liaison consonant
-					nextword = words[i+1]
+					#nextword = words[i+1]
 					print_edited(line_ID, words, i, newwords[i], f)
 			else:
 				newwords.append('#') 
@@ -292,7 +292,7 @@ with open('recoded_with_liaison.txt') as input_file:
 				newwords.append(word)
 				if (word != '#') and check_liquid_deletion(words, i) :
 					newwords[i] = word[:-1] # Delete liquid
-					nextword = words[i+1]
+					#nextword = words[i+1]
 					print_applied_cases(line_ID, words, i, words_ort, newwords[i], f2)
 			newwords.append(full_line[-1])
 			print >> foutput2 , ' '.join(info + newwords) # Concatenate with ID and age and print
@@ -337,11 +337,73 @@ with open('recoded_L_D.txt') as input_file:
 		for i, word in enumerate(words[:-1]): 
 			newwords.append(word)
 			if (word != '#') and check_schwa_insertion(words, i) :
-				newwords[i] += '°' # Delete liquid
-				nextword = words[i+1]
+				newwords[i] += '°' # Add schwa
+				#nextword = words[i+1]
 				print_applied_cases(line_ID, words, i, words_ort, newwords[i], f3)
 		newwords.append(full_line[-1])
 		print >> foutput3 , ' '.join(info + newwords) # Concatenate with ID and age and print
 	
 f3.close()
 foutput3.close()
+
+
+# ENCHAINEMENT
+
+f4 = open('enchainement_cases.txt', 'w')
+foutput4 = open('recoded_L_D_S_E.txt', 'w')
+			
+def check_enchainement(all_words, k) :
+	do_enchainement = False
+	current_word = all_words[k]
+	next_word    = all_words[k+1]
+	if (current_word[-1] in (consonants + ["'"])) and (next_word[0] in vowels):
+		do_enchainement = True
+	return do_enchainement
+
+def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcribed_word_2, file_name):
+	# This function prints a list of all the liaison cases that were applied.
+	current_word_ort = all_words_ort[k]
+	next_word_ort    = all_words_ort[k+1]
+	unedited = (current_word_ort + ' ' + next_word_ort).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
+	unedited = unedited.decode('cp1252').encode('utf-8')                                   # Back to unicode for printing
+	edited   = (transcribed_word + ' ' + transcribed_word_2).decode('utf-8').encode('cp1252').ljust(30)
+	edited   = edited.decode('cp1252').encode('utf-8')
+	if (edited[0] == ' '):
+		edited = edited[1:] # Correct empty spaces when the first word was absorbed fully by second word
+	# Add a part of the sentence to clarify the context:
+	if len(all_words_ort)<6:
+		context = all_words_ort
+	elif (len(all_words_ort)>=6) and (k<=2):
+		context = all_words_ort[:6]
+	elif (len(all_words_ort)>=6) and (k>2) and (k<= len(all_words_ort)-2):
+		context = all_words_ort[k-2:k+3]
+	else:
+		context = all_words_ort[-6:]
+	context = ' '.join(context)
+	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
+	
+with open('recoded_L_D_S.txt') as input_file:
+	for line_ID, line_text in enumerate(input_file):
+		newwords  = []
+		full_line = line_text.split()
+		full_line_ort = text_ort[line_ID].split()
+		info  = full_line[:4] # ID and age
+		newwords = full_line[4:] # Start reading in 5th column, first 4 are ID and age
+		words_ort = full_line_ort[4:]
+		for i, word in enumerate(newwords[:-1]): 
+			if (word != '#') and check_enchainement(newwords, i) :
+				currentword = newwords[i]
+				final_consonant = word[-1]
+				if final_consonant != "'":
+					newwords[i] = currentword[:-1] # Enchainement
+					newwords[i+1] = final_consonant + newwords[i+1]
+				else:
+					newwords[i] = currentword[:-2] # Enchainement
+					newwords[i+1] = currentword[-2:] + newwords[i+1]
+					newwords[i+1] = newwords[i+1].replace("'",'') # Erase the apostrophe
+				print_enchainement(line_ID, i, words_ort, newwords[i], newwords[i+1], f4)
+		newwords = filter(None, newwords)
+		print >> foutput4 , ' '.join(info + newwords) # Concatenate with ID and age and print
+	
+f4.close()
+foutput4.close()
