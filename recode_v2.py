@@ -67,78 +67,7 @@ with open('output_NOMp.txt') as NOMlist:
 		line = line.strip()
 		if line[-1] in liaison: # Only nouns finishing in a liaison consonant (this only excludes very few cases that don't finish in s or x)
 			plural_nouns.append(line)
-
-# Mandatory liaison:
-liaison_words = ['un', "quelqu'un", 'des', 'les', 'ces',\
-                 'mon', 'ton', 'son', 'mes', 'tes', 'ses', 'nos', 'vos', 'leurs',\
-				 'aux', 'aucun', 'tout', 'toutes', 'quels', 'quelles', 'quelques',\
-				 'lesquels', 'lesquelles', 'auxquels', 'auxquelles', 'desquels', 'desquelles',\
-				 'plusieurs', 'certains', 'certaines', 'autres',\
-				 'on', 'nous', 'vous', 'ils', 'elles',\
-				 'est', 'ont', 'chez', 'dans', 'en', 'sans', 'sous',\
-				 'plus', 'moins', 'très', 'bien', 'trop', 'beaucoup']
-
-
-# Special cases:
-special = {}
-# Modal verbs in clitic groups:
-special['fait'] = ['il','elle','on']
-special['veut'] = ['il','elle','on']
-special['peut'] = ['il','elle','on','être']
-special['doit'] = ['il','elle','on']
-special['sait'] = ['il','elle','on']
-special['vaut'] = ['il','elle','on']
-special['font']    = ['ils','elles']
-special['veulent'] = ['ils','elles']
-special['peuvent'] = ['ils','elles']
-special['doivent'] = ['ils','elles']
-special['savent']  = ['ils','elles']
-special['valent']  = ['ils','elles']
-special['faisait'] = ['il','elle','on']
-special['voulait'] = ['il','elle','on']
-special['pouvait'] = ['il','elle','on']
-special['devait']  = ['il','elle','on']
-special['savait']  = ['il','elle','on']
-special['valait']  = ['il','elle','on']
-special['faisaient'] = ['ils','elles']
-special['voulaient'] = ['ils','elles']
-special['pouvaient'] = ['ils','elles']
-special['devaient']  = ['ils','elles']
-special['savaient']  = ['ils','elles']
-special['valaient']  = ['ils','elles']
-special['faudrait']  = ['il','elle','on']
-special['voudrait'] = ['il','elle','on']
-special['pourrait'] = ['il','elle','on']
-special['devrait']  = ['il','elle','on']
-special['saurait']  = ['il','elle','on']
-special['vaudrait'] = ['il','elle','on']
-special['faudraient'] = ['ils','elles']
-special['voudraient'] = ['ils','elles']
-special['pourraient'] = ['ils','elles']
-special['devraient']  = ['ils','elles']
-special['sauraient']  = ['ils','elles']
-special['vaudraient'] = ['ils','elles']
-# Auxiliaries in clitic groups:
-special['était']  = ['il','elle','on']
-special['serait'] = ['il','elle','on']
-special['allait'] = ['il','elle','on']
-special['irait']  = ['il','elle','on']
-special['sont']     = ['ils','elles']
-special['étaient']  = ['ils','elles']
-special['seraient'] = ['ils','elles']
-special['allaient'] = ['ils','elles']
-special['iraient']  = ['ils','elles']
-special['vas'] = 'y'
-special['allez'] = 'y'
-special['allons'] = 'y'
-special['prends'] = 'en'
-special['prenez'] = 'en'
-special['prenons'] = 'en'
-# Others
-special['comment'] = 'allez'
-special['quand'] = 'est'
-special['quant'] = ['à', 'aux']
-
+			
 # Exceptions
 # Words beginning with h-aspiré (list retrieved from wikipedia article: https://fr.wikipedia.org/wiki/H_aspiré)
 h_aspire = []
@@ -148,6 +77,130 @@ with open('h_aspire.txt') as Hlist:
 		h_aspire.append(line)
 			
 exceptions_next = ['et', 'oh', 'euh', 'hum', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends'] + h_aspire
+
+# Mandatory liaison:
+#liaison_words = ['un', , 'des', 'les', 'ces',\
+#                 'mon', 'ton', 'son', 'mes', 'tes', 'ses', 'nos', 'vos', 'leurs',\
+#				 'aux', 'aucun', 'tout', 'toutes', 'quels', 'quelles', 'quelques',\
+#				 'lesquels', 'lesquelles', 'auxquels', 'auxquelles', 'desquels', 'desquelles',\
+#				 'plusieurs', 'certains', 'certaines', 'autres',\
+#				 'on', 'nous', 'vous', 'ils', 'elles',\
+#				 'est', 'ont', 'chez', 'dans', 'en', 'sans', 'sous',\
+#				 'plus', 'moins', 'très', 'bien', 'trop', 'beaucoup']
+
+# Cases that apply always except if followed by specific items:
+always_except = {}
+always_except['un'] = exceptions_next
+always_except["quelqu'un"] = exceptions_next
+always_except['les'] = exceptions_next
+always_except['des'] = exceptions_next
+always_except['ces'] = exceptions_next
+always_except['mon'] = exceptions_next
+always_except['ton'] = exceptions_next
+always_except['son'] = exceptions_next
+always_except['mes'] = exceptions_next
+always_except['tes'] = exceptions_next
+always_except['ses'] = exceptions_next
+always_except['nos'] = exceptions_next
+always_except['vos'] = exceptions_next
+always_except['leurs'] = exceptions_next
+always_except['aux'] = exceptions_next
+always_except['aucun'] = exceptions_next
+always_except['tout'] = exceptions_next
+always_except['toutes'] = exceptions_next
+always_except['quels'] = exceptions_next
+always_except['quelles'] = exceptions_next
+always_except['quelques'] = exceptions_next
+always_except['lesquels'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
+always_except['lesquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
+always_except['auxquels'] = exceptions_next
+always_except['auxquelles'] = exceptions_next
+always_except['desquels'] = exceptions_next
+always_except['desquelles'] = exceptions_next
+always_except['plusieurs'] = exceptions_next
+always_except['certains'] = exceptions_next
+always_except['certaines'] = exceptions_next
+always_except['autres'] = exceptions_next
+always_except['on'] = exceptions_next
+always_except['nous'] = exceptions_next
+always_except['vous'] = exceptions_next
+always_except['ils'] = exceptions_next
+always_except['elles'] = exceptions_next
+always_except['est'] = exceptions_next
+always_except['ont'] = exceptions_next
+always_except['chez'] = exceptions_next
+always_except['dans'] = exceptions_next
+always_except['en'] = exceptions_next
+always_except['sans'] = exceptions_next
+always_except['sous'] = exceptions_next
+always_except['plus'] = exceptions_next
+always_except['moins'] = exceptions_next
+always_except['très'] = exceptions_next
+always_except['bien'] = exceptions_next + ['écoutez', 'écoute']
+always_except['trop'] = exceptions_next
+always_except['beaucoup'] = exceptions_next
+
+
+# Cases that apply only if followed by specific items:
+only_before = {}
+# Modal verbs in clitic groups:
+only_before['fait'] = ['il','elle','on']
+only_before['veut'] = ['il','elle','on']
+only_before['peut'] = ['il','elle','on','être']
+only_before['doit'] = ['il','elle','on']
+only_before['sait'] = ['il','elle','on']
+only_before['vaut'] = ['il','elle','on']
+only_before['font']    = ['ils','elles']
+only_before['veulent'] = ['ils','elles']
+only_before['peuvent'] = ['ils','elles']
+only_before['doivent'] = ['ils','elles']
+only_before['savent']  = ['ils','elles']
+only_before['valent']  = ['ils','elles']
+only_before['faisait'] = ['il','elle','on']
+only_before['voulait'] = ['il','elle','on']
+only_before['pouvait'] = ['il','elle','on']
+only_before['devait']  = ['il','elle','on']
+only_before['savait']  = ['il','elle','on']
+only_before['valait']  = ['il','elle','on']
+only_before['faisaient'] = ['ils','elles']
+only_before['voulaient'] = ['ils','elles']
+only_before['pouvaient'] = ['ils','elles']
+only_before['devaient']  = ['ils','elles']
+only_before['savaient']  = ['ils','elles']
+only_before['valaient']  = ['ils','elles']
+only_before['faudrait']  = ['il','elle','on']
+only_before['voudrait'] = ['il','elle','on']
+only_before['pourrait'] = ['il','elle','on']
+only_before['devrait']  = ['il','elle','on']
+only_before['saurait']  = ['il','elle','on']
+only_before['vaudrait'] = ['il','elle','on']
+only_before['faudraient'] = ['ils','elles']
+only_before['voudraient'] = ['ils','elles']
+only_before['pourraient'] = ['ils','elles']
+only_before['devraient']  = ['ils','elles']
+only_before['sauraient']  = ['ils','elles']
+only_before['vaudraient'] = ['ils','elles']
+# Auxiliaries in clitic groups:
+only_before['était']  = ['il','elle','on']
+only_before['serait'] = ['il','elle','on']
+only_before['allait'] = ['il','elle','on']
+only_before['irait']  = ['il','elle','on']
+only_before['sont']     = ['ils','elles']
+only_before['étaient']  = ['ils','elles']
+only_before['seraient'] = ['ils','elles']
+only_before['allaient'] = ['ils','elles']
+only_before['iraient']  = ['ils','elles']
+only_before['vas'] = 'y'
+only_before['allez'] = 'y'
+only_before['allons'] = 'y'
+only_before['prends'] = 'en'
+only_before['prenez'] = 'en'
+only_before['prenons'] = 'en'
+# Others
+only_before['comment'] = 'allez'
+only_before['quand'] = 'est'
+only_before['quant'] = ['à', 'aux']
+
 
 # Functions:
 
@@ -164,8 +217,8 @@ def check_liaison(all_words, k) :
 		if (k>0) :
 			prev_word   = all_words[k-1]
 			
-		# Case 1: List of mandatory special cases (see above)
-		if (current_word in special) and (next_word in special[current_word]) :
+		# Case 1: List of cases that apply only before specific items (see above)
+		if (current_word in only_before) and (next_word in only_before[current_word]) :
 			do_liaison = True
 			# Correct 'tu vas y + infinitif' cases:
 			if (current_word == 'vas') and ((prev_word == 'tu') or (next_word_2[-2:] in ['er','ir'])) :
@@ -174,8 +227,8 @@ def check_liaison(all_words, k) :
 			if (current_word == 'fait') and (prev_word in ['en', 'à', 'il', 'elle', 'i(l)']) :
 				do_liaison = False
 				
-		# Case 2: Mandatory words + any vowel-initial word, excluding words in exception list
-		elif (current_word in liaison_words) and (next_word not in exceptions_next):
+		# Case 2: List of cases that apply always except if followed by specific items
+		elif (current_word in always_except) and (next_word not in always_except[current_word]):
 			do_liaison = True
 			if (current_word == 'aux') and (next_word == 'à'):
 				do_liaison = False

@@ -138,7 +138,7 @@ greg01.cha 1 9 18 e mER-si s' e tu-ZuR .
 greg01.cha 1 9 18 2 mEm # .
 greg01.cha 1 9 18 il l a 1 p2 a-b@-do-ne m5t-n@ paRs k il gR@-di , b§ .
 greg01.cha 1 9 18 mE 2 .
-greg01.cha 1 9 18 paR-mi le pR°-mjER Soz k il a So-pe d@ la ko-my-ni-ka-sj§ i a-vE o R°-vwaR b§-swaR , mER-si # de Soz kOm sa tRE po-li puR lE-kElz il n a sy-bi o-k1 dRE-saZ .
+greg01.cha 1 9 18 paR-mi le pR°-mjER Soz k il a So-pe d@ la ko-my-ni-ka-sj§ i a-vE o R°-vwaR b§-swaR , mER-si # de Soz kOm sa tRE po-li puR lE-kEl il n a sy-bi o-k1 dRE-saZ .
 greg01.cha 1 9 18 il n2 dis-t5g pa le ka-mj§ .
 greg01.cha 1 9 18 le vwa-tyR s' e vwa-tyR u bj5 a-lOR # .
 greg01.cha 1 9 18 a # ?
@@ -241,7 +241,7 @@ greg01.cha 1 9 18 il fE yn Soz k il a fEt il i a de-Za l§-t@ .
 greg01.cha 1 9 18 s' e lez e-S@Z d2 bal .
 greg01.cha 1 9 18 s' et a diR , il e ka-pabl d2 la-Se le tRyk k il a tREz @-vi d a-vwaR , d2 le la-Se d2 lez @-vwa-je .
 greg01.cha 1 9 18 e p8i il sE k il va le Ra-vwaR a-pRE , s2 ki e k@ mEm 1 p°-ti p2 ply , Z2 di-RE 1 p2 plyz e-la-bo-Re k2 d2 nu fi-le de p9zl .
-greg01.cha 1 9 18 e s2 k il nOm bo-ku le ZwE a-vEk lE-kElz il Zu ?
+greg01.cha 1 9 18 e s2 k il nOm bo-ku le ZwE a-vEk lE-kEl il Zu ?
 greg01.cha 1 9 18 wi puR sER-tEn Soz mE a p2 pRE tu-ZuR puR le mEm Soz , 2 il paRl de pu-pe il paRl de vwa-tyR , de bi-zu-nuRs a-lOR s' e # b§ , s§ la-p5 e-vi-da-m@ .
 greg01.cha 1 9 18 e il ko-m@t .
 greg01.cha 1 9 18 m5t-n@ Z2 tRuv k il s2 mE d2 plyz @ ply , syR-tu k@ Z2 s8i d@ la pjEs a ko-m@-te l ak-sj§ .
@@ -3148,7 +3148,7 @@ greg06.cha 2 1 25 R°-gaRd .
 greg06.cha 2 1 25 k e s2 ki pas d@ la Ry ?
 greg06.cha 2 1 25 e m5t-n@ ?
 greg06.cha 2 1 25 @-kOR .
-greg06.cha 2 1 25 bj5n e-kut .
+greg06.cha 2 1 25 bj5 e-kut .
 greg06.cha 2 1 25 R@-tR§ si ty v2 bj5 .
 greg06.cha 2 1 25 il e paR-ti @ ba-to d@ l o ?
 greg06.cha 2 1 25 ty v2 pa k § R@tR ?
@@ -4163,7 +4163,7 @@ greg07.cha 2 3 01 di d§k ty vu-dRE @l-ve te dwa d2 ta buS la ?
 greg07.cha 2 3 01 sa m2 de-R@Z sEt m5 d@ la buS gRe-gwaR .
 greg07.cha 2 3 01 El e sOR-ti ta ka-nin la .
 greg07.cha 2 3 01 ty a ply b°-zw5 d2 t2 faR-fu-je Zysk a la l8Et .
-greg07.cha 2 3 01 a bj5n e-kut gRe-gwaR .
+greg07.cha 2 3 01 a bj5 e-kut gRe-gwaR .
 greg07.cha 2 3 01 ty v2 vwaR ma ka-nin ?
 greg07.cha 2 3 01 a sa s' e lez 5-si-ziv la ty t2 tR§p .
 greg07.cha 2 3 01 a s' e tu de d@ .
