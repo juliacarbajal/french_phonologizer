@@ -78,31 +78,23 @@ with open('h_aspire.txt') as Hlist:
 			
 exceptions_next = ['et', 'oh', 'euh', 'hum', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends'] + h_aspire
 
-# Mandatory liaison:
-#liaison_words = ['un', , 'des', 'les', 'ces',\
-#                 'mon', 'ton', 'son', 'mes', 'tes', 'ses', 'nos', 'vos', 'leurs',\
-#				 'aux', 'aucun', 'tout', 'toutes', 'quels', 'quelles', 'quelques',\
-#				 'lesquels', 'lesquelles', 'auxquels', 'auxquelles', 'desquels', 'desquelles',\
-#				 'plusieurs', 'certains', 'certaines', 'autres',\
-#				 'on', 'nous', 'vous', 'ils', 'elles',\
-#				 'est', 'ont', 'chez', 'dans', 'en', 'sans', 'sous',\
-#				 'plus', 'moins', 'très', 'bien', 'trop', 'beaucoup']
+# Liaison cases:
 
 # Cases that apply always except if followed by specific items:
 always_except = {}
-always_except['un'] = exceptions_next
+always_except['un'] = exceptions_next + ['à']
 always_except["quelqu'un"] = exceptions_next
-always_except['les'] = exceptions_next
-always_except['des'] = exceptions_next
-always_except['ces'] = exceptions_next
-always_except['mon'] = exceptions_next
-always_except['ton'] = exceptions_next
-always_except['son'] = exceptions_next
-always_except['mes'] = exceptions_next
-always_except['tes'] = exceptions_next
-always_except['ses'] = exceptions_next
-always_except['nos'] = exceptions_next
-always_except['vos'] = exceptions_next
+always_except['les'] = exceptions_next + ['avec']
+always_except['des'] = exceptions_next + ['avec']
+always_except['ces'] = exceptions_next + ['avec']
+always_except['mon'] = exceptions_next + ['avec']
+always_except['ton'] = exceptions_next + ['avec']
+always_except['son'] = exceptions_next + ['avec']
+always_except['mes'] = exceptions_next + ['avec']
+always_except['tes'] = exceptions_next + ['avec']
+always_except['ses'] = exceptions_next + ['avec']
+always_except['nos'] = exceptions_next + ['avec']
+always_except['vos'] = exceptions_next + ['avec']
 always_except['leurs'] = exceptions_next
 always_except['aux'] = exceptions_next
 always_except['aucun'] = exceptions_next
@@ -120,26 +112,28 @@ always_except['desquelles'] = exceptions_next
 always_except['plusieurs'] = exceptions_next
 always_except['certains'] = exceptions_next
 always_except['certaines'] = exceptions_next
-always_except['autres'] = exceptions_next
+always_except['autres'] = exceptions_next + ['à', 'au']
 always_except['on'] = exceptions_next
-always_except['nous'] = exceptions_next
+always_except['nous'] = exceptions_next + ['à']
 always_except['vous'] = exceptions_next
 always_except['ils'] = exceptions_next
 always_except['elles'] = exceptions_next
-always_except['est'] = exceptions_next
+always_except['est'] = exceptions_next + ['adrien']
 always_except['ont'] = exceptions_next
 always_except['chez'] = exceptions_next
 always_except['dans'] = exceptions_next
 always_except['en'] = exceptions_next
 always_except['sans'] = exceptions_next
 always_except['sous'] = exceptions_next
-always_except['plus'] = exceptions_next
+always_except['plus'] = exceptions_next + ['après']
 always_except['moins'] = exceptions_next
 always_except['très'] = exceptions_next
-always_except['bien'] = exceptions_next + ['écoutez', 'écoute']
+always_except['bien'] = exceptions_next + ['écoutez', 'écoute', 'il', 'elle']
 always_except['trop'] = exceptions_next
 always_except['beaucoup'] = exceptions_next
 
+for adjective in adjectives:
+	always_except[adjective] = exceptions_next + ['il', 'elle', 'un', 'une', 'en', 'alors', 'à', 'écoutez', 'écoute', 'adrien', 'avec']
 
 # Cases that apply only if followed by specific items:
 only_before = {}
@@ -181,7 +175,7 @@ only_before['devraient']  = ['ils','elles']
 only_before['sauraient']  = ['ils','elles']
 only_before['vaudraient'] = ['ils','elles']
 # Auxiliaries in clitic groups:
-only_before['était']  = ['il','elle','on']
+only_before['était']  = ['il','elle','on', 'un', 'une']
 only_before['serait'] = ['il','elle','on']
 only_before['allait'] = ['il','elle','on']
 only_before['irait']  = ['il','elle','on']
@@ -237,9 +231,6 @@ def check_liaison(all_words, k) :
 		elif (current_word in plural_nouns) and (next_word in V_adjectives) :
 			do_liaison = True
 
-		# Case 4: Adjectives + vowel-initial words (Note: should probably constrain to vowel-initial nouns)
-		elif (current_word in adjectives) and (next_word not in exceptions_next) and (next_word not in ['il', 'elle', 'un', 'une', 'en', 'alors', 'à', 'écoutez', 'écoute']) :
-			do_liaison = True
 		
 	return do_liaison
 
