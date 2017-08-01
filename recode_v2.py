@@ -298,7 +298,7 @@ def check_liquid_deletion(all_words, k) :
 	return do_liquid_deletion
 	
 def print_applied_cases(line_index, all_words_phon, k, all_words_ort, transcribed_word, file_name):
-	# This function prints a list of all the liaison cases that were applied.
+	# This function prints a list of all the cases that were applied (works for liquid deletion and schwa insertion).
 	current_word_ort = all_words_ort[k]
 	next_word_ort    = all_words_ort[k+1]
 	next_word_phon    = all_words_phon[k+1]
@@ -405,7 +405,7 @@ def check_enchainement(all_words, k) :
 	return do_enchainement
 
 def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcribed_word_2, file_name):
-	# This function prints a list of all the liaison cases that were applied.
+	# This function prints a list of all the enchainement cases that were applied.
 	current_word_ort = all_words_ort[k]
 	next_word_ort    = all_words_ort[k+1]
 	unedited = (current_word_ort + ' ' + next_word_ort).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
