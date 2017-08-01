@@ -1,10 +1,8 @@
 # This Python file uses the following encoding: utf-8
 #import sys #This is not necessary anymore (but I'll keep it as a reminder that I might reintroduce it for batch-processing)
 
-f = open('liaison_cases.txt', 'w')
-foutput = open('recoded_with_liaison.txt','w')
 
-# DICTIONARY:
+#### DICTIONARY ####
 # Special symbols to be added to dictionary:
 dico = {}
 dico[","]=","
@@ -33,7 +31,7 @@ with open('french.dic') as dic:
 			dico[aux[0]] = aux[1]
 
 
-# PHONEMES:
+#### PHONEMES ####
 # Symbols used as in Lexique: http://www.lexique.org/outils/Manuel_Lexique.htm#_Toc108519023
 
 # Vowels:
@@ -66,7 +64,8 @@ consonants = obstruents + liquids + nasals
 # Other characters:
 punctuation = [',', '?', '!', '.', ';', ':']
 
-# WORD LISTS:
+
+#### WORD LISTS ####
 
 # Load the adjectives:
 adjectives = [] # Only adjectives finishing in a liaison consonant, to add to mandatory list
@@ -219,7 +218,7 @@ only_before['quand']   = 'est'
 only_before['quant']   = ['à', 'aux']
 
 
-# FUNCTIONS:
+#### FUNCTIONS ####
 
 def check_liaison(all_words, k) :
 	# This function checks if liaison applies, returns True or False
@@ -227,8 +226,7 @@ def check_liaison(all_words, k) :
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
 	next_word_starts_with_vowel = ((next_word in dico) and (next_word not in punctuation) and
-									(dico[next_word].replace('§', '4').replace('°', '6')[0] in vowels)) # I replace special characters for matching vowels
-	
+									(dico[next_word].replace('§', '4').replace('°', '6')[0] in vowels)) # I replace special characters for matching vowels	
 	if (current_word not in punctuation) and (next_word_starts_with_vowel):
 		next_word_2  = all_words[k+2]
 		prev_word    = '#'
@@ -258,8 +256,46 @@ def check_liaison(all_words, k) :
 		
 	return do_liaison
 
-def print_edited(line_index, all_words, k, transcribed_word, file_name):
-	# This function prints a list of all the liaison cases that were applied.
+def check_liquid_deletion(all_words, k) :
+	do_liquid_deletion = False
+	current_word = all_words[k]
+	next_word    = all_words[k+1]
+	is_OL_cluster = (len(current_word)>2) and (current_word[-2] in obstruents) and (current_word[-1] in liquids)
+	if (is_OL_cluster) and (next_word[0] in consonants):
+		do_liquid_deletion = True
+	return do_liquid_deletion
+	
+def check_C_cluster(word_phon,onset_or_coda):
+	is_C_cluster = False
+	if len(word_phon)>2 :
+		if onset_or_coda == 'coda':
+			phon1 = word_phon[-2]
+			phon2 = word_phon[-1]
+		elif onset_or_coda == 'onset':
+			phon1 = word_phon[0]
+			phon2 = word_phon[1]
+		if (phon1 in consonants) and (phon2 in consonants):
+			is_C_cluster = True
+	return is_C_cluster
+			
+def check_schwa_insertion(all_words, k) :
+	do_insert_schwa = False
+	current_word = all_words[k]
+	next_word    = all_words[k+1]
+	if check_C_cluster(current_word,'coda') and check_C_cluster(next_word,'onset'):
+		do_insert_schwa = True
+	return do_insert_schwa
+
+def check_enchainement(all_words, k) :
+	do_enchainement = False
+	current_word = all_words[k]
+	next_word    = all_words[k+1].replace('§', '4').replace('°', '6') # Replace special characters before matching vowels
+	if (current_word[-1] in (consonants + ["'"])) and (next_word[0] in vowels):
+		do_enchainement = True
+	return do_enchainement
+
+def print_applied_liaison(line_index, all_words, k, transcribed_word, file_name):
+	# This prints a list of all the liaison cases that were applied.
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
 	unedited = (current_word + ' ' + next_word).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
@@ -278,51 +314,13 @@ def print_edited(line_index, all_words, k, transcribed_word, file_name):
 	context = ' '.join(context)
 	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
 	
-
-# LIAISON
-# Read line by line, transcribe from dictionary and apply liaison if appropriate
-with open('extract.txt') as input_file:
-	for line_ID, line_text in enumerate(input_file):
-		newwords  = []
-		full_line = line_text.lower().split()
-		info  = full_line[:4] # ID and age
-		words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
-		for i, word in enumerate(words[:-1]): 
-			if word in dico:
-				newwords.append(dico[word]) # Transcribe the word
-				lastletter = word[-1]
-				if (lastletter in liaison) and check_liaison(words, i) :
-					newwords[i] += liaison[lastletter] # Attach liaison consonant
-					print_edited(line_ID, words, i, newwords[i], f)
-			else:
-				newwords.append('#') 
-		newwords.append(full_line[-1])
-		print >> foutput , ' '.join(info + newwords) # Concatenate with ID and age and print
-f.close()
-foutput.close()
-
-
-# LIQUID DELETION
-f2 = open('liquid_deletion_cases.txt', 'w')
-foutput2 = open('recoded_L_D.txt', 'w')
-
-
-def check_liquid_deletion(all_words, k) :
-	do_liquid_deletion = False
-	current_word = all_words[k]
-	next_word    = all_words[k+1]
-	is_OL_cluster = (len(current_word)>2) and (current_word[-2] in obstruents) and (current_word[-1] in liquids)
-	if (is_OL_cluster) and (next_word[0] in consonants):
-		do_liquid_deletion = True
-	return do_liquid_deletion
-	
 def print_applied_cases(line_index, all_words_phon, k, all_words_ort, transcribed_word, file_name):
-	# This function prints a list of all the cases that were applied (works for liquid deletion and schwa insertion).
+	# This prints a list of all the liquid deletion or schwa insertion cases that were applied.
 	current_word_ort = all_words_ort[k]
 	next_word_ort    = all_words_ort[k+1]
 	next_word_phon   = all_words_phon[k+1]
-	unedited = (current_word_ort + ' ' + next_word_ort).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
-	unedited = unedited.decode('cp1252').encode('utf-8')                                   # Back to unicode for printing
+	unedited = (current_word_ort + ' ' + next_word_ort).decode('utf-8').encode('cp1252').ljust(30)
+	unedited = unedited.decode('cp1252').encode('utf-8')
 	edited   = (transcribed_word + ' ' + next_word_phon).decode('utf-8').encode('cp1252').ljust(30)
 	edited   = edited.decode('cp1252').encode('utf-8')
 	# Add context:
@@ -336,6 +334,60 @@ def print_applied_cases(line_index, all_words_phon, k, all_words_ort, transcribe
 		context = all_words_ort[-6:]
 	context = ' '.join(context)
 	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
+	
+def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcribed_word_2, file_name):
+	# This prints a list of all the enchainement cases that were applied.
+	current_word_ort = all_words_ort[k]
+	next_word_ort    = all_words_ort[k+1]
+	unedited = (current_word_ort + ' ' + next_word_ort).decode('utf-8').encode('cp1252').ljust(30)
+	unedited = unedited.decode('cp1252').encode('utf-8')
+	edited   = (transcribed_word + ' ' + transcribed_word_2).decode('utf-8').encode('cp1252').ljust(30)
+	edited   = edited.decode('cp1252').encode('utf-8')
+	if (edited[0] == ' '): # Correct empty spaces when the first word was absorbed fully by second word
+		edited = edited[1:]
+	# Add context:
+	if len(all_words_ort)<6:
+		context = all_words_ort
+	elif (len(all_words_ort)>=6) and (k<=2):
+		context = all_words_ort[:6]
+	elif (len(all_words_ort)>=6) and (k>2) and (k<= len(all_words_ort)-2):
+		context = all_words_ort[k-2:k+3]
+	else:
+		context = all_words_ort[-6:]
+	context = ' '.join(context)
+	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
+	
+
+#### 1: FIRST TRANSCRIPTION + LIAISON ####
+f = open('liaison_cases.txt', 'w')
+foutput = open('recoded_with_liaison.txt','w')
+
+# Read line by line, transcribe from dictionary and apply liaison if appropriate
+with open('extract.txt') as input_file:
+	for line_ID, line_text in enumerate(input_file):
+		newwords  = []
+		full_line = line_text.lower().split()
+		info  = full_line[:4] # ID and age
+		words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
+		for i, word in enumerate(words[:-1]): 
+			if word in dico:
+				newwords.append(dico[word]) # Transcribe the word
+				lastletter = word[-1]
+				if (lastletter in liaison) and check_liaison(words, i) :
+					newwords[i] += liaison[lastletter] # Attach liaison consonant
+					print_applied_liaison(line_ID, words, i, newwords[i], f)
+			else:
+				newwords.append('#') 
+		newwords.append(full_line[-1])
+		print >> foutput , ' '.join(info + newwords) # Concatenate with ID and age and print
+
+f.close()
+foutput.close()
+
+
+#### 2: LIQUID DELETION ####
+f2 = open('liquid_deletion_cases.txt', 'w')
+foutput2 = open('recoded_L_D.txt', 'w')
 
 text_ort = []
 with open('extract.txt') as original_file:
@@ -362,31 +414,9 @@ f2.close()
 foutput2.close()
 
 
-# SCHWA INSERTION
-
+#### 3: SCHWA INSERTION ####
 f3 = open('schwa_insertion_cases.txt', 'w')
 foutput3 = open('recoded_L_D_S.txt', 'w')
-
-def check_C_cluster(word_phon,onset_or_coda):
-	is_C_cluster = False
-	if len(word_phon)>2 :
-		if onset_or_coda == 'coda':
-			phon1 = word_phon[-2]
-			phon2 = word_phon[-1]
-		elif onset_or_coda == 'onset':
-			phon1 = word_phon[0]
-			phon2 = word_phon[1]
-		if (phon1 in consonants) and (phon2 in consonants):
-			is_C_cluster = True
-	return is_C_cluster
-			
-def check_schwa_insertion(all_words, k) :
-	do_insert_schwa = False
-	current_word = all_words[k]
-	next_word    = all_words[k+1]
-	if check_C_cluster(current_word,'coda') and check_C_cluster(next_word,'onset'):
-		do_insert_schwa = True
-	return do_insert_schwa
 
 with open('recoded_L_D.txt') as input_file:
 	for line_ID, line_text in enumerate(input_file):
@@ -408,41 +438,10 @@ f3.close()
 foutput3.close()
 
 
-# ENCHAINEMENT
-
+#### 4: ENCHAINEMENT ####
 f4 = open('enchainement_cases.txt', 'w')
 foutput4 = open('recoded_L_D_S_E.txt', 'w')
-			
-def check_enchainement(all_words, k) :
-	do_enchainement = False
-	current_word = all_words[k]
-	next_word    = all_words[k+1].replace('§', '4').replace('°', '6') # Replace special characters before matching vowels
-	if (current_word[-1] in (consonants + ["'"])) and (next_word[0] in vowels):
-		do_enchainement = True
-	return do_enchainement
 
-def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcribed_word_2, file_name):
-	# This function prints a list of all the enchainement cases that were applied.
-	current_word_ort = all_words_ort[k]
-	next_word_ort    = all_words_ort[k+1]
-	unedited = (current_word_ort + ' ' + next_word_ort).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
-	unedited = unedited.decode('cp1252').encode('utf-8')                                   # Back to unicode for printing
-	edited   = (transcribed_word + ' ' + transcribed_word_2).decode('utf-8').encode('cp1252').ljust(30)
-	edited   = edited.decode('cp1252').encode('utf-8')
-	if (edited[0] == ' '):
-		edited = edited[1:] # Correct empty spaces when the first word was absorbed fully by second word
-	# Add context:
-	if len(all_words_ort)<6:
-		context = all_words_ort
-	elif (len(all_words_ort)>=6) and (k<=2):
-		context = all_words_ort[:6]
-	elif (len(all_words_ort)>=6) and (k>2) and (k<= len(all_words_ort)-2):
-		context = all_words_ort[k-2:k+3]
-	else:
-		context = all_words_ort[-6:]
-	context = ' '.join(context)
-	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
-	
 with open('recoded_L_D_S.txt') as input_file:
 	for line_ID, line_text in enumerate(input_file):
 		newwords  = []
