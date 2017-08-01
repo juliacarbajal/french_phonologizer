@@ -1,9 +1,19 @@
 # This Python file uses the following encoding: utf-8
 import re
 from collections import Counter
+import unicodedata
 
 f = open('disyllables.txt', 'w')
+fcvcv = open('cvcv.txt', 'w')
 
+def convert_encoding(data, new_coding = 'UTF-8'):
+  encoding = cchardet.detect(data)['encoding']
+
+  if new_coding.upper() != encoding.upper():
+    data = data.decode(encoding, data).encode(new_coding)
+
+  return data
+  
 # Define phonemes:
 obstruents = ['p', 'b', 't', 'd', 'k', 'g', 'f', 'v', 's', 'z', 'S', 'Z']
 liquids = ['l', 'R']
@@ -11,12 +21,14 @@ nasals = ['m', 'n', 'N']
 foreign = ['x', 'G']
 
 consonants = obstruents + liquids + nasals + foreign
-vowels = ['a','i','e','E','o','O','u','y','§','1','5','2','9','@','°','3']
+vowels = ['a','i','e','E','o','O','u','y','4','1','5','2','9','@','6','3'] # Note: replacing § with 4 and ° with 6 for comparison
 semivowels = ['j','8','w']
+
 
 def syllabic_structure(syl):
 	# This functions extracts the syllabic structure of any syllable (e.g. CV, CVC, etc)
 	structure = ''
+	syl = syl.replace('§', '4').replace('°', '6') # Replacing only for matching vowels with special characters 
 	for phone in syl:
 		if phone in consonants:
 			structure += 'C'
@@ -49,12 +61,17 @@ with open('recoded_L_D_S_E.txt') as corpus:
 
 # Second: extract syllabic structure and count
 for S1 in syllabic_dict:
+	S1 = str(S1)
 	following_syllables = syllabic_dict[S1]
 	syl_counts = Counter(following_syllables)
-	S1_structure = syllabic_structure(S1.decode('utf-8').encode('cp1252'))
+	S1_structure = syllabic_structure(S1)
 	for S2 in list(set(following_syllables)):
+		S2 = str(S2)
 		N = syl_counts[S2]
-		S2_structure = syllabic_structure(S2.decode('utf-8').encode('cp1252'))
+		S2_structure = syllabic_structure(S2)
 		print_output(S1, S2, N, S1_structure, S2_structure, f)
+		if (S1_structure=='CV') and (S2_structure=='CV'):
+			print_output(S1, S2, N, S1_structure, S2_structure, fcvcv)
 
 f.close()
+fcvcv.close()
