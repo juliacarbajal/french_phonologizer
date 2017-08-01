@@ -68,41 +68,38 @@ punctuation = [',', '?', '!', '.', ';', ':']
 #### WORD LISTS ####
 
 # Load the adjectives:
-adjectives = [] # Only adjectives finishing in a liaison consonant, to add to mandatory list
-V_adjectives =[] # All vowel-initial adjectives, for plural noun + adjective rule
+V_adjectives = [] # All vowel-initial adjectives, for plural noun + adjective rule
+adjectives   = [] # Only adjectives finishing in a liaison consonant, to add to mandatory list
 with open('output_ADJ.txt') as ADJlist:
 	for line in ADJlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		if line in dico:
-			first_phon = line.replace('§', '4').replace('°', '6')[0] # Replacing only for matching vowels with special characters 
+			first_phon = line.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
 			if (first_phon in vowels): 
 				V_adjectives.append(line) 
 			if (line[-1] in liaison) and (dico[line][-1] != liaison[line[-1]]): 
 				adjectives.append(line)
-
-#adjectives = adjectives + ['deux', 'trois', 'vingt', 'cent']
 
 # Load the plural nouns:
 plural_nouns = []
 with open('output_NOMp.txt') as NOMlist:
 	for line in NOMlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
-		if line[-1] in liaison: # Only nouns finishing in a liaison consonant (this only excludes very few cases that don't finish in s or x)
+		if line[-1] in liaison:
 			plural_nouns.append(line)
 			
-# Exceptions list
+# Exceptions list:
 # Words beginning with h-aspiré (list retrieved from wikipedia article: https://fr.wikipedia.org/wiki/H_aspiré)
 h_aspire = []
 with open('h_aspire.txt') as Hlist:
 	for line in Hlist:
 		line = line.strip()
 		h_aspire.append(line)
-			
+# Others
 exceptions_next = ['et', 'oh', 'euh', 'hum', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends'] + h_aspire
 
 # Liaison cases:
-
-# Cases that apply always except if followed by specific items:
+# Cases that apply always except if followed by specific items
 always_except = {}
 always_except['un'] = exceptions_next + ['à']
 always_except["quelqu'un"] = exceptions_next
@@ -159,7 +156,7 @@ for adjective in adjectives:
 
 # Cases that apply only if followed by specific items:
 only_before = {}
-# Modal verbs in clitic groups:
+# Modal verbs in clitic groups
 only_before['fait'] = ['il','elle','on']
 only_before['veut'] = ['il','elle','on']
 only_before['peut'] = ['il','elle','on','être']
@@ -185,18 +182,18 @@ only_before['devaient']  = ['ils','elles']
 only_before['savaient']  = ['ils','elles']
 only_before['valaient']  = ['ils','elles']
 only_before['faudrait']  = ['il','elle','on']
-only_before['voudrait'] = ['il','elle','on']
-only_before['pourrait'] = ['il','elle','on']
-only_before['devrait']  = ['il','elle','on']
-only_before['saurait']  = ['il','elle','on']
-only_before['vaudrait'] = ['il','elle','on']
+only_before['voudrait']  = ['il','elle','on']
+only_before['pourrait']  = ['il','elle','on']
+only_before['devrait']   = ['il','elle','on']
+only_before['saurait']   = ['il','elle','on']
+only_before['vaudrait']  = ['il','elle','on']
 only_before['faudraient'] = ['ils','elles']
 only_before['voudraient'] = ['ils','elles']
 only_before['pourraient'] = ['ils','elles']
 only_before['devraient']  = ['ils','elles']
 only_before['sauraient']  = ['ils','elles']
 only_before['vaudraient'] = ['ils','elles']
-# Auxiliaries in clitic groups:
+# Auxiliaries in clitic groups
 only_before['était']  = ['il','elle','on', 'un', 'une']
 only_before['serait'] = ['il','elle','on']
 only_before['allait'] = ['il','elle','on']
@@ -222,6 +219,8 @@ only_before['quant']   = ['à', 'aux']
 
 def check_liaison(all_words, k) :
 	# This function checks if liaison applies, returns True or False
+	# all_words: full utterance (as a list)
+	# k: index of the current word
 	do_liaison = False
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
@@ -257,6 +256,9 @@ def check_liaison(all_words, k) :
 	return do_liaison
 
 def check_liquid_deletion(all_words, k) :
+	# This function checks if liquid deletion applies, returns True or False
+	# all_words: full utterance (as a list)
+	# k: index of the current word
 	do_liquid_deletion = False
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
@@ -266,6 +268,9 @@ def check_liquid_deletion(all_words, k) :
 	return do_liquid_deletion
 	
 def check_C_cluster(word_phon,onset_or_coda):
+	# This function checks if the 2 initial or final phonemes of a word form a consonant cluster, returns True or False
+	# word_phon: phonological form of the word
+	# onset_or_coda: initial or final consonants
 	is_C_cluster = False
 	if len(word_phon)>2 :
 		if onset_or_coda == 'coda':
@@ -279,6 +284,9 @@ def check_C_cluster(word_phon,onset_or_coda):
 	return is_C_cluster
 			
 def check_schwa_insertion(all_words, k) :
+	# This function checks if schwa insertion applies, returns True or False
+	# all_words: full utterance (as a list)
+	# k: index of the current word
 	do_insert_schwa = False
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
@@ -287,6 +295,9 @@ def check_schwa_insertion(all_words, k) :
 	return do_insert_schwa
 
 def check_enchainement(all_words, k) :
+	# This function checks if enchainement applies, returns True or False
+	# all_words: full utterance (as a list)
+	# k: index of the current word
 	do_enchainement = False
 	current_word = all_words[k]
 	next_word    = all_words[k+1].replace('§', '4').replace('°', '6') # Replace special characters before matching vowels
