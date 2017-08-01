@@ -34,6 +34,7 @@
 148  ils entendent                 ilz @-t@d                     gens quand ils entendent un
 153  est une                       et yn                         , qui est une dame
 154  peut être                     p2t EtR                       c' était peut être bien
+168  ils ont                       ilz §                         ceux là ils ont un
 168  ont un                        §t 1                          là ils ont un peu
 176  est une                       et yn                         c' est une forme comme ça
 178  est un                        et 1                          vois c' est un grand
@@ -196,6 +197,7 @@
 1565 en a                          @n a                          y en a des noires ,
 1567 mes enfants                   mez @-f@                      que si mes enfants voyaient
 1569 peut être                     p2t EtR                       ils connaissent peut être mais ils
+1569 en ont                        @n §                          ils n' en ont pas
 1575 est un                        et 1                          papa c' est un monsieur
 1584 tout à                        tut a                         tout à l' heure il est
 1588 plus amusant                  plyz a-my-z@                  c' est plus amusant !
@@ -469,6 +471,8 @@
 4021 quand est                     k@t e                         quand est ce qu' ils viennent
 4034 les aimes                     lez Em                        que tu les aimes les
 4054 est extraordinaire            et Ek-stRa-OR-di-nER          c' est extraordinaire ça .
+4059 ils ont                       ilz §                         les monstres ils ont mangé
+4060 ils ont                       ilz §                         les monstres ils ont mangé
 4074 quand est                     k@t e                         chérinou quand est ce qu' ils
 4075 sont ils                      s§t il                        pas où sont ils .
 4086 en avais                      @n a-vE                       et j' en avais plein
@@ -557,6 +561,7 @@
 4636 vous êtes                     vuz Et                        là vous vous êtes bien amusés
 4636 bien amusés                   bj5n a-my-ze                  vous êtes bien amusés ce
 4653 les aiguilles                 lez e-g8ij                    nus dans les aiguilles de
+4658 ils ont                       ilz §                         pleurent quand ils ont mal
 4663 est amusant                   et a-my-z@                    ah c' est amusant ça .
 4694 plus à                        plyz a                        n' arrivait plus à avoir
 4694 plus il                       plyz il                       nous regardait plus il ne
@@ -673,6 +678,7 @@
 5457 elles avalent                 Elz a-val                     est quand elles avalent les
 5459 elles avalent                 Elz a-val                     crois qu' elles avalent à
 5461 peut être                     p2t EtR                       elle respire peut être en
+5466 elles ont                     Elz §                         pense qu' elles ont besoin
 5474 on arrive                     §n a-Riv                      on arrive à l' île aux
 5475 est à                         et a                          ce qui est à toi
 5477 est un                        et 1                          c' est un poisson quelle couleur
@@ -700,6 +706,7 @@
 5640 en a                          @n a                          y en a combien des baleines
 5645 plus un                       plyz 1                        deux plus un c' est des
 5673 peut être                     p2t EtR                       peut être .
+5676 elles ont                     Elz §                         elles ont des papas baleines .
 5680 est un                        et 1                          c' est un comment ça s'
 5681 est un                        et 1                          pas c' est un truc
 5690 vas y                         vaz i                         vas y suis le fil .
@@ -796,3 +803,4 @@
 6294 des étagères                  dez e-ta-ZER                  le bâti(ment) des étagères habitat
 6300 tout à                        tut a                         ai demandé tout à l'
 6306 nous aider                    nuz e-de                      pourras plus nous aider à
+6333 est onze                      et §z                         il est onze heures six et

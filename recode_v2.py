@@ -32,7 +32,8 @@ with open('french.dic') as dic:
 			dico[aux[0]] = aux[1]
 
 # Liaison vowels and consonants
-vowels = ['a','i','e','E','o','O','u','y','§','1','5','2','9','@','°','3']
+#vowels = ['a','i','e','E','o','O','u','y','§','1','5','2','9','@','°','3']
+vowels = ['a','i','e','E','o','O','u','y','4','1','5','2','9','@','6','3'] # Replacing special characters to facilitate comparison
 
 liaison = {}
 liaison['s'] = 'z'
@@ -54,7 +55,8 @@ with open('output_ADJ.txt') as ADJlist:
 	for line in ADJlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		if line in dico:
-			if line[0] in vowels: 
+			first_phon = line.replace('§', '4').replace('°', '6')[0] # Replacing only for matching vowels with special characters 
+			if first_phon in vowels: 
 				V_adjectives.append(line) 
 			if (line[-1] in liaison) and (dico[line][-1] != liaison[line[-1]]): 
 				adjectives.append(line)
@@ -115,7 +117,7 @@ always_except['certains'] = exceptions_next
 always_except['certaines'] = exceptions_next
 always_except['autres'] = exceptions_next + ['à', 'au']
 always_except['on'] = exceptions_next
-always_except['nous'] = exceptions_next + ['à']
+always_except['nous'] = exceptions_next + ['à', 'on']
 always_except['vous'] = exceptions_next
 always_except['ils'] = exceptions_next
 always_except['elles'] = exceptions_next
@@ -129,12 +131,12 @@ always_except['sous'] = exceptions_next
 always_except['plus'] = exceptions_next + ['après']
 always_except['moins'] = exceptions_next
 always_except['très'] = exceptions_next
-always_except['bien'] = exceptions_next + ['écoutez', 'écoute', 'il', 'elle']
+always_except['bien'] = exceptions_next + ['écoutez', 'écoute', 'il', 'elle', 'on']
 always_except['trop'] = exceptions_next
 always_except['beaucoup'] = exceptions_next
 
 for adjective in adjectives:
-	always_except[adjective] = exceptions_next + ['il', 'elle', 'un', 'une', 'en', 'alors', 'à', 'écoutez', 'écoute', 'adrien', 'avec']
+	always_except[adjective] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'écoutez', 'écoute', 'adrien', 'avec']
 
 # Cases that apply only if followed by specific items:
 only_before = {}
@@ -204,7 +206,8 @@ def check_liaison(all_words, k) :
 	do_liaison = False
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
-	next_word_starts_with_vowel = (next_word in dico) and (next_word not in punctuation) and (dico[next_word][0] in vowels)
+	next_word_starts_with_vowel = ((next_word in dico) and (next_word not in punctuation) and
+									(dico[next_word].replace('§', '4').replace('°', '6')[0] in vowels)) # I replace special characters for matching vowels
 	
 	if (current_word not in punctuation) and (next_word_starts_with_vowel):
 		next_word_2  = all_words[k+2]
@@ -337,7 +340,6 @@ with open('recoded_with_liaison.txt') as input_file:
 				newwords.append(word)
 				if (word != '#') and check_liquid_deletion(words, i) :
 					newwords[i] = word[:-1] # Delete liquid
-					#nextword = words[i+1]
 					print_applied_cases(line_ID, words, i, words_ort, newwords[i], f2)
 			newwords.append(full_line[-1])
 			print >> foutput2 , ' '.join(info + newwords) # Concatenate with ID and age and print
@@ -400,7 +402,7 @@ foutput4 = open('recoded_L_D_S_E.txt', 'w')
 def check_enchainement(all_words, k) :
 	do_enchainement = False
 	current_word = all_words[k]
-	next_word    = all_words[k+1]
+	next_word    = all_words[k+1].replace('§', '4').replace('°', '6') # Replace special characters before matching vowels
 	if (current_word[-1] in (consonants + ["'"])) and (next_word[0] in vowels):
 		do_enchainement = True
 	return do_enchainement

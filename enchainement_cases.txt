@@ -106,6 +106,7 @@
 70   un avion                      1 na-vj§                      y a un avion postal
 70   il est                        i le                          passe , il est toujours
 71   alors est                     a-lO Re                       alors est ce qu' on le
+71   qu' on                        k§                           est ce qu' on le
 75   c' est                        se                           c' est l' éléphant !
 75   l' éléphant                   le-le-f@                     c' est l' éléphant !
 77   l' éléphant                   le-le-f@                     va mettre l' éléphant .
@@ -198,7 +199,9 @@
 160  il y                          i li                          là il y a un circuit
 160  n' est                        ne                           circuit qui n' est pas
 161  d' Adrien                     da-dRi-j5                    le puzzle d' Adrien .
-168  ont un                        § t1                          là ils ont un peu
+163  qu' on                        k§                           sais faudrait qu' on les
+168  ils ont                       il z§t                        ceux là ils ont un
+168  ont un                        z§ t1                         là ils ont un peu
 173  c' est                        se                           sûr que c' est dans le
 174  ressemble à                   R°-s@b la                     que çà ressemble à un
 176  c' est                        set                          c' est une forme comme ça
@@ -217,6 +220,7 @@
 188  c' est                        se                           pas si c' est Pinpin
 188  voiture ou                    vwa-ty Ru                     veut une voiture ou si
 188  c' est                        se                           ou si c' est qu'
+188  qu' on                        k§                           c' est qu' on va
 188  mettre une                    mEt Ryn                       on va mettre une voiture
 188  voiture avec                  vwa-ty Ra-vEk                 mettre une voiture avec Pinpin
 189  j' ai                         ZE                           j' ai en ce moment une
@@ -352,6 +356,7 @@
 294  n' avait                      na-vE                        Grégoire qui n' avait pas
 294  l' air                        lER                          du tout l' air de
 294  s' intéresser                 s5-te-Re-se                  air de s' intéresser à
+294  qu' on                        k§                           à ce qu' on disait
 295  il a                          i la                          il a déclaré à la fin
 295  dire à                        di Ra                         je pouvais dire à Adrien
 297  il a                          i la                          il a dit Adrien papa .
@@ -370,10 +375,12 @@
 312  c' est                        se                           c' est pour maman ?
 316  il est                        i le                          il est tombé ce morceau .
 323  qu' est                       ke                           qu' est ce qu' on entend
-323  on entend                     § n@-t@                       ce qu' on entend ?
+323  qu' on                        k§n                          est ce qu' on entend
+323  on entend                     k§ n@-t@                      ce qu' on entend ?
 324  Grégoire écoute               gRe-gwa Re-kut                écoute Grégoire écoute !
 325  qu' est                       ke                           qu' est ce qu' on entend
-325  on entend                     § n@-t@                       ce qu' on entend ?
+325  qu' on                        k§n                          est ce qu' on entend
+325  on entend                     k§ n@-t@                      ce qu' on entend ?
 328  c' est                        se                           ah oui c' est vrai on
 328  on entend                     § n@-t@                       est vrai on entend les
 335  comme il                      kO mil                        oh regarde comme il est beau
@@ -403,12 +410,14 @@
 357  il est                        i le                          il est beau le chapeau mais
 357  avec une                      a-vE kyn                      mais moi avec une seule
 359  Grégoire apporte              gRe-gwa Ra-pORt               Grégoire apporte le moi !
+368  qu' on                        k§                           tu veux qu' on filme Kiki
 370  t' as                         ta                           crois que t' as compris
 372  il est                        i le                          il est là !
 373  c' est                        se                           oui là c' est Kiki ,
 374  t' as                         ta                           t' as de la chance .
 376  qu' est                       ke                           qu' est ce qui est tombé
-377  on essaie                     § nE-sE                       alors on essaie de voir ce
+377  alors on                      a-lO R§n                      alors on essaie de voir ce
+377  on essaie                     R§ nE-sE                      alors on essaie de voir ce
 378  il est                        i le                          ah oui il est tombé le
 380  c' est                        se                           c' est bien .
 384  mettre à                      mEt Ra                        veux le mettre à ton
@@ -507,6 +516,7 @@
 514  c' est                        se                           mes cheveux c' est ça .
 516  il a                          i la                          Christian aussi il a des cheveux
 517  il a                          i la                          sûr , il a encore
+518  Grégoire on                   gRe-gwa R§                    cheveux de Grégoire on les
 518  les a                         le za                         Grégoire on les a coupés
 519  on a                          § na                          hein on a coupé les cheveux
 519  qu' ils                       kil                          cheveux pour qu' ils poussent
@@ -776,6 +786,7 @@
 1017 peut être                     p2 tEt                        y aura peut être pas
 1018 faire avec                    fE Ra-vEk                     tu vas faire avec .
 1023 d' accord                     da-kOR                       d' accord on ferme .
+1023 accord on                     da-kO R§                      d' accord on ferme .
 1024 c' est                        set                          c' est extra , hein ?
 1024 est extra                     se tEk-stRa                   c' est extra , hein ?
 1026 j' espère                     ZEs-pER                      j' espère que ça donnera quelque
@@ -809,6 +820,7 @@
 1107 c' est                        se                           ça c' est pas des après
 1107 des après                     de za-pRE                     est pas des après midi
 1110 il a                          i la                          là il a disparu .
+1113 l' ombre                      l§bR                         pied dans l' ombre .
 1115 vas y                         va zi                         allez , vas y .
 1116 l' enfiles                    l@-fil                       tu l' enfiles , mon chausson
 1121 c' est                        se                           c' est le gros lion qui
@@ -963,11 +975,13 @@
 1315 qu' est                       ke                           qu' est ce que c' est
 1315 c' est                        se                           ce que c' est ?
 1316 qu' est                       ke                           qu' est ce qu' on entend
-1316 on entend                     § n@-t@                       ce qu' on entend ?
+1316 qu' on                        k§n                          est ce qu' on entend
+1316 on entend                     k§ n@-t@                      ce qu' on entend ?
 1317 c' est                        se                           c' est ça mais c' est
 1317 c' est                        se                           ça mais c' est quoi
 1318 qu' est                       ke                           qu' est ce qu' on entend
-1318 on entend                     § n@-t@                       ce qu' on entend ?
+1318 qu' on                        k§n                          est ce qu' on entend
+1318 on entend                     k§ n@-t@                      ce qu' on entend ?
 1320 c' est                        se                           non c' est pas un chat
 1323 c' est                        set                          non c' est une sirène qui
 1323 est une                       se tyn                        non c' est une sirène qui
@@ -1153,6 +1167,7 @@
 1496 qu' est                       ke                           qu' est ce que tu veux
 1497 qu' est                       ke                           oui mais qu' est ce que
 1499 avec un                       a-vE k1                       avec un papier .
+1500 frère on                      fRE R§                        fouillis du frère on va
 1500 qu' il                        kil                          trouver ce qu' il faut
 1500 j' espère                     ZEs-pER                      il faut j' espère .
 1509 c' est                        se                           non ça c' est la main
@@ -1202,7 +1217,8 @@
 1568 m' étonne                     me-tOn                       ça m' étonne qu' ils ne
 1568 qu' ils                       kil                          m' étonne qu' ils ne
 1569 peut être                     p2 tEt                        ils connaissent peut être mais ils
-1569 n' en                         n@                           mais ils n' en ont
+1569 n' en                         n@n                          mais ils n' en ont
+1569 en ont                        n@ n§                         ils n' en ont pas
 1570 c' est                        se                           c' est du plus bel effet
 1570 bel effet                     bE le-fE                      du plus bel effet sur
 1573 il est                        i le                          où il est papa ?
@@ -1291,6 +1307,7 @@
 1642 l' humour                     ly-muR                       sens de l' humour quand
 1642 s' y                          si                           quand il s' y met
 1643 qu' est                       ke                           alors qu' est ce qu' on
+1643 qu' on                        k§                           est ce qu' on fait
 1644 qu' est                       ke                           alors qu' est ce que j'
 1644 j' en                         Z@                           ce que j' en fais
 1647 l' envoie                     l@-vwa                       je l' envoie .
@@ -1390,6 +1407,7 @@
 1768 l' objectif                   lOb-ZEk-tif                  mettre sur l' objectif de
 1770 d' accord                     da-kOR                       d' accord ?
 1772 qu' est                       ke                           alors qu' est ce qu' on
+1772 qu' on                        k§                           est ce qu' on fait
 1774 c' est                        se                           trouve que c' est mieux
 1777 qu' est                       ke                           qu' est ce qu' elle a
 1777 qu' elle                      kEl                          est ce qu' elle a
@@ -1401,7 +1419,8 @@
 1786 qu' est                       ke                           oh qu' est ce que c'
 1786 c' est                        se                           ce que c' est ?
 1788 c' est                        se                           c' est quoi qu' on entend
-1788 on entend                     § n@-t@                       quoi qu' on entend ?
+1788 qu' on                        k§n                          est quoi qu' on entend
+1788 on entend                     k§ n@-t@                      quoi qu' on entend ?
 1789 c' est                        se                           c' est quoi ?
 1790 un avion                      1 na-vj§                      un avion ?
 1792 il a                          i la                          un monsieur il a une
@@ -1409,6 +1428,7 @@
 1801 qu' il                        kil                          est ce qu' il y
 1801 il y                          ki li                         ce qu' il y a
 1802 qu' est                       ke                           qu' est ce qu' on fait
+1802 qu' on                        k§                           est ce qu' on fait
 1807 encore une                    @-kO Ryn                      encore une voiture .
 1809 c' est                        se                           où c' est qu' elle est
 1809 qu' elle                      kEl                          c' est qu' elle est
@@ -1450,7 +1470,8 @@
 1860 elle est                      E le                          elle est montée la main ?
 1864 elle est                      E le                          où elle est la main ?
 1865 elle est                      E le                          elle est tombée pendant qu' on
-1865 on est                        § ne                          pendant qu' on est partis
+1865 qu' on                        k§n                          tombée pendant qu' on est
+1865 on est                        k§ ne                         pendant qu' on est partis
 1868 elle apporte                  E la-pORt                     dame , elle apporte du
 1870 elle est                      E le                          oh elle est tombée sur l'
 1870 l' épaule                     le-pol                       tombée sur l' épaule de
@@ -1486,6 +1507,7 @@
 1917 d' habitude                   da-bi-tyd                    d' habitude quand ça sonne ,
 1917 précipite et                  pRe-si-pi te                  il se précipite et il
 1918 c' est                        se                           sait qui c' est parce
+1918 qu' on                        k§                           est parce qu' on l'
 1918 l' a                          la                           qu' on l' a vu
 1919 d' accord                     da-kOR                       ah , d' accord .
 1921 il est                        i le                          le robot il est cassé .
@@ -1596,17 +1618,22 @@
 2019 il a                          ki la                         ce qu' il a fait
 2020 qu' est                       ke                           qu' est ce que tu fais
 2024 qu' est                       ke                           qu' est ce qu' on peut
+2024 qu' on                        k§                           est ce qu' on peut
 2024 d' intéressant                d5-te-RE-s@                  peut trouver d' intéressant ?
 2025 qu' est                       ke                           qu' est ce qu' il y
 2025 qu' il                        kil                          est ce qu' il y
 2025 il y                          ki li                         ce qu' il y a
 2027 c' est                        se                           c' est parfait .
 2031 qu' est                       ke                           qu' est ce qu' on fait
+2031 qu' on                        k§                           est ce qu' on fait
 2033 qu' est                       ke                           qu' est ce qu' on fait
+2033 qu' on                        k§                           est ce qu' on fait
 2035 qu' est                       ke                           et ça qu' est ce qu'
+2035 qu' on                        k§                           est ce qu' on fait
 2037 c' est                        se                           c' est froid c' est froid
 2037 c' est                        se                           est froid c' est froid
 2039 qu' est                       ke                           qu' est ce qu' on fait
+2039 qu' on                        k§                           est ce qu' on fait
 2040 c' est                        se                           c' est froid .
 2041 c' est                        se                           c' est froid .
 2042 c' est                        se                           oh non c' est froid .
@@ -1659,6 +1686,7 @@
 2108 c' est                        se                           c' est le bateau ?
 2109 c' est                        se                           c' est le plateau ?
 2111 qu' est                       ke                           alors qu' est ce qu' on
+2111 qu' on                        k§                           est ce qu' on voit
 2112 il est                        i le                          il est cassé le patin à
 2116 qu' est                       ke                           qu' est ce qu' elle fait
 2116 qu' elle                      kEl                          est ce qu' elle fait
@@ -1681,6 +1709,7 @@
 2138 s' est                        se                           ce qui s' est passé
 2139 qu' est                       ke                           qu' est ce qui est tombé
 2140 c' est                        se                           c' est la boîte .
+2141 alors on                      a-lO R§                       alors on la remet .
 2143 qu' est                       ke                           alors qu' est ce que c'
 2143 c' est                        se                           ce que c' est que
 2145 qu' est                       ke                           qu' est ce que c' est
@@ -1699,6 +1728,7 @@
 2172 il est                        i le                          où il est Grégoire ?
 2173 qu' est                       ke                           qu' est ce que tu fais
 2177 qu' est                       ke                           qu' est ce qu' on voit
+2177 qu' on                        k§                           est ce qu' on voit
 2180 qu' est                       ke                           qu' est ce qu' il fait
 2180 qu' il                        kil                          est ce qu' il fait
 2181 hum hum                       9 m9m                         hum hum .
@@ -1740,6 +1770,7 @@
 2225 voiture elle                  vwa-ty REl                    l' autre voiture elle est mouillée
 2225 elle est                      RE le                         autre voiture elle est mouillée
 2228 qu' est                       ke                           qu' est ce qu' on va
+2228 qu' on                        k§                           est ce qu' on va
 2229 une oreille                   y no-REj                      une oreille ?
 2230 elle est                      E le                          elle est partie chercher une oreille
 2230 une oreille                   y no-REj                      partie chercher une oreille maman
@@ -1762,9 +1793,11 @@
 2255 couleur elle                  ku-l9 REl                     de quelle couleur elle est la
 2255 elle est                      RE le                         quelle couleur elle est la
 2257 c' est                        se                           qui c' est qu' on entend
-2257 on entend                     § n@-t@                       est qu' on entend ?
+2257 qu' on                        k§n                          c' est qu' on entend
+2257 on entend                     k§ n@-t@                      est qu' on entend ?
 2259 c' est                        se                           regarde qui c' est qui
 2273 qu' est                       ke                           qu' est ce qu' on fait
+2273 qu' on                        k§                           est ce qu' on fait
 2274 qu' est                       ke                           qu' est ce qui se passe
 2276 encore une                    @-kO Ryn                      oh encore une voiture .
 2278 il est                        i le                          où il est l' oiseau ?
@@ -1783,6 +1816,8 @@
 2294 c' est                        se                           c' est bien .
 2295 c' est                        se                           c' est bien .
 2296 qu' est                       ke                           qu' est ce qu' on fait
+2296 qu' on                        k§                           est ce qu' on fait
+2296 Grégoire on                   gRe-gwa R§                    on fait Grégoire on va
 2296 dans une                      d@ zyn                        on va dans une autre
 2296 une autre                     zy not                        va dans une autre pièce
 2299 il est                        i le                          où il est parti l' oiseau
@@ -1852,9 +1887,11 @@
 2389 commences à                   ko-m@ sa                      vois tu commences à dire
 2390 d' accord                     da-kOR                       d' accord .
 2393 sont ils                      s§ til                        à qui sont ils ces
+2395 alors on                      a-lO R§                       alors on va pas les déranger
 2397 qu' est                       ke                           qu' est ce que c' est
 2397 c' est                        se                           ce que c' est ça
 2398 c' est                        se                           ah c' est Pinpin !
+2399 qu' on                        k§                           faisait longtemps qu' on l'
 2399 l' avait                      la-vE                        qu' on l' avait pas
 2400 qu' est                       ke                           qu' est ce qu' il va
 2400 qu' il                        kil                          est ce qu' il va
@@ -1952,6 +1989,7 @@
 2534 qu' il                        kil                          est ce qu' il faut
 2541 c' est                        se                           c' est Christian i(l) fait ?
 2543 qu' est                       ke                           et après qu' est ce
+2543 qu' on                        k§                           est ce qu' on fait
 2545 qu' est                       ke                           qu' est ce qu' il faut
 2545 qu' il                        kil                          est ce qu' il faut
 2549 on ouvre                      § nuvR                        comment on ouvre ?
@@ -2277,6 +2315,7 @@
 2956 s' asseoir                    sa-swaR                      pas trop s' asseoir sur
 2957 qu' il                        kil                          je crois qu' il est midi
 2957 il est                        ki le                         crois qu' il est midi
+2958 alors on                      a-lO R§                       alors on va éteindre .
 2963 qu' est                       ke                           qu' est ce qu' il sait
 2963 qu' il                        kil                          est ce qu' il sait
 2963 dire hein                     di R5                         il sait dire hein Adrien
@@ -2359,6 +2398,7 @@
 3104 il y                          ki li                         est qu' il y a
 3108 qu' est                       ke                           qu' est ce que ça peut
 3108 peut être                     p2 tEtR                       que ça peut être ?
+3113 qu' on                        k§                           ah ah qu' on filme cette
 3114 est elle                      e tEl                         où est elle ?
 3115 est elle                      e tEl                         où est elle passée ?
 3116 est elle                      e tEl                         où est elle passée la fourmi
@@ -2374,6 +2414,7 @@
 3128 l' avais                      la-vE                        toi qui l' avais jetée
 3129 t' assure                     ta-syR                       là je t' assure que
 3129 c' est                        se                           assure que c' est vraiment
+3130 Grégoire on                   gRe-gwa R§                    allez Grégoire on rentre parce que
 3130 c' est                        se                           parce que c' est trop
 3133 est elle                      e tEl                         où est elle ?
 3136 qu' est                       ke                           qu' est ce que c' est
@@ -2381,9 +2422,11 @@
 3138 l' ai                         lE                           je ne l' ai pas vu
 3139 l' ai                         lE                           je ne l' ai pas vu
 3141 qu' est                       ke                           qu' est ce qu' on voit
+3141 qu' on                        k§                           est ce qu' on voit
 3148 qu' est                       ke                           qu' est ce qui passe dans
 3153 il est                        i le                          il est parti en bateau dans
 3153 l' eau                        lo                           bateau dans l' eau ?
+3154 qu' on                        k§                           veux pas qu' on rentre
 3155 d' accord                     da-kOR                       on rentre d' accord ?
 3156 il y                          i li                          que là il y a
 3161 bonhomme obéissant            bo-nO mo-be-i-s@              un grand bonhomme obéissant .
@@ -2402,14 +2445,17 @@
 3184 d' énoncés                    de-n§-se                     des reprises d' énoncés correctes
 3186 j' entérine                   Z@-te-Rin                    moi j' entérine pas les erreurs
 3186 les erreurs                   le zE-R9R                     entérine pas les erreurs .
-3188 ont une                       § tyn                         les feedback ont une importance
+3188 feedback ont                  fid-ba k§t                    , les feedback ont une
+3188 ont une                       k§ tyn                        les feedback ont une importance
 3188 une importance                ty n5-pOR-t@s                 feedback ont une importance mais
+3188 qu' on                        k§                           pas celle qu' on leur
 3188 leur accorde                  l9 Ra-kORd                    qu' on leur accorde .
 3189 l' autre                      lot                          même que l' autre jour
 3189 jour il                       Zu Ril                        l' autre jour il appelait
 3189 il appelait                   Ri la-plE                     autre jour il appelait le
 3189 d' Adrien                     da-dRi-j5                    le copain d' Adrien au
 3190 l' entendre                   l@-t@d                       force de l' entendre dire
+3191 écoute on                     e-ku t§                       écoute on dit pas Nicoia ,
 3192 en insistant                  @ n5-sis-t@                   et en insistant bien , en
 3194 l' a                          la                           et ça l' a fait rire
 3194 rire et                       Ri Re                         a fait rire et il
@@ -2470,6 +2516,7 @@
 3253 l' enlever                    l@l-ve                       pour l' enlever ?
 3258 t' avais                      ta-vE                        je t' avais posé là pour
 3258 t' agrippe                    ta-gRip                      que Christian t' agrippe mais
+3260 Grégoire on                   gRe-gwa R§                    écoute Grégoire on va dans une
 3260 dans une                      d@ zyn                        on va dans une autre
 3260 une autre                     zy not                        va dans une autre pièce
 3263 qu' est                       ke                           de terre qu' est ce
@@ -2536,8 +2583,10 @@
 3330 miettes ici                   mjE ti-si                     mettre de miettes ici .
 3331 n' es                         nE                           Grégoire tu n' es pas
 3335 qu' ils                       kil                          du thym qu' ils m'
+3335 m' ont                        m§                           qu' ils m' ont ramené
 3335 qu' il                        kil                          , parce qu' il était
 3335 il était                      ki le-tE                      parce qu' il était en
+3336 l' ont                        l§                           ils me l' ont ramené
 3336 il a                          i la                          tout ça il a pas
 3338 qu' est                       ke                           qu' est ce que c' est
 3338 c' est                        se                           ce que c' est le
@@ -2587,7 +2636,8 @@
 3404 qu' est                       ke                           qu' est ce qu' il dit
 3404 qu' il                        kil                          est ce qu' il dit
 3405 qu' est                       ke                           qu' est ce que tu dis
-3408 on y                          § ni                          alors on y va ?
+3408 alors on                      a-lO R§n                      alors on y va ?
+3408 on y                          R§ ni                         alors on y va ?
 3409 qu' est                       ke                           qu' est ce qu' il a
 3409 qu' il                        kil                          est ce qu' il a
 3409 il a                          ki la                         ce qu' il a dit
@@ -2621,6 +2671,7 @@
 3452 c' est                        se                           où c' est que tu vas
 3454 d' accord                     da-kOR                       partir oui d' accord .
 3455 qu' est                       ke                           et qu' est ce qu' on
+3455 qu' on                        k§                           est ce qu' on fait
 3457 qu' est                       ke                           qu' est ce qu' il fait
 3457 qu' il                        kil                          est ce qu' il fait
 3458 qu' est                       ke                           qu' est ce qu' il fait
@@ -2675,7 +2726,9 @@
 3500 d' arracher                   da-Ra-Se                     peu dissuadé d' arracher les
 3503 qu' est                       ke                           qu' est ce que tu veux
 3504 c' est                        se                           mais c' est toi justement qu'
-3509 on y                          § ni                          veux qu' on y aille
+3504 qu' on                        k§                           toi justement qu' on filme
+3509 qu' on                        k§n                          tu veux qu' on y aille
+3509 on y                          k§ ni                         veux qu' on y aille
 3510 l' attire                     la-tiR                       que je l' attire dans
 3511 m' a                          ma                           il m' a dit tout à
 3511 tout à                        tu ta                         a dit tout à l'
@@ -2694,6 +2747,7 @@
 3520 chose il                      So zil                        veut quelque chose il agrippe
 3520 il agrippe                    zi la-gRip                    quelque chose il agrippe le
 3521 c' est                        se                           c' est rangé dis moi .
+3523 donc on                       d§ k§                         mais dis donc on n'
 3523 n' est                        ne                           donc on n' est plus
 3524 c' était                      se-tE                        la lumière c' était au
 3525 faire un                      fE R1                         tu pourrais faire un gros plan
@@ -2712,6 +2766,7 @@
 3540 d' accord                     da-kOR                       ah d' accord .
 3541 en a                          @ na                          et y en a encore de
 3541 remplir à                     R@-pli Ra                     de quoi remplir à peu
+3541 comme on                      kO m§                         tout mais comme on les
 3545 trucs et                      tRy ke                        clipos les trucs et les
 3547 donnes un                     dO n1                         tu en donnes un à Christian
 3548 qu' est                       ke                           qu' est ce que c' est
@@ -2735,6 +2790,7 @@
 3579 Grégoire écoute               gRe-gwa Re-kut                dis moi Grégoire écoute moi .
 3581 qu' il                        kil                          je crois qu' il va
 3583 qu' est                       ke                           qu' est ce que tu as
+3588 qu' on                        k§                           tu veux qu' on joue avec
 3590 qu' est                       ke                           alors qu' est ce que tu
 3593 c' est                        set                          c' est à toi ce ballon
 3593 est à                         se ta                         c' est à toi ce ballon
@@ -2814,7 +2870,8 @@
 3680 n' a                          na                           qu' il n' a pas
 3682 tout à                        tu ta                         tout à l' heure on ira
 3682 l' heure                      l9R                          tout à l' heure on ira
-3682 on ira                        § ni-Ra                       l' heure on ira dans
+3682 heure on                      l9 R§n                        à l' heure on ira
+3682 on ira                        R§ ni-Ra                      l' heure on ira dans
 3682 dans un                       d@ z1                         on ira dans un square
 3682 n' ira                        ni-Ra                        quartier on n' ira pas
 3682 jusqu' au                     Zys ko                        ira pas jusqu' au parc
@@ -2827,6 +2884,7 @@
 3687 c' est                        se                           donc Grégoire c' est brutal
 3688 un enfant                     1 n@-f@                       je suis un enfant très moteur
 3691 c' est                        se                           surtout important c' est le
+3692 qu' on                        k§                           il faut qu' on voit
 3693 en a                          @ na                          y en a combien là des
 3697 il a                          i la                          il a touché une deux .
 3698 il a                          i la                          il a compté une deux trois
@@ -2841,6 +2899,7 @@
 3712 n' a                          na                           télévision française n' a pas
 3712 ces enfants                   se z@-f@                      échappé à ces enfants .
 3714 c' est                        se                           mais c' est toi qu' on
+3714 qu' on                        k§                           est toi qu' on filme
 3717 qu' est                       ke                           qu' est ce que tu vois
 3718 n' est                        ne                           rien n' est ce pas ?
 3719 l' oeil                       l9j                          place de l' oeil .
@@ -2911,7 +2970,8 @@
 3762 des objets                    de zOb-ZE                     c' est des objets .
 3764 qu' il                        kil                          crois pas qu' il ait
 3764 il ait                        ki le                         pas qu' il ait encore
-3766 on en                         § n@                          autant qu' on en veut
+3766 qu' on                        k§n                          lui autant qu' on en
+3766 on en                         k§ n@                         autant qu' on en veut
 3766 une une                       y nyn                         y a une une opposition
 3766 une opposition                ny no-po-zi-sj§               a une une opposition mien
 3767 d' accord                     da-kOR                       d' accord .
@@ -3051,7 +3111,8 @@
 3901 vas y                         va zi                         vas y Grégoire !
 3902 qu' est                       ke                           alors qu' est ce que ça
 3906 c' est                        se                           c' est quand même mieux que
-3906 on avait                      § na-vE                       a qu' on avait y
+3906 qu' on                        k§n                          que a qu' on avait
+3906 on avait                      k§ na-vE                      a qu' on avait y
 3909 marche encore                 maR S@-kOR                    elle marche encore la voiture ?
 3910 qu' est                       ke                           qu' est ce qu' elle a
 3910 qu' elle                      kEl                          est ce qu' elle a
@@ -3080,7 +3141,8 @@
 3935 très intéressant              tRE z5-te-RE-s@               a paru très intéressant .
 3936 c' est                        set                          c' est exactement le processus de
 3936 est exactement                se tEg-zak-t°-m@              c' est exactement le processus de
-3936 on appelle                    § na-pEl                      méchante qu' on appelle d'
+3936 qu' on                        k§n                          terrible méchante qu' on appelle
+3936 on appelle                    k§ na-pEl                     méchante qu' on appelle d'
 3936 d' un                         d1                           on appelle d' un petit
 3936 qu' après                     ka-pRE                       se disant qu' après tout
 3938 c' est                        set                          belles voitures c' est une
@@ -3120,7 +3182,8 @@
 3965 l' heure                      l9R                          tout à l' heure futur
 3965 futur immédiat                fy-ty Ri-me-dja               l' heure futur immédiat .
 3966 d' accord                     da-kOR                       d' accord .
-3974 on en                         § n@n                         dis donc on en aura
+3974 donc on                       d§ k§n                        bien dis donc on en
+3974 on en                         k§ n@n                        dis donc on en aura
 3974 en aura                       n@ no-Ra                      donc on en aura quand
 3974 même enregistré               mE m@R-Zis-tRe                aura quand même enregistré une
 3977 c' est                        se                           eh oui c' est difficile .
@@ -3171,7 +3234,8 @@
 4012 c' est                        se                           se mélange c' est plutôt
 4012 qu' il                        kil                          est plutôt qu' il te
 4012 l' orage                      lo-RaZ                       parle de l' orage qu'
-4012 on a                          § na                          orage qu' on a entendu
+4012 qu' on                        k§n                          l' orage qu' on a
+4012 on a                          k§ na                         orage qu' on a entendu
 4012 l' autre                      lot                          a entendu l' autre jour
 4012 jour et                       Zu Re                         l' autre jour et qui
 4014 peut être                     p2 tEt                        alors peut être qu' il associe
@@ -3206,6 +3270,7 @@
 4031 c' est                        se                           c' est des beaux monstres ?
 4034 les aimes                     le zEm                        que tu les aimes les
 4037 d' Adrien                     da-dRi-j5                    la chambre d' Adrien nous
+4040 qu' on                        k§                           il faudrait qu' on l'
 4040 l' envoie                     l@-vwa                       qu' on l' envoie dans
 4040 chambre et                    S@b Re                        dans la chambre et qu'
 4040 qu' il                        kil                          chambre et qu' il revienne
@@ -3221,8 +3286,10 @@
 4057 m' expliques                  mEk-splik                    que tu m' expliques .
 4058 qu' est                       ke                           qu' est ce que c' est
 4058 c' est                        se                           ce que c' est que
-4059 monstres ils                  m§st Ril                      et les monstres ils ont
-4060 monstres ils                  m§st Ril                      Grégoire les monstres ils ont mangé
+4059 monstres ils                  m§st Rilz                     et les monstres ils ont
+4059 ils ont                       Ril z§                        les monstres ils ont mangé
+4060 monstres ils                  m§st Rilz                     Grégoire les monstres ils ont mangé
+4060 ils ont                       Ril z§                        les monstres ils ont mangé
 4072 t' as                         ta                           t' as mal au petit genou
 4072 mal au                        ma lo                         t' as mal au petit genou
 4073 qu' il                        kil                          faut pas qu' il y
@@ -3268,7 +3335,8 @@
 4099 il a                          i la                          absolument terrifié il a plongé
 4099 il a                          i la                          bébé et il a vraiment
 4099 grosse angoisse               gRo s@-gwas                   grosse grosse grosse angoisse qu'
-4099 on a                          § na                          angoisse qu' on a retrouvée
+4099 qu' on                        k§n                          grosse angoisse qu' on a
+4099 on a                          k§ na                         angoisse qu' on a retrouvée
 4100 trois heures                  tRwa z9R                      à trois heures du matin il
 4100 il était                      i le-tE                       du matin il était dans
 4100 qu' il                        kil                          en criant qu' il y
@@ -3386,6 +3454,7 @@
 4219 chose assez                   So za-se                      réformuler quelque chose assez souvent
 4220 d' un                         d1n                          tu vois d' un air de
 4220 un air                        d1 nER                        vois d' un air de
+4224 qu' on                        k§                           je crois qu' on va
 4224 les enfants                   le z@-f@                      de filmer les enfants .
 4228 l' as                         la                           tu l' as mise dans ta
 4229 c' est                        se                           c' est pas drôle parce que
@@ -3453,8 +3522,10 @@
 4294 l' épisode                    le-pi-zOd                    as remarqué l' épisode je
 4294 langue à                      l@ ga                         tire la langue à mon
 4295 j' ai                         ZE                           j' ai vu là .
-4298 on attend                     § na-t@                       alors on attend le prochain retour
+4298 alors on                      a-lO R§n                      alors on attend le prochain retour
+4298 on attend                     R§ na-t@                      alors on attend le prochain retour
 4298 retour et                     R°-tu Re                      le prochain retour et je
+4298 qu' on                        k§                           je crois qu' on va
 4299 s' est                        se                           ah il s' est flanqué par
 4303 qu' est                       ke                           qu' est ce qui t' arrive
 4303 t' arrive                     ta-Riv                       ce qui t' arrive ?
@@ -3471,6 +3542,7 @@
 4323 tout à                        tu ta                         tout à l' heure .
 4323 l' heure                      l9R                          tout à l' heure .
 4325 une épée                      y ne-pe                       je vois une épée qu'
+4325 qu' on                        k§                           une épée qu' on va
 4326 elle est                      E le                          elle est juste sous le livre
 4327 qu' est                       ke                           alors qu' est ce que tu
 4328 qu' est                       ke                           oui et qu' est ce que
@@ -3533,6 +3605,7 @@
 4392 trop ému                      tRo pe-my                     il est trop ému .
 4393 c' est                        set                          oui c' est un retour de
 4393 est un                        se t1                         oui c' est un retour de
+4394 qu' on                        k§                           a longtemps qu' on s'
 4394 s' était                      se-tE                        qu' on s' était pas
 4395 qu' il                        kil                          tu notes qu' il n' y
 4395 n' y                          ni                           qu' il n' y a
@@ -3579,6 +3652,7 @@
 4411 deuxième étape                d2-zjE me-tap                 alors la deuxième étape .
 4412 c' est                        se                           c' est des essais pour voir
 4412 des essais                    de ze-sE                      c' est des essais pour voir
+4412 même on                       mE m§                         si quand même on pourrait
 4414 t' a                          ta                           il t' a montré qu' il
 4414 qu' il                        kil                          a montré qu' il le
 4415 alors après                   a-lO Ra-pRE                   pis alors après il s' amuse
@@ -3598,7 +3672,8 @@
 4423 un enfant                     d1 n@-f@                      discours d' un enfant comme
 4424 comme il                      kO mil                        en plus comme il sait que
 4424 c' est                        se                           sait que c' est ce
-4424 on attend                     § na-t@                       ce qu' on attend de
+4424 qu' on                        k§n                          est ce qu' on attend
+4424 on attend                     k§ na-t@                      ce qu' on attend de
 4424 d' autant                     do-t@                        il parle d' autant moins
 4425 t' occuperais                 to-ky-pRE                    là tu t' occuperais de
 4425 nous il                       nu zil                        occuperais de nous il viendrait
@@ -3617,7 +3692,9 @@
 4447 c' est                        set                          écoute c' est une habitude qu'
 4447 est une                       se tyn                        écoute c' est une habitude qu'
 4447 une habitude                  ty na-bi-tyd                  c' est une habitude qu'
-4447 on avait                      § na-vE                       habitude qu' on avait pris
+4447 qu' on                        k§n                          une habitude qu' on avait
+4447 on avait                      k§ na-vE                      habitude qu' on avait pris
+4448 filme on                      fil m§                        on les filme on regarde
 4451 il est                        i le                          Pinpin oh il est beau
 4451 il a                          i la                          le Pinpin il a ses
 4451 ses oreilles                  se zo-REj                     il a ses oreilles qu'
@@ -3689,6 +3766,8 @@
 4531 d' abîmer                     da-bi-me                     la peine d' abîmer ce
 4532 même il                       mE mil                        tout de même il ne
 4532 limites hein                  li-mi t5                      dépasser certaines limites hein .
+4534 qu' on                        k§                           tu veux qu' on montre
+4535 qu' on                        k§                           tu veux qu' on lui montre
 4537 j' ai                         ZE                           j' ai dû faire un tri
 4537 faire un                      fE R1                         ai dû faire un tri
 4540 d' accord                     da-kOR                       d' accord ?
@@ -3794,6 +3873,7 @@
 4657 qu' ils                       kil                          nus parce qu' ils risquaient
 4657 s' enfiler                    s@-fi-le                     risquaient de s' enfiler des
 4658 Victor et                     vik-tO Re                     ah oui Victor et Adrien pleurent
+4658 ils ont                       il z§                         pleurent quand ils ont mal
 4658 mal aux                       ma lo                         ils ont mal aux pieds
 4659 c' est                        se                           ben oui c' est normal .
 4662 qu' est                       ke                           et qu' est ce que tu
@@ -3820,6 +3900,7 @@
 4680 il a                          ki la                         ce qu' il a crié
 4687 t' avais                      ta-vE                        t' avais crié très fort .
 4688 il avait                      i la-vE                       il avait fallu qu' on te
+4688 qu' on                        k§                           avait fallu qu' on te
 4690 qu' est                       ke                           et qu' est ce que tu
 4692 qu' est                       ke                           qu' est ce que c' était
 4692 c' était                      se-tE                        ce que c' était ?
@@ -3849,7 +3930,8 @@
 4695 piscine et                    pi-si ne                      la grande piscine et j'
 4695 j' ai                         ZE                           piscine et j' ai peur
 4696 n' est                        ne                           on n' est plus retourné dans
-4696 on attendra                   § na-t@-dRa                   grande piscine on attendra qu'
+4696 piscine on                    pi-si n§n                     la grande piscine on attendra
+4696 on attendra                   n§ na-t@-dRa                  grande piscine on attendra qu'
 4696 qu' il                        kil                          on attendra qu' il soit
 4696 cet enfant                    sE t@-f@                      plus grand cet enfant .
 4698 c' était                      se-tE                        oh qui c' était ça ?
@@ -4011,6 +4093,7 @@
 4844 d' accord                     da-kOR                       d' accord .
 4849 c' est                        se                           si c' est ma photo donne
 4852 d' accord                     da-kOR                       d' accord .
+4855 apporte on                    a-pOR t§                      la photo apporte on va
 4855 mettre avec                   mEt Ra-vEk                    va la mettre avec les
 4855 les autres                    le zotR                       mettre avec les autres .
 4856 les autres                    le zotR                       mets avec les autres ?
@@ -4021,6 +4104,7 @@
 4868 m' a                          ma                           mais il m' a dit
 4868 l' air                        lER                          vole dans l' air .
 4870 vole avec                     vO la-vEk                     il vole avec ses fesses .
+4874 puce on                       py s§                         donne ma puce on va
 4874 dans un                       d@ z1n                        les coller dans un album
 4874 un album                      z1 nal-bOm                    coller dans un album .
 4875 s' il                         sil                          la moi s' il te
@@ -4144,6 +4228,7 @@
 5015 c' était                      se-tE                        était trompé c' était pas
 5016 c' est                        se                           c' est pas des petites tomates
 5016 c' est                        se                           petites tomates c' est des
+5016 qu' on                        k§                           des choses qu' on ne
 5020 c' est                        se                           c' est pas des petites tomates
 5020 tomates hein                  to-ma t5                      des petites tomates hein .
 5021 c' était                      se-tE                        de Papy c' était pas
@@ -4158,6 +4243,7 @@
 5027 c' est                        se                           ben c' est les schtroumpfs qui
 5029 c' est                        se                           sais comment c' est et
 5029 c' est                        se                           sais que c' est poison
+5032 qu' on                        k§                           tout ce qu' on trouve
 5033 les autres                    le zotR                       et dans les autres .
 5036 c' est                        se                           c' est bien .
 5037 elle est                      E le                          elle est par derrière lui .
@@ -4251,6 +4337,7 @@
 5150 tes épaules                   te ze-pol                     bretelles sur tes épaules .
 5153 c' est                        se                           voilà c' est bien mon poussin
 5155 c' est                        se                           c' est comme ça qu' on
+5155 qu' on                        k§                           comme ça qu' on devient
 5156 encore et                     @-kO Re                       as essayé encore et tu
 5159 t' as                         ta                           t' as pas m' aidé hein
 5159 m' aidé                       mE-de                        as pas m' aidé hein
@@ -4305,6 +4392,7 @@
 5201 les hommes                    le zOm                        tous les hommes tous les petits
 5201 les hommes                    le zOm                        et tous les hommes .
 5204 c' est                        se                           un zizi c' est certain
+5209 qu' on                        k§                           tu veux qu' on regarde un
 5209 regarde un                    R°-gaR d1n                    qu' on regarde un autre
 5209 un autre                      d1 not                        on regarde un autre livre
 5211 n' avait                      na-vE                        oh on n' avait pas encore
@@ -4342,6 +4430,7 @@
 5232 c' est                        se                           c' est déjà Adrien ça ?
 5234 il est                        i le                          eh oui il est midi moins
 5235 c' est                        se                           oui c' est Didou ?
+5238 noir on                       nwa R§                        dans le noir on te
 5241 donc allumer                  d§ ka-ly-me                   va donc allumer .
 5243 bonjour Adrien                b§-Zu Ra-dRi-j5               bonjour Adrien .
 5245 alors il                      a-lO Ril                      alors il pleut ?
@@ -4371,6 +4460,7 @@
 5269 l' heure                      l9R                          tout à l' heure .
 5270 l' avais                      la-vE                        je te l' avais donné il
 5270 il était                      i le-tE                       avais donné il était sur
+5273 qu' on                        k§                           tu veux qu' on regarde
 5275 avec un                       a-vE k1                       avec un bateau qui ressemble beaucoup
 5275 beaucoup au                   bo-ku po                      qui ressemble beaucoup au tien
 5278 bec aussi                     bE ko-si                      de ton bec aussi parce
@@ -4396,6 +4486,7 @@
 5284 bête hein                     bE t5                         es vraiment bête hein .
 5287 taire et                      tE Re                         préfère me taire et attendre
 5287 c' est                        se                           ça sorte c' est plus
+5289 d' ombre                      d§bR                         pas faire d' ombre Didou
 5290 recule un                     R°-ky l1                      recule un peu voilà que ta
 5291 c' était                      se-tE                        c' était pas toi c' est
 5291 c' est                        se                           pas toi c' est lui
@@ -4408,6 +4499,7 @@
 5293 l' eau                        lo                           bord de l' eau .
 5295 il est                        i le                          où il est Théo ?
 5297 c' est                        se                           Théo c' est ce petit garçon
+5298 sûr on                        sy R§                         bien sûr on peut lire .
 5299 mère a                        mE Ra                         la mère a porté à Théo
 5300 c' est                        set                          c' est une bouteille avec dedans
 5300 est une                       se tyn                        c' est une bouteille avec dedans
@@ -4499,6 +4591,7 @@
 5364 en a                          @ na                          écrit y en a un
 5364 un autre                      1 not                         en a un autre qui
 5365 c' est                        se                           ça c' est des petits coquins
+5365 qu' on                        k§                           coquins parce qu' on peut
 5366 c' est                        se                           là c' est Théo qui met
 5367 c' est                        se                           de qui c' est qui
 5367 commence à                    ko-m@ sa                      qui il commence à bien
@@ -4568,12 +4661,14 @@
 5415 il y                          i li                          il y a du soleil ?
 5418 il en                         i l@n                         il en a ras le bol
 5418 en a                          l@ na                         il en a ras le bol
+5419 qu' on                        k§                           je crois qu' on va
 5419 peut être                     p2 tEtR                       on va peut être arrêter
 5419 être arrêter                  tEt Ra-Re-te                  va peut être arrêter .
 5420 nous as                       nu za                         façons tu nous as bien
 5422 peut être                     p2 tEtR                       on va peut être arrêter
 5422 être arrêter                  tEt Ra-Re-te                  va peut être arrêter Grégoire
 5422 Grégoire hein                 gRe-gwa R5                    être arrêter Grégoire hein .
+5423 qu' on                        k§                           veux plus qu' on te
 5423 en as                         @ na                          Grégoire tu en as assez
 5424 on arrête                     § na-REt                      on arrête le film ?
 5427 qu' est                       ke                           oui qu' est ce que tu
@@ -4621,7 +4716,8 @@
 5464 il a                          i la                          il a dit respire l' eau
 5464 l' eau                        lo                           dit respire l' eau lui
 5464 il a                          i la                          eau lui il a dit
-5466 qu' elles                     kEl                          je pense qu' elles ont besoin
+5466 qu' elles                     kElz                         je pense qu' elles ont besoin
+5466 elles ont                     kEl z§                        pense qu' elles ont besoin
 5469 mouettes hum                  mwE t9m                       sont des mouettes hum ?
 5472 m' a                          ma                           ça m' a l' air d'
 5472 l' air                        lER                          m' a l' air d'
@@ -4682,10 +4778,12 @@
 5530 qu' est                       ke                           qu' est ce que tu vois
 5531 c' est                        se                           ça c' est quoi ?
 5535 il est                        i le                          il est joli .
+5541 qu' on                        k§                           quelque chose qu' on n'
 5541 n' a                          na                           qu' on n' a pas
 5542 qu' est                       ke                           alors qu' est ce que tu
 5544 qu' est                       ke                           qu' est ce qu' ils mangent
 5544 qu' ils                       kil                          est ce qu' ils mangent
+5555 qu' on                        k§                           moi voir qu' on filme
 5559 singe avec                    s5 Za-vEk                     moi le singe avec ton
 5560 d' accord                     da-kOR                       ah oui d' accord .
 5561 il est                        i le                          oui oui il est là .
@@ -4789,6 +4887,8 @@
 5670 qu' est                       ke                           qu' est ce qu' il fait
 5670 qu' il                        kil                          est ce qu' il fait
 5673 peut être                     p2 tEtR                       peut être .
+5675 baleines ont                  ba-lE n§                      que les baleines ont des
+5676 elles ont                     El z§                         elles ont des papas baleines .
 5679 avec avec                     a-vE ka-vEk                   avec avec quelque chose que tu
 5680 c' est                        set                          c' est un comment ça s'
 5680 est un                        se t1                         c' est un comment ça s'
@@ -4797,6 +4897,7 @@
 5681 est un                        se t1                         pas c' est un truc
 5681 truc à                        tRy ka                        est un truc à harpon
 5685 avec un                       a-vE k1                       avec un harpon tu vois .
+5686 écoute on                     e-ku t§                       arrête toi écoute on n' a
 5686 n' a                          na                           écoute on n' a pas
 5687 qu' est                       ke                           regarde Grégoire qu' est ce
 5687 qu' est                       ke                           se passe qu' est ce
@@ -4857,7 +4958,8 @@
 5761 dans un                       d@ z1                         dans un livre ?
 5762 c' est                        se                           là c' est la couverture c'
 5762 c' est                        se                           la couverture c' est fini
-5763 on arrête                     § na-REt                      le livre on arrête le
+5763 livre on                      liv R§n                       referme le livre on arrête
+5763 on arrête                     R§ na-REt                     le livre on arrête le
 5763 film okay                     fil mo-kE                     arrête le film okay ?
 5768 qu' est                       ke                           qu' est ce que ça veut
 5769 peut être                     p2 tEtR                       ça clignote peut être .
@@ -4887,9 +4989,11 @@
 5799 l' a                          la                           mais tu l' a retrouvée
 5800 d' accord                     da-kOR                       ah oui d' accord .
 5801 qu' est                       ke                           qu' est ce qui se passe
+5804 regarde on                    R°-gaR d§                     ah regarde on filme là qu'
 5804 qu' est                       ke                           filme là qu' est ce
 5804 c' est                        se                           ce que c' est que
 5806 c' est                        se                           pourrais plus c' est toi
+5806 qu' on                        k§                           est toi qu' on filme
 5807 qu' est                       ke                           qu' est ce que c' est
 5807 c' est                        se                           ce que c' est raconte
 5807 c' est                        se                           ce que c' est que
@@ -4910,8 +5014,10 @@
 5818 est à                         le ta                         alors il est à Victor .
 5819 d' accord                     da-kOR                       d' accord .
 5820 qu' est                       ke                           et qu' est ce qu' on
+5820 qu' on                        k§                           est ce qu' on peut
 5820 faire avec                    fE Ra-vEk                     on peut faire avec ?
 5821 qu' est                       ke                           oui mais qu' est ce
+5821 qu' on                        k§                           est ce qu' on peut
 5822 m' empêche                    m@-pES                       moi ça m' empêche de
 5822 comme il                      kO mil                        de jouer comme il faut
 5826 c' est                        se                           crois que c' est ma
@@ -4968,6 +5074,7 @@
 5873 c' est                        se                           ce que c' est ?
 5874 c' est                        se                           c' est parce que il y
 5874 il y                          i li                          parce que il y a
+5874 alors on                      a-lO R§                       toi et alors on voit
 5874 l' objectif                   lOb-ZEk-tif                  soleil dans l' objectif de
 5875 porte est                     pOR tet                       oui la porte est ouverte
 5875 est ouverte                   te tu-vERt                    la porte est ouverte .
@@ -5249,9 +5356,11 @@
 6113 c' est                        se                           trop lourd c' est trop
 6113 elle est                      E let                         faire cela elle est apparue
 6113 est apparue                   le ta-pa-Ry                   cela elle est apparue y
+6114 sûr on                        sy R§                         mais bien sûr on va travailler
 6114 on est                        § net                         va travailler on est en
 6114 est en                        ne t@                         travailler on est en train
 6114 c' est                        se                           tu vois c' est bien
+6114 qu' on                        k§                           est bien qu' on change
 6118 d' avis                       da-vi                        tu changes d' avis rapidement
 6119 ses affaires                  se za-fER                     alors ses affaires ça c' est
 6119 c' est                        se                           affaires ça c' est quoi
@@ -5271,7 +5380,9 @@
 6134 un hélicoptère                1 ne-li-kOp-tER               tu as un hélicoptère eh
 6134 hélicoptère eh                ne-li-kOp-tE Re               as un hélicoptère eh je
 6134 un hélicoptère                1 ne-li-kOp-tER               tu as un hélicoptère .
-6135 on a                          § na                          alors on a bien travaillé avec
+6135 alors on                      a-lO R§n                      alors on a bien travaillé avec
+6135 on a                          R§ na                         alors on a bien travaillé avec
+6138 écoute on                     e-ku t§                       ah ben écoute on ne peut
 6139 m' a                          ma                           voilà il m' a raconté toutes
 6139 ses histoires                 se zis-twaR                   raconté toutes ses histoires au
 6139 histoires au                  zis-twa Ro                    toutes ses histoires au bord
@@ -5392,6 +5503,7 @@
 6255 qu' il                        kil                          est pas qu' il se
 6255 c' est                        se                           se casse c' est qu'
 6255 qu' il                        kil                          c' est qu' il faut
+6256 sûr on                        sy R§                         côté bien sûr on n'
 6256 n' entend                     n@-t@                        sûr on n' entend rien
 6259 j' aime                       ZEm                          que moi j' aime bien
 6259 bien aussi                    bj5 no-si                     j' aime bien aussi cette
@@ -5414,7 +5526,8 @@
 6271 t' a                          ta                           elle t' a coupé ?
 6272 t' avait                      ta-vE                        mais elle t' avait .
 6273 c' est                        se                           c' est pas vraiment ce qu'
-6273 on appelle                    § na-pEl                      ce qu' on appelle couper
+6273 qu' on                        k§n                          vraiment ce qu' on appelle
+6273 on appelle                    k§ na-pEl                     ce qu' on appelle couper
 6274 elle avait                    E la-vE                       elle avait fait des trous dans
 6275 elle avait                    E la-vE                       elle avait fait des trous dans
 6276 c' est                        set                          c' est une coquine Coline hein
@@ -5460,6 +5573,7 @@
 6312 jeep okay                     dZi po-kE                     as une jeep okay .
 6315 d' accord                     da-kOR                       ah d' accord .
 6322 il y                          i li                          peu où il y a
+6322 puisque on                    p8is k§                       là bas puisque on te
 6325 c' est                        se                           c' est bien ça .
 6329 qu' est                       ke                           qu' est ce qui a fait
 6330 c' est                        se                           c' est dans ma poche .
@@ -5467,8 +5581,9 @@
 6331 c' est                        se                           poche , c' est vraiment
 6331 c' est                        se                           vraiment , c' est vrai
 6332 c' est                        se                           c' est dans ma poche ça
-6333 il est                        i le                          il est onze heures six et
-6333 onze heures                   § z9R                         il est onze heures six et
+6333 il est                        i let                         il est onze heures six et
+6333 est onze                      le t§z                        il est onze heures six et
+6333 onze heures                   t§ z9R                        il est onze heures six et
 6333 six et                        si se                         onze heures six et puis
 6334 c' est                        se                           c' est plein de papiers qui
 6334 l' ouvre                      luvR                         si on l' ouvre .
