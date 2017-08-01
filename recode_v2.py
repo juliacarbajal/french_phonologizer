@@ -52,11 +52,12 @@ adjectives = [] # Only adjectives finishing in a liaison consonant, to add to ma
 V_adjectives =[] # All vowel-initial adjectives, for plural noun + adjective rule
 with open('output_ADJ.txt') as ADJlist:
 	for line in ADJlist:
-		line = line.strip()
-		if line[0] in vowels: 
-			V_adjectives.append(line) 
-		if line[-1] in liaison: 
-			adjectives.append(line)
+		line = line.strip().decode('cp1252').encode('utf-8')
+		if line in dico:
+			if line[0] in vowels: 
+				V_adjectives.append(line) 
+			if (line[-1] in liaison) and (dico[line][-1] != liaison[line[-1]]): 
+				adjectives.append(line)
 
 adjectives = adjectives + ['deux', 'trois', 'vingt', 'cent']
 
@@ -64,7 +65,7 @@ adjectives = adjectives + ['deux', 'trois', 'vingt', 'cent']
 plural_nouns = []
 with open('output_NOMp.txt') as NOMlist:
 	for line in NOMlist:
-		line = line.strip()
+		line = line.strip().decode('cp1252').encode('utf-8')
 		if line[-1] in liaison: # Only nouns finishing in a liaison consonant (this only excludes very few cases that don't finish in s or x)
 			plural_nouns.append(line)
 			
