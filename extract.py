@@ -27,7 +27,7 @@ with open('participants.txt') as Plist:
 		aux = line.split()
 		if (aux[0] == '0') and (aux[2] not in participants):
 			participants.append(aux[2])
-		if ('Target_Child' in aux[5]):
+		if (aux[2] == 'CHI'):
 			child_info = aux[5].split('|')
 			age[aux[1]] = child_info[3]
 
