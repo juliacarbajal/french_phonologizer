@@ -213,6 +213,7 @@ only_before['prenons'] = 'en'
 only_before['comment'] = 'allez'
 only_before['quand']   = 'est'
 only_before['quant']   = ['à', 'aux']
+only_before['avait']   = ['un', 'une']
 
 # Enchainement exceptions:
 enchainement_exceptions = ['9m']
