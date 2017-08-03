@@ -214,6 +214,8 @@ only_before['comment'] = 'allez'
 only_before['quand']   = 'est'
 only_before['quant']   = ['à', 'aux']
 
+# Enchainement exceptions:
+enchainement_exceptions = ['9m']
 
 #### FUNCTIONS ####
 
@@ -300,9 +302,10 @@ def check_enchainement(all_words, k) :
 	# k: index of the current word
 	do_enchainement = False
 	current_word = all_words[k]
-	next_word    = all_words[k+1].replace('§', '4').replace('°', '6') # Replace special characters before matching vowels
-	if (current_word[-1] in (consonants + ["'"])) and (next_word[0] in vowels):
-		do_enchainement = True
+	if (current_word not in enchainement_exceptions):
+		next_word    = all_words[k+1].replace('§', '4').replace('°', '6') # Replace special characters before matching vowels
+		if (current_word[-1] in (consonants + ["'"])) and (next_word[0] in vowels):
+			do_enchainement = True
 	return do_enchainement
 
 def print_applied_liaison(line_index, all_words, k, transcribed_word, file_name):

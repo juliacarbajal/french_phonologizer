@@ -11,7 +11,7 @@ greg01.cha 1 9 18 da-bi-ty di la k@ mEm l9j ply vif .
 greg01.cha 1 9 18 vwa-la !
 greg01.cha 1 9 18 ZE R°-maR-ke , lot ZuR , i la-vE la bwat dy Z2 de-SE ke a-lO Ril sa-my-zE a mEt Ryn pjEs .
 greg01.cha 1 9 18 a @-kl@-Se yn pjEs d@ zyn kaz dy da-mje e a-lOR k@ i la-vE Re-y-si il di-zE vwa-la .
-greg01.cha 1 9 18 9 m9m .
+greg01.cha 1 9 18 9m 9m .
 greg01.cha 1 9 18 Z2 vu z@ si-tRE dotR , de vwa-la ki s§ tRE z5-te-RE-s@ , de vwa-la d2 Re-y-sit , d2 tut sORt .
 greg01.cha 1 9 18 Z@ nE no-te s2 ma-t5 .
 greg01.cha 1 9 18 § na de-Za bo-ku paR-le e ZE no-te , pa mal de-n§-se e i a-vE de z5-tE-Rak-sj§ l§g ki s§ pa mal , @-f5 ki s§ 5-te-RE-s@t .
@@ -199,7 +199,7 @@ greg01.cha 1 9 18 da-kOR .
 greg01.cha 1 9 18 e la , il v2 p2 tEt bj5 vwaR l2 Sj5 .
 greg01.cha 1 9 18 se sa ki la mi syR la pist dy Sj5 tu ta l9R ?
 greg01.cha 1 9 18 k@ i la m§-tRe l2 mOR-so d2 p9zl ?
-greg01.cha 1 9 18 9 m9m .
+greg01.cha 1 9 18 9m 9m .
 greg01.cha 1 9 18 o-kE .
 greg01.cha 1 9 18 m§ pov bu-S§ .
 greg01.cha 1 9 18 tE fa-ti-ge s2 ma-t5 Z2 kRwa k2 ty a e-te ma-lad jER .
@@ -2178,7 +2178,7 @@ greg04.cha 1 11 22 ke s2 k§ vwa d@ la Ry ?
 greg04.cha 1 11 22 a wi i a yn vwa-tyR .
 greg04.cha 1 11 22 e l2 m°-sj2 la ?
 greg04.cha 1 11 22 ke s2 kil fE l2 m°-sj2 ?
-greg04.cha 1 11 22 9 m9m .
+greg04.cha 1 11 22 9m 9m .
 greg04.cha 1 11 22 o o !
 greg04.cha 1 11 22 wi .
 greg04.cha 1 11 22 a-t@-sj§ !
@@ -4702,7 +4702,7 @@ greg08.cha 2 5 01 a-lOR l2 la-p5 d # sO-fi e d°-v°-ny 1 p5-p5 l8i o-si .
 greg08.cha 2 5 01 a bj5 syR .
 greg08.cha 2 5 01 m5t-n@ E le R@-tRe Se zE lEl la-pEl p5-p5 a-lOR sa mER ne pa k§-t@ tEl tRuv kEl d°-vRE diR la-p5 .
 greg08.cha 2 5 01 ty vwa se-tE mi-N§ nOt p°-tit mE-z§ .
-greg08.cha 2 5 01 9 m9m .
+greg08.cha 2 5 01 9m 9m .
 greg08.cha 2 5 01 la i a-vE @ paR-ti-ky-lje yn pER-go-la tRE vas tu § pu-vE pR@d l2 p°-ti de-Z9-ne u la-pRE mi-di le z@-f@ pu-vE de-si-ne .
 greg08.cha 2 5 01 a !
 greg08.cha 2 5 01 pi la i li a tus le z@-f@ .
@@ -4728,7 +4728,7 @@ greg08.cha 2 5 01 # sO-fi e gRe-gwaR !
 greg08.cha 2 5 01 a !
 greg08.cha 2 5 01 a-lOR la Z2 lEm bj5 sEl la ma p°-tit gR°-nuj ki naZ .
 greg08.cha 2 5 01 a-lOR ty naZ .
-greg08.cha 2 5 01 9 m9m .
+greg08.cha 2 5 01 9m 9m .
 greg08.cha 2 5 01 ty vwa kOm se-tE Zo-li o pa-saZ .
 greg08.cha 2 5 01 mE se d@ la gR@d pi-sin la ?
 greg08.cha 2 5 01 n§ .
