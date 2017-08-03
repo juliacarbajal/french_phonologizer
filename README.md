@@ -4,7 +4,7 @@ This script reads a cleaned-up orthographic transcription of corpora from CHILDE
 ## Files
 The main script is called **recode_v2.py**. It is written for Python 2. No special libraries need to be installed.
 
-## Input
+### Input
 The following files are required to run the code
 * **extract.txt**: This file contains a clean orthographic transcription of a corpus. Each line corresponds to one utterance, preceded by the name of the file and the age of the child at the moment the utterance was produced.
 * **french.dic**: This is a simplified version of the Lexique380 French dictionary. It contains only two columns, one with the orthographic forms, and one with the phonological forms.
@@ -12,7 +12,7 @@ The following files are required to run the code
 * **output_NOMp.txt**: List of plural nouns, extracted from Lexique380.
 * **h_aspire.txt**: List of words beginning with h-aspiré, obtained from Wikipedia.
 
-## Output
+### Output
 The following output files are produced when running recode_v2.py. Note that all phonological rules output lists include line number, orthographic form and context to facilitate checking the output.
 * **liaison_cases.txt**: List of all cases where liaison was applied.
 * **liquid_deletion_cases.txt**: List of all cases where liquid deletion was applied.
