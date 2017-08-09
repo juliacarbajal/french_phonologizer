@@ -345,6 +345,18 @@ def check_enchainement(all_words, k) :
 			do_enchainement = True
 	return do_enchainement
 
+def get_context(line, k):
+	if len(line)<6:
+		context = line
+	elif (len(line)>=6) and (k<=2):
+		context = line[:6]
+	elif (len(line)>=6) and (k>2) and (k<= len(line)-2):
+		context = line[k-2:k+3]
+	else:
+		context = line[-6:]
+	context = ' '.join(context)
+	return context
+	
 def print_applied_liaison(line_index, all_words, k, transcribed_word, file_name):
 	# This prints a list of all the liaison cases that were applied.
 	current_word = all_words[k]
@@ -354,15 +366,7 @@ def print_applied_liaison(line_index, all_words, k, transcribed_word, file_name)
 	edited   = (transcribed_word + ' ' + dico[next_word]).decode('utf-8').encode('cp1252').ljust(30)
 	edited   = edited.decode('cp1252').encode('utf-8')
 	# Add a part of the sentence to clarify the context:
-	if len(all_words)<6:
-		context = all_words
-	elif (len(all_words)>=6) and (k<=2):
-		context = all_words[:6]
-	elif (len(all_words)>=6) and (k>2) and (k<= len(all_words)-2):
-		context = all_words[k-2:k+3]
-	else:
-		context = all_words[-6:]
-	context = ' '.join(context)
+	context = get_context(all_words, k)
 	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
 	
 def print_applied_cases(line_index, all_words_phon, k, all_words_ort, transcribed_word, file_name):
@@ -375,15 +379,7 @@ def print_applied_cases(line_index, all_words_phon, k, all_words_ort, transcribe
 	edited   = (transcribed_word + ' ' + next_word_phon).decode('utf-8').encode('cp1252').ljust(30)
 	edited   = edited.decode('cp1252').encode('utf-8')
 	# Add context:
-	if len(all_words_ort) < 6:
-		context = all_words_ort
-	elif (len(all_words_ort) >= 6) and (k <= 2):
-		context = all_words_ort[:6]
-	elif (len(all_words_ort) >= 6) and (k > 2) and (k <= len(all_words_ort)-2):
-		context = all_words_ort[k-2:k+3]
-	else:
-		context = all_words_ort[-6:]
-	context = ' '.join(context)
+	context = get_context(all_words_ort, k)
 	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
 	
 def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcribed_word_2, file_name):
@@ -397,15 +393,7 @@ def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcrib
 	if (edited[0] == ' '): # Correct empty spaces when the first word was absorbed fully by second word
 		edited = edited[1:]
 	# Add context:
-	if len(all_words_ort)<6:
-		context = all_words_ort
-	elif (len(all_words_ort)>=6) and (k<=2):
-		context = all_words_ort[:6]
-	elif (len(all_words_ort)>=6) and (k>2) and (k<= len(all_words_ort)-2):
-		context = all_words_ort[k-2:k+3]
-	else:
-		context = all_words_ort[-6:]
-	context = ' '.join(context)
+	context = get_context(all_words_ort, k)
 	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
 	
 
