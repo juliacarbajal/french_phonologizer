@@ -1,6 +1,10 @@
 # This Python file uses the following encoding: utf-8
 #import sys #This is not necessary anymore (but I'll keep it as a reminder that I might reintroduce it for batch-processing)
 import re
+import os
+
+if not os.path.exists('output'):
+	os.makedirs('output')
 
 #### DICTIONARY ####
 # Special symbols to be added to dictionary:
@@ -23,7 +27,7 @@ dico["s'"]="s'"
 dico["j'"]="Z'"
 
 # Load the Lexique dictionary (pre-compiled):
-with open('french.dic') as dic:
+with open('auxiliary/french.dic') as dic:
 	for line in dic:
 		line = line.decode('cp1252').encode('utf-8')
 		aux = line.split()
@@ -70,7 +74,7 @@ punctuation = [',', '?', '!', '.', ';', ':']
 # Load the adjectives:
 V_adjectives = [] # All vowel-initial adjectives, for plural noun + adjective rule
 adjectives   = [] # Only adjectives finishing in a liaison consonant, to add to mandatory list
-with open('output_ADJ.txt') as ADJlist:
+with open('auxiliary/output_ADJ.txt') as ADJlist:
 	for line in ADJlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		if (line in dico):
@@ -82,7 +86,7 @@ with open('output_ADJ.txt') as ADJlist:
 
 # Load the plural nouns:
 plural_nouns = []
-with open('output_NOMp.txt') as NOMlist:
+with open('auxiliary/output_NOMp.txt') as NOMlist:
 	for line in NOMlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		if (line[-1] in liaison) and (line != 'trucs'):
@@ -90,7 +94,7 @@ with open('output_NOMp.txt') as NOMlist:
 			
 # Load 3rd person verbs:
 verbs_3rd = []
-with open('output_VER.txt') as VERlist:
+with open('auxiliary/output_VER.txt') as VERlist:
 	for line in VERlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		if (line[-1] in liaison) and (line not in ['soit', 'dit']):
@@ -99,7 +103,7 @@ with open('output_VER.txt') as VERlist:
 # Exceptions list:
 # Words beginning with h-aspiré (list retrieved from wikipedia article: https://fr.wikipedia.org/wiki/H_aspiré)
 h_aspire = []
-with open('h_aspire.txt') as Hlist:
+with open('auxiliary/h_aspire.txt') as Hlist:
 	for line in Hlist:
 		line = line.strip()
 		h_aspire.append(line)
@@ -405,8 +409,8 @@ def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcrib
 	
 
 #### 1: FIRST TRANSCRIPTION + LIAISON ####
-f = open('liaison_cases.txt', 'w')
-foutput = open('recoded_with_liaison.txt','w')
+f = open('output/liaison_cases.txt', 'w')
+foutput = open('output/recoded_with_liaison.txt','w')
 
 # Read line by line, transcribe from dictionary and apply liaison if appropriate
 with open('extract.txt') as input_file:
@@ -434,15 +438,15 @@ foutput.close()
 
 
 #### 2: LIQUID DELETION ####
-f2 = open('liquid_deletion_cases.txt', 'w')
-foutput2 = open('recoded_L_D.txt', 'w')
+f2 = open('output/liquid_deletion_cases.txt', 'w')
+foutput2 = open('output/recoded_L_D.txt', 'w')
 
 text_ort = []
 with open('extract.txt') as original_file:
 	for line_ID, line_text in enumerate(original_file):
 		text_ort.append(line_text.strip())
 		
-with open('recoded_with_liaison.txt') as input_file:
+with open('output/recoded_with_liaison.txt') as input_file:
 	
 		for line_ID, line_text in enumerate(input_file):
 			newwords  = []
@@ -463,10 +467,10 @@ foutput2.close()
 
 
 #### 3: SCHWA INSERTION ####
-f3 = open('schwa_insertion_cases.txt', 'w')
-foutput3 = open('recoded_L_D_S.txt', 'w')
+f3 = open('output/schwa_insertion_cases.txt', 'w')
+foutput3 = open('output/recoded_L_D_S.txt', 'w')
 
-with open('recoded_L_D.txt') as input_file:
+with open('output/recoded_L_D.txt') as input_file:
 	for line_ID, line_text in enumerate(input_file):
 		newwords  = []
 		full_line = line_text.split()
@@ -487,10 +491,10 @@ foutput3.close()
 
 
 #### 4: ENCHAINEMENT ####
-f4 = open('enchainement_cases.txt', 'w')
-foutput4 = open('recoded_L_D_S_E.txt', 'w')
+f4 = open('output/enchainement_cases.txt', 'w')
+foutput4 = open('output/recoded_L_D_S_E.txt', 'w')
 
-with open('recoded_L_D_S.txt') as input_file:
+with open('output/recoded_L_D_S.txt') as input_file:
 	for line_ID, line_text in enumerate(input_file):
 		newwords  = []
 		full_line = line_text.split()
