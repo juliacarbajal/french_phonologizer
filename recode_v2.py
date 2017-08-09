@@ -46,6 +46,7 @@ with open('auxiliary/french.dic') as dic:
 # The workaround I found is to replace these special characters with simple
 # characters only for the parts of script that require comparing vowels:
 vowels = ['a','i','e','E','o','O','u','y','4','1','5','2','9','@','6','3']
+semivowels = ['j', '8', 'w']
 
 # Liaison consonants:
 liaison = {}
@@ -79,7 +80,7 @@ with open('auxiliary/output_ADJ.txt') as ADJlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		if (line in dico):
 			first_phon = line.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
-			if (first_phon in vowels): 
+			if (first_phon in vowels+semivowels): 
 				V_adjectives.append(line) 
 			if (line[-1] in liaison) and (dico[line][-1] != liaison[line[-1]]): 
 				adjectives.append(line)
@@ -108,7 +109,7 @@ with open('auxiliary/h_aspire.txt') as Hlist:
 		line = line.strip()
 		h_aspire.append(line)
 # Others
-exceptions_next = ['et', 'oh', 'euh', 'hum', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends'] + h_aspire
+exceptions_next = ['et', 'oh', 'euh', 'hum', 'oui', 'ouais', 'ouah', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends'] + h_aspire
 
 # Liaison cases:
 # Cases that apply always except if followed by specific items
@@ -260,7 +261,7 @@ def check_liaison(all_words, k) :
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
 	next_word_starts_with_vowel = ((next_word in dico) and (next_word not in punctuation) and
-									(dico[next_word].replace('§', '4').replace('°', '6')[0] in vowels)) # I replace special characters for matching vowels	
+									(dico[next_word].replace('§', '4').replace('°', '6')[0] in vowels+semivowels)) # I replace special characters for matching vowels	
 	if (current_word not in punctuation) and (next_word_starts_with_vowel):
 		next_word_2  = all_words[k+2]
 		prev_word    = '#'
@@ -340,7 +341,7 @@ def check_enchainement(all_words, k) :
 	current_word = all_words[k]
 	if (current_word not in enchainement_exceptions):
 		next_word    = all_words[k+1].replace('§', '4').replace('°', '6') # Replace special characters before matching vowels
-		if (current_word[-1] in (consonants + ["'"])) and (next_word[0] in vowels):
+		if (current_word[-1] in (consonants + ["'"])) and (next_word[0] in vowels+semivowels):
 			do_enchainement = True
 	return do_enchainement
 
