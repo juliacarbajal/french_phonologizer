@@ -253,7 +253,7 @@ enchainement_exceptions = ['9m']
 
 #### FUNCTIONS ####
 
-def check_liaison(all_words, k) :
+def check_liaison(line, all_words, k) :
 	# This function checks if liaison applies, returns True or False
 	# all_words: full utterance (as a list)
 	# k: index of the current word
@@ -290,6 +290,11 @@ def check_liaison(all_words, k) :
 		# Case 3: Plural noun + vowel-initial adjective
 		elif (current_word in plural_nouns) and (next_word in V_adjectives) :
 			do_liaison = True
+		
+		# If none of the above cases apply, print in rejected cases file:
+		else:
+			rejected_case = (current_word+' '+next_word).ljust(30)
+			print >> frejected, line, rejected_case, get_context(all_words, k)
 
 		
 	return do_liaison
@@ -400,6 +405,7 @@ def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcrib
 #### 1: FIRST TRANSCRIPTION + LIAISON ####
 f = open('output/liaison_cases.txt', 'w')
 foutput = open('output/recoded_with_liaison.txt','w')
+frejected = open('output/rejected_liaison_cases.txt', 'w')
 
 # Read line by line, transcribe from dictionary and apply liaison if appropriate
 with open('extract.txt') as input_file:
@@ -412,7 +418,7 @@ with open('extract.txt') as input_file:
 			if word in dico:
 				newwords.append(dico[word]) # Transcribe the word
 				lastletter = word[-1]
-				if (lastletter in liaison) and check_liaison(words, i) :
+				if (lastletter in liaison) and check_liaison(line_ID, words, i) :
 					newwords[i] += liaison[lastletter] # Attach liaison consonant
 					if word in denasalization:
 						newwords[i] = denasalization[word]
@@ -424,6 +430,7 @@ with open('extract.txt') as input_file:
 
 f.close()
 foutput.close()
+frejected.close()
 
 
 #### 2: LIQUID DELETION ####

@@ -24,4 +24,4 @@ The following output files are produced when running recode_v2.py. Note that all
 * **recoded_L_D_S_E.txt**: Phonological transcription of the corpus with liaison + liquid deletion + schwa insertion + enchainement.
 
 ## To Do
-* Denasalization of vowels before liaison with *n*.
+* Adapt code for batch processing.
