@@ -1,6 +1,6 @@
 # This Python file uses the following encoding: utf-8
 #import sys #This is not necessary anymore (but I'll keep it as a reminder that I might reintroduce it for batch-processing)
-
+import re
 
 #### DICTIONARY ####
 # Special symbols to be added to dictionary:
@@ -226,8 +226,25 @@ only_before['quand']   = 'est'
 only_before['quant']   = ['à', 'aux']
 only_before['avait']   = ['il', 'elle', 'on'] #['un', 'une']
 
+# Denasalization cases:
+denasalization = {}
+denasalization['bon'] = 'bOn'
+denasalization['certain'] = 'sER-tEn'
+denasalization['moyen'] = 'mwa-jEn'
+denasalization['humain'] = 'y-mEn'
+denasalization['prochain'] = 'pRo-SEN'
+denasalization['sain'] = 'sEn'
+denasalization['lointain'] = 'lw5-tEn'
+denasalization['plein'] = 'plEn'
+denasalization['ancien'] = '@-sjEn'
+denasalization['vain'] = 'vEn'
+denasalization['vilain'] = 'vi-lEn'
+denasalization['divin'] = 'di-vin'
+
+
 # Enchainement exceptions:
 enchainement_exceptions = ['9m']
+
 
 #### FUNCTIONS ####
 
@@ -404,6 +421,8 @@ with open('extract.txt') as input_file:
 				lastletter = word[-1]
 				if (lastletter in liaison) and check_liaison(words, i) :
 					newwords[i] += liaison[lastletter] # Attach liaison consonant
+					if word in denasalization:
+						newwords[i] = denasalization[word]
 					print_applied_liaison(line_ID, words, i, newwords[i], f)
 			else:
 				newwords.append('#') 
