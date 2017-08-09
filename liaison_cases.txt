@@ -6,7 +6,6 @@
 16   en ai                         @n E                          j' en ai noté ce matin
 17   on a                          §n a                          on a déjà beaucoup parlé et
 17   des interactions              dez 5-tE-Rak-sj§              y avait des interactions longues
-18   avait une                     a-vEt yn                      alors y avait une autre
 25   bon usage                     b§n y-zaZ                     dans le bon usage .
 31   très amusant                  tREz a-my-z@                  est très très amusant ,
 32   petit éléphant                p°-tit e-le-f@                aller le petit éléphant ?
@@ -243,6 +242,7 @@
 1990 nous un                       nuz 1                         allez produis nous un peu .
 1998 est un                        et 1                          ça c' est un oiseau
 2055 est elle                      et El                         où est elle maman ?
+2086 trouvent elles                tRuvt El                      où se trouvent elles les
 2129 est un                        et 1                          c' est un kiki ?
 2131 un éléphant                   1n e-le-f@                    as tu un éléphant ?
 2132 est aux                       et o                          il est aux enfants ?
@@ -289,7 +289,6 @@
 2713 est un                        et 1                          c' est un drôle de cheval
 2756 peut être                     p2t EtR                       peut être .
 2758 est une                       et yn                         c' est une madame .
-2761 quelqu'un y                   kEl-k1n i                     y a quelqu'un y a personne
 2762 peut être                     p2t EtR                       ah peut être !
 2766 est en                        et @                          oui elle est en bas
 2774 tout éclaté                   tut e-kla-te                  il est tout éclaté .
@@ -476,11 +475,11 @@
 4060 ils ont                       ilz §                         les monstres ils ont mangé
 4074 quand est                     k@t e                         chérinou quand est ce qu' ils
 4075 sont ils                      s§t il                        pas où sont ils .
+4076 viennent ils                  vjEnt il                      demande quand viennent ils .
 4086 en avais                      @n a-vE                       et j' en avais plein
 4086 les oreilles                  lez o-REj                     avais plein les oreilles et
 4093 en ai                         @n E                          j' en ai dit peu mais
 4093 en ai                         @n E                          mais j' en ai dit
-4098 avait un                      a-vEt 1                       si y avait un monstre
 4099 on a                          §n a                          angoisse qu' on a retrouvée
 4100 trois heures                  tRwaz 9R                      à trois heures du matin il
 4101 on a                          §n a                          puis depuis on a tué
@@ -507,7 +506,6 @@
 4198 tout à                        tut a                         tout à l' heure tu voulais
 4220 un air                        1n ER                         vois d' un air de
 4224 les enfants                   lez @-f@                      de filmer les enfants .
-4229 trucs intéressants            tRykz 5-te-RE-s@              disait des trucs intéressants hein
 4241 en aurez                      @n o-Re                       vous n' en aurez pas
 4244 deux ans                      d2z @                         j' ai deux ans moi
 4245 deux ans                      d2z @                         qui a deux ans .
@@ -532,7 +530,6 @@
 4412 des essais                    dez e-sE                      c' est des essais pour voir
 4423 un enfant                     1n @-f@                       discours d' un enfant comme
 4424 on attend                     §n a-t@                       ce qu' on attend de
-4425 nous il                       nuz il                        occuperais de nous il viendrait
 4432 est à                         et a                          chaussons il est à mickey
 4433 est à                         et a                          il est à qui ce pied
 4439 ils étaient                   ilz e-tE                      à qui ils étaient avant
@@ -630,7 +627,6 @@
 5201 les hommes                    lez Om                        et tous les hommes .
 5209 un autre                      1n otR                        on regarde un autre livre
 5214 est à                         et a                          que c' est à lui
-5214 beaucoup il                   bo-kup il                     l' aime beaucoup il a
 5216 est à                         et a                          tien c' est à lui
 5217 très intéressant              tREz 5-te-RE-s@               c' est très intéressant cette
 5250 vas y                         vaz i                         l' allumer vas y appuie
@@ -649,14 +645,11 @@
 5321 dans un                       d@z 1                         il dormait dans un creux de
 5321 tout autour                   tut o-tuR                     petite digue tout autour en
 5324 en avait                      @n a-vE                       il y en avait encore
-5325 avait une                     a-vEt yn                      et y avait une vague
 5325 nous a                        nuz a                         vague qui nous a déferlé
 5328 nous a                        nuz a                         ça nous a fait rire mais
 5328 nous a                        nuz a                         mais ça nous a fait
 5346 est un                        et 1                          ça c' est un papy
 5350 les appelle                   lez a-pEl                     comment il les appelle lui ?
-5353 avait un                      a-vEt 1                       il avait un nom pour ça
-5353 avait un                      a-vEt 1                       rigolo il avait un nom
 5364 en a                          @n a                          écrit y en a un
 5364 un autre                      1n otR                        en a un autre qui
 5373 était une                     e-tEt yn                      c' était une précision très nette
@@ -752,7 +745,6 @@
 5912 ils aiment                    ilz Em                        du yaourt ils aiment ça ?
 5914 en avait                      @n a-vE                       il y en avait des
 5916 petit éléphant                p°-tit e-le-f@                vu ce petit éléphant ?
-5918 avait un                      a-vEt 1                       et y avait un petit
 5918 petit éléphant                p°-tit e-le-f@                avait un petit éléphant .
 5920 petit éléphant                p°-tit e-le-f@                faisait ce petit éléphant ?
 5924 bien un                       bj5n 1                        c' est bien un petit
@@ -786,7 +778,6 @@
 6134 un hélicoptère                1n e-li-kOp-tER               tu as un hélicoptère .
 6135 on a                          §n a                          alors on a bien travaillé avec
 6139 ses histoires                 sez is-twaR                   raconté toutes ses histoires au
-6143 avait une                     a-vEt yn                      et y avait une roue
 6151 tout à                        tut a                         parce que tout à l' heure
 6152 un amalgame                   1n a-mal-gam                  y a un amalgame des
 6156 plus à                        plyz a                        te vois plus à l'
@@ -798,12 +789,10 @@
 6195 en a                          @n a                          il m' en a sorti
 6198 ton hélicoptère               t§n e-li-kOp-tER              avait construit ton hélicoptère je
 6200 en avait                      @n a-vE                       oui y en avait dans
-6203 avait un                      a-vEt 1                       il avait un volant ?
 6225 ils étaient                   ilz e-tE                      avais vus ils étaient de
 6227 des herbes                    dez ERb                       ils mangeaient des herbes .
 6229 tout à                        tut a                         pas suivi tout à fait
 6246 tout est                      tut e                         mais tout est cassé pour toi
-6259 bien aussi                    bj5n o-si                     j' aime bien aussi cette
 6273 on appelle                    §n a-pEl                      ce qu' on appelle couper
 6276 est une                       et yn                         c' est une coquine coline hein
 6292 on est                        §n e                          quand on est en train de

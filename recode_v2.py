@@ -73,7 +73,7 @@ adjectives   = [] # Only adjectives finishing in a liaison consonant, to add to 
 with open('output_ADJ.txt') as ADJlist:
 	for line in ADJlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
-		if line in dico:
+		if (line in dico):
 			first_phon = line.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
 			if (first_phon in vowels): 
 				V_adjectives.append(line) 
@@ -85,8 +85,16 @@ plural_nouns = []
 with open('output_NOMp.txt') as NOMlist:
 	for line in NOMlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
-		if line[-1] in liaison:
+		if (line[-1] in liaison) and (line != 'trucs'):
 			plural_nouns.append(line)
+			
+# Load 3rd person verbs:
+verbs_3rd = []
+with open('output_VER.txt') as VERlist:
+	for line in VERlist:
+		line = line.strip().decode('cp1252').encode('utf-8')
+		if (line[-1] in liaison) and (line not in ['soit', 'dit']):
+			verbs_3rd.append(line)
 			
 # Exceptions list:
 # Words beginning with h-aspiré (list retrieved from wikipedia article: https://fr.wikipedia.org/wiki/H_aspiré)
@@ -102,7 +110,7 @@ exceptions_next = ['et', 'oh', 'euh', 'hum', 'ah', 'ou', 'u', 'i', 'où', 'appar
 # Cases that apply always except if followed by specific items
 always_except = {}
 always_except['un'] = exceptions_next + ['à']
-always_except["quelqu'un"] = exceptions_next
+always_except["quelqu'un"] = exceptions_next + ['y', 'est', 'a']
 always_except['les'] = exceptions_next + ['avec']
 always_except['des'] = exceptions_next + ['avec']
 always_except['ces'] = exceptions_next + ['avec']
@@ -119,22 +127,22 @@ always_except['aux']   = exceptions_next
 always_except['aucun'] = exceptions_next
 always_except['tout']  = exceptions_next
 always_except['toutes'] = exceptions_next
-always_except['quels']  = exceptions_next
-always_except['quelles']  = exceptions_next
-always_except['quelques'] = exceptions_next
+always_except['quels']  = exceptions_next + ['il', 'ils', 'elle', 'elles']
+always_except['quelles']  = exceptions_next + ['il', 'ils', 'elle', 'elles']
+always_except['quelques'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['lesquels'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['lesquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except['auxquels']   = exceptions_next
-always_except['auxquelles'] = exceptions_next
-always_except['desquels']   = exceptions_next
-always_except['desquelles'] = exceptions_next
+always_except['auxquels']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
+always_except['auxquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
+always_except['desquels']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
+always_except['desquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['plusieurs']  = exceptions_next
 always_except['certains']   = exceptions_next
 always_except['certaines']  = exceptions_next
 always_except['autres'] = exceptions_next + ['à', 'au']
 always_except['on']     = exceptions_next
-always_except['nous']   = exceptions_next + ['à', 'on']
-always_except['vous']   = exceptions_next
+always_except['nous']   = exceptions_next + ['à', 'on'] + ['il', 'ils', 'elle', 'elles']
+always_except['vous']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['ils']    = exceptions_next
 always_except['elles']  = exceptions_next
 always_except['est']  = exceptions_next + ['adrien']
@@ -147,9 +155,9 @@ always_except['sous'] = exceptions_next
 always_except['plus'] = exceptions_next + ['après']
 always_except['moins'] = exceptions_next
 always_except['très']  = exceptions_next
-always_except['bien']  = exceptions_next + ['écoutez', 'écoute', 'il', 'elle', 'on']
+always_except['bien']  = exceptions_next + ['écoutez', 'écoute', 'il', 'elle', 'on', 'aussi']
 always_except['trop']  = exceptions_next
-always_except['beaucoup'] = exceptions_next
+always_except['beaucoup'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
 
 for adjective in adjectives:
 	always_except[adjective] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'écoutez', 'écoute', 'adrien', 'avec']
@@ -157,6 +165,9 @@ for adjective in adjectives:
 # Cases that apply only if followed by specific items:
 only_before = {}
 # Modal verbs in clitic groups
+for verb in verbs_3rd:
+	only_before[verb] = ['il', 'elle', 'ils', 'elles', 'on']
+	
 only_before['fait'] = ['il','elle','on']
 only_before['veut'] = ['il','elle','on']
 only_before['peut'] = ['il','elle','on','être']
@@ -213,7 +224,7 @@ only_before['prenons'] = 'en'
 only_before['comment'] = 'allez'
 only_before['quand']   = 'est'
 only_before['quant']   = ['à', 'aux']
-only_before['avait']   = ['un', 'une']
+only_before['avait']   = ['il', 'elle', 'on'] #['un', 'une']
 
 # Enchainement exceptions:
 enchainement_exceptions = ['9m']
@@ -239,10 +250,13 @@ def check_liaison(all_words, k) :
 		if (current_word in only_before) and (next_word in only_before[current_word]) :
 			do_liaison = True
 			# Correct 'tu vas y + infinitif' cases:
-			if (current_word == 'vas') and ((prev_word == 'tu') or (next_word_2[-2:] in ['er','ir'])) :
+			if (current_word == 'vas') and (prev_word == 'tu') :
 				do_liaison = False 
 			# Correct 'en fait il/elle' cases, 'tout à fait', 'il fait', etc:
 			if (current_word == 'fait') and (prev_word in ['en', 'à', 'il', 'elle', 'i(l)']) :
+				do_liaison = False
+			# Correct 'il faut...' cases:
+			if (current_word == 'faut') and (prev_word in ['il', 'i(l)', 'me', 'te', 'lui', 'nous', 'vous', 'leur']) :
 				do_liaison = False
 				
 		# Case 2: List of cases that apply always except if followed by specific items
