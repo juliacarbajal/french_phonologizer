@@ -71,7 +71,9 @@
 301  futurs enfants                fy-tyRz @-f@                  de ses futurs enfants en
 323  on entend                     §n @-t@                       ce qu' on entend ?
 325  on entend                     §n @-t@                       ce qu' on entend ?
+327  les oiseaux                   lez wa-zo                     oui les oiseaux !
 328  on entend                     §n @-t@                       est vrai on entend les
+328  les oiseaux                   lez wa-zo                     on entend les oiseaux .
 343  est à                         et a                          et c' est à kiki alors
 354  les affaires                  lez a-fER                     de prendre les affaires du
 377  on essaie                     §n E-sE                       alors on essaie de voir ce
@@ -83,6 +85,8 @@
 459  deux ans                      d2z @                         a bientôt deux ans il
 465  des ordres                    dez ORdR                      désirs sont des ordres .
 471  est un                        et 1                          c' est un sac .
+484  les yeux                      lez j2                        ) (est) les yeux qui
+485  les yeux                      lez j2                        lumière dans les yeux ?
 501  mes oreilles                  mez o-REj                     et mes oreilles ?
 502  mes oreilles                  mez o-REj                     où sont mes oreilles ?
 503  mes oreilles                  mez o-REj                     voilà , mes oreilles .
@@ -116,8 +120,12 @@
 731  gros ours                     gRoz uRs                      mange le gros ours ?
 737  est il                        et il                         est il dans la pendule le
 740  en a                          @n a                          il y en a plus .
+753  gros yeux                     gRoz j2                       avec ses gros yeux .
 755  en a                          @n a                          y en a plus !
 756  en a                          @n a                          y en a plus de quoi
+769  les yeux                      lez j2                        les yeux de l' hippopotame !
+770  gros yeux                     gRoz j2                       hum les gros yeux !
+771  petit oiseau                  p°-tit wa-zo                  , un petit oiseau .
 782  on est                        §n e                          téléphone , on est passé de
 783  bien à                        bj5n a                        ça passera bien à l'
 790  peut être                     p2t EtR                       c' est peut être les
@@ -126,7 +134,9 @@
 801  peut être                     p2t EtR                       peut être .
 849  est un                        et 1                          c' est un singe .
 879  tout est                      tut e                         ça , tout est tranquille
+894  des yeux                      dez j2                        il a des yeux terribles ,
 899  est un                        et 1                          ça c' est un petit
+899  petit oiseau                  p°-tit wa-zo                  est un petit oiseau .
 931  très univoque                 tREz y-ni-vOk                 c' est très univoque ,
 1017 peut être                     p2t EtR                       y aura peut être pas
 1024 est extra                     et Ek-stRa                    c' est extra , hein ?
@@ -214,6 +224,7 @@
 1617 bien être                     bj5n EtR                      peut être bien être tombe
 1623 peut être                     p2t EtR                       ça serait peut être une occurrence
 1626 est une                       et yn                         que c' est une façon
+1651 un oiseau                     1n wa-zo                      un oiseau qui passe ?
 1654 est un                        et 1                          c' est un pigeon .
 1671 un escalier                   1n Es-ka-lje                  même désigné un escalier en
 1673 un escalier                   1n Es-ka-lje                  y a un escalier ,
@@ -240,7 +251,9 @@
 1982 les exemples                  lez Eg-z@pl                   ai dit les exemples que
 1984 tout à                        tut a                         et tout à l' heure il
 1990 nous un                       nuz 1                         allez produis nous un peu .
+1996 un oiseau                     1n wa-zo                      un oiseau .
 1998 est un                        et 1                          ça c' est un oiseau
+1998 un oiseau                     1n wa-zo                      c' est un oiseau ?
 2055 est elle                      et El                         où est elle maman ?
 2086 trouvent elles                tRuvt El                      où se trouvent elles les
 2129 est un                        et 1                          c' est un kiki ?
@@ -250,7 +263,9 @@
 2153 est il                        et il                         à qui est il ?
 2155 est à                         et a                          il est à victor ?
 2248 est un                        et 1                          haut c' est un oiseau
+2248 un oiseau                     1n wa-zo                      c' est un oiseau .
 2257 on entend                     §n @-t@                       est qu' on entend ?
+2277 un oiseau                     1n wa-zo                      un oiseau ?
 2279 est en                        et @                          il est en haut l' oiseau
 2296 dans une                      d@z yn                        on va dans une autre
 2304 peut être                     p2t EtR                       je verrai peut être mieux
@@ -332,6 +347,7 @@
 3116 est elle                      et El                         où est elle passée la fourmi
 3117 un inconvénient               1n 5-k§-ve-nj@                y a un inconvénient .
 3133 est elle                      et El                         où est elle ?
+3142 des oiseaux                   dez wa-zo                     des oiseaux oui .
 3173 des engins                    dez @-Z5                      des engins .
 3176 des hélicoptères              dez e-li-kOp-tER              l' histoire des hélicoptères ?
 3178 était un                      e-tEt 1                       c' était un hélicoptère à toi
@@ -580,6 +596,7 @@
 4818 est à                         et a                          elle est à maman .
 4820 est à                         et a                          là elle est à maman
 4820 est à                         et a                          là elle est à toi
+4824 un oiseau                     1n wa-zo                      air comme un oiseau .
 4855 les autres                    lez otR                       mettre avec les autres .
 4856 les autres                    lez otR                       mets avec les autres ?
 4858 les autres                    lez otR                       la avec les autres .
@@ -587,6 +604,7 @@
 4874 dans un                       d@z 1                         les coller dans un album
 4874 un album                      1n al-bOm                     coller dans un album .
 4903 les ordinateurs               lez OR-di-na-t9R              aller voir les ordinateurs à
+4904 un whisky                     1n wis-ki                     se taper un whisky champaud
 4939 en as                         @n a                          tu en as fait toi déjà
 4951 plus il                       plyz il                       le laisses plus il plus
 4951 plus il                       plyz il                       plus il plus il .
@@ -610,6 +628,7 @@
 5033 les autres                    lez otR                       et dans les autres .
 5039 est il                        et il                         et où est il lui le
 5058 nous en                       nuz @                         tu nous en tubes .
+5069 des yeux                      dez j2                        elle a des yeux oui .
 5073 un interrogatoire             1n 5-tE-Ro-ga-twaR            faire subir un interrogatoire .
 5074 bon escient                   bOn e-sj@                     utilise à bon escient .
 5092 est à                         et a                          c' est à ça que je
@@ -677,6 +696,7 @@
 5459 elles avalent                 Elz a-val                     crois qu' elles avalent à
 5461 peut être                     p2t EtR                       elle respire peut être en
 5466 elles ont                     Elz §                         pense qu' elles ont besoin
+5469 des oiseaux                   dez wa-zo                     des oiseaux blancs comme ça au
 5474 on arrive                     §n a-Riv                      on arrive à l' île aux
 5475 est à                         et a                          ce qui est à toi
 5477 est un                        et 1                          c' est un poisson quelle couleur
@@ -688,8 +708,11 @@
 5505 tout à                        tut a                         suis trompée tout à l'
 5567 en a                          @n a                          y en a pas là bas
 5570 est un                        et 1                          ça c' est un morceau du
+5574 des oiseaux                   dez wa-zo                     c' est des oiseaux .
+5575 ces oiseaux                   sez wa-zo                     des pigeons ces oiseaux qui
 5575 ont un                        §t 1                          oiseaux qui ont un grand
 5578 est il                        et il                         qu' il est il est
+5582 des oiseaux                   dez wa-zo                     le bec des oiseaux .
 5590 est une                       et yn                         ça c' est une tortue qui
 5590 des herbes                    dez ERb                       qui mange des herbes .
 5593 est une                       et yn                         pas c' est une baleine
@@ -698,6 +721,10 @@
 5602 un oeil                       1n 9j                         t' as un oeil ici
 5603 en as                         @n a                          que tu en as un
 5603 un autre                      1n otR                        en as un autre ailleurs
+5612 des yeux                      dez j2                        elle a des yeux bleus oui
+5613 des yeux                      dez j2                        t' as des yeux blonds
+5615 des yeux                      dez j2                        tu as des yeux blonds et
+5616 des yeux                      dez j2                        des yeux bleus .
 5628 est une                       et yn                         c' est une baleine .
 5631 ton avis                      t§n a-vi                      poisson à ton avis ?
 5632 est un                        et 1                          mais c' est un peu
@@ -781,6 +808,7 @@
 6151 tout à                        tut a                         parce que tout à l' heure
 6152 un amalgame                   1n a-mal-gam                  y a un amalgame des
 6156 plus à                        plyz a                        te vois plus à l'
+6165 les yeux                      lez j2                        ah ah les yeux de grégoire
 6176 on avait                      §n a-vE                       près quand on avait été
 6178 on était                      §n e-tE                       était quand on était rentré
 6187 on en                         §n @                          de rien on en a

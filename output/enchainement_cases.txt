@@ -243,8 +243,10 @@
 200  l' heure                      l9R                          tout à l' heure ?
 201  il a                          i la                          quand il a montré le morceau
 205  t' es                         tE                           t' es fatigué ce matin je
+205  malade hier                   ma-la djER                    as été malade hier .
 206  il est                        i le                          il est pas flambant .
 208  il avait                      i la-vE                       et puis il avait encore trente
+208  trente huit                   tR@ t8it                      avait encore trente huit cinq
 215  c' était                      se-tE                        mais là c' était pas
 216  qu' est                       ke                           qu' est ce qui est tombé
 218  on est                        § net                         zeuzeul on est a zeuzeul .
@@ -379,8 +381,10 @@
 325  qu' est                       ke                           qu' est ce qu' on entend
 325  qu' on                        k§n                          est ce qu' on entend
 325  on entend                     k§ n@-t@                      ce qu' on entend ?
+327  les oiseaux                   le zwa-zo                     oui les oiseaux !
 328  c' est                        se                           ah oui c' est vrai on
 328  on entend                     § n@-t@                       est vrai on entend les
+328  les oiseaux                   le zwa-zo                     on entend les oiseaux .
 335  comme il                      kO mil                        oh regarde comme il est beau
 335  il est                        mi le                         regarde comme il est beau
 338  il est                        i le                          il est beau Pinpin ?
@@ -487,6 +491,8 @@
 478  c' est                        se                           c' est la lumière .
 479  j' ai                         ZE                           mais j' ai pas de lumière
 482  j' ai                         ZE                           j' ai pas de lumière dans
+484  les yeux                      le zj2                        ) (est) les yeux qui
+485  les yeux                      le zj2                        lumière dans les yeux ?
 487  il y                          i li                          il y a une petite lumière
 491  qu' est                       ke                           qu' est ce que c' est
 491  c' est                        se                           ce que c' est ça
@@ -647,6 +653,7 @@
 749  c' est                        se                           ce que c' est ,
 750  c' est                        se                           c' est quoi ?
 753  c' est                        se                           ah , c' est le serpent
+753  gros yeux                     gRo zj2                       avec ses gros yeux .
 755  en a                          @ na                          y en a plus !
 756  en a                          @ na                          y en a plus de quoi
 760  c' est                        se                           non , c' est pas des
@@ -655,7 +662,10 @@
 765  c' est                        se                           ça c' est le serpent .
 766  tourne encore                 tuR n@-kOR                    tourne encore .
 768  c' est                        se                           ce que c' est le
+769  les yeux                      le zj2                        les yeux de l' hippopotame !
 769  l' hippopotame                li-po-po-tam                 yeux de l' hippopotame !
+770  gros yeux                     gRo zj2                       hum les gros yeux !
+771  petit oiseau                  p°-ti twa-zo                  , un petit oiseau .
 776  ouvrage incontournable        u-vRa Z5-k§-tuR-nab           ouvrage incontournable de la littérature enfantine
 776  littérature enfantine         li-te-Ra-ty R@-f@-tin         de la littérature enfantine .
 778  encore un                     @-kO R1                       allez continue encore un peu .
@@ -718,14 +728,17 @@
 887  fermes ou                     fER mu                        tu fermes ou tu tournes ?
 888  toujours au                   tu-Zu Ro                      on retourne toujours au connu .
 894  il a                          i la                          il a des yeux terribles ,
+894  des yeux                      de zj2                        il a des yeux terribles ,
 896  c' est                        se                           regarde , c' est tout
 897  c' est                        se                           non , c' est pas
 897  c' est                        se                           crocodile , c' est l'
 897  l' hippopotame                li-po-po-tam                 c' est l' hippopotame .
 899  c' est                        set                          oui ça c' est un petit
 899  est un                        se t1                         ça c' est un petit
+899  petit oiseau                  p°-ti twa-zo                  est un petit oiseau .
 900  qu' est                       ke                           qu' est ce qu' il fait
 900  qu' il                        kil                          est ce qu' il fait
+900  l' oiseau                     lwa-zo                       il fait l' oiseau ?
 901  il est                        i le                          il est dans le piano .
 902  il est                        i le                          il est caché dans le piano
 903  qu' il                        kil                          est ce qu' il est
@@ -1077,6 +1090,7 @@
 1425 t' entends                    t@-t@                        drôle , t' entends le
 1427 presque une                   pREs kyn                      on dirait presque une .
 1433 m' a                          ma                           il m' a fait des constructions
+1433 z oiseaux                     zE dwa-zo                     (en) tends z oiseaux chantent
 1436 j' ai                         ZE                           j' ai remarqué qu' il employait
 1436 qu' il                        kil                          ai remarqué qu' il employait
 1436 il employait                  ki l@p-lwa-jE                 remarqué qu' il employait pas
@@ -1310,6 +1324,7 @@
 1644 j' en                         Z@                           ce que j' en fais
 1647 l' envoie                     l@-vwa                       je l' envoie .
 1650 qu' est                       ke                           qu' est ce que je fais
+1651 un oiseau                     1 nwa-zo                      un oiseau qui passe ?
 1654 c' est                        set                          c' est un pigeon .
 1654 est un                        se t1                         c' est un pigeon .
 1658 qu' est                       ke                           alors qu' est ce qu' elle
@@ -1321,7 +1336,10 @@
 1662 elle est                      E le                          ah elle est montée ?
 1665 reste avec                    REs ta-vEk                    reste avec nous .
 1667 il est                        i le                          où il est l' oiseau ?
+1667 l' oiseau                     lwa-zo                       il est l' oiseau ?
 1668 il est                        i le                          oui ; il est là l'
+1668 l' oiseau                     lwa-zo                       est là l' oiseau .
+1670 l' oiseau                     lwa-zo                       tu vois l' oiseau qui passe
 1671 j' ai                         ZE                           j' ai entendu monte quand il
 1671 il est                        i le                          monte quand il est question
 1671 d' escalier                   dEs-ka-lje                   est question d' escalier et
@@ -1586,8 +1604,10 @@
 1992 c' est                        se                           c' est quoi ?
 1994 c' est                        se                           c' est quoi ça ?
 1995 c' est                        se                           ah ça c' est .
+1996 un oiseau                     1 nwa-zo                      un oiseau .
 1998 c' est                        set                          mais ça c' est un oiseau
-1998 est un                        se t1                         ça c' est un oiseau
+1998 est un                        se t1n                        ça c' est un oiseau
+1998 un oiseau                     t1 nwa-zo                     c' est un oiseau ?
 2000 qu' est                       ke                           Grégoire qu' est ce que c'
 2000 c' est                        se                           ce que c' est que
 2001 qu' est                       ke                           qu' est ce que c' est
@@ -1785,7 +1805,8 @@
 2243 c' est                        se                           oui c' est bien .
 2244 sur un                        sy R1                         un monsieur sur un vélo
 2248 c' est                        set                          là haut c' est un
-2248 est un                        se t1                         haut c' est un oiseau
+2248 est un                        se t1n                        haut c' est un oiseau
+2248 un oiseau                     t1 nwa-zo                     c' est un oiseau .
 2252 s' arrête                     sa-REt                       la voiture s' arrête .
 2255 couleur elle                  ku-l9 REl                     de quelle couleur elle est la
 2255 elle est                      RE le                         quelle couleur elle est la
@@ -1797,9 +1818,12 @@
 2273 qu' on                        k§                           est ce qu' on fait
 2274 qu' est                       ke                           qu' est ce qui se passe
 2276 encore une                    @-kO Ryn                      oh encore une voiture .
+2277 un oiseau                     1 nwa-zo                      un oiseau ?
 2278 il est                        i le                          où il est l' oiseau ?
+2278 l' oiseau                     lwa-zo                       il est l' oiseau ?
 2279 il est                        i let                         il est en haut l' oiseau
 2279 est en                        le t@                         il est en haut l' oiseau
+2279 l' oiseau                     lwa-zo                       en haut l' oiseau .
 2281 bonjour Adrien                b§-Zu Ra-dRi-j5               bonjour Adrien .
 2283 bonjour à                     b§-Zu Ra                      tu dis bonjour à Adrien
 2283 l' as                         la                           Adrien tu l' as vu
@@ -1818,7 +1842,9 @@
 2296 dans une                      d@ zyn                        on va dans une autre
 2296 une autre                     zy not                        va dans une autre pièce
 2299 il est                        i le                          où il est parti l' oiseau
+2299 l' oiseau                     lwa-zo                       est parti l' oiseau ?
 2300 il est                        i le                          il est où l' oiseau ?
+2300 l' oiseau                     lwa-zo                       est où l' oiseau ?
 2301 j' ai                         ZE                           oui oui j' ai compris .
 2303 il a                          i la                          ah oui il a répété ce
 2304 peut être                     p2 tEt                        je verrai peut être mieux
@@ -1872,6 +1898,7 @@
 2369 il a                          Ri la                         Grégoire il a vu la caméra
 2370 on a                          § na                          on a essayé .
 2371 c' est                        se                           c' est quoi ça à Adrien
+2372 chaussures oui                So-sy Rwi                     des chaussures oui .
 2378 qu' est                       ke                           qu' est ce que c' est
 2378 c' est                        se                           ce que c' est ça
 2380 qu' est                       ke                           là qu' est ce que c'
@@ -2064,6 +2091,7 @@
 2650 elle est                      E le                          à qui elle est cette toyota
 2653 couleur il                    ku-l9 Ril                     quelle couleur il est le schtroumpf
 2653 il est                        Ri le                         quelle couleur il est le schtroumpf
+2654 couleur oui                   ku-l9 Rwi                     couleur oui .
 2655 avances avec                  a-v@ sa-vEk                   tu avances avec la toyota .
 2657 qu' est                       ke                           qu' est ce qu' elle fait
 2657 qu' elle                      kEl                          est ce qu' elle fait
@@ -2383,6 +2411,7 @@
 3083 t' es                         tE                           oui tu t' es assis sur
 3085 c' est                        se                           c' est la valise de Christian
 3086 c' est                        se                           c' est la valise pour mettre
+3087 lumière oui                   ly-mjE Rwi                    voit la lumière oui .
 3094 c' est                        se                           ça c' est pas très gentil
 3096 qu' est                       ke                           qu' est ce que tu fais
 3098 qu' est                       ke                           et qu' est ce que c'
@@ -2419,6 +2448,7 @@
 3139 l' ai                         lE                           je ne l' ai pas vu
 3141 qu' est                       ke                           qu' est ce qu' on voit
 3141 qu' on                        k§                           est ce qu' on voit
+3142 des oiseaux                   de zwa-zo                     des oiseaux oui .
 3148 qu' est                       ke                           qu' est ce qui passe dans
 3153 il est                        i le                          il est parti en bateau dans
 3153 l' eau                        lo                           bateau dans l' eau ?
@@ -2665,6 +2695,7 @@
 3451 les a                         le za                         on les a achetées pour partir
 3451 partir où                     paR-ti Ru                     achetées pour partir où ?
 3452 c' est                        se                           où c' est que tu vas
+3454 partir oui                    paR-ti Rwi                    tu vas partir oui d' accord
 3454 d' accord                     da-kOR                       partir oui d' accord .
 3455 qu' est                       ke                           et qu' est ce qu' on
 3455 qu' on                        k§                           est ce qu' on fait
@@ -3157,6 +3188,7 @@
 3954 tout a                        tu ta                         heure dit tout a yeur
 3958 c' est                        se                           ce matin c' est pas
 3958 peut être                     p2 tEtR                       matin ça peut être hier
+3958 être hier                     tEt RjER                      ça peut être hier non
 3959 c' est                        se                           heuh c' est pas évident parce
 3959 qu' il                        kil                          chaque fois qu' il l'
 3959 l' a                          la                           qu' il l' a dit
@@ -3482,6 +3514,7 @@
 4251 cinq ans                      s5 k@                         Victor a cinq ans .
 4252 écoute écoute                 e-ku te-kut                   écoute écoute Grégoire .
 4254 deux ans                      d2 z@                         Christian a deux ans .
+4255 parles ouais                  paR lwE                       tu parles ouais jusqu' au trognon
 4255 jusqu' au                     Zys ko                        parles ouais jusqu' au trognon
 4257 qu' il                        kil                          parce qu' il compte quand il
 4258 j' ai                         ZE                           j' ai déjà fait plusieurs fois
@@ -3860,8 +3893,10 @@
 4641 elle avait                    E la-vE                       elle avait mis sa culotte ?
 4642 elle a                        E la                          heuh elle a pas de culotte
 4643 elle a                        E la                          elle a des fesses oui .
+4643 fesses oui                    fE swi                        a des fesses oui .
 4644 elle a                        E la                          elle a pas de culotte .
 4645 qu' est                       ke                           et qu' est ce que tu
+4651 marche oui                    maR Swi                       quand on marche oui .
 4653 les aiguilles                 le ze-g8ij                    nus dans les aiguilles de
 4657 n' avaient                    na-vE                        là ils n' avaient pas
 4657 d' y                          di                           le droit d' y aller
@@ -4041,6 +4076,7 @@
 4796 elle est                      E le                          celle là elle est très
 4797 elle est                      E let                         ah elle est assez jolie .
 4797 est assez                     le ta-se                      ah elle est assez jolie .
+4798 prendre oui                   pR@d Rwi                      peux la prendre oui .
 4801 comme il                      kO mil                        toi assis comme il faut
 4802 c' est                        se                           c' est ça que je voudrais
 4802 j' y                          Zi                           tu sais j' y tiens
@@ -4067,7 +4103,8 @@
 4822 c' est                        se                           ce que c' est ça
 4824 vole en                       vO l@                         il vole en l' air comme
 4824 l' air                        lER                          vole en l' air comme
-4824 comme un                      kO m1                         l' air comme un oiseau
+4824 comme un                      kO m1n                        l' air comme un oiseau
+4824 un oiseau                     m1 nwa-zo                     air comme un oiseau .
 4825 donc il                       d§ kil                        ben dis donc il vole avec
 4825 vole avec                     vO la-vEk                     donc il vole avec ses
 4825 fesses Adrien                 fE sa-dRi-j5                  avec ses fesses Adrien .
@@ -4110,6 +4147,8 @@
 4882 il était                      i le-tE                       il était bien ce bateau !
 4884 c' était                      se-tE                        comment c' était ?
 4889 c' est                        se                           bon c' est complètement .
+4891 youp youp                     ju pjup                       youp youp youp je les range
+4891 youp youp                     pju pjup                      youp youp youp je les range
 4896 qu' est                       ke                           qu' est ce qu' il veut
 4896 qu' il                        kil                          est ce qu' il veut
 4899 l' agitation                  la-Zi-ta-sj§                 la bêtise l' agitation .
@@ -4119,6 +4158,7 @@
 4903 d' aller                      da-le                        a décidé d' aller voir
 4903 les ordinateurs               le zOR-di-na-t9R              aller voir les ordinateurs à
 4903 ordinateurs à                 zOR-di-na-t9 Ra               voir les ordinateurs à la
+4904 un whisky                     1 nwis-ki                     se taper un whisky Champaud
 4907 t' as                         ta                           t' as senti ce que ça
 4908 t' as                         ta                           ce que t' as senti
 4909 chaîne a                      SE na                         la chaîne a été recemment installée
@@ -4266,6 +4306,7 @@
 5067 elle est                      kE le                         ce qu' elle est sa
 5068 elle est                      E le                          elle est devant ?
 5069 elle a                        E la                          elle a des yeux oui .
+5069 des yeux                      de zj2                        elle a des yeux oui .
 5070 tête elle                     tE tEl                        là sa tête elle est
 5070 elle est                      tE le                         sa tête elle est où
 5071 elle est                      E le                          elle est devant ou derrière ?
@@ -4293,6 +4334,7 @@
 5092 c' est                        set                          c' est à ça que je
 5092 est à                         se ta                         c' est à ça que je
 5093 c' est                        se                           et ça c' est la main
+5093 gauche oui                    go Swi                        la main gauche oui c'
 5093 c' est                        se                           gauche oui c' est celle
 5094 j' étais                      Ze-tE                        okay si j' étais gaucher tu
 5097 t' as                         ta                           oh t' as une espèce de
@@ -4710,6 +4752,7 @@
 5464 il a                          i la                          eau lui il a dit
 5466 qu' elles                     kElz                         je pense qu' elles ont besoin
 5466 elles ont                     kEl z§                        pense qu' elles ont besoin
+5469 des oiseaux                   de zwa-zo                     des oiseaux blancs comme ça au
 5469 mouettes hum                  mwE t9m                       sont des mouettes hum ?
 5472 m' a                          ma                           ça m' a l' air d'
 5472 l' air                        lER                          m' a l' air d'
@@ -4728,6 +4771,7 @@
 5482 c' est                        se                           ce que c' est ça
 5483 c' est                        set                          c' est une pieuvre .
 5483 est une                       se tyn                        c' est une pieuvre .
+5484 méduse oui                    me-dy zwi                     une méduse oui .
 5491 c' est                        set                          alors ça c' est un petit
 5491 est un                        se t1                         ça c' est un petit
 5491 c' est                        set                          et ça c' est un
@@ -4756,6 +4800,7 @@
 5520 il a                          i la                          il a une queue devant ?
 5522 il a                          i la                          celui là il a une queue
 5523 il a                          i la                          il a une queue dans la
+5523 tête oui                      tE twi                        dans la tête oui .
 5525 s' il                         sil                          répondre Didou s' il te
 5525 c' est                        se                           moi qui c' est .
 5526 c' est                        se                           si c' est pour ton père
@@ -4786,7 +4831,9 @@
 5572 c' est                        se                           ça c' est quoi ?
 5574 c' est                        se                           oui c' est des pigeons c'
 5574 c' est                        se                           des pigeons c' est des
+5574 des oiseaux                   de zwa-zo                     c' est des oiseaux .
 5575 c' est                        se                           ce que c' est des
+5575 ces oiseaux                   se zwa-zo                     des pigeons ces oiseaux qui
 5575 ont un                        § t1                          oiseaux qui ont un grand
 5576 c' est                        se                           non c' est des pigeons ?
 5578 bec où                        bE ku                         et le bec où c' est
@@ -4797,11 +4844,13 @@
 5578 il est                        ti le                         il est il est devant
 5578 il est                        i le                          devant ou il est derrière
 5580 il est                        i le                          il est où ?
+5582 des oiseaux                   de zwa-zo                     le bec des oiseaux .
 5584 il est                        i le                          il est devant ou il est
 5584 il est                        i le                          devant ou il est derrière
 5585 qu' est                       ke                           qu' est ce qu' il a
 5585 qu' il                        kil                          est ce qu' il a
 5585 il a                          ki la                         ce qu' il a cet
+5585 cet oiseau                    sE twa-zo                     il a cet oiseau ?
 5586 il a                          i la                          il a un drôle de bec
 5589 c' est                        se                           c' est normal je m' appelle
 5589 m' appelle                    ma-pEl                       normal je m' appelle comme
@@ -4824,13 +4873,18 @@
 5603 un autre                      1 notR                        en as un autre ailleurs
 5603 autre ailleurs                not Ra-j9R                    as un autre ailleurs ?
 5605 c' est                        se                           c' est bien .
+5607 narines oui                   na-Ri nwi                     deux narines oui un nez deux
 5609 il a                          i la                          il a combien de narines Pinpin
 5610 narine et                     na-Ri ne                      une narine et puis une narine
 5610 narine et                     na-Ri ne                      puis une narine et puis
 5611 c' est                        se                           c' est pas des narines ce
 5611 c' est                        se                           bleu là c' est ?
 5612 elle a                        E la                          elle a des yeux bleus oui
+5612 des yeux                      de zj2                        elle a des yeux bleus oui
 5613 t' as                         ta                           toi t' as des yeux blonds
+5613 des yeux                      de zj2                        t' as des yeux blonds
+5615 des yeux                      de zj2                        tu as des yeux blonds et
+5616 des yeux                      de zj2                        des yeux bleus .
 5617 c' est                        se                           oui c' est vrai .
 5619 il a                          i la                          alors comment il a des cheveux
 5620 noirs oh                      nwa Ro                        noirs oh noirs non .
@@ -4869,6 +4923,7 @@
 5657 il a                          i la                          il a montré la baleine .
 5658 miettes à                     mjE ta                        jette des miettes à la
 5658 c' est                        se                           baleine ben c' est bien
+5660 miettes oui                   mjE twi                       manger des miettes oui .
 5661 baleine elle                  ba-lE nEl                     manger la baleine elle va
 5665 c' est                        se                           qui c' est le papa baleine
 5666 c' est                        se                           qui c' est le papa ?
@@ -4922,6 +4977,7 @@
 5725 c' est                        se                           ça c' est la tête du
 5726 c' est                        se                           c' est ce qui est en
 5726 est en                        e t@                          ce qui est en haut
+5730 porte oui                     pOR twi                       par la porte oui .
 5732 l' avant                      la-v@                        montre moi l' avant du bateau
 5733 il est                        i le                          où il est l' avant du
 5733 l' avant                      la-v@                        il est l' avant du
@@ -5008,6 +5064,7 @@
 5820 qu' est                       ke                           et qu' est ce qu' on
 5820 qu' on                        k§                           est ce qu' on peut
 5820 faire avec                    fE Ra-vEk                     on peut faire avec ?
+5821 avec oui                      a-vE kwi                      peut jouer avec oui mais
 5821 qu' est                       ke                           oui mais qu' est ce
 5821 qu' on                        k§                           est ce qu' on peut
 5822 m' empêche                    m@-pES                       moi ça m' empêche de
@@ -5213,6 +5270,7 @@
 6019 était un                      se-tE t1                      c' était un monsieur .
 6021 n' avais                      na-vE                        mais tu n' avais pas
 6022 elle était                    E le-tE                       elle était gentille la jeep oui
+6022 jeep oui                      dZi pwi                       gentille la jeep oui d'
 6022 d' accord                     da-kOR                       jeep oui d' accord .
 6023 t' écraser                    te-kRa-ze                    voulait pas t' écraser elle
 6023 elle était                    E le-tE                       t' écraser elle était pas
@@ -5408,6 +5466,7 @@
 6156 l' arrière                    la-RjER                      plus à l' arrière ne
 6157 qu' après                     ka-pRE                       non parce qu' après je
 6160 t' ai                         tE                           je t' ai plus regardé .
+6165 les yeux                      le zj2                        ah ah les yeux de Grégoire
 6167 c' est                        se                           c' est bien .
 6170 l' avait                      la-vE                        ah elle l' avait dit maman
 6174 qu' il                        kil                          je crois qu' il a fait
