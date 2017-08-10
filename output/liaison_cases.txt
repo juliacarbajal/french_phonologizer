@@ -48,6 +48,7 @@
 191  peut être                     p2t EtR                       c' est peut être la voiture
 199  peut être                     p2t EtR                       il veut peut être bien
 200  tout à                        tut a                         du chien tout à l'
+201  quand il                      k@t il                        quand il a montré le morceau
 218  on est                        §n e                          zeuzeul on est a zeuzeul .
 218  est a                         et a                          zeuzeul on est a zeuzeul .
 236  plus élaborés                 plyz e-la-bo-Re               des trucs plus élaborés parfois
@@ -162,7 +163,6 @@
 1207 belles oreilles               bElz o-REj                    avec de belles oreilles , là
 1221 est un                        et 1                          oh elle est un peu petite
 1250 des objets                    dez Ob-ZE                     montre sur des objets identiques
-1250 objets identiques             Ob-ZEz i-d@-tik               sur des objets identiques .
 1251 les oppositions               lez o-po-zi-sj§               lui fais les oppositions .
 1256 est encore                    et @-kOR                      qu' il est encore au
 1268 quand il                      k@t il                        ai dépouillé quand il est
@@ -210,6 +210,7 @@
 1468 est en                        et @                          mais c' est en filigrane
 1469 est à                         et a                          c' est à dire la charnière
 1469 quand on                      k@t §                         est fait quand on lui
+1471 quand il                      k@t il                        dit viens quand il appelle
 1488 mon objectif                  m§n Ob-ZEk-tif                , dans mon objectif .
 1494 peut être                     p2t EtR                       tu pourras peut être nous
 1527 est un                        et 1                          c' est un monsieur ?
@@ -563,6 +564,7 @@
 4257 quand il                      k@t il                        il compte quand il veut
 4266 on est                        §n e                          ah on est content comme ça
 4268 on est                        §n e                          on est content avec maman comme
+4273 quand il                      k@t il                        quand il t' aime beaucoup comment
 4287 est à                         et a                          c' est à dire ?
 4298 on attend                     §n a-t@                       alors on attend le prochain retour
 4323 tout à                        tut a                         tout à l' heure .
@@ -575,7 +577,6 @@
 4393 est un                        et 1                          oui c' est un retour de
 4401 tout à                        tut a                         c' est tout à fait incroyable
 4401 en ai                         @n E                          je lui en ai parlé
-4401 aller au                      a-leR o                       tu vas aller au boutchou
 4403 des histoires                 dez is-twaR                   y avait des histoires de
 4403 quand il                      k@t il                        le matin quand il y
 4403 est allé                      et a-le                       il y est allé il
@@ -657,6 +658,7 @@
 4967 est une                       et yn                         que c' est une moto
 4969 est un                        et 1                          c' est un véyo .
 4970 les appelle                   lez a-pEl                     comment on les appelle aussi les
+4978 quand on                      k@t §                         du vélo quand on y
 4978 on y                          §n i                          vélo quand on y va
 4979 on arrive                     §n a-Riv                      et puis on arrive dans
 4997 est intéressant               et 5-te-RE-s@                 c' est intéressant ça .
@@ -734,13 +736,14 @@
 5422 peut être                     p2t EtR                       on va peut être arrêter
 5423 en as                         @n a                          grégoire tu en as assez
 5424 on arrête                     §n a-REt                      on arrête le film ?
-5436 aller au                      a-leR o                       manger et aller au dodo
 5438 nous as                       nuz a                         mais tu nous as bien parlé
 5439 très intéressantes            tREz 5-te-RE-s@t              de choses très intéressantes .
 5440 on a                          §n a                          christian et on a tout
 5443 est un                        et 1                          c' est un vrai malheur ça
 5454 est un                        et 1                          c' est un poisson ?
 5456 quand elles                   k@t El                        c' est quand elles mangent
+5457 quand elles                   k@t El                        c' est quand elles respirent
+5457 quand elles                   k@t El                        c' est quand elles avalent
 5457 elles avalent                 Elz a-val                     est quand elles avalent les
 5459 elles avalent                 Elz a-val                     crois qu' elles avalent à
 5461 peut être                     p2t EtR                       elle respire peut être en
@@ -832,7 +835,6 @@
 6000 est à                         et a                          maman elle est à côté
 6019 était un                      e-tEt 1                       c' était un monsieur .
 6031 quand il                      k@t il                        bien fait quand il y
-6031 aller à                       a-leR a                       vaut mieux aller à côté
 6032 on est                        §n e                          comme ça on est tranquille .
 6033 en as                         @n a                          mer tu en as de
 6038 était un                      e-tEt 1                       elle était un petit peu chaude
@@ -842,6 +844,7 @@
 6056 était une                     e-tEt yn                      que c' était une mer
 6062 est un                        et 1                          elle est un petit peu quoi
 6068 on a                          §n a                          là on a eu une grande
+6069 quand il                      k@t il                        a raconté quand il était
 6085 plus il                       plyz il                       si en plus il a
 6088 est un                        et 1                          qu' elle est un peu
 6101 est un                        et 1                          ben elle est un petit
@@ -857,7 +860,6 @@
 6134 un hélicoptère                1n e-li-kOp-tER               tu as un hélicoptère .
 6135 on a                          §n a                          alors on a bien travaillé avec
 6139 ses histoires                 sez is-twaR                   raconté toutes ses histoires au
-6147 aller au                      a-leR o                       longtemps pour aller au bord
 6151 tout à                        tut a                         parce que tout à l' heure
 6152 un amalgame                   1n a-mal-gam                  y a un amalgame des
 6156 plus à                        plyz a                        te vois plus à l'
@@ -878,6 +880,7 @@
 6246 tout est                      tut e                         mais tout est cassé pour toi
 6273 on appelle                    §n a-pEl                      ce qu' on appelle couper
 6276 est une                       et yn                         c' est une coquine coline hein
+6287 quand il                      k@t il                        ton frère quand il a
 6291 quand on                      k@t §                         les meubles quand on les
 6292 quand on                      k@t §                         quand on est en train de
 6292 on est                        §n e                          quand on est en train de

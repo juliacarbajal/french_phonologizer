@@ -247,7 +247,8 @@
 200  l' a                          la                           ça qui l' a mis
 200  tout à                        tu ta                         du chien tout à l'
 200  l' heure                      l9R                          tout à l' heure ?
-201  il a                          i la                          quand il a montré le morceau
+201  quand il                      k@ til                        quand il a montré le morceau
+201  il a                          ti la                         quand il a montré le morceau
 205  t' es                         tE                           t' es fatigué ce matin je
 205  malade hier                   ma-la djER                    as été malade hier .
 206  il est                        i le                          il est pas flambant .
@@ -918,8 +919,7 @@
 1246 s' y                          si                           commence à s' y intéresser
 1248 commence à                    ko-m@ sa                      , il commence à s'
 1248 s' y                          si                           commence à s' y intéresser
-1250 des objets                    de zOb-ZEz                    montre sur des objets identiques
-1250 objets identiques             zOb-ZE zi-d@-tik              sur des objets identiques .
+1250 des objets                    de zOb-ZE                     montre sur des objets identiques
 1251 les oppositions               le zo-po-zi-sj§               lui fais les oppositions .
 1254 j' ai                         ZE                           j' ai eu une reprise une
 1254 reprise une                   R°-pRi zyn                    eu une reprise une fois
@@ -1170,7 +1170,8 @@
 1469 qu' il                        kil                          a dit qu' il allait
 1469 il allait                     ki la-lE                      dit qu' il allait plus
 1470 d' accord                     da-kOR                       ah d' accord .
-1471 il appelle                    i la-pEl                      viens quand il appelle quelqu'un
+1471 quand il                      k@ til                        dit viens quand il appelle
+1471 il appelle                    ti la-pEl                     viens quand il appelle quelqu'un
 1473 l' ai                         lE                           je l' ai déjà entendu .
 1476 c' est                        se                           ça c' est quoi ?
 1479 qu' est                       ke                           qu' est ce que tu vois
@@ -3568,6 +3569,7 @@
 4270 monstre ah                    m§st Ra                       monstre ah oui parfois .
 4272 t' a                          ta                           il t' a inventé un tout
 4272 qu' il                        kil                          petit nom qu' il te
+4273 quand il                      k@ til                        quand il t' aime beaucoup comment
 4273 t' aime                       tEm                          quand il t' aime beaucoup comment
 4273 qu' il                        kil                          est ce qu' il t'
 4273 t' appelle                    ta-pEl                       qu' il t' appelle Adrien
@@ -3686,7 +3688,6 @@
 4401 incroyable il                 5k-Rwa-jab lil                à fait incroyable il est
 4401 il est                        li le                         fait incroyable il est complètement
 4401 en ai                         @ nE                          je lui en ai parlé
-4401 aller au                      a-le Ro                       tu vas aller au Boutchou
 4401 m' a                          ma                           Boutchou il m' a répondu
 4403 il avait                      i la-vE                       heuh il avait l' air très
 4403 l' air                        lER                          il avait l' air très
@@ -4252,7 +4253,8 @@
 4974 il est                        ki le                         ce qu' il est ton
 4975 qu' il                        kil                          est ce qu' il est
 4975 il est                        ki le                         ce qu' il est ton
-4978 on y                          § ni                          vélo quand on y va
+4978 quand on                      k@ t§n                        du vélo quand on y
+4978 on y                          t§ ni                         vélo quand on y va
 4979 roule et                      Ru le                         toyota on roule et puis
 4979 on arrive                     § na-Riv                      et puis on arrive dans
 4981 elle était                    E le-tE                       mais avant elle était à
@@ -4760,7 +4762,6 @@
 5433 qu' est                       ke                           alors qu' est ce qu' il
 5433 qu' il                        kil                          est ce qu' il y
 5433 il y                          ki li                         ce qu' il y a
-5436 aller au                      a-le Ro                       manger et aller au dodo
 5436 qu' il                        kil                          voilà ce qu' il va
 5438 nous as                       nu za                         mais tu nous as bien parlé
 5439 très intéressantes            tRE z5-te-RE-s@t              de choses très intéressantes .
@@ -4780,9 +4781,11 @@
 5456 c' est                        se                           ou alors c' est quand
 5456 quand elles                   k@ tEl                        c' est quand elles mangent
 5457 c' est                        se                           non c' est quand elles respirent
+5457 quand elles                   k@ tEl                        c' est quand elles respirent
 5457 respirent ou                  REs-pi Ru                     quand elles respirent ou c'
 5457 c' est                        se                           respirent ou c' est quand
-5457 elles avalent                 El za-val                     est quand elles avalent les
+5457 quand elles                   k@ tElz                       c' est quand elles avalent
+5457 elles avalent                 tEl za-val                    est quand elles avalent les
 5457 qu' elles                     kEl                          les poissons qu' elles recrachent
 5457 l' eau                        lo                           elles recrachent l' eau après
 5458 fort en                       fO R@                         pas très fort en physiologie
@@ -5338,7 +5341,6 @@
 6029 t' écrase                     te-kRaz                      qu' elle t' écrase ?
 6031 quand il                      k@ til                        bien fait quand il y
 6031 il y                          ti li                         fait quand il y a
-6031 aller à                       a-le Ra                       vaut mieux aller à côté
 6032 on est                        § ne                          comme ça on est tranquille .
 6033 c' était                      se-tE                        c' était au bord de la
 6033 en as                         @ na                          mer tu en as de
@@ -5408,7 +5410,8 @@
 6068 Grégoire il                   gRe-gwa Ril                   discussion avec Grégoire il m'
 6068 m' a                          ma                           Grégoire il m' a raconté
 6069 m' a                          ma                           il m' a raconté quand il
-6069 il était                      i le-tE                       raconté quand il était en
+6069 quand il                      k@ til                        a raconté quand il était
+6069 il était                      ti le-tE                      raconté quand il était en
 6069 vacances à                    va-k@ sa                      était en vacances à à
 6070 Grégoire où                   gRe-gwa Ru                    où ça Grégoire où est ce
 6071 l' a                          la                           il me l' a dit
@@ -5497,8 +5500,7 @@
 6146 c' est                        se                           ça c' est difficile à croire
 6146 difficile à                   di-fi-si la                   c' est difficile à croire
 6147 t' étais                      te-tE                        toi t' étais longtemps pour aller
-6147 pour aller                    pu Ra-leR                     étais longtemps pour aller au
-6147 aller au                      Ra-le Ro                      longtemps pour aller au bord
+6147 pour aller                    pu Ra-le                      étais longtemps pour aller au
 6148 il était                      i le-tE                       non non il était content
 6148 d' aller                      da-le                        était content d' aller il
 6148 pour à                        pu Ra                         il dit pour à la
@@ -5645,7 +5647,8 @@
 6284 rafistole un                  Ra-fis-tO l1                  je te rafistole un peu
 6286 qu' est                       ke                           et pis qu' est ce
 6286 s' est                        se                           ce qui s' est passé
-6287 il a                          i la                          frère quand il a sauté
+6287 quand il                      k@ til                        ton frère quand il a
+6287 il a                          ti la                         frère quand il a sauté
 6287 qu' est                       ke                           a sauté qu' est ce
 6287 qu' il                        kil                          est ce qu' il s'
 6287 s' est                        se                           qu' il s' est passé

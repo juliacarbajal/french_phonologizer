@@ -227,10 +227,10 @@ only_before['prenez'] = 'en'
 only_before['prenons'] = 'en'
 # Others
 only_before['comment'] = 'allez'
-only_before['quand']   = 'est'
+only_before['quand']   = ['il', 'elle','on', 'ils','elles']
 only_before['quant']   = ['à', 'aux']
 only_before['avait']   = ['il', 'elle', 'on'] #['un', 'une']
-only_before['aller']   = ['à', 'au']
+#only_before['aller']   = ['à', 'au'] # Not mandatory 
 
 # Denasalization cases:
 denasalization = {}
@@ -294,13 +294,14 @@ def check_liaison(line, all_words, k) :
 			if (current_word == 'aux') and (next_word == 'à'):
 				do_liaison = False
 				
-		# Case 3: Plural noun + vowel-initial adjective
-		elif (current_word in plural_nouns) and (next_word in V_adjectives) :
+		# Case 3: Plural noun + vowel-initial adjective # FOR THE MOMENT WE EXCLUDE IT (SEE TABLE 7 FROM BOULA DE MAREUIL ET AL 2003)
+		#elif (current_word in plural_nouns) and (next_word in V_adjectives) :
+		#	do_liaison = True
+		
+		# Case 4: Quand + est + ce:
+		elif (current_word == 'quand') and (next_word == 'est') and (next_word_2 == 'ce'):
 			do_liaison = True
 		
-		# Case 4: quand + X if not a question
-		elif (current_word == 'quand') and (all_words[-1] != '?'):
-			do_liaison = True
 		# If none of the above cases apply, print in rejected cases file:
 		else:
 			rejected_case = (current_word+' '+next_word).ljust(30)
