@@ -298,15 +298,18 @@ def check_liaison(line, all_words, k) :
 		#elif (current_word in plural_nouns) and (next_word in V_adjectives) :
 		#	do_liaison = True
 		
-		# Case 4: Quand + est + ce:
+		# Case 4: Cases with special contexts:
+		# Quand + est + ce:
 		elif (current_word == 'quand') and (next_word == 'est') and (next_word_2 == 'ce'):
+			do_liaison = True
+		# Plus ou moins:
+		elif (current_word == 'plus') and (next_word == 'ou') and (next_word_2 == 'moins'):
 			do_liaison = True
 		
 		# If none of the above cases apply, print in rejected cases file:
 		else:
 			rejected_case = (current_word+' '+next_word).ljust(30)
 			print >> frejected, line+1, rejected_case, get_context(all_words, k)
-
 		
 	return do_liaison
 
