@@ -323,6 +323,9 @@ def check_liquid_deletion(all_words, k) :
 	is_OL_cluster = (len(current_word)>2) and (current_word[-2] in obstruents) and (current_word[-1] in liquids)
 	if (is_OL_cluster) and (next_word[0] in consonants):
 		do_liquid_deletion = True
+	# Exception: contre jour
+	if (current_word == 'k§tR') and (next_word == 'ZuR'):
+		do_liquid_deletion = False
 	return do_liquid_deletion
 	
 def check_C_cluster(word_phon,onset_or_coda):
