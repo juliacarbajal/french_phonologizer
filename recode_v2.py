@@ -109,7 +109,7 @@ with open('auxiliary/h_aspire.txt') as Hlist:
 		line = line.strip()
 		h_aspire.append(line)
 # Others
-exceptions_next = ['et', 'oh', 'euh', 'hum', 'oui', 'ouais', 'ouah', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends'] + h_aspire
+exceptions_next = ['et', 'oh', 'euh', 'hum', 'oui', 'ouais', 'ouah', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends', 'whisky', 'yaourt', 'yéti'] + h_aspire
 
 # Liaison cases:
 # Cases that apply always except if followed by specific items
@@ -230,6 +230,7 @@ only_before['comment'] = 'allez'
 only_before['quand']   = 'est'
 only_before['quant']   = ['à', 'aux']
 only_before['avait']   = ['il', 'elle', 'on'] #['un', 'une']
+only_before['aller']   = ['à', 'au']
 
 # Denasalization cases:
 denasalization = {}
@@ -245,6 +246,7 @@ denasalization['ancien'] = '@-sjEn'
 denasalization['vain'] = 'vEn'
 denasalization['vilain'] = 'vi-lEn'
 denasalization['divin'] = 'di-vin'
+denasalization['fin'] = 'fin'
 
 
 # Enchainement exceptions:
@@ -252,6 +254,11 @@ enchainement_exceptions = ['9m']
 
 
 #### FUNCTIONS ####
+def silent_consonant(letter, phone):
+	if (letter in liaison) and (liaison[letter] != phone):
+		return True
+	else:
+		return False
 
 def check_liaison(line, all_words, k) :
 	# This function checks if liaison applies, returns True or False
@@ -291,10 +298,13 @@ def check_liaison(line, all_words, k) :
 		elif (current_word in plural_nouns) and (next_word in V_adjectives) :
 			do_liaison = True
 		
+		# Case 4: quand + X if not a question
+		elif (current_word == 'quand') and (all_words[-1] != '?'):
+			do_liaison = True
 		# If none of the above cases apply, print in rejected cases file:
 		else:
 			rejected_case = (current_word+' '+next_word).ljust(30)
-			print >> frejected, line, rejected_case, get_context(all_words, k)
+			print >> frejected, line+1, rejected_case, get_context(all_words, k)
 
 		
 	return do_liaison
@@ -418,7 +428,8 @@ with open('extract.txt') as input_file:
 			if word in dico:
 				newwords.append(dico[word]) # Transcribe the word
 				lastletter = word[-1]
-				if (lastletter in liaison) and check_liaison(line_ID, words, i) :
+				lastphon = newwords[i][-1]
+				if silent_consonant(lastletter, lastphon) and check_liaison(line_ID, words, i) :
 					newwords[i] += liaison[lastletter] # Attach liaison consonant
 					if word in denasalization:
 						newwords[i] = denasalization[word]
