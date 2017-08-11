@@ -1,10 +1,21 @@
 # This Python file uses the following encoding: utf-8
 import re
+import os
 from collections import Counter
 import unicodedata
 
-f = open('disyllables.txt', 'w')
-fcvcv = open('cvcv.txt', 'w')
+root='output'
+dirlist = [ item for item in os.listdir(root) if os.path.isdir(os.path.join(root, item)) ]
+
+corpus = []
+for corpusdir in dirlist:
+	location = 'output/' + corpusdir
+	with open(location + '/recoded_L_D_S_E.txt') as recoded_file:
+		for line_ID, line_text in enumerate(recoded_file):
+			corpus.append(line_text.strip())
+			
+f = open('syllables/disyllables.txt', 'w')
+fcvcv = open('syllables/cvcv.txt', 'w')
 
 def convert_encoding(data, new_coding = 'UTF-8'):
   encoding = cchardet.detect(data)['encoding']
@@ -48,18 +59,18 @@ def print_output(syllable1, syllable2, counts, structure1, structure2, file):
 
 # First: retrieve all disyllables
 syllabic_dict = {}
-with open('recoded_L_D_S_E.txt') as corpus:
-	for line in corpus:
-		line = line.replace('-',' ')
-		line = line.split()
-		text = line[4:]
-		for i, syllable in enumerate(text[:-1]):
-			if (syllable not in syllabic_dict):
-				syllabic_dict[syllable] = [text[i+1]]
-			else:
-				syllabic_dict[syllable] = syllabic_dict[syllable] + [text[i+1]]
+#with open('recoded_L_D_S_E.txt') as corpus:
+for line in corpus:
+	line = line.replace('-',' ')
+	line = line.split()
+	text = line[4:]
+	for i, syllable in enumerate(text[:-1]):
+		if (syllable not in syllabic_dict):
+			syllabic_dict[syllable] = [text[i+1]]
+		else:
+			syllabic_dict[syllable] = syllabic_dict[syllable] + [text[i+1]]
 
-# Second: extract syllabic structure and count
+# Second: extract syllabic structure and count syllable pairs
 for S1 in syllabic_dict:
 	S1 = str(S1)
 	following_syllables = syllabic_dict[S1]
