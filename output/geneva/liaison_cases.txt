@@ -6,17 +6,18 @@
 35   est un                        et 1                          aussi c' est un petit
 35   petit éléphant                p°-tit e-le-f@                est un petit éléphant ,
 35   dans une                      d@z yn                        est dans dans une voiture
+42   les attraper                  lez a-tRa-pe                  pas à les attraper ?
 50   on a                          §n a                          , mais on a besoin
 66   est une                       et yn                         c' est une dame .
 68   est au                        et o                          ta poupée est au lit .
-72   est au                        et o                          elle est au lit?
+72   est au                        et o                          elle est au lit ?
 90   les a                         lez a                         tu les a mis dans la
 129  on a                          §n a                          on a fait qu' un doigt
-130  les autres                    lez otR                       et les autres doigts alors?
+130  les autres                    lez otR                       et les autres doigts alors ?
 132  un autre                      1n otR                        un autre doigt .
 133  un autre                      1n otR                        un autre doigt .
-142  en a                          @n a                          il y en a encore?
-161  un autre                      1n otR                        hm un autre petit lapin?
+142  en a                          @n a                          il y en a encore ?
+161  un autre                      1n otR                        hm un autre petit lapin ?
 186  est ouvert                    et u-vER                      qu' il est ouvert comme
 201  est ici                       et i-si                       elle est ici .
 207  est allée                     et a-le                       où elle est allée la
@@ -36,6 +37,8 @@
 337  on est                        §n e                          on est tous couchés .
 339  les yeux                      lez j2                        faut fermer les yeux aussi .
 341  est à                         et a                          ça c' est à la naissance
+388  chez elle                     Sez El                        mets la chez elle !
+389  les autres                    lez otR                       et puis les autres ?
 410  petit escabeau                p°-tit Es-ka-bo               pratique ce petit escabeau pour
 411  les interrupteurs             lez 5-tE-Ryp-t9R              les interrupteurs .
 421  est un                        et 1                          ça c' est un chat oui
@@ -54,11 +57,14 @@
 628  est un                        et 1                          là elle est un peu
 654  est allé                      et a-le                       papa est allé le chercher .
 669  est un                        et 1                          c' est un peu tôt ,
+743  petites oreilles              p°-titz o-REj                 , les petites oreilles ?
 760  ses oreilles                  sez o-REj                     ce sont ses oreilles .
 765  tout à                        tut a                         tout à l' heure on ira
 765  on ira                        §n i-Ra                       l' heure on ira le
 838  est allé                      et a-le                       papa il est allé mettre quelque
 873  on ira                        §n i-Ra                       on ira le mettre au lit
+895  les ânes                      lez an                        wu , les ânes ?
+897  les ânes                      lez an                        ils font les ânes ?
 929  en a                          @n a                          mais il en a déjà un
 930  en a                          @n a                          il en a un petit .
 933  en a                          @n a                          louis y en a un
@@ -67,7 +73,8 @@
 939  est un                        et 1                          c' est un pour marie ,
 988  est un                        et 1                          ça c' est un poisson
 1000 est orange                    et o-R@Z                      ça c' est orange , vert
-1029 petit oiseau                  p°-tit wa-zo                  ça un petit oiseau marie?
+1028 petit oiseau                  p°-tit wa-zo                  un petit oiseau ?
+1029 petit oiseau                  p°-tit wa-zo                  ça un petit oiseau marie
 1030 petit oiseau                  p°-tit wa-zo                  vois un petit oiseau ,
 1033 un hélicoptère                1n e-li-kOp-tER               je vois un hélicoptère .
 1034 un hélicoptère                1n e-li-kOp-tER               un hélicoptère .
@@ -82,6 +89,7 @@
 1172 tout à                        tut a                         on fera tout à l' heure
 1173 très envie                    tREz @-vi                     a pas très envie .
 1178 un autre                      1n otR                        veux regarder un autre livre
+1193 un autre                      1n otR                        encore un autre ?
 1194 les enlever                   lez @l-ve                     faut pas les enlever maintenant
 1195 les enlever                   lez @l-ve                     peux pas les enlever ici
 1204 on ira                        §n i-Ra                       on ira sur le balcon quand
@@ -89,6 +97,9 @@
 1240 est un                        et 1                          ce qui est un peu
 1245 trop au                       tRop o                        un peu trop au bord
 1248 bien au                       bj5n o                        tu es bien au milieu
+1253 petit oeuf                    p°-tit 9f                     un petit oeuf ?
+1278 vas y                         vaz i                         alors vas y !
+1279 les ensemble                  lez @-s@bl                    mets les ensemble !
 1344 tout en                       tut @                         parce que tout en haut
 1348 tout en                       tut @                         il va tout en haut .
 1350 tout en                       tut @                         il va tout en haut
@@ -96,12 +107,14 @@
 1367 en a                          @n a                          il y en a encore une
 1368 on a                          §n a                          voilà , on a fini le
 1369 on a                          §n a                          on a fini le cadre .
+1425 vas y                         vaz i                         alors vas y !
 1444 tout ensemble                 tut @-s@bl                    par terre tout ensemble .
-1497 est une                       et yn                         c' est une petite bouche?
+1497 est une                       et yn                         c' est une petite bouche ?
 1503 petit ours                    p°-tit uRs                    a un petit ours .
 1504 petit ours                    p°-tit uRs                    petit ours qui mange .
+1506 petit ours                    p°-tit uRs                    , le petit ours ?
 1517 est en                        et @                          qu' il est en train
-1517 petit ours                    p°-tit uRs                    faire le petit ours là?
+1517 petit ours                    p°-tit uRs                    faire le petit ours là
 1521 est en                        et @                          il est en train de s'
 1527 est en                        et @                          il est en train de se
 1528 est une                       et yn                         * c' est une grande maison
@@ -109,10 +122,11 @@
 1667 est un                        et 1                          vois c' est un bord
 1668 on est                        §n e                          on est en train de faire
 1668 est en                        et @                          on est en train de faire
+1729 bien aller                    bj5n a-le                     il peut bien aller ?
 1774 les yeux                      lez j2                        sur les yeux .
-1820 est à                         et a                          il est à qui?
-1821 est à                         et a                          il est à qui celui là?
-1823 est à                         et a                          ah il est à qui?
+1820 est à                         et a                          il est à qui ?
+1821 est à                         et a                          il est à qui celui là
+1823 est à                         et a                          ah il est à qui ?
 1824 est à                         et a                          il est à grand papa et
 1832 est une                       et yn                         c' est une histoire de poules
 1838 nous irons                    nuz i-R§                      deux trois nous irons au
@@ -121,8 +135,8 @@
 1852 était une                     e-tEt yn                      il était une bergère héron héron
 1853 était une                     e-tEt yn                      il était une bergère qui gardait
 1880 est une                       et yn                         c' est une image .
-1894 est une                       et yn                         c' est une chanson?
-1895 est une                       et yn                         c' est une chanson ça?
+1894 est une                       et yn                         c' est une chanson ?
+1895 est une                       et yn                         c' est une chanson ça ?
 1911 est un                        et 1                          ça c' est un monsieur qui
 1923 des oiseaux                   dez wa-zo                     y a des oiseaux qui
 1936 brun attrape                  bR1n a-tRap                   petit lièvre brun attrape les longues
@@ -146,8 +160,10 @@
 2254 est un                        et 1                          ça c' est un chat .
 2262 est y                         et i                          ça c' est y a pas
 2266 est un                        et 1                          , c' est un chat
+2306 vas y                         vaz i                         vas y !
 2364 on ouvre                      §n uvR                        on ouvre les volets et les
 2373 est aussi                     et o-si                       kahid c' est aussi des
+2416 les animaux                   lez a-ni-mo                   sont où les animaux ?
 2418 les animaux                   lez a-ni-mo                   pour voir les animaux .
 2420 les animaux                   lez a-ni-mo                   bien tous les animaux .
 2452 est avec                      et a-vEk                      il est avec son papa .
@@ -166,12 +182,15 @@
 2535 on a                          §n a                          on a déjà regardé bambi .
 2552 en a                          @n a                          y en a un qui est
 2553 en a                          @n a                          y en a un par terre
+2558 vas y                         vaz i                         alors vas y !
 2566 en a                          @n a                          y en a d' autres comme
 2568 en a                          @n a                          y en a d' autres .
+2571 les autres                    lez otR                       alors prends les autres !
 2617 est un                        et 1                          ça c' est un grand immeuble
-2617 grand immeuble                gR@t i-m9bl                   est un grand immeuble hein?
-2634 on a                          §n a                          on a tout mis?
-2665 on a                          §n a                          ce qu' on a encore?
+2617 grand immeuble                gR@t i-m9bl                   est un grand immeuble hein
+2623 les autres                    lez otR                       tu veux les autres ?
+2634 on a                          §n a                          on a tout mis ?
+2665 on a                          §n a                          ce qu' on a encore
 2693 est un                        et 1                          c' est un bout de la
 2695 est un                        et 1                          , elle est un peu
 2739 est un                        et 1                          c' est un pull .
@@ -179,9 +198,11 @@
 2745 est il                        et il                         mais il est il était
 2760 est en                        et @                          elle est en train de se
 2763 est encore                    et @-kOR                      non elle est encore en train
+2765 les ongles                    lez §gl                       se coupe les ongles ?
 2766 tes ongles                    tez §gl                       toi , tes ongles là
 2773 quand elle                    k@t El                        quand elle sera grande elle mettra
-2775 est un                        et 1                          c' est un petit bonhomme ça?
+2775 est un                        et 1                          c' est un petit bonhomme ça
+2777 petits oiseaux                p°-tiz wa-zo                  * aux petits oiseaux ?
 2778 est un                        et 1                          ça c' est un nid avec
 2778 petits oiseaux                p°-tiz wa-zo                  avec des petits oiseaux .
 2790 est aujourd'hui               et o-ZuR-d8i                  c' est aujourd'hui que tu as
@@ -206,7 +227,7 @@
 3054 un autre                      1n otR                        en chercher un autre pour
 3055 un autre                      1n otR                        en chercher un autre pour
 3057 un autre                      1n otR                        en chercher un autre pour
-3073 est encore                    et @-kOR                      c' est encore un cadeau marie?
+3073 est encore                    et @-kOR                      c' est encore un cadeau marie
 3076 en a                          @n a                          donc il en a des
 3102 en a                          @n a                          que louis en a assez
 3104 en a                          @n a                          il en a un peu assez
@@ -218,7 +239,7 @@
 3211 les il                        lez il                        , il les il les
 3211 les utilisent                 lez y-ti-liz                  les il les utilisent pour
 3229 est une                       et yn                         c' est une boulangerie .
-3271 ton autre                     t§n otR                       remets ton ton autre pied là!
+3271 ton autre                     t§n otR                       remets ton ton autre pied là
 3327 en a                          @n a                          y en a là .
 3330 grands ici                    gR@z i-si                     est des grands ici .
 3331 en a                          @n a                          et y en a sur ton
@@ -227,6 +248,7 @@
 3375 on ait                        §n e                          pour qu' on ait un
 3384 vous avez                     vuz a-ve                      ce que vous avez fait
 3398 prends en                     pR@z @                        je le prends en haut
+3430 les ouvrir                    lez u-vRiR                    on va les ouvrir ?
 3432 quand il                      k@t il                        quand il y aura des invités
 3432 des invités                   dez 5-vi-te                   y aura des invités .
 3448 est un                        et 1                          c' est un parasol .
@@ -236,16 +258,18 @@
 3483 on a                          §n a                          on a deux monsieurs comme ça
 3506 on a                          §n a                          et p(u)is on a une p(e)tite
 3508 est une                       et yn                         ça c' est une p(e)tite dame
-3519 en a                          @n a                          y en a un autre?
+3519 en a                          @n a                          y en a un autre ?
+3519 un autre                      1n otR                        en a un autre ?
 3520 en a                          @n a                          , y en a un
 3520 un autre                      1n otR                        en a un autre .
-3523 un autre                      1n otR                        un autre comme ça?
+3523 un autre                      1n otR                        un autre comme ça ?
 3540 quand ils                     k@t il                        oui marie quand ils viennent les
 3544 bien ils                      bj5n il                       eh bien ils sont chez eux
 3544 chez eux                      Sez 2                         ils sont chez eux .
 3545 les appellera                 lez a-pEl-Ra                  on les appellera pour leur demander
 3546 les appeler                   lez a-ple                     va pas les appeler maintenant
 3548 les appellerai                lez a-pEl-RE                  soir je les appellerai moi
+3580 les appeler                   lez a-ple                     on peut les appeler ?
 3581 les appellerai                lez a-pEl-RE                  je les appellerai ce soir .
 3608 on a                          §n a                          on a été une fois oui
 3609 est un                        et 1                          c' est un moulin marie .
@@ -259,15 +283,16 @@
 3727 est à                         et a                          oui c' est à toi .
 3744 quand elle                    k@t El                        quand elle était en voyage .
 3809 en as                         @n a                          tu en as d' autres de
-3810 les autres                    lez otR                       tu cherches les autres balles?
+3810 les autres                    lez otR                       tu cherches les autres balles ?
 3811 mon avis                      m§n a-vi                      à mon avis elles sont dans
 3823 est un                        et 1                          ça c' est un chat
-3839 vous allez                    vuz a-le                      vous allez bien?
-3903 ton autre                     t§n otR                       donne moi ton autre pied!
-3926 plus en                       plyz @                        mette encore plus en avant?
+3839 vous allez                    vuz a-le                      vous allez bien ?
+3903 ton autre                     t§n otR                       donne moi ton autre pied
+3926 plus en                       plyz @                        mette encore plus en avant
+3926 en avant                      @n a-v@                       encore plus en avant ?
 3947 en a                          @n a                          il y en a sur la
 3949 en a                          @n a                          il y en a juste
-3976 les animaux                   lez a-ni-mo                   grand avec les animaux là?
+3976 les animaux                   lez a-ni-mo                   grand avec les animaux là
 3980 les animaux                   lez a-ni-mo                   là sur les animaux .
 3990 en a                          @n a                          il y en a des grands
 4001 des histoires                 dez is-twaR                   c' est des histoires de
@@ -275,14 +300,18 @@
 4024 en a                          @n a                          il y en a des
 4024 des autres                    dez otR                       en a des autres .
 4034 est en                        et @                          qu' elle est en train
+4040 les autres                    lez otR                       les autres ?
 4056 est un                        et 1                          c' est un peu encombrant comme
 4058 mon avis                      m§n a-vi                      à mon avis tu est un
 4058 est un                        et 1                          avis tu est un petit
 4088 en aura                       @n o-Ra                       il y en aura partout
+4089 un autre                      1n otR                        en veux un autre ?
 4105 est un                        et 1                          là c' est un petit poisson
 4110 on aille                      §n aj                         falloir qu' on aille prendre
+4115 les habits                    lez a-bi                      va prendre les habits ?
 4163 on en                         §n @                          ce qu' on en a
 4163 en a                          @n a                          qu' on en a fait
+4174 les animaux                   lez a-ni-mo                   celui avec les animaux ?
 4179 est un                        et 1                          oui c' est un petit chat
 4182 en a                          @n a                          il y en a un
 4183 est aussi                     et o-si                       ça c' est aussi un petit
@@ -294,9 +323,11 @@
 4243 on a                          §n a                          ce qu' on a encore
 4244 en a                          @n a                          il y en a ailleurs ,
 4259 on appuie                     §n a-p8i                      on appuie un peu fort d'
-4267 petits oiseaux                p°-tiz wa-zo                  avec des petits oiseaux qui volent?
+4267 petits oiseaux                p°-tiz wa-zo                  avec des petits oiseaux qui volent
 4273 un autre                      1n otR                        en fasse un autre à
 4275 les yeux                      lez j2                        corps , les yeux ,
+4277 un autre                      1n otR                        un autre ?
+4278 un autre                      1n otR                        encore un autre ?
 4280 en aura                       @n o-Ra                       il y en aura beaucoup ,
 4316 on a                          §n a                          on a tous le rhume .
 4317 on a                          §n a                          on a tous le rhume .
@@ -313,6 +344,7 @@
 4485 on a                          §n a                          hier , on a mis toutes
 4590 est une                       et yn                         c' est une girafe .
 4607 est à                         et a                          papa il est à la cuisine
+4632 vas y                         vaz i                         vas y !
 4635 on en                         §n @                          veux qu' on en fasse
 4640 en as                         @n a                          que tu en as fait
 4658 est ici                       et i-si                       c' est ici qu' il faut
@@ -325,9 +357,11 @@
 4783 est ouvert                    et u-vER                      si c' est ouvert ,
 4794 en a                          @n a                          tu en a encore une ici
 4809 est à                         et a                          que c' est à toi
+4847 quelles autres                kElz otR                      quelles autres ?
 4848 en a                          @n a                          mais y en a plein
 4887 les enlever                   lez @l-ve                     vient de les enlever pour
 4904 bien ouvrir                   bj5n u-vRiR                   faut bien ouvrir .
+4920 des animaux                   dez a-ni-mo                   le livre des animaux ?
 4956 en a                          @n a                          y en a un qui est
 4962 les autres                    lez otR                       tous les autres ils sont blancs
 4962 autres ils                    otRz il                       tous les autres ils sont blancs
@@ -341,9 +375,9 @@
 5010 des ours                      dez uRs                       a des des ours dans
 5016 est un                        et 1                          ça c' est un petit lapin
 5024 en a                          @n a                          il y en a encore ailleurs
-5025 en a                          @n a                          il y en a une là?
+5025 en a                          @n a                          il y en a une là
 5027 est un                        et 1                          c' est un chien avec le
-5029 un autre                      1n otR                        veux prendre un autre livre?
+5029 un autre                      1n otR                        veux prendre un autre livre
 5033 on a                          §n a                          sais , on a toutes
 5033 toutes ouvert                 tutz u-vER                    on a toutes ouvert les
 5036 les amener                    lez am-ne                     chaussettes et les amener à
@@ -353,22 +387,28 @@
 5046 est ici                       et i-si                       il est ici marie ton coussin
 5047 est ici                       et i-si                       il est ici .
 5049 est ici                       et i-si                       il est ici .
+5054 petits animaux                p°-tiz a-ni-mo                fasse des petits animaux ?
 5056 est une                       et yn                         ça c' est une tête
 5060 on a                          §n a                          on a fait un petit cochon
 5061 est à                         et a                          elle est à l' envers .
+5086 petit instant                 p°-tit 5s-t@                  attends un petit instant !
 5103 est un                        et 1                          , c' est un poisson
+5104 un autre                      1n otR                        encore un autre ?
 5120 en a                          @n a                          il y en a un
 5125 est aussi                     et o-si                       , c' est aussi un
-5156 est un                        et 1                          c' est un gentil bébé?
+5156 est un                        et 1                          c' est un gentil bébé ?
 5179 froid aux                     fRwat o                       vas avoir froid aux pieds
 5208 en a                          @n a                          il y en a un par
 5214 en a                          @n a                          y en a un par terre
 5221 plus épais                    plyz e-pE                     il est plus épais pour
+5224 vas y                         vaz i                         alors , vas y !
 5256 est enregistré                et @R-Zis-tRe                 c' est enregistré ça .
 5257 est un                        et 1                          c' est un appareil pour enregistrer
 5257 un appareil                   1n a-pa-REj                   c' est un appareil pour enregistrer
 5381 des animaux                   dez a-ni-mo                   y a des animaux là
+5397 les autres                    lez otR                       donnes encore les autres ?
 5491 est à                         et a                          papa il est à la cuisine
+5497 les yeux                      lez j2                        je ferme les yeux ?
 5522 est une                       et yn                         ça c' est une dame
 5526 est une                       et yn                         que c' est une dame
 5562 en a                          @n a                          y en a pas .
@@ -376,7 +416,7 @@
 5571 en attendant                  @n a-t@-d@                    une maison en attendant ,
 5572 en attendant                  @n a-t@-d@                    en attendant , j(e) te .
 5587 est un                        et 1                          , elle est un peu
-5592 est une                       et yn                         c' est une maison ça?
+5592 est une                       et yn                         c' est une maison ça ?
 5593 est une                       et yn                         c' est une maison verte et
 5667 est orange                    et o-R@Z                      , c' est orange .
 5669 est un                        et 1                          ça c' est un chou fleur
@@ -405,19 +445,20 @@
 5739 en a                          @n a                          y en a encore un ou
 5742 bas y                         baz i                         là bas y a la citrouille
 5757 un artichaut                  1n aR-ti-So                   tiens , un artichaut .
-5770 en a                          @n a                          il y en a encore?
+5770 en a                          @n a                          il y en a encore ?
 5780 est ouvert                    et u-vER                      maintenant c' est ouvert .
 5787 est à                         et a                          oui c' est à toi .
 5788 tout est                      tut e                         mais tout est à toi ici
 5788 est à                         et a                          mais tout est à toi ici
 5805 tout à                        tut a                         maintenant , tout à l'
+5807 vas y                         vaz i                         alors vas y !
 5869 on a                          §n a                          oui , on a déjà enlevé
 5870 on a                          §n a                          , maintenant on a enlevé
 5883 on ouvre                      §n uvR                        veux qu' on ouvre la
-5921 on ouvre                      §n uvR                        que , on ouvre ça?
+5921 on ouvre                      §n uvR                        que , on ouvre ça
 5955 on avait                      §n a-vE                       canard qu' on avait perdu
 5955 tout à                        tut a                         avait perdu tout à l'
-5974 les ongles                    lez §gl                       te couper les ongles aujourd'hui?
+5974 les ongles                    lez §gl                       te couper les ongles aujourd'hui
 5975 les ongles                    lez §gl                       va couper les ongles .
 5984 on a                          §n a                          on a retrouvé le bec .
 5997 tout à                        tut a                         tout à l' heure on va
@@ -437,19 +478,23 @@
 6114 sales ici                     salz i-si                     mains toutes sales ici .
 6134 dans une                      d@z yn                        la met dans une cuvette
 6136 quand elle                    k@t El                        et puis quand elle la ressort
-6149 on est                        §n e                          maintenant qu' on est assis?
-6160 un autre                      1n otR                        un autre puzzle?
-6225 est une                       et yn                         c' est une photo?
-6227 est abîmée                    et a-bi-me                    elle est abîmée la photo?
+6149 on est                        §n e                          maintenant qu' on est assis
+6149 est assis                     et a-si                       qu' on est assis ?
+6160 un autre                      1n otR                        un autre puzzle ?
+6205 bien assise                   bj5n a-siz                    reste bien assise !
+6225 est une                       et yn                         c' est une photo ?
+6227 est abîmée                    et a-bi-me                    elle est abîmée la photo ?
 6228 mauvais état                  mo-vEz e-ta                   peu en mauvais état .
 6281 en ai                         @n E                          j' en ai .
 6284 en ai                         @n E                          j' en ai .
 6287 vous allez                    vuz a-le                      ce que vous allez faire
 6304 on enlève                     §n @-lEv                      , alors on enlève le
 6310 tout à                        tut a                         oui , tout à fait
+6326 vas y                         vaz i                         ouais , vas y !
 6333 en a                          @n a                          il y en a une
 6333 tout en                       tut @                         a une tout en haut
 6345 en a                          @n a                          il y en a plein
+6357 vas y                         vaz i                         vas y !
 6366 on aille                      §n aj                         faudrait qu' on aille te
 6375 en as                         @n a                          mais t' en as déjà fait
 6375 beaucoup avec                 bo-kup a-vEk                  déjà fait beaucoup avec papa

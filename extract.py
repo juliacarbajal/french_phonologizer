@@ -82,6 +82,8 @@ for corpusdir in dirlist:
 		new_line = new_line.replace('..', '.')   # Correct double stops
 		new_line = new_line.replace('. .', '.')  # Correct double stops
 		new_line = new_line.replace('.', ' .')   # Add space before stops
+		new_line = new_line.replace('?', ' ?')   # Add space before question mark
+		new_line = new_line.replace('!', ' !')   # Add space before exclamation mark
 		new_line = new_line.replace('<', '')     # < This marks repetitions, we delete the symbol but keep the citation
 		new_line = new_line.replace('>', '')     # > This marks repetitions, we delete the symbol but keep the citation
 		new_line = re.sub('.+',' ', new_line) # This is some code for audio files, to discard.
