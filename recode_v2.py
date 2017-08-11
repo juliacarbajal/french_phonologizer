@@ -3,6 +3,9 @@
 import re
 import os
 
+root='corpora'
+dirlist = [ item for item in os.listdir(root) if os.path.isdir(os.path.join(root, item)) ]
+
 if not os.path.exists('output'):
 	os.makedirs('output')
 
@@ -418,118 +421,124 @@ def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcrib
 	context = get_context(all_words_ort, k)
 	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
 	
-
-#### 1: FIRST TRANSCRIPTION + LIAISON ####
-f = open('output/liaison_cases.txt', 'w')
-foutput = open('output/recoded_with_liaison.txt','w')
-frejected = open('output/rejected_liaison_cases.txt', 'w')
-
-# Read line by line, transcribe from dictionary and apply liaison if appropriate
-with open('extract.txt') as input_file:
-	for line_ID, line_text in enumerate(input_file):
-		newwords  = []
-		full_line = line_text.lower().split()
-		info  = full_line[:4] # ID and age
-		words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
-		for i, word in enumerate(words[:-1]): 
-			if word in dico:
-				newwords.append(dico[word]) # Transcribe the word
-				lastletter = word[-1]
-				lastphon = newwords[i][-1]
-				if silent_consonant(lastletter, lastphon) and check_liaison(line_ID, words, i) :
-					newwords[i] += liaison[lastletter] # Attach liaison consonant
-					if word in denasalization:
-						newwords[i] = denasalization[word]
-					print_applied_liaison(line_ID, words, i, newwords[i], f)
-			else:
-				newwords.append('#') 
-		newwords.append(full_line[-1])
-		print >> foutput , ' '.join(info + newwords) # Concatenate with ID and age and print
-
-f.close()
-foutput.close()
-frejected.close()
-
-
-#### 2: LIQUID DELETION ####
-f2 = open('output/liquid_deletion_cases.txt', 'w')
-foutput2 = open('output/recoded_L_D.txt', 'w')
-
-text_ort = []
-with open('extract.txt') as original_file:
-	for line_ID, line_text in enumerate(original_file):
-		text_ort.append(line_text.strip())
+for corpusdir in dirlist:
+	print 'Recoding transcription of:', corpusdir
+	input_location = 'corpora/' + corpusdir + '/clean'
+	output_location = 'output/' + corpusdir
+	if not os.path.exists(output_location):
+		os.makedirs(output_location)
 		
-with open('output/recoded_with_liaison.txt') as input_file:
-	
+	#### 1: FIRST TRANSCRIPTION + LIAISON ####
+	f = open(output_location + '/liaison_cases.txt', 'w')
+	foutput = open(output_location + '/recoded_with_liaison.txt','w')
+	frejected = open(output_location + '/rejected_liaison_cases.txt', 'w')
+
+	# Read line by line, transcribe from dictionary and apply liaison if appropriate
+	with open(input_location + '/extract.txt') as input_file:
 		for line_ID, line_text in enumerate(input_file):
 			newwords  = []
-			full_line     = line_text.split()
+			full_line = line_text.lower().split()
+			info  = full_line[:4] # ID and age
+			words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
+			for i, word in enumerate(words[:-1]): 
+				if word in dico:
+					newwords.append(dico[word]) # Transcribe the word
+					lastletter = word[-1]
+					lastphon = newwords[i][-1]
+					if silent_consonant(lastletter, lastphon) and check_liaison(line_ID, words, i) :
+						newwords[i] += liaison[lastletter] # Attach liaison consonant
+						if word in denasalization:
+							newwords[i] = denasalization[word]
+						print_applied_liaison(line_ID, words, i, newwords[i], f)
+				else:
+					newwords.append('#') 
+			newwords.append(full_line[-1])
+			print >> foutput , ' '.join(info + newwords) # Concatenate with ID and age and print
+
+	f.close()
+	foutput.close()
+	frejected.close()
+
+
+	#### 2: LIQUID DELETION ####
+	f2 = open(output_location + '/liquid_deletion_cases.txt', 'w')
+	foutput2 = open(output_location + '/recoded_L_D.txt', 'w')
+
+	text_ort = []
+	with open(input_location + '/extract.txt') as original_file:
+		for line_ID, line_text in enumerate(original_file):
+			text_ort.append(line_text.strip())
+			
+	with open(output_location + '/recoded_with_liaison.txt') as input_file:
+		
+			for line_ID, line_text in enumerate(input_file):
+				newwords  = []
+				full_line     = line_text.split()
+				full_line_ort = text_ort[line_ID].split()
+				info      = full_line[:4] # ID and age
+				words     = full_line[4:] # Start reading in 5th column, first 4 are ID and age
+				words_ort = full_line_ort[4:]
+				for i, word in enumerate(words[:-1]): 
+					newwords.append(word)
+					if (word != '#') and check_liquid_deletion(words, i) :
+						newwords[i] = word[:-1] # Delete liquid
+						print_applied_cases(line_ID, words, i, words_ort, newwords[i], f2)
+				newwords.append(full_line[-1])
+				print >> foutput2 , ' '.join(info + newwords) # Concatenate with ID and age and print
+	f2.close()
+	foutput2.close()
+
+
+	#### 3: SCHWA INSERTION ####
+	f3 = open(output_location + '/schwa_insertion_cases.txt', 'w')
+	foutput3 = open(output_location + '/recoded_L_D_S.txt', 'w')
+
+	with open(output_location + '/recoded_L_D.txt') as input_file:
+		for line_ID, line_text in enumerate(input_file):
+			newwords  = []
+			full_line = line_text.split()
 			full_line_ort = text_ort[line_ID].split()
-			info      = full_line[:4] # ID and age
-			words     = full_line[4:] # Start reading in 5th column, first 4 are ID and age
+			info  = full_line[:4] # ID and age
+			words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
 			words_ort = full_line_ort[4:]
 			for i, word in enumerate(words[:-1]): 
 				newwords.append(word)
-				if (word != '#') and check_liquid_deletion(words, i) :
-					newwords[i] = word[:-1] # Delete liquid
-					print_applied_cases(line_ID, words, i, words_ort, newwords[i], f2)
+				if (word != '#') and check_schwa_insertion(words, i) :
+					newwords[i] += '°' # Add schwa
+					print_applied_cases(line_ID, words, i, words_ort, newwords[i], f3)
 			newwords.append(full_line[-1])
-			print >> foutput2 , ' '.join(info + newwords) # Concatenate with ID and age and print
-f2.close()
-foutput2.close()
+			print >> foutput3 , ' '.join(info + newwords) # Concatenate with ID and age and print
+		
+	f3.close()
+	foutput3.close()
 
 
-#### 3: SCHWA INSERTION ####
-f3 = open('output/schwa_insertion_cases.txt', 'w')
-foutput3 = open('output/recoded_L_D_S.txt', 'w')
+	#### 4: ENCHAINEMENT ####
+	f4 = open(output_location + '/enchainement_cases.txt', 'w')
+	foutput4 = open(output_location + '/recoded_L_D_S_E.txt', 'w')
 
-with open('output/recoded_L_D.txt') as input_file:
-	for line_ID, line_text in enumerate(input_file):
-		newwords  = []
-		full_line = line_text.split()
-		full_line_ort = text_ort[line_ID].split()
-		info  = full_line[:4] # ID and age
-		words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
-		words_ort = full_line_ort[4:]
-		for i, word in enumerate(words[:-1]): 
-			newwords.append(word)
-			if (word != '#') and check_schwa_insertion(words, i) :
-				newwords[i] += '°' # Add schwa
-				print_applied_cases(line_ID, words, i, words_ort, newwords[i], f3)
-		newwords.append(full_line[-1])
-		print >> foutput3 , ' '.join(info + newwords) # Concatenate with ID and age and print
-	
-f3.close()
-foutput3.close()
-
-
-#### 4: ENCHAINEMENT ####
-f4 = open('output/enchainement_cases.txt', 'w')
-foutput4 = open('output/recoded_L_D_S_E.txt', 'w')
-
-with open('output/recoded_L_D_S.txt') as input_file:
-	for line_ID, line_text in enumerate(input_file):
-		newwords  = []
-		full_line = line_text.split()
-		full_line_ort = text_ort[line_ID].split()
-		info  = full_line[:4] # ID and age
-		newwords = full_line[4:] # Start reading in 5th column, first 4 are ID and age
-		words_ort = full_line_ort[4:]
-		for i, word in enumerate(newwords[:-1]): 
-			if (word != '#') and check_enchainement(newwords, i) :
-				currentword = newwords[i]
-				final_consonant = word[-1]
-				if final_consonant != "'":
-					newwords[i]   = currentword[:-1] # Enchainement
-					newwords[i+1] = final_consonant + newwords[i+1]
-				else:
-					newwords[i]   = currentword[:-2] # Enchainement
-					newwords[i+1] = currentword[-2:] + newwords[i+1]
-					newwords[i+1] = newwords[i+1].replace("'",'') # Erase the apostrophe
-				print_enchainement(line_ID, i, words_ort, newwords[i], newwords[i+1], f4)
-		newwords = filter(None, newwords)
-		print >> foutput4 , ' '.join(info + newwords) # Concatenate with ID and age and print
-	
-f4.close()
-foutput4.close()
+	with open(output_location + '/recoded_L_D_S.txt') as input_file:
+		for line_ID, line_text in enumerate(input_file):
+			newwords  = []
+			full_line = line_text.split()
+			full_line_ort = text_ort[line_ID].split()
+			info  = full_line[:4] # ID and age
+			newwords = full_line[4:] # Start reading in 5th column, first 4 are ID and age
+			words_ort = full_line_ort[4:]
+			for i, word in enumerate(newwords[:-1]): 
+				if (word != '#') and check_enchainement(newwords, i) :
+					currentword = newwords[i]
+					final_consonant = word[-1]
+					if final_consonant != "'":
+						newwords[i]   = currentword[:-1] # Enchainement
+						newwords[i+1] = final_consonant + newwords[i+1]
+					else:
+						newwords[i]   = currentword[:-2] # Enchainement
+						newwords[i+1] = currentword[-2:] + newwords[i+1]
+						newwords[i+1] = newwords[i+1].replace("'",'') # Erase the apostrophe
+					print_enchainement(line_ID, i, words_ort, newwords[i], newwords[i+1], f4)
+			newwords = filter(None, newwords)
+			print >> foutput4 , ' '.join(info + newwords) # Concatenate with ID and age and print
+		
+	f4.close()
+	foutput4.close()
