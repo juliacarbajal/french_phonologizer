@@ -37,7 +37,7 @@ for corpusdir in dirlist:
 			aux = line.split()
 			if (aux[0] == '0') and (aux[2] not in participants):
 				participants.append(aux[2])
-			if (aux[2] == 'CHI'):
+			if (aux[2] == 'CHI') or ('Target_Child' in aux[5]):
 				child_info = aux[5].split('|')
 				age[aux[1]] = child_info[3]
 

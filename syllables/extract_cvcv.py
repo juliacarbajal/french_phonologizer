@@ -83,7 +83,8 @@ for S1 in syllabic_dict:
 		S2_structure = syllabic_structure(S2)
 		syll_count.append([S1,S2,N,S1_structure,S2_structure])
 
-for syll_pair in sorted(syll_count, key=lambda x: x[2]):
+# Third: Order by frequency of occurrence and print:
+for syll_pair in sorted(syll_count, key=lambda x: x[2], reverse = True):
 	S1 = syll_pair[0]
 	S2 = syll_pair[1]
 	N = syll_pair[2]
