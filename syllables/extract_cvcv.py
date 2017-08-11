@@ -71,6 +71,7 @@ for line in corpus:
 			syllabic_dict[syllable] = syllabic_dict[syllable] + [text[i+1]]
 
 # Second: extract syllabic structure and count syllable pairs
+syll_count = []
 for S1 in syllabic_dict:
 	S1 = str(S1)
 	following_syllables = syllabic_dict[S1]
@@ -80,9 +81,17 @@ for S1 in syllabic_dict:
 		S2 = str(S2)
 		N = syl_counts[S2]
 		S2_structure = syllabic_structure(S2)
-		print_output(S1, S2, N, S1_structure, S2_structure, f)
-		if (S1_structure=='CV') and (S2_structure=='CV'):
-			print_output(S1, S2, N, S1_structure, S2_structure, fcvcv)
+		syll_count.append([S1,S2,N,S1_structure,S2_structure])
 
+for syll_pair in sorted(syll_count, key=lambda x: x[2]):
+	S1 = syll_pair[0]
+	S2 = syll_pair[1]
+	N = syll_pair[2]
+	S1_structure = syll_pair[3]
+	S2_structure = syll_pair[4]
+	print_output(S1, S2, N, S1_structure, S2_structure, f)
+	if (S1_structure=='CV') and (S2_structure=='CV'):
+		print_output(S1, S2, N, S1_structure, S2_structure, fcvcv)
+		
 f.close()
 fcvcv.close()
