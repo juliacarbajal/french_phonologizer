@@ -4,15 +4,20 @@ import os
 from collections import Counter
 import unicodedata
 
-root='output'
-dirlist = [ item for item in os.listdir(root) if os.path.isdir(os.path.join(root, item)) ]
-
 corpus = []
-for corpusdir in dirlist:
-	location = 'output/' + corpusdir
-	with open(location + '/recoded_L_D_S_E.txt') as recoded_file:
-		for line_ID, line_text in enumerate(recoded_file):
-			corpus.append(line_text.strip())
+with open('corpus0y0m-2y0m.txt') as recoded_file:
+	for line in recoded_file:
+		corpus.append(line.strip())
+
+# root='output'
+# dirlist = [ item for item in os.listdir(root) if os.path.isdir(os.path.join(root, item)) ]
+
+# corpus = []
+# for corpusdir in dirlist:
+	# location = 'output/' + corpusdir
+	# with open(location + '/recoded_L_D_S_E.txt') as recoded_file:
+		# for line_ID, line_text in enumerate(recoded_file):
+			# corpus.append(line_text.strip())
 			
 f = open('syllables/disyllables.txt', 'w')
 fcvcv = open('syllables/cvcv.txt', 'w')
