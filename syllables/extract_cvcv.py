@@ -50,7 +50,26 @@ def syllabic_structure(syl):
 			structure += 'O'
 	return structure
 
-def print_output(syllable1, syllable2, counts, structure1, structure2, file):
+def count_syllables(syllable_dictionary):
+	syll_count = []
+	for S1 in syllable_dictionary:
+		S1 = str(S1)
+		following_syllables = syllable_dictionary[S1]
+		syl_counts = Counter(following_syllables)
+		S1_structure = syllabic_structure(S1)
+		for S2 in list(set(following_syllables)):
+			S2 = str(S2)
+			N = syl_counts[S2]
+			S2_structure = syllabic_structure(S2)
+			syll_count.append([S1,S2,N,S1_structure,S2_structure])
+	return syll_count
+	
+def print_output(syllable_pair, file):
+	syllable1 = syllable_pair[0]
+	syllable2 = syllable_pair[1]
+	counts = syllable_pair[2]
+	structure1 = syllable_pair[3]
+	structure2 = syllable_pair[4]
 	structure = (str(structure1) + ' ' + str(structure2)).ljust(15)
 	syllables = (str(syllable1) + ' ' + str(syllable2)).decode('utf-8').encode('cp1252').ljust(15)
 	syllables = syllables.decode('cp1252').encode('utf-8')
@@ -70,45 +89,20 @@ for line in corpus:
 			syllabic_dict[syllable] = syllabic_dict[syllable] + [text[i+1]]
 
 # Second: extract syllabic structure and count syllable pairs
-syll_count = []
-for S1 in syllabic_dict:
-	S1 = str(S1)
-	following_syllables = syllabic_dict[S1]
-	syl_counts = Counter(following_syllables)
-	S1_structure = syllabic_structure(S1)
-	for S2 in list(set(following_syllables)):
-		S2 = str(S2)
-		N = syl_counts[S2]
-		S2_structure = syllabic_structure(S2)
-		syll_count.append([S1,S2,N,S1_structure,S2_structure])
+all_syll_count = count_syllables(syllabic_dict)
 
 # Third: Order by frequency of occurrence and print:
-for syll_pair in sorted(syll_count, key=lambda x: x[2], reverse = True):
-	S1 = syll_pair[0]
-	S2 = syll_pair[1]
-	N = syll_pair[2]
+for syll_pair in sorted(all_syll_count, key=lambda x: x[2], reverse = True):
+	print_output(syll_pair, f)
 	S1_structure = syll_pair[3]
 	S2_structure = syll_pair[4]
-	print_output(S1, S2, N, S1_structure, S2_structure, f)
 	if (S1_structure=='CV') and (S2_structure=='CV'):
-		print_output(S1, S2, N, S1_structure, S2_structure, fcvcv)
+		print_output(syll_pair, fcvcv)
 		
 f.close()
 fcvcv.close()
 
-def count_syllables(syllable_dictionary):
-	syll_count = []
-	for S1 in syllable_dictionary:
-		S1 = str(S1)
-		following_syllables = syllable_dictionary[S1]
-		syl_counts = Counter(following_syllables)
-		S1_structure = syllabic_structure(S1)
-		for S2 in list(set(following_syllables)):
-			S2 = str(S2)
-			N = syl_counts[S2]
-			S2_structure = syllabic_structure(S2)
-			syll_count.append([S1,S2,N,S1_structure,S2_structure])
-	return syll_count
+
 
 # NEW: Alternative way
 f2 = open('prueba.txt', 'w')
@@ -132,12 +126,7 @@ for line in corpus:
 syll_1word_count = count_syllables(syll_1word)
 # Third: Order by frequency of occurrence and print:
 for syll_pair in sorted(syll_1word_count, key=lambda x: x[2], reverse = True):
-	S1 = syll_pair[0]
-	S2 = syll_pair[1]
-	N = syll_pair[2]
-	S1_structure = syll_pair[3]
-	S2_structure = syll_pair[4]
-	print_output(S1, S2, N, S1_structure, S2_structure, f2)
+	print_output(syll_pair, f2)
 	#if (S1_structure=='CV') and (S2_structure=='CV'):
 	#	print_output(S1, S2, N, S1_structure, S2_structure, fcvcv)
 #print >> f2, syll_1word
