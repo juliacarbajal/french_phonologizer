@@ -1,9 +1,11 @@
 # This Python file uses the following encoding: utf-8
-import re
 import os
 from collections import Counter
-import unicodedata
 
+if not os.path.exists('syllables/output'):
+	os.makedirs('syllables/output')
+
+# Load corpus (IN THE FUTURE MAKE THIS AN INPUT)
 corpus = []
 with open('corpus0y0m-2y0m.txt') as recoded_file:
 	for line in recoded_file:
@@ -20,8 +22,6 @@ with open('corpus0y0m-2y0m.txt') as recoded_file:
 		# for line_ID, line_text in enumerate(recoded_file):
 			# corpus.append(line_text.strip())
 			
-f = open('syllables/disyllables.txt', 'w')
-fcvcv = open('syllables/cvcv.txt', 'w')
 
 # Define phonemes:
 obstruents = ['p', 'b', 't', 'd', 'k', 'g', 'f', 'v', 's', 'z', 'S', 'Z']
@@ -64,7 +64,7 @@ def count_syllables(syllable_dictionary):
 			syll_count.append([S1,S2,N,S1_structure,S2_structure])
 	return syll_count
 	
-def print_output(syllable_pair, file):
+def print_output(syllable_pair, file, context=[]):
 	syllable1 = syllable_pair[0]
 	syllable2 = syllable_pair[1]
 	counts = syllable_pair[2]
@@ -73,9 +73,15 @@ def print_output(syllable_pair, file):
 	structure = (str(structure1) + ' ' + str(structure2)).ljust(15)
 	syllables = (str(syllable1) + ' ' + str(syllable2)).decode('utf-8').encode('cp1252').ljust(15)
 	syllables = syllables.decode('cp1252').encode('utf-8')
-	print >> file, structure + syllables + str(counts)
+	if not context:
+		print >> file, structure + syllables + str(counts)
+	else:
+		print >> file, structure + syllables + str(counts).ljust(10) + ', '.join(Counter(context))
 
 # SCRIPT:
+f = open('syllables/output/disyllables.txt', 'w')
+fcvcv = open('syllables/output/cvcv.txt', 'w')
+
 # First: retrieve all disyllables
 syllabic_dict = {}
 for line in corpus:
@@ -104,30 +110,91 @@ fcvcv.close()
 
 
 
-# NEW: Alternative way
-f2 = open('prueba.txt', 'w')
+# NEW: Alternative way, separated by categories (within word, across words, etc)
+f2 = open('syllables/output/bisyl_1word.txt', 'w')
+f3 = open('syllables/output/bisyl_2words.txt', 'w')
+f4 = open('syllables/output/bisyl_across.txt', 'w')
+f5 = open('syllables/output/bisyl_partword.txt', 'w')
+
 syll_1word = {}
-syll_partword = []
-syll_2words = []
-syll_across = []
+syll_partword = {}
+syll_2words = {}
+syll_across = {}
+partwords = {}
+
 for line in corpus:
 	line = line.split()
 	text = line[4:]
 	for i, word in enumerate(text[:-1]):
 		syllables = word.split('-')
-		if len(syllables) == 2:
+		syllables_next = text[i+1].split('-')
+				
+		# Monosyllabic words:	
+		if (len(syllables) == 1) and (len(syllables_next) == 1) and ('O' not in [syllabic_structure(syllables_next[0]), syllabic_structure(syllables[0])]):
+			# Two monosyllabic words:
+			if (syllables[0] not in syll_2words):
+				syll_2words[syllables[0]] = [syllables_next[0]]
+			else:
+				syll_2words[syllables[0]] = syll_2words[syllables[0]] + [syllables_next[0]]
+		elif (len(syllables) == 1) and (len(syllables_next) > 1) and (syllabic_structure(syllables[0]) != 'O'):
+			# 1 monosyllabic + 1 multisyllabic word:
+			if (syllables[0] not in syll_across):
+				syll_across[syllables[0]] = [syllables_next[0]]
+			else:
+				syll_across[syllables[0]] = syll_across[syllables[0]] + [syllables_next[0]]
+		
+		# Bisyllabic words:
+		elif len(syllables) == 2:
+			# Within:
 			if (syllables[0] not in syll_1word):
 				syll_1word[syllables[0]] = [syllables[1]]
 			else:
 				syll_1word[syllables[0]] = syll_1word[syllables[0]] + [syllables[1]]
-		#for j, syllable in enumerate(syllables):
-		#	if (syllable not in syll_1word)
+			# Across (final syllable):
+			if (syllables[1] not in syll_across) and (syllabic_structure(syllables_next[0]) != 'O'):
+				syll_across[syllables[1]] = [syllables_next[0]]
+			elif (syllables[1] in syll_across) and (syllabic_structure(syllables_next[0]) != 'O'):
+				syll_across[syllables[1]] = syll_across[syllables[1]] + [syllables_next[0]]
+				
+		# Trisyllabic words and beyond:
+		if len(syllables) > 2:
+			# Within:
+			for j, syl in enumerate(syllables[:-1]):
+				# Within:
+				if (syl not in syll_partword):
+					syll_partword[syl] = [syllables[j+1]]
+				else:
+					syll_partword[syl] = syll_partword[syl] + [syllables[j+1]]
+				# Save context:
+				if ((syl, syllables[j+1]) not in partwords):
+					partwords[(syl,syllables[j+1])] = [word]
+				else:
+					partwords[(syl,syllables[j+1])] = partwords[(syl,syllables[j+1])] + [word]
+			# Across (final syllable):
+			if (syllables[-1] not in syll_across) and (syllabic_structure(syllables_next[0]) != 'O'):
+				syll_across[syllables[-1]] = [syllables_next[0]]
+			elif (syllables[-1] in syll_across) and (syllabic_structure(syllables_next[0]) != 'O'):
+				syll_across[syllables[-1]] = syll_across[syllables[-1]] + [syllables_next[0]]
 
+# Second: Count syllables
 syll_1word_count = count_syllables(syll_1word)
+syll_2words_count = count_syllables(syll_2words)
+syll_across_count = count_syllables(syll_across)
+syll_partword_count = count_syllables(syll_partword)
+
 # Third: Order by frequency of occurrence and print:
 for syll_pair in sorted(syll_1word_count, key=lambda x: x[2], reverse = True):
 	print_output(syll_pair, f2)
-	#if (S1_structure=='CV') and (S2_structure=='CV'):
-	#	print_output(S1, S2, N, S1_structure, S2_structure, fcvcv)
-#print >> f2, syll_1word
+for syll_pair in sorted(syll_2words_count, key=lambda x: x[2], reverse = True):
+	print_output(syll_pair, f3)
+for syll_pair in sorted(syll_across_count, key=lambda x: x[2], reverse = True):
+	print_output(syll_pair, f4)
+for syll_pair in sorted(syll_partword_count, key=lambda x: x[2], reverse = True):
+	S1 = syll_pair[0]
+	S2 = syll_pair[1]
+	print_output(syll_pair, f5, partwords[(S1,S2)])
+
 f2.close()
+f3.close()
+f4.close()
+f5.close()
