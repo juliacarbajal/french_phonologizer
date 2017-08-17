@@ -76,6 +76,8 @@ def print_output(syllable_pair, file, context=[]):
 	if not context:
 		print >> file, structure + syllables + str(counts)
 	else:
+		if isinstance(context[0], tuple):
+			context = [' '.join(map(str,x)) for x in context]
 		print >> file, structure + syllables + str(counts).ljust(10) + ', '.join(Counter(context))
 
 # SCRIPT:
@@ -121,6 +123,7 @@ syll_partword = {}
 syll_2words = {}
 syll_across = {}
 partwords = {}
+wordboundary = {}
 
 for line in corpus:
 	line = line.split()
@@ -142,6 +145,11 @@ for line in corpus:
 				syll_across[syllables[0]] = [syllables_next[0]]
 			else:
 				syll_across[syllables[0]] = syll_across[syllables[0]] + [syllables_next[0]]
+			# Save context:
+			if ((syllables[0], syllables_next[0]) not in wordboundary):
+				wordboundary[(syllables[0], syllables_next[0])] = [(word, text[i+1])]
+			else:
+				wordboundary[(syllables[0], syllables_next[0])] = wordboundary[(syllables[0], syllables_next[0])] + [(word, text[i+1])]
 		
 		# Bisyllabic words:
 		elif len(syllables) == 2:
@@ -155,6 +163,11 @@ for line in corpus:
 				syll_across[syllables[1]] = [syllables_next[0]]
 			elif (syllables[1] in syll_across) and (syllabic_structure(syllables_next[0]) != 'O'):
 				syll_across[syllables[1]] = syll_across[syllables[1]] + [syllables_next[0]]
+			# Save context:
+			if ((syllables[1], syllables_next[0]) not in wordboundary):
+				wordboundary[(syllables[1], syllables_next[0])] = [(word, text[i+1])]
+			else:
+				wordboundary[(syllables[1], syllables_next[0])] = wordboundary[(syllables[1], syllables_next[0])] + [(word, text[i+1])]
 				
 		# Trisyllabic words and beyond:
 		if len(syllables) > 2:
@@ -175,6 +188,11 @@ for line in corpus:
 				syll_across[syllables[-1]] = [syllables_next[0]]
 			elif (syllables[-1] in syll_across) and (syllabic_structure(syllables_next[0]) != 'O'):
 				syll_across[syllables[-1]] = syll_across[syllables[-1]] + [syllables_next[0]]
+			# Save context:
+			if ((syllables[-1], syllables_next[0]) not in wordboundary):
+				wordboundary[(syllables[-1], syllables_next[0])] = [(word, text[i+1])]
+			else:
+				wordboundary[(syllables[-1], syllables_next[0])] = wordboundary[(syllables[-1], syllables_next[0])] + [(word, text[i+1])]
 
 # Second: Count syllables
 syll_1word_count = count_syllables(syll_1word)
@@ -188,7 +206,9 @@ for syll_pair in sorted(syll_1word_count, key=lambda x: x[2], reverse = True):
 for syll_pair in sorted(syll_2words_count, key=lambda x: x[2], reverse = True):
 	print_output(syll_pair, f3)
 for syll_pair in sorted(syll_across_count, key=lambda x: x[2], reverse = True):
-	print_output(syll_pair, f4)
+	S1 = syll_pair[0]
+	S2 = syll_pair[1]
+	print_output(syll_pair, f4, wordboundary[(S1,S2)])
 for syll_pair in sorted(syll_partword_count, key=lambda x: x[2], reverse = True):
 	S1 = syll_pair[0]
 	S2 = syll_pair[1]
