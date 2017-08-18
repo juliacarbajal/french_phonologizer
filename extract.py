@@ -111,9 +111,10 @@ for corpusdir in dirlist:
 			aux = line.split()
 			if (aux[0] == '0') and (aux[2] not in participants):
 				participants.append(aux[2])
-			if (aux[2] == 'CHI') or ('Target_Child' in aux[5]):
+			if ('Target_Child' in aux[5]) or ((aux[2] == 'CHI') and (aux[1] not in age)):
 				child_info = aux[5].split('|')
 				age[aux[1]] = child_info[3]
+				
 
 	# Read and clean files:
 	for file in chafiles:
@@ -135,16 +136,17 @@ for corpusdir in dirlist:
 					newline  = clean_text(thisline)
 					# Final corrections (punctuation marks):
 					newline = newline.split()
-					if (continue_line == 0) and (newline[0]==','): # Note: only do this in first line of a dialog
-						newline = newline[1:] # Get rid of any comma left at the beginning of the line
-					newline = ' '.join(newline)
-					
-					# Print:
-					if (continue_line == 1):
-						continue_line, processed_lines = print_line(newline, processed_lines, f)
-					elif (continue_line == 0) and (newline != '.') and (newline != '* .'):
-						print >> f, file+' '+child_age+' ',
-						continue_line, processed_lines = print_line(newline, processed_lines, f)
+					if (len(newline) > 0):
+						if (continue_line == 0) and (newline[0]==','): # Note: only do this in first line of a dialog
+							newline = newline[1:] # Get rid of any comma left at the beginning of the line
+						newline = ' '.join(newline)
+						
+						# Print:
+						if (continue_line == 1):
+							continue_line, processed_lines = print_line(newline, processed_lines, f)
+						elif (continue_line == 0) and (newline != '.') and (newline != '* .') and (newline != '?') and (newline != '!'):
+							print >> f, file+' '+child_age+' ',
+							continue_line, processed_lines = print_line(newline, processed_lines, f)
 
 	f.close()
 	print 'Corpus', corpusdir, 'done!\n'
