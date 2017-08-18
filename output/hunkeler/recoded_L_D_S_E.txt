@@ -18,7 +18,7 @@ cam01.cha 1 3 25 ty v2 v°-niR syR ma-m@ puR liR ?
 cam01.cha 1 3 25 a-le gR5 pOp la !
 cam01.cha 1 3 25 a-lOR se kwa sa kO mis-twaR , se lis-twaR d2 , be-be kRo-ko .
 cam01.cha 1 3 25 se be-be kRo-ko .
-cam01.cha 1 3 25 i le ta-vEk s§ fRER # e ke s2 kil fE l2 be-be kRo-ko ?
+cam01.cha 1 3 25 i le ta-vEk s§ fRER # e kEs kil fE l2 be-be kRo-ko ?
 cam01.cha 1 3 25 il m@Z d2 dRol d2 Soz !
 cam01.cha 1 3 25 wE e la , il m@ Za-vEk la tOR-ty .
 cam01.cha 1 3 25 mE la tOR-ty El naZ tu dus-m@ , tu dus-m@ .
@@ -31,10 +31,10 @@ cam01.cha 1 3 25 E le u ma-m@ ?
 cam01.cha 1 3 25 ma-m@ E le u ?
 cam01.cha 1 3 25 ba di d§k sa va vi ta-vEk twa !
 cam01.cha 1 3 25 a-le 1 notR !
-cam01.cha 1 3 25 a-le ke s2 k2 ty v2 R°-gaR-de ?
+cam01.cha 1 3 25 a-le kEs k2 ty v2 R°-gaR-de ?
 cam01.cha 1 3 25 s8i-la ?
 cam01.cha 1 3 25 m§t Ra ma-m@ , m§t l2 mwa twa , m§t Ra ma-m@ !
-cam01.cha 1 3 25 wE a-lOR ke s2 k2 ty v2 sa-vwaR ?
+cam01.cha 1 3 25 wE a-lOR kEs k2 ty v2 sa-vwaR ?
 cam01.cha 1 3 25 sa se la vwa-tyR .
 cam01.cha 1 3 25 se lo-to .
 cam01.cha 1 3 25 se l2 tR5 tSu tSu !
@@ -69,23 +69,23 @@ cam01.cha 1 3 25 ku-ku !
 cam01.cha 1 3 25 a-le vj5 ta-swaR puR R°-gaR-de l2 livR !
 cam01.cha 1 3 25 vj5 !
 cam01.cha 1 3 25 vj5 vit ta-swaR !
-cam01.cha 1 3 25 a-lOR ke s2 k2 ty v2 R°-gaR-de ?
+cam01.cha 1 3 25 a-lOR kEs k2 ty v2 R°-gaR-de ?
 cam01.cha 1 3 25 sa se le-ky-R9j .
-cam01.cha 1 3 25 ke s2 ki fE le-ky-R9j ?
+cam01.cha 1 3 25 kEs ki fE le-ky-R9j ?
 cam01.cha 1 3 25 sa se l2 R°-naR .
 cam01.cha 1 3 25 le-ky-R9j .
 cam01.cha 1 3 25 ku-ku l2 R°-naR !
-cam01.cha 1 3 25 ke s2 k2 ty fE la !
+cam01.cha 1 3 25 kEs k2 ty fE la !
 cam01.cha 1 3 25 a ja !
 cam01.cha 1 3 25 sa se la so-tREl , aj !
 cam01.cha 1 3 25 uj uj !
 cam01.cha 1 3 25 ty R°-paR de-Za !
 cam01.cha 1 3 25 ba ty REst pa l§-t@ 5 !
 cam02.cha 1 4 08 a-lOR vwa-la !
-cam02.cha 1 4 08 ke s2 k2 ty v2 liR ?
+cam02.cha 1 4 08 kEs k2 ty v2 liR ?
 cam02.cha 1 4 08 se la ma-m@ e-le-f@ e s§ be-be .
 cam02.cha 1 4 08 n§ .
-cam02.cha 1 4 08 ke s2 k2 ty v2 fER ?
+cam02.cha 1 4 08 kEs k2 ty v2 fER ?
 cam02.cha 1 4 08 ty v2 pa l2 liR ?
 cam02.cha 1 4 08 sa se kwa ?
 cam02.cha 1 4 08 de ptit fl9R !
@@ -105,7 +105,7 @@ cam02.cha 1 4 08 sa se l2 pwa-s§ , sa se l2 pwa-s§ .
 cam02.cha 1 4 08 wi sa se to-si 1 pwa-s§ .
 cam02.cha 1 4 08 u ty va ka-mij ?
 cam02.cha 1 4 08 ke s2 ty fE ?
-cam02.cha 1 4 08 ke s2 k2 ty fE # ?
+cam02.cha 1 4 08 kEs k2 ty fE # ?
 cam02.cha 1 4 08 ty vj5 fE R1 ga-te a ma-m@ ?
 cam02.cha 1 4 08 n§ ty v2 pa fE R1 ga-te a ma-m@ ?
 cam02.cha 1 4 08 @-vwa !
@@ -169,7 +169,7 @@ cam03.cha 1 4 21 l2 pwa-s§ .
 cam03.cha 1 4 21 R°-gaRd l2 be-be !
 cam03.cha 1 4 21 i le la l2 be-be .
 cam03.cha 1 4 21 be-be .
-cam03.cha 1 4 21 ke s2 k2 ma-m@ E la d@ s§ v@tR ?
+cam03.cha 1 4 21 kEs k2 ma-m@ E la d@ s§ v@tR ?
 cam03.cha 1 4 21 E la 1 be-be d@ s§ v@t ma-m@ ?
 cam03.cha 1 4 21 be-be , wi ma-m@ E la 1 pti be-be d@ s§ v@tR .
 cam03.cha 1 4 21 il buZ d@ l2 v@t Ra ma-m@ l2 be-be , il buZ d@ l2 v@t Ra ma-m@ l2 be-be , a-t@-sj§ !
@@ -186,13 +186,13 @@ cam04.cha 1 5 04 be-be ?
 cam04.cha 1 5 04 ty l8i di 1 bi-zu ?
 cam04.cha 1 5 04 va , va l2 mEt Ra fER do-do !
 cam04.cha 1 5 04 il fE do-do ?
-cam04.cha 1 5 04 e s2 ki fE do-do ?
+cam04.cha 1 5 04 Es ki fE do-do ?
 cam04.cha 1 5 04 do-do be-be .
 cam04.cha 1 5 04 do-do be-be .
 cam04.cha 1 5 04 do-do , i fE do-do ?
-cam04.cha 1 5 04 ka-mij e s2 ki fE do-do l be-be ?
+cam04.cha 1 5 04 ka-mij Es ki fE do-do l be-be ?
 cam04.cha 1 5 04 e ka-mij !
-cam04.cha 1 5 04 e s2 ki fE do-do l be-be ?
+cam04.cha 1 5 04 Es ki fE do-do l be-be ?
 cam04.cha 1 5 04 ty v2 pa Re-p§dR !
 cam04.cha 1 5 04 @-vwa !
 cam04.cha 1 5 04 @-vwa !
@@ -236,7 +236,7 @@ cam04.cha 1 5 04 ga-te be-be !
 cam04.cha 1 5 04 la , s8i-la o-si .
 cam04.cha 1 5 04 i le tu de-za-bi-je .
 cam04.cha 1 5 04 ga-te be-be !
-cam04.cha 1 5 04 ke s2 k2 ty fE ?
+cam04.cha 1 5 04 kEs k2 ty fE ?
 cam04.cha 1 5 04 ki , ki fE do-do ?
 cam04.cha 1 5 04 # !
 cam04.cha 1 5 04 ku-ku !
@@ -248,9 +248,9 @@ cam05.cha 1 5 17 ty lis ?
 cam05.cha 1 5 17 ty v2 liR kElk Soz ?
 cam05.cha 1 5 17 n§ ?
 cam05.cha 1 5 17 ty v2 pa li Ra-vEk ma-m@ ?
-cam05.cha 1 5 17 ke s2 k2 ty v2 liR ?
+cam05.cha 1 5 17 kEs k2 ty v2 liR ?
 cam05.cha 1 5 17 t@-sj§ d pa t§-be # !
-cam05.cha 1 5 17 ke s2 k2 ty Ra-k§t ?
+cam05.cha 1 5 17 kEs k2 ty Ra-k§t ?
 cam05.cha 1 5 17 se kwa sa ?
 cam05.cha 1 5 17 l2 Sj5 ?
 cam05.cha 1 5 17 wuf l2 Sj5 !
@@ -258,7 +258,7 @@ cam05.cha 1 5 17 sa se t1 Sj5 , 1 Sj5 .
 cam05.cha 1 5 17 # l2 Sj5 , se t1 Sj5 ka-mij .
 cam05.cha 1 5 17 wi .
 cam05.cha 1 5 17 wi ma biS .
-cam05.cha 1 5 17 ke s2 k2 ty v2 m§ pu-s5 ?
+cam05.cha 1 5 17 kEs k2 ty v2 m§ pu-s5 ?
 cam05.cha 1 5 17 o 1 naRbR !
 cam05.cha 1 5 17 a-vEk de pOm .
 cam05.cha 1 5 17 sa se tyn f9j .
@@ -304,7 +304,7 @@ cam05.cha 1 5 17 e vwa-la l2 ba-l§ !
 cam05.cha 1 5 17 l2 vwa-la !
 cam05.cha 1 5 17 o b2 n§ !
 cam05.cha 1 5 17 n§ ka-mij tuS pa o fl9R !
-cam05.cha 1 5 17 ke s2 k2 ZE di , § n2 tuS pa o fl9R !
+cam05.cha 1 5 17 kEs k2 ZE di , § n2 tuS pa o fl9R !
 cam05.cha 1 5 17 § R°-gaRd le bEl fl9R ka-mij !
 cam05.cha 1 5 17 ty R°-gaRd mE ty n2 tuS pa !
 cam06.cha 1 6 03 ka-mij , i fE do-do be-be ?
@@ -313,7 +313,7 @@ cam06.cha 1 6 03 do-do be-be , do-do be-be , a-t@-sj§ 5 !
 cam06.cha 1 6 03 ty di 1 bi-zu a be-be , bi-zu be-be !
 cam06.cha 1 6 03 a-le ty m Ra-k§t !
 cam06.cha 1 6 03 wi .
-cam06.cha 1 6 03 wi , a-lOR ke s2 ki i a d2 bo !
+cam06.cha 1 6 03 wi , a-lOR kEs ki i a d2 bo !
 cam06.cha 1 6 03 1 be-be , se pjER ?
 cam06.cha 1 6 03 sa se t1 p@-ta-l§ .
 cam06.cha 1 6 03 1 p@-ta-l§ .
@@ -326,7 +326,7 @@ cam06.cha 1 6 03 Op la !
 cam06.cha 1 6 03 § tuRn .
 cam06.cha 1 6 03 sa se t1 pti gaR-s§ , i fE dy pa-t5 a Ru-lEt .
 cam06.cha 1 6 03 i fE dy pa-t5 a Ru-lEt l2 pti gaR-s§ !
-cam06.cha 1 6 03 a-lOR ke s2 k2 ty m m§tR !
+cam06.cha 1 6 03 a-lOR kEs k2 ty m m§tR !
 cam06.cha 1 6 03 kwa ?
 cam06.cha 1 6 03 ty v2 pa m§-tRe ?
 cam06.cha 1 6 03 sa n§ , se pa , se tyn bal .
@@ -348,8 +348,8 @@ cam06.cha 1 6 03 mE n§ le Zi-Raf sa fE pa m2 !
 cam06.cha 1 6 03 da-j9R Z sE mEm pa s k2 sa fE kOm bR8i !
 cam06.cha 1 6 03 ba di ka-mij !
 cam06.cha 1 6 03 pjE Ro-si i la dRwa d R°-gaR-de l2 ka-ta-lO g5 !
-cam06.cha 1 6 03 ke s2 k2 ta vy ?
-cam06.cha 1 6 03 ke s2 k2 ta vy ?
+cam06.cha 1 6 03 kEs k2 ta vy ?
+cam06.cha 1 6 03 kEs k2 ta vy ?
 cam06.cha 1 6 03 sa se t1 Z@-ti p°-ti gaR-s§ !
 cam06.cha 1 6 03 mE n§ se ply z1 be-be !
 cam06.cha 1 6 03 i le tRo gR@ pu REt R1 be-be !
@@ -383,12 +383,12 @@ cam06.cha 1 6 03 se te m5 !
 cam06.cha 1 6 03 te m5 !
 cam06.cha 1 6 03 a ja l2 Re-vEj !
 cam06.cha 1 6 03 se sa tik tak l2 Re-vEj , tik tak !
-cam07.cha 1 6 18 ke s2 k2 ty fE ka-mij ?
+cam07.cha 1 6 18 kEs k2 ty fE ka-mij ?
 cam07.cha 1 6 18 ka-mij !
 cam07.cha 1 6 18 vj5 vwaR ma-m@ !
 cam07.cha 1 6 18 ka-mij ?
 cam07.cha 1 6 18 ty vj5 vwaR ma-m@ ?
-cam07.cha 1 6 18 ke s2 k2 ty fE ka-mij ?
+cam07.cha 1 6 18 kEs k2 ty fE ka-mij ?
 cam07.cha 1 6 18 l2 ba-l§ , i le d°-OR .
 cam07.cha 1 6 18 i le u l ba-l§ ?
 cam07.cha 1 6 18 ba !
@@ -402,9 +402,9 @@ cam07.cha 1 6 18 n§ ?
 cam07.cha 1 6 18 si , § R°-tuR-n°-Ra d°-m5 .
 cam07.cha 1 6 18 ty vj5 l vwa Ra-vEk ma-m@ , l2 livR ?
 cam07.cha 1 6 18 vj5 la t§ p@-ta-l§ i de-s@ !
-cam07.cha 1 6 18 ke s2 ki i a ?
+cam07.cha 1 6 18 kEs ki i a ?
 cam07.cha 1 6 18 # i a Rj5 la !
-cam07.cha 1 6 18 ke s2 k2 ta vy ?
+cam07.cha 1 6 18 kEs k2 ta vy ?
 cam07.cha 1 6 18 u 1 # ?
 cam07.cha 1 6 18 i le tu sal t§ p@-ta-l§ !
 cam07.cha 1 6 18 ty la tu sa-li !
@@ -426,7 +426,7 @@ cam07.cha 1 6 18 a-t@-sj§ 5 !
 cam07.cha 1 6 18 do-do be-be , 5 !
 cam07.cha 1 6 18 do-do la-p5 , t@-sj§ !
 cam07.cha 1 6 18 kwa ?
-cam07.cha 1 6 18 ke s2 ki la ?
+cam07.cha 1 6 18 kEs ki la ?
 cam07.cha 1 6 18 t@-sj§ 5 !
 cam07.cha 1 6 18 si tE pa saZ , ta la fe-se 5 !
 cam07.cha 1 6 18 ko-m@ § fE puR mEt la fe-se o la-p5 ?
@@ -462,16 +462,16 @@ cam08.cha 1 7 02 d2 lo , l2 ka-na Ri le syR lo .
 cam08.cha 1 7 02 # la R°-gaRd !
 cam08.cha 1 7 02 tus le za-ni-mo !
 cam08.cha 1 7 02 o n§ ?
-cam08.cha 1 7 02 ke s2 ki i a kO ma-ni-mo ?
+cam08.cha 1 7 02 kEs ki i a kO ma-ni-mo ?
 cam08.cha 1 7 02 m§t Ra ma-m@ ?
-cam08.cha 1 7 02 ke s2 ki i a ?
+cam08.cha 1 7 02 kEs ki i a ?
 cam08.cha 1 7 02 m§tR ?
 cam08.cha 1 7 02 1 Sa .
 cam08.cha 1 7 02 l2 Sa .
 cam08.cha 1 7 02 mja-u l2 Sa .
 cam08.cha 1 7 02 wE se l2 Sa .
 cam08.cha 1 7 02 i fE pa do-do l2 Sa , si i fE do-do ?
-cam08.cha 1 7 02 ke s2 ki i a dotR ?
+cam08.cha 1 7 02 kEs ki i a dotR ?
 cam08.cha 1 7 02 sa se kwa ?
 cam08.cha 1 7 02 yn pul ?
 cam08.cha 1 7 02 El fE kOt kOt !
@@ -482,8 +482,8 @@ cam08.cha 1 7 02 1 be-be pu-s5 , wi ta RE-z§ Se-Ri .
 cam08.cha 1 7 02 pa-pa ?
 cam08.cha 1 7 02 i le u ?
 cam08.cha 1 7 02 i le la pa-pa ?
-cam08.cha 1 7 02 ke s2 ki fE pa-pa ?
-cam08.cha 1 7 02 ke s2 ki fE pa-pa ?
+cam08.cha 1 7 02 kEs ki fE pa-pa ?
+cam08.cha 1 7 02 kEs ki fE pa-pa ?
 cam08.cha 1 7 02 i film , 5 ?
 cam08.cha 1 7 02 ty v2 de-s@dR ?
 cam08.cha 1 7 02 de-s@dR .
@@ -510,7 +510,7 @@ cam08.cha 1 7 02 1 la-p5 v°-ni Ra l8i .
 cam08.cha 1 7 02 e fRa-pe 5-si sER , sE Ruv mwa u l2 Sa-s9R m2 ty-Ra , la-p5 , la-p5 @t Re vj5 m2 se-Re la m5 !
 cam08.cha 1 7 02 be-be , ma-m@ , pa-pa .
 cam08.cha 1 7 02 pa-pa wi .
-cam08.cha 1 7 02 ke s2 ki fE pa-pa ?
+cam08.cha 1 7 02 kEs ki fE pa-pa ?
 cam08.cha 1 7 02 5 ?
 cam08.cha 1 7 02 sa se t1 pti gaR-s§ , se ta-lek-si .
 cam08.cha 1 7 02 se pa a-lek-si ?
@@ -530,8 +530,8 @@ cam09.cha 1 7 23 di l8i !
 cam09.cha 1 7 23 t@-sj§ be-be saZ !
 cam09.cha 1 7 23 a-le vj5 , # !
 cam09.cha 1 7 23 § S@Z la kuS ?
-cam09.cha 1 7 23 ke s2 ki i a ?
-cam09.cha 1 7 23 ke s2 ki i a ?
+cam09.cha 1 7 23 kEs ki i a ?
+cam09.cha 1 7 23 kEs ki i a ?
 cam09.cha 1 7 23 # sa py !
 cam09.cha 1 7 23 # la se kwa ka-mij ?
 cam09.cha 1 7 23 1 bo-bo ?
@@ -543,7 +543,7 @@ cam09.cha 1 7 23 ty di 1 bi-zu a ma-m@ , ty di 1 pti bi-zu a sa ma-m@ !
 cam09.cha 1 7 23 @-kO R1 bi-zu , ty di 1 bi-zu .
 cam09.cha 1 7 23 Z2 tEm ma-m@ , di l2 !
 cam09.cha 1 7 23 R°-gaRd ma-m@ !
-cam09.cha 1 7 23 ke s2 ki i a ?
+cam09.cha 1 7 23 kEs ki i a ?
 cam09.cha 1 7 23 ty v2 m diR Z2 tEm ?
 cam09.cha 1 7 23 Z2 tEm ma-m@ .
 cam09.cha 1 7 23 a b§ tEm pa-pa !
@@ -558,7 +558,7 @@ cam09.cha 1 7 23 le pje .
 cam09.cha 1 7 23 ba wi , mE § va pa REs-te le pje ny , il fo mEt le So-sE te le So-s§ .
 cam09.cha 1 7 23 § mE le So-s§ .
 cam09.cha 1 7 23 So-s§ wE .
-cam09.cha 1 7 23 ke s2 ki i a pa-pa ?
+cam09.cha 1 7 23 kEs ki i a pa-pa ?
 cam09.cha 1 7 23 mER-si , ty di a pa-pa mER-si .
 cam09.cha 1 7 23 mER-si .
 cam09.cha 1 7 23 di Z te-kut !
@@ -607,7 +607,7 @@ cam10.cha 1 8 06 l2 bi-bR§ a ka-mij , i le Zon .
 cam10.cha 1 8 06 se kwa se d2 lo ?
 cam10.cha 1 8 06 d2 lo .
 cam10.cha 1 8 06 se b§ lo ?
-cam10.cha 1 8 06 e s2 k2 se b§ lo ?
+cam10.cha 1 8 06 Es k2 se b§ lo ?
 cam10.cha 1 8 06 ta vy m§ pje , i le mu-je # .
 cam10.cha 1 8 06 # ma-m@ E la de bo-bo .
 cam10.cha 1 8 06 wE .
@@ -636,7 +636,7 @@ cam10.cha 1 8 06 de pOm .
 cam10.cha 1 8 06 sa se tyn t§-d2z .
 cam10.cha 1 8 06 u tEt tEt ?
 cam10.cha 1 8 06 a-t@-sj§ a-t@-sj§ d pa t§-be !
-cam10.cha 1 8 06 ke s2 k2 ta vy ?
+cam10.cha 1 8 06 kEs k2 ta vy ?
 cam10.cha 1 8 06 u ?
 cam10.cha 1 8 06 a le ko-kOt !
 cam10.cha 1 8 06 ty v2 diR le zwa-zo .
@@ -702,11 +702,11 @@ cam11.cha 1 8 20 la bwat , R°-gaRd la bwat , E le Zon .
 cam11.cha 1 8 20 la bwat , E le Zon .
 cam11.cha 1 8 20 Zon , Zon , kOm sa se Zon .
 cam11.cha 1 8 20 wE se bo l2 Zon .
-cam11.cha 1 8 20 o tus le p°-ti Sa ke s2 ki R°-gaRd ?
+cam11.cha 1 8 20 o tus le p°-ti Sa kEs ki R°-gaRd ?
 cam11.cha 1 8 20 la te-le .
 cam11.cha 1 8 20 i R°-gaRd la te-le ?
 cam11.cha 1 8 20 Zon ?
-cam11.cha 1 8 20 ke s2 ki e Zon ?
+cam11.cha 1 8 20 kEs ki e Zon ?
 cam11.cha 1 8 20 la te-le , wi E le la ma Se-Ri , mE la # maRS pa , E le t@ pan .
 cam11.cha 1 8 20 @ pa nwi la te-le , e la # i a tus le pti Sa .
 cam11.cha 1 8 20 i R°-gaRd la te-le , syR l2 fo-t9j .
@@ -720,7 +720,7 @@ cam11.cha 1 8 20 § tuRn la paZ .
 cam11.cha 1 8 20 se lis-twaR d2 p°-ti S°-val .
 cam11.cha 1 8 20 ba wE !
 cam11.cha 1 8 20 ba se pa gRav , vj5 vwaR , vj5 vwa Ra-vEk ma-m@ !
-cam11.cha 1 8 20 se lis-twaR dy p°-ti S°-val , p°-ti S°-val , ke s2 ki fE p°-ti S°-val ?
+cam11.cha 1 8 20 se lis-twaR dy p°-ti S°-val , p°-ti S°-val , kEs ki fE p°-ti S°-val ?
 cam11.cha 1 8 20 i fE do-do s8i-la , se pa-pa S°-va li fE do-do .
 cam11.cha 1 8 20 wE pa-pa S°-va li fE do-do .
 cam11.cha 1 8 20 sa se ma-m@ S°-val ?
@@ -782,7 +782,7 @@ cam12.cha 1 9 03 sa se t1 g@ .
 cam12.cha 1 9 03 1 g@ .
 cam12.cha 1 9 03 sa se kwa ?
 cam12.cha 1 9 03 le So-syR .
-cam12.cha 1 9 03 e la se d@ l2 fRi-Zi-dER , ke s2 ki i a d@ l2 fRi-Zi-dER ?
+cam12.cha 1 9 03 e la se d@ l2 fRi-Zi-dER , kEs ki i a d@ l2 fRi-Zi-dER ?
 cam12.cha 1 9 03 sa se de ka-ROt , sa , de ka-ROt .
 cam12.cha 1 9 03 sa se dy lE , dy lE ka-mij ?
 cam12.cha 1 9 03 l2 lE # .
@@ -833,7 +833,7 @@ cam12.cha 1 9 03 Zu , Op !
 cam12.cha 1 9 03 se l2 mo-t9R .
 cam12.cha 1 9 03 o l@-tE na-vEk la kle Zon !
 cam12.cha 1 9 03 sEl la , sEl la , sEl la E le bl@S , bl@ Se § nuv la pORt .
-cam12.cha 1 9 03 ke s2 ki i a d°-d@ ?
+cam12.cha 1 9 03 kEs ki i a d°-d@ ?
 cam12.cha 1 9 03 # i a l2 pti bo-nOm , i le u l2 pti bo-nOm ?
 cam12.cha 1 9 03 ty va SER-Se l2 pti bo-nOm pjER ?
 cam12.cha 1 9 03 va SER-Se l2 pti bo-nOm !
@@ -841,11 +841,11 @@ cam12.cha 1 9 03 yn ba-nan !
 cam12.cha 1 9 03 ke s2 ty m Ra-k§t !
 cam12.cha 1 9 03 a bRa , a bRa , # !
 cam13.cha 1 9 24 i Zu l2 be-be ?
-cam13.cha 1 9 24 ke s2 ki fE l be-be ?
+cam13.cha 1 9 24 kEs ki fE l be-be ?
 cam13.cha 1 9 24 i Zu ?
 cam13.cha 1 9 24 i Zu ?
 cam13.cha 1 9 24 a se te S°-v2 !
-cam13.cha 1 9 24 ke s2 ki fE ?
+cam13.cha 1 9 24 kEs ki fE ?
 cam13.cha 1 9 24 i Zu ?
 cam13.cha 1 9 24 § tuRn .
 cam13.cha 1 9 24 a-lOR sa se t1 tuR d2 li , sa sa-pEl .
@@ -919,9 +919,9 @@ cam14.cha 1 10 08 § de-sin pa syR le liv R5 !
 cam14.cha 1 10 08 ty v2 fER de de-s5 ?
 cam14.cha 1 10 08 ty v2 fER de de-s5 ?
 cam14.cha 1 10 08 vj5 , vj5 m§-tRe a ma-m@ , vj5 vwaR R°-gaRd !
-cam14.cha 1 10 08 ke s2 k2 ty v2 fER ?
+cam14.cha 1 10 08 kEs k2 ty v2 fER ?
 cam14.cha 1 10 08 wi .
-cam14.cha 1 10 08 wi Se-Ri , ke s2 k2 ty v2 de-si-ne ?
+cam14.cha 1 10 08 wi Se-Ri , kEs k2 ty v2 de-si-ne ?
 cam14.cha 1 10 08 i le ka-se , i le ka-se .
 cam14.cha 1 10 08 i le ka-se ?
 cam14.cha 1 10 08 5 ?
@@ -1011,7 +1011,7 @@ cam15.cha 1 10 22 Z2 te-kut .
 cam15.cha 1 10 22 va zi !
 cam15.cha 1 10 22 lis mwa lis-twaR !
 cam15.cha 1 10 22 wE .
-cam15.cha 1 10 22 ke s2 k # fE la ptit fij ?
+cam15.cha 1 10 22 kEs k # fE la ptit fij ?
 cam15.cha 1 10 22 t@ sE Rj5 !
 cam15.cha 1 10 22 # .
 cam15.cha 1 10 22 ka-mij , se tyn pul .
@@ -1019,13 +1019,13 @@ cam15.cha 1 10 22 le pu-s5 .
 cam15.cha 1 10 22 se la pu le le pu-s5 .
 cam15.cha 1 10 22 ty tuR nwE , va zi !
 cam15.cha 1 10 22 Ra-k§ ta ma-m@ s ki s pas ?
-cam15.cha 1 10 22 Ra-k§ ta ma-m@ ke s2 ki s pas ?
+cam15.cha 1 10 22 Ra-k§ ta ma-m@ kEs ki s pas ?
 cam15.cha 1 10 22 # i a 1 nuRs ?
 cam15.cha 1 10 22 1 nu-nuRs ?
 cam15.cha 1 10 22 # i a kwa @-kOR ?
 cam15.cha 1 10 22 El pl9R la ptit fij ?
 cam15.cha 1 10 22 5 ?
-cam15.cha 1 10 22 n§ , ke s2 kEl fE a-lOR la ptit fij ?
+cam15.cha 1 10 22 n§ , kEs kEl fE a-lOR la ptit fij ?
 cam15.cha 1 10 22 # i a 1 pa-pi-j§ ?
 cam15.cha 1 10 22 # i a 1 pa-pi-j§ ?
 cam15.cha 1 10 22 se t1 pa-pi-j§ k2 ma-m@ # vwa ?
@@ -1065,7 +1065,7 @@ cam15.cha 1 10 22 # i a de bO twE , de bOt # .
 cam15.cha 1 10 22 de So-sEt .
 cam15.cha 1 10 22 1 Sa-po , yn ROb .
 cam15.cha 1 10 22 1 p@-ta-l§ .
-cam15.cha 1 10 22 se d@ l2 fRi-go sa , ke s2 ki i a d@ l fRi-go ?
+cam15.cha 1 10 22 se d@ l2 fRi-go sa , kEs ki i a d@ l fRi-go ?
 cam15.cha 1 10 22 # i a dy pu-lE .
 cam15.cha 1 10 22 # i a dy ga-to .
 cam15.cha 1 10 22 # i a de # .
@@ -1164,7 +1164,7 @@ cam17.cha 1 11 18 El va a-vwa R1 bl2 .
 cam17.cha 1 11 18 i lo-RE fa-ly l8i mEt d2 laR-ni-ka 5 !
 cam17.cha 1 11 18 tj5 ly-sil , Zu !
 cam17.cha 1 11 18 Zu , Zu a-vEk la Zi-Raf !
-cam17.cha 1 11 18 ke s2 ki i a d°-d@ ka-mij ?
+cam17.cha 1 11 18 kEs ki i a d°-d@ ka-mij ?
 cam17.cha 1 11 18 dy Zon .
 cam17.cha 1 11 18 se le ZwE a ki ?
 cam17.cha 1 11 18 a ly-sil ba wi 5 !
@@ -1257,7 +1257,7 @@ cam18.cha 2 0 00 ty v2 1 # ?
 cam18.cha 2 0 00 wi .
 cam18.cha 2 0 00 a-le § s mE d@ la SEz ka-mij !
 cam18.cha 2 0 00 § s mE d@ la SEz !
-cam18.cha 2 0 00 ke s2 k2 ty v2 .
+cam18.cha 2 0 00 kEs k2 ty v2 .
 cam18.cha 2 0 00 mE # i @ na @-kOR d°-d@ !
 cam18.cha 2 0 00 e ka-mij !
 cam18.cha 2 0 00 Z v2 pa k ty tap si-n§ ta la fe-se !
@@ -1350,8 +1350,8 @@ cam19.cha 2 0 17 ty sE l diR !
 cam19.cha 2 0 17 e ty mE le ze-p5g d°-d@ .
 cam19.cha 2 0 17 ty mE le ze-p5g d°-d@ l2 pa-nje .
 cam19.cha 2 0 17 si si si .
-cam19.cha 2 0 17 ke s2 k # fE ma-m@ a-vEk ?
-cam19.cha 2 0 17 ke s2 k2 Z fE a-vEk lERb ?
+cam19.cha 2 0 17 kEs k # fE ma-m@ a-vEk ?
+cam19.cha 2 0 17 kEs k2 Z fE a-vEk lERb ?
 cam19.cha 2 0 17 Z l2 mE la !
 cam19.cha 2 0 17 vwa-la la !
 cam19.cha 2 0 17 Z2 fE 1 ta ?
@@ -1360,7 +1360,7 @@ cam19.cha 2 0 17 wi 1 ta .
 cam19.cha 2 0 17 wi 1 ta .
 cam19.cha 2 0 17 e e maRS pa syR l2 pje a ma-m@ !
 cam19.cha 2 0 17 ty sE bj5 k ma-m@ a 1 bo-bo .
-cam19.cha 2 0 17 ke s2 k2 ty fE twa ?
+cam19.cha 2 0 17 kEs k2 ty fE twa ?
 cam19.cha 2 0 17 a-t@-sj§ sa ku p5 de fwa !
 cam19.cha 2 0 17 fo fE Ra-t@-sj§ a-vEk lERb .
 cam19.cha 2 0 17 se du ?
@@ -1371,22 +1371,22 @@ cam19.cha 2 0 17 ty sE ko-m@ i sa-pEl ?
 cam19.cha 2 0 17 sa se tyn vaS .
 cam19.cha 2 0 17 wi .
 cam19.cha 2 0 17 se pa yn fuR-mi , se ty na-RE-Ne .
-cam19.cha 2 0 17 # , !
+cam19.cha 2 0 17 # !
 cam19.cha 2 0 17 mE se pa yn fuR-mi , se ty na-RE-Ne .
 cam19.cha 2 0 17 e sa se ki sa ?
-cam19.cha 2 0 17 wa-zo , ke s2 kE la d@ s§ bEk ?
+cam19.cha 2 0 17 wa-zo , kEs kE la d@ s§ bEk ?
 cam19.cha 2 0 17 E la a m@-Ze ?
 cam19.cha 2 0 17 # la se kwa sa ?
-cam19.cha 2 0 17 1 Sj5 , ke s2 ki la d@ le pat ?
+cam19.cha 2 0 17 1 Sj5 , kEs ki la d@ le pat ?
 cam19.cha 2 0 17 sa se kwa ?
 cam19.cha 2 0 17 se t1 , Os .
 cam19.cha 2 0 17 d2 zOs , d2 zOs .
 cam19.cha 2 0 17 il l2 kaS d@ la tER ty vwa i la fE 1 tRu a ty vy ?
 cam19.cha 2 0 17 i la fE 1 tRu l2 Sj5 , il va mEt lOs d°-d@ , puR l2 ka-Se .
-cam19.cha 2 0 17 ty m Ra-k§t ke s2 ki fE l2 Sj5 ?
+cam19.cha 2 0 17 ty m Ra-k§t kEs ki fE l2 Sj5 ?
 cam19.cha 2 0 17 wi i va a-le ka-Se sa .
 cam19.cha 2 0 17 e sa se lOs .
-cam19.cha 2 0 17 a-lO Ra-lO Ra-lO Ra-lOR ke s2 ki i a d@ sl8i la ?
+cam19.cha 2 0 17 a-lO Ra-lO Ra-lO Ra-lOR kEs ki i a d@ sl8i la ?
 cam19.cha 2 0 17 se t1 p°-ti la-p5 ki fE do-do .
 cam19.cha 2 0 17 sa se la S°-mi-ne .
 cam19.cha 2 0 17 sa se la ko-mOd .
@@ -1441,8 +1441,8 @@ cam19.cha 2 0 17 sa se tyn muS .
 cam20.cha 2 1 13 a-lOR ke s2 ty m Ra-k§t ka-mij , mE wi mE ty vwa § va l fER se-Se paRs k2 R°-gaR di sa-bim si-n§ .
 cam20.cha 2 1 13 e la-bim pa !
 cam20.cha 2 1 13 ba wi i le tu mu-je , ko-m@ sa s fE ki le tu mu-je ?
-cam20.cha 2 1 13 ke s2 ki se pa-se ?
-cam20.cha 2 1 13 5 ke s2 ki se pa-se ?
+cam20.cha 2 1 13 kEs ki se pa-se ?
+cam20.cha 2 1 13 5 kEs ki se pa-se ?
 cam20.cha 2 1 13 fo fER dus-m@ paRs k2 si-n§ i va s ka-se 5 !
 cam20.cha 2 1 13 ma-m@ # va # # a se-Se da-kOR , § # R°-gaR-d°-Ra tu ta l9R .
 cam20.cha 2 1 13 ty v2 k nu § fas l2 p9z de la-p5 ?
@@ -1479,7 +1479,7 @@ cam20.cha 2 1 13 e # ma-m@ .
 cam20.cha 2 1 13 yn k8i-jER puR pjER , yn k8i-jER puR ka-mij , se kwa sa !
 cam20.cha 2 1 13 yn k8i-jER .
 cam20.cha 2 1 13 e yn k8i-jER puR ma-m@ tj5 !
-cam20.cha 2 1 13 ke s2 k§ m@Z ?
+cam20.cha 2 1 13 kEs k§ m@Z ?
 cam20.cha 2 1 13 § m@Z de pat ?
 cam20.cha 2 1 13 § m@Z kwa ka-mij ?
 cam20.cha 2 1 13 # kwa @-kOR ?
@@ -1489,9 +1489,9 @@ cam20.cha 2 1 13 § bwa ?
 cam20.cha 2 1 13 mE # i a pa d vER .
 cam20.cha 2 1 13 ma-m@ E la 1 vER .
 cam20.cha 2 1 13 ty ma do-ne kwa a bwaR ?
-cam20.cha 2 1 13 ke s2 k2 Z m@Z ?
+cam20.cha 2 1 13 kEs k2 Z m@Z ?
 cam20.cha 2 1 13 d2 la vj@d ?
-cam20.cha 2 1 13 e s2 k2 se b§ ?
+cam20.cha 2 1 13 Es k2 se b§ ?
 cam20.cha 2 1 13 se d2 lo .
 cam20.cha 2 1 13 mER-si ka-mij ty m2 dOn d2 lo .
 cam20.cha 2 1 13 kOm sa , mE i le u l2 tRyk puR sER-viR .
@@ -1526,7 +1526,7 @@ cam20.cha 2 1 13 ty v2 kwa @-kOR ?
 cam20.cha 2 1 13 1 naRbR .
 cam20.cha 2 1 13 a-le sa i e se fi-ni , ta tu s k2 ty vu-lE 5 !
 cam21.cha 2 1 27 ty fE kwa ka-mij ?
-cam21.cha 2 1 27 ke s2 k2 ty fE ?
+cam21.cha 2 1 27 kEs k2 ty fE ?
 cam21.cha 2 1 27 a b§ !
 cam21.cha 2 1 27 ta @-vi d fER pi-pi ?
 cam21.cha 2 1 27 n§ .
@@ -1548,7 +1548,7 @@ cam21.cha 2 1 27 sa va la .
 cam21.cha 2 1 27 vwa-la , vwa-la .
 cam21.cha 2 1 27 ty vwa la se l2 pti ko-S§ ki fE sa mE-z§ d2 bRik .
 cam21.cha 2 1 27 da-kOR ?
-cam21.cha 2 1 27 ke s2 ki fE l2 p°-ti ko-S§ la ?
+cam21.cha 2 1 27 kEs ki fE l2 p°-ti ko-S§ la ?
 cam21.cha 2 1 27 i fE sa mE-z§ d2 bRik .
 cam21.cha 2 1 27 wE , ba wi se lis-twaR de pti ko-S§ .
 cam21.cha 2 1 27 ty vwa la , se l2 Ri-do d2 la mE-z§ d2 bRik .
@@ -1569,7 +1569,7 @@ cam21.cha 2 1 27 wi p2 tEt la wi , ta RE-z§ , se sa , sa va la .
 cam21.cha 2 1 27 s8i-la i le fi-ni s8i-la , R°-gaRd s8i-la i le fi-ni .
 cam21.cha 2 1 27 i le fi-ni s8i-la ?
 cam21.cha 2 1 27 5 ?
-cam21.cha 2 1 27 l2 p°-ti ko-S§ , ke s2 ki fE l2 pti ko-S§ ?
+cam21.cha 2 1 27 l2 p°-ti ko-S§ , kEs ki fE l2 pti ko-S§ ?
 cam21.cha 2 1 27 i fE sa mE-z§ .
 cam21.cha 2 1 27 e !
 cam21.cha 2 1 27 n§ § na pa tu fE , i l@ m@k R°-gaRd !
@@ -1581,29 +1581,29 @@ cam21.cha 2 1 27 wE .
 cam21.cha 2 1 27 sa se tyn su-Ri .
 cam21.cha 2 1 27 a-vEk sa va-liz .
 cam21.cha 2 1 27 la # § ne to sy-pER-maR-Se .
-cam21.cha 2 1 27 a-lOR ke s2 ki s pa so sy-pER-maR-Se .
-cam21.cha 2 1 27 ke s2 ki s pas ?
-cam21.cha 2 1 27 ke s2 ki s pas ?
+cam21.cha 2 1 27 a-lOR kEs ki s pa so sy-pER-maR-Se .
+cam21.cha 2 1 27 kEs ki s pas ?
+cam21.cha 2 1 27 kEs ki s pas ?
 cam21.cha 2 1 27 n§ wE , se # ma-m@ i-po-po-tam .
 cam21.cha 2 1 27 # va u-vRiR la ty vwa , E luvR .
 cam21.cha 2 1 27 9m # i a de glas .
 cam21.cha 2 1 27 se b§ le glas ?
 cam21.cha 2 1 27 ty Em twa le glas ?
 cam21.cha 2 1 27 wi .
-cam21.cha 2 1 27 e la ke s2 k # i a la # ?
+cam21.cha 2 1 27 e la kEs k # i a la # ?
 cam21.cha 2 1 27 § nuvR ?
 cam21.cha 2 1 27 o !
 cam21.cha 2 1 27 se kwa ?
 cam21.cha 2 1 27 n§ se pa dy v5 , se dy lE .
 cam21.cha 2 1 27 # .
-cam21.cha 2 1 27 ke s2 ki fE l8i ?
+cam21.cha 2 1 27 kEs ki fE l8i ?
 cam21.cha 2 1 27 wE .
 cam21.cha 2 1 27 se tyn kok-si-nEl .
 cam21.cha 2 1 27 e # la El naZ .
 cam21.cha 2 1 27 # , El naZ la kok-si-nEl .
 cam21.cha 2 1 27 # , se t1 s5Z .
 cam21.cha 2 1 27 1 nOt s5Z .
-cam21.cha 2 1 27 ke s2 ki f§ ?
+cam21.cha 2 1 27 kEs ki f§ ?
 cam21.cha 2 1 27 i Zu ?
 cam21.cha 2 1 27 # .
 cam21.cha 2 1 27 # R°-gaRd la , i f§ dy to-bo-g@ ta vy ?
@@ -1626,7 +1626,7 @@ cam21.cha 2 1 27 il la # ka-se .
 cam21.cha 2 1 27 il la ka-se a-vEk l2 ba-l§ .
 cam21.cha 2 1 27 ta vy ?
 cam21.cha 2 1 27 il la ka-se a-vEk l2 ba-l§ .
-cam21.cha 2 1 27 ke s2 ki i a ?
+cam21.cha 2 1 27 kEs ki i a ?
 cam21.cha 2 1 27 ba wi il la ka-se .
 cam21.cha 2 1 27 # .
 cam21.cha 2 1 27 ba wi @-f5 fo pa l@-se l ba-l§ d@ le ka-Ro , si-n§ § le kas .
@@ -1641,7 +1641,7 @@ cam22.cha 2 2 09 n§ i l@ v2 pa pa-pa .
 cam22.cha 2 2 09 2 yn fe .
 cam22.cha 2 2 09 wE .
 cam22.cha 2 2 09 wE .
-cam22.cha 2 2 09 ke s2 ki fE l be-be ?
+cam22.cha 2 2 09 kEs ki fE l be-be ?
 cam22.cha 2 2 09 # .
 cam22.cha 2 2 09 ta vy le fe , # § de zEl , ta vy ?
 cam22.cha 2 2 09 kOm le pa-pi-j§ .
@@ -1710,18 +1710,18 @@ cam23.cha 2 2 23 se kwa sa ka-mij ?
 cam23.cha 2 2 23 ty m Ra-k§t ?
 cam23.cha 2 2 23 o ba ki se ki la tu de-Si-Re ?
 cam23.cha 2 2 23 i le tu de-Si-Re .
-cam23.cha 2 2 23 ke s2 ki la fE pjER ?
+cam23.cha 2 2 23 kEs ki la fE pjER ?
 cam23.cha 2 2 23 se pa bj5 .
 cam23.cha 2 2 23 ba di # !
 cam23.cha 2 2 23 a-lOR ty m Ra-k§t se lis-twaR d2 la .
 cam23.cha 2 2 23 se ki sa ?
 cam23.cha 2 2 23 wE , El v2 m@-Ze ?
 cam23.cha 2 2 23 wE e # l8i se ki l8i ?
-cam23.cha 2 2 23 1 nEs-kaR-go , ke s2 ki di ?
-cam23.cha 2 2 23 ke s2 kil di a la S°-nij ?
+cam23.cha 2 2 23 1 nEs-kaR-go , kEs ki di ?
+cam23.cha 2 2 23 kEs kil di a la S°-nij ?
 cam23.cha 2 2 23 wi la p°-tit S°-nij # v2 m@-Ze la pOm # lEs-kaR-go i vj5 , e i l8i di a la S°-nij .
 cam23.cha 2 2 23 n2 tuS pa a la pOm , se ta mwa .
-cam23.cha 2 2 23 a-lOR ke s2 k # fE la S°-nij ?
+cam23.cha 2 2 23 a-lOR kEs k # fE la S°-nij ?
 cam23.cha 2 2 23 El s@ va .
 cam23.cha 2 2 23 El vj5 la e El tRu vyn fREz .
 cam23.cha 2 2 23 wE , El la m@Z .
@@ -1732,16 +1732,16 @@ cam23.cha 2 2 23 n§ se pa yn gEp , se tyn fuR-mi .
 cam23.cha 2 2 23 n§ se pa yn gEp , se tyn fuR-mi .
 cam23.cha 2 2 23 wE .
 cam23.cha 2 2 23 ba la se Rj5 , se Rj5 , El tuS Zyst l2 livR .
-cam23.cha 2 2 23 se l2 si-tR§ , la p°-tit S°-nij ke s2 k # fE ?
+cam23.cha 2 2 23 se l2 si-tR§ , la p°-tit S°-nij kEs k # fE ?
 cam23.cha 2 2 23 e sa se ki sa ?
 cam23.cha 2 2 23 wE se la li-be-lyl ki pi ke la S°-nij E la p2R .
-cam23.cha 2 2 23 a-lOR ke s2 k # fE la p°-tit S°-nij ?
+cam23.cha 2 2 23 a-lOR kEs k # fE la p°-tit S°-nij ?
 cam23.cha 2 2 23 1 ko-k§ .
 cam23.cha 2 2 23 se kwa l2 ko-k§ ?
 cam23.cha 2 2 23 syR la f9j wE , se tEl ki fE sa mE-z§ .
-cam23.cha 2 2 23 e p8i a la f5 ke s2 ki s2 pas ?
+cam23.cha 2 2 23 e p8i a la f5 kEs ki s2 pas ?
 cam23.cha 2 2 23 i le bo l2 pa-pi-j§ ?
-cam23.cha 2 2 23 e s2 ki le bo l2 pa-pi-j§ ?
+cam23.cha 2 2 23 Es ki le bo l2 pa-pi-j§ ?
 cam23.cha 2 2 23 ty va a-le o do-do ?
 cam23.cha 2 2 23 a-t@ ma-m@ # va ku-Se ly-sil , # va la # d@ s§ do-do da-kOR ?
 cam23.cha 2 2 23 sa ty l mE la o-si .
@@ -1832,8 +1832,8 @@ pie03.cha 1 4 15 sa !
 pie03.cha 1 4 15 e pjER ta-si pa syR la fERm !
 pie03.cha 1 4 15 ty va la ka-se !
 pie03.cha 1 4 15 ba wi !
-pie03.cha 1 4 15 ke s2 k2 ty m fE la !
-pie04.cha 1 5 10 ke s2 k2 ty v2 fER la-p5 , 5 ?
+pie03.cha 1 4 15 kEs k2 ty m fE la !
+pie04.cha 1 5 10 kEs k2 ty v2 fER la-p5 , 5 ?
 pie04.cha 1 5 10 a-t@-sj§ 5 , dus-m@ , va zi de-s@ !
 pie04.cha 1 5 10 O pO pOp !
 pie04.cha 1 5 10 n§ , kwa n§ ?
@@ -1889,7 +1889,7 @@ pie06.cha 1 6 10 va SER-Se la bal !
 pie06.cha 1 6 10 i le u l2 la-p5 ?
 pie06.cha 1 6 10 se la-p5 ?
 pie06.cha 1 6 10 se t§ la-p5 ?
-pie06.cha 1 6 10 ke s2 ki la , il fE do-do ?
+pie06.cha 1 6 10 kEs ki la , il fE do-do ?
 pie06.cha 1 6 10 fE l8i fER do-do a la-p5 pjER !
 pie06.cha 1 6 10 a-t@-sj§ la-p5 do-do !
 pie06.cha 1 6 10 a-t@-sj§ !
@@ -1957,7 +1957,7 @@ pie07.cha 1 6 25 # .
 pie07.cha 1 6 25 o la bal !
 pie07.cha 1 6 25 ty Sut ?
 pie07.cha 1 6 25 o E le bEl la bal .
-pie07.cha 1 6 25 ke s2 k2 ty v2 ?
+pie07.cha 1 6 25 kEs k2 ty v2 ?
 pie07.cha 1 6 25 E le u la bal ?
 pie07.cha 1 6 25 ku-ku .
 pie07.cha 1 6 25 ku-ku .
@@ -2094,7 +2094,7 @@ pie10.cha 1 8 13 ty Sut , wE !
 pie10.cha 1 8 13 a-le § pR@ la bal .
 pie10.cha 1 8 13 wE le zwa-zo la o , wE # i a pl5 dwa-zo la o , pl5 , pl5 dwa-zo , pl5 dwa-zo .
 pie10.cha 1 8 13 e la o , sa , sa la , se la lyn , la lyn , se la lyn .
-pie10.cha 1 8 13 ke s2 ki i a , ke s2 ki fE pa-pa ?
+pie10.cha 1 8 13 kEs ki i a , kEs ki fE pa-pa ?
 pie10.cha 1 8 13 lwa-zo i fE do-do , i la le zj2 fER-me .
 pie10.cha 1 8 13 fERm te zj2 pjER !
 pie10.cha 1 8 13 fERm te zj2 .
@@ -2103,7 +2103,7 @@ pie10.cha 1 8 13 sa se kwa kOm livR ?
 pie10.cha 1 8 13 se l2 liv de da-da , l2 liv de da-da .
 pie10.cha 1 8 13 kas-kEt , la kas-kEt , kas-kEt .
 pie10.cha 1 8 13 wi # sa se de ly-nEt .
-pie10.cha 1 8 13 ke s2 ki m@Z l2 S°-val la , i m@ Zyn , pOm .
+pie10.cha 1 8 13 kEs ki m@Z l2 S°-val la , i m@ Zyn , pOm .
 pie10.cha 1 8 13 5 pjER !
 pie10.cha 1 8 13 se kwa sa , se tyn , pOm .
 pie10.cha 1 8 13 ty sE l diR pOm .
@@ -2124,7 +2124,7 @@ pie10.cha 1 8 13 l2 ka-na Ri fE kw5 kw5 kw5 kw5 kw5 !
 pie11.cha 1 8 27 ke s2 ty fE pjER ?
 pie11.cha 1 8 27 ta vy le zwa-zo ?
 pie11.cha 1 8 27 a ty vy le zwa-zo d°-OR ?
-pie11.cha 1 8 27 ke s2 k2 ta vy d°-OR ?
+pie11.cha 1 8 27 kEs k2 ta vy d°-OR ?
 pie11.cha 1 8 27 le zwa-zo ?
 pie11.cha 1 8 27 kwa ?
 pie11.cha 1 8 27 ty v2 Z m2 # la ?
@@ -2132,7 +2132,7 @@ pie11.cha 1 8 27 ty v2 liR ?
 pie11.cha 1 8 27 vj5 § va liR !
 pie11.cha 1 8 27 o !
 pie11.cha 1 8 27 tE luR !
-pie11.cha 1 8 27 a-lOR ke s2 k§ vwa ?
+pie11.cha 1 8 27 a-lOR kEs k§ vwa ?
 pie11.cha 1 8 27 § vwa la , mE-z§ .
 pie11.cha 1 8 27 sa se la mE-z§ .
 pie11.cha 1 8 27 sa se t1 n8aZ .
@@ -2247,8 +2247,8 @@ pie12.cha 1 9 11 ba sa i e !
 pie12.cha 1 9 11 sa i e tE de-s@-dy !
 pie12.cha 1 9 11 de-s@d Ru m§-te !
 pie12.cha 1 9 11 fo-dRE sa-vwaR !
-pie13.cha 1 9 30 ke s2 k2 ty fE ?
-pie13.cha 1 9 30 ke s2 k2 ty fE ?
+pie13.cha 1 9 30 kEs k2 ty fE ?
+pie13.cha 1 9 30 kEs k2 ty fE ?
 pie13.cha 1 9 30 le So-sEt , la ptit fij a mi de So-sE t5 !
 pie13.cha 1 9 30 vj5 ty vwa Ra-vEk ma-m@ ?
 pie13.cha 1 9 30 vj5 ?
@@ -2280,7 +2280,7 @@ pie13.cha 1 9 30 a-le @-kOR !
 pie13.cha 1 9 30 @-kOR !
 pie13.cha 1 9 30 ty fE do-do ?
 pie13.cha 1 9 30 o i fE do-do , pjE Ri fE do-do .
-pie13.cha 1 9 30 ke s2 k2 ty fE ?
+pie13.cha 1 9 30 kEs k2 ty fE ?
 pie13.cha 1 9 30 ta fE d la vwa-tyR ?
 pie13.cha 1 9 30 # di d§k !
 pie13.cha 1 9 30 tE m§-te e # de-s@-dy tu s9l d2 la vwa-tyR .
@@ -2301,12 +2301,12 @@ pie13.cha 1 9 30 e-kut ma-mi o te-le-fOn !
 pie13.cha 1 9 30 ma-mi .
 pie13.cha 1 9 30 sa se la bRu-Et .
 pie13.cha 1 9 30 fo la mEt d@ l2 b§ s@s la bRu-Et !
-pie13.cha 1 9 30 ke s2 k§ mE d°-d@ ?
-pie13.cha 1 9 30 ke s2 k§ mE d@ la bRu-Et ?
+pie13.cha 1 9 30 kEs k§ mE d°-d@ ?
+pie13.cha 1 9 30 kEs k§ mE d@ la bRu-Et ?
 pie13.cha 1 9 30 mE # i a pa do d°-d@ !
-pie13.cha 1 9 30 ke s2 k2 ty mE d@ ta bRu-Et ?
+pie13.cha 1 9 30 kEs k2 ty mE d@ ta bRu-Et ?
 pie13.cha 1 9 30 wE kwa dotR ?
-pie13.cha 1 9 30 ke s2 k2 ty fE ?
+pie13.cha 1 9 30 kEs k2 ty fE ?
 pie13.cha 1 9 30 o se sal pjER !
 pie13.cha 1 9 30 b9Rk !
 pie13.cha 1 9 30 b9Rk !
@@ -2324,7 +2324,7 @@ pie14.cha 1 10 16 i fo pa a-p8i-je tRo fOR !
 pie14.cha 1 10 16 i fo fER tu dus-m@ .
 pie14.cha 1 10 16 ty v2 k ma-m@ fa s1 de-s5 ?
 pie14.cha 1 10 16 mE pa a-vEk sl8i la , § vwa pa a-vEk sl8i la , ma-m@ va fE Ra-vEk sl8i la .
-pie14.cha 1 10 16 ke s2 k2 ty v2 k Z2 fas kOm de-s5 pjER ?
+pie14.cha 1 10 16 kEs k2 ty v2 k Z2 fas kOm de-s5 pjER ?
 pie14.cha 1 10 16 wi la Z2 fE kwa ?
 pie14.cha 1 10 16 Z2 fE kwa pjER ?
 pie14.cha 1 10 16 ma-m@ # fE kwa ?
@@ -2391,7 +2391,7 @@ pie14.cha 1 10 16 sa se l2 sES S°-v2 .
 pie14.cha 1 10 16 a n§ wi ma-m@ se tR§-pe , se l2 Ra-zwaR , ta RE-z§ !
 pie14.cha 1 10 16 se pa-pa ki y-ti-liz sa , l2 Ra-zwaR .
 pie14.cha 1 10 16 ba di # !
-pie14.cha 1 10 16 ke s2 kE la la bal ?
+pie14.cha 1 10 16 kEs kE la la bal ?
 pie14.cha 1 10 16 ba a-tRap la !
 pie15.cha 1 10 29 e pjER # s§ u le ze-p5gl ?
 pie15.cha 1 10 29 va SER-Se y ne-p5g pu Ru-vRiR la t@t kOm sa !
@@ -2457,15 +2457,15 @@ pie16.cha 1 11 11 # .
 pie16.cha 1 11 11 se t1 ba-t§ a-vEk de bij ?
 pie16.cha 1 11 11 se de ptit bij .
 pie16.cha 1 11 11 se de bij .
-pie16.cha 1 11 11 # ke s2 ki i a d@ l bi-bR§ a ly-sil ?
+pie16.cha 1 11 11 # kEs ki i a d@ l bi-bR§ a ly-sil ?
 pie16.cha 1 11 11 bi-bR§ .
-pie16.cha 1 11 11 ke s2 ki i a d°-d@ ?
+pie16.cha 1 11 11 kEs ki i a d°-d@ ?
 pie16.cha 1 11 11 d°-d@ # i a dy .
 pie16.cha 1 11 11 dy lE .
 pie16.cha 1 11 11 dy lE .
 pie16.cha 1 11 11 ty v2 de-s@dR ?
-pie16.cha 1 11 11 ke s2 ki fE ?
-pie16.cha 1 11 11 ke s2 ki fE ?
+pie16.cha 1 11 11 kEs ki fE ?
+pie16.cha 1 11 11 kEs ki fE ?
 pie16.cha 1 11 11 i film .
 pie16.cha 1 11 11 i film pa-pa .
 pie16.cha 1 11 11 a-vEk la ka-me-Ra .
@@ -2536,7 +2536,7 @@ pie17.cha 1 11 23 ba wi mE i m fo 1 so !
 pie17.cha 1 11 23 di bo-nOm ta vy se dy sab mu-je !
 pie17.cha 1 11 23 se dy sab mu-je !
 pie17.cha 1 11 23 @-kOR .
-pie17.cha 1 11 23 ke s2 k2 ty v2 k Z2 fas Se-Ri ?
+pie17.cha 1 11 23 kEs k2 ty v2 k Z2 fas Se-Ri ?
 pie17.cha 1 11 23 R°-gaR d§ va fE Ry ne-twal !
 pie17.cha 1 11 23 y ne-twal ?
 pie17.cha 1 11 23 y ne-twal .
@@ -2552,7 +2552,7 @@ pie17.cha 1 11 23 ba § ni a-Riv pa Se-Ri !
 pie17.cha 1 11 23 l2 sab li le pa a-se mu-je .
 pie17.cha 1 11 23 i le pa a-se mu-je l2 sab m§ pu-s5 !
 pie17.cha 1 11 23 R°-gaRd s ki i a d°-d@ !
-pie17.cha 1 11 23 ke s2 ki i a d°-d@ !
+pie17.cha 1 11 23 kEs ki i a d°-d@ !
 pie17.cha 1 11 23 uv l2 twa !
 pie17.cha 1 11 23 uv l2 twa d2 la mE-z§ !
 pie17.cha 1 11 23 uv l2 twa !
@@ -2645,9 +2645,9 @@ pie18.cha 2 0 07 va zi !
 pie18.cha 2 0 07 ma-m@ # fE 1 pwa-s§ R°-gaRd !
 pie18.cha 2 0 07 a-vEk s§ # , sa buS , la k2 .
 pie18.cha 2 0 07 e sa na-ZwaR .
-pie18.cha 2 0 07 ke s2 ki s2 pas ?
-pie18.cha 2 0 07 ke s2 ki s2 pas d°-OR ?
-pie18.cha 2 0 07 ke s2 ki s2 pas ?
+pie18.cha 2 0 07 kEs ki s2 pas ?
+pie18.cha 2 0 07 kEs ki s2 pas d°-OR ?
+pie18.cha 2 0 07 kEs ki s2 pas ?
 pie18.cha 2 0 07 se mu-je ?
 pie18.cha 2 0 07 ta vy kOm se mu-je !
 pie18.cha 2 0 07 # i a d lo .
@@ -2656,7 +2656,7 @@ pie18.cha 2 0 07 il pl2 .
 pie18.cha 2 0 07 ty l di !
 pie18.cha 2 0 07 di a ma-m@ !
 pie18.cha 2 0 07 # i a d lo .
-pie18.cha 2 0 07 e s2 k§ va d°-OR pjER k@ til pl2 ?
+pie18.cha 2 0 07 Es k§ va d°-OR pjER k@ til pl2 ?
 pie18.cha 2 0 07 pjER !
 pie18.cha 2 0 07 a n§ !
 pie18.cha 2 0 07 ta vy s ki pl2 !
@@ -2667,7 +2667,7 @@ pie18.cha 2 0 07 ty va Et tu mu-je , mu-je .
 pie18.cha 2 0 07 ba wi !
 pie18.cha 2 0 07 mE le bal la El s§ d°-OR !
 pie18.cha 2 0 07 a-pRE ty va Et tu mu-je !
-pie18.cha 2 0 07 a-lOR kO mil pl2 , ke s2 k§ fE ?
+pie18.cha 2 0 07 a-lOR kO mil pl2 , kEs k§ fE ?
 pie18.cha 2 0 07 § li 1 livR ?
 pie18.cha 2 0 07 wi .
 pie18.cha 2 0 07 ke s2 ty v2 R°-gaR-de kOm livR ?
@@ -2740,14 +2740,14 @@ pie18.cha 2 0 07 ko-m@ § fE k@ t§ fRa pa la pORt ?
 pie18.cha 2 0 07 ko-m@ § fE puR fRa-pe a la pORt ?
 pie18.cha 2 0 07 m§t Ra ma-m@ !
 pie18.cha 2 0 07 @-tRe !
-pie18.cha 2 0 07 ke s2 ki fE l2 lu pjER ?
-pie18.cha 2 0 07 ke s2 ki fE Se-Ri ?
-pie18.cha 2 0 07 ke s2 ki fE a-vEk s§ bEk ?
-pie18.cha 2 0 07 ke s2 ki fE a-vEk s§ bEk l2 lu ?
+pie18.cha 2 0 07 kEs ki fE l2 lu pjER ?
+pie18.cha 2 0 07 kEs ki fE Se-Ri ?
+pie18.cha 2 0 07 kEs ki fE a-vEk s§ bEk ?
+pie18.cha 2 0 07 kEs ki fE a-vEk s§ bEk l2 lu ?
 pie18.cha 2 0 07 wE i la m@-Ze le z@-f@ !
-pie18.cha 2 0 07 ke s2 ki fE l2 lu la pjER ?
-pie18.cha 2 0 07 ke s2 ki fE ?
-pie18.cha 2 0 07 ke s2 ki fE ?
+pie18.cha 2 0 07 kEs ki fE l2 lu la pjER ?
+pie18.cha 2 0 07 kEs ki fE ?
+pie18.cha 2 0 07 kEs ki fE ?
 pie18.cha 2 0 07 i fE do-do ?
 pie18.cha 2 0 07 wE .
 pie18.cha 2 0 07 i fE do-do ty a vy !
@@ -2774,9 +2774,9 @@ pie19.cha 2 1 10 pjER ?
 pie19.cha 2 1 10 di a ma-m@ se kwa !
 pie19.cha 2 1 10 se dy .
 pie19.cha 2 1 10 ga-to .
-pie19.cha 2 1 10 ke s2 ki s2 pas syR l2 livR ?
+pie19.cha 2 1 10 kEs ki s2 pas syR l2 livR ?
 pie19.cha 2 1 10 bO na-le Z te-kut !
-pie19.cha 2 1 10 a-lOR ke s2 ki s2 pas pjER ?
+pie19.cha 2 1 10 a-lOR kEs ki s2 pas pjER ?
 pie19.cha 2 1 10 se kwa sa ?
 pie19.cha 2 1 10 se la p°-tit vaS # pjER .
 pie19.cha 2 1 10 ty di a ma-m@ ki se ?
@@ -2829,7 +2829,7 @@ pie19.cha 2 1 10 ty a R°-gaR-de d@ la mE-z§ ?
 pie19.cha 2 1 10 a ty R°-gaR-de d@ la mE-z§ ?
 pie19.cha 2 1 10 E le la la mE-z§ pjER .
 pie19.cha 2 1 10 e o E le la !
-pie19.cha 2 1 10 ke s2 k2 ty fE ?
+pie19.cha 2 1 10 kEs k2 ty fE ?
 pie19.cha 2 1 10 i le t@ # ty kRwa ?
 pie19.cha 2 1 10 a-t@ ma-m@ R°-gaRd mE Z kRwa pa .
 pie19.cha 2 1 10 la ty tRu-ve pjER ?
@@ -2916,7 +2916,7 @@ pie20.cha 2 1 10 E le Zon .
 pie20.cha 2 1 10 sa se s§ # .
 pie20.cha 2 1 10 # , le zj2 .
 pie20.cha 2 1 10 la buS .
-pie20.cha 2 1 10 a-le ke s2 k§ R°-gaRd ?
+pie20.cha 2 1 10 a-le kEs k§ R°-gaRd ?
 pie20.cha 2 1 10 se t1 vER d2 tER ?
 pie20.cha 2 1 10 1 vER d2 tER .
 pie20.cha 2 1 10 wE .
@@ -2924,10 +2924,10 @@ pie20.cha 2 1 10 a-vEk sa l@g .
 pie20.cha 2 1 10 # la !
 pie20.cha 2 1 10 n§ ty sE ko-m@ sa sa-pEl .
 pie20.cha 2 1 10 1 Sa .
-pie20.cha 2 1 10 a-lO Re la ke s2 ki i a ?
+pie20.cha 2 1 10 a-lO Re la kEs ki i a ?
 pie20.cha 2 1 10 se pa dy p5 , se dy sa-v§ .
 pie20.cha 2 1 10 a b§ .
-pie20.cha 2 1 10 a-pRE ke s2 ki i a dotR ?
+pie20.cha 2 1 10 a-pRE kEs ki i a dotR ?
 pie20.cha 2 1 10 la fij E la 1 bo-bo ?
 pie20.cha 2 1 10 u # !
 pie20.cha 2 1 10 1 bo-bo a b§ , a-pRE # i a kwa Se-Ri ?
@@ -2959,10 +2959,10 @@ pie20.cha 2 1 10 se kwa sa ?
 pie20.cha 2 1 10 sa sa-pEl ko-m@ ?
 pie20.cha 2 1 10 wi se sa yn SEz .
 pie20.cha 2 1 10 Op !
-pie20.cha 2 1 10 ke s2 k§ va di Ra ma-m@ ?
+pie20.cha 2 1 10 kEs k§ va di Ra ma-m@ ?
 pie20.cha 2 1 10 mER-si ma-m@ !
 pie20.cha 2 1 10 mER-si ma-m@ !
-pie20.cha 2 1 10 ke s2 k§ di ?
+pie20.cha 2 1 10 kEs k§ di ?
 pie20.cha 2 1 10 ma-m@ .
 pie20.cha 2 1 10 ma-m@ .
 pie21.cha 2 1 20 se ki la , se ki la ?
@@ -2972,15 +2972,15 @@ pie21.cha 2 1 20 El la , se ki El ?
 pie21.cha 2 1 20 se ki ?
 pie21.cha 2 1 20 se fij , # twa se ki twa ?
 pie21.cha 2 1 20 # la se ki ?
-pie21.cha 2 1 20 ke s2 ki fE pa-pa ?
+pie21.cha 2 1 20 kEs ki fE pa-pa ?
 pie21.cha 2 1 20 i fil mwE .
 pie21.cha 2 1 20 i film pjER ?
 pie21.cha 2 1 20 i film ki ?
 pie21.cha 2 1 20 n§ , i film ki ?
 pie21.cha 2 1 20 pa-pa , i film .
-pie21.cha 2 1 20 # ke s2 k # fE ka-mij ?
+pie21.cha 2 1 20 # kEs k # fE ka-mij ?
 pie21.cha 2 1 20 El di 1 bi-zu ?
-pie21.cha 2 1 20 ke s2 kEl fE ka-mij ?
+pie21.cha 2 1 20 kEs kEl fE ka-mij ?
 pie21.cha 2 1 20 ma-m@ kwa ?
 pie21.cha 2 1 20 n§ u ?
 pie21.cha 2 1 20 u ?
@@ -3023,7 +3023,7 @@ pie21.cha 2 1 20 kEl ka-sEt ?
 pie21.cha 2 1 20 y nOt ?
 pie21.cha 2 1 20 § va mu-je le-p§Z da-bOR ?
 pie21.cha 2 1 20 vj5 § ni va tus le d2 .
-pie21.cha 2 1 20 ke s2 k§ va fER ?
+pie21.cha 2 1 20 kEs k§ va fER ?
 pie21.cha 2 1 20 wi mE § fE kwa ?
 pie21.cha 2 1 20 § va mu-je kwa ?
 pie21.cha 2 1 20 § muj kwa pjER ?
@@ -3055,30 +3055,30 @@ pie21.cha 2 1 20 se pa puR Zwe 5 !
 pie21.cha 2 1 20 se puR bwaR ?
 pie21.cha 2 1 20 b§ .
 pie21.cha 2 1 20 dus-m@ vu fE ta la tjE n5 !
-pie22.cha 2 2 02 ke s2 k2 ty # pjER ?
+pie22.cha 2 2 02 kEs k2 ty # pjER ?
 pie22.cha 2 2 02 # i a 1 lu ?
-pie22.cha 2 2 02 ke s2 ki fE l2 lu ?
+pie22.cha 2 2 02 kEs ki fE l2 lu ?
 pie22.cha 2 2 02 u i le ?
 pie22.cha 2 2 02 i le u l2 lu ?
 pie22.cha 2 2 02 # a ma-m@ 1 p2 !
 pie22.cha 2 2 02 se tyn vaS .
-pie22.cha 2 2 02 wE ke s2 kil fE l da-da ?
+pie22.cha 2 2 02 wE kEs kil fE l da-da ?
 pie22.cha 2 2 02 i le gRo .
-pie22.cha 2 2 02 mE ke s2 ki fE ?
+pie22.cha 2 2 02 mE kEs ki fE ?
 pie22.cha 2 2 02 m2 se le vaS ki f§ m2 !
 pie22.cha 2 2 02 wE , wE .
 pie22.cha 2 2 02 sa p§ de # le kOk , f5 se le pul , mE @-f5 , sa p§ de # .
 pie22.cha 2 2 02 de # , ty Em le # pjER ?
-pie22.cha 2 2 02 e s2 k2 ty Em le # ?
+pie22.cha 2 2 02 Es k2 ty Em le # ?
 pie22.cha 2 2 02 ba i la tu fE t§-be , il va a-vwa Ryn fe-se .
 pie22.cha 2 2 02 il va a-vwa Ryn fe-se ?
 pie22.cha 2 2 02 n§ .
 pie22.cha 2 2 02 5 ?
-pie22.cha 2 2 02 wE ke s2 ki la fE l la-p5 , i la R@-vER-se s§ vER .
+pie22.cha 2 2 02 wE kEs ki la fE l la-p5 , i la R@-vER-se s§ vER .
 pie22.cha 2 2 02 wE .
-pie22.cha 2 2 02 ke s2 ki fE ?
+pie22.cha 2 2 02 kEs ki fE ?
 pie22.cha 2 2 02 i fE de be-tiz ?
-pie22.cha 2 2 02 wE ke s2 kil fE ?
+pie22.cha 2 2 02 wE kEs kil fE ?
 pie22.cha 2 2 02 # , i m@Z .
 pie22.cha 2 2 02 il m@Z kO m1 ko-S§ .
 pie22.cha 2 2 02 il m@Z kO m1 ko-S§ .
@@ -3187,7 +3187,7 @@ pie23.cha 2 2 16 tuRn !
 pie23.cha 2 2 16 wE .
 pie23.cha 2 2 16 # .
 pie23.cha 2 2 16 tEm bj5 pR@d t§ b5 .
-pie23.cha 2 2 16 ke s2 ki i a ?
+pie23.cha 2 2 16 kEs ki i a ?
 pie23.cha 2 2 16 ta ma la t§ no-REj ?
 pie23.cha 2 2 16 sa se ma-m@ , El pRe-pa Ra m@-Ze .
 pie23.cha 2 2 16 i sot .

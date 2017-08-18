@@ -18,18 +18,18 @@
 20   c' est                        se                           c' est bébé Croco .
 21   il est                        i let                         il est avec son frère Momo
 21   est avec                      le ta-vEk                     il est avec son frère Momo
-21   qu' est                       ke                           Momo et qu' est ce
-21   qu' il                        kil                          est ce qu' il fait
+21   qu' est-ce                    kEs                          Momo et qu' est-ce qu'
+21   qu' il                        kil                          qu' est-ce qu' il fait
 23   mange avec                    m@ Za-vEk                     , il mange avec la
 26   c' est                        se                           ça c' est la tortue .
 30   elle est                      E le                          elle est où maman ?
 31   elle est                      E le                          maman elle est où ?
 32   vite avec                     vi ta-vEk                     ça va vite avec toi
 33   un autre                      1 notR                        allez un autre !
-34   qu' est                       ke                           allez qu' est ce que tu
+34   qu' est-ce                    kEs                          allez qu' est-ce que tu veux
 36   montre à                      m§t Ra                        montre à maman , montre le
 36   montre à                      m§t Ra                        toi , montre à maman
-37   qu' est                       ke                           ouais alors qu' est ce que
+37   qu' est-ce                    kEs                          ouais alors qu' est-ce que tu
 38   c' est                        se                           ça c' est la voiture .
 39   c' est                        se                           c' est l' auto .
 39   l' auto                       lo-to                        c' est l' auto .
@@ -53,19 +53,19 @@
 64   regarde attention             R°-gaR da-t@-sj§              coucou , regarde attention coucou ,
 69   t' asseoir                    ta-swaR                      allez viens t' asseoir pour regarder
 71   t' asseoir                    ta-swaR                      viens vite t' asseoir !
-72   qu' est                       ke                           alors qu' est ce que tu
+72   qu' est-ce                    kEs                          alors qu' est-ce que tu veux
 73   c' est                        se                           ça c' est l' écureuil .
 73   l' écureuil                   le-ky-R9j                    c' est l' écureuil .
-74   qu' est                       ke                           qu' est ce qu' i(l) fait
-74   qu' i(l)                      ki                           est ce qu' i(l) fait
+74   qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait l'
+74   qu' i(l)                      ki                           qu' est-ce qu' i(l) fait l'
 74   l' écureuil                   le-ky-R9j                    i(l) fait l' écureuil ?
 75   c' est                        se                           ça c' est le renard .
 76   l' écureuil                   le-ky-R9j                    l' écureuil .
-78   qu' est                       ke                           qu' est ce que tu fais
+78   qu' est-ce                    kEs                          qu' est-ce que tu fais là
 80   c' est                        se                           ça c' est la sauterelle ,
-85   qu' est                       ke                           qu' est ce que tu veux
+85   qu' est-ce                    kEs                          qu' est-ce que tu veux lire
 86   c' est                        se                           c' est la maman éléphant et
-88   qu' est                       ke                           qu' est ce que tu veux
+88   qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 90   c' est                        se                           ça c' est quoi ?
 95   c' est                        se                           ça c' est le singe ,
 99   c' est                        se                           ça c' est la chenille .
@@ -79,7 +79,7 @@
 105  c' est                        set                          oui ça c' est aussi un
 105  est aussi                     se to-si                      ça c' est aussi un
 107  qu' est                       ke                           qu' est ce tu fais ?
-108  qu' est                       ke                           qu' est ce que tu fais
+108  qu' est-ce                    kEs                          qu' est-ce que tu fais poupette
 109  faire un                      fE R1                         tu viens faire un gâté à
 110  faire un                      fE R1                         veux pas faire un gâté
 119  lire un                       li R1                         tu viens lire un livre ?
@@ -103,7 +103,7 @@
 162  est un                        se t1                         ça c' est un chat .
 163  c' est                        se                           souris , c' est des souris
 170  il est                        i le                          il est là le bébé .
-172  qu' est                       ke                           qu' est ce que maman elle
+172  qu' est-ce                    kEs                          qu' est-ce que maman elle a
 172  elle a                        E la                          que maman elle a dans
 173  elle a                        E la                          elle a un bébé dans son
 174  elle a                        E la                          oui maman elle a un
@@ -116,9 +116,9 @@
 181  dire à                        di Ra                         viens dire à maman bébé ?
 184  c' est                        se                           c' est le bébé ça ?
 187  mettre à                      mEt Ra                        va le mettre à faire
-189  qu' i(l)                      ki                           est ce qu' i(l) fait dodo
-193  qu' i(l)                      ki                           est ce qu' i(l) fait
-195  qu' i(l)                      ki                           est ce qu' i(l) fait dodo
+189  qu' i(l)                      ki                           est-ce qu' i(l) fait dodo ?
+193  qu' i(l)                      ki                           Camille est-ce qu' i(l) fait dodo
+195  qu' i(l)                      ki                           est-ce qu' i(l) fait dodo l(e)
 200  qu' on                        k§                           tu veux qu' on raconte l'
 200  l' histoire                   lis-twaR                     on raconte l' histoire ?
 201  l' histoire                   lis-twaR                     on raconte l' histoire ?
@@ -139,16 +139,16 @@
 230  un autre                      R1 not                        encore un autre bébé .
 231  c' est                        se                           ça c' est le livre .
 237  il est                        i le                          il est tout déshabillé .
-239  qu' est                       ke                           qu' est ce que tu fais
+239  qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 250  lire avec                     li Ra-vEk                     veux pas lire avec maman
-251  qu' est                       ke                           qu' est ce que tu veux
-253  qu' est                       ke                           qu' est ce que tu racontes
+251  qu' est-ce                    kEs                          qu' est-ce que tu veux lire
+253  qu' est-ce                    kEs                          qu' est-ce que tu racontes ?
 254  c' est                        se                           c' est quoi ça ?
 257  c' est                        set                          ça c' est un chien ,
 257  est un                        se t1                         ça c' est un chien ,
 258  c' est                        set                          chien , c' est un
 258  est un                        se t1                         , c' est un chien
-261  qu' est                       ke                           qu' est ce que tu veux
+261  qu' est-ce                    kEs                          qu' est-ce que tu veux mon
 262  un arbre                      1 naRbR                       oh un arbre !
 264  c' est                        set                          ça c' est une feuille .
 264  est une                       se tyn                        ça c' est une feuille .
@@ -170,10 +170,10 @@
 298  c' est                        se                           bas , c' est le
 299  t(u) as                       ta                           mais , t(u) as vu
 299  il est                        i le                          vu où il est l(e)
-307  qu' est                       ke                           qu' est ce que j' ai
-307  j' ai                         ZE                           ce que j' ai dit
-316  qu' est                       ke                           , alors qu' est ce
-316  qu' i(l)                      ki                           est ce qu' i(l) y
+307  qu' est-ce                    kEs                          qu' est-ce que j' ai dit
+307  j' ai                         ZE                           est-ce que j' ai dit
+316  qu' est-ce                    kEs                          , alors qu' est-ce qu'
+316  qu' i(l)                      ki                           qu' est-ce qu' i(l) y
 317  c' est                        se                           bébé , c' est Pierre
 318  c' est                        set                          ça c' est un pantalon .
 318  est un                        se t1                         ça c' est un pantalon .
@@ -185,7 +185,7 @@
 323  c' est                        se                           ça c' est les chaussettes ,
 327  c' est                        set                          ça c' est un p(e)tit garçon
 327  est un                        se t1                         ça c' est un p(e)tit garçon
-329  qu' est                       ke                           alors qu' est ce que tu
+329  qu' est-ce                    kEs                          alors qu' est-ce que tu m(e)
 332  c' est                        se                           non , c' est pas
 332  c' est                        set                          pas , c' est une
 332  est une                       se tyn                        , c' est une balle
@@ -199,10 +199,10 @@
 350  Pierre aussi                  pjE Ro-si                     Pierre aussi il a droit d(e)
 350  il a                          i la                          Pierre aussi il a droit d(e)
 350  catalogue hein                ka-ta-lO g5                   regarder le catalogue hein !
-351  qu' est                       ke                           qu' est ce que t(u) as
-351  t(u) as                       ta                           ce que t(u) as vu
-352  qu' est                       ke                           qu' est ce que t(u) as
-352  t(u) as                       ta                           ce que t(u) as vu
+351  qu' est-ce                    kEs                          qu' est-ce que t(u) as vu
+351  t(u) as                       ta                           est-ce que t(u) as vu
+352  qu' est-ce                    kEs                          qu' est-ce que t(u) as vu
+352  t(u) as                       ta                           est-ce que t(u) as vu
 353  c' est                        set                          ça c' est un gentil petit
 353  est un                        se t1                         ça c' est un gentil petit
 354  c' est                        se                           mais non c' est plus un
@@ -225,17 +225,17 @@
 378  c' est                        se                           ça c' est ses mains .
 382  c' est                        se                           c' est tes mains !
 385  c' est                        se                           c' est ça tic tac le
-386  qu' est                       ke                           qu' est ce que tu fais
-391  qu' est                       ke                           qu' est ce que tu fais
+386  qu' est-ce                    kEs                          qu' est-ce que tu fais Camille
+391  qu' est-ce                    kEs                          qu' est-ce que tu fais Camille
 392  il est                        i le                          ballon , il est dehors
 393  il est                        i le                          il est où l(e) ballon ?
 395  on y                          § ni                          main(te)nant , on y retournera
 396  d' accord                     da-kOR                       d' accord ?
 403  voir avec                     vwa Ra-vEk                    viens l(e) voir avec maman
-405  qu' est                       ke                           qu' est ce qu' i(l) y
-405  qu' i(l)                      ki                           est ce qu' i(l) y
-407  qu' est                       ke                           qu' est ce que t(u) as
-407  t(u) as                       ta                           ce que t(u) as vu
+405  qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+405  qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
+407  qu' est-ce                    kEs                          qu' est-ce que t(u) as vu
+407  t(u) as                       ta                           est-ce que t(u) as vu
 409  il est                        i le                          il est tout sale ton pantalon
 410  l' as                         la                           tu l' as tout sali !
 413  t(u) as                       ta                           t(u) as faim ?
@@ -248,9 +248,9 @@
 419  l' heure                      l9R                          tout à l' heure !
 420  cheval i(l)                   S°-va li                      le petit cheval i(l) va au
 422  cheval i(l)                   S°-va li                      le petit cheval i(l) va au
-429  qu' est                       ke                           qu' est ce qu' il a
-429  qu' il                        kil                          est ce qu' il a
-429  il a                          ki la                         ce qu' il a ?
+429  qu' est-ce                    kEs                          qu' est-ce qu' il a ?
+429  qu' il                        kil                          qu' est-ce qu' il a ?
+429  il a                          ki la                         est-ce qu' il a ?
 431  t(u) es                       tE                           si t(u) es pas sage ,
 431  t(u) as                       ta                           sage , t(u) as la
 436  montres à                     m§t Ra                        tu montres à maman !
@@ -286,25 +286,25 @@
 461  il est                        Ri le                         le canard il est sur
 461  l' eau                        lo                           est sur l' eau .
 463  les animaux                   le za-ni-mo                   tous les animaux !
-465  qu' est                       ke                           qu' est ce qu' i(l) y
-465  qu' i(l)                      ki                           est ce qu' i(l) y
+465  qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+465  qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
 465  comme animaux                 kO ma-ni-mo                   y a comme animaux ?
 466  montre à                      m§t Ra                        montre à maman ?
-467  qu' est                       ke                           qu' est ce qu' i(l) y
-467  qu' i(l)                      ki                           est ce qu' i(l) y
+467  qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+467  qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
 472  c' est                        se                           ouais c' est le chat .
-474  qu' est                       ke                           qu' est ce qu' i(l) y
-474  qu' i(l)                      ki                           est ce qu' i(l) y
+474  qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+474  qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
 474  d' autres                     dotR                         y a d' autres ?
 475  c' est                        se                           ça c' est quoi ?
 479  c' est                        se                           p(u)is là c' est quoi ?
 481  t(u) as                       ta                           , oui t(u) as raison
 483  il est                        i le                          il est où ?
 484  il est                        i le                          il est là papa ?
-485  qu' est                       ke                           qu' est ce qu' i(l) fait
-485  qu' i(l)                      ki                           est ce qu' i(l) fait
-486  qu' est                       ke                           qu' est ce qu' i(l) fait
-486  qu' i(l)                      ki                           est ce qu' i(l) fait
+485  qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait papa
+485  qu' i(l)                      ki                           qu' est-ce qu' i(l) fait papa
+486  qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait papa
+486  qu' i(l)                      ki                           qu' est-ce qu' i(l) fait papa
 493  c' est                        se                           oh ça c' est méchant tu
 494  c' est                        set                          c' est un gros gros animal
 494  est un                        se t1                         c' est un gros gros animal
@@ -323,8 +323,8 @@
 509  venir à                       v°-ni Ra                      un lapin venir à lui .
 510  cerf ouvre                    sE Ruv                        cerf , cerf ouvre moi
 510  entre et                      @t Re                         , lapin entre et viens
-513  qu' est                       ke                           qu' est ce qu' i(l) fait
-513  qu' i(l)                      ki                           est ce qu' i(l) fait
+513  qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait papa
+513  qu' i(l)                      ki                           qu' est-ce qu' i(l) fait papa
 515  c' est                        set                          ça c' est un p(e)tit garçon
 515  est un                        se t1                         ça c' est un p(e)tit garçon
 515  c' est                        set                          garçon , c' est Alexis
@@ -334,16 +334,16 @@
 518  elle est                      E le                          elle est trop petite .
 525  c' est                        se                           c' est toi qu(i) a fait
 528  sage hein                     sa Z5                         bébé sois sage hein !
-533  qu' est                       ke                           qu' est ce qu' i(l) y
-533  qu' i(l)                      ki                           est ce qu' i(l) y
-534  qu' est                       ke                           qu' est ce qu' i(l) y
-534  qu' i(l)                      ki                           est ce qu' i(l) y
+533  qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+533  qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
+534  qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+534  qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
 536  c' est                        se                           p(u)is là c' est quoi Camille
 539  t(u) es                       tE                           t(u) es tombé ?
 543  encore un                     @-kO R1                       encore un bisou , tu dis
 544  t' aime                       tEm                          je t' aime maman , dis
-546  qu' est                       ke                           qu' est ce qu' i(l) y
-546  qu' i(l)                      ki                           est ce qu' i(l) y
+546  qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+546  qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
 547  t' aime                       tEm                          dire je t' aime ?
 548  t' aime                       tEm                          je t' aime maman .
 549  t(u) aimes                    tEm                          ah bon t(u) aimes papa !
@@ -354,8 +354,8 @@
 554  t' aime                       tEm                          je t' aime maman .
 555  secondes hein                 s°-g§ d5                      attends deux secondes hein !
 558  chaussettes et                So-sE te                      mettre les chaussettes et les
-561  qu' est                       ke                           qu' est ce qu' i(l) y
-561  qu' i(l)                      ki                           est ce qu' i(l) y
+561  qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+561  qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
 564  t' écoute                     te-kut                       dis j(e) t' écoute !
 568  vas y                         va zi                         allez vas y !
 569  donne à                       dO na                         donne à maman !
@@ -376,7 +376,7 @@
 608  l' eau                        lo                           de l' eau .
 609  c' est                        se                           c' est bon l' eau ?
 609  l' eau                        lo                           est bon l' eau ?
-610  c' est                        se                           ce que c' est bon
+610  c' est                        se                           est-ce que c' est bon l'
 610  l' eau                        lo                           est bon l' eau ?
 611  t(u) as                       ta                           t(u) as vu mon pied ,
 611  il est                        i le                          pied , il est mouillé
@@ -400,8 +400,8 @@
 634  l' arbre                      laRbR                        quoi dans l' arbre ?
 636  c' est                        set                          ça c' est une tondeuse .
 636  est une                       se tyn                        ça c' est une tondeuse .
-639  qu' est                       ke                           qu' est ce que t(u) as
-639  t(u) as                       ta                           ce que t(u) as vu
+639  qu' est-ce                    kEs                          qu' est-ce que t(u) as vu
+639  t(u) as                       ta                           est-ce que t(u) as vu
 642  les oiseaux                   le zwa-zo                     veux dire les oiseaux .
 643  les oiseaux                   le zwa-zo                     les oiseaux .
 645  il est                        i le                          il est parti , tu lui
@@ -458,9 +458,9 @@
 702  elle est                      E le                          boîte , elle est jaune
 703  c' est                        se                           comme ça c' est jaune
 704  c' est                        se                           ouais c' est beau le jaune
-705  qu' est                       ke                           petits chats qu' est ce
-705  qu' i(ls)                     ki                           est ce qu' i(ls) regardent
-709  qu' est                       ke                           qu' est ce qui est jaune
+705  qu' est-ce                    kEs                          petits chats qu' est-ce qu'
+705  qu' i(ls)                     ki                           qu' est-ce qu' i(ls) regardent
+709  qu' est-ce                    kEs                          qu' est-ce qui est jaune ?
 710  elle est                      E le                          , oui elle est là
 710  elle est                      E let                         pas , elle est en
 710  est en                        le t@                         , elle est en panne
@@ -481,8 +481,8 @@
 722  voir avec                     vwa Ra-vEk                    , viens voir avec maman
 723  c' est                        se                           c' est l' histoire du petit
 723  l' histoire                   lis-twaR                     c' est l' histoire du petit
-723  qu' est                       ke                           cheval , qu' est ce
-723  qu' i(l)                      ki                           est ce qu' i(l) fait
+723  qu' est-ce                    kEs                          cheval , qu' est-ce qu'
+723  qu' i(l)                      ki                           qu' est-ce qu' i(l) fait
 724  c' est                        se                           çuilà , c' est papa
 724  cheval i(l)                   S°-va li                      est papa cheval i(l) fait
 725  cheval i(l)                   S°-va li                      ouais papa cheval i(l) fait dodo
@@ -561,8 +561,8 @@
 781  est un                        se t1                         ça c' est un gant .
 783  c' est                        se                           ça c' est quoi ?
 785  c' est                        se                           et là c' est dans le
-785  qu' est                       ke                           frigidaire , qu' est ce
-785  qu' i(l)                      ki                           est ce qu' i(l) y
+785  qu' est-ce                    kEs                          frigidaire , qu' est-ce qu'
+785  qu' i(l)                      ki                           qu' est-ce qu' i(l) y
 786  c' est                        se                           ça c' est des carottes ,
 787  c' est                        se                           ça c' est du lait ,
 789  c' est                        se                           ça c' est des fraises hum
@@ -608,15 +608,15 @@
 835  elle est                      E le                          celle là elle est blanche
 835  blanche et                    bl@ Se                        blanche , blanche et on
 835  on ouvre                      § nuv                         blanche et on ouvre la
-836  qu' est                       ke                           qu' est ce qu' i(l) y
-836  qu' i(l)                      ki                           est ce qu' i(l) y
+836  qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+836  qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
 837  il est                        i le                          bonhomme , il est où
 841  qu' est                       ke                           qu' est ce tu m(e) racontes
-844  qu' est                       ke                           qu' est ce qu' i(l) fait
-844  qu' i(l)                      ki                           est ce qu' i(l) fait
+844  qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait l(e)
+844  qu' i(l)                      ki                           qu' est-ce qu' i(l) fait l(e)
 847  c' est                        se                           ah c' est tes cheveux !
-848  qu' est                       ke                           qu' est ce qu' i(l) fait
-848  qu' i(l)                      ki                           est ce qu' i(l) fait
+848  qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait ?
+848  qu' i(l)                      ki                           qu' est-ce qu' i(l) fait ?
 851  c' est                        set                          alors ça c' est un tour
 851  est un                        se t1                         ça c' est un tour
 851  s' appelle                    sa-pEl                       , ça s' appelle .
@@ -697,8 +697,8 @@
 914  c' est                        set                          wof , c' est un
 914  est un                        se t1                         , c' est un chien
 918  livres hein                   liv R5                        sur les livres hein !
-922  qu' est                       ke                           qu' est ce que tu veux
-924  qu' est                       ke                           chéri , qu' est ce
+922  qu' est-ce                    kEs                          qu' est-ce que tu veux faire
+924  qu' est-ce                    kEs                          chéri , qu' est-ce que
 925  il est                        i le                          il est cassé , il est
 925  il est                        i le                          cassé , il est cassé
 926  il est                        i le                          il est cassé ?
@@ -762,7 +762,7 @@
 1010 t' écoute                     te-kut                       je t' écoute .
 1011 vas y                         va zi                         vas y !
 1012 l' histoire                   lis-twaR                     lis moi l' histoire !
-1014 qu' est                       ke                           qu' est ce qu' e(lle) fait
+1014 qu' est-ce                    kEs                          qu' est-ce qu' e(lle) fait la
 1015 t(u) en                       t@                           t(u) en sais rien !
 1017 c' est                        set                          Camille , c' est une poule
 1017 est une                       se tyn                        , c' est une poule
@@ -771,12 +771,12 @@
 1020 tournes ouais                 tuR nwE                       tu tournes ouais , vas y
 1020 vas y                         va zi                         ouais , vas y !
 1021 raconte à                     Ra-k§ ta                      raconte à maman c(e) qui s(e)
-1022 raconte à                     Ra-k§ ta                      raconte à maman qu' est ce
-1022 qu' est                       ke                           à maman qu' est ce
-1022 qu' i(l)                      ki                           est ce qu' i(l) s(e)
+1022 raconte à                     Ra-k§ ta                      raconte à maman qu' est-ce qu'
+1022 qu' est-ce                    kEs                          à maman qu' est-ce qu'
+1022 qu' i(l)                      ki                           qu' est-ce qu' i(l) s(e)
 1023 un ours                       1 nuRs                        y a un ours ?
-1028 qu' est                       ke                           non , qu' est ce qu'
-1028 qu' elle                      kEl                          est ce qu' elle fait
+1028 qu' est-ce                    kEs                          non , qu' est-ce qu' elle
+1028 qu' elle                      kEl                          qu' est-ce qu' elle fait
 1031 c' est                        set                          c' est un papillon que maman
 1031 est un                        se t1                         c' est un papillon que maman
 1035 l' aut(r)e                    lOt                          p(u)is l' aut(r)e , elle est
@@ -803,8 +803,8 @@
 1063 est un                        se t1                         ça c' est un parapluie .
 1064 bottes ouais                  bO twE                        a des bottes ouais ,
 1068 c' est                        se                           c' est dans le frigo ça
-1068 qu' est                       ke                           ça , qu' est ce
-1068 qu' i(l)                      ki                           est ce qu' i(l) y
+1068 qu' est-ce                    kEs                          ça , qu' est-ce qu'
+1068 qu' i(l)                      ki                           qu' est-ce qu' i(l) y
 1096 c' est                        se                           c' est quoi dessus ?
 1097 c' est                        se                           c' est des chiens ?
 1103 l' ombre                      l§bR                         rester à l' ombre !
@@ -848,8 +848,8 @@
 1163 avoir un                      a-vwa R1                      elle va avoir un bleu .
 1164 il aurait                     i lo-RE                       il aurait fallu lui mettre de
 1164 l' arnica                     laR-ni-ka                    mettre de l' arnica hein
-1167 qu' est                       ke                           qu' est ce qu' i(l) y
-1167 qu' i(l)                      ki                           est ce qu' i(l) y
+1167 qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+1167 qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
 1169 c' est                        se                           c' est les jouets à qui
 1172 elle est                      E le                          elle est sur la tête du
 1173 c' est                        set                          ouais c' est une aut(r)e .
@@ -914,7 +914,7 @@
 1244 t(u) as                       ta                           t(u) as peur toi ?
 1245 n' importe                    n5-pORt                      n' importe quoi !
 1255 qu' est                       ke                           qu' est ce tu veux alors
-1260 qu' est                       ke                           qu' est ce que tu veux
+1260 qu' est-ce                    kEs                          qu' est-ce que tu veux .
 1261 en a                          @ na                          (il) y en a encore
 1263 t(u) as                       ta                           tapes sinon t(u) as la
 1269 t(u) as                       ta                           merci t(u) as dit ?
@@ -986,10 +986,10 @@
 1347 c' est                        se                           c' est le pa(nier) .
 1350 les épingles                  le ze-p5g                     tu mets les épingles dedans
 1351 les épingles                  le ze-p5g                     tu mets les épingles dedans le
-1353 qu' est                       ke                           qu' est ce qu' e(lle) fait
-1354 qu' est                       ke                           qu' est ce que j(e) fais
+1353 qu' est-ce                    kEs                          qu' est-ce qu' e(lle) fait maman
+1354 qu' est-ce                    kEs                          qu' est-ce que j(e) fais avec
 1354 l' herbe                      lERb                         fais avec l' herbe ?
-1363 qu' est                       ke                           qu' est ce que tu fais
+1363 qu' est-ce                    kEs                          qu' est-ce que tu fais toi
 1364 coupe hein                    ku p5                         attention ça coupe hein des fois
 1365 faire attention               fE Ra-t@-sj§                  faut faire attention avec l' herbe
 1365 l' herbe                      lERb                         attention avec l' herbe .
@@ -1010,14 +1010,14 @@
 1375 est une                       se tyn                        , c' est une araignée
 1375 une araignée                  ty na-RE-Ne                   c' est une araignée .
 1376 c' est                        se                           et ça c' est qui ça
-1377 qu' est                       ke                           oiseau , qu' est ce qu'
-1377 qu' elle                      kEl                          est ce qu' elle a
-1377 elle a                        kE la                         ce qu' elle a dans
+1377 qu' est-ce                    kEs                          oiseau , qu' est-ce qu' elle
+1377 qu' elle                      kEl                          qu' est-ce qu' elle a
+1377 elle a                        kE la                         est-ce qu' elle a dans
 1378 elle a                        E la                          elle a à manger ?
 1379 c' est                        se                           p(u)is là c' est quoi ça
-1380 qu' est                       ke                           chien , qu' est ce
-1380 qu' il                        kil                          est ce qu' il a
-1380 il a                          ki la                         ce qu' il a dans
+1380 qu' est-ce                    kEs                          chien , qu' est-ce qu'
+1380 qu' il                        kil                          qu' est-ce qu' il a
+1380 il a                          ki la                         est-ce qu' il a dans
 1381 c' est                        se                           ça c' est quoi ?
 1382 c' est                        set                          c' est un , os .
 1382 est un                        se t1                         c' est un , os .
@@ -1026,15 +1026,15 @@
 1384 il a                          i la                          tu vois il a fait
 1385 il a                          i la                          il a fait un trou le
 1385 l' os                         lOs                          va mettre l' os dedans
-1386 qu' est                       ke                           m(e) racontes qu' est ce
-1386 qu' i(l)                      ki                           est ce qu' i(l) fait
+1386 qu' est-ce                    kEs                          m(e) racontes qu' est-ce qu'
+1386 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait
 1388 c' est                        se                           et ça c' est l' os
 1388 l' os                         lOs                          c' est l' os .
-1389 alors alors                   a-lO Ra-lOR                   alors alors alors alors qu' est
-1389 alors alors                   Ra-lO Ra-lOR                  alors alors alors alors qu' est
-1389 alors alors                   Ra-lO Ra-lOR                  alors alors alors alors qu' est
-1389 qu' est                       ke                           alors alors qu' est ce
-1389 qu' i(l)                      ki                           est ce qu' i(l) y
+1389 alors alors                   a-lO Ra-lOR                   alors alors alors alors qu' est-ce
+1389 alors alors                   Ra-lO Ra-lOR                  alors alors alors alors qu' est-ce
+1389 alors alors                   Ra-lO Ra-lOR                  alors alors alors alors qu' est-ce
+1389 qu' est-ce                    kEs                          alors alors qu' est-ce qu'
+1389 qu' i(l)                      ki                           qu' est-ce qu' i(l) y
 1390 c' est                        set                          c' est un petit lapin qui
 1390 est un                        se t1                         c' est un petit lapin qui
 1391 c' est                        se                           ça c' est la cheminée .
@@ -1102,11 +1102,11 @@
 1443 il est                        i le                          bah oui il est tout mouillé
 1443 qu' il                        kil                          s(e) fait qu' il est
 1443 il est                        ki le                         fait qu' il est tout
-1444 qu' est                       ke                           qu' est ce qu' i(l) s'
-1444 qu' i(l)                      ki                           est ce qu' i(l) s'
+1444 qu' est-ce                    kEs                          qu' est-ce qu' i(l) s' est
+1444 qu' i(l)                      ki                           qu' est-ce qu' i(l) s' est
 1444 s' est                        se                           qu' i(l) s' est passé
-1445 qu' est                       ke                           hein qu' est ce qu' i(l)
-1445 qu' i(l)                      ki                           est ce qu' i(l) s'
+1445 qu' est-ce                    kEs                          hein qu' est-ce qu' i(l) s'
+1445 qu' i(l)                      ki                           qu' est-ce qu' i(l) s'
 1445 s' est                        se                           qu' i(l) s' est passé
 1447 d' accord                     da-kOR                       à sécher d' accord ,
 1447 tout à                        tu ta                         l(a) regardera tout à l'
@@ -1139,12 +1139,12 @@
 1476 c' est                        se                           c' est pour manger .
 1477 Pierre i(l)                   pjE Ri                        tiens Pierre i(l) va manger ,
 1479 c' est                        se                           Camille , c' est quoi
-1482 qu' est                       ke                           qu' est ce qu' on mange
-1482 qu' on                        k§                           est ce qu' on mange
+1482 qu' est-ce                    kEs                          qu' est-ce qu' on mange ?
+1482 qu' on                        k§                           qu' est-ce qu' on mange ?
 1490 elle a                        E la                          maman elle a un verre .
 1491 m' as                         ma                           tu m' as donné quoi à
-1492 qu' est                       ke                           qu' est ce que j(e) mange
-1494 c' est                        se                           ce que c' est bon
+1492 qu' est-ce                    kEs                          qu' est-ce que j(e) mange ?
+1494 c' est                        se                           est-ce que c' est bon ?
 1495 c' est                        se                           c' est de l' eau .
 1495 l' eau                        lo                           est de l' eau .
 1496 l' eau                        lo                           donnes de l' eau .
@@ -1165,7 +1165,7 @@
 1526 un arbre                      1 naRbR                       un arbre .
 1527 c' est                        se                           y est c' est fini
 1527 t(u) as                       ta                           fini , t(u) as tout
-1529 qu' est                       ke                           qu' est ce que tu fais
+1529 qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 1531 t(u) as                       ta                           t(u) as envie d(e) faire pipi
 1534 qu' il                        kil                          s(e) pourrait qu' il aille
 1534 il aille                      ki laj                        pourrait qu' il aille là
@@ -1178,8 +1178,8 @@
 1543 plus intelligente             ply z5-te-li-Z@t              toi la plus intelligente .
 1549 c' est                        se                           vois là c' est le
 1550 d' accord                     da-kOR                       d' accord ?
-1551 qu' est                       ke                           qu' est ce qu' i(l) fait
-1551 qu' i(l)                      ki                           est ce qu' i(l) fait
+1551 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait le
+1551 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait le
 1553 c' est                        se                           bah oui c' est l'
 1553 l' histoire                   lis-twaR                     c' est l' histoire des
 1554 c' est                        se                           là , c' est le
@@ -1200,8 +1200,8 @@
 1569 il est                        i le                          çuilà il est fini çuilà ,
 1569 il est                        i le                          regarde çuilà il est fini
 1570 il est                        i le                          il est fini çuilà ?
-1572 qu' est                       ke                           cochon , qu' est ce
-1572 qu' i(l)                      ki                           est ce qu' i(l) fait
+1572 qu' est-ce                    kEs                          cochon , qu' est-ce qu'
+1572 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait
 1575 on a                          § na                          non on a pas tout fait
 1575 il en                         i l@                          fait , il en manque
 1576 c' est                        set                          ça c' est un écureuil .
@@ -1213,30 +1213,30 @@
 1581 est une                       se tyn                        ça c' est une souris .
 1583 on est                        § net                         là main(te)nant on est au supermarché
 1583 est au                        ne to                         main(te)nant on est au supermarché
-1584 qu' est                       ke                           alors qu' est ce qu' i(l)
-1584 qu' i(l)                      ki                           est ce qu' i(l) s(e)
+1584 qu' est-ce                    kEs                          alors qu' est-ce qu' i(l) s(e)
+1584 qu' i(l)                      ki                           qu' est-ce qu' i(l) s(e)
 1584 passe au                      pa so                         i(l) s(e) passe au supermarché
-1585 qu' est                       ke                           qu' est ce qu' i(l) s(e)
-1585 qu' i(l)                      ki                           est ce qu' i(l) s(e)
-1586 qu' est                       ke                           qu' est ce qu' i(l) s(e)
-1586 qu' i(l)                      ki                           est ce qu' i(l) s(e)
+1585 qu' est-ce                    kEs                          qu' est-ce qu' i(l) s(e) passe
+1585 qu' i(l)                      ki                           qu' est-ce qu' i(l) s(e) passe
+1586 qu' est-ce                    kEs                          qu' est-ce qu' i(l) s(e) passe
+1586 qu' i(l)                      ki                           qu' est-ce qu' i(l) s(e) passe
 1587 c' est                        se                           ouais , c' est un(e)
 1588 elle ouvre                    E luvR                        vois , elle ouvre .
 1590 c' est                        se                           c' est bon les glaces ?
-1593 qu' est                       ke                           et là qu' est ce qu'
+1593 qu' est-ce                    kEs                          et là qu' est-ce qu' (il)
 1594 on ouvre                      § nuvR                        on ouvre ?
 1596 c' est                        se                           c' est quoi ?
 1597 c' est                        se                           non c' est pas du vin
 1597 c' est                        se                           vin , c' est du
-1599 qu' est                       ke                           qu' est ce qu' i(l) fait
-1599 qu' i(l)                      ki                           est ce qu' i(l) fait
+1599 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait lui
+1599 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait lui
 1601 c' est                        set                          c' est une coccinelle .
 1601 est une                       se tyn                        c' est une coccinelle .
 1604 c' est                        set                          hm , c' est un singe
 1604 est un                        se t1                         , c' est un singe
 1605 un aut(r)e                    1 nOt                         un aut(r)e singe .
-1606 qu' est                       ke                           qu' est ce qu' i(ls) font
-1606 qu' i(ls)                     ki                           est ce qu' i(ls) font
+1606 qu' est-ce                    kEs                          qu' est-ce qu' i(ls) font ?
+1606 qu' i(ls)                     ki                           qu' est-ce qu' i(ls) font ?
 1609 t(u) as                       ta                           du toboggan t(u) as vu
 1612 c' est                        set                          c' est un hippopotame .
 1612 est un                        se t1n                        c' est un hippopotame .
@@ -1254,16 +1254,16 @@
 1626 l' a                          la                           il l' a cassée avec le
 1627 t(u) as                       ta                           t(u) as vu ?
 1628 l' a                          la                           il l' a cassée avec le
-1629 qu' est                       ke                           qu' est ce qu' i(l) y
-1629 qu' i(l)                      ki                           est ce qu' i(l) y
+1629 qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+1629 qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
 1630 l' a                          la                           oui il l' a cassée
 1633 c' est                        se                           c' est qui ça ?
 1636 qu' est                       ke                           qu' est ce tu vas faire
 1636 faire avec                    fE Ra-vEk                     tu vas faire avec ?
 1638 elle a                        E la                          maman elle a pas faim .
 1640 il en                         i l@                          non il en veut pas papa
-1644 qu' est                       ke                           qu' est ce qu' i(l) fait
-1644 qu' i(l)                      ki                           est ce qu' i(l) fait
+1644 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait l(e)
+1644 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait l(e)
 1646 t(u) as                       ta                           t(u) as vu les fées ,
 1646 des ailes                     de zEl                        e(lles) ont des ailes ,
 1646 t(u) as                       ta                           ailes , t(u) as vu
@@ -1316,23 +1316,23 @@
 1711 c' est                        se                           bah qui c' est qui
 1711 l' a                          la                           est qui l' a tout
 1712 il est                        i le                          il est tout déchiré .
-1713 qu' est                       ke                           qu' est ce qu' il a
-1713 qu' il                        kil                          est ce qu' il a
-1713 il a                          ki la                         ce qu' il a fait
+1713 qu' est-ce                    kEs                          qu' est-ce qu' il a fait
+1713 qu' il                        kil                          qu' est-ce qu' il a fait
+1713 il a                          ki la                         est-ce qu' il a fait
 1714 c' est                        se                           c' est pas bien .
 1716 c' est                        se                           m(e) racontes c' est l'
 1716 l' histoire                   lis-twaR                     c' est l' histoire de
 1717 c' est                        se                           c' est qui ça ?
 1719 c' est                        se                           p(u)is lui c' est qui
-1720 un escargot                   1 nEs-kaR-go                  un escargot , qu' est ce
-1720 qu' est                       ke                           escargot , qu' est ce
-1720 qu' i(l)                      ki                           est ce qu' i(l) dit
-1721 qu' est                       ke                           qu' est ce qu' il dit
-1721 qu' il                        kil                          est ce qu' il dit
+1720 un escargot                   1 nEs-kaR-go                  un escargot , qu' est-ce qu'
+1720 qu' est-ce                    kEs                          escargot , qu' est-ce qu'
+1720 qu' i(l)                      ki                           qu' est-ce qu' i(l) dit
+1721 qu' est-ce                    kEs                          qu' est-ce qu' il dit à
+1721 qu' il                        kil                          qu' est-ce qu' il dit à
 1722 l' escargot                   lEs-kaR-go                   pomme p(u)is l' escargot i(l)
 1723 c' est                        set                          pomme , c' est à
 1723 est à                         se ta                         , c' est à moi
-1724 qu' est                       ke                           alors qu' est ce qu' e(lle)
+1724 qu' est-ce                    kEs                          alors qu' est-ce qu' e(lle) fait
 1725 s' en                         s@                           elle s' en va .
 1726 trouve une                    tRu vyn                       et elle trouve une fraise
 1728 c' est                        se                           p(u)is qui c' est qui
@@ -1347,20 +1347,20 @@
 1734 c' est                        se                           bah là c' est rien ,
 1734 c' est                        se                           rien , c' est rien
 1735 c' est                        se                           c' est le citron , la
-1735 qu' est                       ke                           petite chenille qu' est ce
+1735 qu' est-ce                    kEs                          petite chenille qu' est-ce qu'
 1736 c' est                        se                           et ça c' est qui ça
 1737 c' est                        se                           ouais c' est la libellule qui
 1737 pique et                      pi ke                         libellule qui pique et la
 1737 elle a                        E la                          la chenille elle a peur
-1738 qu' est                       ke                           alors qu' est ce qu' e(lle)
+1738 qu' est-ce                    kEs                          alors qu' est-ce qu' e(lle) fait
 1740 c' est                        se                           c' est quoi le cocon ?
 1741 c' est                        set                          ouais , c' est elle
 1741 est elle                      se tEl                        , c' est elle qui
-1742 qu' est                       ke                           la fin qu' est ce
-1742 qu' i(l)                      ki                           est ce qu' i(l) se
+1742 qu' est-ce                    kEs                          la fin qu' est-ce qu'
+1742 qu' i(l)                      ki                           qu' est-ce qu' i(l) se
 1743 il est                        i le                          il est beau le papillon ?
-1744 qu' il                        kil                          est ce qu' il est beau
-1744 il est                        ki le                         ce qu' il est beau
+1744 qu' il                        kil                          est-ce qu' il est beau le
+1744 il est                        ki le                         est-ce qu' il est beau le
 1746 d' accord                     da-kOR                       son dodo d' accord ?
 1748 t' écoute                     te-kut                       allez j(e) t' écoute !
 1749 m' as                         ma                           ouais tu m' as tout dit
@@ -1400,8 +1400,8 @@
 1830 c' est                        se                           non ça c' est les lunettes
 1830 lunettes à                    ly-nE ta                      est les lunettes à papa
 1832 t' assis                      ta-si                        eh Pierre t' assis pas sur
-1835 qu' est                       ke                           qu' est ce que tu m(e)
-1836 qu' est                       ke                           qu' est ce que tu veux
+1835 qu' est-ce                    kEs                          qu' est-ce que tu m(e) fais
+1836 qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 1837 vas y                         va zi                         doucement , vas y descends
 1838 hop hop                       O pOp                         hop hop hop !
 1838 hop hop                       pO pOp                        hop hop hop !
@@ -1421,9 +1421,9 @@
 1889 il est                        i le                          il est où le lapin ?
 1890 c' est                        se                           c' est lapin ?
 1891 c' est                        se                           c' est ton lapin ?
-1892 qu' est                       ke                           qu' est ce qu' il a
-1892 qu' il                        kil                          est ce qu' il a
-1892 il a                          ki la                         ce qu' il a ,
+1892 qu' est-ce                    kEs                          qu' est-ce qu' il a ,
+1892 qu' il                        kil                          qu' est-ce qu' il a ,
+1892 il a                          ki la                         est-ce qu' il a ,
 1901 c' est                        se                           ça c' est la bouche ,
 1902 les yeux                      le zj2                        nez , les yeux ,
 1902 les yeux                      le zj2                        yeux , les yeux ,
@@ -1461,7 +1461,7 @@
 1950 c' est                        se                           ça c' est le canard ,
 1951 c' est                        se                           ça c' est quoi ça ?
 1959 elle est                      E le                          oh elle est belle la balle
-1960 qu' est                       ke                           qu' est ce que tu veux
+1960 qu' est-ce                    kEs                          qu' est-ce que tu veux ?
 1961 elle est                      E le                          elle est où la balle ?
 1965 les oiseaux                   le zwa-zo                     écoute les oiseaux dehors .
 1966 les oiseaux                   le zwa-zo                     les oiseaux dehors ?
@@ -1552,10 +1552,10 @@
 2095 d' oiseaux                    dwa-zo                       , plein d' oiseaux .
 2096 c' est                        se                           là , c' est la
 2096 c' est                        se                           lune , c' est la
-2097 qu' est                       ke                           qu' est ce qu' i(l) y
-2097 qu' i(l)                      ki                           est ce qu' i(l) y
-2097 qu' est                       ke                           a , qu' est ce
-2097 qu' i(l)                      ki                           est ce qu' i(l) fait
+2097 qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+2097 qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
+2097 qu' est-ce                    kEs                          a , qu' est-ce qu'
+2097 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait
 2098 l' oiseau                     lwa-zo                       l' oiseau i(l) fait dodo ,
 2098 il a                          i la                          dodo , il a les
 2098 les yeux                      le zj2                        il a les yeux fermés
@@ -1565,8 +1565,8 @@
 2102 c' est                        se                           ça c' est quoi comme livre
 2103 c' est                        se                           c' est le livre des dadas
 2105 c' est                        se                           p(u)is ça c' est des
-2106 qu' est                       ke                           qu' est ce qu' i(l) mange
-2106 qu' i(l)                      ki                           est ce qu' i(l) mange
+2106 qu' est-ce                    kEs                          qu' est-ce qu' i(l) mange le
+2106 qu' i(l)                      ki                           qu' est-ce qu' i(l) mange le
 2106 mange une                     m@ Zyn                        , i(l) mange une ,
 2108 c' est                        se                           c' est quoi ça , c'
 2108 c' est                        set                          ça , c' est une
@@ -1587,12 +1587,12 @@
 2125 t(u) as                       ta                           t(u) as vu les oiseaux ?
 2125 les oiseaux                   le zwa-zo                     as vu les oiseaux ?
 2126 les oiseaux                   le zwa-zo                     tu vu les oiseaux dehors
-2127 qu' est                       ke                           qu' est ce que t(u) as
-2127 t(u) as                       ta                           ce que t(u) as vu
+2127 qu' est-ce                    kEs                          qu' est-ce que t(u) as vu
+2127 t(u) as                       ta                           est-ce que t(u) as vu
 2128 les oiseaux                   le zwa-zo                     les oiseaux ?
 2134 t(u) es                       tE                           t(u) es lourd !
-2135 qu' est                       ke                           alors qu' est ce qu' on
-2135 qu' on                        k§                           est ce qu' on voit
+2135 qu' est-ce                    kEs                          alors qu' est-ce qu' on voit
+2135 qu' on                        k§                           qu' est-ce qu' on voit
 2137 c' est                        se                           ça c' est la maison .
 2138 c' est                        set                          ça c' est un nuage .
 2138 est un                        se t1                         ça c' est un nuage .
@@ -1706,8 +1706,8 @@
 2245 cette histoire                sE tis-twaR                   est quoi cette histoire de
 2247 t(u) es                       tE                           y est t(u) es descendu
 2248 descendre ou                  de-s@d Ru                     descendre ou monter !
-2250 qu' est                       ke                           qu' est ce que tu fais
-2251 qu' est                       ke                           qu' est ce que tu fais
+2250 qu' est-ce                    kEs                          qu' est-ce que tu fais ?
+2251 qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 2252 chaussettes hein              So-sE t5                      mis des chaussettes hein !
 2253 voir avec                     vwa Ra-vEk                    viens tu voir avec maman ?
 2255 lire avec                     li Ra-vEk                     tu viens lire avec maman !
@@ -1719,7 +1719,7 @@
 2266 t(u) es                       tE                           t(u) es pas beau .
 2278 seul hein                     s9 l5                         peux tout seul hein !
 2282 Pierre i(l)                   pjE Ri                        dodo , Pierre i(l) fait
-2283 qu' est                       ke                           qu' est ce que tu fais
+2283 qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 2284 t(u) as                       ta                           t(u) as fait d(e) la voiture
 2286 t(u) es                       tE                           t(u) es monté et p(u)is descendu
 2287 montre à                      m§t Ra                        montre à maman comment t(u) as
@@ -1732,14 +1732,14 @@
 2296 c' est                        se                           c' est mamie au téléphone ?
 2299 c' est                        se                           écoute c' est mamie !
 2302 c' est                        se                           ça c' est la brouette .
-2304 qu' est                       ke                           qu' est ce qu' on met
-2304 qu' on                        k§                           est ce qu' on met
-2305 qu' est                       ke                           qu' est ce qu' on met
-2305 qu' on                        k§                           est ce qu' on met
+2304 qu' est-ce                    kEs                          qu' est-ce qu' on met dedans
+2304 qu' on                        k§                           qu' est-ce qu' on met dedans
+2305 qu' est-ce                    kEs                          qu' est-ce qu' on met dans
+2305 qu' on                        k§                           qu' est-ce qu' on met dans
 2306 d' eau                        do                           a pas d' eau dedans
-2307 qu' est                       ke                           qu' est ce que tu mets
+2307 qu' est-ce                    kEs                          qu' est-ce que tu mets dans
 2308 d' autre                      dotR                         ouais quoi d' autre ?
-2309 qu' est                       ke                           qu' est ce que tu fais
+2309 qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 2310 c' est                        se                           oh c' est sale Pierre !
 2315 l' eau                        lo                           a d(e) l' eau là
 2317 c' est                        se                           ça c' est marron .
@@ -1752,7 +1752,7 @@
 2322 d' accord                     da-kOR                       d' accord !
 2325 fasse un                      fa s1                         qu(e) maman fasse un dessin
 2326 faire avec                    fE Ra-vEk                     maman va faire avec celui
-2327 qu' est                       ke                           qu' est ce que tu veux
+2327 qu' est-ce                    kEs                          qu' est-ce que tu veux qu(e)
 2335 comme en                      kO m@                         comme en vacances , on était
 2335 on était                      § ne-tE                       vacances , on était allé
 2336 on avait                      § na-vE                       on avait un bateau avec des
@@ -1815,9 +1815,9 @@
 2391 c' est                        se                           trompée , c' est le
 2391 t(u) as                       ta                           rasoir , t(u) as raison
 2392 c' est                        se                           c' est papa qui utilise ça
-2394 qu' est                       ke                           qu' est ce qu' elle a
-2394 qu' elle                      kEl                          est ce qu' elle a
-2394 elle a                        kE la                         ce qu' elle a la
+2394 qu' est-ce                    kEs                          qu' est-ce qu' elle a la
+2394 qu' elle                      kEl                          qu' est-ce qu' elle a la
+2394 elle a                        kE la                         est-ce qu' elle a la
 2396 les épingles                  le ze-p5gl                    sont où les épingles ?
 2397 une épingle                   y ne-p5g                      va chercher une épingle pour ouvrir
 2397 pour ouvrir                   pu Ru-vRiR                    une épingle pour ouvrir la
@@ -1881,14 +1881,14 @@
 2457 est un                        se t1                         c' est un bâton avec des
 2458 c' est                        se                           c' est des p(e)tites billes .
 2459 c' est                        se                           c' est des billes .
-2460 qu' est                       ke                           p(u)is qu' est ce qu' i(l)
-2460 qu' i(l)                      ki                           est ce qu' i(l) y
-2462 qu' est                       ke                           qu' est ce qu' i(l) y
-2462 qu' i(l)                      ki                           est ce qu' i(l) y
-2467 qu' est                       ke                           qu' est ce qu' i(l) fait
-2467 qu' i(l)                      ki                           est ce qu' i(l) fait
-2468 qu' est                       ke                           qu' est ce qu' i(l) fait
-2468 qu' i(l)                      ki                           est ce qu' i(l) fait
+2460 qu' est-ce                    kEs                          p(u)is qu' est-ce qu' i(l) y
+2460 qu' i(l)                      ki                           qu' est-ce qu' i(l) y
+2462 qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+2462 qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
+2467 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait ?
+2467 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait ?
+2468 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait ?
+2468 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait ?
 2473 c' est                        se                           oh c' est quoi ça ?
 2474 c' est                        set                          c' est un coq .
 2474 est un                        se t1                         c' est un coq .
@@ -1946,7 +1946,7 @@
 2536 t(u) as                       ta                           dis bonhomme t(u) as vu c'
 2536 c' est                        se                           as vu c' est du
 2537 c' est                        se                           c' est du sable mouillé !
-2539 qu' est                       ke                           qu' est ce que tu veux
+2539 qu' est-ce                    kEs                          qu' est-ce que tu veux qu(e)
 2540 regarde on                    R°-gaR d§                     regarde on va faire une étoile
 2540 faire une                     fE Ryn                        on va faire une étoile
 2540 une étoile                    Ry ne-twal                    va faire une étoile !
@@ -1960,8 +1960,8 @@
 2552 il est                        li le                         le sable il est pas assez
 2553 il est                        i le                          il est pas assez mouillé le
 2554 qu' i(l)                      ki                           regarde c(e) qu' i(l) y a
-2555 qu' est                       ke                           qu' est ce qu' i(l) y
-2555 qu' i(l)                      ki                           est ce qu' i(l) y
+2555 qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+2555 qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
 2564 il est                        i le                          il est où le lit ?
 2568 est il                        e til                         ça y est il est au
 2568 il est                        ti let                        y est il est au
@@ -2023,24 +2023,24 @@
 2638 hop hop                       pO pOp                        ça hop hop hop !
 2639 vas y                         va zi                         vas y ronds !
 2644 vas y                         va zi                         vas y !
-2648 qu' est                       ke                           qu' est ce qu' i(l) se
-2648 qu' i(l)                      ki                           est ce qu' i(l) se
-2649 qu' est                       ke                           qu' est ce qu' i(l) se
-2649 qu' i(l)                      ki                           est ce qu' i(l) se
-2650 qu' est                       ke                           qu' est ce qu' i(l) se
-2650 qu' i(l)                      ki                           est ce qu' i(l) se
+2648 qu' est-ce                    kEs                          qu' est-ce qu' i(l) se passe
+2648 qu' i(l)                      ki                           qu' est-ce qu' i(l) se passe
+2649 qu' est-ce                    kEs                          qu' est-ce qu' i(l) se passe
+2649 qu' i(l)                      ki                           qu' est-ce qu' i(l) se passe
+2650 qu' est-ce                    kEs                          qu' est-ce qu' i(l) se passe
+2650 qu' i(l)                      ki                           qu' est-ce qu' i(l) se passe
 2651 c' est                        se                           c' est mouillé ?
 2652 t(u) as                       ta                           t(u) as vu comme c' est
 2652 c' est                        se                           vu comme c' est mouillé
 2653 l' eau                        lo                           a d(e) l' eau .
 2658 l' eau                        lo                           a d(e) l' eau .
-2659 qu' on                        k§                           est ce qu' on va dehors
+2659 qu' on                        k§                           est-ce qu' on va dehors Pierre
 2659 quand il                      k@ til                        dehors Pierre quand il pleut
 2662 t(u) as                       ta                           t(u) as vu c(e) qu' i(l)
 2662 qu' i(l)                      ki                           vu c(e) qu' i(l) pleut
 2670 comme il                      kO mil                        alors comme il pleut , qu'
-2670 qu' est                       ke                           pleut , qu' est ce
-2670 qu' on                        k§                           est ce qu' on fait
+2670 qu' est-ce                    kEs                          pleut , qu' est-ce qu'
+2670 qu' on                        k§                           qu' est-ce qu' on fait
 2673 qu' est                       ke                           qu' est ce tu veux regarder
 2674 qu' est                       ke                           qu' est ce tu veux ?
 2675 l' ouvre                      luvR                         qu(e) je l' ouvre ?
@@ -2091,22 +2091,22 @@
 2739 quand on                      k@ t§                         on fait quand on frappe
 2739 frappe à                      fRa pa                        quand on frappe à la
 2741 montre à                      m§t Ra                        montre à maman !
-2743 qu' est                       ke                           qu' est ce qu' i(l) fait
-2743 qu' i(l)                      ki                           est ce qu' i(l) fait
-2744 qu' est                       ke                           qu' est ce qu' i(l) fait
-2744 qu' i(l)                      ki                           est ce qu' i(l) fait
-2745 qu' est                       ke                           qu' est ce qu' i(l) fait
-2745 qu' i(l)                      ki                           est ce qu' i(l) fait
-2746 qu' est                       ke                           qu' est ce qu' i(l) fait
-2746 qu' i(l)                      ki                           est ce qu' i(l) fait
+2743 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait le
+2743 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait le
+2744 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait chéri
+2744 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait chéri
+2745 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait avec
+2745 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait avec
+2746 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait avec
+2746 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait avec
 2747 il a                          i la                          ouais il a mangé les enfants
 2747 les enfants                   le z@-f@                      a mangé les enfants !
-2748 qu' est                       ke                           qu' est ce qu' i(l) fait
-2748 qu' i(l)                      ki                           est ce qu' i(l) fait
-2749 qu' est                       ke                           qu' est ce qu' i(l) fait
-2749 qu' i(l)                      ki                           est ce qu' i(l) fait
-2750 qu' est                       ke                           qu' est ce qu' i(l) fait
-2750 qu' i(l)                      ki                           est ce qu' i(l) fait
+2748 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait le
+2748 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait le
+2749 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait ?
+2749 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait ?
+2750 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait ?
+2750 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait ?
 2755 c' est                        set                          ça c' est une banane .
 2755 est une                       se tyn                        ça c' est une banane .
 2759 c' est                        set                          ça c' est une pastèque ,
@@ -2123,12 +2123,12 @@
 2772 c' est                        se                           c' est du gâteau .
 2774 c' est                        se                           à maman c' est quoi
 2775 c' est                        se                           c' est du .
-2777 qu' est                       ke                           qu' est ce qu' i(l) se
-2777 qu' i(l)                      ki                           est ce qu' i(l) se
+2777 qu' est-ce                    kEs                          qu' est-ce qu' i(l) se passe
+2777 qu' i(l)                      ki                           qu' est-ce qu' i(l) se passe
 2778 bon allez                     bO na-le                      bon allez j(e) t' écoute !
 2778 t' écoute                     te-kut                       allez j(e) t' écoute !
-2779 qu' est                       ke                           alors qu' est ce qu' i(l)
-2779 qu' i(l)                      ki                           est ce qu' i(l) se
+2779 qu' est-ce                    kEs                          alors qu' est-ce qu' i(l) se
+2779 qu' i(l)                      ki                           qu' est-ce qu' i(l) se
 2780 c' est                        se                           c' est quoi ça ?
 2781 c' est                        se                           c' est la petite vache Paulette
 2782 c' est                        se                           maman qui c' est ?
@@ -2155,7 +2155,7 @@
 2819 t(u) as                       ta                           vas y t(u) as la
 2830 elle est                      E le                          elle est là la maison Pierre
 2831 elle est                      E le                          et oh elle est là !
-2832 qu' est                       ke                           qu' est ce que tu fais
+2832 qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 2833 il est                        i let                         il est en d(e)ssous tu crois
 2833 est en                        le t@                         il est en d(e)ssous tu crois
 2835 l' as                         la                           l' as tu trouvé Pierre ?
@@ -2211,18 +2211,18 @@
 2915 elle est                      E le                          elle est jaune .
 2916 c' est                        se                           ça c' est son œil .
 2917 les yeux                      le zj2                        œil , les yeux .
-2919 qu' est                       ke                           allez qu' est ce qu' on
-2919 qu' on                        k§                           est ce qu' on regarde
+2919 qu' est-ce                    kEs                          allez qu' est-ce qu' on regarde
+2919 qu' on                        k§                           qu' est-ce qu' on regarde
 2920 c' est                        set                          c' est un ver de terre
 2920 est un                        se t1                         c' est un ver de terre
 2925 s' appelle                    sa-pEl                       comment ça s' appelle .
-2927 alors et                      a-lO Re                       alors et là qu' est ce
-2927 qu' est                       ke                           et là qu' est ce
-2927 qu' i(l)                      ki                           est ce qu' i(l) y
+2927 alors et                      a-lO Re                       alors et là qu' est-ce qu'
+2927 qu' est-ce                    kEs                          et là qu' est-ce qu'
+2927 qu' i(l)                      ki                           qu' est-ce qu' i(l) y
 2928 c' est                        se                           c' est pas du pain ,
 2928 c' est                        se                           pain , c' est du
-2930 qu' est                       ke                           après qu' est ce qu' i(l)
-2930 qu' i(l)                      ki                           est ce qu' i(l) y
+2930 qu' est-ce                    kEs                          après qu' est-ce qu' i(l) y
+2930 qu' i(l)                      ki                           qu' est-ce qu' i(l) y
 2930 d' autre                      dotR                         y a d' autre ?
 2931 elle a                        E la                          la fille elle a un bobo
 2934 choses encore                 So z@-kOR                     plein d(e) choses encore montre
@@ -2247,11 +2247,11 @@
 2958 c' est                        se                           c' est quoi ça ?
 2959 s' appelle                    sa-pEl                       ça s' appelle comment ?
 2960 c' est                        se                           oui c' est ça une chaise
-2962 qu' est                       ke                           qu' est ce qu' on va
-2962 qu' on                        k§                           est ce qu' on va
+2962 qu' est-ce                    kEs                          qu' est-ce qu' on va dire
+2962 qu' on                        k§                           qu' est-ce qu' on va dire
 2962 dire à                        di Ra                         on va dire à maman
-2965 qu' est                       ke                           qu' est ce qu' on dit
-2965 qu' on                        k§                           est ce qu' on dit
+2965 qu' est-ce                    kEs                          qu' est-ce qu' on dit ?
+2965 qu' on                        k§                           qu' est-ce qu' on dit ?
 2968 c' est                        se                           c' est qui là , c'
 2968 c' est                        se                           là , c' est qui
 2969 c' est                        se                           c' est qui ça ?
@@ -2261,12 +2261,12 @@
 2973 c' est                        se                           c' est fille , p(u)is toi
 2973 c' est                        se                           p(u)is toi c' est qui
 2974 c' est                        se                           p(u)is là c' est qui ?
-2975 qu' est                       ke                           qu' est ce qu' i(l) fait
-2975 qu' i(l)                      ki                           est ce qu' i(l) fait
+2975 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait papa
+2975 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait papa
 2976 filme ouais                   fil mwE                       i(l) filme ouais .
-2981 qu' est                       ke                           p(u)is qu' est ce qu' e(lle)
-2983 qu' est                       ke                           qu' est ce qu' elle fait
-2983 qu' elle                      kEl                          est ce qu' elle fait
+2981 qu' est-ce                    kEs                          p(u)is qu' est-ce qu' e(lle) fait
+2983 qu' est-ce                    kEs                          qu' est-ce qu' elle fait Camille
+2983 qu' elle                      kEl                          qu' est-ce qu' elle fait Camille
 2988 c' est                        se                           c' est rien ?
 2989 c' est                        se                           c(e) que c' est que rien
 2989 c' est                        se                           rien , c' est rien
@@ -2289,8 +2289,8 @@
 3024 l' éponge                     le-p§Z                       va mouiller l' éponge d'
 3024 d' abord                      da-bOR                       l' éponge d' abord ?
 3025 on y                          § ni                          viens on y va tous les
-3026 qu' est                       ke                           qu' est ce qu' on va
-3026 qu' on                        k§                           est ce qu' on va
+3026 qu' est-ce                    kEs                          qu' est-ce qu' on va faire
+3026 qu' on                        k§                           qu' est-ce qu' on va faire
 3030 elle a                        E la                          maman elle a oublié d' en
 3030 d' en                         d@                           a oublié d' en racheter
 3030 une éponge                    y ne-p§Z                      en racheter une éponge .
@@ -2310,31 +2310,31 @@
 3055 c' est                        se                           c' est pour boire ?
 3057 faites à                      fE ta                         doucement vous faites à la tienne
 3057 tienne hein                   tjE n5                        à la tienne hein !
-3058 qu' est                       ke                           qu' est ce que tu r(e)gardes
-3060 qu' est                       ke                           qu' est ce qu' i(l) fait
-3060 qu' i(l)                      ki                           est ce qu' i(l) fait
+3058 qu' est-ce                    kEs                          qu' est-ce que tu r(e)gardes Pierre
+3060 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait le
+3060 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait le
 3061 il est                        i le                          où il est ?
 3062 il est                        i le                          il est où le loup ?
 3064 c' est                        set                          c' est une vache .
 3064 est une                       se tyn                        c' est une vache .
-3065 qu' est                       ke                           ouais qu' est ce qu' il
-3065 qu' il                        kil                          est ce qu' il fait
+3065 qu' est-ce                    kEs                          ouais qu' est-ce qu' il fait
+3065 qu' il                        kil                          qu' est-ce qu' il fait
 3066 il est                        i le                          il est gros .
-3067 qu' est                       ke                           mais qu' est ce qu' i(l)
-3067 qu' i(l)                      ki                           est ce qu' i(l) fait
+3067 qu' est-ce                    kEs                          mais qu' est-ce qu' i(l) fait
+3067 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait
 3068 c' est                        se                           meuh c' est les vaches qui
 3070 c' est                        se                           , (en)fin c' est les
 3073 il a                          i la                          bah il a tout fait tomber
 3073 avoir une                     a-vwa Ryn                     il va avoir une fessée
 3074 avoir une                     a-vwa Ryn                     il va avoir une fessée ?
-3077 qu' est                       ke                           ouais qu' est ce qu' il
-3077 qu' il                        kil                          est ce qu' il a
-3077 il a                          ki la                         ce qu' il a fait
+3077 qu' est-ce                    kEs                          ouais qu' est-ce qu' il a
+3077 qu' il                        kil                          qu' est-ce qu' il a
+3077 il a                          ki la                         est-ce qu' il a fait
 3077 il a                          i la                          lapin , il a renversé
-3079 qu' est                       ke                           qu' est ce qu' i(l) fait
-3079 qu' i(l)                      ki                           est ce qu' i(l) fait
-3081 qu' est                       ke                           ouais qu' est ce qu' il
-3081 qu' il                        kil                          est ce qu' il fait
+3079 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait ?
+3079 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait ?
+3081 qu' est-ce                    kEs                          ouais qu' est-ce qu' il fait
+3081 qu' il                        kil                          qu' est-ce qu' il fait
 3083 comme un                      kO m1                         il mange comme un cochon .
 3084 comme un                      kO m1                         il mange comme un cochon .
 3085 comme un                      kO m1                         i(l) mange comme un cochon .
@@ -2406,8 +2406,8 @@
 3185 c' est                        se                           ouais c' est pour attraper les
 3185 pour attraper                 pu Ra-tRa-pe                  c' est pour attraper les
 3189 t(u) aimes                    tEm                          t(u) aimes bien prendre ton bain
-3190 qu' est                       ke                           qu' est ce qu' i(l) y
-3190 qu' i(l)                      ki                           est ce qu' i(l) y
+3190 qu' est-ce                    kEs                          qu' est-ce qu' i(l) y a
+3190 qu' i(l)                      ki                           qu' est-ce qu' i(l) y a
 3191 t(u) as                       ta                           t(u) as mal à ton oreille
 3191 mal à                         ma la                         t(u) as mal à ton oreille
 3191 ton oreille                   t§ no-REj                     mal à ton oreille ?

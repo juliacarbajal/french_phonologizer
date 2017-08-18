@@ -1,7 +1,7 @@
-1    qu' est                       ke                           Marie , qu' est ce
+1    qu' est-ce                    kEs                          Marie , qu' est-ce que
 8    alors on                      a-lO R§                       alors on met .
-10   qu' est                       ke                           qu' est ce que tu veux
-12   qu' est                       ke                           qu' est ce que tu veux
+10   qu' est-ce                    kEs                          qu' est-ce que tu veux faire
+12   qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 15   c' est                        se                           c' est toi qui te couches
 15   couches alors                 ku Sa-lOR                     qui te couches alors ,
 21   c' est                        se                           c' est lequel c(el)ui là ?
@@ -38,9 +38,9 @@
 59   d' accord                     da-kOR                       d' accord ?
 62   c' était                      se-tE                        c' était dans l' autre sens
 62   l' autre                      lot                          était dans l' autre sens
-64   qu' est                       ke                           et qu' est ce qu' il
-64   qu' il                        kil                          est ce qu' il y
-64   il y                          ki li                         ce qu' il y a
+64   qu' est-ce                    kEs                          et qu' est-ce qu' il y
+64   qu' il                        kil                          qu' est-ce qu' il y
+64   il y                          ki li                         est-ce qu' il y a
 65   d' autre                      dotR                         puis quoi d' autre ?
 66   c' est                        set                          c' est une dame .
 66   est une                       se tyn                        c' est une dame .
@@ -57,15 +57,15 @@
 84   il est                        i le                          pas où il est dessiné
 85   il y                          i li                          là il y avait un poisson
 86   l' autre                      lot                          puis de l' autre côté
-86   qu' est                       ke                           côté , qu' est ce
-86   qu' il                        kil                          est ce qu' il y
-86   il y                          ki li                         ce qu' il y avait
+86   qu' est-ce                    kEs                          côté , qu' est-ce qu'
+86   qu' il                        kil                          qu' est-ce qu' il y
+86   il y                          ki li                         est-ce qu' il y avait
 87   il y                          i li                          oui , il y avait le
 89   qu' ils                       kil                          je crois qu' ils sont là
 90   les a                         le za                         tu les a mis dans la
 90   boîte hier                    bwa tjER                      dans la boîte hier .
 91   qu' on                        k§                           tout ce qu' on met dans
-98   qu' est                       ke                           qu' est ce que tu veux
+98   qu' est-ce                    kEs                          qu' est-ce que tu veux qu'
 98   qu' on                        k§                           tu veux qu' on dessine
 99   dessine un                    de-si n1                      je te dessine un petit
 101  dessine un                    de-si n1                      je te dessine un petit
@@ -89,14 +89,14 @@
 142  il y                          i li                          il y en a encore ?
 142  en a                          @ na                          il y en a encore ?
 143  d' autres                     dotR                         encore d' autres ?
-144  qu' est                       ke                           qu' est ce qui te reste
+144  qu' est-ce                    kEs                          qu' est-ce qui te reste ?
 145  il y                          i li                          oh il y a le chien
 148  d' accord                     da-kOR                       d' accord .
 149  t(u) as                       ta                           t(u) as de la place ?
 151  pousse un                     pu s1                         je me pousse un peu .
-157  qu' est                       ke                           qu' est ce que tu veux
+157  qu' est-ce                    kEs                          qu' est-ce que tu veux encore
 161  un autre                      1 not                         hm un autre petit lapin ?
-163  qu' est                       ke                           qu' est ce que tu veux
+163  qu' est-ce                    kEs                          qu' est-ce que tu veux encore
 168  t' es                         tE                           tu t' es fait bobo ?
 171  d' accord                     da-kOR                       d' accord .
 172  d' accord                     da-kOR                       d' accord .
@@ -117,17 +117,17 @@
 207  est allée                     le ta-le                      où elle est allée la
 208  elle est                      E let                         elle est ici .
 208  est ici                       le ti-si                      elle est ici .
-213  qu' est                       ke                           qu' est ce que tu dis
-214  qu' est                       ke                           qu' est ce que tu dis
+213  qu' est-ce                    kEs                          qu' est-ce que tu dis ?
+214  qu' est-ce                    kEs                          qu' est-ce que tu dis ?
 216  parles il                     paR lil                       quand tu parles il faut l'
 216  l' enlever                    l@l-ve                       il faut l' enlever ,
-224  qu' est                       ke                           qu' est ce qu' il y
-224  qu' il                        kil                          est ce qu' il y
-224  il y                          ki li                         ce qu' il y a
+224  qu' est-ce                    kEs                          qu' est-ce qu' il y a
+224  qu' il                        kil                          qu' est-ce qu' il y a
+224  il y                          ki li                         est-ce qu' il y a
 225  nounours et                   nu-nuR se                     des nounours et puis il y
 225  il y                          i li                          et puis il y a
 225  d' autre                      dotR                         a quoi d' autre ?
-226  qu' est                       ke                           qu' est ce que tu veux
+226  qu' est-ce                    kEs                          qu' est-ce que tu veux mettre
 228  guignol aussi                 gi-NO lo-si                   ton guignol aussi .
 229  montre aussi                  m§t Ro-si                     la montre aussi .
 237  on est                        § ne                          oui , on est tous les
@@ -185,8 +185,8 @@
 331  d' accord                     da-kOR                       d' accord .
 332  qu' on                        k§n                          une fois qu' on est
 332  on est                        k§ ne                         fois qu' on est couché
-333  qu' est                       ke                           qu' est ce qu' on fait
-333  qu' on                        k§                           est ce qu' on fait
+333  qu' est-ce                    kEs                          qu' est-ce qu' on fait ?
+333  qu' on                        k§                           qu' est-ce qu' on fait ?
 334  elle est                      E le                          ta poupée elle est couchée ,
 336  on est                        § ne                          on est tous couchés .
 337  on est                        § ne                          on est tous couchés .
@@ -273,7 +273,7 @@
 477  pars en                       pa R@                         si tu pars en courant
 479  d' accord                     da-kOR                       d' accord , il est fermé
 479  il est                        i le                          accord , il est fermé
-480  qu' est                       ke                           qu' est ce que tu fais
+480  qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 484  c' est                        se                           c' est pas très solide ,
 486  c' est                        se                           c' est moi qui mets .
 488  c' est                        set                          c' est un peu particulier .
@@ -326,7 +326,7 @@
 585  t' aide                       tEd                          je t' aide .
 589  t' as                         ta                           t' as dit à maman ce
 589  t' as                         ta                           ce que t' as fais
-590  qu' est                       ke                           qu' est ce que tu as
+590  qu' est-ce                    kEs                          qu' est-ce que tu as fait
 591  t' es                         tE                           ouais , t' es allée aux
 592  t' es                         tE                           t' es sortie , Marie ,
 593  t' es                         tE                           t' es allée où ?
@@ -402,10 +402,10 @@
 810  l' as                         la                           quand tu l' as .
 815  c' est                        se                           c' est mieux ?
 818  l' enlever                    l@l-ve                       on va l' enlever un petit
-823  qu' est                       ke                           p(u)is qu' est ce qu' elle
-823  qu' elle                      kEl                          est ce qu' elle veut
-824  qu' est                       ke                           qu' est ce qu' on fait
-824  qu' on                        k§                           est ce qu' on fait
+823  qu' est-ce                    kEs                          p(u)is qu' est-ce qu' elle veut
+823  qu' elle                      kEl                          qu' est-ce qu' elle veut
+824  qu' est-ce                    kEs                          qu' est-ce qu' on fait ?
+824  qu' on                        k§                           qu' est-ce qu' on fait ?
 829  lequel alors                  l°-kE la-lOR                  mais lequel alors ?
 830  l' amène                      la-mEn                       que je l' amène .
 835  c' est                        se                           c' est bien .
@@ -413,29 +413,29 @@
 838  est allé                      le ta-le                      papa il est allé mettre quelque
 838  chose à                       So za                         mettre quelque chose à la
 839  il est                        i le                          il est là .
-842  qu' est                       ke                           qu' est ce qu' il y
-842  qu' il                        kil                          est ce qu' il y
-842  il y                          ki li                         ce qu' il y a
+842  qu' est-ce                    kEs                          qu' est-ce qu' il y a
+842  qu' il                        kil                          qu' est-ce qu' il y a
+842  il y                          ki li                         est-ce qu' il y a
 846  c' est                        se                           c' est pas comme ça qu'
 846  qu' on                        k§                           comme ça qu' on tourne
 849  elle est                      E le                          , mais elle est dans
 850  t' apporter                   ta-pOR-te                    je vais t' apporter un biberon
 851  boire au                      bwa Ro                        tu veux boire au verre ?
-852  qu' est                       ke                           qu' est ce qu' il y
-852  qu' il                        kil                          est ce qu' il y
-852  il y                          ki li                         ce qu' il y a
-854  qu' est                       ke                           qu' est ce que tu cherches
+852  qu' est-ce                    kEs                          qu' est-ce qu' il y a
+852  qu' il                        kil                          qu' est-ce qu' il y a
+852  il y                          ki li                         est-ce qu' il y a
+854  qu' est-ce                    kEs                          qu' est-ce que tu cherches ?
 857  comme il                      kO mil                        tu tournes comme il faut les
 857  c' est                        se                           , sinon c' est .
 865  c' est                        se                           c' est gémir .
 867  c' est                        se                           parce que c' est froid ?
 873  on ira                        § ni-Ra                       on ira le mettre au lit
 873  mettre au                     mEt Ro                        ira le mettre au lit
-875  qu' est                       ke                           qu' est ce que tu veux
-882  qu' est                       ke                           qu' est ce qu' ils boivent
-882  qu' ils                       kil                          est ce qu' ils boivent
-884  qu' est                       ke                           qu' est ce qu' ils boivent
-884  qu' ils                       kil                          est ce qu' ils boivent
+875  qu' est-ce                    kEs                          qu' est-ce que tu veux faire
+882  qu' est-ce                    kEs                          qu' est-ce qu' ils boivent les
+882  qu' ils                       kil                          qu' est-ce qu' ils boivent les
+884  qu' est-ce                    kEs                          qu' est-ce qu' ils boivent les
+884  qu' ils                       kil                          qu' est-ce qu' ils boivent les
 886  c' est                        se                           , ça c' est pas
 887  c' est                        se                           ça c' est pour les petits
 892  t' as                         ta                           t' as mal au ventre ?
@@ -447,8 +447,8 @@
 911  reste ici                     REs ti-si                     on reste ici .
 912  faire autre                   fE Rot                        on va faire autre chose ici
 912  chose ici                     So zi-si                      faire autre chose ici ,
-913  qu' est                       ke                           qu' est ce qu' on pourrait
-913  qu' on                        k§                           est ce qu' on pourrait
+913  qu' est-ce                    kEs                          qu' est-ce qu' on pourrait faire
+913  qu' on                        k§                           qu' est-ce qu' on pourrait faire
 921  il est                        i le                          il est où le papier ?
 922  l' armoire                    laR-mwaR                     dans l' armoire ?
 923  c' est                        se                           c' est pas l' armoire ,
@@ -519,7 +519,7 @@
 1070 faire une                     fE Ryn                        on pourrait faire une étable .
 1070 une étable                    Ry ne-tabl                    pourrait faire une étable .
 1071 une étable                    y ne-tab                      une étable pour mettre les vaches
-1072 qu' est                       ke                           qu' est ce qui est cassé
+1072 qu' est-ce                    kEs                          qu' est-ce qui est cassé ?
 1073 laisse une                    lE syn                        , on laisse une entrée
 1073 une entrée                    sy n@-tRe                     on laisse une entrée là
 1074 d' accord                     da-kOR                       d' accord ?
@@ -531,21 +531,21 @@
 1094 les autres                    le zot                        avec les autres legos on peut
 1095 les autres                    le zotR                       avec les autres , des legos
 1107 t(u) as                       ta                           t(u) as tout rangé .
-1110 qu' est                       ke                           qu' est ce que t(u) as
-1110 t(u) as                       ta                           ce que t(u) as donné
+1110 qu' est-ce                    kEs                          qu' est-ce que t(u) as donné
+1110 t(u) as                       ta                           est-ce que t(u) as donné
 1112 c' est                        se                           c' est bien .
 1113 c' est                        se                           c' est gentil .
 1115 mettre un                     mEt R1                        peux le mettre un peu
 1119 alors attends                 a-lO Ra-t@                    alors attends !
 1127 les autres                    le zotR                       on prend les autres .
-1133 qu' est                       ke                           qu' est ce qu' il fait
-1133 qu' il                        kil                          est ce qu' il fait
+1133 qu' est-ce                    kEs                          qu' est-ce qu' il fait d'
+1133 qu' il                        kil                          qu' est-ce qu' il fait d'
 1133 d' autre                      dot                          il fait d' autre le
-1134 qu' est                       ke                           qu' est ce qu' il fait
-1134 qu' il                        kil                          est ce qu' il fait
+1134 qu' est-ce                    kEs                          qu' est-ce qu' il fait d'
+1134 qu' il                        kil                          qu' est-ce qu' il fait d'
 1134 d' autre                      dot                          il fait d' autre le
-1136 qu' est                       ke                           qu' est ce que c' est
-1136 c' est                        se                           ce que c' est ça
+1136 qu' est-ce                    kEs                          qu' est-ce que c' est ça
+1136 c' est                        se                           est-ce que c' est ça
 1139 les yeux                      le zj2                        * les yeux ouverts , oui
 1140 il a                          i la                          il a peut-être pas envie de
 1152 l' autre                      lot                          voilà , l' autre jambe .
@@ -564,14 +564,14 @@
 1172 l' heure                      l9R                          tout à l' heure Marie
 1173 il a                          i la                          Louis , il a pas
 1173 très envie                    tRE z@-vi                     a pas très envie .
-1177 qu' est                       ke                           alors , qu' est ce qu'
-1177 qu' il                        kil                          est ce qu' il y
-1177 il y                          ki li                         ce qu' il y a
+1177 qu' est-ce                    kEs                          alors , qu' est-ce qu' il
+1177 qu' il                        kil                          qu' est-ce qu' il y
+1177 il y                          ki li                         est-ce qu' il y a
 1178 un autre                      1 not                         veux regarder un autre livre
 1178 livre ou                      liv Ru                        un autre livre ou tu
 1178 faire autre                   fE Rot                        tu veux faire autre chose
 1180 d' orange                     do-R@Z                       ton jus d' orange ,
-1183 qu' est                       ke                           qu' est ce que tu aimerais
+1183 qu' est-ce                    kEs                          qu' est-ce que tu aimerais faire
 1184 faire un                      fE R1                         tu veux faire un puzzle ?
 1193 encore un                     @-kO R1n                      encore un autre ?
 1193 un autre                      R1 notR                       encore un autre ?
@@ -584,46 +584,46 @@
 1208 il est                        i let                         il est avec maman .
 1208 est avec                      le ta-vEk                     il est avec maman .
 1216 c' est                        se                           , ça c' est Marie
-1217 qu' est                       ke                           qu' est ce que tu as
-1218 qu' est                       ke                           qu' est ce que tu as
+1217 qu' est-ce                    kEs                          qu' est-ce que tu as ,
+1218 qu' est-ce                    kEs                          qu' est-ce que tu as ,
 1222 mettre une                    mEt Ryn                       tu veux mettre une pièce du
 1229 il y                          i li                          et là il y a les
 1232 encore en                     @-kO R@                       tu veux encore en mettre d'
 1232 d' autres                     dotR                         en mettre d' autres ?
 1238 c' est                        se                           sais que c' est ta
 1239 l' enlèves                    l@-lEv                       tu l' enlèves du chemin .
-1240 qu' est                       ke                           qu' est ce qui est un
-1240 est un                        e t1                          ce qui est un peu
-1241 qu' est                       ke                           qu' est ce qui est cassé
+1240 qu' est-ce                    kEs                          qu' est-ce qui est un peu
+1240 est un                        e t1                          est-ce qui est un peu
+1241 qu' est-ce                    kEs                          qu' est-ce qui est cassé sur
 1242 t' es                         tE                           tu t' es fait mal au
 1242 mal au                        ma lo                         es fait mal au doigt
 1245 t(u) es                       tE                           t(u) es un peu trop au
 1245 trop au                       tRo po                        un peu trop au bord
 1247 c' est                        se                           comme ça c' est mieux .
 1248 bien au                       bj5 no                        tu es bien au milieu
-1251 qu' est                       ke                           qu' est ce que tu as
-1252 qu' est                       ke                           qu' est ce que tu as
+1251 qu' est-ce                    kEs                          qu' est-ce que tu as mangé
+1252 qu' est-ce                    kEs                          qu' est-ce que tu as mangé
 1253 petit oeuf                    p°-ti t9f                     un petit oeuf ?
 1254 c' était                      se-tE                        c' était bon ?
 1256 t' as                         ta                           t' as mangé un petit bout
 1257 t(u) as                       ta                           mais t(u) as pas mangé que
 1258 qu' est                       ke                           qu' est ce t' as mangé
 1258 t' as                         ta                           est ce t' as mangé
-1259 qu' est                       ke                           qu' est ce qu' elle t'
-1259 qu' elle                      kEl                          est ce qu' elle t'
+1259 qu' est-ce                    kEs                          qu' est-ce qu' elle t' a
+1259 qu' elle                      kEl                          qu' est-ce qu' elle t' a
 1259 t' a                          ta                           qu' elle t' a donné
 1261 t(u) as                       ta                           t(u) as mangé de la viande
 1262 t(u) as                       ta                           t(u) as mangé du fromage ?
 1263 t(u) as                       ta                           t(u) as mangé un yaourt ?
-1265 qu' est                       ke                           qu' est ce que t(u) as
-1265 t(u) as                       ta                           ce que t(u) as mangé
+1265 qu' est-ce                    kEs                          qu' est-ce que t(u) as mangé
+1265 t(u) as                       ta                           est-ce que t(u) as mangé
 1266 c' est                        se                           ben , c' est pas
 1266 qu' il                        kil                          à moi qu' il faut
 1267 t(u) as                       ta                           ce que t(u) as mangé
 1268 d' accord                     da-kOR                       d' accord .
-1269 qu' est                       ke                           qu' est ce qu' il y
-1269 qu' il                        kil                          est ce qu' il y
-1269 il y                          ki li                         ce qu' il y a
+1269 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+1269 qu' il                        kil                          qu' est-ce qu' il y a
+1269 il y                          ki li                         est-ce qu' il y a
 1271 il y                          i li                          il y a un petit nounours
 1272 mettre une                    mEt Ryn                       tu veux mettre une pièce du
 1276 n' y                          ni                           mais il n' y a
@@ -639,14 +639,14 @@
 1292 mettre après                  mEt Ra-pRE                    on peut mettre après ?
 1293 c' est                        se                           * , c' est trop
 1298 c' est                        se                           c' est pas grave .
-1304 qu' est                       ke                           qu' est ce que tu as
+1304 qu' est-ce                    kEs                          qu' est-ce que tu as là
 1307 il est                        i le                          ah , il est où le
 1310 c' est                        se                           c' est Marie qui le met
 1311 qu' on                        k§                           il faut qu' on mette
 1311 d' autres                     dot                          on mette d' autres pièces
 1311 pièces avant                  pjE sa-v@                     d' autres pièces avant de
-1331 qu' est                       ke                           qu' est ce qu' y a
-1331 qu' y                         ki                           est ce qu' y a
+1331 qu' est-ce                    kEs                          qu' est-ce qu' y a là
+1331 qu' y                         ki                           qu' est-ce qu' y a là
 1341 qu' on                        k§                           peu parce qu' on pourra
 1342 il y                          i li                          là il y a plus de
 1344 tout en                       tu t@                         parce que tout en haut
@@ -678,7 +678,7 @@
 1378 c' est                        se                           oui , c' est juste ,
 1379 c' est                        se                           c' est juste .
 1381 c' est                        se                           c' est bien .
-1382 qu' est                       ke                           alors qu' est ce que je
+1382 qu' est-ce                    kEs                          alors qu' est-ce que je prends
 1385 rajoute une                   Ra-Zu tyn                     que je rajoute une pièce
 1385 d' abord                      da-bOR                       une pièce d' abord .
 1392 alors il                      a-lO Ril                      là , alors il reste il
@@ -695,9 +695,9 @@
 1419 c' est                        se                           c' est difficile , ça ?
 1420 c' est                        se                           c' est maman qui le fait
 1420 d' habitude                   da-bi-tyd                    le fait d' habitude ?
-1422 qu' est                       ke                           qu' est ce qu' on fait
-1422 qu' on                        k§                           est ce qu' on fait
-1423 qu' est                       ke                           qu' est ce que tu veux
+1422 qu' est-ce                    kEs                          qu' est-ce qu' on fait ?
+1422 qu' on                        k§                           qu' est-ce qu' on fait ?
+1423 qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 1425 vas y                         va zi                         alors vas y !
 1426 c' est                        se                           c' est pas trop lourd ?
 1428 faire une                     fE Ryn                        tu veux faire une maison ?
@@ -707,7 +707,7 @@
 1452 d' accord                     da-kOR                       d' accord .
 1469 prendre aussi                 pR@d Ro-si                    peux le prendre aussi si
 1472 c' est                        se                           c' est fatiguant ?
-1473 qu' est                       ke                           qu' est ce qui est fatiguant
+1473 qu' est-ce                    kEs                          qu' est-ce qui est fatiguant ?
 1475 c' est                        se                           c' est Marie qui est fatiguant
 1476 t(u) as                       ta                           t(u) as bobo à ton pouce
 1479 l' autre                      lotR                         tu prends l' autre * ?
@@ -716,35 +716,35 @@
 1483 t(u) es                       tE                           t(u) es pas fatiguée ?
 1485 il y                          i li                          il y a assez de lumière
 1488 elle est                      E le                          non , elle est déjà éteinte
-1492 qu' est                       ke                           qu' est ce qu' il y
-1492 qu' il                        kil                          est ce qu' il y
-1492 il y                          ki li                         ce qu' il y a
-1493 qu' est                       ke                           qu' est ce qu' il y
-1493 qu' il                        kil                          est ce qu' il y
-1493 il y                          ki li                         ce qu' il y a
-1495 qu' est                       ke                           qu' est ce que c' est
-1495 c' est                        se                           ce que c' est ça
-1496 qu' est                       ke                           qu' est ce que c' est
-1496 c' est                        se                           ce que c' est ça
+1492 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+1492 qu' il                        kil                          qu' est-ce qu' il y a
+1492 il y                          ki li                         est-ce qu' il y a
+1493 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+1493 qu' il                        kil                          qu' est-ce qu' il y a
+1493 il y                          ki li                         est-ce qu' il y a
+1495 qu' est-ce                    kEs                          qu' est-ce que c' est ça
+1495 c' est                        se                           est-ce que c' est ça
+1496 qu' est-ce                    kEs                          qu' est-ce que c' est ça
+1496 c' est                        se                           est-ce que c' est ça
 1497 c' est                        set                          c' est une petite bouche ?
 1497 est une                       se tyn                        c' est une petite bouche ?
 1498 c' est                        se                           c' est la petite bouche qui
-1502 qu' est                       ke                           là , qu' est ce
-1502 qu' il                        kil                          est ce qu' il y
-1502 il y                          ki li                         ce qu' il y a
+1502 qu' est-ce                    kEs                          là , qu' est-ce qu'
+1502 qu' il                        kil                          qu' est-ce qu' il y
+1502 il y                          ki li                         est-ce qu' il y a
 1503 il y                          i li                          oui , il y a
 1503 petit ours                    p°-ti tuRs                    a un petit ours .
 1504 petit ours                    p°-ti tuRs                    petit ours qui mange .
-1506 qu' est                       ke                           qu' est ce qu' il va
-1506 qu' il                        kil                          est ce qu' il va
+1506 qu' est-ce                    kEs                          qu' est-ce qu' il va manger
+1506 qu' il                        kil                          qu' est-ce qu' il va manger
 1506 petit ours                    p°-ti tuRs                    , le petit ours ?
 1511 il est                        i le                          il est quoi ?
 1513 c' est                        se                           c' est vrai oui .
-1514 qu' est                       ke                           là , qu' est ce
-1514 qu' il                        kil                          est ce qu' il fait
-1517 qu' est                       ke                           qu' est ce qu' il est
-1517 qu' il                        kil                          est ce qu' il est
-1517 il est                        ki let                        ce qu' il est en
+1514 qu' est-ce                    kEs                          là , qu' est-ce qu'
+1514 qu' il                        kil                          qu' est-ce qu' il fait
+1517 qu' est-ce                    kEs                          qu' est-ce qu' il est en
+1517 qu' il                        kil                          qu' est-ce qu' il est en
+1517 il est                        ki let                        est-ce qu' il est en
 1517 est en                        le t@                         qu' il est en train
 1517 petit ours                    p°-ti tuRs                    faire le petit ours là
 1521 il est                        i let                         il est en train de s'
@@ -768,10 +768,10 @@
 1530 image où                      li-ma Zu                      cherches l' image où ils
 1531 c' est                        se                           c' est là .
 1533 l' image                      li-maZ                       de * l' image .
-1535 qu' est                       ke                           qu' est ce qu' il y
-1535 qu' il                        kil                          est ce qu' il y
-1535 il y                          ki li                         ce qu' il y a
-1537 qu' est                       ke                           qu' est ce que tu vois
+1535 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+1535 qu' il                        kil                          qu' est-ce qu' il y a
+1535 il y                          ki li                         est-ce qu' il y a
+1537 qu' est-ce                    kEs                          qu' est-ce que tu vois ?
 1540 une image                     y ni-maZ                      bien chercher une image où
 1540 image où                      ni-ma Zu                      chercher une image où ils
 1542 c' est                        se                           c' est fini ?
@@ -800,7 +800,7 @@
 1586 j' ai                         ZE                           pas toucher j' ai dit .
 1596 elle a                        E la                          , maman elle a faim
 1597 donnes à                      dO na                         tu lui donnes à manger ?
-1598 qu' est                       ke                           qu' est ce qu' (il) y
+1598 qu' est-ce                    kEs                          qu' est-ce qu' (il) y a
 1599 fraises et                    fRE ze                        plus de fraises et de
 1600 j' aimerais                   ZEm-RE                       * j' aimerais autre chose .
 1601 donnes autre                  dO not                        tu me donnes autre chose ?
@@ -826,7 +826,7 @@
 1670 j' ai                         ZE                           j' ai trouvé .
 1682 bord y                        bO Ri                         que le bord y soit là
 1684 qu' i(l)                      ki                           je crois qu' i(l) va
-1688 c' est                        se                           ce que c' est ça
+1688 c' est                        se                           est-ce que c' est ça ?
 1691 c' est                        se                           si c' est ça ?
 1692 c' est                        se                           bien si c' est pas
 1699 c' est                        se                           c' est juste ?
@@ -839,19 +839,19 @@
 1713 tour il                       tu Ril                        le tour il est fini .
 1713 il est                        Ri le                         le tour il est fini .
 1725 n' a                          na                           Marie on n' a pas
-1729 qu' il                        kil                          est ce qu' il peut
+1729 qu' il                        kil                          où est-ce qu' il peut bien
 1729 bien aller                    bj5 na-le                     il peut bien aller ?
-1737 qu' est                       ke                           qu' est ce que t' as
-1737 t' as                         ta                           ce que t' as mis
+1737 qu' est-ce                    kEs                          qu' est-ce que t' as mis
+1737 t' as                         ta                           est-ce que t' as mis
 1751 t' as                         ta                           t' as mal au dos ?
 1751 mal au                        ma lo                         t' as mal au dos ?
 1753 j' ai                         ZE                           j' ai presque fini hein ?
-1757 qu' est                       ke                           qu' est ce qu' i(l) manque
-1757 qu' i(l)                      ki                           est ce qu' i(l) manque
-1765 qu' est                       ke                           qu' est ce qu' on fait
-1765 qu' on                        k§                           est ce qu' on fait
-1766 qu' est                       ke                           qu' est ce qu' on fait
-1766 qu' on                        k§                           est ce qu' on fait
+1757 qu' est-ce                    kEs                          qu' est-ce qu' i(l) manque ?
+1757 qu' i(l)                      ki                           qu' est-ce qu' i(l) manque ?
+1765 qu' est-ce                    kEs                          qu' est-ce qu' on fait maintenant
+1765 qu' on                        k§                           qu' est-ce qu' on fait maintenant
+1766 qu' est-ce                    kEs                          qu' est-ce qu' on fait maintenant
+1766 qu' on                        k§                           qu' est-ce qu' on fait maintenant
 1768 il est                        i le                          il est beau hein ?
 1772 t' as                         ta                           t' as vu nounours ?
 1773 dort avec                     dO Ra-vEk                     il dort avec son chapeau sur
@@ -859,10 +859,10 @@
 1777 alors on                      a-lO R§                       alors on remet ça dans la
 1778 m' aides                      mEd                          tu m' aides ?
 1781 d' accord                     da-kOR                       bon d' accord .
-1784 qu' est                       ke                           qu' est ce que tu veux
+1784 qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 1796 t' es                         tE                           t' es bien comme ça ?
 1797 t' as                         ta                           t' as une drôle de position
-1813 qu' est                       ke                           qu' est ce que tu cherches
+1813 qu' est-ce                    kEs                          qu' est-ce que tu cherches ?
 1815 c' est                        se                           c' est quoi ça ?
 1817 l' autre                      lotR                         où l' autre ?
 1818 l' autre                      lotR                         souviens de l' autre ?
@@ -902,8 +902,8 @@
 1870 c' est                        se                           ça c' est pour Noël .
 1872 l' arbre                      laRb                         y a l' arbre qui
 1872 boules et                     bu le                         a les boules et puis
-1877 qu' est                       ke                           qu' est ce qu' y a
-1877 qu' y                         ki                           est ce qu' y a
+1877 qu' est-ce                    kEs                          qu' est-ce qu' y a là
+1877 qu' y                         ki                           qu' est-ce qu' y a là
 1880 c' est                        set                          c' est une image .
 1880 est une                       se tyn                        c' est une image .
 1880 une image                     ty ni-maZ                     c' est une image .
@@ -929,8 +929,8 @@
 1912 t' as                         ta                           t' as vu ?
 1913 il est                        i le                          oh , il est long .
 1914 choses avec                   So za-vEk                     plein de choses avec son
-1915 qu' est                       ke                           qu' est ce qu' i(l) fait
-1915 qu' i(l)                      ki                           est ce qu' i(l) fait
+1915 qu' est-ce                    kEs                          qu' est-ce qu' i(l) fait là
+1915 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait là
 1916 dessine oui                   de-si nwi                     il dessine oui .
 1917 il écrit                      i le-kRi                      ou il écrit .
 1918 il a                          i la                          tu vois il a un nez
@@ -961,7 +961,7 @@
 1972 l' eau                        lo                           mamie sur l' eau .
 1973 quand il                      k@ til                        quand il fait de grosses vagues
 1973 l' eau                        lo                           , dans l' eau .
-1982 qu' est                       ke                           qu' est ce que tu veux
+1982 qu' est-ce                    kEs                          qu' est-ce que tu veux d'
 1982 d' autre                      dotR                         tu veux d' autre ?
 1997 c' est                        set                          oui c' est une couleur .
 1997 est une                       se tyn                        oui c' est une couleur .
@@ -1046,19 +1046,19 @@
 2205 il y                          i li                          il y a rien à faire
 2210 chose il                      So zil                        veux quelque chose il faut
 2211 c' est                        se                           ben , c' est toi qui
-2212 qu' est                       ke                           qu' est ce qu' on dit
-2212 qu' on                        k§                           est ce qu' on dit
+2212 qu' est-ce                    kEs                          qu' est-ce qu' on dit ?
+2212 qu' on                        k§                           qu' est-ce qu' on dit ?
 2214 alors on                      a-lO R§                       alors on fait autre chose .
 2217 c' est                        set                          oui c' est à toi .
 2217 est à                         se ta                         oui c' est à toi .
-2220 qu' est                       ke                           qu' est ce qu' on fait
-2220 qu' on                        k§                           est ce qu' on fait
+2220 qu' est-ce                    kEs                          qu' est-ce qu' on fait là
+2220 qu' on                        k§                           qu' est-ce qu' on fait là
 2221 faire un                      fE R1                         tu peux faire un chien
 2223 il y                          i li                          il y a tout ça .
-2224 qu' est                       ke                           qu' est ce qu' on fait
-2224 qu' on                        k§                           est ce qu' on fait
-2225 qu' est                       ke                           qu' est ce qu' on fait
-2225 qu' on                        k§                           est ce qu' on fait
+2224 qu' est-ce                    kEs                          qu' est-ce qu' on fait Marie
+2224 qu' on                        k§                           qu' est-ce qu' on fait Marie
+2225 qu' est-ce                    kEs                          qu' est-ce qu' on fait ?
+2225 qu' on                        k§                           qu' est-ce qu' on fait ?
 2229 m' aides                      mEd                          tu m' aides ?
 2230 m' aides                      mEd                          tu m' aides à chercher ?
 2230 aides à                       mE da                         tu m' aides à chercher ?
@@ -1131,14 +1131,14 @@
 2390 j' aimerais                   ZEm-RE                       mais j' aimerais bien la souris
 2396 t' as                         ta                           t' as fini la sieste ?
 2399 c' est                        se                           pour qui c' est fini ?
-2402 qu' est                       ke                           alors , qu' est ce qu'
-2402 qu' il                        kil                          est ce qu' il fait
+2402 qu' est-ce                    kEs                          alors , qu' est-ce qu' il
+2402 qu' il                        kil                          qu' est-ce qu' il fait
 2403 il est                        i le                          il est sur la glace ouais
 2403 glace ouais                   gla swE                       sur la glace ouais .
 2404 c' est                        se                           ouais c' est Panpan qui tape
 2404 tape avec                     ta pa-vEk                     Panpan qui tape avec le
-2406 qu' est                       ke                           qu' est ce qu' il fait
-2406 qu' il                        kil                          est ce qu' il fait
+2406 qu' est-ce                    kEs                          qu' est-ce qu' il fait là
+2406 qu' il                        kil                          qu' est-ce qu' il fait là
 2409 marre elle                    ma REl                        que la marre elle est
 2409 elle est                      RE le                         la marre elle est glacée
 2410 l' hiver                      li-vER                       p(u)isque l' hiver il fait très
@@ -1155,7 +1155,7 @@
 2443 t' as                         ta                           t' as dit que c' était
 2443 c' était                      se-tE                        dit que c' était fini
 2446 regarde un                    R°-gaR d1                     puis on regarde un livre comme
-2447 qu' est                       ke                           qu' est ce que tu t'
+2447 qu' est-ce                    kEs                          qu' est-ce que tu t' es
 2447 t' es                         tE                           que tu t' es fait
 2448 t(u) es                       tE                           t(u) es toute griffée .
 2449 c' est                        se                           ah c' est hier , hein
@@ -1231,14 +1231,14 @@
 2535 on a                          § na                          on a déjà regardé Bambi .
 2537 s' il                         sil                          jettes pas s' il te
 2539 j' ai                         ZE                           j' ai dit quoi ?
-2546 qu' est                       ke                           qu' est ce qu' on fait
-2546 qu' on                        k§                           est ce qu' on fait
+2546 qu' est-ce                    kEs                          qu' est-ce qu' on fait ?
+2546 qu' on                        k§                           qu' est-ce qu' on fait ?
 2551 t' as                         ta                           t' as vu ?
 2552 en a                          @ na                          y en a un qui est
 2553 en a                          @ na                          y en a un par terre
 2558 vas y                         va zi                         alors vas y !
-2560 qu' est                       ke                           qu' est ce qu' on fait
-2560 qu' on                        k§                           est ce qu' on fait
+2560 qu' est-ce                    kEs                          qu' est-ce qu' on fait Marie
+2560 qu' on                        k§                           qu' est-ce qu' on fait Marie
 2564 laisses aussi                 lE so-si                      tu me laisses aussi faire
 2564 faire une                     fE Ryn                        laisses aussi faire une maison
 2565 t' en                         t@                           mais t' en prends d' autres
@@ -1250,22 +1250,22 @@
 2571 les autres                    le zotR                       alors prends les autres !
 2574 regarde alors                 R°-gaR da-lOR                 j(e) te regarde alors .
 2576 t' as                         ta                           t' as fini ta maison Marie
-2577 qu' est                       ke                           qu' est ce qu' il y
-2577 qu' il                        kil                          est ce qu' il y
-2577 il y                          ki li                         ce qu' il y a
+2577 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+2577 qu' il                        kil                          qu' est-ce qu' il y a
+2577 il y                          ki li                         est-ce qu' il y a
 2578 c' est                        se                           c' est bien .
 2579 elle est                      E le                          elle est finie ?
 2580 c' est                        se                           , mais c' est joli
 2582 encore une                    @-kO Ryn                      encore une maison ?
-2584 qu' est                       ke                           qu' est ce que tu veux
+2584 qu' est-ce                    kEs                          qu' est-ce que tu veux que
 2584 fasses au                     fa so                         que je fasses au lit
 2585 elle est                      E le                          elle est toute cassée ?
 2586 c' est                        se                           c' est la maison de Marie
 2594 c' est                        se                           c' est juste .
 2597 mettre un                     mEt R1                        pourrait lui mettre un p(e)tit
-2602 qu' est                       ke                           qu' est ce qu' il y
-2602 qu' il                        kil                          est ce qu' il y
-2602 il y                          ki li                         ce qu' il y a
+2602 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+2602 qu' il                        kil                          qu' est-ce qu' il y a
+2602 il y                          ki li                         est-ce qu' il y a
 2603 elle est                      E le                          elle est pas contente Marie ?
 2611 d' abord                      da-bOR                       le dessus d' abord .
 2613 faire une                     fE Ryn                        on pourrait faire une maison très
@@ -1289,14 +1289,14 @@
 2661 qu' il                        kil                          est ça qu' il faut
 2662 faire une                     fE Ryn                        tu veux faire une maison ?
 2663 mettre où                     mEt Ru                        va l(e) mettre où ?
-2665 qu' est                       ke                           qu' est ce qu' on a
-2665 qu' on                        k§n                          est ce qu' on a
-2665 on a                          k§ na                         ce qu' on a encore
+2665 qu' est-ce                    kEs                          qu' est-ce qu' on a encore
+2665 qu' on                        k§n                          qu' est-ce qu' on a encore
+2665 on a                          k§ na                         est-ce qu' on a encore
 2666 mettre où                     mEt Ru                        i(l) faut mettre où ?
 2673 c' est                        se                           c' est la maison de qui
 2675 mettre où                     mEt Ru                        va le mettre où le
 2676 il est                        i le                          il est où ?
-2689 qu' est                       ke                           qu' est ce que tu veux
+2689 qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 2690 t' es                         tE                           t' es un peu grande Marie
 2692 c' est                        se                           c' est quoi ça , Marie
 2693 c' est                        set                          c' est un bout de la
@@ -1304,18 +1304,18 @@
 2695 elle est                      E let                         ouais , elle est un peu
 2695 est un                        le t1                         , elle est un peu
 2699 pour aller                    pu Ra-le                      trop grand pour aller dedans
-2703 qu' est                       ke                           et qu' est ce que tu
+2703 qu' est-ce                    kEs                          et qu' est-ce que tu fais
 2705 encore une                    @-kO Ryn                      encore une maison ?
-2707 qu' est                       ke                           qu' est ce qu' on met
-2707 qu' on                        k§                           est ce qu' on met
+2707 qu' est-ce                    kEs                          qu' est-ce qu' on met dans
+2707 qu' on                        k§                           qu' est-ce qu' on met dans
 2709 mettre un                     mEt R1                        bébé faut mettre un p(e)tit
 2710 il est                        i le                          il est là le lit .
 2711 c' est                        se                           c' est là la chambre du
 2713 il est                        i le                          pas où il est .
 2715 c' est                        se                           c' est bon .
-2717 qu' est                       ke                           qu' est ce que tu veux
-2718 qu' est                       ke                           qu' est ce qu' on fait
-2718 qu' on                        k§                           est ce qu' on fait
+2717 qu' est-ce                    kEs                          qu' est-ce que tu veux faire
+2718 qu' est-ce                    kEs                          qu' est-ce qu' on fait pitchounet
+2718 qu' on                        k§                           qu' est-ce qu' on fait pitchounet
 2721 c' est                        se                           c' est du sirop ?
 2722 d' accord                     da-kOR                       d' accord .
 2723 c' est                        se                           hm , c' est bon le
@@ -1334,7 +1334,7 @@
 2748 pull avec                     py la-vEk                     le pull avec les fruits .
 2750 faire autre                   fE Rot                        on va faire autre chose .
 2751 faire un                      fE R1                         tu veux faire un puzzle ?
-2753 qu' est                       ke                           qu' est ce que tu veux
+2753 qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 2754 d' accord                     da-kOR                       d' accord .
 2756 t' aider                      te-de                        je vais t' aider à les
 2758 t' aider                      te-de                        je vais t' aider à les
@@ -1357,9 +1357,9 @@
 2778 petits oiseaux                p°-ti zwa-zo                  avec des petits oiseaux .
 2782 c' est                        se                           ça c' est collé * .
 2783 t' as                         ta                           t' as fait un bobo là
-2784 qu' est                       ke                           qu' est ce qui t' es
-2784 t' es                         tE                           ce qui t' es arrivé
-2785 qu' est                       ke                           qu' est ce que tu as
+2784 qu' est-ce                    kEs                          qu' est-ce qui t' es arrivé
+2784 t' es                         tE                           est-ce qui t' es arrivé
+2785 qu' est-ce                    kEs                          qu' est-ce que tu as fait
 2786 t' es                         tE                           tu t' es tapé ?
 2788 c' est                        se                           c' est quand que tu as
 2790 c' est                        set                          c' est aujourd'hui que tu as
@@ -1372,13 +1372,13 @@
 2807 c' est                        se                           c' est notre famille .
 2809 c' est                        se                           c' est notre famille .
 2816 cartes oui                    kaR twi                       avec ces cartes oui .
-2823 qu' est                       ke                           il verra qu' est ce
-2826 qu' est                       ke                           peut voir qu' est ce
+2823 qu' est-ce                    kEs                          il verra qu' est-ce que
+2826 qu' est-ce                    kEs                          peut voir qu' est-ce que
 2829 c' est                        set                          bof , c' est égal .
 2829 est égal                      se te-gal                     , c' est égal .
 2830 m' en                         m@                           tu m' en donnes une ?
 2830 donnes une                    dO nyn                        m' en donnes une ?
-2831 qu' est                       ke                           qu' est ce que tu fais
+2831 qu' est-ce                    kEs                          qu' est-ce que tu fais Marie
 2836 c' est                        se                           ah c' est bien .
 2837 les as                        le za                         tu les as toutes retournées .
 2838 t(u) as                       ta                           t(u) as raison Marie .
@@ -1395,10 +1395,10 @@
 2851 l' autre                      lotR                         côté de l' autre .
 2852 d' accord                     da-kOR                       d' accord ?
 2855 j' ai                         ZE                           oh , j' ai pas vu
-2856 qu' est                       ke                           qu' est ce que c' était
-2856 c' était                      se-tE                        ce que c' était Marie
-2859 qu' est                       ke                           qu' est ce que c' est
-2859 c' est                        se                           ce que c' est ?
+2856 qu' est-ce                    kEs                          qu' est-ce que c' était Marie
+2856 c' était                      se-tE                        est-ce que c' était Marie
+2859 qu' est-ce                    kEs                          qu' est-ce que c' est ?
+2859 c' est                        se                           est-ce que c' est ?
 2860 c' est                        se                           c' est celle du hérisson ?
 2862 regarde y                     R°-gaR di                     regarde y a le hérisson !
 2863 elle était                    E le-tE                       Marie , elle était là
@@ -1409,8 +1409,8 @@
 2867 en a                          l@ na                         elle en a trouvé les deux
 2871 c' est                        se                           c' est gagné Marie .
 2874 c' est                        se                           tu vois c' est ça le
-2877 qu' est                       ke                           peux voir qu' est ce
-2877 c' est                        se                           ce que c' est ?
+2877 qu' est-ce                    kEs                          peux voir qu' est-ce que
+2877 c' est                        se                           est-ce que c' est ?
 2881 t(u) as                       ta                           t(u) as vu il peint .
 2883 une autre                     y notR                        et p(u)is une autre encore .
 2883 autre encore                  not R@-kOR                    p(u)is une autre encore .
@@ -1421,8 +1421,8 @@
 2887 d' abord                      da-bOR                       faut d' abord trouver la même
 2887 même avant                    mE ma-v@                      trouver la même avant de
 2887 l' enlever                    l@l-ve                       avant de l' enlever .
-2888 qu' est                       ke                           là , qu' est ce
-2888 qu' i(l)                      ki                           est ce qu' i(l) fait
+2888 qu' est-ce                    kEs                          là , qu' est-ce qu'
+2888 qu' i(l)                      ki                           qu' est-ce qu' i(l) fait
 2895 ils époussettent              il ze-pu-sEt                  ils époussettent .
 2897 en a                          @ na                          y en a un qui a
 2903 l' un                         l1                           l' un à côté de l'
@@ -1438,13 +1438,13 @@
 2919 c' est                        se                           oh c' est pas les mêmes
 2920 t(u) as                       ta                           oh t(u) as tout tourné ?
 2931 alors on                      a-lO R§                       bon alors on les range *
-2932 qu' est                       ke                           qu' est ce que tu fais
+2932 qu' est-ce                    kEs                          qu' est-ce que tu fais Marie
 2938 c' est                        set                          c' est une carte , oui
 2938 est une                       se tyn                        c' est une carte , oui
 2939 c' est                        se                           oui , c' est l(e) sapin
 2943 t(u) es                       tE                           longtemps qu(e) t(u) es debout
-2947 qu' est                       ke                           qu' est ce qu' on pourrait
-2947 qu' on                        k§                           est ce qu' on pourrait
+2947 qu' est-ce                    kEs                          qu' est-ce qu' on pourrait donner
+2947 qu' on                        k§                           qu' est-ce qu' on pourrait donner
 2947 qu' il                        kil                          , pour qu' il s'
 2947 s' amuse                      sa-myz                       qu' il s' amuse ?
 2950 c' est                        se                           ça c' est c' est .
@@ -1488,8 +1488,8 @@
 3017 c' est                        se                           c' est pas vraiment une couverture
 3019 qu(e) oui                     kwi                          on disait qu(e) oui , si
 3032 qu' on                        k§                           sais ce qu' on fait
-3033 qu' est                       ke                           qu' est ce qu' on fait
-3033 qu' on                        k§                           est ce qu' on fait
+3033 qu' est-ce                    kEs                          qu' est-ce qu' on fait ?
+3033 qu' on                        k§                           qu' est-ce qu' on fait ?
 3046 c' est                        se                           ça c' est pour essuyer Louis
 3046 pour essuyer                  pu Re-s8i-je                  c' est pour essuyer Louis
 3049 t(u) aime                     tEm                          t(u) aime bien les mettre dans
@@ -1532,8 +1532,8 @@
 3113 peluche ou                    p°-ly Su                      une peluche ou quelque chose ?
 3116 c' est                        se                           c' est gentil .
 3128 donnes à                      dO na                         tu lui donnes à manger ?
-3129 qu' est                       ke                           qu' est ce qu' elle mange
-3129 qu' elle                      kEl                          est ce qu' elle mange
+3129 qu' est-ce                    kEs                          qu' est-ce qu' elle mange ?
+3129 qu' elle                      kEl                          qu' est-ce qu' elle mange ?
 3130 d' accord                     da-kOR                       d' accord .
 3131 d' accord                     da-kOR                       d' accord .
 3133 elle est                      E le                          pas où elle est la
@@ -1543,7 +1543,7 @@
 3145 aucune idée                   o-ky ni-de                    aucune idée .
 3149 c' est                        se                           , ça c' est la
 3152 elle est                      E le                          pas où elle est .
-3153 qu' elle                      kEl                          est ce qu' elle serait dans
+3153 qu' elle                      kEl                          est-ce qu' elle serait dans le
 3156 fourchette aussi              fuR-SE to-si                  à la fourchette aussi pour
 3156 l' instant                    l5s-t@                       aussi pour l' instant .
 3157 jusqu' à                      Zys ka                        jusqu' à ce qu' on retrouve
@@ -1573,12 +1573,12 @@
 3209 en as                         t@ na                         aussi t(u) en as pour
 3211 les il                        le zil                        , il les il les
 3211 les utilisent                 le zy-ti-liz                  les il les utilisent pour
-3215 qu' est                       ke                           tu vois qu' est ce qu'
-3215 qu' il                        kil                          est ce qu' il amène
-3215 il amène                      ki la-mEn                     ce qu' il amène le
-3216 qu' est                       ke                           qu' est ce qu' il amène
-3216 qu' il                        kil                          est ce qu' il amène
-3216 il amène                      ki la-mEn                     ce qu' il amène le
+3215 qu' est-ce                    kEs                          tu vois qu' est-ce qu' il
+3215 qu' il                        kil                          qu' est-ce qu' il amène
+3215 il amène                      ki la-mEn                     est-ce qu' il amène le
+3216 qu' est-ce                    kEs                          qu' est-ce qu' il amène le
+3216 qu' il                        kil                          qu' est-ce qu' il amène le
+3216 il amène                      ki la-mEn                     est-ce qu' il amène le
 3218 d' anniversaire               da-ni-vER-sER                un gâteau d' anniversaire ?
 3225 petite épicerie               p°-ti te-pi-sRi               dirait une petite épicerie .
 3228 c' est                        se                           c' est même une boulangerie ça
@@ -1590,9 +1590,9 @@
 3231 il est                        Ri le                         alors il est tout déçu Hervé
 3231 qu' il                        kil                          , parce qu' il peut
 3232 c' est                        se                           c' est fermé .
-3234 qu' est                       ke                           qu' est ce qu' il y
-3234 qu' il                        kil                          est ce qu' il y
-3234 il y                          ki li                         ce qu' il y a
+3234 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+3234 qu' il                        kil                          qu' est-ce qu' il y a
+3234 il y                          ki li                         est-ce qu' il y a
 3235 c' est                        se                           oui , c' est là .
 3238 c' est                        se                           non Marie c' est pas prévu
 3239 c' est                        se                           c' est pas solide .
@@ -1624,8 +1624,8 @@
 3304 c' est                        se                           c' est ça ?
 3309 encore un                     @-kO R1                       allez encore un p(e)tit coup d'
 3309 d' avion                      da-vj§                       p(e)tit coup d' avion .
-3321 qu' est                       ke                           p(u)is qu' est ce qu' y
-3321 qu' y                         ki                           est ce qu' y a
+3321 qu' est-ce                    kEs                          p(u)is qu' est-ce qu' y a
+3321 qu' y                         ki                           qu' est-ce qu' y a
 3324 d' accord                     da-kOR                       d' accord .
 3327 en a                          @ na                          y en a là .
 3330 c' est                        se                           tout ça c' est des grands
@@ -1652,8 +1652,8 @@
 3375 qu' on                        k§n                          peu pour qu' on ait
 3375 on ait                        k§ ne                         pour qu' on ait un
 3383 faire une                     fE Ryn                        vas pas faire une culbute
-3384 qu' est                       ke                           qu' est ce que vous avez
-3384 vous avez                     vu za-ve                      ce que vous avez fait
+3384 qu' est-ce                    kEs                          qu' est-ce que vous avez fait
+3384 vous avez                     vu za-ve                      est-ce que vous avez fait
 3392 il est                        i le                          il est pas trop lourd ?
 3396 t(u) as                       ta                           t(u) as changé Louis ?
 3398 prends en                     pR@ z@                        je le prends en haut
@@ -1669,8 +1669,8 @@
 3432 quand il                      k@ til                        quand il y aura des invités
 3432 il y                          ti li                         quand il y aura des invités
 3432 des invités                   de z5-vi-te                   y aura des invités .
-3441 qu' est                       ke                           qu' est ce qu' on fait
-3441 qu' on                        k§                           est ce qu' on fait
+3441 qu' est-ce                    kEs                          qu' est-ce qu' on fait alors
+3441 qu' on                        k§                           qu' est-ce qu' on fait alors
 3444 il est                        i le                          gigi , il est sous le
 3445 t' as                         ta                           t' as construit une maison ?
 3446 construire une                k§s-tR8i Ryn                  tu veux construire une maison ?
@@ -1720,9 +1720,9 @@
 3524 d' autres                     dotR                         vois pas d' autres .
 3525 j' en                         Z@                           là , j' en vois
 3525 d' autres                     dotR                         vois pas d' autres .
-3530 qu' est                       ke                           qu' est ce qu' elle dit
-3530 qu' elle                      kEl                          est ce qu' elle dit
-3531 qu' est                       ke                           qu' est ce qui est froide
+3530 qu' est-ce                    kEs                          qu' est-ce qu' elle dit Marie
+3530 qu' elle                      kEl                          qu' est-ce qu' elle dit Marie
+3531 qu' est-ce                    kEs                          qu' est-ce qui est froide ?
 3535 lire un                       li R1                         tu veux lire un livre ?
 3536 bonjour à                     b§-Zu Ra                      tu dis bonjour à qui ?
 3540 quand ils                     k@ til                        oui Marie quand ils viennent les
@@ -1755,8 +1755,8 @@
 3640 encore une                    @-kO Ryn                      puis encore une fois ici .
 3648 encore une                    @-kO Ryn                      encore une fois là .
 3651 c' est                        se                           c' est cadeau ?
-3654 qu' est                       ke                           ah , qu' est ce que
-3654 c' est                        se                           ce que c' est ?
+3654 qu' est-ce                    kEs                          ah , qu' est-ce que c'
+3654 c' est                        se                           est-ce que c' est ?
 3657 qu' est                       ke                           oh , qu' est c(e) que
 3657 c' est                        se                           c(e) que c' est ?
 3660 t' en                         t@n                          t' en as d(é)jà un d(e)
@@ -1777,8 +1777,8 @@
 3698 mettre en                     mEt R@                        va la mettre en pyjama
 3700 c' est                        se                           c' est pas pour raconter Marie
 3701 c' est                        se                           ça c' est pour colorier aussi
-3705 qu' est                       ke                           qu' est ce que c' est
-3705 c' est                        se                           ce que c' est que
+3705 qu' est-ce                    kEs                          qu' est-ce que c' est que
+3705 c' est                        se                           est-ce que c' est que
 3710 c' était                      se-tE                        mais c' était où cette photo
 3711 l' a                          la                           on l' a pris où ?
 3714 c' était                      se-tE                        c' était en vacances .
@@ -1787,7 +1787,7 @@
 3717 en a                          n@ na                         on en a du boulot pour
 3718 on en                         § n@n                         on en a du boulot pour
 3718 en a                          n@ na                         on en a du boulot pour
-3719 qu' est                       ke                           qu' est ce qu' (il) y
+3719 qu' est-ce                    kEs                          qu' est-ce qu' (il) y a
 3727 c' est                        set                          oui c' est à toi .
 3727 est à                         se ta                         oui c' est à toi .
 3732 encore un                     @-kO R1                       oui encore un chat .
@@ -1801,8 +1801,8 @@
 3743 l' avait                      la-vE                        Khalid qui l' avait envoyé
 3744 quand elle                    k@ tEl                        quand elle était en voyage .
 3744 elle était                    tE le-tE                      quand elle était en voyage .
-3746 qu' est                       ke                           qu' est ce que c' est
-3746 c' est                        se                           ce que c' est ça
+3746 qu' est-ce                    kEs                          qu' est-ce que c' est ça
+3746 c' est                        se                           est-ce que c' est ça
 3752 m' aides                      mEd                          tu m' aides ?
 3768 d' accord                     da-kOR                       d' accord ?
 3776 qu' on                        k§                           parce qu' on va encore lire
@@ -1821,15 +1821,15 @@
 3811 mon avis                      m§ na-vi                      à mon avis elles sont dans
 3823 c' est                        set                          , ça c' est un
 3823 est un                        se t1                         ça c' est un chat
-3834 qu' est                       ke                           qu' est ce qu' il y
-3834 qu' il                        kil                          est ce qu' il y
-3834 il y                          ki li                         ce qu' il y a
+3834 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+3834 qu' il                        kil                          qu' est-ce qu' il y a
+3834 il y                          ki li                         est-ce qu' il y a
 3839 vous allez                    vu za-le                      vous allez bien ?
 3840 il est                        i le                          il est là bas le téléphone
 3841 répondre au                   Re-p§d Ro                     il faut répondre au téléphone .
 3843 d' accord                     da-kOR                       d' accord .
 3846 c' est                        se                           c' est bon comme ça ?
-3852 qu' est                       ke                           qu' est ce que tu veux
+3852 qu' est-ce                    kEs                          qu' est-ce que tu veux en
 3856 c' est                        se                           non , c' est pas bon
 3859 c' est                        se                           ça c' est des piles Marie
 3864 faire avec                    fE Ra-vEk                     peut rien faire avec les
@@ -1839,8 +1839,8 @@
 3897 pour un                       pu R1                         pour un chausson .
 3898 l' autre                      lot                          l' autre chausson .
 3903 ton autre                     t§ not                        donne moi ton autre pied
-3904 qu' est                       ke                           qu' est ce qui est là
-3909 qu' est                       ke                           qu' est ce que tu cherches
+3904 qu' est-ce                    kEs                          qu' est-ce qui est là ?
+3909 qu' est-ce                    kEs                          qu' est-ce que tu cherches à
 3909 cherches à                    SER Sa                        que tu cherches à faire
 3911 qu' il                        kil                          tout ce qu' il y
 3911 il y                          ki li                         ce qu' il y a
@@ -1875,9 +1875,9 @@
 3966 l' ai                         lE                           , je l' ai posé
 3976 les animaux                   le za-ni-mo                   grand avec les animaux là
 3980 les animaux                   le za-ni-mo                   là sur les animaux .
-3982 qu' est                       ke                           qu' est ce qu' il y
-3982 qu' il                        kil                          est ce qu' il y
-3982 il y                          ki li                         ce qu' il y a
+3982 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+3982 qu' il                        kil                          qu' est-ce qu' il y a
+3982 il y                          ki li                         est-ce qu' il y a
 3983 poule avec                    pu la-vEk                     une poule avec des poussins ,
 3989 c' est                        se                           oui , c' est tous des
 3990 il y                          i li                          il y en a des grands
@@ -1890,9 +1890,9 @@
 4001 c' est                        se                           ça , c' est des
 4001 des histoires                 de zis-twaR                   c' est des histoires de
 4005 d' accord                     da-kOR                       oui , d' accord .
-4007 qu' est                       ke                           qu' est ce qu' il y
-4007 qu' il                        kil                          est ce qu' il y
-4007 il y                          ki li                         ce qu' il y a
+4007 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+4007 qu' il                        kil                          qu' est-ce qu' il y a
+4007 il y                          ki li                         est-ce qu' il y a
 4008 c' est                        set                          c' est un cadeau , oui
 4008 est un                        se t1                         c' est un cadeau , oui
 4011 c' est                        se                           c' est fini ?
@@ -1912,9 +1912,9 @@
 4034 est en                        le t@                         qu' elle est en train
 4036 elle est                      E le                          elle est pas là ?
 4040 les autres                    le zotR                       les autres ?
-4043 qu' est                       ke                           qu' est ce qu' il y
-4043 qu' il                        kil                          est ce qu' il y
-4043 il y                          ki li                         ce qu' il y a
+4043 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+4043 qu' il                        kil                          qu' est-ce qu' il y a
+4043 il y                          ki li                         est-ce qu' il y a
 4044 c' est                        se                           c' est le chat qui saute
 4045 qu' on                        k§                           tu veux qu' on fasse une
 4045 fasse une                     fa syn                        qu' on fasse une chanson
@@ -1945,11 +1945,11 @@
 4110 d' abord                      da-bOR                       il va d' abord falloir
 4110 qu' on                        k§n                          abord falloir qu' on aille
 4110 on aille                      k§ naj                        falloir qu' on aille prendre
-4111 qu' est                       ke                           chaises , qu' est ce
+4111 qu' est-ce                    kEs                          chaises , qu' est-ce que
 4111 faire avec                    fE Ra-vEk                     tu veux faire avec ?
 4112 sur une                       sy Ryn                        la mettre sur une chaise
-4114 qu' est                       ke                           qu' est ce que c' est
-4114 c' est                        se                           ce que c' est que
+4114 qu' est-ce                    kEs                          qu' est-ce que c' est que
+4114 c' est                        se                           est-ce que c' est que
 4115 les habits                    le za-bi                      va prendre les habits ?
 4120 c' est                        se                           c' est moucher .
 4121 c' est                        se                           ah , c' est se moucher
@@ -1980,11 +1980,11 @@
 4182 en a                          @ na                          il y en a un
 4183 c' est                        set                          ça c' est aussi un petit
 4183 est aussi                     se to-si                      ça c' est aussi un petit
-4184 qu' est                       ke                           qu' est ce qui est cassé
-4185 qu' est                       ke                           qu' est ce qui est cassé
+4184 qu' est-ce                    kEs                          qu' est-ce qui est cassé ma
+4185 qu' est-ce                    kEs                          qu' est-ce qui est cassé ?
 4186 c' est                        set                          , ça c' est une
 4186 est une                       se tyn                        ça c' est une vache
-4191 qu' est                       ke                           qu' est ce que tu veux
+4191 qu' est-ce                    kEs                          qu' est-ce que tu veux voir
 4194 c' est                        set                          ça , c' est un chien
 4194 est un                        se t1                         , c' est un chien
 4195 cerf oui                      sE Rwi                        le cerf oui , il y
@@ -2013,9 +2013,9 @@
 4240 il y                          i li                          il y en a ici ,
 4240 en a                          @ na                          il y en a ici ,
 4242 c' est                        se                           c' est des petits ça ,
-4243 qu' est                       ke                           qu' est ce qu' on a
-4243 qu' on                        k§n                          est ce qu' on a
-4243 on a                          k§ na                         ce qu' on a encore
+4243 qu' est-ce                    kEs                          qu' est-ce qu' on a encore
+4243 qu' on                        k§n                          qu' est-ce qu' on a encore
+4243 on a                          k§ na                         est-ce qu' on a encore
 4243 d' autre                      dot                          a encore d' autre sur
 4243 l' image                      li-maZ                       autre sur l' image ,
 4244 il y                          i li                          il y en a ailleurs ,
@@ -2025,18 +2025,18 @@
 4249 d' accord                     da-kOR                       d' accord ?
 4251 j' en                         Z@                           j' en veux pas , merci
 4254 t(u) as                       ta                           t(u) as le nez qui coule
-4255 qu' est                       ke                           qu' est ce que tu veux
+4255 qu' est-ce                    kEs                          qu' est-ce que tu veux ?
 4257 il y                          i li                          ah , il y a un
 4258 c' est                        se                           c' est pas grave .
 4259 on appuie                     § na-p8i                      on appuie un peu fort d'
 4259 d' un                         d1                           peu fort d' un côté
 4260 il y                          i li                          il y a un petit lapin
 4262 d' accord                     da-kOR                       d' accord .
-4264 qu' est                       ke                           qu' est ce que tu vas
+4264 qu' est-ce                    kEs                          qu' est-ce que tu vas dessiner
 4266 c' est                        se                           c' est le ciel là ?
 4267 petits oiseaux                p°-ti zwa-zo                  avec des petits oiseaux qui volent
 4268 d' accord                     da-kOR                       d' accord .
-4269 qu' est                       ke                           qu' est ce que tu veux
+4269 qu' est-ce                    kEs                          qu' est-ce que tu veux que
 4269 fasse avec                    fa sa-vEk                     que je fasse avec le
 4271 d' accord                     da-kOR                       terre , d' accord .
 4272 fasse où                      fa su                         je le fasse où ,
@@ -2126,8 +2126,8 @@
 4422 coffre à                      kOf Ra                        sur le coffre à jouets
 4426 c' est                        se                           c' est seulement pour les petits
 4426 petits enfants                p°-ti z@-f@                   pour les petits enfants .
-4427 qu' est                       ke                           qu' est ce qu' on fait
-4427 qu' on                        k§                           est ce qu' on fait
+4427 qu' est-ce                    kEs                          qu' est-ce qu' on fait alors
+4427 qu' on                        k§                           qu' est-ce qu' on fait alors
 4431 l' eau                        lo                           mie sur l' eau .
 4433 mette autrement               mE to-tR°-m@                  je me mette autrement .
 4436 l' eau                        lo                           mie sur l' eau .
@@ -2136,21 +2136,21 @@
 4439 t(u) es                       tE                           t(u) es debout ?
 4442 qu' est                       ke                           qu' est ce tu fais maintenant
 4452 t(u) as                       ta                           t(u) as les genoux pliés sur
-4457 qu' est                       ke                           qu' est ce qu' elle fait
-4457 qu' elle                      kEl                          est ce qu' elle fait
-4466 qu' est                       ke                           qu' est ce que tu fais
-4467 qu' est                       ke                           qu' est ce qu' elle fait
-4467 qu' elle                      kEl                          est ce qu' elle fait
+4457 qu' est-ce                    kEs                          qu' est-ce qu' elle fait là
+4457 qu' elle                      kEl                          qu' est-ce qu' elle fait là
+4466 qu' est-ce                    kEs                          qu' est-ce que tu fais là
+4467 qu' est-ce                    kEs                          qu' est-ce qu' elle fait là
+4467 qu' elle                      kEl                          qu' est-ce qu' elle fait là
 4472 t' es                         tE                           t' es debout toute seule ,
 4483 hier on                       jE R§n                        hier on a mis toutes les
 4483 on a                          R§ na                         hier on a mis toutes les
 4485 on a                          § na                          hier , on a mis toutes
 4489 c' est                        se                           c' est crade .
-4494 qu' est                       ke                           qu' est ce que tu veux
+4494 qu' est-ce                    kEs                          qu' est-ce que tu veux ?
 4500 encore un                     @-kO R1                       encore un lapin ?
 4501 encore un                     @-kO R1                       encore un ?
-4510 qu' il                        kil                          est ce qu' il y a
-4510 il y                          ki li                         ce qu' il y a
+4510 qu' il                        kil                          est-ce qu' il y a encore
+4510 il y                          ki li                         est-ce qu' il y a encore
 4510 d' autres                     dot                          a encore d' autres choses
 4510 d' autres                     dot                          choses , d' autres jouets
 4514 t(u) arrives                  ta-Riv                       t(u) arrives maintenant à tirer le
@@ -2160,7 +2160,7 @@
 4527 il y                          i li                          il y a un petit tissu
 4542 donne à                       dO na                         donne à maman !
 4543 donne à                       dO na                         donne à maman !
-4544 qu' est                       ke                           qu' est ce qu' (il) y
+4544 qu' est-ce                    kEs                          qu' est-ce qu' (il) y a
 4545 t(u) en                       t@                           t(u) en veux un nouveau ?
 4546 t(u) en                       t@                           t(u) en veux un propre ?
 4552 donnes à                      dO na                         tu le donnes à maman
@@ -2200,8 +2200,8 @@
 4632 vas y                         va zi                         vas y !
 4635 qu' on                        k§n                          tu veux qu' on en
 4635 on en                         k§ n@                         veux qu' on en fasse
-4636 qu' est                       ke                           qu' est ce qu' on fait
-4636 qu' on                        k§                           est ce qu' on fait
+4636 qu' est-ce                    kEs                          qu' est-ce qu' on fait avec
+4636 qu' on                        k§                           qu' est-ce qu' on fait avec
 4640 en as                         @ na                          que tu en as fait
 4641 il est                        i le                          il est sous le duvet ,
 4642 il est                        i le                          il est pas sous le duvet
@@ -2224,7 +2224,7 @@
 4664 avec un                       ma-vE k1                      petit bonhomme avec un long
 4665 il a                          i la                          il a pas un long nez
 4666 c' est                        se                           ah , c' est la tête
-4667 qu' est                       ke                           qu' est ce que tu cherches
+4667 qu' est-ce                    kEs                          qu' est-ce que tu cherches ?
 4669 c' est                        se                           c' est ça ?
 4673 c' est                        se                           , ça c' est le
 4679 c' est                        se                           , ça c' est le
@@ -2250,7 +2250,7 @@
 4724 qu' elle                      kEl                          tu veux qu' elle soit couchée
 4724 qu' elle                      kEl                          couchée ou qu' elle se
 4729 l' autre                      lot                          dans l' autre sens ?
-4731 qu' est                       ke                           qu' est ce que tu essaies
+4731 qu' est-ce                    kEs                          qu' est-ce que tu essaies de
 4734 c' est                        set                          ah , c' est un chapeau
 4734 est un                        se t1                         , c' est un chapeau
 4735 l' asseoir                    la-swaR                      tu veux l' asseoir ou la
@@ -2265,7 +2265,7 @@
 4748 l' heure                      l9R                          tout à l' heure .
 4758 c' est                        se                           là c' est pas fermé ,
 4764 d' abord                      da-bOR                       il faut d' abord mettre *
-4769 qu' est                       ke                           qu' est ce qui reste là
+4769 qu' est-ce                    kEs                          qu' est-ce qui reste là ?
 4770 c' est                        se                           c' est plus des lapins ,
 4772 en a                          @ na                          mais y en a partout de
 4773 t(u) as                       ta                           t(u) as mal aux dents ?
@@ -2292,11 +2292,11 @@
 4810 t' asseoir                    ta-swaR                      veux venir t' asseoir là
 4813 souffles un                   suf l1                        tu souffles un peu .
 4822 coffre on                     kOf R§                        mais le coffre on va le
-4824 qu' est                       ke                           qu' est ce que tu veux
+4824 qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 4825 mettre où                     mEt Ru                        veux le mettre où le
 4826 mettre où                     mEt Ru                        veux le mettre où ?
 4827 mettre où                     mEt Ru                        veux le mettre où le
-4830 qu' est                       ke                           et qu' est ce que tu
+4830 qu' est-ce                    kEs                          et qu' est-ce que tu veux
 4831 l' utiliser                   ly-ti-li-ze                  tu veux l' utiliser pour poser
 4836 c' est                        se                           c' est ça ?
 4839 d' accord                     da-kOR                       d' accord , mais t' arriveras
@@ -2322,7 +2322,7 @@
 4895 c' est                        se                           non , c' est le mauvais
 4896 l' autre                      lotR                         faut prendre l' autre .
 4898 c' est                        se                           non , c' est le
-4899 qu' est                       ke                           qu' est ce que je raconte
+4899 qu' est-ce                    kEs                          qu' est-ce que je raconte ?
 4900 c' est                        se                           attention , c' est là que
 4904 bien ouvrir                   bj5 nu-vRiR                   faut bien ouvrir .
 4910 tire alors                    ti Ra-lOR                     , je tire alors .
@@ -2330,15 +2330,15 @@
 4918 difficile avec                di-fi-si la-vEk               c' est difficile avec le
 4920 des animaux                   de za-ni-mo                   le livre des animaux ?
 4926 jambes un                     Z@ b1                         mets les jambes un peu écartées
-4930 qu' est                       ke                           qu' est ce qu' il faut
-4930 qu' il                        kil                          est ce qu' il faut
+4930 qu' est-ce                    kEs                          qu' est-ce qu' il faut faire
+4930 qu' il                        kil                          qu' est-ce qu' il faut faire
 4933 elle est                      E le                          elle est cachée , oui .
 4937 il y                          i li                          oui , il y a le
 4939 t(u) as                       ta                           t(u) as vu ?
 4940 qu' ils                       kil                          on dirait qu' ils se font
 4943 il est                        i le                          il est plus loin aussi .
-4947 qu' est                       ke                           qu' est ce que tu fais
-4949 qu' est                       ke                           qu' est ce que tu veux
+4947 qu' est-ce                    kEs                          qu' est-ce que tu fais ?
+4949 qu' est-ce                    kEs                          qu' est-ce que tu veux que
 4951 alors attends                 a-lO Ra-t@                    alors attends !
 4956 en a                          @ na                          y en a un qui est
 4957 il est                        i le                          vois où il est ?
@@ -2348,9 +2348,9 @@
 4962 les autres                    le zotRz                      tous les autres ils sont blancs
 4962 autres ils                    zotR zil                      tous les autres ils sont blancs
 4963 il est                        i le                          celui là il est noir .
-4965 qu' est                       ke                           qu' est ce qu' il y
-4965 qu' il                        kil                          est ce qu' il y
-4965 il y                          ki li                         ce qu' il y a
+4965 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+4965 qu' il                        kil                          qu' est-ce qu' il y a
+4965 il y                          ki li                         est-ce qu' il y a
 4966 c' est                        se                           ça c' est quoi ?
 4970 c' est                        se                           c' est bon le chocolat ?
 4971 c' est                        se                           c' est ça ?
@@ -2367,12 +2367,12 @@
 4985 est une                       se tyn                        c' est une lune .
 4987 coccinelle avec               kok-si-nE la-vEk              une petite coccinelle avec le nounours
 4988 l' as                         la                           , tu l' as déjà
-4989 qu' est                       ke                           qu' est ce qu' il a
-4989 qu' il                        kil                          est ce qu' il a
-4989 il a                          ki la                         ce qu' il a le
-4990 qu' est                       ke                           Marie , qu' est ce qu'
-4990 qu' il                        kil                          est ce qu' il a
-4990 il a                          ki la                         ce qu' il a le
+4989 qu' est-ce                    kEs                          qu' est-ce qu' il a le
+4989 qu' il                        kil                          qu' est-ce qu' il a le
+4989 il a                          ki la                         est-ce qu' il a le
+4990 qu' est-ce                    kEs                          Marie , qu' est-ce qu' il
+4990 qu' il                        kil                          qu' est-ce qu' il a
+4990 il a                          ki la                         est-ce qu' il a le
 4991 c' est                        set                          c' est un gâteau , un
 4991 est un                        se t1                         c' est un gâteau , un
 4992 l' as                         la                           ça tu l' as déjà
@@ -2456,10 +2456,10 @@
 5083 elle est                      E le                          elle est pas là non plus
 5085 t' en                         t@                           vais aller t' en chercher
 5086 petit instant                 p°-ti t5s-t@                  attends un petit instant !
-5088 qu' est                       ke                           qu' est ce que tu veux
+5088 qu' est-ce                    kEs                          qu' est-ce que tu veux ?
 5091 donnes un                     dO n1                         tu me donnes un crayon ?
-5092 qu' est                       ke                           qu' est ce que tu veux
-5094 qu' est                       ke                           qu' est ce que tu veux
+5092 qu' est-ce                    kEs                          qu' est-ce que tu veux dessiner
+5094 qu' est-ce                    kEs                          qu' est-ce que tu veux dessiner
 5097 dessine un                    de-si n1                      je te dessine un poisson
 5101 d' accord                     da-kOR                       d' accord .
 5103 c' est                        set                          oui , c' est un poisson
@@ -2503,7 +2503,7 @@
 5195 d' accord                     da-kOR                       d' accord ?
 5196 avec autre                    a-vE kot                      on joue avec autre chose
 5197 j' ai                         ZE                           j' ai dit non , non
-5200 qu' est                       ke                           qu' est ce que tu veux
+5200 qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 5202 c' était                      se-tE                        c' était pour nettoyer Valérie ?
 5208 il y                          i li                          il y en a un par
 5208 en a                          @ na                          il y en a un par
@@ -2524,8 +2524,8 @@
 5235 c' est                        se                           c' est déjà mieux .
 5237 l' enlever                    l@l-ve                       faut pas l' enlever ou alors
 5237 alors on                      a-lO R§                       enlever ou alors on met
-5243 qu' est                       ke                           qu' est ce qu' on fait
-5243 qu' on                        k§                           est ce qu' on fait
+5243 qu' est-ce                    kEs                          qu' est-ce qu' on fait ?
+5243 qu' on                        k§                           qu' est-ce qu' on fait ?
 5244 elle aime                     E lEm                         Marie elle aime pas quand c'
 5244 c' est                        se                           pas quand c' est fermé
 5256 c' est                        set                          c' est enregistré ça .
@@ -2535,23 +2535,23 @@
 5257 un appareil                   t1 na-pa-REj                  c' est un appareil pour enregistrer
 5257 pour enregistrer              pu R@R-Zis-tRe                un appareil pour enregistrer ,
 5259 j' ai                         ZE                           j' ai dit non .
-5267 qu' est                       ke                           qu' est ce qu' on va
-5267 qu' on                        k§                           est ce qu' on va
-5268 qu' est                       ke                           qu' est ce qu' on va
-5268 qu' on                        k§                           est ce qu' on va
+5267 qu' est-ce                    kEs                          qu' est-ce qu' on va .
+5267 qu' on                        k§                           qu' est-ce qu' on va .
+5268 qu' est-ce                    kEs                          qu' est-ce qu' on va dessiner
+5268 qu' on                        k§                           qu' est-ce qu' on va dessiner
 5270 m' en                         m@                           tu m' en donnes un ?
 5270 donnes un                     dO n1                         m' en donnes un ?
 5274 l' oiseau                     lwa-zo                       veux taper l' oiseau avec
 5276 l' abîmer                     la-bi-me                     faut pas l' abîmer l'
 5276 l' oiseau                     lwa-zo                       l' abîmer l' oiseau .
 5288 c' est                        se                           c' est pas agréable pour les
-5307 qu' est                       ke                           après , qu' est ce
+5307 qu' est-ce                    kEs                          après , qu' est-ce que
 5314 lance où                      l@ su                         je la lance où ?
 5317 montes aussi                  m§ to-si                      tu montes aussi ?
 5322 c' est                        se                           ouais , c' est moi qui
 5346 arrêtes ici                   a-RE ti-si                    , tu arrêtes ici .
-5353 qu' est                       ke                           alors , qu' est ce qu'
-5353 qu' on                        k§                           est ce qu' on fait
+5353 qu' est-ce                    kEs                          alors , qu' est-ce qu' on
+5353 qu' on                        k§                           qu' est-ce qu' on fait
 5359 lance où                      l@ su                         p(u)is je lance où ?
 5364 c' est                        se                           c' est Marie qui lance maintenant
 5365 montes alors                  m§ ta-lOR                     tu montes alors .
@@ -2577,8 +2577,8 @@
 5415 c' est                        se                           non , c' est le poisson
 5419 il est                        i le                          chat il est quoi ?
 5420 il est                        i le                          il est pas au lait ?
-5421 qu' est                       ke                           qu' est ce que c' est
-5421 c' est                        se                           ce que c' est qu'
+5421 qu' est-ce                    kEs                          qu' est-ce que c' est qu'
+5421 c' est                        se                           est-ce que c' est qu'
 5422 c' est                        se                           c' est .
 5423 il est                        i le                          oui , il est là ,
 5426 t(u) as                       ta                           t(u) as vu là ?
@@ -2591,12 +2591,12 @@
 5436 c' est                        se                           c' est la même boîte .
 5437 mette à                       mE ta                         je me mette à côté
 5438 alors hop                     a-lO ROp                      alors hop , voilà .
-5439 qu' est                       ke                           p(u)is qu' est ce qu' on
-5439 qu' on                        k§                           est ce qu' on fait
+5439 qu' est-ce                    kEs                          p(u)is qu' est-ce qu' on fait
+5439 qu' on                        k§                           qu' est-ce qu' on fait
 5443 c' est                        se                           c' est le pied d(e) Marie
-5453 qu' est                       ke                           qu' est ce qu' il y
-5453 qu' il                        kil                          est ce qu' il y
-5453 il y                          ki li                         ce qu' il y a
+5453 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+5453 qu' il                        kil                          qu' est-ce qu' il y a
+5453 il y                          ki li                         est-ce qu' il y a
 5455 c' est                        se                           oui , c' est pas
 5461 qu' est                       ke                           qu' est ce tu veux que
 5473 c' est                        se                           c' est sauter de avec les
@@ -2618,8 +2618,8 @@
 5526 c' est                        set                          crois que c' est une
 5526 est une                       se tyn                        que c' est une dame
 5530 t(u) as                       ta                           ben t(u) as tout défait ?
-5534 qu' est                       ke                           qu' est ce qu' on fait
-5534 qu' on                        k§                           est ce qu' on fait
+5534 qu' est-ce                    kEs                          qu' est-ce qu' on fait alors
+5534 qu' on                        k§                           qu' est-ce qu' on fait alors
 5538 c' est                        se                           c' est bien Marie .
 5540 c' est                        se                           c' est super .
 5541 poubelle une                  pu-bE lyn                     dans la poubelle une fois
@@ -2724,13 +2724,13 @@
 5686 c' est                        se                           c' est rouge une tomate .
 5686 rouge une                     Ru Zyn                        c' est rouge une tomate .
 5688 c' est                        se                           c' est quoi ça ?
-5689 qu' est                       ke                           qu' est ce que c' est
-5689 c' est                        se                           ce que c' est déjà
+5689 qu' est-ce                    kEs                          qu' est-ce que c' est déjà
+5689 c' est                        se                           est-ce que c' est déjà
 5692 on en                         § n@n                         on en a déjà eu aussi
 5692 en a                          n@ na                         on en a déjà eu aussi
-5694 qu' est                       ke                           qu' est ce qu' on avait
-5694 qu' on                        k§n                          est ce qu' on avait
-5694 on avait                      k§ na-vE                      ce qu' on avait dit
+5694 qu' est-ce                    kEs                          qu' est-ce qu' on avait dit
+5694 qu' on                        k§n                          qu' est-ce qu' on avait dit
+5694 on avait                      k§ na-vE                      est-ce qu' on avait dit
 5694 c' était                      se-tE                        dit que c' était ?
 5695 c' est                        set                          non , c' est un fruit
 5695 est un                        se t1                         , c' est un fruit
@@ -2783,7 +2783,7 @@
 5760 s' ouvre                      suv                          ça s' ouvre pas .
 5770 il y                          i li                          il y en a encore ?
 5770 en a                          @ na                          il y en a encore ?
-5771 qu' est                       ke                           qu' est ce que tu veux
+5771 qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 5773 d' accord                     da-kOR                       d' accord .
 5778 c' est                        se                           que là c' est fermé
 5780 c' est                        set                          maintenant c' est ouvert .
@@ -2827,27 +2827,27 @@
 5849 t' attends                    ta-t@                        , je t' attends alors
 5850 d' accord                     da-kOR                       d' accord ?
 5853 n' a                          na                           mais on n' a pas d(e)
-5855 qu' est                       ke                           me montrer qu' est ce
-5855 c' est                        se                           ce que c' est que
+5855 qu' est-ce                    kEs                          me montrer qu' est-ce que
+5855 c' est                        se                           est-ce que c' est que
 5857 c' est                        se                           c' est quoi la cabane Marie
 5858 c' est                        se                           c' est où la cabane ?
 5859 c' est                        se                           c' est la porte là dehors
 5861 il est                        i le                          il est dans la chambre papa
 5862 c' est                        se                           c' est quoi la cabane ?
 5864 elle a                        E la                          mais elle a pas compris maman
-5865 qu' est                       ke                           qu' est ce qu' il faut
-5865 qu' il                        kil                          est ce qu' il faut
+5865 qu' est-ce                    kEs                          qu' est-ce qu' il faut faire
+5865 qu' il                        kil                          qu' est-ce qu' il faut faire
 5865 faire ici                     fE Ri-si                      il faut faire ici ?
 5869 on a                          § na                          oui , on a déjà enlevé
 5870 on a                          § na                          , maintenant on a enlevé
-5873 qu' est                       ke                           qu' est ce que tu veux
+5873 qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 5875 difficiles à                  di-fi-si la                   elles sont difficiles à enfiler
 5883 qu' on                        k§n                          tu veux qu' on ouvre la
 5883 on ouvre                      k§ nuv                        veux qu' on ouvre la
 5885 m' assieds                    ma-sje                       , j(e) m' assieds où
-5888 qu' est                       ke                           Marie , qu' est ce
-5889 qu' est                       ke                           qu' est ce qu' il va
-5889 qu' il                        kil                          est ce qu' il va
+5888 qu' est-ce                    kEs                          Marie , qu' est-ce que
+5889 qu' est-ce                    kEs                          qu' est-ce qu' il va manger
+5889 qu' il                        kil                          qu' est-ce qu' il va manger
 5891 il y                          i li                          il y a quoi comme légumes
 5894 mettre une                    mEt Ryn                       va lui mettre une assiette
 5894 une assiette                  Ry na-sjEt                    lui mettre une assiette alors
@@ -2856,25 +2856,25 @@
 5897 elle a                        E la                          elle a pas faim ?
 5898 s' asseoir                    sa-swaR                      elle va s' asseoir aussi .
 5898 asseoir aussi                 sa-swa Ro-si                  va s' asseoir aussi .
-5899 qu' est                       ke                           puis , qu' est ce
-5899 qu' elle                      kEl                          est ce qu' elle va
+5899 qu' est-ce                    kEs                          puis , qu' est-ce qu'
+5899 qu' elle                      kEl                          qu' est-ce qu' elle va
 5899 faire elle                    fE REl                        elle va faire elle ,
 5900 mange aussi                   m@ Zo-si                      ah elle mange aussi ?
-5901 qu' est                       ke                           qu' est ce qu' elle mange
-5901 qu' elle                      kEl                          est ce qu' elle mange
+5901 qu' est-ce                    kEs                          qu' est-ce qu' elle mange elle
+5901 qu' elle                      kEl                          qu' est-ce qu' elle mange elle
 5901 mange elle                    m@ ZEl                        qu' elle mange elle ?
 5902 t' es                         tE                           , tu t' es fait
 5903 t(u) as                       ta                           t(u) as glissé , mais c'
 5903 c' est                        se                           , mais c' est pas
 5904 faire un                      fE R1                         vais te faire un p(e)tit
-5907 qu' est                       ke                           qu' est ce que tu as
-5909 qu' est                       ke                           qu' est ce qui est tout
-5910 qu' est                       ke                           qu' est ce qui est tout
+5907 qu' est-ce                    kEs                          qu' est-ce que tu as Marie
+5909 qu' est-ce                    kEs                          qu' est-ce qui est tout mouillé
+5910 qu' est-ce                    kEs                          qu' est-ce qui est tout mouillé
 5911 il est                        i le                          bébé , il est tout
 5913 d' accord                     da-kOR                       d' accord ?
 5915 chaussures et                 So-sy Re                      prend les chaussures et p(u)is
 5921 on ouvre                      § nuv                         que , on ouvre ça
-5922 qu' est                       ke                           qu' est ce que tu veux
+5922 qu' est-ce                    kEs                          qu' est-ce que tu veux faire
 5922 faire avec                    fE Ra-vEk                     tu veux faire avec ça
 5923 c' est                        se                           hop c' est trop cuit .
 5924 d' emploi                     d@p-lwa                      mode d' emploi .
@@ -2886,8 +2886,8 @@
 5940 comme il                      kO mil                        juste mettre comme il faut .
 5944 t(u) es                       tE                           oh mais t(u) es tu donnes
 5944 briques à                     bRi ka                        donnes des briques à manger
-5945 qu' est                       ke                           qu' est ce que tu as
-5947 qu' est                       ke                           qu' est ce que tu as
+5945 qu' est-ce                    kEs                          qu' est-ce que tu as sorti
+5947 qu' est-ce                    kEs                          qu' est-ce que tu as sorti
 5951 t(u) as                       ta                           t(u) as perdu quoi ?
 5952 elle est                      E le                          elle est là la banane .
 5955 il est                        i le                          il est là le bec du
@@ -2907,7 +2907,7 @@
 5970 qu' elle                      kEl                          parce qu' elle est bizarre à
 5970 elle est                      kE le                         parce qu' elle est bizarre à
 5970 bizarre à                     bi-za Ra                      elle est bizarre à fermer
-5974 qu' on                        k§                           est ce qu' on va te
+5974 qu' on                        k§                           est-ce qu' on va te couper
 5974 les ongles                    le z§gl                       te couper les ongles aujourd'hui
 5974 ongles aujourd'hui            z§g lo-ZuR-d8i                couper les ongles aujourd'hui ?
 5975 qu' on                        k§                           je crois qu' on va
@@ -2934,15 +2934,15 @@
 6010 est un                        se t1n                        que c' est un avion
 6010 un avion                      t1 na-vj§                     c' est un avion .
 6011 t' en                         t@                           tu t' en vas Marie ?
-6012 qu' est                       ke                           qu' est ce que tu vas
+6012 qu' est-ce                    kEs                          qu' est-ce que tu vas chercher
 6016 il est                        i le                          papa il est sur le balcon
 6017 il est                        i le                          il est sur le balcon .
 6021 c' est                        se                           c' est quoi ça ?
-6023 qu' est                       ke                           qu' est ce que c' est
-6023 c' est                        se                           ce que c' est ?
-6026 qu' est                       ke                           qu' est ce qu' on fait
-6026 qu' on                        k§                           est ce qu' on fait
-6029 qu' est                       ke                           qu' est ce que tu veux
+6023 qu' est-ce                    kEs                          qu' est-ce que c' est ?
+6023 c' est                        se                           est-ce que c' est ?
+6026 qu' est-ce                    kEs                          qu' est-ce qu' on fait Marie
+6026 qu' on                        k§                           qu' est-ce qu' on fait Marie
+6029 qu' est-ce                    kEs                          qu' est-ce que tu veux ?
 6031 c' est                        se                           oh c' est fort ça .
 6033 faire une                     fE Ryn                        on peut faire une tour
 6034 c' est                        se                           oh c' est quoi ça ?
@@ -2985,16 +2985,16 @@
 6085 il est                        i le                          il est où le poisson ?
 6087 il est                        i le                          il est là le livre de
 6088 c' est                        se                           oui , c' est Mimi Cra-Cra
-6091 qu' est                       ke                           qu' est ce qu' elle fait
-6091 qu' elle                      kEl                          est ce qu' elle fait
+6091 qu' est-ce                    kEs                          qu' est-ce qu' elle fait là
+6091 qu' elle                      kEl                          qu' est-ce qu' elle fait là
 6092 cuvette ouais                 ky-vE twE                     dans la cuvette ouais .
-6093 qu' est                       ke                           p(u)is après qu' est ce qu'
-6093 qu' elle                      kEl                          est ce qu' elle fait
-6098 qu' est                       ke                           et puis qu' est ce que
+6093 qu' est-ce                    kEs                          p(u)is après qu' est-ce qu' elle
+6093 qu' elle                      kEl                          qu' est-ce qu' elle fait
+6098 qu' est-ce                    kEs                          et puis qu' est-ce que ça
 6099 mousse ouais                  mu swE                        ça mousse ouais .
 6100 bizarres avec                 bi-za Ra-vEk                  des coiffures bizarres avec la
-6101 qu' est                       ke                           propres , qu' est ce
-6101 qu' elle                      kEl                          est ce qu' elle fait
+6101 qu' est-ce                    kEs                          propres , qu' est-ce qu'
+6101 qu' elle                      kEl                          qu' est-ce qu' elle fait
 6103 ressemble à                   R°-s@b la                     ah elle ressemble à papa Noël
 6104 faire une                     fE Ryn                        menton pour faire une barbe
 6105 ressemble à                   R°-s@b la                     ça ressemble à un papa Noël
@@ -3002,20 +3002,20 @@
 6110 lire une                      li Ryn                        vas * lire une autre
 6110 une autre                     Ry notR                       * lire une autre histoire
 6110 autre histoire                not Ris-twaR                  lire une autre histoire de
-6112 qu' est                       ke                           qu' est ce que tu veux
+6112 qu' est-ce                    kEs                          qu' est-ce que tu veux regarder
 6113 quand elle                    k@ tEl                        quand elle se lave les mains
 6114 alors elle                    a-lO REl                      alors elle a les mains toutes
 6114 elle a                        RE la                         alors elle a les mains toutes
 6114 sales ici                     sal zi-si                     mains toutes sales ici .
-6115 qu' est                       ke                           qu' est ce qu' elle fait
-6115 qu' elle                      kEl                          est ce qu' elle fait
-6120 qu' est                       ke                           qu' est ce qu' elle pousse
-6120 qu' elle                      kEl                          est ce qu' elle pousse
+6115 qu' est-ce                    kEs                          qu' est-ce qu' elle fait ici
+6115 qu' elle                      kEl                          qu' est-ce qu' elle fait ici
+6120 qu' est-ce                    kEs                          qu' est-ce qu' elle pousse ?
+6120 qu' elle                      kEl                          qu' est-ce qu' elle pousse ?
 6123 elle a                        E la                          elle a grimpé sur le tabouret
 6124 c' est                        se                           puis ça c' est quoi ?
 6125 c' est                        se                           hm c' est mouillé ?
-6129 qu' est                       ke                           qu' est ce qu' elle fait
-6129 qu' elle                      kEl                          est ce qu' elle fait
+6129 qu' est-ce                    kEs                          qu' est-ce qu' elle fait là
+6129 qu' elle                      kEl                          qu' est-ce qu' elle fait là
 6133 elle était                    E le-tE                       sa poupée elle était toute sale
 6133 sale ici                      sa li-si                      était toute sale ici .
 6134 alors elle                    a-lO REl                      alors elle la met dans une
@@ -3057,12 +3057,12 @@
 6211 prendre oui                   pR@d Rwi                      peux le prendre oui .
 6212 qu' il                        kil                          doucement parce qu' il est
 6212 il est                        ki le                         parce qu' il est fragile
-6213 qu' est                       ke                           qu' est ce que tu dis
+6213 qu' est-ce                    kEs                          qu' est-ce que tu dis ?
 6214 il est                        i le                          il est grand le bébé ?
 6221 c' est                        se                           c' est le bébé qui va
 6222 qu' elle                      kEl                          tu crois qu' elle aime les
 6222 elle aime                     kE lEm                        crois qu' elle aime les
-6224 qu' est                       ke                           qu' est ce que tu vas
+6224 qu' est-ce                    kEs                          qu' est-ce que tu vas faire
 6225 c' est                        set                          c' est une photo ?
 6225 est une                       se tyn                        c' est une photo ?
 6227 elle est                      E let                         elle est abîmée la photo ?
@@ -3077,8 +3077,8 @@
 6232 d' orange                     do-R@Z                       un jus d' orange frais
 6233 une orange                    y no-R@Z                      une orange pressée tu veux dire
 6237 chantes avec                  S@ ta-vEk                     tu chantes avec moi ?
-6240 qu' est                       ke                           qu' est ce qu' il fait
-6240 qu' il                        kil                          est ce qu' il fait
+6240 qu' est-ce                    kEs                          qu' est-ce qu' il fait le
+6240 qu' il                        kil                          qu' est-ce qu' il fait le
 6242 il y                          i li                          ouais , il y a
 6242 l' autre                      lot                          y a l' autre poupée
 6249 il est                        i le                          il est peut-être encore trop petit
@@ -3088,23 +3088,23 @@
 6253 chaussures et                 So-sy Re                      mettre ses chaussures et elle
 6259 t' aider                      te-de                        je vais t' aider .
 6262 c' est                        se                           c' est dangereux .
-6266 qu' est                       ke                           qu' est ce que tu vas
-6267 qu' est                       ke                           qu' est ce que tu vas
-6271 qu' est                       ke                           qu' est ce que tu vas
+6266 qu' est-ce                    kEs                          qu' est-ce que tu vas faire
+6267 qu' est-ce                    kEs                          qu' est-ce que tu vas faire
+6271 qu' est-ce                    kEs                          qu' est-ce que tu vas acheter
 6273 d' autre                      dotR                         puis quoi d' autre ?
 6275 encore acheter                @-kO RaS-te                   tu vas encore acheter d' autres
 6275 d' autres                     dot                          encore acheter d' autres choses
 6278 peut-être oui                 p2-tEt Rwi                    peut-être oui .
 6281 j' en                         Z@n                          j' en ai .
 6281 en ai                         Z@ nE                         j' en ai .
-6282 qu' est                       ke                           qu' est ce que vous voulez
+6282 qu' est-ce                    kEs                          qu' est-ce que vous voulez acheter
 6284 j' en                         Z@n                          j' en ai .
 6284 en ai                         Z@ nE                         j' en ai .
-6287 qu' est                       ke                           et qu' est ce que vous
-6287 vous allez                    vu za-le                      ce que vous allez faire
+6287 qu' est-ce                    kEs                          et qu' est-ce que vous allez
+6287 vous allez                    vu za-le                      est-ce que vous allez faire
 6287 faire avec                    fE Ra-vEk                     vous allez faire avec tous
 6292 c' est                        se                           c' est quoi ça ?
-6298 qu' est                       ke                           alors qu' est ce que vous
+6298 qu' est-ce                    kEs                          alors qu' est-ce que vous voulez
 6300 encore autre                  @-kO Rot                      encore autre chose ?
 6301 c' est                        se                           Marie , c' est pas
 6303 d' accord                     da-kOR                       suis pas d' accord alors
@@ -3167,8 +3167,8 @@
 6413 qu' est                       ke                           qu' est ce tu vas faire
 6413 faire avec                    fE Ra-vEk                     tu vas faire avec ça
 6421 c' est                        se                           c' est trop fort .
-6425 qu' est                       ke                           qu' est ce qu' on fait
-6425 qu' on                        k§                           est ce qu' on fait
+6425 qu' est-ce                    kEs                          qu' est-ce qu' on fait ,
+6425 qu' on                        k§                           qu' est-ce qu' on fait ,
 6426 faire un                      fE R1                         voulais pas faire un puzzle
 6427 faire un                      fE R1                         voulais pas faire un puzzle
 6430 il y                          i li                          il y en a beaucoup là
@@ -3187,9 +3187,9 @@
 6454 c' est                        se                           c' est ta chaise , oui
 6456 m' assieds                    ma-sje                       je m' assieds sur l' éléphant
 6456 l' éléphant                   le-le-f@                     assieds sur l' éléphant ?
-6458 qu' est                       ke                           qu' est ce qu' il y
-6458 qu' il                        kil                          est ce qu' il y
-6458 il y                          ki li                         ce qu' il y a
+6458 qu' est-ce                    kEs                          qu' est-ce qu' il y a
+6458 qu' il                        kil                          qu' est-ce qu' il y a
+6458 il y                          ki li                         est-ce qu' il y a
 6460 qu' est                       ke                           qu' est ce tu veux comme
 6464 girafe oui                    Zi-Ra fwi                     la girafe oui .
 6465 l' a                          la                           papa il l' a recollée

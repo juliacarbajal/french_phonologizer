@@ -10,7 +10,7 @@
 31 maman elle                     maman elle est où ?
 31 est où                        maman elle est où ?
 33 allez un                       allez un autre !
-37 ouais alors                    ouais alors qu' est ce que
+37 ouais alors                    ouais alors qu' est-ce que tu
 52 comment i(l)                   comment i(l) fait la chat ?
 53 chat i(l)                      le chat i(l) fait miaou !
 56 mais on                        mais on n' a pas regardé
@@ -27,7 +27,7 @@
 132 alors à                       allez alors à la ferme !
 166 poisson i(l)                   , le poisson i(l) fait
 167 poisson i(l)                   le poisson i(l) fait comme ça
-172 maman elle                     ce que maman elle a
+172 maman elle                     est-ce que maman elle a
 174 maman elle                     , oui maman elle a
 177 est où                        il est où le bébé chéri
 178 est où                        il est où le p(e)tit bébé
@@ -214,9 +214,9 @@
 1384 vois il                        terre tu vois il a
 1384 fait un                        il a fait un trou
 1385 fait un                        il a fait un trou le
-1389 alors alors                    alors alors alors alors qu' est
-1389 alors alors                    alors alors alors alors qu' est
-1389 alors alors                    alors alors alors alors qu' est
+1389 alors alors                    alors alors alors alors qu' est-ce
+1389 alors alors                    alors alors alors alors qu' est-ce
+1389 alors alors                    alors alors alors alors qu' est-ce
 1397 chat oui                       chat oui .
 1398 souris oui                     une p(e)tite souris oui .
 1407 ouais et                       ouais et ça .
@@ -471,7 +471,7 @@
 2890 livres avec                    regarder des livres avec maman
 2897 lion il                        ça le lion il a
 2914 dis à                         tête , dis à maman
-2927 alors et                       alors et là qu' est ce
+2927 alors et                       alors et là qu' est-ce qu'
 2936 cheveux oui                    le sèche cheveux oui .
 2982 dit un                         elle dit un bisou ?
 2985 non où                        non où ?

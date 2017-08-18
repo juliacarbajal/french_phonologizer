@@ -49,8 +49,8 @@
 199  peut être                     p2t EtR                       il veut peut être bien
 200  tout à                        tut a                         du chien tout à l'
 201  quand il                      k@t il                        quand il a montré le morceau
-218  on est                        §n e                          zeuzeul on est a zeuzeul .
-218  est a                         et a                          zeuzeul on est a zeuzeul .
+218  on est                        §n e                          zeuzeul , on est a zeuzeul
+218  est a                         et a                          , on est a zeuzeul
 236  plus élaborés                 plyz e-la-bo-Re               des trucs plus élaborés parfois
 241  les échanges                  lez e-S@Z                     c' est les échanges de balles
 242  est à                         et a                          c' est à dire , il
@@ -76,8 +76,8 @@
 293  on a                          §n a                          avec adrien on a pas
 294  très adultes                  tREz a-dylt                   enfin très adultes en tout cas
 301  futurs enfants                fy-tyRz @-f@                  de ses futurs enfants en
-323  on entend                     §n @-t@                       ce qu' on entend ?
-325  on entend                     §n @-t@                       ce qu' on entend ?
+323  on entend                     §n @-t@                       est-ce qu' on entend ?
+325  on entend                     §n @-t@                       est-ce qu' on entend ?
 327  les oiseaux                   lez wa-zo                     oui les oiseaux !
 328  on entend                     §n @-t@                       est vrai on entend les
 328  les oiseaux                   lez wa-zo                     on entend les oiseaux .
@@ -88,7 +88,7 @@
 404  mon amour                     m§n a-muR                     ton papy mon amour .
 428  quand il                      k@t il                        ce soir quand il voudra
 429  gros effort                   gRoz e-fOR                    oh quel gros effort .
-438  plus ou                       plyz u                        attends plus ou moins .
+438  plus ou                       plyz u                        attends , plus ou moins .
 439  un emploi                     1n @p-lwa                     est pas un emploi attesté
 453  mon éléphant                  m§n e-le-f@                   a cassé mon éléphant ?
 459  deux ans                      d2z @                         a bientôt deux ans il
@@ -122,7 +122,7 @@
 685  est elle                      et El                         à qui est elle ?
 690  des enfants                   dez @-f@                      la télé des enfants .
 693  les enfants                   lez @-f@                      c' est les enfants .
-722  est il                        et il                         manger où est il donc
+722  est il                        et il                         , où est il donc
 723  est il                        et il                         est il derrière la porte ?
 725  est un                        et 1                          c' est un gros ours !
 725  gros ours                     gRoz uRs                      est un gros ours !
@@ -170,14 +170,14 @@
 1268 est allé                      et a-le                       quand il est allé chercher
 1269 est allé                      et a-le                       il est allé le jeter dans
 1274 un air                        1n ER                         il prend un air perplexe
-1274 un air                        1n ER                         inets d' un air de
+1274 un air                        1n ER                         , d' un air de
 1293 est un                        et 1                          ça c' est un jeu inépuisable
 1296 on a                          §n a                          on a encore droit à un
 1297 les endroits                  lez @-dRwa                    de montrer les endroits où
 1309 est à                         et a                          c' est à grégoire ?
 1310 est une                       et yn                         c' est une voiture à grégoire
-1316 on entend                     §n @-t@                       ce qu' on entend ?
-1318 on entend                     §n @-t@                       ce qu' on entend ?
+1316 on entend                     §n @-t@                       est-ce qu' on entend ?
+1318 on entend                     §n @-t@                       est-ce qu' on entend ?
 1323 est une                       et yn                         non c' est une sirène qui
 1326 peut être                     p2t EtR                       peut être .
 1327 est amusant                   et a-my-z@                    ah c' est amusant ça .
@@ -196,13 +196,13 @@
 1380 peut être                     p2t EtR                       à dire peut être .
 1390 est un                        et 1                          ah c' est un morceau de
 1412 est amusé                     et a-my-ze                    il s' est amusé en
-1412 un air                        1n ER                         nuj d' un air de
+1412 un air                        1n ER                         , d' un air de
 1418 tout à                        tut a                         tout à l' heure quand tu
 1439 est assez                     et a-se                       ailleurs c' est assez normal
-1441 on a                          §n a                          on a des ferme fermé .
+1441 on a                          §n a                          on a des ferme , fermé
 1445 quand il                      k@t il                        quand il dit allumé , il
 1451 est un                        et 1                          c' est un peu variable .
-1455 on a                          §n a                          on a des viens et des
+1455 on a                          §n a                          on a des viens , et
 1458 tout à                        tut a                         tout à l' heure quand j'
 1463 est à                         et a                          papa est à la fac .
 1464 est à                         et a                          adrien est à l' école .
@@ -211,7 +211,7 @@
 1468 est en                        et @                          mais c' est en filigrane
 1469 est à                         et a                          c' est à dire la charnière
 1469 quand on                      k@t §                         est fait quand on lui
-1471 quand il                      k@t il                        dit viens quand il appelle
+1471 quand il                      k@t il                        viens , quand il appelle
 1488 mon objectif                  m§n Ob-ZEk-tif                , dans mon objectif .
 1494 peut être                     p2t EtR                       tu pourras peut être nous
 1527 est un                        et 1                          c' est un monsieur ?
@@ -230,8 +230,8 @@
 1595 est une                       et yn                         c' est une des choses qu'
 1596 on en                         §n @                          ça on en a encore vraiment
 1596 en a                          @n a                          ça on en a encore vraiment
-1603 on en                         §n @                          on en a sur partir parti
-1603 en a                          @n a                          on en a sur partir parti
+1603 on en                         §n @                          on en a sur partir ,
+1603 en a                          @n a                          on en a sur partir ,
 1608 un objet                      1n Ob-ZE                      sens où un objet a
 1609 aux échecs                    oz e-SEk                      de toucher aux échecs d'
 1612 est un                        et 1                          oui c' est un cheval .
@@ -243,12 +243,12 @@
 1642 quand il                      k@t il                        l' humour quand il s'
 1651 un oiseau                     1n wa-zo                      un oiseau qui passe ?
 1654 est un                        et 1                          c' est un pigeon .
-1671 quand il                      k@t il                        entendu monte quand il est
+1671 quand il                      k@t il                        monte , quand il est
 1671 un escalier                   1n Es-ka-lje                  même désigné un escalier en
 1673 un escalier                   1n Es-ka-lje                  y a un escalier ,
 1673 quand il                      k@t il                        escalier , quand il a
 1682 est une                       et yn                         oui c' est une moto .
-1685 on a                          §n a                          on a déjà eu ejo moto
+1685 on a                          §n a                          on a déjà eu ejo ,
 1696 était un                      e-tEt 1                       c' était un chien .
 1700 est un                        et 1                          ça c' est un camion jaune
 1701 peut être                     p2t EtR                       ça fait peut être partie des
@@ -263,7 +263,7 @@
 1888 est à                         et a                          c' est à victor , c'
 1924 les enfants                   lez @-f@                      les enfants ?
 1935 est allumée                   et a-ly-me                    lumière elle est allumée .
-1943 quand il                      k@t il                        et quand il dit kako je
+1943 quand il                      k@t il                        et quand il dit kako ,
 1947 mon amour                     m§n a-muR                     chaussures , mon amour .
 1975 peut être                     p2t EtR                       c' est peut être dû au
 1976 peut être                     p2t EtR                       ouais ou peut être que l'
@@ -355,9 +355,9 @@
 3013 les épaules                   lez e-pol                     tu hausses les épaules quand tu
 3023 est assis                     et a-si                       il est assis où ?
 3038 petits enfants                p°-tiz @-f@                   a les petits enfants ,
-3060 tout est                      tut e                         ce que tout est bien
+3060 tout est                      tut e                         est-ce que tout est bien arrêté
 3060 bien arrêté                   bj5n a-Re-te                  tout est bien arrêté dans
-3061 tout est                      tut e                         ce que tout est bien
+3061 tout est                      tut e                         est-ce que tout est bien comme
 3064 est assis                     et a-si                       où il est assis grégoire
 3066 est assis                     et a-si                       où il est assis grégoire ?
 3071 peut être                     p2t EtR                       elle est peut être pas fermée
@@ -457,7 +457,6 @@
 3760 est à                         et a                          non c' est à moi
 3762 des objets                    dez Ob-ZE                     c' est des objets .
 3766 on en                         §n @                          autant qu' on en veut
-3768 nous aussi                    nuz o-si                      et à nous aussi .
 3770 moins en                      mw5z @                        de moins en moins c' est
 3770 moins en                      mw5z @                        est de moins en moins
 3771 moins en                      mw5z @                        de moins en moins souvent .
@@ -468,7 +467,7 @@
 3789 petit avion                   p°-tit a-vj§                  bien ton petit avion .
 3790 petit avion                   p°-tit a-vj§                  cherche ton petit avion .
 3791 est en                        et @                          il est en bas à côté
-3808 un exemple                    1n Eg-z@pl                    voilà un exemple de ma devant
+3808 un exemple                    1n Eg-z@pl                    voilà un exemple de ma ,
 3811 un avion                      1n a-vj§                      tu vois un avion là
 3853 est il                        et il                         grégoire où est il ?
 3861 est imperturbable             et 5-pER-tyR-babl             adrien il est imperturbable dans
@@ -477,7 +476,7 @@
 3878 est à                         et a                          c' est à dire c' est
 3890 est un                        et 1                          c' est un voiture i(l) marche
 3901 vas y                         vaz i                         vas y grégoire !
-3906 on avait                      §n a-vE                       a qu' on avait y
+3906 on avait                      §n a-vE                       , qu' on avait y
 3932 quand il                      k@t il                        genre là quand il est
 3932 quand il                      k@t il                        un trottoir quand il y
 3934 vas y                         vaz i                         vas y .
@@ -489,11 +488,11 @@
 3946 tes interventions             tez 5-tER-v@-sj§              cadre de tes interventions .
 3953 les adverbes                  lez ad-vERb                   les adverbes de temps .
 3954 tout à                        tut a                         matin , tout à l'
-3954 tout a                        tut a                         heure dit tout a yeur
+3954 tout a                        tut a                         , dit tout a yeur
 3958 peut être                     p2t EtR                       matin ça peut être hier
 3963 quand il                      k@t il                        mais quand il utilise tout à
 3963 tout à                        tut a                         il utilise tout à l'
-3963 est un                        et 1                          heure c' est un tout
+3963 est un                        et 1                          , c' est un tout
 3963 tout à                        tut a                         est un tout à l'
 3963 on a                          §n a                          heure passé on a fait
 3963 tout à                        tut a                         fait ça tout à l'
@@ -504,7 +503,7 @@
 3990 les insulte                   lez 5-sylt                    quand il les insulte c'
 3991 quand il                      k@t il                        quand il leur court après en
 3991 est à                         et a                          angélique c' est à mourir
-3993 ton avis                      t§n a-vi                      mais à ton avis qu' est
+3993 ton avis                      t§n a-vi                      mais à ton avis qu' est-ce
 3993 quand il                      k@t il                        veut dire quand il dit
 3996 en a                          @n a                          que y en a une
 3998 très amusant                  tREz a-my-z@                  c' est très amusant parce
@@ -517,13 +516,10 @@
 4014 un orage                      1n o-RaZ                      a eu un orage très
 4014 quand il                      k@t il                        fort et quand il écoutait
 4016 on a                          §n a                          puis aussi on a eu
-4019 quand est                     k@t e                         quand est ce qu' ils viennent
-4021 quand est                     k@t e                         quand est ce qu' ils viennent
 4034 les aimes                     lez Em                        que tu les aimes les
 4054 est extraordinaire            et Ek-stRa-OR-di-nER          c' est extraordinaire ça .
 4059 ils ont                       ilz §                         les monstres ils ont mangé
 4060 ils ont                       ilz §                         les monstres ils ont mangé
-4074 quand est                     k@t e                         chérinou quand est ce qu' ils
 4075 sont ils                      s§t il                        pas où sont ils .
 4076 viennent ils                  vjEnt il                      demande quand viennent ils .
 4086 en avais                      @n a-vE                       et j' en avais plein
@@ -544,7 +540,7 @@
 4115 tout à                        tut a                         être que tout à l'
 4117 quand ils                     k@t il                        tu reviendras quand ils seront
 4123 mon image                     m§n i-maZ                     ai sur mon image .
-4131 en ai                         @n E                          paix j' en ai marre
+4131 en ai                         @n E                          , j' en ai marre
 4134 deux ans                      d2z @                         deux ans dit cet enfant plein
 4135 un humour                     1n y-muR                      il a un humour pince
 4135 nous envoyer                  nuz @-vwa-je                  rire pour nous envoyer promener
@@ -608,7 +604,7 @@
 4568 un autre                      1n otR                        c' était un autre .
 4570 en est                        @n e                          où il en est exactement
 4570 est exactement                et Eg-zak-t°-m@               il en est exactement .
-4607 est avec                      et a-vEk                      ce qui est avec anne
+4607 est avec                      et a-vEk                      est-ce qui est avec anne
 4610 quand il                      k@t il                        parce que quand il a vu
 4617 bien habillé                  bj5n a-bi-je                  es drôlement bien habillé .
 4618 vous étiez                    vuz e-tje                     vous étiez jolis les petits là
@@ -751,7 +747,7 @@
 5466 elles ont                     Elz §                         pense qu' elles ont besoin
 5469 des oiseaux                   dez wa-zo                     des oiseaux blancs comme ça au
 5474 on arrive                     §n a-Riv                      on arrive à l' île aux
-5475 est à                         et a                          ce qui est à toi
+5475 est à                         et a                          est-ce qui est à toi
 5477 est un                        et 1                          c' est un poisson quelle couleur
 5483 est une                       et yn                         c' est une pieuvre .
 5491 est un                        et 1                          ça c' est un petit
@@ -851,7 +847,7 @@
 6101 est un                        et 1                          ben elle est un petit
 6110 peut être                     p2t EtR                       on peut peut être poser un
 6113 en a                          @n a                          il t' en a fait
-6113 est apparue                   et a-pa-Ry                    cela elle est apparue y
+6113 est apparue                   et a-pa-Ry                    , elle est apparue y
 6114 on est                        §n e                          va travailler on est en
 6114 est en                        et @                          travailler on est en train
 6119 ses affaires                  sez a-fER                     alors ses affaires ça c' est
@@ -871,7 +867,7 @@
 6178 on était                      §n e-tE                       était quand on était rentré
 6187 on en                         §n @                          de rien on en a
 6187 en a                          @n a                          rien on en a quand
-6192 est apparu                    et a-pa-Ry                    premier pourquoi est apparu hier
+6192 est apparu                    et a-pa-Ry                    pourquoi , est apparu hier
 6195 en a                          @n a                          il m' en a sorti
 6198 ton hélicoptère               t§n e-li-kOp-tER              avait construit ton hélicoptère je
 6200 en avait                      @n a-vE                       oui y en avait dans
