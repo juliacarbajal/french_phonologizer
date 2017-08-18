@@ -92,6 +92,7 @@ for corpusdir in dirlist:
 		new_line = new_line.replace("'","' ") # Add a space after apostrophe (we break down words like c'est, l'a, etc)
 		new_line = new_line.replace("aujourd' hui","aujourd'hui") # We correct aujourd'hui (broken in previous line)
 		new_line = new_line.replace("quelqu'  un","quelqu'un")    # We correct quelqu'un/e
+	
 		return new_line
 
 	def print_line(current_line, filename):
@@ -128,6 +129,10 @@ for corpusdir in dirlist:
 					newline = newline.replace(', .','.')
 					newline = newline.replace(', ,',',')
 					newline = newline.replace('. .','.')
+					newline = newline.replace("est ce qu", "est-ce qu")     # Add a dash to est-ce (usually transcribed without the dash in CHILDES)
+					newline = newline.replace("n' est ce pas", "n' est-ce pas") # Expression
+					newline = newline.replace("qui est ce ?", "qui est-ce ?") # Expression
+					newline = newline.replace("c' est-ce", "c' est ce")     # Remove the dash if it was added to c'est ce
 					
 					# Print:
 					if (continue_line == 1):
