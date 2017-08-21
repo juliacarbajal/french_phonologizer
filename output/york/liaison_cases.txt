@@ -156,7 +156,6 @@
 1301 les objets                    lez Ob-ZE                     met pas les objets par
 1339 quand on                      k@t §                         au nez quand on dit
 1353 trois ans                     tRwaz @                       trois ans .
-1356 dix ans                       disz @                        tu auras dix ans .
 1372 vas y                         vaz i                         allez , vas y , explique
 1385 les autres                    lez otR                       vais attacher les autres ?
 1390 ton index                     t§n 5-dEks                    est , ton index !
@@ -325,10 +324,7 @@
 3218 tout à                        tut a                         en route tout à l'
 3220 on en                         §n @                          on en a juste besoin le
 3220 en a                          @n a                          on en a juste besoin le
-3225 froid aux                     fRwat o                       pas trop froid aux pieds
 3227 chaudes évidemment            Sodz e-vi-da-m@               mains très chaudes évidemment .
-3233 froid aux                     fRwat o                       j(e) ai froid aux pieds
-3234 froid aux                     fRwat o                       ai pas froid aux pieds
 3253 en avant                      @n a-v@                       allez , en avant on essuie
 3253 on essuie                     §n E-s8i                      en avant on essuie !
 3259 un autre                      1n otR                        parler sur un autre ton
@@ -621,7 +617,6 @@
 5820 en a                          @n a                          il y en a suffisamment ?
 5844 quand elles                   k@t El                        des casseroles quand elles sont
 5846 en as                         @n a                          , t(u) en as une
-5856 chaud aux                     Sot o                         avoir trop chaud aux mains
 5895 est un                        et 1                          c(e) est un marchand de .
 5896 est un                        et 1                          c(e) est un monsieur qui prend
 5897 quand on                      k@t §                         il prend quand on a quelque
@@ -650,7 +645,6 @@
 6125 on arrose                     §n a-Roz                      allez , on arrose les plantes
 6128 tout à                        tut a                         laisses pour tout à l'
 6139 en a                          @n a                          il y en a d' autres
-6167 six ans                       sisz @                        six ans ?
 6169 plus âgé                      plyz a-Ze                     il est plus âgé que toi
 6170 fait il                       fEt il                        comment se fait il qu' un
 6170 plus âgé                      plyz a-Ze                     bébé soit plus âgé que
@@ -666,9 +660,7 @@
 6220 est une                       et yn                         c(e) est une belle garniture ,
 6230 est un                        et 1                          si c(e) est un gâteau on
 6233 fait il                       fEt il                        comment se fait il que ton
-6233 six ans                       sisz @                        ait déjà six ans ?
 6236 un an                         1n @                          il avait un an et
-6236 six ans                       sisz @                        il a six ans ?
 6239 fait il                       fEt il                        comment se fait il qu' il
 6244 un an                         1n @                          pas encore un an ,
 6246 un an                         1n @                          moins d' un an , on
@@ -705,9 +697,6 @@
 6432 est un                        et 1                          c(e) est un joli prénom ,
 6434 plus âgée                     plyz a-Ze                     elle est plus âgée .
 6439 est autre                     et otR                        , c(e) est autre chose
-6443 six ans                       sisz @                        de dire six ans .
-6445 six ans                       sisz @                        il aura six ans demain
-6446 six ans                       sisz @                        toujours six ans .
 6447 un an                         1n @                          pas d' un an par
 6464 mauvais exemple               mo-vEz Eg-z@pl                quel mauvais exemple .
 6471 peut être                     p2t EtR                       c(e) est peut être de la
@@ -717,7 +706,6 @@
 6491 deux autres                   d2z otR                       de faire deux autres alors
 6494 en a                          @n a                          il y en a cinq là
 6497 bon anniversaire              bOn a-ni-vER-sER              bon anniversaire .
-6501 tous ensemble                 tusz @-s@bl                   on chante tous ensemble ,
 6503 joyeux anniversaire           Zwa-j2z a-ni-vER-sER          joyeux anniversaire , joyeux anniversaire ,
 6503 joyeux anniversaire           Zwa-j2z a-ni-vER-sER          anniversaire , joyeux anniversaire ,
 6504 son anniversaire              s§n a-ni-vER-sER              qui fait son anniversaire .
@@ -727,7 +715,6 @@
 6522 est à                         et a                          donc c(e) est à léa
 6527 on a                          §n a                          et on a fait faire quoi
 6535 tout à                        tut a                         parce que tout à l' heure
-6548 chaud aux                     Sot o                         pour avoir chaud aux petits bras
 6549 chaud aussi                   Sot o-si                      pour avoir chaud aussi .
 6553 en a                          @n a                          il y en a beaucoup
 6554 en a                          @n a                          il y en a de ce
@@ -1171,7 +1158,6 @@
 11013les a                         lez a                         qui me les a donnés
 11015est arrivée                   et a-Ri-ve                    elle est arrivée avec ça *
 11023les oreilles                  lez o-REj                     il mange les oreilles .
-11028grosses orteils               gRosz OR-tEj                  mange les grosses orteils .
 11034est à                         et a                          c(e) est à qui , ça
 11035est à                         et a                          c(e) est à toi .
 11036est à                         et a                          c(e) est à vous deux .
@@ -1513,7 +1499,6 @@
 14700est une                       et yn                         , c(e) est une petite
 14705grandes oreilles              gR@dz o-REj                   a des grandes oreilles .
 14707ses oreilles                  sez o-REj                     grandes , ses oreilles ,
-14708grosses oreilles              gRosz o-REj                   grosses grosses grosses oreilles .
 14710des ailes                     dez El                        , avec des ailes ?
 14719ils ont                       ilz §                         ils ont des ailes tous les
 14719des ailes                     dez El                        ils ont des ailes tous les
@@ -2893,7 +2878,6 @@
 27223un écureuil                   1n e-ky-R9j                   un écureuil .
 27227des acrobaties                dez a-kRo-ba-si               mimi fait des acrobaties .
 27228des acrobaties                dez a-kRo-ba-si               elle fait des acrobaties .
-27230tous envolés                  tusz @-vo-le                  ils sont tous envolés .
 27232est une                       et yn                         c(e) est une poule .
 27241un orchestre                  1n OR-kEstR                   ils font un orchestre .
 27254un extraordinaire             1n Ek-stRa-OR-di-nER          un extraordinaire numéro de yoyo .
@@ -3391,7 +3375,6 @@
 31503des oranges                   dez o-R@Z                     elle presse des oranges .
 31542ils ont                       ilz §                         ils ont tous leurs jouets dans
 31570est arrivé                    et a-Ri-ve                    autre qui est arrivé .
-31578tous ensemble                 tusz @-s@bl                   ils sont tous ensemble .
 31579petits enfants                p°-tiz @-f@                   les deux petits enfants .
 31582ils ont                       ilz §                         ils ont de la salade .
 31628ils ont                       ilz §                         ils ont des tartines .
@@ -3482,9 +3465,7 @@
 32350trop occupée                  tRop o-ky-pe                  t(u) es trop occupée là
 32353ils ont                       ilz §                         est-ce qu' ils ont envie
 32353ont envie                     §t @-vi                       qu' ils ont envie de
-32359tous ensemble                 tusz @-s@bl                   tous ensemble , ils mangent ,
 32362petits ours                   p°-tiz uRs                    et les petits ours .
-32364tous ensemble                 tusz @-s@bl                   tous ensemble .
 32409les ours                      lez uRs                       fait chez les ours ,
 32416des épines                    dez e-pin                     y a des épines dans
 32480mon amour                     m§n a-muR                     hein , mon amour ?
@@ -3586,7 +3567,6 @@
 33131deux oeufs                    d2z 2                         deux oeufs .
 33133deux oeufs                    d2z 2                         deux oeufs , trois oeufs ,
 33133trois oeufs                   tRwaz 2                       oeufs , trois oeufs ,
-33133six oeufs                     sisz 2                        oeufs , six oeufs ,
 33136des oeufs                     dez 2                         pas faire des oeufs sur
 33143des oeufs                     dez 2                         elle fait des oeufs .
 33150quand elle                    k@t El                        anne , quand elle arrive
@@ -3846,7 +3826,6 @@
 34805vas y                         vaz i                         vas y , prends la alors
 34806les animaux                   lez a-ni-mo                   amener voir les animaux .
 34807les animaux                   lez a-ni-mo                   lui présenter les animaux .
-34811tous installés                tusz 5s-ta-le                 ils sont tous installés ?
 34819bien aller                    bj5n a-le                     je veux bien aller au
 34833vas y                         vaz i                         vas y , fais la !
 34836les animaux                   lez a-ni-mo                   présentes tous les animaux ?
@@ -4090,7 +4069,6 @@
 36633est après                     et a-pRE                      c(e) est après l' été .
 36655est une                       et yn                         c(e) est une petite jupe .
 36671plus à                        plyz a                        dit non plus à sarah
-36674froid aux                     fRwat o                       va avoir froid aux pieds
 36675on a                          §n a                          on a été faire de la
 36678quand on                      k@t §                         quand on descendait .
 36685peut être                     p2t EtR                       puis peut être que jonas ,
@@ -4265,7 +4243,6 @@
 38630on a                          §n a                          on a des poules .
 38654est un                        et 1                          c(e) est un mouton .
 38660en a                          @n a                          ) y en a plus
-38661tous ensemble                 tusz @-s@bl                   les mets tous ensemble ,
 38669en a                          @n a                          il y en a encore
 38671en ai                         @n E                          (n' ) en ai plus
 38681elles embêtent                Elz @-bEt                     elles embêtent tout le monde .
@@ -4482,7 +4459,6 @@
 40193un ici                        1n i-si                       en a un ici .
 40195on a                          §n a                          après on a deux bouteilles de
 40198vas y                         vaz i                         vas y , mets la !
-40207six oeufs                     sisz 2                        alors six oeufs frais .
 40211nous avons                    nuz a-v§                      et nous avons ensuite du jus
 40212on a                          §n a                          on a bientôt fini .
 40215des olives                    dez o-liv                     des olives encore .
@@ -4565,7 +4541,6 @@
 40727est arrivé                    et a-Ri-ve                    , il est arrivé ,
 40730est arrivé                    et a-Ri-ve                    il est arrivé sur ses jambes
 40740trois ans                     tRwaz @                       qui as trois ans .
-40744six ans                       sisz @                        qui a six ans et
 40748dans une                      d@z yn                        dans une dizaine de jours ,
 40751vingt ans                     v5t @                         y a vingt ans que
 40752vingt ans                     v5t @                         vingt ans .
@@ -4584,12 +4559,9 @@
 40817on était                      §n e-tE                       on était là (à-crier) le gâteau
 40822deux ans                      d2z @                         il avait deux ans , le
 40825trois ans                     tRwaz @                       il avait trois ans , le
-40832six ans                       sisz @                        six ans , il a ?
-40838six ans                       sisz @                        six ans .
 40847trois ans                     tRwaz @                       as fait trois ans .
 40851chez une                      Sez yn                        elle est chez une nounou .
 40854des enfants                   dez @-f@                      y a des enfants qui
-40857tous ensemble                 tusz @-s@bl                   dames mais tous ensemble .
 40859ils aiment                    ilz Em                        oui , ils aiment bien
 40861on a                          §n a                          sais , on a lu
 40893les arêtes                    lez a-REt                     rien que les arêtes .
@@ -4650,7 +4622,6 @@
 41239ils iront                     ilz i-R§                      enfants , ils iront sur
 41249petits ensemble               p°-tiz @-s@bl                 tous les petits ensemble alors
 41250on enlève                     §n @-lEv                      , alors on enlève la
-41253tous autour                   tusz o-tuR                    les mettre tous autour de
 41256des enfants                   dez @-f@                      la table des enfants .
 41278on en                         §n @                          comme ça on en met deux
 41292en a                          @n a                          il y en a deux .
@@ -4837,7 +4808,6 @@
 42574ils apportent                 ilz a-pORt                    ils apportent des instruments pour briser
 42574des instruments               dez 5s-tRy-m@                 ils apportent des instruments pour briser
 42575bien attention                bj5n a-t@-sj§                 , faites bien attention !
-42584tous ensemble                 tusz @-s@bl                   alors tous ensemble , ils rentrent
 42588un orage                      1n o-RaZ                      assombrit et un orage éclate
 42589plus en                       plyz @                        pleut de plus en plus
 42595mon aspirateur                m§n as-pi-Ra-t9R              passerai avec mon aspirateur pour

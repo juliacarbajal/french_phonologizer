@@ -78,7 +78,6 @@
 1201 en a                          @n a                          on en a perdu .
 1227 est en                        et @                          il est en haut ?
 1253 les autres                    lez otR                       les autres .
-1269 froid aux                     fRwat o                       vas avoir froid aux pieds
 1314 bien entrer                   bj5n @-tRe                    tu voudrais bien entrer d'
 1388 en a                          @n a                          oui y en a un
 1424 tes yeux                      tez j2                        le dedans tes yeux ca
@@ -382,7 +381,6 @@
 6443 bien un                       bj5n 1                        a toujours bien un moyen
 6454 en ai                         @n E                          j' n' en ai plus .
 6461 les autres                    lez otR                       dans les autres sacs la dans
-6507 froid aux                     fRwat o                       elle a froid aux mains ?
 6523 est une                       et yn                         bon c' est une horloge
 6528 en a                          @n a                          y en a combien des livres
 6529 en a                          @n a                          y en a combien des livres
@@ -817,7 +815,6 @@
 12068on a                          §n a                          on a mange quoi dans l'
 12069on a                          §n a                          on a mange des gateaux ?
 12072on est                        §n e                          on est alles voir les grosses
-12072grosses autos                 gRosz o-to                    voir les grosses autos et
 12078on a                          §n a                          on a vu un gros camion
 12078on a                          §n a                          rouge et on a entndu
 12094quand on                      k@t §                         ah quand on rince les cheveux
@@ -998,7 +995,6 @@
 13868les autos                     lez o-to                      sont ils les autos pour
 13868des autos                     dez o-to                      il manque des autos ?
 13869les autos                     lez o-to                      ou sont les autos ?
-13894froid aux                     fRwat o                       vas avoir froid aux p'
 13902est une                       et yn                         c' est une cheminee ca .
 13937bien attache                  bj5n a-taS                    c' est bien attache .
 13942on a                          §n a                          si on a pas ca et
@@ -1371,8 +1367,6 @@
 17641on appelle                    §n a-pEl                      pas comment on appelle ca
 17642est un                        et 1                          ca c' est un fusil
 17647est un                        et 1                          c' est un vrai .
-17665froid aux                     fRwat o                       as pas froid aux pieds
-17666froid aux                     fRwat o                       as pas froid aux pieds
 17673est a                         et a                          oui c' est a toi mais
 17717est un                        et 1                          c' est un siege .
 17738est un                        et 1                          ca c' est un siege *
@@ -1975,7 +1969,6 @@
 23790est amusant                   et a-my-z@                    que c' est amusant .
 23824quand on                      k@t §                         est pour quand on tombe
 23826est un                        et 1                          c' est un parachute .
-23834six octobre                   sisz Ok-tObR                  le six octobre .
 23860est ailleurs                  et a-j9R                      ah il est ailleurs parce que
 23870quand il                      k@t il                        l' camion quand il est
 23895les escaliers                 lez Es-ka-lje                 pas prendre les escaliers .
@@ -2104,7 +2097,6 @@
 25267un autre                      1n otR                        faut mettre un autre .
 25278quand on                      k@t §                         va la quand on enregistre
 25278on enregistre                 §n @R-ZistR                   la quand on enregistre .
-25284froid aux                     fRwat o                       as pas froid aux pieds
 25292des autos                     dez o-to                      va donner des autos ?
 25294sous a                        suz a                         donnera les sous a santa
 25296sont ils                      s§t il                        ou sont ils tes sous ?
@@ -2112,20 +2104,17 @@
 25312est aujourd'hui               et o-ZuR-d8i                  c' est aujourd'hui l' vingt deux
 25316en a                          @n a                          y en a beaucoup ?
 25341bien un                       bj5n 1                        tu voudrais bien un traineau comme
-25364froid aux                     fRwat o                       pas avoir froid aux mains
 25369froid a                       fRwat a                       pas avoir froid a quoi
 25370aux oreilles                  oz o-REj                      aux oreilles .
 25373sont elles                    s§t El                        tiennes ou sont elles *
 25375les avais                     lez a-vE                      tu les avais aux pieds quand
 25376les as                        lez a                         tu les as laissees en haut
-25377froid aux                     fRwat o                       as pas froid aux pieds
 25384est a                         et a                          c' est a papa mais c'
 25384bas a                         baz a                         a les bas a ses
 25414sont elles                    s§t El                        ben ou sont elles ses
 25434est un                        et 1                          ah c' est un train ca
 25443elles e                       Elz 2                         elles e elles sont pas trop
 25471en a                          @n a                          qu' elle en a besoin
-25490froid aux                     fRwat o                       t' as froid aux pieds et
 25490froid a                       fRwat a                       fait tout froid a terre
 25500quand on                      k@t §                         aller jouer quand on est
 25500on est                        §n e                          jouer quand on est malade
@@ -2313,13 +2302,11 @@
 27327est un                        et 1                          c' est un sapin avec quoi
 27332est un                        et 1                          c' est un sapin de noel
 27333est un                        et 1                          c' est un sapin qui est
-27338froid aux                     fRwat o                       vas avoir froid aux pieds
 27346on ait                        §n e                          attendre qu' on ait tout
 27351quand on                      k@t §                         quand on aura fini oui ?
 27351on aura                       §n o-Ra                       quand on aura fini oui ?
 27354est a                         et a                          c' est a toi ces livres~la
 27359est a                         et a                          ah c' est a la bibliotheque
-27367tous ensemble                 tusz @-s@bl                   les met tous ensemble et
 27371est une                       et yn                         est c' est une quoi
 27380est un                        et 1                          non c' est un roi
 27387dans un                       d@z 1                         des monsieurs dans un bateau ?
@@ -3195,7 +3182,6 @@
 35663ton autre                     t§n otR                       oui mange ton autre chique va
 35701en a                          @n a                          y en a quatre des raquettes
 35726sont elles                    s§t El                        ce sont elles sont pas grosses
-35726grosses assez                 gRosz a-se                    sont pas grosses assez .
 35739bien aller                    bj5n a-le                     papa veut bien aller jouer
 35766est une                       et yn                         ca c' est une surprise pour
 35770mon avis                      m§n a-vi                      tu veux mon avis .
@@ -3362,11 +3348,9 @@
 37519on ira                        §n i-Ra                       on ira faire une promenade avec
 37519on ira                        §n i-Ra                       center et on ira encore
 37519les au                        lez o                         encore voir les au grosses
-37519grosses autos                 gRosz o-to                    les au grosses autos des
 37521on a                          §n a                          oh ou on a ete voir
 37522elles etaient                 Elz e-tE                      garages qu' elles etaient .
 37523on avait                      §n a-vE                       pas qu' on avait vu
-37523grosses autos                 gRosz o-to                    vu les grosses autos des
 37527les autos                     lez o-to                      oui les autos etaient dans l'
 37555on a                          §n a                          si on a de la terre
 37588les on                        lez §                         on n' les on n' les
@@ -3792,12 +3776,7 @@
 41312un autre                      1n otR                        mais dans un autre velo
 41335quand on                      k@t §                         quand on regarde bien on trouve
 41348est a                         et a                          bateau qui est a antoine
-41356six heures                    sisz 9R                       a six heures .
-41358six heures                    sisz 9R                       comme ca six heures .
-41359dix heures                    disz 9R                       c' est dix heures .
-41360six heures                    sisz 9R                       fait a six heures ?
 41361fait il                       fEt il                        comment fait il a six heures
-41361six heures                    sisz 9R                       il a six heures ?
 41365est a                         et a                          c' est a qui * sportscar
 41391est une                       et yn                         c' est une voiture qui va
 41398on a                          §n a                          on a ete voir qui donc
@@ -4291,7 +4270,6 @@
 45716en avait                      @n a-vE                       n' y en avait pas
 45718petit aussi                   p°-tit o-si                   pas un petit aussi ?
 45729petits enfants                p°-tiz @-f@                   tout les petits enfants .
-45730tous a                        tusz a                        aux tous a tous les trois
 45735en as                         @n a                          tu en as deux toi ?
 45752ils avaient                   ilz a-vE                      pas qu' ils avaient un
 45763on avait                      §n a-vE                       si on avait su on l'

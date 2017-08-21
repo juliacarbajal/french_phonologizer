@@ -63,6 +63,17 @@ liaison['f'] = 'v'
 liaison['x'] = 'z'
 liaison['r'] = 'R'
 
+pronunciation = {}
+pronunciation['s'] = ['s', 'z']
+pronunciation['z'] = 'z'
+pronunciation['t'] = 't'
+pronunciation['p'] = 'p'
+pronunciation['n'] = 'n'
+pronunciation['d'] = 'd'
+pronunciation['f'] = 'f'
+pronunciation['x'] = ['s', 'z']
+pronunciation['r'] = 'R'
+
 # Consonants:
 obstruents = ['p', 'b', 't', 'd', 'k', 'g', 'f', 'v', 's', 'z', 'S', 'Z']
 liquids    = ['l', 'R']
@@ -168,7 +179,7 @@ always_except['trop']  = exceptions_next
 always_except['beaucoup'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
 
 for adjective in adjectives:
-	always_except[adjective] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'écoutez', 'écoute', 'adrien', 'avec']
+	always_except[adjective] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec']
 
 # Cases that apply only if followed by specific items:
 only_before = {}
@@ -258,7 +269,7 @@ enchainement_exceptions = ['9m']
 
 #### FUNCTIONS ####
 def silent_consonant(letter, phone):
-	if (letter in liaison) and (liaison[letter] != phone):
+	if (letter in liaison) and (phone not in pronunciation[letter]):
 		return True
 	else:
 		return False

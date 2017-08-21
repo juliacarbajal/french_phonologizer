@@ -624,7 +624,6 @@
 1259 qu' est-ce                    kEs                          qu' est-ce qu' y a a
 1259 qu' y                         ki                           qu' est-ce qu' y a a
 1259 l' enregistreur               l@R-Zis-tR9R                 a a l' enregistreur ?
-1269 froid aux                     fRwa to                       vas avoir froid aux pieds
 1270 qu' est-ce                    kEs                          qu' est-ce que tu dois mettre
 1270 mettre aux                    mEt Ro                        tu dois mettre aux pieds
 1271 qu' est-ce                    kEs                          qu' est-ce que tu dois mettre
@@ -3282,7 +3281,6 @@
 6503 c' est                        se                           c' est quoi ca ?
 6504 t' un                         t1                           c' t' un pantalon une culotte
 6507 elle a                        E la                          elle a froid aux mains ?
-6507 froid aux                     fRwa to                       elle a froid aux mains ?
 6509 choses hein                   So z5                         des aut' choses hein .
 6517 qu' est-ce                    kEs                          ca qu' est-ce que c' est
 6517 c' est                        se                           est-ce que c' est ?
@@ -6088,7 +6086,7 @@
 12069on a                          § na                          on a mange des gateaux ?
 12070t' as                         ta                           t' as mange des gateaux dans
 12072on est                        § ne                          on est alles voir les grosses
-12072grosses autos                 gRos zo-to                    voir les grosses autos et
+12072grosses autos                 gRo so-to                     voir les grosses autos et
 12074l' autobus                    lo-to-bys                    l' autobus avance dans la rue
 12074autobus avance                lo-to-by sa-v@s               l' autobus avance dans la rue
 12075l' eau                        lo                           tombes dans l' eau ?
@@ -7237,7 +7235,6 @@
 13889vite en                       vi t@                         cours vite en haut .
 13890vite en                       vi t@                         vite cours vite en haut
 13892toujours a                    tu-Zu Ra                      tu attends toujours a la derniere
-13894froid aux                     fRwa to                       vas avoir froid aux p'
 13897c' est                        se                           oh c' est le p' tit
 13898pour avancer                  pu Ra-v@-se                   pour avancer .
 13899pour avancer                  pu Ra-v@-se                   pour avancer i fait d' la
@@ -9743,9 +9740,7 @@
 17661l' eau                        lo                           alle dans l' eau ?
 17664l' eau                        lo                           aller dans l' eau .
 17665t' as                         ta                           t' as pas froid aux pieds
-17665froid aux                     fRwa to                       as pas froid aux pieds
 17666n' as                         na                           tu n' as pas froid aux
-17666froid aux                     fRwa to                       as pas froid aux pieds
 17672il aime                       i lEm                         javier il aime bien le p'
 17673c' est                        set                          oui c' est a toi mais
 17673est a                         se ta                         oui c' est a toi mais
@@ -13540,7 +13535,7 @@
 23826est un                        se t1                         c' est un parachute .
 23829regarde un                    R°-gaR d1                     regarde un peu ton livre cheri
 23831qu' est-ce                    kEs                          qu' est-ce que tu fais alors
-23834six octobre                   sis zOk-tObR                  le six octobre .
+23834six octobre                   si sOk-tObR                   le six octobre .
 23837t' aimes                      tEm                          t' aimes bien ca ?
 23840n' est                        ne                           c' n' est pas bien mis
 23841n' est                        ne                           c' n' est pas juste .
@@ -14456,7 +14451,6 @@
 25278on enregistre                 t§ n@R-ZistR                  la quand on enregistre .
 25282t' es                         tE                           toi t' es ici .
 25284n' as                         na                           tu n' as pas froid aux
-25284froid aux                     fRwa to                       as pas froid aux pieds
 25292des autos                     de zo-to                      va donner des autos ?
 25294sous a                        su za                         donnera les sous a santa
 25295t' as                         ta                           toi t' as des sous toi
@@ -14496,7 +14490,6 @@
 25356qu' on                        k§                           encore quoi qu' on met
 25359qu' on                        k§                           c' qu' on met ?
 25363pour aller                    pu Ra-le                      quelque chose pour aller jouer
-25364froid aux                     fRwa to                       pas avoir froid aux mains
 25365qu' est-ce                    kEs                          qu' est-ce qu' on met pour
 25365qu' on                        k§                           qu' est-ce qu' on met pour
 25369froid a                       fRwa ta                       pas avoir froid a quoi
@@ -14508,7 +14501,6 @@
 25375monte en                      m§ t@                         tu es monte en haut
 25376les as                        le za                         tu les as laissees en haut
 25377n' as                         na                           tu n' as pas froid aux
-25377froid aux                     fRwa to                       as pas froid aux pieds
 25380qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 25383c' est                        se                           s papa c' est pas a
 25384c' est                        set                          c' est a papa mais c'
@@ -14574,7 +14566,6 @@
 25486d' abord                      da-bOR                       mets d' abord les tiennes .
 25488pantoufles alors              p@-tuf la-lOR                 chercher tes pantoufles alors si
 25490t' as                         ta                           t' as froid aux pieds et
-25490froid aux                     fRwa to                       t' as froid aux pieds et
 25490froid a                       fRwa ta                       fait tout froid a terre
 25492qu' elle                      kEl                          ou c' qu' elle est ta
 25492elle est                      kE le                         c' qu' elle est ta
@@ -15711,7 +15702,6 @@
 27332est un                        se t1                         c' est un sapin de noel
 27333c' est                        set                          c' est un sapin qui est
 27333est un                        se t1                         c' est un sapin qui est
-27338froid aux                     fRwa to                       vas avoir froid aux pieds
 27339t' ai                         tE                           je t' ai d' ja d'
 27340n' est                        ne                           que ce n' est pas
 27341c' est                        se                           comme ca c' est mieux
@@ -15730,8 +15720,8 @@
 27359est a                         se ta                         ah c' est a la bibliotheque
 27362qu' est-ce                    kEs                          et qu' est-ce qu' i' y
 27362qu' i'                        ki                           qu' est-ce qu' i' y
-27367tous ensemble                 tus z@-s@bl                   les met tous ensemble et
-27367ensemble et                   z@-s@b le                     met tous ensemble et maman
+27367tous ensemble                 tu s@-s@bl                    les met tous ensemble et
+27367ensemble et                   s@-s@b le                     met tous ensemble et maman
 27367timbres hein                  t5b R5                        prend les timbres hein oui
 27368m oui                         E mwi                         m oui .
 27369c' est                        se                           sont la c' est pas
@@ -21497,7 +21487,7 @@
 35719qu' on                        k§                           tits volants qu' on joue
 35725balles avec                   ba la-vEk                     avec des balles avec ces
 35726sont elles                    s§ tEl                        ce sont elles sont pas grosses
-35726grosses assez                 gRos za-se                    sont pas grosses assez .
+35726grosses assez                 gRo sa-se                     sont pas grosses assez .
 35728qu' on                        k§                           comme ca qu' on joue
 35729c' est                        se                           c' est ca .
 35730c' est                        se                           ca c' est comme les balls
@@ -22564,14 +22554,14 @@
 37519promenade avec                pROm-na da-vEk                faire une promenade avec toutes
 37519on ira                        § ni-Ra                       center et on ira encore
 37519les au                        le zo                         encore voir les au grosses
-37519grosses autos                 gRos zo-to                    les au grosses autos des
+37519grosses autos                 gRo so-to                     les au grosses autos des
 37521on a                          § na                          oh ou on a ete voir
 37521voir une                      vwa Ryn                       a ete voir une fois
 37522qu' elles                     kElz                         les garages qu' elles etaient
 37522elles etaient                 kEl ze-tE                     garages qu' elles etaient .
 37523qu' on                        k§n                          rappelles pas qu' on avait
 37523on avait                      k§ na-vE                      pas qu' on avait vu
-37523grosses autos                 gRos zo-to                    vu les grosses autos des
+37523grosses autos                 gRo so-to                     vu les grosses autos des
 37527les autos                     le zo-to                      oui les autos etaient dans l'
 37529c' est                        se                           oui c' est des grands .
 37532qu' i'                        ki                           pourquoi est-ce qu' i' vont
@@ -25194,15 +25184,15 @@
 41349m' as                         ma                           mais tu m' as raconte quelque
 41349chose avec                    So za-vEk                     raconte quelque chose avec du
 41354qu' est-ce                    kEs                          m qu' est-ce que tu fais
-41356six heures                    sis z9R                       a six heures .
-41358six heures                    sis z9R                       comme ca six heures .
+41356six heures                    si s9R                        a six heures .
+41358six heures                    si s9R                        comme ca six heures .
 41359c' est                        se                           ah ca c' est dix heures
-41359dix heures                    dis z9R                       c' est dix heures .
+41359dix heures                    di s9R                        c' est dix heures .
 41360qu' il                        kil                          comment est-ce qu' il fait a
-41360six heures                    sis z9R                       fait a six heures ?
+41360six heures                    si s9R                        fait a six heures ?
 41361fait il                       fE til                        comment fait il a six heures
 41361il a                          ti la                         comment fait il a six heures
-41361six heures                    sis z9R                       il a six heures ?
+41361six heures                    si s9R                        il a six heures ?
 41363il a                          i la                          il a du soleil ou bien
 41365c' est                        set                          c' est a qui * sportscar
 41365est a                         se ta                         c' est a qui * sportscar
@@ -28237,7 +28227,7 @@
 45728etre a                        Et Ra                         est peut etre a tout
 45728monde hein                    m§ d5                         tout l' monde hein .
 45729petits enfants                p°-ti z@-f@                   tout les petits enfants .
-45730tous a                        tus za                        aux tous a tous les trois
+45730tous a                        tu sa                         aux tous a tous les trois
 45731ensemble hein                 @-s@b l5                      a derek ensemble hein .
 45732c' etait                      se-tE                        le wagon c' etait a
 45735en as                         @ na                          tu en as deux toi ?

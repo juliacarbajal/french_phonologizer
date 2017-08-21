@@ -348,7 +348,6 @@
 446  elle est                      E le                          si elle est là .
 449  qu' est                       ke                           qu' est ce y a ,
 450  qu' est                       ke                           qu' est ce tu racontes ?
-460  froid aux                     fRwa to                       tu auras froid aux pieds
 464  elle est                      E le                          même , elle est là
 466  c' est                        se                           , mais c' est pas
 467  j' ai                         ZE                           , mais j' ai pas
@@ -526,7 +525,6 @@
 787  j' y                          Zi                           non , j' y touche
 788  il a                          i la                          ton front il a rien
 789  il est                        i le                          il est guéri ton front .
-792  bas aux                       ba zo                         pas là bas aux boutons
 794  c' est                        se                           oh , c' est joli .
 795  faire un                      fE R1                         tu veux faire un petit caca
 807  pousse un                     pu s1                         ben pousse un peu , ma
@@ -2350,7 +2348,7 @@
 3257 mémoire avec                  me-mwa Ra-vEk                 a une mémoire avec les
 3257 qu' ont                       k§                           les trucs qu' ont fait
 3257 les adultes                   le za-dylt                    ont fait les adultes !
-3258 six heures                    sis z9R                       * à six heures du matin
+3258 six heures                    si s9R                        * à six heures du matin
 3264 il est                        i le                          il est devenu monsieur , maintenant
 3265 vas y                         va zi                         tiens , vas y , mets
 3266 c' est                        se                           oh , c' est parce que
@@ -2550,13 +2548,8 @@
 3510 qu' il                        kil                          enlevé celui qu' il fallait
 3511 l' enlever                    l@l-ve                       faut pas l' enlever celui
 3512 qu' est                       ke                           qu' est ce tu fais ?
-3514 froid aux                     fRwa to                       tu as froid aux pieds
-3514 froid aux                     fRwa to                       encore plus froid aux pieds
 3515 c' est                        se                           c' est vrai que tu as
-3515 froid aux                     fRwa to                       tu as froid aux pieds
 3519 t' as                         ta                           mais t' as froid aux pieds
-3519 froid aux                     fRwa to                       t' as froid aux pieds
-3520 froid aux                     fRwa to                       tu as froid aux pieds
 3525 il a                          i la                          , là il a des
 3527 il a                          i la                          il a des sandales là dessus
 3529 il a                          i la                          là , il a un
@@ -5899,8 +5892,8 @@
 7541 j' ai                         ZE                           parce que j' ai mis la
 7542 j' ai                         ZE                           parce que j' ai fini .
 7543 bols aussi                    bO lo-si                      a deux bols aussi .
-7546 dix heures                    dis z9R                       vient à dix heures .
-7547 dix heures                    dis z9R                       à dix heures ?
+7546 dix heures                    di s9R                        vient à dix heures .
+7547 dix heures                    di s9R                        à dix heures ?
 7548 c' est                        set                          c' est un peu tôt ?
 7548 est un                        se t1                         c' est un peu tôt ?
 7549 il y                          i li                          comme ça il y aura une
@@ -6525,8 +6518,8 @@
 8337 qu' est-ce                    kEs                          qu' est-ce que tu voudrais faire
 8337 faire avec                    fE Ra-vEk                     tu voudrais faire avec ?
 8338 d' abord                      da-bOR                       réponds moi d' abord .
-8341 dix heures                    dis z9R                       ai dit dix heures et
-8341 heures et                     z9 Re                         dit dix heures et demie
+8341 dix heures                    di s9R                        ai dit dix heures et
+8341 heures et                     s9 Re                         dit dix heures et demie
 8342 c' est                        se                           parce que c' est moi
 8345 c' est                        se                           c' est trop tard ?
 8346 j' aille                      Zaj                          faut que j' aille au
@@ -6550,7 +6543,7 @@
 8373 c' est                        se                           pour moi c' est .
 8375 c' était                      se-tE                        tôt c' était quoi toi ?
 8376 c' était                      se-tE                        , tôt c' était six
-8376 six heures                    sis z9R                       c' était six heures quoi
+8376 six heures                    si s9R                        c' était six heures quoi
 8377 sept heures                   sE t9R                        dit à sept heures et
 8377 heures et                     t9 Re                         à sept heures et demie
 8382 il est                        i le                          oh il est couleur métal ,
@@ -8942,10 +8935,10 @@
 11183l' ordre                      lORd                         consultatif à l' ordre du
 11183jour et                       Zu Re                         ordre du jour et puis
 11183j' arriverai                  Za-Ri-vRE                    et puis j' arriverai vers
-11183dix heures                    dis z9R                       arriverai vers dix heures et
-11183heures et                     z9 Re                         vers dix heures et demie
-11183dix heures                    dis z9R                       demie , dix heures enfin
-11183heures enfin                  z9 R@-f5                      , dix heures enfin par
+11183dix heures                    di s9R                        arriverai vers dix heures et
+11183heures et                     s9 Re                         vers dix heures et demie
+11183dix heures                    di s9R                        demie , dix heures enfin
+11183heures enfin                  s9 R@-f5                      , dix heures enfin par
 11184d' accord                     da-kOR                       d' accord ?
 11194qu' est-ce                    kEs                          qu' est-ce qu' y a eu
 11194qu' y                         ki                           qu' est-ce qu' y a eu
@@ -9539,7 +9532,6 @@
 11874elle a                        E la                          elle a cassé un meuble ?
 11876elle y                        E li                          non , elle y est
 11880brosse à                      bRO sa                        * brosse à dents .
-11884froid aux                     fRwa to                       va avoir froid aux pieds
 11885c' est                        se                           mais comme c' est bien de
 11886c' est                        se                           c' est bien .
 11888c' est                        se                           mais c' est très bien ça
@@ -10343,7 +10335,6 @@
 12887qu' est                       ke                           fais , qu' est ce
 12888part et                       pa Re                         pas quelque part et *
 12889c' est                        se                           Philippe , c' est pas
-12891froid aux                     fRwa to                       vas avoir froid aux pieds
 12894m' habiller                   ma-bi-je                     je vais m' habiller .
 12896qu' est-ce                    kEs                          ah qu' est-ce que c' est
 12896c' est                        se                           est-ce que c' est que
@@ -11531,8 +11522,8 @@
 14293qu' elle                      kEl                          à Liliane qu' elle vienne
 14294c' est                        se                           le jeudi c' est sacré .
 14297quelle heure                  kE l9R                        à quelle heure je dois être
-14298six heures                    sis z9R                       six heures .
-14299six heures                    sis z9R                       six heures .
+14298six heures                    si s9R                        six heures .
+14299six heures                    si s9R                        six heures .
 14303une histoire                  y nis-twaR                    pour raconter une histoire sur
 14303sur un                        sy R1                         une histoire sur un film
 14303film où                       fil mu                        sur un film où y
@@ -11673,7 +11664,7 @@
 14439l' éther                      le-tER                       même de l' éther .
 14440c' est                        se                           c' est pas très bien ?
 14445c' est                        se                           c' est doux ?
-14446six heures                    sis z9R                       six heures , hélas .
+14446six heures                    si s9R                        six heures , hélas .
 14447qu' est                       ke                           qu' est ce tu fais ?
 14448m' as                         ma                           ah tu m' as dit que
 14448l' histoire                   lis-twaR                     me raconterais l' histoire de
@@ -14000,8 +13991,8 @@
 17230en aussi                      @ no-si                       , mets en aussi un
 17236huit heures                   8i t9R                        réveiller à huit heures moins
 17237jusqu' à                      Zys ka                        * jusqu' à neuf heures et
-17237neuf heures                   n9f v9R                       jusqu' à neuf heures et
-17237heures et                     v9 Re                         à neuf heures et quart
+17237neuf heures                   n9 f9R                        jusqu' à neuf heures et
+17237heures et                     f9 Re                         à neuf heures et quart
 17239qu' est                       ke                           hein , qu' est ce
 17241en a                          @ na                          y en a plus , alors
 17244il a                          i la                          le pot il a dit
@@ -14682,7 +14673,7 @@
 18126est arrivé                    e ta-Ri-ve                    il lui est arrivé ?
 18132les oiseaux                   le zwa-zo                     comme ça les oiseaux d'
 18132d' habitude                   da-bi-tyd                    les oiseaux d' habitude ?
-18133tous habillés                 tus za-bi-je                  ils sont tous habillés ceux là
+18133tous habillés                 tu sa-bi-je                   ils sont tous habillés ceux là
 18136c' est                        set                          c' est un biberon pour qui
 18136est un                        se t1                         c' est un biberon pour qui
 18137c' est                        se                           c' est pour les chats ?
@@ -15956,9 +15947,9 @@
 19843qu' il                        kil                          qu' est-ce qu' il a fait
 19843il a                          ki la                         est-ce qu' il a fait
 19844être à                        Et Ra                         je devais être à dix
-19844dix heures                    dis z9R                       être à dix heures *
+19844dix heures                    di s9R                        être à dix heures *
 19846être à                        Et Ra                         je devais être à dix
-19846dix heures                    dis z9R                       être à dix heures *
+19846dix heures                    di s9R                        être à dix heures *
 19848qu' est-ce                    kEs                          qu' est-ce que tu regardes sous
 19849j' ai                         ZE                           quand j' ai dit à Gérard
 19849m' a                          ma                           , il m' a dit
@@ -16030,7 +16021,7 @@
 19910halle aux                     a lo                          à la halle aux vins
 19911c' est                        se                           c' est gentil ça .
 19912lève à                        lE va                         je te lève à neuf heures
-19912neuf heures                   n9f v9R                       lève à neuf heures du
+19912neuf heures                   n9 f9R                        lève à neuf heures du
 19913c' est                        se                           c' est très gentil ça .
 19917qu' y                         ki                           je trouve qu' y a des
 19918qu' elle                      kEl                          parce qu' elle a plus le

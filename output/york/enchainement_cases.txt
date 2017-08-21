@@ -874,7 +874,7 @@
 1352 c(e) est                      se                           ça , c(e) est bien ,
 1353 trois ans                     tRwa z@                       trois ans .
 1354 c(e) est                      se                           ça , c(e) est dix
-1356 dix ans                       dis z@                        tu auras dix ans .
+1356 dix ans                       di s@                         tu auras dix ans .
 1359 il y                          i li                          sept , il y a
 1360 s' arrêter                    sa-Re-te                     ça pouvait s' arrêter là
 1362 QU' est-ce                    kEs                          QU' est-ce que tu bois Là
@@ -1987,13 +1987,10 @@
 3222 j(e) enlèverais               Z@-lE-vRE                    place , j(e) enlèverais un
 3222 d' eau                        do                           un peu d' eau (de-l'
 3225 n' as                         na                           que tu n' as pas
-3225 froid aux                     fRwa to                       pas trop froid aux pieds
 3225 l' eau                        lo                           Là dans l' eau froide
 3227 j(e) ai                       ZE                           j(e) ai les mains très chaudes
 3227 chaudes évidemment            Sod ze-vi-da-m@               mains très chaudes évidemment .
 3233 j(e) ai                       ZE                           oui j(e) ai froid aux pieds
-3233 froid aux                     fRwa to                       j(e) ai froid aux pieds
-3234 froid aux                     fRwa to                       ai pas froid aux pieds
 3237 qu' elle                      kEl                          tant qu' elle n' aura pas
 3237 n' aura                       no-Ra                        qu' elle n' aura pas
 3237 mettre un                     mEt R1                        à en mettre un peu
@@ -3630,7 +3627,6 @@
 5851 d' eau                        do                           as suffisamment d' eau ,
 5855 c(e) est                      se                           c(e) est de l' eau chaude
 5855 l' eau                        lo                           est de l' eau chaude
-5856 chaud aux                     So to                         avoir trop chaud aux mains
 5857 c(e) est                      se                           parce que c(e) est de
 5857 l' eau                        lo                           est de l' eau chaude
 5860 L' ouvrir                     lu-vRiR                      va TE L' ouvrir .
@@ -3823,7 +3819,7 @@
 6164 aujourd' hui                  o-ZuR d8i                     fait quoi aujourd' hui ?
 6165 quel âge                      kE laZ                        quel âge a t il ,
 6165 âge a                         la Za                         quel âge a t il ,
-6167 six ans                       sis z@                        six ans ?
+6167 six ans                       si s@                         six ans ?
 6168 il est                        i le                          et il est Si petit que
 6169 il est                        i le                          il est plus âgé que toi
 6169 plus âgé                      ply za-Ze                     il est plus âgé que toi
@@ -3873,13 +3869,13 @@
 6231 mettre à                      mEt Ra                        peut se mettre à la
 6232 il y                          i li                          moi , il y a une
 6233 fait il                       fE til                        comment se fait il que ton
-6233 six ans                       sis z@                        ait déjà six ans ?
+6233 six ans                       si s@                         ait déjà six ans ?
 6236 hier il                       jE Ril                        hier il avait un an et
 6236 il avait                      Ri la-vE                      hier il avait un an et
 6236 un an                         1 n@                          il avait un an et
 6236 aujourd' hui                  o-ZuR d8i                     an et aujourd' hui il
 6236 il a                          i la                          aujourd' hui il a six
-6236 six ans                       sis z@                        il a six ans ?
+6236 six ans                       si s@                         il a six ans ?
 6239 fait il                       fE til                        comment se fait il qu' il
 6239 qu' il                        kil                          fait il qu' il soit
 6240 n' est                        ne                           ben ce n' est pas normal
@@ -4042,13 +4038,13 @@
 6439 est autre                     se tot                        , c(e) est autre chose
 6442 qu' elle                      kEl                          plus grande qu' elle alors
 6442 elle alors                    kE la-lOR                     grande qu' elle alors tu
-6443 six ans                       sis z@                        de dire six ans .
+6443 six ans                       si s@                         de dire six ans .
 6444 t' y                          ti                           tu ne t' y retrouves plus
 6445 il a                          i la                          le moment il a cinq
 6445 cinq ans                      s5 k@                         il a cinq ans et
 6445 il aura                       i lo-Ra                       ans et il aura six
-6445 six ans                       sis z@                        il aura six ans demain
-6446 six ans                       sis z@                        toujours six ans .
+6445 six ans                       si s@                         il aura six ans demain
+6446 six ans                       si s@                         toujours six ans .
 6447 d' un                         d1n                          veillit pas d' un an
 6447 un an                         d1 n@                         pas d' un an par
 6451 c(e) est                      se                           ça , c(e) est bizarre ,
@@ -4087,7 +4083,7 @@
 6497 bon anniversaire              bO na-ni-vER-sER              bon anniversaire .
 6498 chante un                     S@ t1                         allez , chante un peu !
 6499 chante ainsi                  S@ t5-si                      allez , chante ainsi !
-6501 tous ensemble                 tus z@-s@bl                   on chante tous ensemble ,
+6501 tous ensemble                 tu s@-s@bl                    on chante tous ensemble ,
 6503 joyeux anniversaire           Zwa-j2 za-ni-vER-sER          joyeux anniversaire , joyeux anniversaire ,
 6503 joyeux anniversaire           Zwa-j2 za-ni-vER-sER          anniversaire , joyeux anniversaire ,
 6504 c(e) est                      se                           SI , c(e) est bébé qui
@@ -4123,7 +4119,6 @@
 6545 c(e) est                      se                           c(e) est tout , hein .
 6546 c(e) est                      se                           ah c(e) est bien , oui
 6548 pour avoir                    pu Ra-vwaR                    pour avoir chaud aux petits bras
-6548 chaud aux                     So to                         pour avoir chaud aux petits bras
 6549 pour avoir                    pu Ra-vwaR                    pour avoir chaud aussi .
 6549 chaud aussi                   So to-si                      pour avoir chaud aussi .
 6551 par un                        pa R1                         fait piquer par un chardon
@@ -6577,7 +6572,7 @@
 11018Max est                       mak se                        Max est capable .
 11019faire avancer                 fE Ra-v@-se                   tu LE faire avancer ,
 11023les oreilles                  le zo-REj                     il mange les oreilles .
-11028grosses orteils               gRos zOR-tEj                  mange les grosses orteils .
+11028grosses orteils               gRo sOR-tEj                   mange les grosses orteils .
 11029t(u) aimes                    tEm                          t(u) aimes ça , batman ,
 11032l' homme                      lOm                          l' homme araignée .
 11032homme araignée                lO ma-RE-Ne                   l' homme araignée .
@@ -8618,7 +8613,7 @@
 14705il a                          i la                          pi il a des grandes oreilles
 14705grandes oreilles              gR@d zo-REj                   a des grandes oreilles .
 14707ses oreilles                  se zo-REj                     grandes , ses oreilles ,
-14708grosses oreilles              gRos zo-REj                   grosses grosses grosses oreilles .
+14708grosses oreilles              gRo so-REj                    grosses grosses grosses oreilles .
 14710c(e) est                      se                           c(e) est QUI , ça ,
 14710des ailes                     de zEl                        , avec des ailes ?
 14712c(e) est                      se                           c(e) est QUI , ça ?
@@ -15519,7 +15514,7 @@
 27228l' éléphant                   le-le-f@                     trompe de l' éléphant elle
 27228des acrobaties                de za-kRo-ba-si               elle fait des acrobaties .
 27229elle est                      E le                          elle est forte , hein ?
-27230tous envolés                  tus z@-vo-le                  ils sont tous envolés .
+27230tous envolés                  tu s@-vo-le                   ils sont tous envolés .
 27232c(e) est                      set                          c(e) est une poule .
 27232est une                       se tyn                        c(e) est une poule .
 27241un orchestre                  1 nOR-kEstR                   ils font un orchestre .
@@ -18074,7 +18069,7 @@
 31574L' a                          la                           on L' a vu ou .
 31575L' avait                      la-vE                        on *ne L' avait pas vu
 31577c(e) est                      se                           ça , c(e) est le repas
-31578tous ensemble                 tus z@-s@bl                   ils sont tous ensemble .
+31578tous ensemble                 tu s@-s@bl                    ils sont tous ensemble .
 31579petits enfants                p°-ti z@-f@                   les deux petits enfants .
 31581QU' est-ce                    kEs                          QU' est-ce qu' i(l) mangent ?
 31581qu' i(l)                      ki                           QU' est-ce qu' i(l) mangent ?
@@ -18714,12 +18709,12 @@
 32353ont envie                     z§ t@-vi                      qu' ils ont envie de
 32355t(u) as                       ta                           toi , t(u) as pas
 32358d' or                         dOR                          boucle d' or , tu veux
-32359tous ensemble                 tus z@-s@bl                   tous ensemble , ils mangent ,
+32359tous ensemble                 tu s@-s@bl                    tous ensemble , ils mangent ,
 32360avec eux                      a-vE k2                       peux manger avec eux aussi
 32362d' or                         dOR                          , Boucle d' or et
 32362or et                         dO Re                         Boucle d' or et les
 32362petits ours                   p°-ti zuRs                    et les petits ours .
-32364tous ensemble                 tus z@-s@bl                   tous ensemble .
+32364tous ensemble                 tu s@-s@bl                    tous ensemble .
 32367d' or                         dOR                          , boucle d' or ,
 32368c(e) est                      se                           ouh c(e) est trop chaud ,
 32369alors elle                    a-lO REl                      alors elle va essayer la soupe
@@ -19248,7 +19243,7 @@
 33133trois oeufs                   tRwa z2                       oeufs , trois oeufs ,
 33133quatre oeufs                  kat R2                        oeufs , quatre oeufs ,
 33133cinq oeufs                    s5 k2                         oeufs , cinq oeufs ,
-33133six oeufs                     sis z2                        oeufs , six oeufs ,
+33133six oeufs                     si s2                         oeufs , six oeufs ,
 33133sept oeufs                    sE t2                         oeufs , sept oeufs ,
 33133huit oeufs                    8i t2                         oeufs , huit oeufs .
 33134c(e) est                      se                           hop c(e) est dommage .
@@ -20457,7 +20452,7 @@
 34806les animaux                   le za-ni-mo                   amener voir les animaux .
 34807les animaux                   le za-ni-mo                   LUI présenter les animaux .
 34809il est                        i le                          lui , il est tombé
-34811tous installés                tus z5s-ta-le                 ils sont tous installés ?
+34811tous installés                tu s5s-ta-le                  ils sont tous installés ?
 34815d' or                         dOR                          prends Boucle d' or et
 34815or et                         dO Re                         Boucle d' or et on
 34817d' aller                      da-le                        LUI plaît d' aller au
@@ -21808,7 +21803,6 @@
 36670pour aller                    pu Ra-le                      il faut pour aller à
 36671plus à                        ply za                        dit non plus à Sarah
 36671t(u) avais                    ta-vE                        Sarah que t(u) avais été
-36674froid aux                     fRwa to                       va avoir froid aux pieds
 36675on a                          § na                          on a été faire de la
 36677QU' est-ce                    kEs                          QU' est-ce qu' on criait sur
 36677qu' on                        k§                           QU' est-ce qu' on criait sur
@@ -22889,7 +22883,7 @@
 38654est un                        se t1                         c(e) est un mouton .
 38659d' abord                      da-bOR                       les moutons d' abord ?
 38660en a                          @ na                          ) y en a plus
-38661tous ensemble                 tus z@-s@bl                   LES mets tous ensemble ,
+38661tous ensemble                 tu s@-s@bl                    LES mets tous ensemble ,
 38667il y                          i li                          il y a encore une oie
 38667encore une                    @-kO Ryn                      y a encore une oie
 38667une oie                       Ry nwa                        a encore une oie et
@@ -24049,7 +24043,7 @@
 40204d' abricot                    da-bRi-ko                    des confitures d' abricot .
 40206elle en                       E l@                          des fois elle en fait
 40206confitures aux                k§-fi-ty Ro                   fait des confitures aux fraises
-40207six oeufs                     sis z2                        alors six oeufs frais .
+40207six oeufs                     si s2                         alors six oeufs frais .
 40211nous avons                    nu za-v§                      et nous avons ensuite du jus
 40211d' orange                     do-R@Z                       du jus d' orange et
 40211orange et                     do-R@ Ze                      jus d' orange et du
@@ -24455,7 +24449,7 @@
 40740trois ans                     tRwa z@                       qui as trois ans .
 40742sept ans                      sE t@                         sept ans .
 40744c(e) est                      se                           c(e) est Aurélia qui a six
-40744six ans                       sis z@                        qui a six ans et
+40744six ans                       si s@                         qui a six ans et
 40744il a                          i la                          gaëtan , il a eu
 40744sept ans                      sE t@                         a eu sept ans .
 40747c(e) est                      se                           et QUI c(e) est qui va
@@ -24524,7 +24518,7 @@
 40829sept ans                      sE t@                         a eu sept ans ,
 40830sept ans                      sE t@                         sept ans .
 40831quel âge                      kE laZ                        tu as quel âge ?
-40832six ans                       sis z@                        six ans , il a ?
+40832six ans                       si s@                         six ans , il a ?
 40832il a                          i la                          ans , il a ?
 40833il avait                      i la-vE                       non , il avait sept
 40833sept ans                      sE t@                         il avait sept ans .
@@ -24536,7 +24530,7 @@
 40836treize ans                    tRE z@                        treize ans .
 40837elle a                        E la                          aurélia , elle a quel
 40837quel âge                      kE laZ                        elle a quel âge ?
-40838six ans                       sis z@                        six ans .
+40838six ans                       si s@                         six ans .
 40839elle a                        E la                          anne , elle a quel
 40839quel âge                      kE laZ                        elle a quel âge ?
 40842sept ans                      sE t@                         les sept ans .
@@ -24556,7 +24550,7 @@
 40856petite école                  p°-ti te-kOl                  pas une petite école .
 40857c(e) est                      se                           c(e) est plein d' enfants qui
 40857d' enfants                    d@-f@                        est plein d' enfants qui
-40857tous ensemble                 tus z@-s@bl                   dames mais tous ensemble .
+40857tous ensemble                 tu s@-s@bl                    dames mais tous ensemble .
 40859ils aiment                    il zEm                        oui , ils aiment bien
 40861on a                          § na                          sais , on a lu
 40869l' amour                      la-muR                       non , l' amour de dieu
@@ -24801,7 +24795,7 @@
 41250alors on                      a-lO R§n                      bon , alors on enlève la
 41250on enlève                     R§ n@-lEv                     , alors on enlève la
 41252il y                          i li                          tiens , il y a quatre
-41253tous autour                   tus zo-tuR                    LES mettre tous autour de
+41253tous autour                   tu so-tuR                     LES mettre tous autour de
 41254d' accord                     da-kOR                       d' accord ?
 41256il y                          i li                          voilà , il y a la
 41256des enfants                   de z@-f@                      la table des enfants .
@@ -25750,7 +25744,7 @@
 42582l' air                        lER                          il a l' air content
 42583L' avoir                      la-vwaR                      contents de L' avoir libéré
 42583t(u) as                       ta                           libéré , t(u) as vu
-42584tous ensemble                 tus z@-s@bl                   alors tous ensemble , ils rentrent
+42584tous ensemble                 tu s@-s@bl                    alors tous ensemble , ils rentrent
 42584rentrent à                    R@t Ra                        , ils rentrent à la
 42588s' assombrit                  sa-s§-bRi                    le ciel s' assombrit et un
 42588un orage                      1 no-RaZ                      assombrit et un orage éclate

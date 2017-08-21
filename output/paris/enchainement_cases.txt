@@ -794,7 +794,7 @@
 1344 j' ai                         ZE                           bien que j' ai dix
 1344 sept ans                      sE t@                         ai dix sept ans mais
 1344 j' ai                         ZE                           croire que j' ai six
-1344 six ans                       sis z@                        j' ai six ans .
+1344 six ans                       si s@                         j' ai six ans .
 1350 j' ai                         ZE                           j' ai entendu la fin de
 1350 ton émission                  t§ ne-mi-sj§                  fin de ton émission .
 1352 sept heure                    sE t9R                        sept heure vingt à la maison
@@ -4363,8 +4363,8 @@
 6390 c' est                        se                           c' est trop gros Léonard non
 6391 c' est                        se                           c' est trop gros ce bonbon
 6395 il a                          i la                          toutes façons il a pris
-6395 six heures                    sis z9R                       goûter à six heures alors
-6395 heures alors                  z9 Ra-lOR                     à six heures alors tu
+6395 six heures                    si s9R                        goûter à six heures alors
+6395 heures alors                  s9 Ra-lOR                     à six heures alors tu
 6395 c' est                        se                           tu sais c' est pas
 6401 elle est                      E let                         elle est un peu collante hum
 6401 est un                        le t1                         elle est un peu collante hum
@@ -5395,7 +5395,7 @@
 7668 c' est                        se                           ah c' est la maison de
 7669 t' as                         ta                           et t' as vu tout le
 7669 qu' est                       ke                           le monde qu' est là
-7670 tous arrivés                  tus za-Ri-ve                  ils sont tous arrivés .
+7670 tous arrivés                  tu sa-Ri-ve                   ils sont tous arrivés .
 7671 c' est                        se                           ouais c' est le même .
 7672 il a                          i la                          il a roulé roulé roulé sur
 7673 qu' est-ce                    kEs                          qu' est-ce qui se passe ?
@@ -8701,7 +8701,7 @@
 11734nous offre                    nu zOf                        là qui nous offre du
 11734qu' on                        k§                           chaque fois qu' on l(e)
 11735nous avait                    nu za-vE                      et qui nous avait dit je
-11735suisses avalent               s8is za-val                   kilos les suisses avalent par
+11735suisses avalent               s8i sa-val                    kilos les suisses avalent par
 11735par an                        pa R@                         avalent par par an mais
 11735c' est                        se                           an mais c' est délirant
 11736c' est                        se                           c' est dix fois plus que
@@ -9581,7 +9581,7 @@
 13146quand on                      k@ t§n                        ah mais quand on a
 13146on a                          t§ na                         mais quand on a faim
 13148c' est                        se                           c' est le p(e)tit casse croûte
-13148dix heures                    dis z9R                       croûte de dix heures ?
+13148dix heures                    di s9R                        croûte de dix heures ?
 13149onze heures                   § z9R                         ah oui onze heures .
 13154il est                        i le                          celui là il est rassis
 13154donc euh                      d§ k2                         est rassis donc euh .
@@ -9998,7 +9998,7 @@
 13977Madeleine où                  mad-lE nu                     reste là Madeleine où tu es
 13981comptes et                    k§ te                         tu comptes et puis tu viens
 13981d' accord                     da-kOR                       nous chercher d' accord ?
-13989tous ensemble                 tus z@-s@bl                   * rester tous ensemble .
+13989tous ensemble                 tu s@-s@bl                    * rester tous ensemble .
 14000c' est                        set                          c' est à toi cette fois
 14000est à                         se ta                         c' est à toi cette fois
 14001c' est                        se                           non non c' est toi
@@ -11256,7 +11256,7 @@
 16070l' oeil                       l9j                          droit ou l' oeil gauche
 16075c' est                        se                           ouais c' est vrai !
 16077n' est                        ne                           tout ça n' est pas fixé
-16080six ans                       sis z@                        dirais cinq six ans hein
+16080six ans                       si s@                         dirais cinq six ans hein
 16082plus ou                       ply zu                        se dessine plus ou moins
 16082moins avant                   mw5 za-v@                     plus ou moins avant mais
 16083c' est                        se                           oui c' est l(e) monsieur qui
@@ -12397,7 +12397,7 @@
 17848t(u) appelles                 ta-pEl                       oui tu t(u) appelles Mad(e)leine
 17849rentrent à                    R@t Ra                        trois canetons rentrent à la
 17853jaunes et                     Zo ne                         canards tous jaunes et tous
-17853tous heureux                  tus z2-R2                     jaunes et tous heureux sautent
+17853tous heureux                  tu s2-R2                      jaunes et tous heureux sautent
 17855il est                        i le                          oh il est monté sur sa
 17856regarde y                     R°-gaR di                     et regarde y a combien d(e)
 17861c' est                        se                           ah non c' est Jérôme qui
@@ -14084,7 +14084,6 @@
 20136regarde on                    R°-gaR d§                     regarde on sort le col pour
 20136qu' elle                      kEl                          col pour qu' elle soit
 20137elle est                      E le                          oh elle est très chic cette
-20138froid aux                     fRwa to                       va avoir froid aux pieds
 20139t(u) as                       ta                           tu as t(u) as oublié
 20140c' est                        se                           oh ça c' est difficile hein
 20140difficile hein                di-fi-si l5                   c' est difficile hein .
@@ -14125,8 +14124,7 @@
 20176elle est                      mE le                         regarde comme elle est bien .
 20177qu' elle                      kEl                          capuche pour qu' elle ait
 20177elle ait                      kE le                         pour qu' elle ait chaud
-20177chaud aux                     So toz                        elle ait chaud aux oreilles
-20177aux oreilles                  to zo-REj                     ait chaud aux oreilles ?
+20177aux oreilles                  o zo-REj                      ait chaud aux oreilles ?
 20179c' est                        set                          ça c' est un bébé qui
 20179est un                        se t1                         ça c' est un bébé qui
 20180c' était                      se-tEt                       comme si c' était un
@@ -14342,7 +14340,7 @@
 20526ressemble à                   R°-s@b la                     qui ressemble à notre maison .
 20529regarde un                    R°-gaR d1                     regarde un deux trois quatre cinq
 20529sept huit                     sE t8it                       cinq six sept huit neuf
-20530dix onze                      dis z§z                       dix onze .
+20530dix onze                      di s§z                        dix onze .
 20533c' est                        set                          oh c' est une grande table
 20533est une                       se tyn                        oh c' est une grande table
 20533table hein                    tab l5                        une grande table hein .
@@ -14352,8 +14350,8 @@
 20541qu' elles                     kEl                          parce qu' elles voient passer un
 20543l' occasion                   lo-ka-zj§                    et à l' occasion elles s'
 20543s' attristaient               sa-tRis-tE                   occasion elles s' attristaient .
-20544neuf heures                   n9f v9R                       à neuf heures et demi elles
-20544heures et                     v9 Re                         à neuf heures et demi elles
+20544neuf heures                   n9 f9R                        à neuf heures et demi elles
+20544heures et                     f9 Re                         à neuf heures et demi elles
 20548qu' est-ce                    kEs                          qu' est-ce qu' elles tiennent là
 20548qu' elles                     kEl                          qu' est-ce qu' elles tiennent là
 20551les oiseaux                   le zwa-zo                     le soleil les oiseaux .
@@ -16697,8 +16695,8 @@
 24184Martine est                   maR-ti net                    en plus Martine est en train
 24184est en                        ne t@                         plus Martine est en train
 24184d' immortaliser               di-mOR-ta-li-ze              en train d' immortaliser .
-24187dix ans                       dis z@                        ça dans dix ans .
-24190dix ans                       dis z@                        ça dans dix ans .
+24187dix ans                       di s@                         ça dans dix ans .
+24190dix ans                       di s@                         ça dans dix ans .
 24196verres à                      vE Ra                         tes tes verres à à
 24198qu' est-ce                    kEs                          qu' est-ce qu' y a écrit
 24198qu' y                         ki                           qu' est-ce qu' y a écrit
@@ -17319,7 +17317,6 @@
 25274voit on                       vwa t§                        on te voit on te voit
 25279belle ou                      bE lu                         te trouves belle ou pas
 25286t(u) as                       ta                           t(u) as pas froid aux pieds
-25286froid aux                     fRwa to                       as pas froid aux pieds
 25287en entier                     @ n@-tje                      te voit en entier moi
 25290il a                          i la                          il a il en peut encore
 25290il en                         i l@                          il a il en peut encore
@@ -19128,7 +19125,7 @@
 28108qu' elle                      kEl                          voulez pas qu' elle joue
 28109elle elle                     E lEl                         mais elle elle veut * .
 28110vous allez                    vu za-le                      allez allez vous allez jouer
-28110tous ensemble                 tus z@-s@bl                   allez jouer tous ensemble .
+28110tous ensemble                 tu s@-s@bl                    allez jouer tous ensemble .
 28111c' est                        se                           en plus c' est tes jouets
 28113c' est                        se                           hm c' est .
 28114c' est                        se                           hum c' est tes jouets alors
@@ -19628,7 +19625,7 @@
 28848c' est                        se                           deux et c' est fini
 28849on a                          § na                          compter combien on a des
 28850sept huit                     sE t8it                       sept huit neuf dix onze douze
-28850dix onze                      dis z§z                       huit neuf dix onze douze
+28850dix onze                      di s§z                        huit neuf dix onze douze
 28851quinze et                     k5 ze                         quinze et moi j' en ai
 28851j' en                         Z@n                          et moi j' en ai
 28851en ai                         Z@ nE                         moi j' en ai combien
@@ -20133,7 +20130,7 @@
 29452est handicapée                le t@-di-ka-pe                et elle est handicapée .
 29454donc elle                     d§ kEl                        et donc elle sait pas parler
 29454qu' elle                      kEl                          parler alors qu' elle doit
-29454six ans                       sis z@                        pas cinq six ans .
+29454six ans                       si s@                         pas cinq six ans .
 29455elle aime                     E lEm                         et puis elle aime beaucoup
 29455c' est                        se                           lui dire c' est d(e)
 29457l' aime                       lEm                          et Côme l' aime bien ?
@@ -21627,7 +21624,7 @@
 31699est une                       se tyn                        fille c' est une dame
 31705quelqu' un                    kEl k1n                       et si quelqu' un appelle Jordan
 31705un appelle                    k1 na-pEl                     si quelqu' un appelle Jordan
-31706tous arriver                  tus za-Ri-ve                  i(ls) vont tous arriver !
+31706tous arriver                  tu sa-Ri-ve                   i(ls) vont tous arriver !
 31710c' est                        se                           c' est bien !
 31711trois ours                    tRwa zuRs                     tr(ois) des trois ours !
 31712d' or                         dOR                          dans boucle d' or !
@@ -21885,7 +21882,7 @@
 32110c' est                        se                           c' est long l(e) voyage en
 32110voyage en                     vwa-ja Z@                     long l(e) voyage en voiture
 32111d' heures                     d9R                          , combien d' heures ?
-32113six heures                    sis z9R                       six heures ?
+32113six heures                    si s9R                        six heures ?
 32114c' est                        se                           ah c' est quand même loin
 32116elle aussi                    E lo-si                       et elle aussi elle est pleine
 32116elle est                      E le                          elle aussi elle est pleine
@@ -24295,8 +24292,8 @@
 36043on avait                      § na-vE                       on avait euh un super livre
 36046il est                        i le                          et il est resté à Vauvert
 36048vous étiez                    vu ze-tje                     vous étiez tous ensemble à Noël
-36048tous ensemble                 tus z@-s@bl                   vous étiez tous ensemble à Noël
-36048ensemble à                    z@-s@b la                     étiez tous ensemble à Noël
+36048tous ensemble                 tu s@-s@bl                    vous étiez tous ensemble à Noël
+36048ensemble à                    s@-s@b la                     étiez tous ensemble à Noël
 36048Noël ou                       no-E lu                       ensemble à Noël ou pas
 36051l' a                          la                           on l' a fait à Paris
 36053on a                          § na                          ah ouais on a fait une
@@ -25310,11 +25307,11 @@
 38288d' ananas                     da-na-na                     avec plein d' ananas .
 38289c' était                      se-tE                        donc c' était délicieux mais très
 38293m' a                          ma                           ça m' a requinqué de mes
-38293six heures                    sis z9R                       mes , six heures de
+38293six heures                    si s9R                        mes , six heures de
 38294c' était                      se-tE                        ah c' était beaucoup là .
 38295l' habitude                   la-bi-tyd                    faut avoir l' habitude en fait
 38295habitude en                   la-bi-ty d@                   avoir l' habitude en fait
-38298six heures                    sis z9R                       six heures de sommeil et quatre
+38298six heures                    si s9R                        six heures de sommeil et quatre
 38300monde on                      m§ d§n                        plein d(e) monde on était
 38300on était                      d§ ne-tE                      d(e) monde on était trop
 38302c' était                      se-tE                        c' était où déjà ?
@@ -25890,8 +25887,8 @@
 39202donc euh                      d§ k2                         donc euh .
 39203c' est                        se                           que là c' est euh
 39204pars à                        pa Ra                         j(e) pars à neuf heures et
-39204neuf heures                   n9f v9R                       pars à neuf heures et
-39204heures et                     v9 Re                         à neuf heures et demi
+39204neuf heures                   n9 f9R                        pars à neuf heures et
+39204heures et                     f9 Re                         à neuf heures et demi
 39205trois heures                  tRwa z9R                      vingt trois heures .
 39207faire euh                     fE R2                         on peut faire euh comme
 39207l' autre                      lot                          euh comme l' autre fois
@@ -26875,8 +26872,8 @@
 40802l' avais                      la-vE                        tu l' avais vu à saint
 40806peut être                     p2 tEt                        * peut être qu' elle partira
 40806qu' elle                      kEl                          peut être qu' elle partira
-40806neuf heures                   n9f v9R                       partira vers neuf heures justement
-40807dix heures                    dis z9R                       rester jsuque dix heures pour
+40806neuf heures                   n9 f9R                        partira vers neuf heures justement
+40807dix heures                    di s9R                        rester jsuque dix heures pour
 40807qu' ils                       kil                          heures pour qu' ils vous
 40807vous écoutent                 vu ze-kut                     qu' ils vous écoutent mais
 40809génial ouais                  Ze-nja lwE                    ah génial ouais ouais ouais .
@@ -27431,8 +27428,8 @@
 41719il y                          i li                          ça va il y a le
 41720pars à                        pa Ra                         tu pars à quelle heure ?
 41720quelle heure                  kE l9R                        pars à quelle heure ?
-41721neuf heures                   n9f v9R                       neuf heures et demi .
-41721heures et                     v9 Re                         neuf heures et demi .
+41721neuf heures                   n9 f9R                        neuf heures et demi .
+41721heures et                     f9 Re                         neuf heures et demi .
 41723t' auras                      to-Ra                        t' auras pas le temps de
 41726c' est                        se                           c' est bon .
 41729c' est                        se                           ouais c' est du deux ans
@@ -30405,8 +30402,8 @@
 45806sept heures                   sE t9R                        à dix sept heures trente
 45807d' accord                     da-kOR                       d' accord .
 45808jusqu' à                      Zys ka                        et jeudi jusqu' à neuf heures
-45808neuf heures                   n9f v9R                       jusqu' à neuf heures euh
-45808heures euh                    v9 R2                         à neuf heures euh elle
+45808neuf heures                   n9 f9R                        jusqu' à neuf heures euh
+45808heures euh                    f9 R2                         à neuf heures euh elle
 45808m' a                          ma                           euh elle m' a dit
 45809qu' est-ce                    kEs                          oh qu' est-ce que c' est
 45809c' est                        se                           est-ce que c' est ça
@@ -30567,8 +30564,8 @@
 45988c' est                        se                           c' est vrai qu' à ,
 45988qu' à                         ka                           est vrai qu' à ,
 45988il a                          i la                          à , il a faim
-45988six heures                    sis z9R                       faim à six heures et
-45988heures et                     z9 Re                         à six heures et demi
+45988six heures                    si s9R                        faim à six heures et
+45988heures et                     s9 Re                         à six heures et demi
 45990sept heures                   sE t9R                        non à sept heures non ?
 45991il est                        i le                          non il est , le bain
 45994c' est                        se                           mais c' est parce que il
@@ -34106,7 +34103,7 @@
 50429jungle avec                   Z1g la-vEk                    de la jungle avec des
 50429des ours                      de zuRs                       des tigres des ours .
 50433super euh                     sy-pE R2                      avait une super euh .
-50434dix euro                      dis z2-Ro                     V D dix euro un
+50434dix euro                      di s2-Ro                      V D dix euro un
 50434un offert                     1 no-fER                      dix euro un offert et
 50434offert et                     no-fE Re                      euro un offert et tout
 50434j' en                         Z@n                          et tout j' en ai
@@ -35125,7 +35122,7 @@
 51735t(u) as                       ta                           t(u) as vu c' est la
 51735c' est                        se                           as vu c' est la
 51740il est                        i le                          le t il est où
-51746neuf a                        n9f va                        cent trente neuf a .
+51746neuf a                        n9 fa                         cent trente neuf a .
 51747t(u) as                       ta                           t(u) as vu !
 51749il est                        i le                          le t il est où
 51754c' est                        se                           c' est fini ?
@@ -36774,7 +36771,7 @@
 54038deux araignées                d2 za-RE-Ne                   deux araignées .
 54039deux araignées                d2 za-RE-Ne                   deux araignées .
 54040il était                      i le-tE                       ah mais il était énorme ce
-54042grosses araignées             gRos za-RE-Ne                 des grosses araignées ?
+54042grosses araignées             gRo sa-RE-Ne                  des grosses araignées ?
 54043qu' est-ce                    kEs                          mais qu' est-ce qu' elles font
 54043qu' elles                     kEl                          qu' est-ce qu' elles font
 54047t' as                         ta                           t' as vu le film ?
@@ -37999,7 +37996,7 @@
 55629donc aujourd'hui              d§ ko-ZuR-d8i                 et donc aujourd'hui tu as trois
 55629trois ans                     tRwa z@                       tu as trois ans et
 55630on est                        § ne                          on est le j(e) sais pas
-55630six octobre                   sis zOk-tObR                  sais pas six octobre ,
+55630six octobre                   si sOk-tObR                   sais pas six octobre ,
 55630mille huit                    mi l8it                       , deux mille huit .
 55631qu' est-ce                    kEs                          qu' est-ce que tu fais avec
 55635d' accord                     da-kOR                       d' accord ?

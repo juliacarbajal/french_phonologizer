@@ -100,7 +100,6 @@
 955 légumes avec                  peu de légumes avec .
 961 pas en                         tu vas pas en mourir .
 971 es une                         tu es une drôle de crevette
-999 soif hein                      tu avais soif hein ?
 1007 manger un                      tu vas manger un yaourt à
 1007 un yaourt                      vas manger un yaourt à
 1011 veux aller                     tu veux aller sur le pot
@@ -143,7 +142,6 @@
 1425 fais un                        tu fais un petit pipi ?
 1429 alors attends                  alors attends un peu , on
 1429 attends un                     alors attends un peu , on
-1429 fesses avec                    nettoyer les fesses avec le
 1429 gant et                        avec le gant et la
 1437 aller à                       on va aller à la mer
 1438 aller au                       on va aller au bord de
@@ -163,8 +161,6 @@
 1521 fait un                        soeur lui fait un baiser
 1522 fait un                        elle te fait un baiser
 1525 tièdes et                     bébés tendres tièdes et calins
-1530 fesses à                      a les fesses à l'
-1531 fesses à                      a les fesses à l'
 1540 fait un                        là il fait un calin
 1540 calin avec                     fait un calin avec sa
 1543 mangent encore                 dorment , mangent encore et
@@ -199,8 +195,6 @@
 1766 fais un                        tu fais un bisou .
 1767 jouer au                       papa va jouer au pin pon
 1821 vois elle                      tu vois elle a des cornes
-1832 limaces hein                   pas les limaces hein !
-1834 boeuf oui                      viande de boeuf oui ,
 1840 cheveux aussi                  brosse les cheveux aussi .
 1857 hein elle                      petit micro hein elle a
 1863 puis on                        et puis on a les cheveux
@@ -344,7 +338,6 @@
 3115 tires un                       que tu tires un peu
 3119 manger un                      tu vas manger un oeuf ?
 3121 donner à                      va te donner à manger
-3121 sens aujourd'hui               dans le sens aujourd'hui .
 3123 vas essayer                    que tu vas essayer de
 3131 pot à                         mettre ton pot à chauffer
 3131 chauffer avant                 pot à chauffer avant de
@@ -377,7 +370,6 @@
 3331 es un                          toi t' es un bébé ?
 3334 fait un                        tout à fait un nounours
 3342 lapin il                       le lapin il a des grandes
-3343 nounours a                     et le nounours a des petites
 3347 un hochet                      soeur montre un hochet .
 3349 reviens à                     tu reviens à la première page
 3351 vois il                        tu vois il est tout petit
@@ -439,7 +431,6 @@
 3826 attention attention            attention attention !
 3827 train à                       le train à destination de paris
 3834 maman x                        alors maman x elle va descendre
-3834 x elle                         alors maman x elle va descendre
 3835 maman x                        maman x , elle descend à
 3835 descend à                     , elle descend à paris
 3838 rien oublié                   n' avez rien oublié dans
@@ -485,7 +476,6 @@
 4200 fais un                        tu lui fais un petit baiser
 4203 as enlevé                     tu l' as enlevé .
 4215 viens enlever                  viens enlever ton tee shirt !
-4225 sens aussi                     le bon sens aussi !
 4231 attends attends                attends attends !
 4244 non un                         non un !
 4299 non il                         ah non il est pas sale
@@ -655,7 +645,6 @@
 5737 deux ou                        y a deux ou trois
 5737 sessions où                   ou trois sessions où on
 5769 fais attention                 fais attention !
-5780 dix huit                       il aura dix huit mois
 5813 pas un                         pas un chausson par terre ?
 5815 pas un                         t' es pas un peu têtue
 5820 durer un                       de faire durer un peu
@@ -667,10 +656,7 @@
 5883 pas obligé                    n' est pas obligé d'
 5884 voudrais avoir                 tu voudrais avoir des bébés ?
 5887 pas envie                      j' ai pas envie d' être
-5890 nounours à                    nounours à toi !
 5892 lapin à                       ton lapin à toi il est
-5893 nounours à                    est mouillé nounours à toi
-5898 nounours avait                 et nounours avait été mouillé .
 5898 avait été                    et nounours avait été mouillé .
 5912 pas attraper                   tu peux pas attraper ?
 5922 enlèves une                   t' en enlèves une , t'
@@ -821,21 +807,13 @@
 7016 pas à                         la racontes pas à nounours
 7020 racontes à                    tu racontes à nounours ?
 7026 fait un                        elle fait un peu une grosse
-7028 ours avaient                   que les ours avaient préparée
-7032 ours a                         , chaque ours a une
-7033 ours a                         le petit ours a une petite
 7034 moyen ours                     le moyen ours a une moyenne
-7034 ours a                         le moyen ours a une moyenne
-7034 ours a                         le grand ours a une
 7039 jouer avec                     tu veux jouer avec ça ?
-7060 lis ou                         je lis ou j' explique ?
 7063 habitaient ensemble            ours qui habitaient ensemble dans
 7063 maison au                      jolie petite maison au milieu
 7065 moyen et                       un ours moyen et le
 7070 eux a                          chacun d' eux a une assiette
-7072 ours a                         le petit ours a une petite
 7075 eux a                          chacun d' eux a une chaise
-7077 ours a                         le petit ours a une petite
 7078 moyen a                        l' ours moyen a une moyenne
 7079 eux a                          chacun d' eux a un lit
 7082 lit et                         un moyen lit et un
@@ -970,8 +948,6 @@
 7944 frères et                     de ses frères et soeurs
 7944 soeurs et                      frères et soeurs et de
 7945 mis à                         se sont mis à pleurer
-7950 fesses ou                      lavait les fesses ou la
-7953 fesses et                      lavait les fesses et mamie
 7970 sert à                        eau ça sert à rien
 7971 presser en                     faut le presser en dehors
 7973 mets à                        tu le mets à ta main
@@ -1024,7 +1000,6 @@
 8301 temps en                       jouer de temps en temps
 8316 pas à                         c' est pas à ma
 8324 pas un                         pas un passon , un poi(sson)
-8334 s appelle                      comment ça s appelle ça ?
 8335 pas une                        c' est pas une vache
 8357 et alors                       et alors , qu' est-ce qu'
 8366 mouton avec                    est un mouton avec de
