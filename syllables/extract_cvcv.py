@@ -122,8 +122,9 @@ syll_1word = {}
 syll_partword = {}
 syll_2words = {}
 syll_across = {}
-partwords = {}
+context_partwords = {}
 wordboundary = {}
+context_2words = {}
 
 for line in corpus:
 	line = line.split()
@@ -139,6 +140,22 @@ for line in corpus:
 				syll_2words[syllables[0]] = [syllables_next[0]]
 			else:
 				syll_2words[syllables[0]] = syll_2words[syllables[0]] + [syllables_next[0]]
+			# Save context:
+			if ((syllables[0], syllables_next[0]) not in context_2words):
+				if (text[i+2]):
+					context_2words[(syllables[0], syllables_next[0])] = [(word, text[i+1]+ ' ' +text[i+2])]
+				elif (text[i-1]):
+					context_2words[(syllables[0], syllables_next[0])] = [(text[i-1]+ ' ' +word, text[i+1])]
+				else:
+					context_2words[(syllables[0], syllables_next[0])] = [(word, text[i+1])]
+			else:
+				if (text[i+2]):
+					context_2words[(syllables[0], syllables_next[0])] = context_2words[(syllables[0], syllables_next[0])] + [(word, text[i+1]+ ' ' +text[i+2])]
+				elif (text[i-1]):
+					context_2words[(syllables[0], syllables_next[0])] = context_2words[(syllables[0], syllables_next[0])] + [(text[i-1]+ ' ' +word, text[i+1])]
+				else:
+					context_2words[(syllables[0], syllables_next[0])] = context_2words[(syllables[0], syllables_next[0])] + [(word, text[i+1])]
+				
 		elif (len(syllables) == 1) and (len(syllables_next) > 1) and (syllabic_structure(syllables[0]) != 'O'):
 			# 1 monosyllabic + 1 multisyllabic word:
 			if (syllables[0] not in syll_across):
@@ -179,10 +196,10 @@ for line in corpus:
 				else:
 					syll_partword[syl] = syll_partword[syl] + [syllables[j+1]]
 				# Save context:
-				if ((syl, syllables[j+1]) not in partwords):
-					partwords[(syl,syllables[j+1])] = [word]
+				if ((syl, syllables[j+1]) not in context_partwords):
+					context_partwords[(syl,syllables[j+1])] = [word]
 				else:
-					partwords[(syl,syllables[j+1])] = partwords[(syl,syllables[j+1])] + [word]
+					context_partwords[(syl,syllables[j+1])] = context_partwords[(syl,syllables[j+1])] + [word]
 			# Across (final syllable):
 			if (syllables[-1] not in syll_across) and (syllabic_structure(syllables_next[0]) != 'O'):
 				syll_across[syllables[-1]] = [syllables_next[0]]
@@ -202,17 +219,23 @@ syll_partword_count = count_syllables(syll_partword)
 
 # Third: Order by frequency of occurrence and print:
 for syll_pair in sorted(syll_1word_count, key=lambda x: x[2], reverse = True):
-	print_output(syll_pair, f2)
+	if (syll_pair[3] == 'CV') and (syll_pair[4] == 'CV'):
+		print_output(syll_pair, f2)
 for syll_pair in sorted(syll_2words_count, key=lambda x: x[2], reverse = True):
-	print_output(syll_pair, f3)
+	if (syll_pair[3] == 'CV') and (syll_pair[4] == 'CV'):
+		S1 = syll_pair[0]
+		S2 = syll_pair[1]
+		print_output(syll_pair, f3, context_2words[(S1,S2)])
 for syll_pair in sorted(syll_across_count, key=lambda x: x[2], reverse = True):
-	S1 = syll_pair[0]
-	S2 = syll_pair[1]
-	print_output(syll_pair, f4, wordboundary[(S1,S2)])
+	if (syll_pair[3] == 'CV') and (syll_pair[4] == 'CV'):
+		S1 = syll_pair[0]
+		S2 = syll_pair[1]
+		print_output(syll_pair, f4, wordboundary[(S1,S2)])
 for syll_pair in sorted(syll_partword_count, key=lambda x: x[2], reverse = True):
-	S1 = syll_pair[0]
-	S2 = syll_pair[1]
-	print_output(syll_pair, f5, partwords[(S1,S2)])
+	if (syll_pair[3] == 'CV') and (syll_pair[4] == 'CV'):
+		S1 = syll_pair[0]
+		S2 = syll_pair[1]
+		print_output(syll_pair, f5, context_partwords[(S1,S2)])
 
 f2.close()
 f3.close()
