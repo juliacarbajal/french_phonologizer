@@ -93,22 +93,27 @@ with open('auxiliary/output_ADJ.txt') as ADJlist:
 	for line in ADJlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		if (line in dico):
-			first_phon = line.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
+			ortho_word = dico[line]
+			first_phon = ortho_word.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
 			if (first_phon in vowels+semivowels): 
 				V_adjectives.append(line) 
 			if (line[-1] in liaison) and (dico[line][-1] != liaison[line[-1]]): 
 				adjectives.append(line)
 
 # Load the plural nouns:
-plural_nouns = []
-V_nouns = []
+plural_nouns = [] # Nouns finishing in liaison consonant
+V_nouns = [] # Vowel-initial nouns
+C_nouns = [] # Consonant-initial nouns
 with open('auxiliary/output_NOMp.txt') as NOMlist:
 	for line in NOMlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		if (line in dico):
-			first_phon = line.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
+			ortho_word = dico[line]
+			first_phon = ortho_word.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
 			if (first_phon in vowels+semivowels): 
 				V_nouns.append(line) 
+			if (first_phon in consonants):
+				C_nouns.append(line)
 			if (line[-1] in liaison) and (line != 'trucs'):
 				plural_nouns.append(line)
 
@@ -476,10 +481,10 @@ for corpusdir in dirlist:
 						if word in denasalization:
 							newwords[i] = denasalization[word]
 						print_applied_liaison(line_ID, words, i, newwords[i], f)
-					elif (word in special_numbers) and (words[i+1] in dico) and check_vowel_onset(words[i+1]) and (words[i+1] not in special_numbers[word]): # Work on this (it's giving an error for the moment)
+					elif (word in special_numbers) and (words[i+1] in V_nouns) and (words[i+1] not in special_numbers[word]): # Work on this (it's giving an error for the moment)
 						newwords[i] = newwords[i][:-1] + liaison[lastphon]
 						print_applied_liaison(line_ID, words, i, newwords[i], f)
-					elif (word in special_numbers) and (lastphon == 's') and (words[i+1] in V_nouns):
+					elif (word in special_numbers) and (lastphon == 's') and (words[i+1] in C_nouns):
 						newwords[i] = newwords[i][:-1] 
 					elif (word == 'tous') and (words[i+1] in ['les', 'des', 'ces', 'nos', 'vos', 'ses', 'tes', 'ceux']):
 						newwords[i] = newwords[i][:-1] #This is not liaison, just correcting a problem with tou(s)

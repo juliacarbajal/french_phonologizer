@@ -4070,7 +4070,7 @@ greg07.cha 2 3 01 o b5 m§ bu-bu !
 greg07.cha 2 3 01 n§ sa il Ri la .
 greg07.cha 2 3 01 b5 di d§k ty t2 pl@t la .
 greg07.cha 2 3 01 t a mal o p°-ti Z°-nu ?
-greg07.cha 2 3 01 n§ mE le gaR-s§ il fo pa k il i e dis pER-sOn ki paRl a la fwa .
+greg07.cha 2 3 01 n§ mE le gaR-s§ il fo pa k il i e di pER-sOn ki paRl a la fwa .
 greg07.cha 2 3 01 # k@ Es k il vjEn le m§stR ?
 greg07.cha 2 3 01 mE Z2 n2 t2 d°-m@d pa u s§t il .
 greg07.cha 2 3 01 Z2 t2 d°-m@d k@ vjEnt il .
@@ -4581,7 +4581,7 @@ greg08.cha 2 5 01 ty t2 Ra-pEl s2 k2 ty a-vE o Z°-nu ?
 greg08.cha 2 5 01 k Es k2 s' e-tE ?
 greg08.cha 2 5 01 mE si ty sE ty e-tE t§-be .
 greg08.cha 2 5 01 R°-gaRd t§ Z°-nu .
-greg08.cha 2 5 01 ty vwa il REst @-kOR yn gRos si-ka-tRis 5 ty l a R°-fE se-Ne dis fwa s2 Z°-nu .
+greg08.cha 2 5 01 ty vwa il REst @-kOR yn gRos si-ka-tRis 5 ty l a R°-fE se-Ne di fwa s2 Z°-nu .
 greg08.cha 2 5 01 a-lOR ko-m@ ty a-vE fE ?
 greg08.cha 2 5 01 o !
 greg08.cha 2 5 01 a-lOR ty a-vE y mal .
