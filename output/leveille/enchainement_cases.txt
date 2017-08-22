@@ -2348,7 +2348,7 @@
 3257 mémoire avec                  me-mwa Ra-vEk                 a une mémoire avec les
 3257 qu' ont                       k§                           les trucs qu' ont fait
 3257 les adultes                   le za-dylt                    ont fait les adultes !
-3258 six heures                    si s9R                        * à six heures du matin
+3258 six heures                    si z9R                        * à six heures du matin
 3264 il est                        i le                          il est devenu monsieur , maintenant
 3265 vas y                         va zi                         tiens , vas y , mets
 3266 c' est                        se                           oh , c' est parce que
@@ -5892,8 +5892,8 @@
 7541 j' ai                         ZE                           parce que j' ai mis la
 7542 j' ai                         ZE                           parce que j' ai fini .
 7543 bols aussi                    bO lo-si                      a deux bols aussi .
-7546 dix heures                    di s9R                        vient à dix heures .
-7547 dix heures                    di s9R                        à dix heures ?
+7546 dix heures                    di z9R                        vient à dix heures .
+7547 dix heures                    di z9R                        à dix heures ?
 7548 c' est                        set                          c' est un peu tôt ?
 7548 est un                        se t1                         c' est un peu tôt ?
 7549 il y                          i li                          comme ça il y aura une
@@ -6518,8 +6518,8 @@
 8337 qu' est-ce                    kEs                          qu' est-ce que tu voudrais faire
 8337 faire avec                    fE Ra-vEk                     tu voudrais faire avec ?
 8338 d' abord                      da-bOR                       réponds moi d' abord .
-8341 dix heures                    di s9R                        ai dit dix heures et
-8341 heures et                     s9 Re                         dit dix heures et demie
+8341 dix heures                    di z9R                        ai dit dix heures et
+8341 heures et                     z9 Re                         dit dix heures et demie
 8342 c' est                        se                           parce que c' est moi
 8345 c' est                        se                           c' est trop tard ?
 8346 j' aille                      Zaj                          faut que j' aille au
@@ -6543,7 +6543,7 @@
 8373 c' est                        se                           pour moi c' est .
 8375 c' était                      se-tE                        tôt c' était quoi toi ?
 8376 c' était                      se-tE                        , tôt c' était six
-8376 six heures                    si s9R                        c' était six heures quoi
+8376 six heures                    si z9R                        c' était six heures quoi
 8377 sept heures                   sE t9R                        dit à sept heures et
 8377 heures et                     t9 Re                         à sept heures et demie
 8382 il est                        i le                          oh il est couleur métal ,
@@ -8935,10 +8935,10 @@
 11183l' ordre                      lORd                         consultatif à l' ordre du
 11183jour et                       Zu Re                         ordre du jour et puis
 11183j' arriverai                  Za-Ri-vRE                    et puis j' arriverai vers
-11183dix heures                    di s9R                        arriverai vers dix heures et
-11183heures et                     s9 Re                         vers dix heures et demie
-11183dix heures                    di s9R                        demie , dix heures enfin
-11183heures enfin                  s9 R@-f5                      , dix heures enfin par
+11183dix heures                    di z9R                        arriverai vers dix heures et
+11183heures et                     z9 Re                         vers dix heures et demie
+11183dix heures                    di z9R                        demie , dix heures enfin
+11183heures enfin                  z9 R@-f5                      , dix heures enfin par
 11184d' accord                     da-kOR                       d' accord ?
 11194qu' est-ce                    kEs                          qu' est-ce qu' y a eu
 11194qu' y                         ki                           qu' est-ce qu' y a eu
@@ -11522,8 +11522,8 @@
 14293qu' elle                      kEl                          à Liliane qu' elle vienne
 14294c' est                        se                           le jeudi c' est sacré .
 14297quelle heure                  kE l9R                        à quelle heure je dois être
-14298six heures                    si s9R                        six heures .
-14299six heures                    si s9R                        six heures .
+14298six heures                    si z9R                        six heures .
+14299six heures                    si z9R                        six heures .
 14303une histoire                  y nis-twaR                    pour raconter une histoire sur
 14303sur un                        sy R1                         une histoire sur un film
 14303film où                       fil mu                        sur un film où y
@@ -11664,7 +11664,7 @@
 14439l' éther                      le-tER                       même de l' éther .
 14440c' est                        se                           c' est pas très bien ?
 14445c' est                        se                           c' est doux ?
-14446six heures                    si s9R                        six heures , hélas .
+14446six heures                    si z9R                        six heures , hélas .
 14447qu' est                       ke                           qu' est ce tu fais ?
 14448m' as                         ma                           ah tu m' as dit que
 14448l' histoire                   lis-twaR                     me raconterais l' histoire de
@@ -15947,9 +15947,9 @@
 19843qu' il                        kil                          qu' est-ce qu' il a fait
 19843il a                          ki la                         est-ce qu' il a fait
 19844être à                        Et Ra                         je devais être à dix
-19844dix heures                    di s9R                        être à dix heures *
+19844dix heures                    di z9R                        être à dix heures *
 19846être à                        Et Ra                         je devais être à dix
-19846dix heures                    di s9R                        être à dix heures *
+19846dix heures                    di z9R                        être à dix heures *
 19848qu' est-ce                    kEs                          qu' est-ce que tu regardes sous
 19849j' ai                         ZE                           quand j' ai dit à Gérard
 19849m' a                          ma                           , il m' a dit

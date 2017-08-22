@@ -234,7 +234,7 @@ gen1.cha 1 8 26 vwa-la .
 gen1.cha 1 8 26 5 ?
 gen1.cha 1 8 26 ku-Se m5t-n@ .
 gen1.cha 1 8 26 vwa-la .
-gen1.cha 1 8 26 wi , §n e tus le d2 ku-Se a-lOR .
+gen1.cha 1 8 26 wi , §n e tu le d2 ku-Se a-lOR .
 gen1.cha 1 8 26 pas-kal ?
 gen1.cha 1 8 26 wi .
 gen1.cha 1 8 26 s' e k@ sa ?
@@ -1652,11 +1652,11 @@ gen13.cha 2 2 11 i-si , i-si wi .
 gen13.cha 2 2 11 p8i R°-gaRd !
 gen13.cha 2 2 11 sl8i la il va la .
 gen13.cha 2 2 11 # vwa-la .
-gen13.cha 2 2 11 e tus s2 la R°-gaRd m5t-n@ !
+gen13.cha 2 2 11 e tu s2 la R°-gaRd m5t-n@ !
 gen13.cha 2 2 11 la .
 gen13.cha 2 2 11 wi .
 gen13.cha 2 2 11 # # .
-gen13.cha 2 2 11 tus s2 la § p2 le Ra-Zu-te .
+gen13.cha 2 2 11 tu s2 la § p2 le Ra-Zu-te .
 gen13.cha 2 2 11 le Ra-Zu-te la .
 gen13.cha 2 2 11 R°-gaRd !
 gen13.cha 2 2 11 e vwa-la .
@@ -2417,7 +2417,7 @@ gen15.cha 2 3 13 i s§ u lez a-ni-mo ?
 gen15.cha 2 3 13 i s§ o zo-o , ma-Ri .
 gen15.cha 2 3 13 il s§ a-le o zo-o puR vwaR lez a-ni-mo .
 gen15.cha 2 3 13 # e lo-la s§ a-le o zo-o a-vEk l9R ma-m@ .
-gen15.cha 2 3 13 il ko-nEs bj5 tus lez a-ni-mo .
+gen15.cha 2 3 13 il ko-nEs bj5 tu lez a-ni-mo .
 gen15.cha 2 3 13 e twa ?
 gen15.cha 2 3 13 wi .
 gen15.cha 2 3 13 bRa-vo .
@@ -2677,7 +2677,7 @@ gen15.cha 2 3 13 il e u ?
 gen15.cha 2 3 13 la i a 1 be-be .
 gen15.cha 2 3 13 la i a 1 be-be .
 gen15.cha 2 3 13 # syR la plak # .
-gen15.cha 2 3 13 § va pa tus le sOR-tiR .
+gen15.cha 2 3 13 § va pa tu le sOR-tiR .
 gen15.cha 2 3 13 n§ n§ n§ .
 gen15.cha 2 3 13 n§ ma-Ri .
 gen15.cha 2 3 13 ty va pa d°-d@ .
@@ -3718,7 +3718,7 @@ gen17.cha 2 6 10 §n @n a dy bu-lo puR R@-Ze m5t-n@ , wi .
 gen17.cha 2 6 10 §n @n a dy bu-lo puR R@-Ze ma-Ri .
 gen17.cha 2 6 10 k Es k # i a la d°-d@ ?
 gen17.cha 2 6 10 m§tR !
-gen17.cha 2 6 10 tus te tus te tRe-zOR .
+gen17.cha 2 6 10 tu te tu te tRe-zOR .
 gen17.cha 2 6 10 # .
 gen17.cha 2 6 10 a , 1 Sa .
 gen17.cha 2 6 10 # # .
@@ -3986,7 +3986,7 @@ gen2.cha 1 9 03 1 p°-ti Sa , wi .
 gen2.cha 1 9 03 mja-u il fE , l2 p°-ti Sa .
 gen2.cha 1 9 03 la le la-p5 .
 gen2.cha 1 9 03 wi , wi .
-gen2.cha 1 9 03 wi , s' e tus de la-p5 .
+gen2.cha 1 9 03 wi , s' e tu de la-p5 .
 gen2.cha 1 9 03 il i @n a de gR@ , de p°-ti .
 gen2.cha 1 9 03 il s§ d@ la kaZ la .
 gen2.cha 1 9 03 il s§ @ tR5 d2 m@-Ze de f9j d2 sa-lad .
@@ -4186,7 +4186,7 @@ gen2.cha 1 9 03 k Es ki e ka-se ?
 gen2.cha 1 9 03 wi , sa s' et yn vaS .
 gen2.cha 1 9 03 o R°-vwaR la vaS .
 gen2.cha 1 9 03 l2 ka-naR , wi .
-gen2.cha 1 9 03 wi , s2 s§ tus de ka-naR .
+gen2.cha 1 9 03 wi , s2 s§ tu de ka-naR .
 gen2.cha 1 9 03 wi , la de p°-ti ka-naR .
 gen2.cha 1 9 03 k Es k2 ty v2 vwaR ?
 gen2.cha 1 9 03 l2 Sj5 ?
@@ -4364,7 +4364,7 @@ gen3.cha 1 9 10 d a-kOR , § va vwaR O-dil .
 gen3.cha 1 9 10 wi .
 gen3.cha 1 9 10 il dOR , l2 la-p5 .
 gen3.cha 1 9 10 wi , le ka-naR , il f§ do-do o-si .
-gen3.cha 1 9 10 ty vwa , tus lez a-ni-mo d2 la fo-RE , il dORm .
+gen3.cha 1 9 10 ty vwa , tu lez a-ni-mo d2 la fo-RE , il dORm .
 gen3.cha 1 9 10 wE , l2 p°-ti la-p5 o-si .
 gen3.cha 1 9 10 il i a o-si de sER , la .
 gen3.cha 1 9 10 l2 ko-S§ , il fE o-si do-do , wE .
@@ -4959,7 +4959,7 @@ gen4.cha 1 9 16 il e u l2 nwaR ?
 gen4.cha 1 9 16 tu nwaR ?
 gen4.cha 1 9 16 sa s' e l2 p°-ti .
 gen4.cha 1 9 16 sl8i la il e nwaR .
-gen4.cha 1 9 16 tus lez otRz il s§ bl@ .
+gen4.cha 1 9 16 tu lez otRz il s§ bl@ .
 gen4.cha 1 9 16 sl8i la il e nwaR .
 gen4.cha 1 9 16 # # .
 gen5.cha 1 10 01 k Es k il i a ma-Ri ?
@@ -5964,7 +5964,7 @@ gen8.cha 1 11 18 t a l2 ne ki kul , 5 ma-Ri ?
 gen8.cha 1 11 18 o si .
 gen8.cha 1 11 18 sufl !
 gen8.cha 1 11 18 vwa-la , sa va mj2 .
-gen8.cha 1 11 18 ty v2 R@-Ze tus le fR8i e le le-gym ?
+gen8.cha 1 11 18 ty v2 R@-Ze tu le fR8i e le le-gym ?
 gen8.cha 1 11 18 Z kRwa k2 s' e tu .
 gen8.cha 1 11 18 ty v2 k2 Z2 t Ed a fER-me ?
 gen8.cha 1 11 18 paRs k El e bi-zaR a fER-me la bwat la , vwa-la .
@@ -6284,7 +6284,7 @@ gen9.cha 2 0 09 vu vu-le de pOm ?
 gen9.cha 2 0 09 Z' @n E .
 gen9.cha 2 0 09 vwa-la .
 gen9.cha 2 0 09 ty n2 v2 pa d2 pOm kOm sa ?
-gen9.cha 2 0 09 e k Es k2 vuz a-le fER a-vEk tus se livR ?
+gen9.cha 2 0 09 e k Es k2 vuz a-le fER a-vEk tu se livR ?
 gen9.cha 2 0 09 a , il vu fo k@ mEm kElk° fR8i e kElk le-gym .
 gen9.cha 2 0 09 di mwa s2 k2 ty v2 !
 gen9.cha 2 0 09 di mwa s2 k2 ty v2 !

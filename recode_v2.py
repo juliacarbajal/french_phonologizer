@@ -262,6 +262,11 @@ denasalization['vilain'] = 'vi-lEn'
 denasalization['divin'] = 'di-vin'
 denasalization['fin'] = 'fin'
 
+vowel_ini_months = ['avril', 'août', 'octobre']
+special_cases = {}
+special_cases['six'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y'] + vowel_ini_months
+special_cases['dix'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y', 'après', 'onze'] + vowel_ini_months
+special_cases['n9f'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y'] + vowel_ini_months
 
 # Enchainement exceptions:
 enchainement_exceptions = ['9m']
@@ -274,6 +279,11 @@ def silent_consonant(letter, phone):
 	else:
 		return False
 
+def check_vowel_onset(ortho_word):
+	vowel_initial = ((ortho_word in dico) and (ortho_word not in punctuation) and
+						(dico[ortho_word].replace('§', '4').replace('°', '6')[0] in vowels+semivowels)) # I replace special characters for matching vowels
+	return vowel_initial
+	
 def check_liaison(line, all_words, k) :
 	# This function checks if liaison applies, returns True or False
 	# all_words: full utterance (as a list)
@@ -281,8 +291,7 @@ def check_liaison(line, all_words, k) :
 	do_liaison = False
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
-	next_word_starts_with_vowel = ((next_word in dico) and (next_word not in punctuation) and
-									(dico[next_word].replace('§', '4').replace('°', '6')[0] in vowels+semivowels)) # I replace special characters for matching vowels	
+	next_word_starts_with_vowel = check_vowel_onset(next_word)
 	if (current_word not in punctuation) and (next_word_starts_with_vowel):
 		next_word_2  = all_words[k+2]
 		prev_word    = '#'
@@ -461,6 +470,11 @@ for corpusdir in dirlist:
 						if word in denasalization:
 							newwords[i] = denasalization[word]
 						print_applied_liaison(line_ID, words, i, newwords[i], f)
+					elif (word in special_cases) and (words[i+1] in dico) and check_vowel_onset(words[i+1]) and (words[i+1] not in special_cases[word]): # Work on this (it's giving an error for the moment)
+						newwords[i] = newwords[i][:-1] + liaison[lastphon]
+						print_applied_liaison(line_ID, words, i, newwords[i], f)
+					elif (word == 'tous') and (words[i+1] in ['les', 'des', 'ces', 'nos', 'vos', 'ses', 'tes', 'ceux']):
+						newwords[i] = newwords[i][:-1] #This is not liaison, just correcting a problem with tou(s)
 				else:
 					newwords.append('#') 
 			newwords.append(full_line[-1])

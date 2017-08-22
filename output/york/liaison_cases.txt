@@ -156,6 +156,7 @@
 1301 les objets                    lez Ob-ZE                     met pas les objets par
 1339 quand on                      k@t §                         au nez quand on dit
 1353 trois ans                     tRwaz @                       trois ans .
+1356 dix ans                       diz @                         tu auras dix ans .
 1372 vas y                         vaz i                         allez , vas y , explique
 1385 les autres                    lez otR                       vais attacher les autres ?
 1390 ton index                     t§n 5-dEks                    est , ton index !
@@ -645,6 +646,7 @@
 6125 on arrose                     §n a-Roz                      allez , on arrose les plantes
 6128 tout à                        tut a                         laisses pour tout à l'
 6139 en a                          @n a                          il y en a d' autres
+6167 six ans                       siz @                         six ans ?
 6169 plus âgé                      plyz a-Ze                     il est plus âgé que toi
 6170 fait il                       fEt il                        comment se fait il qu' un
 6170 plus âgé                      plyz a-Ze                     bébé soit plus âgé que
@@ -660,7 +662,9 @@
 6220 est une                       et yn                         c(e) est une belle garniture ,
 6230 est un                        et 1                          si c(e) est un gâteau on
 6233 fait il                       fEt il                        comment se fait il que ton
+6233 six ans                       siz @                         ait déjà six ans ?
 6236 un an                         1n @                          il avait un an et
+6236 six ans                       siz @                         il a six ans ?
 6239 fait il                       fEt il                        comment se fait il qu' il
 6244 un an                         1n @                          pas encore un an ,
 6246 un an                         1n @                          moins d' un an , on
@@ -697,6 +701,9 @@
 6432 est un                        et 1                          c(e) est un joli prénom ,
 6434 plus âgée                     plyz a-Ze                     elle est plus âgée .
 6439 est autre                     et otR                        , c(e) est autre chose
+6443 six ans                       siz @                         de dire six ans .
+6445 six ans                       siz @                         il aura six ans demain
+6446 six ans                       siz @                         toujours six ans .
 6447 un an                         1n @                          pas d' un an par
 6464 mauvais exemple               mo-vEz Eg-z@pl                quel mauvais exemple .
 6471 peut être                     p2t EtR                       c(e) est peut être de la
@@ -3567,6 +3574,7 @@
 33131deux oeufs                    d2z 2                         deux oeufs .
 33133deux oeufs                    d2z 2                         deux oeufs , trois oeufs ,
 33133trois oeufs                   tRwaz 2                       oeufs , trois oeufs ,
+33133six oeufs                     siz 2                         oeufs , six oeufs ,
 33136des oeufs                     dez 2                         pas faire des oeufs sur
 33143des oeufs                     dez 2                         elle fait des oeufs .
 33150quand elle                    k@t El                        anne , quand elle arrive
@@ -4459,6 +4467,7 @@
 40193un ici                        1n i-si                       en a un ici .
 40195on a                          §n a                          après on a deux bouteilles de
 40198vas y                         vaz i                         vas y , mets la !
+40207six oeufs                     siz 2                         alors six oeufs frais .
 40211nous avons                    nuz a-v§                      et nous avons ensuite du jus
 40212on a                          §n a                          on a bientôt fini .
 40215des olives                    dez o-liv                     des olives encore .
@@ -4541,6 +4550,7 @@
 40727est arrivé                    et a-Ri-ve                    , il est arrivé ,
 40730est arrivé                    et a-Ri-ve                    il est arrivé sur ses jambes
 40740trois ans                     tRwaz @                       qui as trois ans .
+40744six ans                       siz @                         qui a six ans et
 40748dans une                      d@z yn                        dans une dizaine de jours ,
 40751vingt ans                     v5t @                         y a vingt ans que
 40752vingt ans                     v5t @                         vingt ans .
@@ -4559,6 +4569,8 @@
 40817on était                      §n e-tE                       on était là (à-crier) le gâteau
 40822deux ans                      d2z @                         il avait deux ans , le
 40825trois ans                     tRwaz @                       il avait trois ans , le
+40832six ans                       siz @                         six ans , il a ?
+40838six ans                       siz @                         six ans .
 40847trois ans                     tRwaz @                       as fait trois ans .
 40851chez une                      Sez yn                        elle est chez une nounou .
 40854des enfants                   dez @-f@                      y a des enfants qui

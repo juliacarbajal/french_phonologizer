@@ -874,7 +874,7 @@
 1352 c(e) est                      se                           ça , c(e) est bien ,
 1353 trois ans                     tRwa z@                       trois ans .
 1354 c(e) est                      se                           ça , c(e) est dix
-1356 dix ans                       di s@                         tu auras dix ans .
+1356 dix ans                       di z@                         tu auras dix ans .
 1359 il y                          i li                          sept , il y a
 1360 s' arrêter                    sa-Re-te                     ça pouvait s' arrêter là
 1362 QU' est-ce                    kEs                          QU' est-ce que tu bois Là
@@ -3819,7 +3819,7 @@
 6164 aujourd' hui                  o-ZuR d8i                     fait quoi aujourd' hui ?
 6165 quel âge                      kE laZ                        quel âge a t il ,
 6165 âge a                         la Za                         quel âge a t il ,
-6167 six ans                       si s@                         six ans ?
+6167 six ans                       si z@                         six ans ?
 6168 il est                        i le                          et il est Si petit que
 6169 il est                        i le                          il est plus âgé que toi
 6169 plus âgé                      ply za-Ze                     il est plus âgé que toi
@@ -3869,13 +3869,13 @@
 6231 mettre à                      mEt Ra                        peut se mettre à la
 6232 il y                          i li                          moi , il y a une
 6233 fait il                       fE til                        comment se fait il que ton
-6233 six ans                       si s@                         ait déjà six ans ?
+6233 six ans                       si z@                         ait déjà six ans ?
 6236 hier il                       jE Ril                        hier il avait un an et
 6236 il avait                      Ri la-vE                      hier il avait un an et
 6236 un an                         1 n@                          il avait un an et
 6236 aujourd' hui                  o-ZuR d8i                     an et aujourd' hui il
 6236 il a                          i la                          aujourd' hui il a six
-6236 six ans                       si s@                         il a six ans ?
+6236 six ans                       si z@                         il a six ans ?
 6239 fait il                       fE til                        comment se fait il qu' il
 6239 qu' il                        kil                          fait il qu' il soit
 6240 n' est                        ne                           ben ce n' est pas normal
@@ -4038,13 +4038,13 @@
 6439 est autre                     se tot                        , c(e) est autre chose
 6442 qu' elle                      kEl                          plus grande qu' elle alors
 6442 elle alors                    kE la-lOR                     grande qu' elle alors tu
-6443 six ans                       si s@                         de dire six ans .
+6443 six ans                       si z@                         de dire six ans .
 6444 t' y                          ti                           tu ne t' y retrouves plus
 6445 il a                          i la                          le moment il a cinq
 6445 cinq ans                      s5 k@                         il a cinq ans et
 6445 il aura                       i lo-Ra                       ans et il aura six
-6445 six ans                       si s@                         il aura six ans demain
-6446 six ans                       si s@                         toujours six ans .
+6445 six ans                       si z@                         il aura six ans demain
+6446 six ans                       si z@                         toujours six ans .
 6447 d' un                         d1n                          veillit pas d' un an
 6447 un an                         d1 n@                         pas d' un an par
 6451 c(e) est                      se                           ça , c(e) est bizarre ,
@@ -19243,7 +19243,7 @@
 33133trois oeufs                   tRwa z2                       oeufs , trois oeufs ,
 33133quatre oeufs                  kat R2                        oeufs , quatre oeufs ,
 33133cinq oeufs                    s5 k2                         oeufs , cinq oeufs ,
-33133six oeufs                     si s2                         oeufs , six oeufs ,
+33133six oeufs                     si z2                         oeufs , six oeufs ,
 33133sept oeufs                    sE t2                         oeufs , sept oeufs ,
 33133huit oeufs                    8i t2                         oeufs , huit oeufs .
 33134c(e) est                      se                           hop c(e) est dommage .
@@ -24043,7 +24043,7 @@
 40204d' abricot                    da-bRi-ko                    des confitures d' abricot .
 40206elle en                       E l@                          des fois elle en fait
 40206confitures aux                k§-fi-ty Ro                   fait des confitures aux fraises
-40207six oeufs                     si s2                         alors six oeufs frais .
+40207six oeufs                     si z2                         alors six oeufs frais .
 40211nous avons                    nu za-v§                      et nous avons ensuite du jus
 40211d' orange                     do-R@Z                       du jus d' orange et
 40211orange et                     do-R@ Ze                      jus d' orange et du
@@ -24449,7 +24449,7 @@
 40740trois ans                     tRwa z@                       qui as trois ans .
 40742sept ans                      sE t@                         sept ans .
 40744c(e) est                      se                           c(e) est Aurélia qui a six
-40744six ans                       si s@                         qui a six ans et
+40744six ans                       si z@                         qui a six ans et
 40744il a                          i la                          gaëtan , il a eu
 40744sept ans                      sE t@                         a eu sept ans .
 40747c(e) est                      se                           et QUI c(e) est qui va
@@ -24518,7 +24518,7 @@
 40829sept ans                      sE t@                         a eu sept ans ,
 40830sept ans                      sE t@                         sept ans .
 40831quel âge                      kE laZ                        tu as quel âge ?
-40832six ans                       si s@                         six ans , il a ?
+40832six ans                       si z@                         six ans , il a ?
 40832il a                          i la                          ans , il a ?
 40833il avait                      i la-vE                       non , il avait sept
 40833sept ans                      sE t@                         il avait sept ans .
@@ -24530,7 +24530,7 @@
 40836treize ans                    tRE z@                        treize ans .
 40837elle a                        E la                          aurélia , elle a quel
 40837quel âge                      kE laZ                        elle a quel âge ?
-40838six ans                       si s@                         six ans .
+40838six ans                       si z@                         six ans .
 40839elle a                        E la                          anne , elle a quel
 40839quel âge                      kE laZ                        elle a quel âge ?
 40842sept ans                      sE t@                         les sept ans .
