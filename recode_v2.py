@@ -101,11 +101,17 @@ with open('auxiliary/output_ADJ.txt') as ADJlist:
 
 # Load the plural nouns:
 plural_nouns = []
+V_nouns = []
 with open('auxiliary/output_NOMp.txt') as NOMlist:
 	for line in NOMlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
-		if (line[-1] in liaison) and (line != 'trucs'):
-			plural_nouns.append(line)
+		if (line in dico):
+			first_phon = line.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
+			if (first_phon in vowels+semivowels): 
+				V_nouns.append(line) 
+			if (line[-1] in liaison) and (line != 'trucs'):
+				plural_nouns.append(line)
+
 			
 # Load 3rd person verbs:
 verbs_3rd = []
@@ -263,10 +269,10 @@ denasalization['divin'] = 'di-vin'
 denasalization['fin'] = 'fin'
 
 vowel_ini_months = ['avril', 'août', 'octobre']
-special_cases = {}
-special_cases['six'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y'] + vowel_ini_months
-special_cases['dix'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y', 'après', 'onze'] + vowel_ini_months
-special_cases['n9f'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y'] + vowel_ini_months
+special_numbers = {}
+special_numbers['six'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y'] + vowel_ini_months
+special_numbers['dix'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y', 'après', 'onze'] + vowel_ini_months
+special_numbers['n9f'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y'] + vowel_ini_months
 
 # Enchainement exceptions:
 enchainement_exceptions = ['9m']
@@ -470,9 +476,11 @@ for corpusdir in dirlist:
 						if word in denasalization:
 							newwords[i] = denasalization[word]
 						print_applied_liaison(line_ID, words, i, newwords[i], f)
-					elif (word in special_cases) and (words[i+1] in dico) and check_vowel_onset(words[i+1]) and (words[i+1] not in special_cases[word]): # Work on this (it's giving an error for the moment)
+					elif (word in special_numbers) and (words[i+1] in dico) and check_vowel_onset(words[i+1]) and (words[i+1] not in special_numbers[word]): # Work on this (it's giving an error for the moment)
 						newwords[i] = newwords[i][:-1] + liaison[lastphon]
 						print_applied_liaison(line_ID, words, i, newwords[i], f)
+					elif (word in special_numbers) and (lastphon == 's') and (words[i+1] in V_nouns):
+						newwords[i] = newwords[i][:-1] 
 					elif (word == 'tous') and (words[i+1] in ['les', 'des', 'ces', 'nos', 'vos', 'ses', 'tes', 'ceux']):
 						newwords[i] = newwords[i][:-1] #This is not liaison, just correcting a problem with tou(s)
 				else:
