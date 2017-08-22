@@ -348,6 +348,7 @@ CV CV          la Ra          24        la Ra-mEn, la Ra-ma-se, la Ra-mas, la Ra
 CV CV          la bE          24        la bE-Nwa, la bE-NwaR
 CV CV          l2 d°          24        l2 d°-sy, l2 d°-su, l2 d°-d@, l2 d°-v@, l2 d°-bu
 CV CV          l2 So          24        l2 So-dR§, l2 So-ko-la, l2 So-s§, l2 So-faZ
+CV CV          Ze tu          23        m@-Ze tu, R@-Ze tu, pje-Ze tu, m@-Ze tu-ZuR, sa-l§-Ze tu
 CV CV          Ze de          23        m@-Ze de, R@-Ze de, d@-Ze de, pi-Ze de
 CV CV          mE ma          23        mE ma-pRE, mE ma-l2-R2z-m@, mE ma-Ri, mE ma-ly-si-n@, mE ma-ni-mal, mE ma-vEk, mE ma-le, mE ma-m@, mE ma-v@
 CV CV          d2 s°          23        d2 s°-g§, d2 s°-g§d, d2 s°-mEn, d2 s°-mE
@@ -412,7 +413,6 @@ CV CV          vE fE          21        la-vE fE, na-vE fE, ta-vE fE, ka-vE fE, 
 CV CV          m§ Se          20        m§ Se-Ri
 CV CV          Z2 ma          20        Z2 ma-si, Z2 ma-sje, Z2 ma-sEj, Z2 ma-gRip, Z2 ma-bij, Z2 ma-pEl, Z2 ma-swa
 CV CV          ZE l5          20        ZE l5-pRe-sj§
-CV CV          Ze tu          20        m@-Ze tu, R@-Ze tu, pje-Ze tu, m@-Ze tu-ZuR, sa-l§-Ze tu
 CV CV          na ma          20        na ma-Ri, na ma-m@
 CV CV          s§ la          20        S@-s§ la, pwa-s§ la, gaR-s§ la, s§ la-p5
 CV CV          si ma          20        mER-si ma-dam, si ma-Ri, si ma-m@, mER-si ma-Ri, ti-si ma-Ri, vwa-si ma-m@, Ro-si ma-ti-nal, mER-si ma, mER-si ma-m@
@@ -424,6 +424,7 @@ CV CV          fE l§          20        fE l§-t@
 CV CV          pa do          20        pa do-ne, pa do-do, pa-pa do
 CV CV          t§ So          20        t§ So-s§, t§ So-ko-la
 CV CV          de sa          20        de sa-la-Rje, de sa-SE, de sa-lad, ni-de sa, de sa-p5, gaR-de sa, de sa-bo, R°-gaR-de sa, de sa-kRe
+CV CV          le tu          20        @-ba-le tu, a-le tu, Ri-go-le tu, le tu-vERt, za-le tu, le tu-Zu, le tu-ZuR, le tu-vER, a-le tu-Se
 CV CV          le m@          20        a-le m@, le m@-to, za-le m@-Ze, le m@-Ze, a-le m@-Ze, ma-le m@-Ze
 CV CV          le R@          20        le R@-tRe, le R@-dy, le R@-Ze, le R@-ZE, a-le R@, le R@-ZRE
 CV CV          la Ri          20        la Ri-do, la Ri-vjE, la Ri-g9R, la Ri-g9, la Ri-vjER
@@ -479,7 +480,6 @@ CV CV          Se sa          18        mu-Se sa, SER-Se sa, tu-Se sa, Ra-kRo-Se
 CV CV          pa Ra          18        pa Ra-vEk, pRe-pa Ra, R°-pa Ra-vEk, pa Ra-k§-te, pa Ra-bi-t@, pa Ra-te, pa Ra-j9, pa Ra-zaR, pa Ra-Re-te
 CV CV          ze la          18        ta-my-ze la, po-ze la, e-kRa-ze la, sa-my-ze la, Ek-splo-ze la, a-Ro-ze la, y-ti-li-ze la
 CV CV          le zi          18        le zi-ma, le zi-glu, le zi-po-po-tam, a-le zi, le zi-de, le zi-mi-tE, le zi-maZ
-CV CV          le tu          18        @-ba-le tu, a-le tu, le tu-vERt, le tu-Zu, le tu-ZuR, le tu-vER, a-le tu-Se
 CV CV          le mu          18        za-le mu-je, le mu-je, le mu-t§, le mu-SwaR
 CV CV          le d2          18        te-le d2, ta-le d2, le d2-zjEm, a-va-le d2, ku-le d2, a-le d2, Ra-le d2, paR-le d2
 CV CV          la di          18        la di-fe-R@s, s°-la di, la di-fi-kyl-te, la di-fe-R@, la di-nEt, la di-REk-tRis, la di-REk-sj§, la di-si-plin
@@ -623,6 +623,7 @@ CV CV          to te          14        to te-o-fi, ku-to te-o-fil, to te-le-fOn
 CV CV          to se          14        fo-to se, ga-to se, ku-to se, mo-to se, m@-to se, ba-to se, maR-to se, Ra-to se
 CV CV          ti ba          14        p°-ti ba-to, p°-ti ba-l§, p°-ti ba-lE, p°-ti ba-baR
 CV CV          te S°          14        te S°-v2
+CV CV          te tu          14        no-te tu, poR-te tu, pa-te tu, gu-te tu, a-pOR-te tu, Ra-k§-te tu, @-pOR-te tu, ma-pOR-te tu, mE-te tu, REs-te tu, Z°-te tu
 CV CV          ta Re          14        ta Re-zERv, ta Re-y-si, ta Re-p§-dy, ta Re-ve
 CV CV          ta pa          14        ta pa-Rje, ta pa-vEk, ta pa-pi, ta pa-pa, ta pa-se
 CV CV          ta do          14        ta do-ne
@@ -733,6 +734,7 @@ CV CV          se lo          12        se lo-RaZ, pa-se lo-to, se lo-REj, se lo
 CV CV          se za          12        se za-fE, se za-kRo-ba-si, se za-mi, se za-ni-mo, se za-fER, se za-bi
 CV CV          se mi          12        se mi-N§, se mi-ni, se mi-mi, se mi-kE
 CV CV          Ra la          12        to-Ra la, vE-Ra la, R°-gaR-d°-Ra la, lo-Ra la, f°-Ra la, Ra la-v@, ni-Ra la, ty-Ra la-p5, ka-me-Ra la
+CV CV          Ra tu          12        fER-m°-Ra tu, ka-me-Ra tu, vE-Ra tu, tER-min-Ra tu, f°-Ra tu, ka-me-Ra tu-ZuR, r*-f*-Ra tu, to-Ra tu
 CV CV          fO na          12        te-le-fO na-l§-Ze, te-le-fO na, te-le-fO na-na
 CV CV          t@ ta          12        puR-t@ ta-REt, a-t@ ta, t@ ta-j9R, Z@-t@ ta, ta-t@ ta
 CV CV          ty d°          12        ty d°-vRE, ty d°-vi-ne, ty d°-m@, ty d°-vj5, ty d°-m@d
@@ -742,7 +744,6 @@ CV CV          to d2          12        bj5-to d2, ply-to d2, Sa-to d2, fo-to d2
 CV CV          ti R@          12        paR-ti R@, ti R@-s@bl, ti R@-kOR, s@-ti R@-kOR, paR-ti R@-Ze, ti R@-kO, sOR-ti R@
 CV CV          ti ta          12        p°-ti ta-lO, p°-ti ta-no, p°-ti ta-na, p°-ti ta-bu-RE, p°-ti ta-ni-mal, paR-ti ta, p°-ti ta-sjEt, p°-ti ta-muR
 CV CV          ti po          12        p°-ti po, p°-ti po-nE
-CV CV          te tu          12        no-te tu, poR-te tu, pa-te tu, gu-te tu, a-pOR-te tu, Ra-k§-te tu, ma-pOR-te tu, REs-te tu, Z°-te tu
 CV CV          te d°          12        Su-te d°-d@, REs-te d°-bu, so-te d°-d@, m§-te d°-sy, so-te d°-sy, so-te d°-p8i, REs-te d°-sy, te d°-mi
 CV CV          te p°          12        te p°-ti, te p°-lyS, te p°-tit
 CV CV          ta sa          12        ta sa-li, ta sa-v§, ta sa-vEk, ta sa-liv, ta sa-lo-pEt
@@ -792,7 +793,6 @@ CV CV          s2 mo          11        s2 mo-m@
 CV CV          si le          11        si le-o-naR, si le-o-na, lo-si le, i-si le, fa-si le, o-si le, so-si le, si le-sEj, mER-si le, mER-si le-o-naR
 CV CV          sa mE          11        sa mE-tE, sa mE-dRE, sa mE-z§
 CV CV          se li          11        se li-vE, se li-po-po-tam, se li-mit, se li-ki, se li-li, se li-mi-gRa-sj§, se li-de-al
-CV CV          Ra tu          11        fER-m°-Ra tu, ka-me-Ra tu, vE-Ra tu, tER-min-Ra tu, f°-Ra tu, ka-me-Ra tu-ZuR, r*-f*-Ra tu, to-Ra tu
 CV CV          Ro R°          11        Ro R°-vwaR, Ro R°-vwa, Ro R°-pa
 CV CV          R@ pi          11        R@ pi-Za-ma
 CV CV          t@ k§          11        ta-t@ k§, l§-t@ k§, t@ k§-sERv, t@-t@ k§
@@ -935,6 +935,7 @@ CV CV          se s5          9         se s5-pa
 CV CV          Re le          9         e-ny-me-Re le, ti-Re le-le-f@, Re-kle-Re le, Re-pa-Re le-o-naR, R°-ti-Re le, py-Re le-o-naR, ti-Re le, pRe-pa-Re le
 CV CV          Ra l@          9         Ra l@-vER, Ra l@-dRwa, Ra l@-sjE
 CV CV          Ri ki          9         su-Ri ki, ma-Ri ki
+CV CV          RE tu          9         di-RE tu, ku-RE tu-Zu, a-mEn-RE tu, o-RE tu, a-RE tu, dis-pa-RE tu, Zo-RE tu, sa-RE tu
 CV CV          tE ta          9         tE ta-v@, tE ta-pe, tE ta-muR, tE ta-t@-sj§
 CV CV          ty na          9         ty na-RE-Ne, ty na-sjE, ty na-fER, ty na-tRap, ty na-sjEt, ty na-bEj, ty na-mi
 CV CV          tu la          9         paR-tu la, tu la-pe-Ro, tu la-pa-REj, tu la-Se
@@ -947,6 +948,7 @@ CV CV          t2 ku          9         t2 ku-Se, t2 ku-vRi, t2 ku-pe
 CV CV          t1 bo          9         t1 bo-nE, t1 bo-nOm, t1 bo-bo
 CV CV          Si na          9         ma-Si na
 CV CV          Se ta          9         SER-Se ta, la-Se ta, ka-Se ta
+CV CV          Se tu          9         bu-Se tu, de-kl@-Se tu, SER-Se tu
 CV CV          fi lo          9         te-o-fi lo, te-o-fi lo-ZuR-d8i
 CV CV          fi li          9         te-o-fi li
 CV CV          fo su          9         fo su-fle
@@ -1015,7 +1017,6 @@ CV CV          Ra le          8         o-Ra le, ka-me-Ra le-o-naR, Ra le-twal, 
 CV CV          Ra d°          8         ni-Ra d°-m5, ka-me-Ra d°-sy, R°-tuR-n°-Ra d°-m5, R°-Zu-Ra d°-m5, ni-Ra d°-OR
 CV CV          Ri d2          8         se-Ri d2, ka-te-go-Ri d2, ma-Ri d2, me-Ri d2, fa-vo-Ri d2
 CV CV          RE le          8         ply-m2-RE le, RE le-sEj, RE le-tE, Zi-RE le, za-lym-RE le
-CV CV          RE tu          8         di-RE tu, ku-RE tu-Zu, o-RE tu, a-RE tu, dis-pa-RE tu, Zo-RE tu, sa-RE tu
 CV CV          RE dy          8         lo-RE dy, to-RE dy, Zo-RE dy, o-RE dy, no-RE dy
 CV CV          R@ va          8         R@ va-k@s, R@ va-dRuj
 CV CV          R@ Zo          8         o-R@ Zo-si, R@ Zo-si, no-R@ Zo-si, o-R@ Zo-tuR, o-R@ Zo-R@Z
@@ -1129,6 +1130,7 @@ CV CV          s@ na          7         s@ na-le, s@ na-pER-swa, s@ na-RjER, s@ 
 CV CV          s@ mo          7         s@ mo-vE
 CV CV          sE ti          7         sE ti-vER, sE ti-de, sE ti-Re, sE ti-maZ
 CV CV          sE d@          7         nE-sE d@, la-sE d@, gli-sE d@, sE d@-se, E-sE d@, pa-sE d@
+CV CV          si pu          7         si pu-s5, a-si pu-pe, i-si pu
 CV CV          sa la          7         sa la-vo-ka, sa la-myz, sa la-vEk, sa la-v@-taZ, sa la-ve
 CV CV          sa f°          7         sa f°-zE, sa f°-Ra
 CV CV          sa p°          7         sa p°-tit
@@ -1169,7 +1171,6 @@ CV CV          ta ku          7         ta ku-ROn, ta ku-zin, ta ku-Ry, ta ku-ty
 CV CV          t2 le          7         t2 le-se, t2 le-sEj, t2 le-t5
 CV CV          t1 m°          7         t1 m°-sj2
 CV CV          t1 ni          7         t1 ni-po-po-ta, t1 ni-si, t1 ni-po-po-tam
-CV CV          Se tu          7         de-kl@-Se tu, SER-Se tu
 CV CV          Se pa          7         Se pa-pa, Se pa-pi, tu-Se pa, ku-Se pa-pa, mu-Se pa-pa
 CV CV          S@ to          7         S@ to-si
 CV CV          vu la          7         vu la-se, vu la-ve
@@ -1268,6 +1269,7 @@ CV CV          d2 my          6         d2 my-zik
 CV CV          d2 Zo          6         d2 Zo-li
 CV CV          di Ra          6         di Ra-lo, R°f-Rwa-di Ra-pRE, di Ra-muR, di Ra-me
 CV CV          di de          6         mi-di de-Za, di de-Za, di de-sin
+CV CV          di mi          6         di mi-nE, di mi-nyt
 CV CV          di ko          6         di ko-ko, di ko-m@, di ko-k5, di ko-REk-t°-m@
 CV CV          dy du          6         dy du-du, dy du-zjEm
 CV CV          dy Z@          6         dy Z@-b§
@@ -1320,7 +1322,7 @@ CV CV          se no          6         se no-El, le-se no
 CV CV          Re pa          6         e-ny-me-Re pa-pa, ti-Re pa, de-Si-Re pa, py-Re pa-tRi, pRe-pa-Re pa-pa
 CV CV          Re se          6         sE-Re se, pRe-fe-Re se, ka-Re se
 CV CV          Ra se          6         R°-ti-Ra se, Ra se-Se, ka-me-Ra se, di-Ra se
-CV CV          Ro la          6         pwa-Ro la, Ro la-vaZ, s2-Ro la-fiS, ka-Ro la
+CV CV          Ro la          6         z2-Ro la-fiS, pwa-Ro la, Ro la-vaZ, ka-Ro la
 CV CV          Ro te          6         pwa-Ro te-o-fil, Ro te-le-fOn
 CV CV          Ri na          6         ka-t2-Ri na-lOR, ka-t2-Ri na-Riv, ka-t2-Ri na
 CV CV          RE ty          6         o-RE ty, di-RE ty
@@ -1745,6 +1747,7 @@ CV CV          Za de          4         de-Za de-tR8i, de-Za de, de-Za de-Si-Re
 CV CV          Za m@          4         de-Za m@-Ze
 CV CV          n@ fo          4         m5t-n@ fo
 CV CV          n@ sa          4         m5t-n@ sa
+CV CV          nE tu          4         ko-nE tu, di-nE tu
 CV CV          nE dy          4         tRE-nE dy, do-nE dy, Ro-bi-nE dy
 CV CV          nE b°          4         nE b°-zw5
 CV CV          no te          4         no te-le-fOn, pja-no te-o-fil
@@ -1937,6 +1940,7 @@ CV CV          p2 bi          4         p2 bi-zaR, p2 bi-za, p2 bi-za-Ro-id
 CV CV          p2 so          4         p2 so-te, p2 so-lid
 CV CV          p2 sa          4         p2 sa-le, p2 sa-vwaR, p2 sa-swaR
 CV CV          p5 d2          4         ko-p5 d2, la-p5 d2
+CV CV          t§ tu          4         Sa-t§ tu, kan-t§ tu, t§-t§ tu, Ra-t§ tu
 CV CV          t§ ta          4         t§ ta-pi, t§ ta-pEl, t§ ta-bli-je
 CV CV          t§ Z@          4         t§ Z@-b§
 CV CV          t§ bu          4         t§ bu-kE, t§ bu-S§
@@ -2006,6 +2010,7 @@ CV CV          l2 si          4         l2 si-ne-ma, l2 si-zo, l2 si-Ro, l2 si-z
 CV CV          l2 ny          4         l2 ny-me-Ro
 CV CV          S§ d@          4         ko-S§ d@, bu-S§ d@
 CV CV          va bo          4         va bo-nOm, va bo-ku
+CV CV          ve tu          4         tRu-ve tu, la-ve tu, @l-ve tu
 CV CV          ve t§          4         R@l-ve t§, tRu-ve t§, @l-ve t§
 CV CV          ve ki          4         la-ve ki, tRu-ve ki
 CV CV          vi R1          4         la-su-vi R1, sER-vi R1
@@ -2073,10 +2078,10 @@ CV CV          m@ nu          3         vRE-m@ nu-vo, ma-m@ nu
 CV CV          m@ v2          3         ma-m@ v2
 CV CV          m@ fo          3         ko-m@ fo, nOR-mal-m@ fo, ma-m@ fo
 CV CV          m@ su          3         ma-m@ su-Ri, m@ su-vj5
-CV CV          me ty          3         ma-me ty, e-me ty
-CV CV          me te          3         fER-me te-o-fil
-CV CV          me dy          3         a-fa-me dy, a-ni-me dy, Ra-fa-me dy
 CV CV          me zo          3         me zo-REj
+CV CV          me dy          3         a-fa-me dy, a-ni-me dy, Ra-fa-me dy
+CV CV          me te          3         fER-me te-o-fil
+CV CV          me ty          3         ma-me ty, e-me ty
 CV CV          me z@          3         me z@-f@
 CV CV          me mE          3         e-me mE, a-me mE, fil-me mE
 CV CV          me t§          3         me t§-be
@@ -2113,7 +2118,7 @@ CV CV          do dy          3         do-do dy, l@-do dy
 CV CV          di lo          3         di lo-lo, kRo-ko-di lo-si, kRo-ko-di lo
 CV CV          di R@          3         di R@-kO, di R@-Ze, di R@-kOR
 CV CV          di l5          3         kRo-ko-di l5
-CV CV          di s2          3         di s2-Ro
+CV CV          di z2          3         di z2-Ro
 CV CV          di su          3         di su-v@
 CV CV          di ku          3         di ku-ku
 CV CV          da R@          3         da R@-Ze
@@ -2226,7 +2231,6 @@ CV CV          sy d°          3         d°-sy d°-su, d°-sy d°-sy
 CV CV          si tu          3         a-si tu, mER-si tu, lo-si tu
 CV CV          si k§          3         si k§-ti-ny, ti-si k§, o-si k§
 CV CV          si p°          3         mER-si p°-ti, i-si p°-ti
-CV CV          si pu          3         a-si pu-pe, i-si pu
 CV CV          si s5          3         zEg-zER-si s5, so-si s5
 CV CV          si s@          3         so-si s@, so-si s@-kOR
 CV CV          si ku          3         to-si ku-Se, o-si ku-ku, o-si ku-Se
@@ -2440,7 +2444,6 @@ CV CV          R§ de          3         R§ de-kup, R§ de-s@
 CV CV          t§ S°          3         t§ S°-va, t§ S°-m5, t§ S°-va-lje
 CV CV          t§ ga          3         t§ ga-RaZ
 CV CV          t§ d2          3         mu-t§ d2, bu-t§ d2, t§ d2-zjEm
-CV CV          t§ tu          3         Sa-t§ tu, kan-t§ tu, Ra-t§ tu
 CV CV          t§ d@          3         mu-t§ d@, bu-t§ d@
 CV CV          t§ l2          3         gas-t§ l2, mu-t§ l2
 CV CV          t§ bO          3         t§ bO-di
@@ -2661,6 +2664,7 @@ CV CV          m@ s@          2         pER-fOR-m@ s@, ma-m@ s@
 CV CV          m@ ku          2         ma-m@ ku-pe
 CV CV          me m§          2         a-bi-me m§
 CV CV          me vu          2         dOR-me vu
+CV CV          me tu          2         fER-me tu
 CV CV          me k@          2         ma-me k@, e-me k@
 CV CV          me ki          2         ta-me ki, naR-me ki
 CV CV          ma S°          2         ma S°-mi-ne, ma S°-miz
@@ -2723,10 +2727,10 @@ CV CV          di ta          2         di ta-REt, ta-plo-di ta-plo-di
 CV CV          di di          2         gR@-di di, di di-REk-t°-m@
 CV CV          di po          2         di po-lin
 CV CV          di vo          2         z@-di vo
+CV CV          di na          2         di na-nu
 CV CV          di R°          2         di R°-gaRd
 CV CV          di k2          2         bO-di k2, t@-di k2
 CV CV          di s@          2         bO-di s@
-CV CV          di na          2         di na-nu
 CV CV          di sa          2         mi-di sa, t5-tER-di sa
 CV CV          da d2          2         sOl-da d2, la-Z5-da d2
 CV CV          da m@          2         da m@-Ze
@@ -2788,7 +2792,6 @@ CV CV          n@ Ra          2         n@ Ra-Zu, n@ Ra-kROS
 CV CV          nE k2          2         k§-pR°-nE k2, R°-ko-nE k2
 CV CV          nE Ro          2         ka-bi-nE Ro-bi-nE
 CV CV          nE no          2         nE no-te
-CV CV          nE tu          2         ko-nE tu, di-nE tu
 CV CV          nE ki          2         R°-ko-nE ki, suv-nE ki
 CV CV          nE d°          2         mo-nE d°-d@, ko-nE d°-p8i
 CV CV          no va          2         Za-no va
@@ -3082,6 +3085,7 @@ CV CV          to fi          2         bj5-to fi-ni
 CV CV          to si          2         to si-tR§, to si-ne-ma
 CV CV          ti Re          2         sOR-ti Re, sOR-ti Re-vi-da-m@
 CV CV          ti Ro          2         sOR-ti Ro-si, ti Ro-si
+CV CV          ti tu          2         sOR-ti tu, p°-ti tu
 CV CV          ti R1          2         sOR-ti R1
 CV CV          ti Z2          2         paR-ti Z2, p°-ti Z2
 CV CV          ti z5          2         be-ti z5
@@ -3174,6 +3178,7 @@ CV CV          Se lo          2         SER-Se lo
 CV CV          Se ty          2         la-Se ty, tu-Se ty
 CV CV          Se ly          2         SER-Se ly-ly
 CV CV          Se va          2         tRi-Se va, SER-Se va
+CV CV          Se di          2         Ra-ta-Se di-REk-t°-m@, ka-Se di
 CV CV          Se kO          2         tu-Se kO, mu-Se kO
 CV CV          Se na          2         SER-Se na-nu, la-Se na-nu
 CV CV          S@ lu          2         me-S@ lu
@@ -3453,6 +3458,7 @@ CV CV          de Ro          2         de Ro-bo, de Ro-Se
 CV CV          de b@          2         de b@-daZ, de b@-b5
 CV CV          de Ze          2         de Ze-@, de Ze-ne-Ra-sj§
 CV CV          de Zy          2         de Zy-mEl
+CV CV          de tu          2         de tu-pi, R°-gaR-de tu
 CV CV          de m@          2         R°-gaR-de m@-Ze, de m@-da-Rin
 CV CV          de mi          2         de mi-ni, de mi-ljaR
 CV CV          de p§          2         de p§-pje
@@ -3503,6 +3509,7 @@ CV CV          la b5          2         vwa-la b5
 CV CV          la n§          2         So-ko-la n§, vwa-la n§
 CV CV          la sE          2         la sE-Re
 CV CV          lo d@          2         ve-lo d@-f@, Ri-go-lo d@
+CV CV          lo tu          2         ve-lo tu, lo tu-ZuR
 CV CV          lo k§          2         ve-lo k§, Ru-lo k§-pRE-s9R
 CV CV          lo m°          2         lo m°-sj2, a-lo m°-sj2
 CV CV          lo Zo          2         ve-lo Zo, lo Zo-li
@@ -3566,7 +3573,6 @@ CV CV          va Sa          2         va Sa-vEk, va Sa-se
 CV CV          va mu          2         va mu-Se
 CV CV          va sy          2         va sy-fiR, va sy-ze
 CV CV          ve d§          2         a-Ri-ve d§
-CV CV          ve tu          2         tRu-ve tu, la-ve tu
 CV CV          ve to          2         l°-ve to
 CV CV          ve be          2         tRu-ve be-be
 CV CV          ve ty          2         R°-tRu-ve ty, a-Ri-ve ty
@@ -3794,28 +3800,27 @@ CV CV          m@ na          1         dus-m@ na-nu
 CV CV          mO t5          1         maR-mO t5
 CV CV          mO ta          1         maR-mO ta
 CV CV          k° s2          1         kwa-k° s2
-CV CV          me d2          1         ma-me d2
-CV CV          me da          1         a-ly-me da-bOR
-CV CV          me du          1         me du-du
-CV CV          me zi          1         z@-Ry-me zi-si
-CV CV          me Z2          1         e-me Z2
-CV CV          me bo          1         kal-me bo-nOm
-CV CV          me bi          1         me bi-bR§
-CV CV          me p2          1         a-ly-me p2
-CV CV          me tu          1         fER-me tu
-CV CV          me p@          1         me p@-tuf
-CV CV          me pu          1         me pu-pe
-CV CV          me za          1         me za-fER
-CV CV          me Se          1         me-me Se-Ri
-CV CV          me me          1         me me-sj2
-CV CV          me p5          1         fil-me p5-p5
-CV CV          me mo          1         me mo-lE
 CV CV          me p°          1         me p°-ti
-CV CV          me s2          1         fER-me s2
-CV CV          me k2          1         da-me k2
-CV CV          me kO          1         fER-me kO
+CV CV          me bo          1         kal-me bo-nOm
+CV CV          me p@          1         me p@-tuf
 CV CV          me fi          1         me fi-lip
+CV CV          me d2          1         ma-me d2
+CV CV          me zi          1         z@-Ry-me zi-si
+CV CV          me s2          1         fER-me s2
+CV CV          me mo          1         me mo-lE
+CV CV          me k2          1         da-me k2
+CV CV          me da          1         a-ly-me da-bOR
+CV CV          me Z2          1         e-me Z2
+CV CV          me kO          1         fER-me kO
+CV CV          me bi          1         me bi-bR§
+CV CV          me za          1         me za-fER
+CV CV          me me          1         me me-sj2
+CV CV          me pu          1         me pu-pe
+CV CV          me du          1         me du-du
+CV CV          me Se          1         me-me Se-Ri
 CV CV          me fo          1         a-ly-me fo
+CV CV          me p5          1         fil-me p5-p5
+CV CV          me p2          1         a-ly-me p2
 CV CV          ma l@          1         ma l@-kOR
 CV CV          ma Re          1         ma Re-p§-dy
 CV CV          ma Ro          1         ma Ro-si
@@ -3959,7 +3964,6 @@ CV CV          di pE          1         di pE-Ro-kE
 CV CV          di pu          1         di pu-s5
 CV CV          di m@          1         di m@-da-Rin
 CV CV          di Se          1         di Se-Ri
-CV CV          di mi          1         di mi-nE
 CV CV          di ly          1         di ly-ly
 CV CV          di R5          1         R°f-Rwa-di R5
 CV CV          di vi          1         R°f-Rwa-di vi
@@ -4090,6 +4094,7 @@ CV CV          Za t°          1         de-Za t°-ny
 CV CV          Za Za          1         Za Za-Riv
 CV CV          Za d@          1         de-Za d@
 CV CV          Za mu          1         de-Za mu-Se
+CV CV          Za si          1         de-Za si
 CV CV          d§ p°          1         paR-d§ p°-ti
 CV CV          d§ n@          1         d§ n@-lEv
 CV CV          d§ d2          1         kOR-d§ d2
@@ -4123,12 +4128,12 @@ CV CV          n@ Ze          1         n@ Ze-ne-Ral
 CV CV          n@ la          1         m5t-n@ la
 CV CV          n@ R@          1         n@ R@-k§t
 CV CV          n@ t§          1         pR°-n@ t§
-CV CV          nE zo          1         ma-jo-nE zo-si
 CV CV          nE l@          1         kok-si-nE l@-kOR
 CV CV          nE R5          1         tEk-stRa-OR-di-nE R5
 CV CV          nE Zi          1         nE Zi-si
 CV CV          nE za          1         ma-jo-nE za
 CV CV          nE Re          1         to-nE Re
+CV CV          nE zo          1         ma-jo-nE zo-si
 CV CV          nE Ra          1         nE Ra-vEk
 CV CV          nE s2          1         R°-pR°-nE s2
 CV CV          nE k§          1         nE k§-bj5
@@ -4887,7 +4892,6 @@ CV CV          to ka          1         ply-to ka-Re-se
 CV CV          to fE          1         ba-to fE
 CV CV          ti go          1         ti go-RE
 CV CV          ti Ri          1         p°-ti Ri-no-se-ROs
-CV CV          ti tu          1         p°-ti tu
 CV CV          ti k§          1         p°-ti k§-sER
 CV CV          ti lu          1         p°-ti lu
 CV CV          ti m°          1         p°-ti m°-sj2
@@ -5083,7 +5087,6 @@ CV CV          Se Z2          1         fa-Se Z2
 CV CV          Se be          1         mu-Se be-be
 CV CV          Se Se          1         SER-Se Se-Ri
 CV CV          Se me          1         Ra-kRo-Se me
-CV CV          Se di          1         Ra-ta-Se di-REk-t°-m@
 CV CV          Se R°          1         se-Se R°-gaRd
 CV CV          Se s@          1         Se s@-dOR-mi
 CV CV          Se fo          1         tu-Se fo
@@ -5494,10 +5497,11 @@ CV CV          p2 s@          1         p2 s@-bl@
 CV CV          p2 t°          1         p2 t°-niR
 CV CV          p2 se          1         p2 se-Re
 CV CV          p2 n5          1         p2 n5-pORt
+CV CV          p5 m§          1         sa-p5 m§
 CV CV          p5 pa          1         p5 pa-Ra-sOl
 CV CV          p5 p@          1         la-p5 p@-d@
+CV CV          p5 tu          1         ko-p5 tu
 CV CV          p5 k@          1         ko-p5 k@
-CV CV          p5 m§          1         sa-p5 m§
 CV CV          p5 fu          1         la-p5 fu
 CV CV          p5 de          1         la-p5 de
 CV CV          p5 v2          1         p5-p5 v2
@@ -5776,7 +5780,6 @@ CV CV          de Z2          1         R°-gaR-de Z2
 CV CV          de vi          1         de vi-ta-min
 CV CV          de Z@          1         de Z@-siv
 CV CV          de zO          1         de zO-N§
-CV CV          de tu          1         de tu-pi
 CV CV          de pO          1         de pO-tRi
 CV CV          de ve          1         de ve-lo
 CV CV          de pe          1         de pe-i
@@ -5891,7 +5894,6 @@ CV CV          lo mi          1         lo mi-lj2
 CV CV          lo Z°          1         lo Z°-nu
 CV CV          lo va          1         sa-lo va
 CV CV          lo s2          1         Ri-go-lo s2
-CV CV          lo tu          1         lo tu-ZuR
 CV CV          lo R°          1         lo R°-gaRd
 CV CV          lo pe          1         lo pe-ti-j@t
 CV CV          lo R@          1         lo-lo R@-Ze
@@ -6099,6 +6101,7 @@ CV CV          vy be          1         vy be-be
 CV CV          vy mi          1         vy mi-nE
 CV CV          vy Ra          1         pRe-vy Ra-vi-jOl
 CV CV          vy la          1         vy la-vj§
+CV CV          vy tu          1         R°-vy tu
 CV CV          vy to          1         vy to-ma
 CV CV          vy R@          1         vy R@-Ze
 CV CV          vy de          1         vy de-Za

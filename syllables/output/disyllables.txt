@@ -439,10 +439,10 @@ CV CV          le ka          195
 CV CVC         v2 fER         195
 CV CV          Z2 sE          194
 CV CV          fE l2          194
+V CV           a si           194
 CV CV          ba to          194
 CV CV          la pa          194
 CV O           d@ ?           193
-V CV           a si           193
 CV O           pa #           193
 CVCC O         gaRd ,         193
 O CV           , mE           192
@@ -574,6 +574,7 @@ CV CV          la fE          158
 CV C           va l           158
 CV CV          mE sa          157
 SV O           je .           157
+CV CV          tu le          157
 CV CV          mE pa          156
 CV O           Se ?           156
 CV CVC         p2 tEt         156
@@ -601,7 +602,6 @@ CV CV          la vE          152
 VS O           18 #           151
 CV CVC         ku l9R         151
 CV CCSV        Z2 kRwa        150
-CVC CV         tus le         150
 CV CV          m§ te          149
 CV O           t@ ,           149
 CV CSV         le zj2         149
@@ -873,6 +873,7 @@ CVCC CV        gaRd R°        108
 CV CSVC        la bwat        108
 CV CCV         na ply         107
 CV V           s§ u           107
+CV CV          se tu          107
 CSV V          sj§ a          107
 CVS O          REj .          107
 V CV           a ko           107
@@ -919,7 +920,6 @@ CV CV          v2 la          103
 C CV           l mE           102
 OV O           05 #           102
 CV C           sa k           102
-CV CV          se tu          102
 CVC O          naR ?          102
 CVCC CV        gaRd sa        102
 V V            e o            102
@@ -1191,6 +1191,7 @@ CVC CV         kEl ku         81
 CV CV          pa si          81
 CVC CSV        m§t mwa        81
 CV CV          le S°          81
+CV CV          le tu          81
 CV CV          la f5          81
 C CV           k Z2           80
 VC O           9m !           80
@@ -1232,7 +1233,6 @@ V CSV          a kwa          79
 CV CV          ku to          79
 CV CV          pa dy          79
 CVC CV         mEt d@         79
-CV CV          le tu          79
 CV CV          la ly          79
 V CCV          @ ply          78
 O CV           , ki           78
@@ -1491,6 +1491,7 @@ CV CV          ta pi          66
 CV V           Se 1           66
 CV CV          S@ s§          66
 CV VC          ki Es          66
+O CV           # tu           66
 CV CCV         p2 ply         66
 CVC O          l9R ?          66
 CVC CV         mEt le         66
@@ -1515,6 +1516,7 @@ VS O           aj !           65
 CV CSV         tE bj5         65
 CV CV          ti Re          65
 CV O           te !           65
+CV CV          ta tu          65
 CSVC O         mjam .         65
 O CV           # ta           65
 CV CV          pa b§          65
@@ -1533,7 +1535,6 @@ CVCC O         lotR .         64
 V CV           1 ne           64
 CV CSV         se l8i         64
 CVC CV         lEs l2         64
-CV CV          ta tu          64
 CV CV          ta m5          64
 V CV           a ki           64
 CCSV CV        kRwa k2        64
@@ -1630,7 +1631,6 @@ C CV           s ma           60
 CVC CV         lEv l2         60
 CV CVC         ta tEt         60
 CV C           ki s           60
-O CV           # tu           60
 OO V           07 i           60
 CV CV          t° m@          60
 CVC O          syR ?          60
@@ -1817,7 +1817,6 @@ V CVC          o ZuR          54
 CV CVC         d° m@d         54
 CV O           nE .           54
 CVC CVS        tit fij        54
-CV O           s@ .           54
 CVC O          mal ?          54
 CV CV          sE d2          54
 CV CVC         se syR         54
@@ -1845,6 +1844,7 @@ CV CV          R§ va          54
 CV CV          t§ na          54
 V CVC          e kEs          54
 CV CVC         le fER         54
+CV CV          la tu          54
 CV CV          ly me          54
 CV CV          l2 so          54
 CV CV          l2 du          54
@@ -1939,6 +1939,7 @@ CVC CV         Riv pa         51
 CVCC O         lotR ?         51
 OS CV          08 mE          51
 CV O           ne !           51
+CV O           s@ .           51
 CSV O          tj5 #          51
 CV CV          Ri si          51
 CSV CV         p8i la         51
@@ -1980,6 +1981,7 @@ CV O           Ru .           50
 CSV CV         tj5 pa         50
 CVC CV         dOn la         50
 CV CV          t@ mE          50
+V CV           a tu           50
 CVCC O         tuRn ?         50
 CVC CVC        kaS kaS        50
 CVC CV         kaR go         50
@@ -1990,7 +1992,6 @@ CV CV          ba se          50
 CV CV          bO ni          50
 V VC           e il           50
 CV CVC         le mEt         50
-CV CV          la tu          50
 CV CVC         la pOm         50
 CV CVC         la syR         50
 CV CCVC        lu vRiR        50
@@ -2097,6 +2098,7 @@ CVC CV         kOR la         47
 CV CVC         Z2 tEd         47
 CV CSV         Z2 vwa         47
 CV CV          mE tE          47
+O CV           , tu           47
 CCV CCVC       pRo blEm       47
 CV O           di !           47
 SV O           wE ?           47
@@ -2248,6 +2250,7 @@ CV V           s§ a           44
 CV CV          sa ta          44
 CV CV          sa d@          44
 CV CV          sa p5          44
+CV CV          se di          44
 CV O           Ru ?           44
 SV VCC         ja uRt         44
 CSV V          bj5 5          44
@@ -2258,7 +2261,6 @@ CVS O          REj ?          44
 CV O           Se #           44
 CVCC CV        REst la        44
 CVCC O         fERm ?         44
-V CV           a tu           44
 V CV           a di           44
 VC CV          El s2          44
 CV CVC         kO Ryn         44
@@ -2307,7 +2309,6 @@ CVC O          tEd ?          43
 CVC O          tEt !          43
 CVC O          maZ .          43
 CV CV          se te          43
-CV CV          se di          43
 CV CV          Ri le          43
 CVC O          kOl .          43
 SV O           j5 ?           43
@@ -2398,6 +2399,7 @@ CV CV          pa fi          42
 CV CV          pa ka          42
 CV CV          pa k2          42
 CV CV          pe la          42
+CVC CV         syR tu         42
 CV CV          b5 si          42
 V CV           e n§           42
 V CV           e ka           42
@@ -2412,7 +2414,6 @@ V CSV          @ vwa          41
 V CV           @ v2           41
 CV CV          Z2 R°          41
 CV VC          m@ il          41
-O CV           , tu           41
 CVC O          bEl .          41
 CCV O          pRi .          41
 CV CSVC        d2 s8it        41
@@ -2436,6 +2437,7 @@ CVC O          dOR .          41
 CVC O          pEl .          41
 CCV C          tR5 d          41
 CV CV          ty k§          41
+CV CV          tu s2          41
 CV V           ta @           41
 CV CV          t1 ka          41
 CV CV          f° zE          41
@@ -2446,7 +2448,6 @@ CV CV          k2 le          41
 CV CV          ka t2          41
 O CVC          # syR          41
 CV CVC         pa paR         41
-CVC CV         syR tu         41
 CVC CV         syR sa         41
 CCVC CSV       kRis tj@       41
 CV CV          za bi          41
@@ -2487,7 +2488,6 @@ SV CV          je d2          40
 C CV           t Ra           40
 CCV O          tRo .          40
 CV CV          tE le          40
-CV CV          tu s2          40
 CVC CVC        lEn mad        40
 CV CCV         ta tRa         40
 CV CV          t2 de          40
@@ -2531,6 +2531,7 @@ CV CSV         v2 kwa         40
 V CV           i bu           40
 CCV O          gR@ .          39
 VC CV          9m se          39
+CV CV          mE tu          39
 CV CV          m@ la          39
 CV CV          mi nu          39
 O CV           , dy           39
@@ -2722,7 +2723,6 @@ CV CV          Z@ b§          36
 CV CV          Ze le          36
 CV O           Ze ,           36
 CV O           Zu .           36
-CV CV          mE tu          36
 CVC CVC        fER mal        36
 O CV           , te           36
 O CCSV         , tRwa         36
@@ -2759,6 +2759,7 @@ CCV CVS        fRi puj        36
 CV CV          t@ Z2          36
 CV CVCC        ty fERm        36
 CV CSV         ty bwa         36
+CV CV          tu te          36
 CV CV          te So          36
 CV CV          ta t@          36
 CV CVC         ta s9R         36
@@ -2775,6 +2776,7 @@ CV CV          ba lE          36
 CV V           ba i           36
 VC O           up !           36
 CVCC CV        gaRd ty        36
+V CV           e tu           36
 CV CV          gu Ru          36
 CV O           zu ?           36
 CV CV          de li          36
@@ -2819,6 +2821,7 @@ CV O           ny .           35
 CVC CVC        tik tak        35
 CV VC          n§ il          35
 CV V           sE u           35
+CV CV          si d@          35
 CV CVC         sa vEk         35
 CV C           sa Z           35
 CV CV          Ri la          35
@@ -2937,7 +2940,6 @@ CV CV          pa d°          34
 CV CV          pa ko          34
 CV O           t§ #           34
 CV CV          ba sa          34
-V CV           e tu           34
 CVCC O         vERt .         34
 CSVC O         vwaR ,         34
 CV CVC         la mER         34
@@ -2983,7 +2985,6 @@ CV O           na #           33
 CV CV          ne l2          33
 CSVC O         bwat ?         33
 CSV O          vj§ .          33
-CV CV          si d@          33
 CV CSV         si twa         33
 CV CV          sa ki          33
 CV CV          Re la          33
@@ -2999,6 +3000,7 @@ CVC O          fOn ?          33
 V CV           5 ty           33
 CCV CV         tRo p°         33
 CV CV          tE t1          33
+CV CV          tu se          33
 CV CVC         k§ t@t         33
 CV CVC         k§ pOt         33
 CVC O          lEv .          33
@@ -3283,6 +3285,7 @@ CSV O          vj5 #          30
 VV V           13 i           30
 VV CVC         15 kEs         30
 CVC CV         dOn pa         30
+CV CV          fE tu          30
 VV VC          26 il          30
 CVC O          sEt ?          30
 CVC O          sEl .          30
@@ -3463,6 +3466,7 @@ CV CV          n@ ty          28
 CV CV          na t@          28
 CV CV          ne ta          28
 CVC O          diR ?          28
+CV CV          s§ tu          28
 CV CV          s§ d@          28
 CSVC O         bwaR ?         28
 V CCV          1 gR@          28
@@ -3604,7 +3608,6 @@ CV CV          t@ d2          27
 CV CV          t@ kO          27
 CV CV          ty te          27
 CV CV          tu la          27
-CV CV          tu te          27
 CV CV          to la          27
 CVC O          lEs .          27
 CVC CV         lEv la         27
@@ -3672,6 +3675,7 @@ O CVC          , m5t          26
 C CV           l mi           26
 C CV           l fE           26
 CVC O          tyR ,          26
+CV CV          d2 tu          26
 CV CSV         dy pwa         26
 OV CSV         06 vwa         26
 OV CV          05 Z2          26
@@ -3690,7 +3694,6 @@ CV CV          n§ fo          26
 CV O           nu ,           26
 V CV           E s§           26
 CV CVCC        n5 pORt        26
-CV CV          s§ tu          26
 CV V           s§ @           26
 CCVC CV        dRol d2        26
 CVC O          tER !          26
@@ -3710,7 +3713,6 @@ VV O           13 #           26
 VV SV          15 wE          26
 VV CV          15 sa          26
 VV V           14 i           26
-CVC CV         tus se         26
 SV C           je d           26
 CVC CV         paR fE         26
 CCV CVC        fRa Zil        26
@@ -3773,6 +3775,7 @@ V CV           § k§           26
 SV O           j§ ?           26
 CSV CVC        Rjo nEt        26
 CV O           va ,           26
+CV CV          va tu          26
 CV CV          vE te          26
 CV CVC         vE sEl         26
 V CV           i f§           26
@@ -3829,7 +3832,6 @@ CVC CV         ZEt pa         25
 VV CVC         13 kEs         25
 VV CSV         14 tj5         25
 VV CV          14 sa          25
-CV CV          fE tu          25
 VV CV          26 Z2          25
 VV CV          26 n§          25
 SV CVC         jo nEz         25
@@ -4029,7 +4031,6 @@ V CV           § sa           24
 CV CV          Ra m@          24
 CVC O          Zon ?          24
 CSVC CV        RjER la        24
-CV CV          va tu          24
 CV C           vi d           24
 CV CV          vE le          24
 CV CVC         vE kyn         24
@@ -4041,6 +4042,7 @@ CVCC CVC       paRs kil       23
 CVC O          kOR #          23
 CSV O          sj2 ?          23
 CV CVC         Z2 s@s         23
+CV CV          Ze tu          23
 CV CV          Ze de          23
 CV CSV         m2 s8i         23
 CV CV          mE ZE          23
@@ -4051,7 +4053,6 @@ CVC CV         m@Z la         23
 CV CV          d2 s°          23
 CV CV          d2 z@          23
 CV CV          d2 de          23
-CV CV          d2 tu          23
 CV CV          d2 nu          23
 CV CV          di l2          23
 CV CV          dy ve          23
@@ -4254,6 +4255,7 @@ CV CV          t@ ba          22
 CV CVC         ty SER         22
 CV CVC         ty paR         22
 CV CV          ty n2          22
+CV CV          tu de          22
 CVC CV         lEn ty         22
 CV V           to a           22
 CVC CSV        lEs mwa        22
@@ -4483,6 +4485,7 @@ CVC O          mEn ?          21
 CVC CV         mEt de         21
 CVC CVC        mEt Ryn        21
 CV CV          ze la          21
+CV O           z@ .           21
 CCVC CCVC      bRum bRum      21
 CV CV          de z@          21
 CV O           de !           21
@@ -4531,7 +4534,6 @@ CV CVC         Z2 fas         20
 CV CV          Z2 ma          20
 CV CV          ZE l5          20
 CCV CV         gli se         20
-CV CV          Ze tu          20
 C CV           k tE           20
 CV CVC         Za vEk         20
 CV CV          Zu pa          20
@@ -4591,6 +4593,7 @@ CVC CV         lOR Z2         20
 CCV CSVC       ply zj9R       20
 C CV           Z mE           20
 CV O           n@ ,           20
+CV CV          na tu          20
 CV CVCC        na dotR        20
 CV CVC         ne Ral         20
 CV O           N§ .           20
@@ -4679,6 +4682,7 @@ O CVC          # tut          20
 CV CV          pa t5          20
 CV CCV         pa gR@         20
 CV CVC         pe dal         20
+CV CV          p2 tu          20
 CV V           p5 a           20
 CVCC O         tigR ?         20
 OO CV          07 ZE          20
@@ -4791,7 +4795,6 @@ V VC           o yn           19
 C CV           Z di           19
 CSV CV         vwa de         19
 CV CV          na Ri          19
-CV CV          na tu          19
 CV CSV         na p8i         19
 CV CV          na bo          19
 CV V           na a           19
@@ -4903,7 +4906,6 @@ O C            # k            19
 O CVC          # kEs          19
 CV CV          pa ty          19
 CV V           pa y           19
-CV CV          p2 tu          19
 CV CV          p5 la          19
 CVC CV         gaR d@         19
 CVC CV         Soz d@         19
@@ -5036,7 +5038,6 @@ V CVC          E lEm          18
 CV O           n2 .           18
 CV CV          n2 p2          18
 CV CV          s° ku          18
-CV CVC         s§ tus         18
 CVC CVC        tER min        18
 CVC CV         tEt la         18
 CV CV          s2 Re          18
@@ -5183,7 +5184,6 @@ V CVC          e sEl          18
 V CV           e k@           18
 CV CVC         ga RaZ         18
 CV O           go ?           18
-CV O           z@ .           18
 CVC O          taS .          18
 CVC O          siz .          18
 CV CCVC        de tRyk        18
@@ -5373,16 +5373,17 @@ CV CVC         t@ p@s         17
 CV CV          ty me          17
 CV CVC         ty buZ         17
 CV CVC         ty l@s         17
-CV CV          tu de          17
 CVC CV         lEv t§         17
 CV CV          ti de          17
 CV CVCC        ti tigR        17
 CV CV          ti na          17
+CV CV          te tu          17
 CV CV          te zo          17
 CV V           ta e           17
 CV O           t5 ,           17
 CV CV          t2 mu          17
 CV CVC         t2 lav         17
+CVC CV         vEk tu         17
 CVC CVC        vER sER        17
 CVC CV         vER l2         17
 CV CV          f§ le          17
@@ -5565,6 +5566,7 @@ CV O           ny !           16
 CV V           n§ e           16
 CVC CV         diR sa         16
 CVC O          dil ?          16
+CV CVC         s§ tus         16
 CCVC CV        pR@d la        16
 CVS O          l9j .          16
 CVC CV         tEt dy         16
@@ -5672,6 +5674,7 @@ CVCC CSV       tuRn twa       16
 VC CV          El le          16
 VC CCVC        Ek skyz        16
 VC CV          Et k§          16
+CVC CV         puR tu         16
 CVC C          puR l          16
 CVC CSV        puR l8i        16
 CVC CVC        puR maR        16
@@ -5801,6 +5804,7 @@ CV CV          m2 R°          15
 CV CV          me sa          15
 CV CSV         ma swa         15
 CV V           mi u           15
+CVC CV         fER tu         15
 O CV           , k§           15
 O CVC          , kEl          15
 O CV           , pu           15
@@ -5899,6 +5903,7 @@ CV CV          su le          15
 CV CCV         si tR§         15
 CV CVC         so lid         15
 CV C           so d           15
+CV CV          sa tu          15
 CV CV          sa Re          15
 CV CV          sa l2          15
 CV CCVC        sa plas        15
@@ -5956,7 +5961,6 @@ CV CVC         k§ fOR         15
 CV CV          to se          15
 CV CV          ti d2          15
 CV CV          ti ko          15
-CV CV          te tu          15
 CV CSVC        te Rj9R        15
 CV CVC         te nis         15
 CV CV          ta sa          15
@@ -6105,6 +6109,7 @@ CV VC          va @l          15
 CV CV          va fi          15
 CV CCV         va tRu         15
 CV CV          vi d@          15
+CV CV          vy tu          15
 CV CV          vy de          15
 CV CV          v@ la          15
 CV CV          vE ka          15
@@ -6189,7 +6194,6 @@ OV V           05 @           14
 OS CVCC        08 paRs        14
 OS CV          08 fo          14
 OV VC          09 9m          14
-CVC O          s9R ?          14
 SV CV          wi n§          14
 CVC O          S@t .          14
 SV CSV         wE vwa         14
@@ -6242,7 +6246,6 @@ CV CV          sE ko          14
 CV CV          sE ki          14
 CV CVC         si mad         14
 CV CSV         sa mwa         14
-CV CV          sa tu          14
 CV CVC         sa kOl         14
 CV CV          se Ze          14
 CV CVCC        se paRs        14
@@ -6312,11 +6315,11 @@ CV CV          ty vy          14
 CV CVC         ty s@s         14
 CVS O          lEj ?          14
 CV CCV         tu pti         14
+CV CV          tu t§          14
 CV CCVCC       tu pROpR       14
 CV CV          tu k§          14
 CV CVC         tu paR         14
 CV CV          tu s@          14
-CV CV          tu t§          14
 CV CV          k§ la          14
 CV CV          k§ s@          14
 CV CV          to te          14
@@ -6365,7 +6368,6 @@ CVC CV         pus l2         14
 VC O           Em ?           14
 VC CSV         El bwa         14
 VC CV          Et la          14
-CVC CV         puR tu         14
 CVC O          liz ?          14
 CV O           k@ .           14
 CV CVC         kO myn         14
@@ -6426,6 +6428,7 @@ V CV           e d°           14
 CV CV          ga Ne          14
 CVC CV         mEn la         14
 CVC O          mEt ?          14
+CVC CV         mEt tu         14
 CVC O          nEZ .          14
 CVC O          R@Z !          14
 CV O           zi ?           14
@@ -6536,7 +6539,6 @@ CV CV          ma S5          13
 CV CV          ma Si          13
 CVC CV         nOm la         13
 CSVC O         SwaR ?         13
-CVC CV         fER tu         13
 CVC O          SEt !          13
 CVC O          SEt ,          13
 O VC           , 9m           13
@@ -6584,6 +6586,7 @@ OS CV          08 b§          13
 OS CV          08 ku          13
 OV V           09 §           13
 OV CSV         09 vwa         13
+CVC O          s9R ?          13
 SV CV          wi ma          13
 CSV CV         kwa ta         13
 CVC O          pOm ,          13
@@ -6605,6 +6608,7 @@ CV V           na u           13
 CV CV          na na          13
 CV C           ne d           13
 CV CVC         ne p§Z         13
+CV CV          ne tu          13
 CV CVC         ne S@Z         13
 CV O           ny ?           13
 CV CV          ny me          13
@@ -6886,6 +6890,7 @@ OV CV          01 b§          13
 SVC O          jER ,          13
 V CVC          § sOR          13
 CV CCV         Ra dRi         13
+CV CV          Ra tu          13
 CV O           Ra !           13
 CV CV          Ra v@          13
 CV CV          Ra se          13
@@ -7029,7 +7034,6 @@ CV CV          no se          12
 CV CSVC        na vwaR        12
 CV CSVC        na RjER        12
 CV CCV         na tRu         12
-CV CV          ne tu          12
 CV V           ny a           12
 CVC O          tik ?          12
 CV CCVC        n§ bRil        12
@@ -7222,6 +7226,7 @@ CVC CVC        puR kil        12
 CVC CV         puR fE         12
 CSV CV         Zwe la         12
 CSV O          ZwE ?          12
+CV CV          k2 tu          12
 CV CV          k2 fE          12
 CV O           k@ #           12
 CV CSVC        k@ sjEl        12
@@ -7280,6 +7285,7 @@ CV CV          bi za          12
 CV CV          bu dy          12
 CVC O          l@p .          12
 CVC O          lyn ?          12
+CVCC CV        gaRd tu        12
 CVCC CV        gaRd na        12
 V CV           e Ri           12
 V CV           e ZE           12
@@ -7354,7 +7360,6 @@ CVCC O         k§tR .         12
 CVCC O         kaRt ?         12
 V CVC          § tuR          12
 V CVC          § S@Z          12
-CV CV          Ra tu          12
 CV CSV         Ra Rj5         12
 CV CVC         Ra t9R         12
 CV CV          Ra vE          12
@@ -7471,6 +7476,7 @@ CV CV          dy vE          11
 CV CV          du d@          11
 CV O           du !           11
 CV V           du a           11
+CV CV          d@ tu          11
 CV CV          d@ de          11
 CV CV          d@ me          11
 CV CV          d@ k2          11
@@ -7670,7 +7676,6 @@ CV CSVC        t5 kjEt        11
 CV O           t1 ,           11
 CVC O          bOs .          11
 CVC CSV        vEk l8i        11
-CVC CV         vEk tu         11
 CV CV          f° RE          11
 CVC O          vER #          11
 CVC CSV        vER mwa        11
@@ -7689,6 +7694,8 @@ CVC CCV        REs ply        11
 CSV O          twi .          11
 CV CV          So la          11
 CV CV          So z5          11
+CV CV          Sa tu          11
+CV CV          Se tu          11
 CV V           Se @           11
 CV V           Se u           11
 CV CV          Se t§          11
@@ -7809,7 +7816,6 @@ V CV           e s§           11
 V CVC          e lot          11
 CV CV          ga li          11
 CVC O          mEm ,          11
-CVC CV         mEt tu         11
 CSVC CV        pjER la        11
 CSVC O         pjEs .         11
 CVC CV         R@Z tu         11
@@ -7903,7 +7909,6 @@ CV V           ve 5           11
 CV V           vo 5           11
 CV CV          vu la          11
 CV CSVC        vu lwaR        11
-CV CV          vy tu          11
 CV CV          vy te          11
 CV O           v@ !           11
 CV CV          vE Re          11
@@ -8255,7 +8260,6 @@ CSV CV         twa te         10
 CSV C          twa d          10
 CVC CVCC       REg z@pl       10
 CV CV          So z@          10
-CV CV          Sa tu          10
 CV CVC         Sa vEk         10
 CV CV          Se d2          10
 CV CV          Se nu          10
@@ -8297,7 +8301,6 @@ VC CV          Et R@          10
 CVC CV         puR R@         10
 CVC CV         puR se         10
 CVC O          lin ,          10
-CV CV          k2 tu          10
 CV CCSV        k2 sl8i        10
 CVC O          lis ?          10
 CCVC CVC       plas tik       10
@@ -8357,6 +8360,7 @@ C CSV          d twa          10
 CV CSV         b5 vj5         10
 CV VC          b5 il          10
 CCV CV         pR@ z@         10
+CCV CV         pR@ tu         10
 CV CSV         ba mwa         10
 CV CV          ba l2          10
 CV CVC         ba l@s         10
@@ -8515,6 +8519,7 @@ CV CV          m§ du          9
 CSV CV         mwa te         9
 CSV CV         mwa ta         9
 CSV CV         mwa ko         9
+V CV           @ di           9
 V CV           @ dO           9
 V CSV          @ twa          9
 V CV           @ no           9
@@ -8643,7 +8648,6 @@ CV CV          dO no          9
 CVC O          Riz .          9
 CV CSV         dE RjE         9
 CV CV          d@ d@          9
-CV CVC         d@ tus         9
 CV V           d@ e           9
 VS CCVC        18 kRis        9
 VS CVC         18 Syt         9
@@ -8659,9 +8663,11 @@ OO CV          00 va          9
 OV CCV         06 tRE         9
 OV V           06 E           9
 CVC CVC        mus taS        9
+OV CV          05 tu          9
 OV CV          05 l2          9
 OV CCV         05 bRa         9
 OV CV          05 fo          9
+OS CV          08 tu          9
 OV CV          09 t@          9
 OV CV          09 te          9
 OV VC          09 Op          9
@@ -8815,6 +8821,7 @@ CV O           Ro #           9
 CV CV          Ro bi          9
 CV CV          Ri te          9
 CV V           Ri @           9
+CV CV          RE tu          9
 CV CVC         R@ k§t         9
 CV O           R1 ?           9
 CSV CV         p8i Z2         9
@@ -8852,7 +8859,6 @@ CSV O          gw5 .          9
 SV O           j2 .           9
 CCVC O         fREz ?         9
 CVC CV         sER t5         9
-CVC CV         tus te         9
 VV CV          26 l2          9
 VV CSV         26 vwa         9
 VV V           26 E           9
@@ -8963,7 +8969,6 @@ CV CV          Si na          9
 CV CV          So zo          9
 CV O           So !           9
 CV CVC         Sa fER         9
-CV CV          Se tu          9
 CV CV          Se ta          9
 CV CVC         S@ kOR         9
 CV CV          f5 b§          9
@@ -9268,7 +9273,6 @@ CSV CO         mwa Z'         8
 CSV CV         mwa Za         8
 CVCC CV        paRs kE        8
 CSV O          mwi .          8
-V CV           @ di           8
 V CCV          @ pR°          8
 V CSV          @ s8i          8
 V CVC          @ s@b          8
@@ -9280,6 +9284,7 @@ CCV VC         gRe ab         8
 CCV CCV        gRo pl@        8
 CCV CV         gRi fe         8
 CVC CVCC       kOR kElk       8
+CVC CV         kOR tu         8
 CVC CVC        s5s tal        8
 CCV CV         gR@ d5         8
 CCV CV         gR@ li         8
@@ -9297,6 +9302,7 @@ CV CV          Ze Re          8
 CV CVC         Ze m5t         8
 CV C           Ze l           8
 CV O           Za !           8
+CV CV          Zu tu          8
 CV O           Zu ,           8
 CCVC CV        vRiR le        8
 VC CVC         9m kEs         8
@@ -9386,6 +9392,7 @@ CV CV          d1 b§          8
 CCVC O         dRiG .         8
 CV CV          do be          8
 CV CVC         do puR         8
+CV CV          di z@          8
 CV O           da #           8
 CV CV          dy Ri          8
 CV CVC         dy pER         8
@@ -9421,7 +9428,6 @@ OV VC          06 Op          8
 OV V           06 1           8
 OV V           06 5           8
 OV CV          06 ku          8
-OV CV          05 tu          8
 OV CV          05 de          8
 OV V           05 2           8
 OV CV          05 ZE          8
@@ -9580,7 +9586,6 @@ CSV V          tj5 1          8
 CV CV          Ri d2          8
 CV CV          Ri fo          8
 CV V           Ri e           8
-CV CV          RE tu          8
 CV CV          RE dy          8
 CV C           RE k           8
 CV CCV         R@ ply         8
@@ -9732,7 +9737,6 @@ CV CVC         ty tuR         8
 CV CVC         ty poz         8
 CV CV          ty vE          8
 CV CV          ty nE          8
-CV CV          tu le          8
 CV CV          tu tu          8
 CV CV          tu by          8
 CV CV          tu ty          8
@@ -10299,8 +10303,8 @@ CV CV          di li          7
 CV CVC         di nER         7
 CV V           di 2           7
 CV CVCC        di REkt        7
-CV CV          di z@          7
 CV CV          di ty          7
+CV CV          di mi          7
 CV VC          di il          7
 CV CV          di ko          7
 CVC O          RiR ?          7
@@ -10345,7 +10349,6 @@ OS CSV         08 mwE         7
 OS CCV         08 kRo         7
 OV CV          09 le          7
 OV CVCC        09 paRs        7
-CVC CV         s9R d2         7
 CVC O          Rut .          7
 CVC CV         S@b da         7
 SV CV          wi te          7
@@ -10494,10 +10497,10 @@ CV CV          su t§          7
 CV CV          si l@          7
 CV CV          si Ro          7
 CV CV          si d2          7
+CV CV          si pu          7
 CV CCVS        si tRuj        7
 CV CVC         si REn         7
 CV CVC         si lab         7
-CV CV          si s@          7
 CV CV          so la          7
 CV CCV         sa ply         7
 CV CV          sa f°          7
@@ -10581,7 +10584,6 @@ CVC CV         dyn m5         7
 CVC O          sis ?          7
 CCVC O         fRER .         7
 CVC O          tus !          7
-CVC CV         tus de         7
 CVC CVC        tut R§d        7
 VV CV          26 ta          7
 VV V           26 5           7
@@ -10636,6 +10638,7 @@ CCV CV         tRi Se         7
 CCV V          tRo o          7
 CCV CCVC       tRo gR@d       7
 CCV CV         tRo p@         7
+CCV CV         tRe tu         7
 CCV CV         tRe te         7
 CCV CV         tRE za         7
 CCV CV         tRE so         7
@@ -10669,7 +10672,6 @@ CV CVC         ty kas         7
 CV CCVC        ty kROk        7
 CV CCVC        ty tRiS        7
 CV CV          ty ni          7
-CV CV          tu se          7
 CV CV          tu du          7
 CV SV          tu je          7
 CV CVC         k§ fas         7
@@ -10722,7 +10724,6 @@ CV CVCC        t1 notR        7
 VC CVC         @R Zis         7
 CVC CSV        bOn n8i        7
 CVC CV         suf la         7
-CVC CVC        vEk tus        7
 CVC CSV        vEk kwa        7
 CVC CVC        vEk nat        7
 CVC CV         vER pa         7
@@ -10757,13 +10758,13 @@ CV CV          fi te          7
 CV CV          fo ta          7
 CV C           fo t           7
 CV CV          fo pu          7
+CV CV          fo tu          7
 V CCSV         a tRwa         7
 V CCV          a bRa          7
 V CVC          a mak          7
 V CVC          a puR          7
 V CVC          a kOm          7
 V CVCC         a lotR         7
-V CVC          a tus          7
 V SV           a ja           7
 V CCV          a vRE          7
 V CV           a vo           7
@@ -10856,7 +10857,6 @@ O CVC          # Syt          7
 O CV           # du           7
 O CV           # dE           7
 O CVC          # bal          7
-O CVC          # tus          7
 O CVC          # sEl          7
 O VS           # aj           7
 O CV           # b5           7
@@ -10947,7 +10947,6 @@ CVC O          biS .          7
 CV CV          b5 tE          7
 CV CV          b5 ZE          7
 CCV CCV        pR@ dRa        7
-CCV CV         pR@ tu         7
 CCV CCSV       pR@ sl8i       7
 CCV CSV        pR@ Rj5        7
 CV CV          be le          7
@@ -11239,7 +11238,6 @@ CCV CVS        gRo zEj        6
 CCV CV         gRo bu         6
 CCV CV         gRo ne         6
 CVC C          kOR d          6
-CVC CV         kOR tu         6
 CVC CV         kOR fi         6
 CSV C          mw5 k          6
 CCV CV         gR@ di         6
@@ -11360,7 +11358,6 @@ O SVC          , jER          6
 O CV           , dE           6
 O CVCC         , lotR         6
 O CVC          , RuZ          6
-O CVC          , tus          6
 O CVC          , fuR          6
 O C            , t            6
 O CVC          , m@Z          6
@@ -11481,7 +11478,6 @@ OS V           08 2           6
 OS CV          08 d@          6
 OS CO          08 Z'          6
 OS CV          08 Za          6
-OS CV          08 tu          6
 OS CSV         08 bj5         6
 OS CVC         08 pik         6
 OS CCV         08 bRa         6
@@ -11549,6 +11545,7 @@ CCV CV         pli l2         6
 CSVC O         vj@d ?         6
 V CSV          o pw5          6
 V CV           o d2           6
+V CV           o tu           6
 V CSV          o vj5          6
 V CV           o Z@           6
 V CVC          o puR          6
@@ -11573,6 +11570,7 @@ CV CV          n@ kO          6
 CV CV          nE ta          6
 CV CV          nE l2          6
 CV CV          nE ty          6
+CVC CV         tiR tu         6
 CVC CVC        tiR syR        6
 CSV CV         vwa li         6
 CSV CV         vwa R2         6
@@ -11598,7 +11596,6 @@ CV CV          ne Ra          6
 CV CV          ne m§          6
 CV CSV         ne p8i         6
 CV CV          ne t5          6
-CV CVC         ne tus         6
 CV SV          ne wi          6
 CV CCV         ne ply         6
 CV CVC         ne syR         6
@@ -11606,6 +11603,7 @@ CV CV          ne fE          6
 CVC CV         til s§         6
 CVC O          tin !          6
 CV CV          n§ d2          6
+CV CV          n§ tu          6
 CV CSV         n§ mwa         6
 CV V           n§ 2           6
 CV CVC         n§ puR         6
@@ -11633,13 +11631,13 @@ CV CVC         s§ tEl         6
 CV CV          s§ nu          6
 CV CCV         s§ tRE         6
 CVC O          gut ?          6
-CVC CV         dis mi         6
 CSVC CV        bwat d2        6
 CSVC O         bwat ,         6
 CCV CV         dRa k2         6
 CCV CV         dRa g§         6
 CSVC CV        bwaR d2        6
 CCVC CV        pR@d d2        6
+CCVC CV        pR@d tu        6
 CCV O          dRE #          6
 CCV CSV        dRE bj5        6
 CCV CV         dRE l2         6
@@ -11748,7 +11746,6 @@ CV CV          se ly          6
 CV CSV         se ZwE         6
 CV CV          se ky          6
 CV CV          se da          6
-CV CVC         se tus         6
 CV CSV         se kw5         6
 CV CVC         se lot         6
 CV CSV         se s8i         6
@@ -11910,6 +11907,7 @@ CVC CV         lot Ri         6
 CVC CVC        lot lot        6
 CVC CV         ZuR m°         6
 CVC CV         ZuR se         6
+CSV CV         bj5 tu         6
 CSV CVC        bj5 paR        6
 CSV CV         bj5 vy         6
 CSV CV         bj5 ni         6
@@ -12169,6 +12167,7 @@ CVC CV         puR nu         6
 CVC CVC        puR sOR        6
 CCVC O         vRum !         6
 CCVC O         vRum ?         6
+CSV CV         Zwe tu         6
 VCC O          uRs .          6
 CSVC O         SwEt .         6
 CVC O          liR .          6
@@ -12364,8 +12363,6 @@ CVC CV         naR ki         6
 CVC O          naZ ,          6
 CVC O          lym ?          6
 CVS O          naj .          6
-CVCC CVC       gaRd tus       6
-CVCC CV        gaRd tu        6
 CVCC CV        gaRd mE        6
 CVC CV         nat se         6
 CCVC CV        tRap la        6
@@ -12769,7 +12766,6 @@ CV CV          m2 su          5
 CV CVC         mE lEs         5
 CV CV          mE du          5
 CV CV          mE n2          5
-CV CVC         mE tus         5
 CV CV          mE vu          5
 CV CSV         mE vwa         5
 CV CV          mE s@          5
@@ -12912,7 +12908,6 @@ CV CV          d2 do          5
 CV CV          d2 di          5
 CV CV          d2 du          5
 CV CVC         d2 RuZ         5
-CV CVC         d2 tus         5
 CV CVC         d2 tuR         5
 CV CV          d2 v5          5
 CV V           d2 i           5
@@ -13025,6 +13020,7 @@ OV CVC         09 paR         5
 OV CV          09 s2          5
 OV V           09 5           5
 CVC CV         nuR se         5
+CVC CV         s9R d2         5
 CVC CV         s9R la         5
 CVC O          s9R ,          5
 SV CV          wi t@          5
@@ -13104,7 +13100,6 @@ CCV CCV        ply tRo        5
 V CSVC         o vwaR         5
 V CCV          o pti          5
 V CV           o lo           5
-V CV           o tu           5
 V CV           o lu           5
 V CV           o R@           5
 V CV           o du           5
@@ -13140,7 +13135,6 @@ CV V           n@ E           5
 CV CSV         nE s8i         5
 CV CVC         nE paR         5
 CVC CV         tiR d2         5
-CVC CV         tiR tu         5
 CVC O          tiR ,          5
 CSV CV         vwa ta         5
 CSV V          vwa e          5
@@ -13168,6 +13162,7 @@ CV CVC         na syR         5
 CV CV          n° Ra          5
 CV CVCC        ne kElk        5
 CV CVC         ne kut         5
+CV CVC         ne tus         5
 CV CV          ne ty          5
 CV CV          ne d°          5
 CV CV          ne k@          5
@@ -13184,7 +13179,6 @@ CVC O          tik !          5
 CVCC O         pOst .         5
 CVC CV         tig la         5
 CVC O          tig .          5
-CV CV          n§ tu          5
 CV CVC         n§ lot         5
 CV CCSV        n§ sl8i        5
 CV CVC         n§ sEl         5
@@ -13253,7 +13247,6 @@ CCV CV         fla te         5
 CVCC O         luvR .         5
 CVC O          kyb !          5
 CV CVC         d§ paR         5
-CV CV          s9 Re          5
 CV CSV         s2 pwa         5
 CV CV          s2 mu          5
 CV CV          s2 s2          5
@@ -13337,6 +13330,7 @@ CV CVC         Re syR         5
 CV CV          Re ku          5
 CV CV          Re t§          5
 CSV CV         tj5 ba         5
+CSV CV         tj5 tu         5
 CSV CVC        tj5 dOn        5
 CVC CVC        Zil bER        5
 CV CV          Ri R5          5
@@ -13440,7 +13434,6 @@ CV CV          fE da          5
 CV CV          fE s§          5
 CV CCV         fE pl5         5
 CV CCSV        fE tRwa        5
-CV CVC         fE tus         5
 CV C           fE s           5
 CV CVC         fE mad         5
 CV CSV         fE mja         5
@@ -13527,7 +13520,6 @@ CSV CVC        bj5 diR        5
 CSV CVC        bj5 m5t        5
 CSV C          bj5 t          5
 CSV CVC        bj5 sEt        5
-CSV CV         bj5 tu         5
 CSV CSV        bj5 bj5        5
 CSV CCV        bj5 tRE        5
 CSV VC         bj5 il         5
@@ -13551,7 +13543,6 @@ CCV CSV        tRo lw5        5
 CCV CCVC       tRo gRos       5
 CCV CV         tRo sa         5
 CCV CV         tRa vo         5
-CCV CV         tRe tu         5
 CCV CV         tRe d°         5
 CCV CV         tRe t§         5
 CCV CVC        tRu vot        5
@@ -13793,7 +13784,6 @@ CV CV          fo da          5
 CV CV          fo t2          5
 CV VC          fo @l          5
 CV C           fo s           5
-CV CV          fo tu          5
 CV O           fo !           5
 CV CV          fo k@          5
 CV CV          fo fo          5
@@ -13830,6 +13820,7 @@ VC CV          Es ka          5
 VC CVC         Es kaR         5
 VV CV          24 d°          5
 VV V           24 5           5
+VV CV          25 tu          5
 VV CVC         25 pES         5
 VV V           25 @           5
 VV VC          25 Op          5
@@ -14046,6 +14037,7 @@ OO CV          07 b§          5
 OO CV          07 pa          5
 OO CSVC        07 mjam        5
 OO CV          07 s2          5
+OO CV          07 si          5
 CCVC O         klOS .         5
 OV V           04 @           5
 OV CV          04 ba          5
@@ -14083,6 +14075,7 @@ VC CV          Op Z2          5
 VC CV          Op se          5
 C CV           d S°           5
 C CSVC         d vwaR         5
+C CV           d tu           5
 C CV           d R@           5
 C CV           d be           5
 C CSV          d kwa          5
@@ -14202,6 +14195,7 @@ CV CV          za ko          5
 CV O           zu #           5
 CV CSV         zu mw5         5
 CV O           zE #           5
+CV CV          zE tu          5
 CV CVC         z@ mEm         5
 CV CV          z@ na          5
 CV CVC         z@ mEn         5
@@ -14329,7 +14323,6 @@ CV CCVC        la plaZ        5
 CV CVCC        la kaRt        5
 CV CCSV        la tRwa        5
 CV CV          la lO          5
-CV CVC         la tus         5
 CV CVCC        la bOks        5
 CV CVC         la kil         5
 CV CVCC        la maRS        5
@@ -14648,10 +14641,8 @@ CSVC O         fjER .         4
 CV CV          Zu Ru          4
 CV CV          Zu d@          4
 CV O           Zu #           4
-CV CV          Zu tu          4
 CV V           Zu @           4
 CV CV          Zu R2          4
-CV CVC         Zu tus         4
 CV CSV         Zu bj5         4
 CV V           Zu §           4
 CV CVC         Zu Ril         4
@@ -14683,6 +14674,7 @@ CV CV          m@ Sa          4
 CV CSV         m@ vwa         4
 CV CCV         m@ ZRa         4
 CV CV          mO da          4
+CV CV          me tu          4
 CV CV          me ly          4
 CV CSV         me pje         4
 CV C           me l           4
@@ -14738,7 +14730,6 @@ CVC CV         fER Re         4
 CVC CV         fER ga         4
 CVC CV         fER te         4
 CVC CV         fER di         4
-CVC CVC        fER tus        4
 CVC CV         fER ba         4
 CVC CVC        fER tuR        4
 CVC CV         fER k§         4
@@ -14888,11 +14879,9 @@ CVC CV         baR la         4
 CV CCV         di pl5         4
 CV CV          di s§          4
 CV C           di s           4
-CV CV          di s2          4
 CV CV          di di          4
 CV CV          di k@          4
 CV C           di m           4
-CV CV          di s@          4
 CV CV          da Ri          4
 CV CV          da t@          4
 CV CV          da s§          4
@@ -15190,6 +15179,7 @@ CV CV          n@ v2          4
 CV CV          n@ fo          4
 CV V           n@ a           4
 CV CV          n@ sa          4
+CV CV          nE tu          4
 CV CV          nE dy          4
 CV CV          nE b°          4
 CV CSV         nE Zwi         4
@@ -15224,6 +15214,7 @@ CV CVC         na kyn         4
 CV CSV         na sj§         4
 CV CV          na k2          4
 CV VC          na aS          4
+CV CV          na si          4
 CV CCV         na gRe         4
 CV CV          ne ny          4
 CV CCV         ne kRi         4
@@ -15245,7 +15236,6 @@ CV V           n§ @           4
 CV CVC         n§ s9l         4
 CV CSV         n§ vj5         4
 CV CV          n§ ba          4
-CV CVC         n§ tus         4
 CV CV          n§ Z@          4
 CV CV          n§ d°          4
 CV CCVC        n§ kRaS        4
@@ -15315,7 +15305,6 @@ CCV O          dRa #          4
 CCV CV         dRa l2         4
 CSVC CV        bwaR d@        4
 CCVC CV        pR@d Ro        4
-CCVC CV        pR@d tu        4
 CCVC CV        pR@d k2        4
 CCVC CV        pR@d R@        4
 CCVC CV        pR@d t§        4
@@ -15323,6 +15312,7 @@ CCV CV         dRE d2         4
 CCV CV         dRE la         4
 CCV O          dRE ?          4
 CCVC CVCC      spEk takl      4
+CVC CV         tER tu         4
 CVS CV         l9j dy         4
 CVS V          tEj a          4
 CVS CV         tEj d2         4
@@ -15356,6 +15346,7 @@ CV C           p§ d           4
 CCV CV         spa ge         4
 CCV CSVC       spe Rj@s       4
 CV CV          s9 RE          4
+CV CV          s9 Re          4
 CV CSV         s2 tj5         4
 CV CV          s2 li          4
 CV CVC         s2 lEs         4
@@ -15402,7 +15393,6 @@ CV CVCC        s@ s@bl        4
 CV CSVC        s@ dwit        4
 CV CSV         s@ Rj5         4
 CV CVC         s@ fOR         4
-CV V           s@ 5           4
 CV CV          s@ kO          4
 CV CV          s@ ka          4
 CV CV          s@ so          4
@@ -15447,6 +15437,7 @@ CV CVC         si kEs         4
 CV CV          si nE          4
 CV CVC         si Nal         4
 CV CV          si k@          4
+CV CV          si s@          4
 CV CV          si sy          4
 CV V           si u           4
 CV CV          so le          4
@@ -15517,7 +15508,6 @@ CV CCV         Re kla         4
 CV CCVC        Re klam        4
 CSV CSV        tj5 mwa        4
 CSV VC         tj5 yn         4
-CSV CV         tj5 tu         4
 CSV CVC        tj5 mad        4
 CSV CV         tj5 d°         4
 CSV CCVC       tj5 fROt       4
@@ -15641,6 +15631,7 @@ VV VC          13 il          4
 VV CV          13 s2          4
 VV CV          13 k@          4
 VV CVC         15 mEm         4
+VV CV          15 tu          4
 VV CV          15 ZE          4
 VV CSV         15 kwa         4
 VV CVC         15 kat         4
@@ -15701,7 +15692,6 @@ SV V           j5 §           4
 SV V           j5 i           4
 SV CV          j5 si          4
 SV V           j5 u           4
-CVC CV         sis pu         4
 CVC CV         sis te         4
 CVC CV         sis sE         4
 CVC CVC        sis tEm        4
@@ -16073,7 +16063,6 @@ CSV VC         fwa El         4
 CSV V          fwa e          4
 CV O           f§ ,           4
 CV V           f§ 1           4
-CV CVC         f§ tus         4
 CV C           f§ d           4
 CVC O          R9R !          4
 CVCC CV        fORm la        4
@@ -16186,7 +16175,6 @@ VC CVC         Es naZ         4
 CSVC O         sjEl !         4
 CVS O          bEj !          4
 VV CVC         24 dus         4
-VV CV          25 tu          4
 VV CV          25 dy          4
 VV V           25 2           4
 VV CSVC        25 mjam        4
@@ -16269,7 +16257,6 @@ CVC CVC        puR dOR        4
 CVC CV         puR ka         4
 CVC CV         puR t°         4
 CVC CV         puR na         4
-CSV CVC        Zwe tus        4
 CSVC O         mjam #         4
 CCV CV         sta ty         4
 CSV V          ZwE o          4
@@ -16490,7 +16477,6 @@ OO CV          07 le          4
 OO CV          07 b5          4
 OO CV          07 ka          4
 OO CVC         07 syR         4
-OO CV          07 si          4
 OO CV          07 ku          4
 CVC CVC        vot Soz        4
 OV CVC         04 mER         4
@@ -16524,6 +16510,7 @@ V O            y ,            4
 CVC CV         Soz se         4
 CV CV          t§ lE          4
 CV CV          t§ se          4
+CV CV          t§ tu          4
 CV CCV         t§ pR@         4
 CV CV          t§ d@          4
 CV CSV         t§ Sj5         4
@@ -16580,7 +16567,6 @@ CV CV          b5 pa          4
 CV CV          b5 mE          4
 CV CCV         b5 bRa         4
 CV CV          b9 Ru          4
-CCV CVC        pR@ tus        4
 CCV CCV        pR@ ply        4
 CCV CV         pR@ s2         4
 CCV V          pR@ e          4
@@ -16693,6 +16679,7 @@ CVC CSV        mEm bj5        4
 CVC CV         mEm se         4
 CVC O          mEl .          4
 CVCC O         katR !         4
+CVC CV         mEn tu         4
 CVC CV         mEn te         4
 CVC CV         mEn d@         4
 CVC CCCVC      mEk splik      4
@@ -16750,7 +16737,6 @@ CV CV          za se          4
 CV CVCC        zu nuRs        4
 CV CV          zu dy          4
 CV CV          zu ma          4
-CV CV          zE tu          4
 CV O           zE ,           4
 CV CSV         zE bj5         4
 CV CV          zE sa          4
@@ -16758,10 +16744,12 @@ CV CV          z@ di          4
 CV CVC         z@ div         4
 CV CVCC        z@ s@bl        4
 CV CV          z@ fE          4
+CV CV          z9 Re          4
 CV O           z5 #           4
 CV O           z5 ,           4
 CV O           z1 .           4
 CV CCV         z2 bRu         4
+CV CV          z2 Ro          4
 CCV CVC        kR° vEt        4
 CVC CV         dEl s§         4
 CCVC O         bRil !         4
@@ -16790,6 +16778,7 @@ CSV CV         mj2 l2         4
 CVC O          sin #          4
 CVC CV         sil la         4
 CV CV          de gu          4
+CV CV          de tu          4
 CV CV          de te          4
 CV CCV         de gRi         4
 CV CV          de m5          4
@@ -16884,7 +16873,6 @@ CV CVC         le kEs         4
 CV CV          le da          4
 CV CVCC        le lotR        4
 CV CCVC        le fREz        4
-CV CVC         le tus         4
 CV CV          le lo          4
 CV CVS         le kij         4
 CV CCV         le kRa         4
@@ -16928,6 +16916,7 @@ CV CVC         la Sas         4
 CV CVC         la vaZ         4
 CV VC          la up          4
 CV CVC         lo Zik         4
+CV CV          lo tu          4
 CV CVC         lo mad         4
 CV CV          lo pa          4
 CV CVC         lo ZuR         4
@@ -17110,6 +17099,7 @@ CV CVC         va puR         4
 CV V           va 5           4
 CV CCVCC       va pR@dR       4
 CV CVC         va mad         4
+CV CV          ve tu          4
 CV CSV         ve mwa         4
 CV V           ve @           4
 CV CSV         ve kwa         4
@@ -17128,7 +17118,6 @@ CV V           vo i           4
 CV CV          vu zi          4
 CV CV          vu m@          4
 CV CVCC        vy kElk        4
-CV CVC         vy tus         4
 CV V           vy o           4
 CV CV          vy pa          4
 CV CVC         vy lot         4
@@ -17309,7 +17298,7 @@ CVC CV         kOR na         3
 CSV CV         mw5 ty         3
 CSV CSV        mw5 bj5        3
 CSV CVC        mw5 fOR        3
-CVC CVC        s5k dis        3
+CVC CV         s5k di         3
 CVC CSV        s5k dwa        3
 CVC CV         s5k p°         3
 CCV O          gRE .          3
@@ -17327,6 +17316,7 @@ CSV CV         sj2 d@         3
 CSV CV         sj2 sa         3
 CVC CV         kut d2         3
 CVC CV         kut ty         3
+CVC CV         kut tu         3
 CVC C          kut Z          3
 CVC CV         kut si         3
 CVC CV         kut se         3
@@ -17389,7 +17379,6 @@ CV CCV         Ze kRi         3
 CV CSV         Ze nja         3
 CV CSV         Ze vj5         3
 CV CV          Ze s§          3
-CV CVC         Ze tus         3
 CV CSV         Ze kwa         3
 CV CV          Ze m§          3
 CV CV          Ze pa          3
@@ -17400,6 +17389,7 @@ CV CV          Ze mE          3
 CV VC          Ze il          3
 CV CV          Ze d°          3
 C CV           k vu           3
+C CV           k tu           3
 C CSV          k twa          3
 C CV           k Zi           3
 C CVC          k puR          3
@@ -17489,7 +17479,6 @@ CV CV          m@ sE          3
 CV CV          m@ fo          3
 CV CV          m@ ke          3
 CV CV          m@ su          3
-CV CV          me tu          3
 CV CV          me to          3
 CV CV          me te          3
 CV CV          me dy          3
@@ -17845,12 +17834,14 @@ CV C           di d           3
 CV C           di l           3
 CV CV          di d@          3
 CV CV          di l5          3
+CV CVC         di z9R         3
 CV CVC         di kOm         3
 CV CV          di za          3
 CV CV          di tE          3
 CV CCVC        di pl9R        3
 CV CVCC        di paRs        3
 CV CVC         di kEl         3
+CV CV          di z2          3
 CV CV          di lo          3
 CV CVC         di puR         3
 CV CV          di m§          3
@@ -17859,12 +17850,13 @@ CV CV          di p@          3
 CV C           di Z           3
 CV CVC         di paR         3
 CV CV          di nE          3
+CV CSV         di fwa         3
 CV CVC         di naZ         3
-CV CVC         di s9R         3
 CV CVC         di dOR         3
 CV V           di E           3
 CV CVC         di m@S         3
 CV CV          di kE          3
+CV CV          di s@          3
 CV V           di u           3
 CV CV          di ku          3
 CVC O          RiR !          3
@@ -18016,7 +18008,6 @@ OS CVC         08 d§k         3
 OS C           08 l           3
 OS CCSV        08 tRwa        3
 OS CV          08 Zu          3
-OS CVC         08 tus         3
 OS CVC         08 kEl         3
 OS CVC         08 pus         3
 OS VC          08 Em          3
@@ -18181,6 +18172,7 @@ CVC CSV        lOt fwa        3
 CSVC CV        tjEn pa        3
 CVC CVC        lOR m§t        3
 CVC CVC        lOR kEl        3
+CVC CV         lOR tu         3
 CVC CV         lOR d@         3
 CVC CV         lOR ZE         3
 CVC CV         lOR mE         3
@@ -18348,7 +18340,6 @@ CV CV          na l2          3
 CV CCSV        na tRwa        3
 CV CV          na s2          3
 CV CV          na be          3
-CV CVC         na tus         3
 CV CV          na Z@          3
 CV CCV         na pla         3
 CV CVC         na SEt         3
@@ -18364,7 +18355,6 @@ CV CCV         na pR@         3
 CV V           na e           3
 CV V           na i           3
 CV CCV         na pRi         3
-CV CV          na si          3
 CV CV          ne to          3
 CV CSV         ne mwa         3
 CV CV          ne ti          3
@@ -18400,6 +18390,7 @@ CV CV          n§ de          3
 CV C           n§ d           3
 CV C           n§ l           3
 CV CO          n§ Z'          3
+CV CVC         n§ tus         3
 CV CVC         n§ tuR         3
 CV CVC         n§ dus         3
 CV CVCC        n§ REst        3
@@ -18487,7 +18478,6 @@ CVC CVC        dis kyt        3
 CVC O          dis ,          3
 CVC CSVC       dis twaR       3
 CVC CV         dis ka         3
-CVC CSV        dis fwa        3
 CCV CVC        klo SEt        3
 CCV CV         dRo ge         3
 CCV CV         dRa le         3
@@ -18504,7 +18494,6 @@ CCV VC         dRE yn         3
 CCV CVC        dRE kEl        3
 CCV CV         dRE sa         3
 CVC O          l9m .          3
-CVC CV         tER tu         3
 CVC CSV        tER n8e        3
 CVC CV         tER ny         3
 CVC CCV        tER pRe        3
@@ -18562,7 +18551,6 @@ CV CV          s2 dy          3
 CV CCV         s2 gRo         3
 CV CV          s2 du          3
 CV CVC         s2 muS         3
-CV CV          s2 Ro          3
 CV CCVC        s2 klun        3
 CV CV          s2 bi          3
 CV CVC         s2 kEl         3
@@ -18652,6 +18640,7 @@ CV CV          s@ vo          3
 CV CV          s@ no          3
 CV CV          s@ ne          3
 CV CV          s@ s5          3
+CV V           s@ 5           3
 CV CVC         s@ mad         3
 CV V           s@ e           3
 CV CCVC        s@ tREn        3
@@ -18688,11 +18677,11 @@ CV CV          si tu          3
 CV CCVC        si klEt        3
 CV CV          si do          3
 CV CVC         si m5t         3
+CV CV          si z@          3
 CV CVC         si sEl         3
 CV CV          si Na          3
 CV CV          si p°          3
 CV CV          si fE          3
-CV CV          si pu          3
 CV CV          si pe          3
 CV CV          si So          3
 CV CV          si s5          3
@@ -18723,7 +18712,6 @@ CV CV          sa dy          3
 CV CVC         sa bal         3
 CV CV          sa b§          3
 CV CVS         sa muj         3
-CV CVC         sa tus         3
 CV SV          sa wE          3
 CV CSVCC       sa sjEst       3
 CV CV          sa p@          3
@@ -18984,6 +18972,7 @@ CV CV          z§ t1          3
 CV CV          z§ l2          3
 CVC CVC        SER Syn        3
 CVC CV         SER S@         3
+V CV           2 di           3
 V CV           2 b5           3
 V CV           2 ba           3
 V CV           2 ty           3
@@ -19020,7 +19009,6 @@ VV CSV         13 bj5         3
 VV CV          13 ka          3
 VV CCV         13 bRo         3
 VV CVC         15 mER         3
-VV CV          15 tu          3
 VV CSV         15 mwa         3
 VV CVC         15 d@t         3
 VV CV          15 d@          3
@@ -19111,7 +19099,6 @@ CCVC O         fREz !         3
 CCVC CV        kROt d2        3
 CVC O          sis !          3
 CVC O          sis #          3
-CVC CV         sis d@         3
 CSVC CV        RwaR la        3
 CCVC CV        kROS pa        3
 CCVC CV        fRER ki        3
@@ -19418,6 +19405,7 @@ CCV CVC        tRE Sod        3
 V CVCC         u kElk         3
 V CSV          u tj5          3
 V CV           u t@           3
+V CV           u tu           3
 V CV           u d@           3
 V CCV          u gR@          3
 V CV           u ZE           3
@@ -19742,6 +19730,7 @@ CSV CV         fwa Z2         3
 CCCV CV        splo ze        3
 CCCV CSV       splo zj§       3
 CV O           f§ !           3
+CV CVC         f§ tus         3
 CV CV          f§ ko          3
 CVCC CV        fORm d2        3
 CSV O          twE .          3
@@ -19753,6 +19742,7 @@ CVCC O         fORs ?         3
 CSV CV         twa R5         3
 CSV CV         twa de         3
 CSV CVC        twa sEt        3
+CSV CV         twa tu         3
 CSV CSV        twa twa        3
 CSV CVC        twa paR        3
 CSV V          twa E          3
@@ -19879,7 +19869,6 @@ V V            a O            3
 V CCVC         a glas         3
 V CV           a Sa           3
 V CVC          a sil          3
-V CVC          a sis          3
 V CVC          a ZiR          3
 V CVC          a fil          3
 V CVC          a RaS          3
@@ -19917,6 +19906,7 @@ VV CV          24 Ra          3
 VV VC          24 Op          3
 VV CSV         24 vj5         3
 VV VC          24 Es          3
+VV CV          24 tu          3
 VV CV          24 pa          3
 VV CCV         24 flo         3
 VV VS          24 aj          3
@@ -20212,6 +20202,7 @@ CVC O          lES .          3
 CV CVC         S§ d5d         3
 CV O           S§ #           3
 CV V           S§ §           3
+CVC CV         liv tu         3
 CVC CV         liv Ro         3
 CVC CV         liv k§         3
 CVC O          liv ?          3
@@ -20405,7 +20396,6 @@ CVC C          Soz d          3
 CVC CVC        Soz syR        3
 CV CV          t§ S°          3
 CV CV          t§ ga          3
-CV CV          t§ tu          3
 CV CVC         t§ pER         3
 CV CV          t§ di          3
 CV CVC         t§ sER         3
@@ -20457,7 +20447,6 @@ CCV CVC        kRa pyl        3
 VC CV          Op le          3
 VC CV          Op n§          3
 VC CVC         Op syR         3
-C CV           d tu           3
 C CVC          d Sak          3
 C CVCC         d sykR         3
 C CV           d Ra           3
@@ -20715,7 +20704,6 @@ CVC CV         mEm sa         3
 CVC CV         mEl s2         3
 CVC CVC        mEn kOm        3
 CVC O          mEn #          3
-CVC CV         mEn tu         3
 CVC CV         mEn RE         3
 CVC CV         mEn pa         3
 CVC CV         mEn ta         3
@@ -20726,7 +20714,6 @@ CSV O          n8e .          3
 CVC CV         mEt Re         3
 CVC CV         mEt ty         3
 CVC O          mEt ,          3
-CVC CVC        mEt tus        3
 CVC CVC        mEt puR        3
 CVC CVC        mEt lot        3
 CVC CVCC       mEt dotR       3
@@ -20804,6 +20791,7 @@ CV CV          zE dy          3
 CV CV          z@ vi          3
 CV O           z@ !           3
 CV CV          z@ k2          3
+CV V           z@ 5           3
 CV CV          z@ te          3
 CV O           z@ ?           3
 CV CV          z@ Ry          3
@@ -20815,7 +20803,6 @@ CV CV          z@ sa          3
 CV CV          z@ vu          3
 CCV CV         flo R@         3
 CCV CV         flo k§         3
-CV CV          z9 Re          3
 CV CVC         z5 tER         3
 CV V           z1 a           3
 CVC O          ziR ?          3
@@ -20900,7 +20887,6 @@ CV CVC         de puR         3
 CV CVC         de giz         3
 CV CCVC        de plas        3
 CV CVCC        de lEtR        3
-CV CVC         de tus         3
 CV CVC         de tut         3
 CV CV          de Zo          3
 CV CVCC        de tigR        3
@@ -20964,6 +20950,7 @@ CVC CVC        m§t kOm        3
 CVC CVC        m§t m§t        3
 CVC CV         m§t R1         3
 CVC CV         m§t s2         3
+CVC CV         m§t tu         3
 CVC CV         m§t nu         3
 CVC CV         m§t ty         3
 CVC CV         m§t d@         3
@@ -21094,7 +21081,6 @@ CV CVC         la myz         3
 CV CVC         la lEk         3
 CV CVC         la lyZ         3
 CV CV          lo Re          3
-CV CV          lo tu          3
 CV CV          lo de          3
 CV CVC         lo m5t         3
 CV CV          lo S§          3
@@ -21329,7 +21315,6 @@ CV CVC         va lEl         3
 CV CVCC        va Zyst        3
 CV CV          va l1          3
 CV CVC         va s5s         3
-CV CVC         va tus         3
 CV CVC         va tut         3
 CV CVC         va vEk         3
 CV CV          va bu          3
@@ -21707,7 +21692,6 @@ CVC CV         kOR b§         2
 CVC CV         kOR b°         2
 CVC CSV        kOR vj5        2
 CVC CV         kOR ba         2
-CVC CVC        kOR tus        2
 CVC CCV        kOR pli        2
 CVC CVC        kOR l9R        2
 CVC CV         kOR Za         2
@@ -21783,7 +21767,6 @@ CSV V          sj2 a          2
 CSV CV         sj2 se         2
 CVC CV         kuv la         2
 CVC O          kuv ?          2
-CVC CV         kut tu         2
 CVC CV         kut ki         2
 CVC CVC        kup Zon        2
 CVC CV         kup d2         2
@@ -21907,7 +21890,6 @@ CV CV          Ze su          2
 CV CCVC        Ze plyS        2
 CV CVC         Ze syR         2
 CV V           Ze u           2
-C CV           k tu           2
 C CV           k si           2
 C CVS          k taj          2
 C CV           k ti           2
@@ -21928,6 +21910,7 @@ CV CV          Za s2          2
 CV CSV         Za mj2         2
 CV CV          Za fa          2
 CV CVC         Za maR         2
+CV CV          Za si          2
 CV CV          Za se          2
 CSV CVC        sjo nEl        2
 CV CV          Zu le          2
@@ -22023,6 +22006,7 @@ CV CSV         mE Rwi         2
 CV CVCC        mE paRs        2
 CV C           mE t           2
 CV CV          mE bo          2
+CV CVC         mE tus         2
 CV CVS         mE l9j         2
 CV SV          mE wE          2
 CV CV          mE p2          2
@@ -22243,6 +22227,7 @@ CVC CV         fER da         2
 CVC CV         fER s§         2
 CVC CVC        fER dis        2
 CVC CCV        fER pl5        2
+CVC CVC        fER tus        2
 CVC CCV        fER ple        2
 CVC CV         fER ty         2
 CVC CVC        fER p2R        2
@@ -22684,6 +22669,7 @@ CV CVC         d2 R°s         2
 CV CVCC        d2 lotR        2
 CV CCVC        d2 fREz        2
 CV CVC         d2 sER         2
+CV CVC         d2 tus         2
 CV SV          d2 ja          2
 CV CVCC        d2 baRb        2
 CV CV          d2 pE          2
@@ -22744,6 +22730,7 @@ CV CV          di Re          2
 CV CSV         di tj5         2
 CV CV          di Ri          2
 CV CV          di R2          2
+CV CV          di vo          2
 CV CCV         di kRo         2
 CV CSVC        di pjER        2
 CV CCV         di pl2         2
@@ -22762,10 +22749,8 @@ CV CV          di po          2
 CV CSV         di s8i         2
 CV CV          di Se          2
 CV CV          di b5          2
-CV CV          di mi          2
 CV CV          di ly          2
 CV CV          di va          2
-CV CV          di vo          2
 CV CV          di R°          2
 CV CVC         di Syt         2
 CV CV          di fy          2
@@ -22845,6 +22830,7 @@ CV CSV         du kwa         2
 CV CVC         du s9l         2
 CV CV          du pE          2
 CV CV          du s2          2
+CV CV          du tu          2
 CV CV          du k2          2
 CV CV          du pa          2
 CV CCV         du ble         2
@@ -22877,7 +22863,6 @@ CVC CV         Ris k5         2
 CV CV          d@ l@          2
 CV CVCC        d@ kElk        2
 CV CVC         d@ lER         2
-CV CV          d@ tu          2
 CV CV          d@ li          2
 CV CVC         d@ mEt         2
 CV CV          d@ ti          2
@@ -23114,7 +23099,6 @@ OV CVC         09 syR         2
 OV CCVC        09 fROt        2
 CVC CV         nuR so         2
 CVC CV         s9R m2         2
-CVC CVC        s9R puR        2
 CVC CSV        Ruv mwa        2
 CVC CV         Rut la         2
 CVS CV         muj le         2
@@ -23402,7 +23386,6 @@ CVC CV         lOR ga         2
 CVC CV         lOR tE         2
 CVC CV         lOR d2         2
 CVC CV         lOR t@         2
-CVC CV         lOR tu         2
 CVC CV         lOR dE         2
 CVC C          lOR t          2
 CVC CV         lOR b5         2
@@ -23594,9 +23577,7 @@ CV CV          n@ ke          2
 CV CCV         n@ pRo         2
 CV CV          n@ si          2
 CV CV          nE Ro          2
-CV CV          nE tu          2
 CV CVC         nE kOm         2
-CV CVC         nE tus         2
 CV CVC         nE tEl         2
 CV CVC         nE sEl         2
 CV CVC         nE val         2
@@ -23699,6 +23680,7 @@ CV CCV         na dRi         2
 CV CVC         na goS         2
 CV CSV         na kwa         2
 CV CV          na Z5          2
+CV CVC         na tus         2
 CV CVC         na tut         2
 CV CCVCCV      na pREsk°      2
 CV SV          na wi          2
@@ -23987,7 +23969,6 @@ CCVC CV        pR@d Re        2
 CCVC CV        pR@d lo        2
 CCVC CV        pR@d s2        2
 CCVC CV        pR@d R5        2
-CCVC CVC       pR@d tus       2
 CCVC CV        pR@d Ry        2
 CCVC CV        pR@d dy        2
 CCVC CVC       pR@d syR       2
@@ -24342,11 +24323,11 @@ CV CSV         si t8a         2
 CV CV          si dy          2
 CV V           si 2           2
 CV C           si l           2
+CV CVC         si z9R         2
 CV CCVC        si kRis        2
 CV CCVC        si dRol        2
 CV CVC         si mEt         2
 CV CV          si ba          2
-CV CVC         si s9R         2
 CV CCVC        si pR@d        2
 CV CCV         si ply         2
 CV C           si s           2
@@ -24417,6 +24398,7 @@ CV V           sa y           2
 CV CCVC        sa flOt        2
 CV CV          sa du          2
 CV CV          sa dE          2
+CV CVC         sa tus         2
 CV CVC         sa tut         2
 CV CVC         sa S@t         2
 CV CVC         sa sEt         2
@@ -24441,7 +24423,6 @@ CV CV          se ge          2
 CV CV          se g@          2
 CV CVC         se nER         2
 CV CCV         se gRi         2
-CV CVC         se dis         2
 CV CVC         se kul         2
 CV CCVCC       se pROpR       2
 CV CVC         se tEg         2
@@ -24689,6 +24670,7 @@ CV CV          R1 na          2
 CV CV          R1 n5          2
 CV V           R2 @           2
 CV CV          R2 ty          2
+CV CV          R2 tu          2
 CV CV          R2 R@          2
 CV CV          R2 ta          2
 CV CV          R2 de          2
@@ -24699,6 +24681,7 @@ CV V           R2 i           2
 CV CV          R2 s2          2
 CSV CVC        tjo nER        2
 CSV CV         p8i tE         2
+CSV CV         p8i tu         2
 CSV CV         p8i ta         2
 CSV CVC        p8i m5t        2
 CSV CV         p8i dE         2
@@ -24857,10 +24840,8 @@ CVC CV         SER m°         2
 CVC CV         SER d2         2
 V CSV          2 tj5          2
 V CV           2 te           2
-V CV           2 di           2
 V CV           2 de           2
 V CV           2 d@           2
-V CVC          2 dis          2
 V CVC          2 kOm          2
 V O            2 ?            2
 V SV           2 wa           2
@@ -25091,6 +25072,7 @@ CVC CV         tus p°         2
 CVC O          tus ,          2
 CVC CVC        tus fER        2
 CVC CV         tus do         2
+CVC CV         tus de         2
 CVC CV         tus bo         2
 CVC CV         tus ku         2
 CVC CVC        tus p2R        2
@@ -25290,6 +25272,7 @@ CVC CV         paR s2         2
 CVC CVC        paZ puR        2
 CCVC O         kRut ?         2
 CVC CV         pas se         2
+CVC CV         pas tu         2
 CVC CVC        pas kal        2
 CVC CVC        pas tEk        2
 CVC CVC        pas tEl        2
@@ -25354,6 +25337,7 @@ CVC CV         pEl ma         2
 CVC CV         pEl le         2
 CVC CV         pEl se         2
 CVC O          pEn ,          2
+CVC CV         z9R d2         2
 CSVC CV        gwaR la        2
 CSVC CVC       gwaR kEs       2
 CVC CVC        pER sis        2
@@ -25603,7 +25587,7 @@ CCV CV         tRe t@         2
 CCV CV         tRe m§         2
 CCV V          tRe @          2
 CCV C          tRe s          2
-CCV CVC        tRe tus        2
+CCV CV         tRe de         2
 CCV CCV        tRe ply        2
 CCV CVCC       tRe kElk       2
 CCV CV         tRe fo         2
@@ -25611,7 +25595,6 @@ CCV CV         tRe ka         2
 CCV V          tRe e          2
 CCV C          tRe d          2
 CCV V          tRe i          2
-CCV CV         tRe de         2
 CCV CV         tRy k1         2
 CCV CCV        tRu vRa        2
 CCV CV         tRu d2         2
@@ -25661,7 +25644,6 @@ V CVC          u mER          2
 V CV           u d1           2
 V CVC          u kEl          2
 V CV           u lo           2
-V CV           u tu           2
 V CV           u du           2
 V C            u d            2
 V CVC          u kOm          2
@@ -25992,6 +25974,7 @@ CV C           ti s           2
 CV CVC         ti tEs         2
 CV SV          ti j@          2
 CV CVC         ti sak         2
+CV CV          ti tu          2
 CV CV          ti p@          2
 CV CVC         ti nat         2
 CV CCVC        ti fRis        2
@@ -26037,7 +26020,6 @@ CV CVC         te p§p         2
 CV CV          te b§          2
 CV CCVC        te kRiR        2
 CV CV          te s§          2
-CV CVC         te tus         2
 CV CV          te ba          2
 CV CVC         te tut         2
 CV CV          te bo          2
@@ -26276,6 +26258,7 @@ CSV V          fwa o          2
 CSV V          fwa u          2
 CV CCV         f§ pl5         2
 CV CV          f§ d2          2
+CV CV          f§ tu          2
 CV CV          f§ mE          2
 CV CV          f§ bo          2
 CV CSVC        f§ k8iR        2
@@ -26312,7 +26295,6 @@ CSV CCV        twa ply        2
 CSV VC         twa El         2
 CSV CVC        twa tEm        2
 CSV C          twa s          2
-CSV CV         twa tu         2
 CSV SVC        twa jER        2
 CSV VC         twa il         2
 CSV CV         twa fo         2
@@ -26391,7 +26373,6 @@ CV V           Se 2           2
 CV CCVC        Se spOt        2
 CV CSV         Se l8i         2
 CV CV          Se s§          2
-CV CVC         Se tus         2
 CV CCV         Se ply         2
 CV VC          Se El          2
 CV CSV         Se kwa         2
@@ -26401,6 +26382,7 @@ CV C           Se Z           2
 CV CVCC        Se dotR        2
 CV CV          Se va          2
 CV CVC         Se pis         2
+CV CV          Se di          2
 CV CV          Se kO          2
 CV CV          Se na          2
 CCV O          kle #          2
@@ -26530,7 +26512,6 @@ CV CSVC        fo vwaR        2
 CV CV          fo d2          2
 CV CV          fo te          2
 CV VC          fo @R          2
-CV CVC         fo tus         2
 CV CV          fo d°          2
 CV CVC         fo REs         2
 CV CV          fo m2          2
@@ -26556,6 +26537,7 @@ V CVCC         a l§bR         2
 V CV           a s5           2
 V CSVC         a SwaR         2
 V CCV          a bRe          2
+V CVC          a sis          2
 V CSVC         a sjEt         2
 V CV           a lu           2
 V CSV          a pje          2
@@ -26625,7 +26607,6 @@ CCSV V         kRwa a         2
 CCSV VC        kRwa El        2
 CCSV C         kRwa d         2
 VV VCC         24 uvR         2
-VV CV          24 tu          2
 VV VC          24 yn          2
 VV CV          24 de          2
 VV CV          24 da          2
@@ -26663,6 +26644,7 @@ VV CV          25 si          2
 VV CV          25 fE          2
 VV V           25 y           2
 VO CVC         20 mER         2
+VO CV          20 tu          2
 VO C           20 l           2
 VO CVCC        20 lotR        2
 VO CV          20 s§          2
@@ -26854,7 +26836,6 @@ CVC CV         puR d@         2
 CVC C          puR t          2
 CVC CV         puR b§         2
 CVC O          puR ?          2
-CVC CVC        puR tus        2
 CVC CVC        puR tut        2
 CVC CV         puR bu         2
 CVC CVC        puR sEl        2
@@ -26878,7 +26859,6 @@ CSVV O         mjau .         2
 CVCCC O        tEkst .        2
 CSV SV         Zwa j2         2
 CSV O          Zwa .          2
-CSV CV         Zwe tu         2
 CSV O          Zwe #          2
 CSV CV         Zwe mE         2
 CSV CSV        Zwe Zwe        2
@@ -26923,7 +26903,6 @@ CV CVC         k2 dyn         2
 CV CVC         k2 m5t         2
 CV V           k2 E           2
 CV CCSV        k2 tRwa        2
-CV CVC         k2 tus         2
 CV CCV         k2 ply         2
 CV CVC         k2 kEl         2
 CV CV          k2 d°          2
@@ -27281,7 +27260,6 @@ CV CVC         S§ syR         2
 CV CV          S§ Z2          2
 CVC CVC        ZOR dan        2
 CVC O          gEt ,          2
-CVC CV         liv tu         2
 CVC CVC        liv kOm        2
 CVC O          liv ,          2
 CVC O          liv !          2
@@ -27332,6 +27310,7 @@ CV CVC         pu syn         2
 CV CVC         pu R@l         2
 CV CV          pu s§          2
 CSV CV         swa Ri         2
+CSV CV         swa tu         2
 CSV CV         swa Z@         2
 CSV CVC        swa sEl        2
 CSV CVC        swa REl        2
@@ -27440,9 +27419,9 @@ CV CVCC        p2 Zyst        2
 CV CVC         p2 kuR         2
 CV VC          p2 @l          2
 CV CV          p2 be          2
-CV CV          p2 bo          2
 CV CVC         p2 sER         2
 CV CSVC        p2 s8is        2
+CV CV          p2 bo          2
 CV CVC         p2 vER         2
 CV VC          p2 Et          2
 CV CVC         p2 pER         2
@@ -27757,7 +27736,6 @@ C CCVC         d flyt         2
 C CCVC         d kREm         2
 C CV           d py           2
 C CVC          d bOn          2
-C CVC          d tus          2
 C CSV          d bwa          2
 C CV           d Z@           2
 C CV           d d°           2
@@ -28000,6 +27978,7 @@ CVC CVC        l@s syR        2
 CVC O          l@p #          2
 CVC CV         l@p d2         2
 C CV           m tE           2
+C CV           m tu           2
 C CV           m ti           2
 C CVC          m kEs          2
 C CV           m da           2
@@ -28101,7 +28080,6 @@ V CVC          e kOl          2
 V CVCC         e lips         2
 V CCVC         e dRol         2
 V CV           e Ro           2
-V CVC          e tus          2
 V CVC          e puf          2
 V CVS          e l9j          2
 V CV           e bu           2
@@ -28361,7 +28339,6 @@ CV CVC         zE paR         2
 CV CV          zE m@          2
 CV CV          zE k2          2
 CV CV          zE mE          2
-CV CVC         zE tus         2
 CV CV          zE da          2
 CV CSV         zE Rj5         2
 CV CV          zE mi          2
@@ -28373,7 +28350,6 @@ CV CV          z@ f5          2
 CV CVCC        z@ fORm        2
 CV VC          z@ il          2
 CV CV          z@ tE          2
-CV V           z@ 5           2
 CV CVC         z@ bEt         2
 CV CV          z@ be          2
 CV CV          z@ kO          2
@@ -28512,7 +28488,6 @@ CVC CV         sil fE         2
 CVC CVC        sil puR        2
 CSV CV         mjE Ra         2
 CV CSV         de Rwa         2
-CV CV          de tu          2
 CV CSV         de mwa         2
 CV CVC         de nER         2
 CV CV          de s°          2
@@ -28661,7 +28636,6 @@ CV CV          l@ sa          2
 CVC CV         m§t d2         2
 CVC CV         m§t Ri         2
 CVC O          m§t #          2
-CVC CV         m§t tu         2
 CVC CV         m§t R°         2
 CVC CV         m§t R5         2
 CVC CVC        m§t lot        2
@@ -28792,6 +28766,7 @@ CV CVC         le R°v         2
 CV CCVC        le tRuv        2
 CV CVC         le s9R         2
 CV CCVC        le klun        2
+CV CVC         le tus         2
 CV SV          le wu          2
 CV CVC         le dus         2
 CV CVCC        le t5dR        2
@@ -29418,13 +29393,11 @@ CV CV          va ly          2
 CV CSV         va sje         2
 CV CCV         va kRi         2
 CV CV          ve d§          2
-CV CV          ve tu          2
 CV CV          ve to          2
 CV CV          ve R@          2
 CV C           ve d           2
 CV CVCC        ve paRs        2
 CV CV          ve be          2
-CV CVC         ve tus         2
 CV CVC         ve kEl         2
 CV C           ve k           2
 CV VC          ve ot          2
@@ -30047,7 +30020,6 @@ V CCV          @ fRo          1
 V CV           @ t2           1
 V CVC          @ s5t          1
 V CV           @ l2           1
-V CVC          @ dis          1
 V CSVC         @ s8Ed         1
 V CVC          @ nut          1
 V CVC          @ kuR          1
@@ -30458,7 +30430,7 @@ CSV CV         sj2 fE         1
 CSV CV         sj2 d°         1
 CSV C          sj2 k          1
 CSV CV         sj2 s§         1
-CVC CVC        kuv tus        1
+CVC CV         kuv tu         1
 CVC O          kuv .          1
 CVC CV         kuv pa         1
 CVC CV         kuv se         1
@@ -30469,7 +30441,6 @@ CVC CVC        kut nat        1
 CVC CV         kut ta         1
 CVC CV         kut mE         1
 CVC CV         kut de         1
-CVC CVC        kut tus        1
 CVC CCV        kut ply        1
 CVC CSV        kut bj5        1
 CVC CCV        kut gRe        1
@@ -30845,7 +30816,6 @@ C CVC          k kil          1
 C C            k l            1
 C O            k ,            1
 C CV           k na           1
-C CVCC         k ZuvR         1
 C CVC          k fas          1
 C CVC          k maR          1
 C CV           k ba           1
@@ -30856,7 +30826,7 @@ C CV           k k2           1
 C CV           k fo           1
 C O            k .            1
 C CVC          k kEl          1
-C CVC          k tus          1
+C CVCC         k ZuvR         1
 C CV           k to           1
 C CV           k di           1
 C CV           k da           1
@@ -30891,7 +30861,6 @@ CV CVC         Za s5t         1
 CV CV          Za Z2          1
 CV CVC         Za kOm         1
 CV CV          Za b§          1
-CV CVC         Za sis         1
 CV CSVC        Za bwaR        1
 CV VC          Za @l          1
 CV CCSV        Za tRwa        1
@@ -30928,7 +30897,6 @@ CV CV          Za sE          1
 CV CV          Za ke          1
 CV CV          Za t°          1
 CV CCV         Za tRE         1
-CV CV          Za si          1
 CSVC CV        fjER d2        1
 CSVC C         fjER d         1
 CSVC CV        fjER d@        1
@@ -30951,13 +30919,13 @@ CV CCV         Zu pRE         1
 CV CSV         Zu kwa         1
 CV CVC         Zu REl         1
 CV CV          Zu mE          1
+CV CV          Zu de          1
 CV CV          Zu bo          1
 CV SV          Zu wi          1
 CV CV          Zu ma          1
 CV CCVC        Zu fRER        1
 CV CVC         Zu dus         1
 CV V           Zu e           1
-CV CV          Zu de          1
 CV CCV         Zu tRE         1
 CV CV          Zu t1          1
 CV CVC         Zu kaS         1
@@ -31355,7 +31323,6 @@ CV CV          me tE          1
 CV CVCC        me paRs        1
 CV CSV         me zj2         1
 CV CV          me bo          1
-CV CVC         me tus         1
 CV CVC         me tut         1
 CV CV          me bi          1
 CV SV          me wi          1
@@ -33326,6 +33293,7 @@ CV CSV         di sjo         1
 CV CCVC        di spOt        1
 CV CVC         di tEt         1
 CV CSV         di k8i         1
+CV CVC         di ZuR         1
 CV CVC         di sot         1
 CV CV          di pE          1
 CV CVC         di dOn         1
@@ -33357,6 +33325,7 @@ CV CVC         di nOR         1
 CV CCVCC       di tRist       1
 CV CV          di v@          1
 CV CVC         di lil         1
+CV CV          di s2          1
 CV CVC         di m@d         1
 CV CV          di s5          1
 CV CVC         di nat         1
@@ -33544,7 +33513,6 @@ CV CVC         du paR         1
 CV CV          du le          1
 CV CV          du f§          1
 CV VC          du il          1
-CV CV          du tu          1
 CV V           du 1           1
 CV CV          du m2          1
 CV CV          du su          1
@@ -33552,7 +33520,6 @@ CV CV          du n§          1
 CV CV          du mE          1
 CV V           du E           1
 CV CV          du ma          1
-CV CVC         du tus         1
 CV CVC         du z§z         1
 CV CV          du z5          1
 CV CVC         du s5Z         1
@@ -33658,14 +33625,13 @@ CV CSV         d@ tj5         1
 CV CVC         d@ vOt         1
 CV CV          d@ ly          1
 CV CV          d@ p2          1
-CV VC          d@ yn          1
+CV CV          d@ di          1
 CV V           d@ 2           1
 CV CCV         d@ gRo         1
 CV CVC         d@ Sak         1
 CV CVC         d@ m5t         1
 CV CVC         d@ din         1
 CV C           d@ d           1
-CV CVC         d@ dis         1
 CV CCSV        d@ dRwa        1
 CV CVCC        d@ tEsk        1
 CV SV          d@ 8i          1
@@ -33698,6 +33664,7 @@ CV CVC         d@ nOR         1
 CV CVCC        d@ l§bR        1
 CV CV          d@ s9          1
 CV CV          d@ no          1
+CV VC          d@ yn          1
 CV CVC         d@ tik         1
 CV CVC         d@ s2z         1
 CV CV          d@ v5          1
@@ -34088,7 +34055,6 @@ OV CVC         05 Rul         1
 OV CO          05 Z'          1
 OV CCVC        05 pl9R        1
 OV CV          05 s§          1
-OV CVC         05 tus         1
 OV CV          05 Z@          1
 OV V           05 O           1
 OV CV          05 Zo          1
@@ -34276,9 +34242,9 @@ CVC CV         s9R fE         1
 CVC CV         s9R fe         1
 CVC CVCC       s9R pORt       1
 CVC CVC        s9R pus        1
-CVC CVC        s9R k5z        1
 CVC CV         s9R Ze         1
 CVC CV         s9R d@         1
+CVC CVC        s9R puR        1
 CVC CV         s9R sa         1
 CVC CV         s9R se         1
 CVC CV         muf ty         1
@@ -34994,7 +34960,7 @@ CVC CV         kil su         1
 CVC CV         kil so         1
 CVC CVC        kil m@k        1
 CVC CV         nis s2         1
-CVC CVC        nis tus        1
+CVC CV         nis tu         1
 CVC CV         nis l2         1
 CVC CVC        nis lot        1
 CVC CV         nis n§         1
@@ -35316,7 +35282,6 @@ CVC CVCC       lOR paRs       1
 CVC CVC        lOR bOn        1
 CVC CV         lOR s§         1
 CVC CV         lOR ba         1
-CVC CVC        lOR tus        1
 CVC CCV        lOR ply        1
 CVC CV         lOR Ze         1
 CVC C          lOR s          1
@@ -35534,7 +35499,6 @@ V CSV          o zj2          1
 V CV           o s§           1
 V SV           o wa           1
 V CVC          o puf          1
-V CVC          o tus          1
 V CVC          o Zys          1
 V CVC          o laR          1
 V CV           o by           1
@@ -36009,7 +35973,6 @@ CVC CVC        tiR nat        1
 CVC CV         tiR te         1
 CVC CV         tiR n§         1
 CVC CV         tiR ta         1
-CVC CVC        tiR tus        1
 CVC CV         tiR to         1
 CVC CV         tiR di         1
 CVC CV         tiR de         1
@@ -36202,11 +36165,10 @@ CV CVCC        na Zyst        1
 CV CV          na s§          1
 CV CV          na ze          1
 CV CV          na pE          1
-CV CVC         na sis         1
+CV SV          na 8i          1
 CV CV          na Ro          1
 CV CV          na kE          1
 CV VC          na @l          1
-CV SV          na 8i          1
 CV CVCC        na kORd        1
 CV CVC         na kOR         1
 CV CSV         na vj5         1
@@ -36992,10 +36954,10 @@ CVC CV         dis k5         1
 CVC CV         dis di         1
 CVC CV         dis ZE         1
 CVC CCVC       dis tRER       1
-CVC CVC        dis ZuR        1
 CVC CVC        dis k5z        1
 CVC CSV        dis mwa        1
 CVC CV         dis t5         1
+CVC CV         dis mi         1
 CVC CV         dis se         1
 CVC CVC        dis puR        1
 CSVC CV        bwav mE        1
@@ -37087,7 +37049,6 @@ CCVC CSV       pR@d kwa       1
 CCVC CV        pR@d va        1
 CCVC CV        pR@d pu        1
 CCVC CV        pR@d p°        1
-CCVC CV        pR@d bo        1
 CCVC CVCC      pR@d lotR      1
 CCVC CV        pR@d p@        1
 CCVC CV        pR@d se        1
@@ -37095,6 +37056,7 @@ CCVC CSV       pR@d l8i       1
 CCVC CSV       pR@d vj5       1
 CCVC CV        pR@d te        1
 CCVC CV        pR@d ta        1
+CCVC CV        pR@d bo        1
 CCVC CCV       pR@d tRo       1
 CCVC CSV       pR@d s8i       1
 CCVC CV        pR@d kO        1
@@ -37158,7 +37120,6 @@ CVC CV         tER mE         1
 CVC CV         tER pu         1
 CVC CVC        tER lan        1
 CVC CV         tER k@         1
-CVC CVC        tER tus        1
 CVC CV         tER da         1
 CVC CCV        tER gRa        1
 CVC CVC        tER tER        1
@@ -37540,11 +37501,11 @@ CV CVCC        s2 tuRn        1
 CV CVC         s2 dyR         1
 CV CCV         s2 dRo         1
 CV CSVC        s2 tjEn        1
+CV CVCC        s2 disk        1
 CV CVC         s2 tOR         1
 CV CVCC        s2 SERS        1
 CV CVC         s2 kup         1
 CV CVCC        s2 mysk        1
-CV CVCC        s2 disk        1
 CV CVC         s2 sES         1
 CV CV          s2 vi          1
 CV CV          s2 lu          1
@@ -37627,12 +37588,12 @@ CV CV          s1 Zo          1
 CV CCVC        s1 klun        1
 CV CV          s1 n2          1
 CVC CV         nyt mE         1
+CVC CV         nyt di         1
 CVC CV         nyt s2         1
 CVC CV         nyt sy         1
 CVC CV         nyt d@         1
 CVC CV         nyt l2         1
 CVC CV         nyt sa         1
-CVC CVC        nyt dis        1
 V CVC          1 nEg          1
 V CVC          1 nEd          1
 V CVC          1 nEl          1
@@ -38150,7 +38111,7 @@ CV SV          si wE          1
 CV CVC         si tEm         1
 CV CV          si Ze          1
 CV CV          si N@          1
-CV CV          si v5          1
+CV CV          si z9          1
 CV CSV         si kwa         1
 CV CV          si Ni          1
 CV VC          si 9m          1
@@ -38169,6 +38130,7 @@ CV CCV         si pRe         1
 CV CV          si l§          1
 CV CSV         si s8i         1
 CV CCV         si pRa         1
+CV CV          si v5          1
 CV CV          si Zi          1
 CV CV          si mi          1
 CV CVC         si myl         1
@@ -38176,9 +38138,10 @@ CV CVC         si mOS         1
 CV CCV         si tRE         1
 CV CCVC        si gRos        1
 CV CVC         si lEm         1
+CV CCV         si kRE         1
 CV CVC         si pit         1
 CV CV          si ni          1
-CV CV          si s9          1
+CV CVC         si pat         1
 CV CVCC        si gaRd        1
 CV CV          si di          1
 CV CVC         si fER         1
@@ -38373,6 +38336,7 @@ CV CCVC        sa fRaz        1
 CV CVCC        se katR        1
 CV CVCC        se mysk        1
 CV CV          se s°          1
+CV CVC         se dis         1
 CV CSVC        se bwat        1
 CV CV          se ze          1
 CV VC          se @t          1
@@ -38452,6 +38416,7 @@ CV CVC         se s9l         1
 CV CCVC        se kROt        1
 CV CVC         se mus         1
 CV CVC         se sER         1
+CV CVC         se tus         1
 CV SV          se j§          1
 CV CVS         se f9j         1
 CV CV          se py          1
@@ -38670,7 +38635,6 @@ CSV CV         tj5 kO         1
 CSV CV         tj5 b5         1
 CSV CSV        tj5 l8i        1
 CSV CV         tj5 be         1
-CSV CVC        tj5 tus        1
 CSV CV         tj5 Z@         1
 CSV CSV        tj5 bwa        1
 CSV V          tj5 O          1
@@ -38879,7 +38843,6 @@ CV CVC         RE luv         1
 CV CCSVC       RE kRwaR       1
 CV CV          RE s§          1
 CV CVC         RE sER         1
-CV CVC         RE tus         1
 CV CCV         RE pRi         1
 CV CV          RE by          1
 CV CVC         RE tEl         1
@@ -39132,10 +39095,8 @@ CV O           R2 !           1
 CV CV          R2 le          1
 CV CVC         R2 val         1
 CV CV          R2 na          1
-CV CV          R2 tu          1
 CV V           R2 1           1
 CV CCVC        R2 pR@d        1
-CV CVC         R2 tus         1
 CV O           R2 ?           1
 CV CV          R2 be          1
 CV SV          R2 8i          1
@@ -39163,7 +39124,6 @@ CV CV          R9 Ra          1
 CSV O          tjo !          1
 CSV CSV        p8i tj5        1
 CSV CSV        p8i l8i        1
-CSV CV         p8i tu         1
 CSV CV         p8i de         1
 CSV CCVC       p8i tR@t       1
 CSV CV         p8i da         1
@@ -39176,7 +39136,6 @@ CSV CV         p8i kE         1
 CSV CCSV       p8i tRwa       1
 CSV CV         p8i s§         1
 CSV CV         p8i ZE         1
-CSV CVC        p8i tus        1
 CSV CCV        p8i ply        1
 CSV CV         p8i Za         1
 CSV CV         p8i f§         1
@@ -39736,6 +39695,7 @@ V CV           2 dE           1
 V C            2 l            1
 V C            2 p            1
 V CV           2 l5           1
+V CVC          2 dis          1
 V CSVC         2 bwat         1
 V CO           2 Z'           1
 V CV           2 ZE           1
@@ -39958,7 +39918,6 @@ VV CO          15 Z'          1
 VV CSV         15 vj5         1
 VV CSV         15 l8i         1
 VV CVC         15 puf         1
-VV CVC         15 tus         1
 VV SV          15 wu          1
 VV VC          15 Ek          1
 VV VC          15 Ed          1
@@ -40393,19 +40352,18 @@ CCVC CV        fREz ki        1
 CCVC CV        fREz d°        1
 CCVC CVC       fREz puR       1
 CCVC CV        kROt va        1
-CVC CV         sis ty         1
 CVC CV         sis d2         1
 CVC CV         sis t@         1
 CVC CV         sis le         1
-CVC CVC        sis pat        1
+CVC CV         sis la         1
 CVC CV         sis to         1
 CVC CV         sis m@         1
 CVC CVC        sis t@t        1
 CVC CVC        sis sEt        1
-CVC CV         sis la         1
+CVC CV         sis ty         1
 CVC CVC        sis s5k        1
+CVC CV         sis d@         1
 CVC CVC        sis syR        1
-CVC CCV        sis kRE        1
 SV CV          jy Re          1
 CVCC O         fiRm ?         1
 CVCC O         fiRm .         1
@@ -40473,11 +40431,10 @@ CVC CCV        tus pti        1
 CVC CVC        tus sal        1
 CVC CCV        tus tRE        1
 CVC CV         tus ne         1
-CVC CV         tus t§         1
 CVC CV         tus Ra         1
 CVC CCV        tus bl@        1
 CVC O          tus #          1
-CVC CV         tus s2         1
+CVC CSV        tus twa        1
 CVC CVC        tus sof        1
 CVC CVC        tus s9l        1
 CVC CV         tus pa         1
@@ -40489,7 +40446,7 @@ CVC CVC        tus pOR        1
 CVC CV         tus k§         1
 CVC CCV        tus ply        1
 CVC CV         tus bu         1
-CVC CSV        tus twa        1
+CVC CV         tus le         1
 CVC CSV        tus pwa        1
 CVC CV         tus du         1
 CVC CCV        tus tRu        1
@@ -40501,6 +40458,7 @@ CVC CV         tus d@         1
 CVC CV         tus fE         1
 CVC CCV        tus pR°        1
 CVC CV         tus sa         1
+CVC CV         tus t§         1
 CVC CVC        tus dis        1
 CVC CVC        tut n9v        1
 CVC CCVC       tut gRas       1
@@ -40596,7 +40554,7 @@ SV CVC         jo sEl         1
 SV CVC         ji paR         1
 SV CCV         ji bRy         1
 SV VC          ji yn          1
-SV CVC         ji tus         1
+SV CV          ji tu          1
 SV C           ji l           1
 SV CV          ji pa          1
 SV CV          ji R@          1
@@ -41107,17 +41065,15 @@ CVC CVCC       pas kElk       1
 CVC CVC        pas tis        1
 CVC CV         pas t@         1
 CVC CV         pas s2         1
-CVC CV         pas tu         1
 CVC CVC        pas nat        1
 CVC CV         pas k@         1
 CVC CV         pas di         1
-CVC CVC        pas tus        1
+CVC CV         pas de         1
 CVC CCV        pas gRe        1
 CVC CVC        pas Zys        1
 CVC CV         pas dy         1
 CVC CV         pas ma         1
 CVC CV         pas s@         1
-CVC CV         pas de         1
 CVC CVC        pas las        1
 CVC CV         pas ki         1
 CVC CVC        pas syR        1
@@ -41383,8 +41339,11 @@ CVC CVCC       pEn paRs       1
 CVC CV         pEn l2         1
 CVC CV         pEn da         1
 CVC CV         pEn se         1
-CVC CCV        z9R ply        1
+CVC CVC        z9R k5z        1
 CVC CV         z9R la         1
+CVC CCV        z9R ply        1
+CVC O          z9R ?          1
+CVC CVC        z9R puR        1
 CVC O          nal !          1
 CVC CV         nal de         1
 CVC CVC        nal gaR        1
@@ -41844,7 +41803,6 @@ CSV CVC        bj5 nEs        1
 CSV CV         bj5 ZE         1
 CSV CCVC       bj5 fRES       1
 CSV CVC        bj5 s5s        1
-CSV CVC        bj5 tus        1
 CSV CVC        bj5 sER        1
 CSV CV         bj5 vi         1
 CSV CCV        bj5 fRo        1
@@ -42218,10 +42176,10 @@ CCV CVCC       tRe luRs       1
 CCV CV         tRe Se         1
 CCV V          tRe §          1
 CCV CCV        tRe tR@        1
+CCV C          tRe k          1
 CCV CVC        tRe syR        1
 CCV CV         tRe se         1
 CCV VC         tRe ot         1
-CCV C          tRe k          1
 CCV CV         tRy ke         1
 CCV V          tRy 2          1
 CCV V          tRu @          1
@@ -42343,9 +42301,8 @@ V CVC          u Zon          1
 V CVC          u lOt          1
 V CV           u pi           1
 V CVC          u pum          1
-V CV           u bo           1
 V SV           u wa           1
-V CVC          u tus          1
+V CV           u bo           1
 V CV           u Z@           1
 V CV           u bu           1
 V CVC          u l9f          1
@@ -43094,7 +43051,7 @@ CVC CV         lEt le         1
 CVC CVC        lEt Rul        1
 CVC CV         lEt la         1
 CVC CV         lEt s2         1
-CVC CVC        lEt tus        1
+CVC CV         lEt tu         1
 CVC CV         lEt k@         1
 CVC CVC        lEt syR        1
 CVC CVC        lEt Roz        1
@@ -43147,7 +43104,6 @@ CV CCVC        ti pR@d        1
 CV CVC         ti kyb         1
 CV CVC         ti p5s         1
 CV CVC         ti kER         1
-CV CVC         ti tus         1
 CV CVC         ti sOl         1
 CV CV          ti Z@          1
 CV CVC         ti tER         1
@@ -43160,7 +43116,6 @@ CV CCV         ti bl2         1
 CV CVCC        ti zuRs        1
 CV CV          ti d°          1
 CV CSV         ti kwa         1
-CV CV          ti tu          1
 CV CVC         ti ZaR         1
 CV CVCC        ti sORt        1
 CV CV          ti bO          1
@@ -43389,7 +43344,6 @@ CV CVC         ta doz         1
 CV CV          ta Ru          1
 CV CV          ta du          1
 CV CV          ta dE          1
-CV CVC         ta tus         1
 CV CVC         ta tut         1
 CV SV          ta wi          1
 CV CCVC        ta kRES        1
@@ -43913,6 +43867,7 @@ CVC CCVC       vEk kRis       1
 CVC CVCC       vEk lotR       1
 CVC CVC        vEk Zon        1
 CVC CVCC       vEk paRs       1
+CVC CVC        vEk tus        1
 CVC CVC        vEk kEl        1
 CVC CVC        vEk l9R        1
 CVC CV         vEk ty         1
@@ -44001,7 +43956,6 @@ CV CVC         f§ kOm         1
 CV CV          f§ k@          1
 CV CV          f§ s5          1
 CV CV          f§ s1          1
-CV CV          f§ tu          1
 CV CVC         f§ d9R         1
 CV CCVC        f§ pR@d        1
 CV V           f§ 5           1
@@ -44064,7 +44018,7 @@ CVC CV         vis sa         1
 CVC CV         vis n§         1
 CVC CV         viv le         1
 CVC CV         viv m@         1
-CVC CVC        viv tus        1
+CVC CV         viv tu         1
 CVC CV         viv d@         1
 CVC O          viv .          1
 CVC CV         viv sa         1
@@ -44114,7 +44068,6 @@ CSV CVC        twa kOm        1
 CSV CCV        twa dRo        1
 CSV CV         twa be         1
 CSV CVC        twa m@Z        1
-CSV CVC        twa tus        1
 CSV CVC        twa tut        1
 CSV V          twa O          1
 CSV SV         twa wE         1
@@ -44188,6 +44141,7 @@ CVS VC         REj il         1
 CVS CV         REj fi         1
 CVS CV         REj me         1
 CVS CV         REj R°         1
+CVS CV         REj tu         1
 CVS CVC        REj pER        1
 CVS CSV        REj mwa        1
 CVS CV         REj pa         1
@@ -44195,10 +44149,9 @@ CVS CVCC       REj paRs       1
 CVS CV         REj te         1
 CVS CV         REj po         1
 CVS CV         REj s§         1
-CVS CV         REj de         1
 CVS V          REj E          1
 CVS CV         REj di         1
-CVS CVC        REj tus        1
+CVS CV         REj de         1
 CVS SV         REj wi         1
 CVS CV         REj bu         1
 CVS V          REj 2          1
@@ -44372,7 +44325,6 @@ CV CCV         Sa pR§         1
 CV CCSV        Sa dRwa        1
 CV CCV         Sa dRi         1
 CV CV          Sa Z2          1
-CV CVC         Sa tus         1
 CV CSV         Sa vjE         1
 CV V           Sa o           1
 CV CVC         Sa puR         1
@@ -44403,7 +44355,6 @@ CV CCV         Se gRe         1
 CV VC          Se Ot          1
 CV CSV         Se mw5         1
 CV CV          Se Z2          1
-CV CVC         Se dis         1
 CV CVCC        Se lotR        1
 CV CV          Se za          1
 CV CV          Se zE          1
@@ -44429,7 +44380,6 @@ CV CV          Se me          1
 CV CSV         Se lw5         1
 CV VC          Se il          1
 CV CVC         Se taR         1
-CV CV          Se di          1
 CV C           Se s           1
 CV CV          Se R°          1
 CV CVC         Se dOR         1
@@ -44953,6 +44903,7 @@ V CVC          a R°v          1
 V CCVC         a kROk         1
 V CVC          a sOl          1
 V SV           a wa           1
+V CVC          a tus          1
 V CSVC         a lwEt         1
 V CSV          a RjE          1
 V CV           a pE           1
@@ -45123,6 +45074,7 @@ VV CVC         24 m§t         1
 VV CVC         24 mER         1
 VV CV          24 t@          1
 VV CVC         24 mEm         1
+VV CV          24 m§          1
 VV CVC         24 pER         1
 VV CSV         24 mwa         1
 VV CCV         24 kRa         1
@@ -45130,11 +45082,9 @@ VV CVC         24 m5t         1
 VV CCV         24 pl5         1
 VV CVCC        24 lotR        1
 VV CVCC        24 paRs        1
-VV CVC         24 tus         1
 VV CV          24 Z@          1
 VV CV          24 bi          1
 VV CV          24 bu          1
-VV CV          24 m§          1
 VV CVC         24 poz         1
 VV CVC         24 pov         1
 VV CVC         24 sot         1
@@ -45173,7 +45123,6 @@ VV CVC         25 Rul         1
 VV CVC         25 kup         1
 VV VC          25 @t          1
 VV CV          25 ZE          1
-VV CVC         25 tus         1
 VV CVC         25 Zys         1
 VV C           25 s           1
 VV CV          25 d°          1
@@ -45211,7 +45160,6 @@ VV CV          25 ku          1
 CVCCV CCV      REst° pl5      1
 VO CCV         20 pti         1
 VO CV          20 d§          1
-VO CV          20 tu          1
 VO CSV         20 mwa         1
 VO CVC         20 lEs         1
 VO CV          20 dy          1
@@ -45225,7 +45173,6 @@ VO CVCC        20 tuRn        1
 VO CV          20 kE          1
 VO CVC         20 kup         1
 VO CVCC        20 paRs        1
-VO CVC         20 tus         1
 VO CVC         20 tut         1
 VO CVC         20 kEl         1
 VO CVC         20 tuv         1
@@ -46828,6 +46775,7 @@ O CV           # Ri           1
 O CVCC         # bERk         1
 O CCVC         # klun         1
 O SV           # ju           1
+O CVC          # tus          1
 O CVC          # tuk          1
 O CVC          # S@t          1
 O CVCC         # baRb         1
@@ -46969,7 +46917,6 @@ CVC CV         liv R§         1
 CVC CV         liv l2         1
 CVC CVC        liv dus        1
 CVC CV         liv nu         1
-CVC CVC        liv tus        1
 CVC CV         liv R1         1
 CVC CV         liv kE         1
 CVC CV         liv da         1
@@ -47143,7 +47090,6 @@ CSV CV         swa Ro         1
 CSV CV         swa d2         1
 CSV CV         swa le         1
 CSV CVC        swa mEm        1
-CSV CV         swa tu         1
 CSV CSV        swa mwa        1
 CSV CV         swa te         1
 CSV CV         swa ta         1
@@ -47159,7 +47105,6 @@ CSV CV         swa za         1
 CSV O          swa #          1
 CSV CV         swa zE         1
 CSV CV         swa ZE         1
-CSV CVC        swa tus        1
 CSV SV         swa j§         1
 CSV CCVCC      swa pROpR      1
 CSV SV         swa je         1
@@ -47517,7 +47462,6 @@ CV CCV         p2 tRE         1
 CV CV          p2 z@          1
 CV CCSVC       p2 kRwaR       1
 CV CV          p2 d§          1
-CV CVC         p2 tus         1
 CV CSV         p2 vjE         1
 CV VC          p2 @t          1
 CV CCV         p2 gli         1
@@ -47615,20 +47559,20 @@ CVC CV         l9R se         1
 CVC CV         l9R s§         1
 CV CSV         p5 pja         1
 CV CVC         p5 paR         1
+CV CV          p5 m§          1
 CV CSV         p5 pwa         1
 CV CV          p5 pa          1
 CV CVC         p5 m@Z         1
 CV CCV         p5 fR@         1
 CV CV          p5 p@          1
-CV CV          p5 k@          1
 CV CV          p5 te          1
 CV CV          p5 Z2          1
 CV CSV         p5 twa         1
-CV CV          p5 m§          1
+CV CV          p5 tu          1
 CV V           p5 2           1
 CV CSV         p5 lwa         1
 CV CVC         p5 kEs         1
-CV CVC         p5 tus         1
+CV CV          p5 k@          1
 CV CV          p5 fu          1
 CV VC          p5 yn          1
 CV CVC         p5 b9R         1
@@ -47714,7 +47658,6 @@ OO CV          07 p°          1
 OO CV          07 n@          1
 OO VS          07 aj          1
 OO CCV         07 tSu         1
-OO CVC         07 sis         1
 OO CVC         07 taR         1
 OO CV          07 k2          1
 OO CV          07 so          1
@@ -47858,7 +47801,7 @@ CVC CV         syn S@         1
 CVC O          syn ?          1
 CVC CV         syn p°         1
 CVCC CV        maRk la        1
-CVCC CVC       maRk tus       1
+CVCC CV        maRk tu        1
 CVCC O         maRk ,         1
 CVCC CVC       maRk syR       1
 CVCC CV        maRk pa        1
@@ -47892,7 +47835,6 @@ CVC CV         syR l9         1
 CVC CVC        syR lOb        1
 CVC CVCC       syR paRs       1
 CVC CVC        syR sER        1
-CVC CVC        syR tus        1
 CVC CVC        syR tut        1
 CVC CV         syR Zi         1
 CVC CV         syR ty         1
@@ -48043,7 +47985,6 @@ CV CVCC        t§ Risk        1
 CV CVCC        t§ fERm        1
 CV CSV         t§ vj5         1
 CV CCVC        t§ pl9R        1
-CV CVC         t§ tus         1
 CV C           t§ s           1
 CV SV          t§ wi          1
 CV CCV         t§ pla         1
@@ -48539,6 +48480,7 @@ CCV CVCC       pR@ Zyst       1
 CCV CCSV       pR@ tRwa       1
 CCV CVCC       pR@ paRs       1
 CCV CV         pR@ bo         1
+CCV CVC        pR@ tus        1
 CCV CVC        pR@ sEt        1
 CCV C          pR@ k          1
 CCV CV         pR@ Za         1
@@ -49016,7 +48958,6 @@ C CV           m lE           1
 C CVC          m m5t          1
 C CV           m ga           1
 C CCV          m pti          1
-C CV           m tu           1
 C CSVC         m s8iv         1
 C CV           m R@           1
 C CSV          m mwi          1
@@ -49032,7 +48973,6 @@ C CV           m b5           1
 C CVCC         m paRl         1
 C CVS          m muj          1
 C CV           m be           1
-C CVC          m tus          1
 C CV           m Z@           1
 C CV           m f°           1
 C C            m s            1
@@ -49592,7 +49532,6 @@ CVC O          mEn !          1
 CVC CSV        mEn twa        1
 CVC CVC        mEn dER        1
 CVC CVC        mEn nat        1
-CVC CVC        mEn tus        1
 CVC CCV        mEn fRo        1
 CVC C          mEn Z          1
 CVC CV         mEn p2         1
@@ -49752,14 +49691,14 @@ CVC CV         k§t R5         1
 CVC CVCC       k§t kElk       1
 CVC CV         k§t Ra         1
 CVC CV         k§t d2         1
+CVC CV         k§t tu         1
 CVC CVC        k§t Ruf        1
 CVC CV         k§t ny         1
 CVC CV         k§t R§         1
 CVC CV         k§t mE         1
 CVC CVC        k§t kEl        1
-CVC CV         k§t de         1
 CVC CV         k§t ZE         1
-CVC CVC        k§t tus        1
+CVC CV         k§t de         1
 CVC CV         k§t da         1
 CVC CV         k§t le         1
 CVC CV         k§t dy         1
@@ -50061,6 +50000,7 @@ CV CVC         zE fER         1
 CV CV          zE pi          1
 CV CV          zE ta          1
 CV CV          zE do          1
+CV CVC         zE tus         1
 CV CVC         zE sER         1
 CV V           zE 2           1
 CV CV          zE fo          1
@@ -50182,7 +50122,6 @@ CV V           z2 @           1
 CV CV          z2 R2          1
 CV CV          z2 pa          1
 CV CVC         z2 lis         1
-CV CV          z2 Ro          1
 CV CV          z2 Z2          1
 CCVC CVC       skyl tyR       1
 CCVCC O        pl5dR .        1
@@ -50350,7 +50289,7 @@ CVCC O         sabl ,         1
 CVCC O         sabl ?         1
 CVC CV         k9R s@         1
 CVC C          k9R d          1
-CVC CVC        k9R tus        1
+CVC CV         k9R tu         1
 CVC CVC        k9R Zon        1
 CVC CVC        k9R puR        1
 CVC CCV        k9R gRo        1
@@ -50614,7 +50553,7 @@ CVC CV         sik d2         1
 CVC CV         sik se         1
 CCVCC O        blabl .        1
 CVC O          taN !          1
-CVC CVC        taN tus        1
+CVC CV         taN tu         1
 CVC CV         taN se         1
 CVC CV         taN d2         1
 CSV CCV        dwi tRu        1
@@ -50771,6 +50710,7 @@ CV CVS         de nuj         1
 CV CVC         de muf         1
 CV CSVC        de swaR        1
 CV CCVC        de klun        1
+CV CVC         de tus         1
 CV SV          de wi          1
 CV CSVC        de ljEv        1
 CV SV          de wE          1
@@ -51010,9 +50950,8 @@ CVC CV         m§t RE         1
 CVC CVC        m§t REl        1
 CVC CV         m§t n§         1
 CVC CV         m§t ba         1
-CVC CV         m§t de         1
 CVC CVCC       m§t dotR       1
-CVC CVC        m§t tus        1
+CVC CV         m§t de         1
 CVC CVC        m§t Zys        1
 CVC CV         m§t dy         1
 CVC CCSV       m§t sl8i       1
@@ -51433,6 +51372,7 @@ CV CV          la Ro          1
 CV CVC         la s9R         1
 CV CVC         la Rut         1
 CV SV          la wa          1
+CV CVC         la tus         1
 CV CVC         la S@t         1
 CV CVCCC       la mORdR       1
 CV CVC         la lyt         1
@@ -51521,7 +51461,6 @@ CV CCVC        lo fRES        1
 CV CV          lo be          1
 CV CV          lo ba          1
 CV CV          lo Z@          1
-CV CVC         lo tus         1
 CV CVC         lo tut         1
 CV CV          lo bu          1
 CV CCV         lo ply         1
@@ -52714,7 +52653,6 @@ CV CCV         Ra bRi         1
 CV CCV         Ra gRE         1
 CV CVC         Ra l5Z         1
 CV C           Ra t           1
-CV CVC         Ra tus         1
 CV CV          Ra do          1
 CV CCV         Ra fRo         1
 CV CV          Ra Z@          1
@@ -52838,6 +52776,7 @@ SV VC          j§ il          1
 SV CSV         j§ vwa         1
 SV CSV         j§ twa         1
 SV CV          j§ ty          1
+SV CV          j§ tu          1
 SV CV          j§ pa          1
 SV VC          j§ @t          1
 SV CV          j§ l2          1
@@ -52847,7 +52786,6 @@ SV CV          j§ me          1
 SV CV          j§ k@          1
 SV CVC         j§ lot         1
 SV VC          j§ yn          1
-SV CVC         j§ tus         1
 SV SV          j§ wi          1
 SV CV          j§ Z2          1
 SV CV          j§ fo          1
@@ -53089,6 +53027,7 @@ CV CO          va Z'          1
 CV CVC         va lOR         1
 CV CV          va ba          1
 CV CV          va ZE          1
+CV CVC         va tus         1
 CV SV          va j§          1
 CV CVCC        va R@tR        1
 CV CVCCV       va Zyst°       1
@@ -53345,8 +53284,8 @@ CV CVCC        vy lotR        1
 CV CV          vy ZE          1
 CV CVC         vy pul         1
 CV CV          vy be          1
-CV CV          vy bo          1
 CV CCV         vy tRe         1
+CV CV          vy bo          1
 CV CV          vy ty          1
 CV CV          vy Z@          1
 CV CV          vy d°          1

@@ -502,6 +502,7 @@ CV CV          t5 t5          4
 CV CV          za na          4
 CV CV          za fE          4
 CV CV          z@ t@          4
+CV CV          z2 Ro          4
 CV CV          f° z@          4
 CV CV          Ze ne          4
 CV CV          Ze t5          4
@@ -585,7 +586,6 @@ CV CV          ma si          3
 CV CV          mo RE          3
 CV CV          mi de          3
 CV CV          S@ s2          3
-CV CV          s2 Ro          3
 CV CV          s5 ty          3
 CV CV          fa m2          3
 CV CV          fi le          3
@@ -861,7 +861,6 @@ CV CV          ZE n@          1
 CV CV          ZE ne          1
 CV CV          Z@ si          1
 CV CV          z5 du          1
-CV CV          z2 Ro          1
 CV CV          z2 R2          1
 CV CV          f° z§          1
 CV CV          Za lu          1
