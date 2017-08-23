@@ -29,7 +29,7 @@ dico["t'"]="t'"
 dico["s'"]="s'" 
 dico["j'"]="Z'"
 
-# Load the Lexique dictionary (pre-compiled):
+# Load the Lexique dictionary (simplified, only 2 columns, one for orthographic form, one with syllabified phonological form):
 with open('auxiliary/french.dic') as dic:
 	for line in dic:
 		line = line.decode('cp1252').encode('utf-8')
@@ -41,17 +41,28 @@ with open('auxiliary/french.dic') as dic:
 #### PHONEMES ####
 # Symbols used as in Lexique: http://www.lexique.org/outils/Manuel_Lexique.htm#_Toc108519023
 
-# Vowels:
-#vowels = ['a','i','e','E','o','O','u','y','§','1','5','2','9','@','°','3']
+## Vowels:
+# vowels = ['a','i','e','E','o','O','u','y','§','1','5','2','9','@','°','3']
+vowels = ['a','i','e','E','o','O','u','y','4','1','5','2','9','@','6','3']
+semivowels = ['j', '8', 'w']
 # Note: There is a problem with the encoding of the special characters § and °.
 # For the moment (01/08/17) I have failed to fix it, I have tried different
 # ways of encoding the text but my code still fails to find it in the list.
 # The workaround I found is to replace these special characters with simple
-# characters only for the parts of script that require comparing vowels:
-vowels = ['a','i','e','E','o','O','u','y','4','1','5','2','9','@','6','3']
-semivowels = ['j', '8', 'w']
+# characters only for the parts of script that require comparing vowels.
 
-# Liaison consonants:
+## Consonants:
+obstruents = ['p', 'b', 't', 'd', 'k', 'g', 'f', 'v', 's', 'z', 'S', 'Z']
+liquids    = ['l', 'R']
+nasals     = ['m', 'n', 'N']
+consonants = obstruents + liquids + nasals
+
+## Other characters:
+punctuation = [',', '?', '!', '.', ';', ':']
+
+## Liaison consonants:
+# Keys:   orthographic form
+# Values: phonological form if liaison applies
 liaison = {}
 liaison['s'] = 'z'
 liaison['z'] = 'z'
@@ -63,6 +74,8 @@ liaison['f'] = 'v'
 liaison['x'] = 'z'
 liaison['r'] = 'R'
 
+## Expected pronunciation of relevant consonants:
+# This serves to check if the consonants are silent or not
 pronunciation = {}
 pronunciation['s'] = ['s', 'z']
 pronunciation['z'] = 'z'
@@ -74,17 +87,11 @@ pronunciation['f'] = 'f'
 pronunciation['x'] = ['s', 'z']
 pronunciation['r'] = 'R'
 
-# Consonants:
-obstruents = ['p', 'b', 't', 'd', 'k', 'g', 'f', 'v', 's', 'z', 'S', 'Z']
-liquids    = ['l', 'R']
-nasals     = ['m', 'n', 'N']
-consonants = obstruents + liquids + nasals
-
-# Other characters:
-punctuation = [',', '?', '!', '.', ';', ':']
-
 
 #### WORD LISTS ####
+# These lists contain all words in certain grammatical
+# categories, necessary for checking certain liaison
+# contexts. They were obtained from Lexique380.
 
 # Load the adjectives:
 V_adjectives = [] # All vowel-initial adjectives, for plural noun + adjective rule
@@ -126,18 +133,25 @@ with open('auxiliary/output_VER.txt') as VERlist:
 		if (line[-1] in liaison) and (line not in ['soit', 'dit']):
 			verbs_3rd.append(line)
 			
-# Exceptions list:
-# Words beginning with h-aspiré (list retrieved from wikipedia article: https://fr.wikipedia.org/wiki/H_aspiré)
+#### LIAISON EXCEPTIONS LIST ####
+# These are words that will never trigger liaison:
+
+# (1) Words beginning with h-aspiré (list retrieved from wikipedia article: https://fr.wikipedia.org/wiki/H_aspiré)
 h_aspire = []
 with open('auxiliary/h_aspire.txt') as Hlist:
 	for line in Hlist:
 		line = line.strip()
 		h_aspire.append(line)
-# Others
-exceptions_next = ['et', 'oh', 'euh', 'hum', 'oui', 'ouais', 'ouah', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends', 'whisky', 'yaourt', 'yéti'] + h_aspire
+# (2) Other words (interjections and others)
+exceptions_next = ['et', 'oh', 'euh', 'hum', 'oui', 'ouais', 'ouah', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends', 'whisky', 'yaourt', 'yéti']
+exceptions_next = exceptions_next + h_aspire
 
-# Liaison cases:
-# Cases that apply always except if followed by specific items
+
+#### LIAISON CASES ####
+
+# (1) Cases that apply always except if followed by specific exception words
+# Keys: Words that are considered to undergo mandatory liaison
+# Values: Exceptions of following words that would not trigger liaison
 always_except = {}
 always_except['un'] = exceptions_next + ['à']
 always_except["quelqu'un"] = exceptions_next + ['y', 'est', 'a']
@@ -155,7 +169,7 @@ always_except['vos'] = exceptions_next + ['avec']
 always_except['leurs'] = exceptions_next
 always_except['aux']   = exceptions_next
 always_except['aucun'] = exceptions_next
-always_except['tout']  = exceptions_next
+always_except['tout']  = exceptions_next + ['il', 'ils', 'elle', 'elles', 'on']
 always_except['toutes'] = exceptions_next
 always_except['quels']  = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['quelles']  = exceptions_next + ['il', 'ils', 'elle', 'elles']
@@ -189,15 +203,18 @@ always_except['bien']  = exceptions_next + ['écoutez', 'écoute', 'il', 'elle',
 always_except['trop']  = exceptions_next
 always_except['beaucoup'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
 
+# (2) Adjectives:
 for adjective in adjectives:
-	always_except[adjective] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec']
+	always_except[adjective] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'allez', 'adrien', 'elsa', 'avec']
 
-# Cases that apply only if followed by specific items:
+# (3) Cases that apply only if followed by specific items:
+# Keys: Words that are considered to undergo mandatory liaison in specific contexts
+# Values: List of following words that trigger liaison for each Key.
+
 only_before = {}
 # Modal verbs in clitic groups
 for verb in verbs_3rd:
 	only_before[verb] = ['il', 'elle', 'ils', 'elles', 'on']
-	
 only_before['fait'] = ['il','elle','on']
 only_before['veut'] = ['il','elle','on']
 only_before['peut'] = ['il','elle','on','être']
@@ -257,7 +274,7 @@ only_before['quant']   = ['à', 'aux']
 only_before['avait']   = ['il', 'elle', 'on'] #['un', 'une']
 #only_before['aller']   = ['à', 'au'] # Not mandatory 
 
-# Denasalization cases:
+## Denasalization cases:
 denasalization = {}
 denasalization['bon'] = 'bOn'
 denasalization['certain'] = 'sER-tEn'
@@ -273,6 +290,8 @@ denasalization['vilain'] = 'vi-lEn'
 denasalization['divin'] = 'di-vin'
 denasalization['fin'] = 'fin'
 
+## Special cases:
+# Numbers 6, 9, 10:
 vowel_ini_months = ['avril', 'août', 'octobre']
 special_numbers = {}
 special_numbers['six'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y'] + vowel_ini_months
@@ -285,18 +304,21 @@ enchainement_exceptions = ['9m']
 
 #### FUNCTIONS ####
 def silent_consonant(letter, phone):
+	# Checks if a consonant is silent
 	if (letter in liaison) and (phone not in pronunciation[letter]):
 		return True
 	else:
 		return False
 
 def check_vowel_onset(ortho_word):
+	# Checks if a word begins with vowel or semi-vowel
 	vowel_initial = ((ortho_word in dico) and (ortho_word not in punctuation) and
 						(dico[ortho_word].replace('§', '4').replace('°', '6')[0] in vowels+semivowels)) # I replace special characters for matching vowels
 	return vowel_initial
 	
 def check_liaison(line, all_words, k) :
 	# This function checks if liaison applies, returns True or False
+	# line: line ID (an integer)
 	# all_words: full utterance (as a list)
 	# k: index of the current word
 	do_liaison = False
@@ -402,6 +424,8 @@ def check_enchainement(all_words, k) :
 	return do_enchainement
 
 def get_context(line, k):
+	# This function retrieves (if possible) 5 words from an utterance,
+	# centered around a target word k (k=index of target word in utterance).
 	if len(line)<6:
 		context = line
 	elif (len(line)>=6) and (k<=2):
@@ -451,17 +475,21 @@ def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcrib
 	# Add context:
 	context = get_context(all_words_ort, k)
 	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
+
 	
+	
+#### MAIN BODY OF TRANSCRIPTION CODE ####
 for corpusdir in dirlist:
 	print 'Recoding transcription of:', corpusdir
-	input_location = 'corpora/' + corpusdir + '/clean'
-	output_location = 'output/' + corpusdir
+	input_location  = 'corpora/' + corpusdir + '/clean'
+	output_location = 'output/'  + corpusdir
 	if not os.path.exists(output_location):
 		os.makedirs(output_location)
 		
 	#### 1: FIRST TRANSCRIPTION + LIAISON ####
-	f = open(output_location + '/liaison_cases.txt', 'w')
-	foutput = open(output_location + '/recoded_with_liaison.txt','w')
+	# Open output files:
+	f         = open(output_location + '/liaison_cases.txt', 'w')
+	foutput   = open(output_location + '/recoded_with_liaison.txt','w')
 	frejected = open(output_location + '/rejected_liaison_cases.txt', 'w')
 
 	# Read line by line, transcribe from dictionary and apply liaison if appropriate
@@ -471,25 +499,36 @@ for corpusdir in dirlist:
 			full_line = line_text.lower().split()
 			info  = full_line[:4] # ID and age
 			words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
+			
 			for i, word in enumerate(words[:-1]): 
 				if word in dico:
-					newwords.append(dico[word]) # Transcribe the word
+					# Transcribe the word:
+					newwords.append(dico[word])
+					
+					# Check and apply liaison:
 					lastletter = word[-1]
-					lastphon = newwords[i][-1]
+					lastphon   = newwords[i][-1]
+					next_word  = words[i+1]
+					# General case (silent consonant):
 					if silent_consonant(lastletter, lastphon) and check_liaison(line_ID, words, i) :
 						newwords[i] += liaison[lastletter] # Attach liaison consonant
 						if word in denasalization:
 							newwords[i] = denasalization[word]
 						print_applied_liaison(line_ID, words, i, newwords[i], f)
-					elif (word in special_numbers) and (words[i+1] in V_nouns) and (words[i+1] not in special_numbers[word]): # Work on this (it's giving an error for the moment)
+					# Special case: numbers six, neuf, dix
+					elif (word in special_numbers) and (next_word in V_nouns) and (next_word not in special_numbers[word]):
 						newwords[i] = newwords[i][:-1] + liaison[lastphon]
 						print_applied_liaison(line_ID, words, i, newwords[i], f)
 					elif (word in special_numbers) and (lastphon == 's') and (words[i+1] in C_nouns):
-						newwords[i] = newwords[i][:-1] 
-					elif (word == 'tous') and (words[i+1] in ['les', 'des', 'ces', 'nos', 'vos', 'ses', 'tes', 'ceux']):
-						newwords[i] = newwords[i][:-1] #This is not liaison, just correcting a problem with tou(s)
+						newwords[i] = newwords[i][:-1]
+						
+					# Correct alternative pronunciation of tous (with or without silent consonant):
+					if (word == 'tous') and (next_word in ['les', 'des', 'ces', 'nos', 'vos', 'ses', 'tes', 'ceux']):
+						newwords[i] = newwords[i][:-1]
 				else:
-					newwords.append('#') 
+					# Word not found in dictionary:
+					newwords.append('#')
+					
 			newwords.append(full_line[-1])
 			print >> foutput , ' '.join(info + newwords) # Concatenate with ID and age and print
 
@@ -499,36 +538,41 @@ for corpusdir in dirlist:
 
 
 	#### 2: LIQUID DELETION ####
-	f2 = open(output_location + '/liquid_deletion_cases.txt', 'w')
+	# Open output files:
+	f2       = open(output_location + '/liquid_deletion_cases.txt', 'w')
 	foutput2 = open(output_location + '/recoded_L_D.txt', 'w')
 
+	# Load orthographic transcription:
 	text_ort = []
 	with open(input_location + '/extract.txt') as original_file:
 		for line_ID, line_text in enumerate(original_file):
 			text_ort.append(line_text.strip())
 			
 	with open(output_location + '/recoded_with_liaison.txt') as input_file:
-		
-			for line_ID, line_text in enumerate(input_file):
-				newwords  = []
-				full_line     = line_text.split()
-				full_line_ort = text_ort[line_ID].split()
-				info      = full_line[:4] # ID and age
-				words     = full_line[4:] # Start reading in 5th column, first 4 are ID and age
-				words_ort = full_line_ort[4:]
-				for i, word in enumerate(words[:-1]): 
-					newwords.append(word)
-					if (word != '#') and check_liquid_deletion(words, i) :
-						newwords[i] = word[:-1] # Delete liquid
-						print_applied_cases(line_ID, words, i, words_ort, newwords[i], f2)
-				newwords.append(full_line[-1])
-				print >> foutput2 , ' '.join(info + newwords) # Concatenate with ID and age and print
+		for line_ID, line_text in enumerate(input_file):
+			newwords      = []
+			full_line     = line_text.split()
+			full_line_ort = text_ort[line_ID].split()
+			info      = full_line[:4] # ID and age
+			words     = full_line[4:] # Start reading in 5th column, first 4 are ID and age
+			words_ort = full_line_ort[4:]
+			
+			for i, word in enumerate(words[:-1]): 
+				newwords.append(word)
+				if (word != '#') and check_liquid_deletion(words, i) :
+					newwords[i] = word[:-1] # Delete liquid
+					print_applied_cases(line_ID, words, i, words_ort, newwords[i], f2)
+					
+			newwords.append(full_line[-1])
+			print >> foutput2 , ' '.join(info + newwords) # Concatenate with ID and age and print
+			
 	f2.close()
 	foutput2.close()
 
 
 	#### 3: SCHWA INSERTION ####
-	f3 = open(output_location + '/schwa_insertion_cases.txt', 'w')
+	# Open output files:
+	f3       = open(output_location + '/schwa_insertion_cases.txt', 'w')
 	foutput3 = open(output_location + '/recoded_L_D_S.txt', 'w')
 
 	with open(output_location + '/recoded_L_D.txt') as input_file:
@@ -539,11 +583,13 @@ for corpusdir in dirlist:
 			info  = full_line[:4] # ID and age
 			words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
 			words_ort = full_line_ort[4:]
+			
 			for i, word in enumerate(words[:-1]): 
 				newwords.append(word)
 				if (word != '#') and check_schwa_insertion(words, i) :
 					newwords[i] += '°' # Add schwa
 					print_applied_cases(line_ID, words, i, words_ort, newwords[i], f3)
+					
 			newwords.append(full_line[-1])
 			print >> foutput3 , ' '.join(info + newwords) # Concatenate with ID and age and print
 		
@@ -552,7 +598,8 @@ for corpusdir in dirlist:
 
 
 	#### 4: ENCHAINEMENT ####
-	f4 = open(output_location + '/enchainement_cases.txt', 'w')
+	# Open output files:
+	f4       = open(output_location + '/enchainement_cases.txt', 'w')
 	foutput4 = open(output_location + '/recoded_L_D_S_E.txt', 'w')
 
 	with open(output_location + '/recoded_L_D_S.txt') as input_file:
@@ -560,9 +607,10 @@ for corpusdir in dirlist:
 			newwords  = []
 			full_line = line_text.split()
 			full_line_ort = text_ort[line_ID].split()
-			info  = full_line[:4] # ID and age
+			info     = full_line[:4] # ID and age
 			newwords = full_line[4:] # Start reading in 5th column, first 4 are ID and age
 			words_ort = full_line_ort[4:]
+			
 			for i, word in enumerate(newwords[:-1]): 
 				if (word != '#') and check_enchainement(newwords, i) :
 					currentword = newwords[i]
@@ -575,6 +623,7 @@ for corpusdir in dirlist:
 						newwords[i+1] = currentword[-2:] + newwords[i+1]
 						newwords[i+1] = newwords[i+1].replace("'",'') # Erase the apostrophe
 					print_enchainement(line_ID, i, words_ort, newwords[i], newwords[i+1], f4)
+					
 			newwords = filter(None, newwords)
 			print >> foutput4 , ' '.join(info + newwords) # Concatenate with ID and age and print
 		

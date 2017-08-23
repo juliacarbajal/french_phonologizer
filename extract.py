@@ -14,7 +14,8 @@ def clean_text(current_line):
 	new_line = new_line.replace('xx','*')
 	new_line = new_line.replace('yy','*')
 	new_line = new_line.replace('["]',',')     # I decided to introduce a comma after a quote as there usually are prosodic boundaries.
-	new_line = new_line.replace('[*]','')
+	new_line = new_line.replace('[*]','')	   # This is a replacement marker (ignore)
+	new_line = new_line.replace('[/]',',')	   # This marks a repetition, I will introduce a comma (in the manual it says: ...when a speaker begins to say something, stops and then repeats the earlier material...)
 	new_line = new_line.replace('(.)',',')     # Pauses, replaced by commas
 	new_line = new_line.replace('(..)',',')
 	new_line = new_line.replace('(...)',',')
@@ -70,6 +71,7 @@ def print_line(current_line, processed_lines, filename):
 		processed_lines = processed_lines.replace(', ?','?')
 		processed_lines = processed_lines.replace(', !','!')
 		processed_lines = processed_lines.replace("est ce qu", "est-ce qu")         # Add a dash to est-ce (usually transcribed without the dash in CHILDES)
+		processed_lines = processed_lines.replace("est c(e) qu", "est-ce qu")       # Add a dash to est-c(e) and remove parenthesis (est-ce will later be transcribed as /Es/)
 		processed_lines = processed_lines.replace("n' est ce pas", "n' est-ce pas") # Expression
 		processed_lines = processed_lines.replace("qui est ce ?", "qui est-ce ?")   # Expression
 		processed_lines = processed_lines.replace("c' est-ce", "c' est ce")         # Remove the dash if it was added to c'est ce
