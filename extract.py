@@ -8,7 +8,7 @@ def clean_text(current_line):
 	# This function cleans the CHAT annotations based on the
 	# CHILDES transcription guidelines: http://talkbank.org/manuals/CHAT.pdf
 	new_line = current_line.replace('www','*') # Untranscribed material
-	new_line = new_line.replace('0','*')       # Untranscribed material
+	new_line = new_line.replace('0','')        # Note: In CHAT manual they say 0 means omitted word, but in York they use it a lot even in words that are not likely to be omitted, so I will ignore it for the moment.
 	new_line = new_line.replace('xxx','*')     # Unintelligible words
 	new_line = new_line.replace('yyy','*')
 	new_line = new_line.replace('xx','*')

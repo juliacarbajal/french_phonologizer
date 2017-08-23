@@ -3243,7 +3243,7 @@ rondal03c.cha 2 5 07 o .
 rondal03c.cha 2 5 07 wi t@-tO .
 rondal03c.cha 2 5 07 kwa t@-tO ?
 rondal03c.cha 2 5 07 la vwa-la le kle d2 ste-f@ .
-rondal03c.cha 2 5 07 # v2 pa le kle d2 ste-f@ ?
+rondal03c.cha 2 5 07 ty v2 pa le kle d2 ste-f@ ?
 rondal03c.cha 2 5 07 a sa va ty v2 le kle d ma-m@ .
 rondal03c.cha 2 5 07 § tuRn ?
 rondal03c.cha 2 5 07 a-t@-sj§ d pa l ka-se 5 .
@@ -24717,7 +24717,7 @@ rondal28b.cha 3 4 14 b5 se kwa sa ?
 rondal28b.cha 3 4 14 Z2 n sE pa .
 rondal28b.cha 3 4 14 di a ma-m@ s' k2 se .
 rondal28b.cha 3 4 14 le m5 d2 ki ?
-rondal28b.cha 3 4 14 # tjEn ?
+rondal28b.cha 3 4 14 le tjEn ?
 rondal28b.cha 3 4 14 te m5 ?
 rondal28b.cha 3 4 14 n§ pa # n@ n§ ply .
 rondal28b.cha 3 4 14 § n p5 ply .
@@ -45285,7 +45285,7 @@ rondal47a.cha 4 6 28 wi Z2 s8i syR kil n@ fo kyn .
 rondal47a.cha 4 6 28 a si ty # .
 rondal47a.cha 4 6 28 ty # mEt sa .
 rondal47a.cha 4 6 28 # # la ka-bin .
-rondal47a.cha 4 6 28 # .
+rondal47a.cha 4 6 28 bj5 .
 rondal47a.cha 4 6 28 fo tRu-ve lot m5t-n@ .
 rondal47a.cha 4 6 28 # .
 rondal47a.cha 4 6 28 wi se tu k§tR .
@@ -46698,7 +46698,7 @@ rondal47d.cha 4 7 22 ty kRwa ?
 rondal47d.cha 4 7 22 se ki ?
 rondal47d.cha 4 7 22 a la-kEl ?
 rondal47d.cha 4 7 22 # il ta a-pORt tu sa ?
-rondal47d.cha 4 7 22 # sEl la n§ .
+rondal47d.cha 4 7 22 pa sEl la n§ .
 rondal47d.cha 4 7 22 kEs k2 se ?
 rondal47d.cha 4 7 22 kEs k2 se sEl la ?
 rondal47d.cha 4 7 22 ko-m@ s' k2 ty a y sEl la ?

@@ -110,6 +110,7 @@
 3279 tordre ta                     tORd ta                       je vais tordre ta lavette .
 3318 propre maintenant             pROp m5t-n@                   il fait propre maintenant par terre
 3337 autre chose                   ot Soz                        voilà autre chose .
+3384 contre ton                    k§t t§                        LE mets contre ton pull
 3470 prendre ton                   pR@d t§                       tu vas prendre ton bain ,
 3504 montre MOI                    m§t mwa                       montre MOI un rouge !
 3511 montre MOI                    m§t mwa                       montre MOI une autre couleur !
@@ -261,22 +262,23 @@
 7297 autre jeu                     ot Z2                         à un autre jeu ?
 7325 être comme                    Et kOm                        euh peut être comme ça ?
 7336 mettre dedans                 mEt d°-d@                     va LE mettre dedans .
+7361 autres voitures               ot vwa-tyR                    a d' autres voitures qui
 7439 autre bord                    ot bOR                        l' autre bord , oui .
 7466 montre MOI                    m§t mwa                       montre MOI donc !
 7616 montre MOI                    m§t mwa                       montre MOI ton doigt !
 7730 éteindre l'                   e-t5d l                       je vais éteindre l' appareil
 7736 mettre tes                    mEt te                        rond pour mettre tes petites
-7756 être que                      Et k2                         peut être que ça *ne va
+7756 être que                      Et k2                         peut être que ça ne va
 7766 autre bout                    ot bu                         avait un autre bout qui
-7771 rentre pas                    R@t pa                        lui *ne rentre pas ,
+7771 rentre pas                    R@t pa                        lui ne rentre pas ,
 7800 mettre sur                    mEt syR                       faut LE mettre sur les
 7807 mettre là                     mEt la                        veux LE mettre là ?
 7811 autre côté                    ot ko-te                      de l' autre côté !
 7815 prendre l'                    pR@d l                        je vais prendre l' hélicoptère .
 7840 mettre ça                     mEt sa                        je vais mettre ça ici .
 7901 montre MOI                    m§t mwa                       montre MOI ton chat !
-7915 rentre pas                    R@t pa                        ça *ne rentre pas .
-7916 rentre pas                    R@t pa                        ça *ne rentre pas .
+7915 rentre pas                    R@t pa                        ça ne rentre pas .
+7916 rentre pas                    R@t pa                        ça ne rentre pas .
 7922 prendre de                    pR@d d2                       vais LE prendre de l'
 7922 autre côté                    ot ko-te                      de l' autre côté ,
 7923 autre côté                    ot ko-te                      de l' autre côté .
@@ -338,7 +340,7 @@
 9219 montre MOI                    m§t mwa                       montre MOI !
 9302 mettre les                    mEt le                        veux tu mettre les grenouilles une
 9303 autre fois                    ot fwa                        comme l' autre fois ?
-9318 perdre ton                    pERd t§                       *ne pas perdre ton chapeau
+9318 perdre ton                    pERd t§                       ne pas perdre ton chapeau
 9320 câble de                      kab d2                        * * câble de télévision
 9324 montre MOI                    m§t mwa                       ben montre MOI !
 9335 autre côté                    ot ko-te                      par l' autre côté .
@@ -381,6 +383,7 @@
 9939 mettre par                    mEt paR                       va LES mettre par dessus
 9950 mettre par                    mEt paR                       va LE mettre par dessus
 9975 autre lapin                   ot la-p5                      a un autre lapin quelque
+9977 autre lapin                   ot la-p5                      un autre lapin qui va là
 9978 autre lapin                   ot la-p5                      a un autre lapin .
 10007ouvre les                     uv lez                        ok , ouvre les yeux !
 10035remettre dedans               R°-mEt d°-d@                  veux LE remettre dedans ?
@@ -488,7 +491,7 @@
 11749mettre quelque                mEt kElk                      vais LUI mettre quelque chose
 11752être pas                      Et pa                         a peut être pas assez
 11770montre MOI                    m§t mwa                       montre MOI !
-11780être que                      Et k2                         peut être que ça *ne marche
+11780être que                      Et k2                         peut être que ça ne marche
 11794être fini                     Et fi-ni                      ça va être fini je
 11797autre chose                   ot Soz                        de chercher autre chose dans
 11799autre chose                   ot Soz                        aller chercher autre chose dans
@@ -523,6 +526,7 @@
 12416montre MOI                    m§t mwa                       oui , montre MOI !
 12417montre LE                     m§t l2                        montre LE à Catherine !
 12419montre MOI                    m§t mwa                       montre MOI !
+12510prendre de                    pR@d d2                       # pour prendre de la
 12529être là                       Et la                         ça doit être là que catherine
 12548mettre du                     mEt dy                        on va mettre du vert .
 12549mettre du                     mEt dy                        veux tu mettre du vert ?
@@ -544,7 +548,7 @@
 12862autre chose                   ot Soz                        chercher d' autre chose dans
 12866autre chose                   ot Soz                        chercher d' autre chose ?
 12901être difficile                Et di-fi-sil                  est peut être difficile un
-12940être qu'                      Et k                          peut être qu' il *ne veut
+12940être qu'                      Et k                          peut être qu' il ne veut
 12946autre chose                   ot Soz                        chercher d' autre chose dans
 12948autre chose                   ot Soz                        chercher d' autre chose .
 12954autre chose                   ot Soz                        chercher d' autre chose dans
@@ -571,7 +575,7 @@
 13309pauvre petit                  pov p°-ti                     le pauvre petit chien .
 13324autre queue                   ot k2                         faire une autre queue ,
 13327ressemble le                  R°-s@b l2                     qu' il ressemble le chien
-13343ressemble pas                 R°-s@b pa                     ça *ne ressemble pas un crocodile
+13343ressemble pas                 R°-s@b pa                     ça ne ressemble pas un crocodile
 13375être la                       Et la                         ça doit être la même
 13385être trop                     Et tRo                        vas pas être trop lourd
 13399spectacle dehors              spEk-tak d°-OR                un spectacle dehors ?
@@ -620,13 +624,14 @@
 14035mettre ça                     mEt sa                        on va mettre ça à côté
 14092autres personnages            ot pER-so-naZ                 avoir d' autres personnages aussi
 14139mettre là                     mEt la                        voulais LE mettre là dessus
-14143rentre pas                    R@t pa                        ça *ne rentre pas .
+14143rentre pas                    R@t pa                        ça ne rentre pas .
 14144mettre comme                  mEt kOm                       pas LE mettre comme ça
-14145rentre pas                    R@t pa                        ça *ne rentre pas .
+14145rentre pas                    R@t pa                        ça ne rentre pas .
 14146rentre juste                  R@t Zyst                      ça rentre juste ici .
 14147mettre là                     mEt la                        peut LE mettre là en
 14172être jaune                    Et Zon                        supposé d' être jaune ,
 14210autre crayon                  ot kRE-j§                     # l' autre crayon .
+14230être de                       Et d2                         est peut être de la
 14249montres comment               m§t ko-m@                     tu ME montres comment !
 14328apparaître d'                 a-pa-REt d                    pas fait apparaître d' autre
 14328autre sauf                    ot sof                        apparaître d' autre sauf qu'
@@ -756,11 +761,11 @@
 16087montre MOI                    m§t mwa                       ben montre MOI !
 16090montre MOI                    m§t mwa                       montre MOI !
 16123mettre des                    mEt de                        va LUI mettre des menottes
-16189pendre comme                  p@d kOm                       * faire pendre comme ça
+16189pendre comme                  p@d kOm                       juste faire pendre comme ça
 16196capable de                    ka-pab d2                     tu es capable de faire
 16209autre fois                    ot fwa                        frapper une autre fois ?
 16225capable de                    ka-pab d2                     suis pas capable de faire
-16230mettre comme                  mEt kOm                       de * mettre comme il
+16230mettre comme                  mEt kOm                       essayer de mettre comme il
 16243mettre dedans                 mEt d°-d@                     va LE mettre dedans .
 16251montre MOI                    m§t mwa                       mais montre MOI comment il faut
 16271mettre la                     mEt la                        il faut mettre la canne
@@ -787,12 +792,13 @@
 16516mettre là                     mEt la                        va LES mettre là tantôt
 16519autre clôture                 ot klo-tyR                    reste une autre clôture .
 16520autre clôture                 ot klo-tyR                    , l' autre clôture ?
-16521être qu'                      Et k                          ben peut être qu' elle *ne
+16521être qu'                      Et k                          ben peut être qu' elle ne
 16539être pour                     Et puR                        est peut être pour mettre
 16539mettre de                     mEt d2                        être pour mettre de l'
 16548mettre dans                   mEt d@z                       vas LES mettre dans en
 16561autre côté                    ot ko-te                      de l' autre côté !
 16565mettre là                     mEt la                        va LA mettre là .
+16599fenêtre de                    f°-nEt d2                     par la fenêtre de la
 16623mettre le                     mEt l2                        on va mettre le ,
 16636être faim                     Et f5                         a peut être faim ,
 16648mettre beaucoup               mEt bo-ku                     on peut mettre beaucoup de choses
@@ -827,7 +833,7 @@
 17040autre côté                    ot ko-te                      de l' autre côté .
 17041être capables                 Et ka-pabl                    ils vont être capables de
 17041capables de                   ka-pab d2                     vont être capables de voir
-17075être que                      Et k2                         peut être que Catherine *ne va
+17075être que                      Et k2                         peut être que Catherine ne va
 17075être capable                  Et ka-pabl                    va pas être capable parce
 17075capable parce                 ka-pab paRs                   pas être capable parce que
 17090être trop                     Et tRo                        est peut être trop gros
@@ -855,7 +861,7 @@
 17222être que                      Et k2                         peut être que .
 17224être qu'                      Et k                          mais peut être qu' on peut
 17226mettre dessus                 mEt d°-sy                     pourront se mettre dessus .
-17229être qu'                      Et k                          peut être qu' i(l) *ne va
+17229être qu'                      Et k                          peut être qu' i(l) ne va
 17230être comme                    Et kOm                        peut être comme ça ?
 17247mettre comme                  mEt kOm                       vais LES mettre comme ça
 17257être tout                     Et tu                         ils vont être tout mouillés .
@@ -910,20 +916,22 @@
 17859être qu'                      Et k                          bon peut être qu' on SE
 17867être que                      Et k2                         , peut être que ,
 17867être que                      Et k2                         mais peut être que le
-17873être que                      Et k2                         peut être que ça *ne marchera
+17873être que                      Et k2                         peut être que ça ne marchera
 17876être que                      Et k2                         ah peut être que ça .
 17927montre MOI                    m§t mwa                       montre MOI !
 17959autre fois                    ot fwa                        comme l' autre fois ,
-17987être que                      Et k2                         peut être que ça *ne va
+17987être que                      Et k2                         peut être que ça ne va
 17998être pas                      Et pa                         est peut être pas Ernest
 18017être de                       Et d2                         va peut être de l'
 18017autre côté                    ot ko-te                      de l' autre côté .
 18060être pas                      Et pa                         est peut être pas un
 18061être pas                      Et pa                         est peut être pas un
+18063prendre tout                  pR@d tu                       pas LE prendre tout de
 18066montre MOI                    m§t mwa                       montre MOI donc !
 18075être que                      Et k2                         peut être que c(e) est celui
 18109mettre des                    mEt dez                       on peut mettre des autos qui
 18125prendre lui                   pR@d l8i                      tu peux prendre lui .
+18131autre wagon                   ot va-g§                      puis l' autre wagon ?
 18150prendre lui                   pR@d l8i                      tu vas prendre lui ?
 18185être droit                    Et dRwa                       ça va être droit .
 18195autre morceau                 ot mOR-so                     avait un autre morceau ,
@@ -970,7 +978,7 @@
 18850remettre là                   R°-mEt la                     va LE remettre là dedans
 18864mettre là                     mEt la                        va LE mettre là .
 18879être qu'                      Et k                          peut être qu' on devrait demander
-18882être qu'                      Et k                          peut être qu' ils *ne veulent
+18882être qu'                      Et k                          peut être qu' ils ne veulent
 18885autre Que                     ot k2                         faire d' autre Que manger
 18895être qu'                      Et k                          mais peut être qu' on peut
 18895mettre par                    mEt paR                       peut LES mettre par dessus
@@ -1086,7 +1094,7 @@
 20948montre MOI                    m§t mwa                       montre MOI !
 20975être lui                      Et l8i                        peut être lui va rester .
 20988ouvre la                      uv la                         j(e) ouvre la porte .
-20991rentre pas                    R@t pa                        ça *ne rentre pas .
+20991rentre pas                    R@t pa                        ça ne rentre pas .
 21011montre MOI                    m§t mwa                       montre MOI !
 21025montre MOI                    m§t mwa                       montre MOI !
 21026mettre dans                   mEt d@                        peux LES mettre dans ,
@@ -1131,7 +1139,7 @@
 21507montre MOI                    m§t mwa                       montre MOI donc !
 21510pauvre Petit                  pov p°-ti                     oh ben pauvre Petit brun .
 21517pauvre Petit                  pov p°-ti                     oh pauvre Petit brun .
-21524rentre pas                    R@t pa                        ça *ne rentre pas , Max
+21524rentre pas                    R@t pa                        ça ne rentre pas , Max
 21526mettre les                    mEt le                        peut juste mettre les bonhommes
 21599autres comme                  ot kOm                        veux d' autres comme ça
 21605autres scies                  ot si                         besoin d' autres scies .
@@ -1151,7 +1159,7 @@
 21801montre MOI                    m§t mwa                       montre MOI donc !
 21803autre bonhomme                ot bo-nOm                     faire un autre bonhomme de
 21812autre galette                 ot ga-lEt                     fait une autre galette ?
-21813montre MOI                    m§t mwa                       montre MOI donc si qu' *il
+21813montre MOI                    m§t mwa                       montre MOI donc si qu' il
 21838mettre par                    mEt paR                       pas LES mettre par terre
 21846autre pour                    ot puR                        manque une autre pour faire
 21871autre côté                    ot ko-te                      de l' autre côté .
@@ -1212,7 +1220,7 @@
 22861autre bonhomme                ot bo-nOm                     est l' autre bonhomme que
 22864mettre le                     mEt l2                        ah pour mettre le nintendo .
 22868mettre de                     mEt d2                        va LE mettre de l'
-22868autre côté                    ot ko-te                      de l' autre côté *pour
+22868autre côté                    ot ko-te                      de l' autre côté pour
 22872ressemble les                 R°-s@b lez                    ça ressemble les amis Là qu'
 22873autres qu'                    ot k                          , les autres qu' on
 22877ressemble beaucoup            R°-s@b bo-ku                  ça ressemble beaucoup .
@@ -1284,7 +1292,7 @@
 23910rectangles pi                 REk-t@g pi                    avait des rectangles pi des
 23919mettre dedans                 mEt d°-d@                     à LES mettre dedans ,
 23928mettre faire                  mEt fER                       pi en mettre faire euh
-23929autre côté                    ot ko-te                      de l' autre côté *il
+23929autre côté                    ot ko-te                      de l' autre côté il
 23936autre chose                   ot Soz                        pourrait faire autre chose .
 23938autre numéro                  ot ny-me-Ro                   un autre numéro peut être .
 23950montre LUI                    m§t l8i                       montre LUI !
@@ -1378,7 +1386,7 @@
 25787autre côté                    ot ko-te                      de l' autre côté ?
 25792capable Là                    ka-pab la                     est pas capable Là ?
 25793mettre dans                   mEt d@                        ah pour mettre dans l' auto
-25804ressemble pas                 R°-s@b pa                     ça *ne ressemble pas à ça
+25804ressemble pas                 R°-s@b pa                     ça ne ressemble pas à ça
 25816montre MOI                    m§t mwa                       montre MOI comment ça marche ,
 25820être que                      Et k2                         mais peut être que ça va
 25820autre camion                  ot ka-mj§                     après un autre camion .
@@ -1462,7 +1470,7 @@
 28356rentre dedans                 R@t d°-d@                     et il rentre dedans .
 28380mettre le                     mEt l2                        tu veux mettre le petit cochon
 28389mettre là                     mEt la                        veux LE mettre là ?
-28412prendre Que                   pR@d k2                       *ne va prendre Que les
+28412prendre Que                   pR@d k2                       ne va prendre Que les
 28416mettre là                     mEt la                        va se mettre là .
 28426prendre des                   pR@d de                       on va prendre des petits .
 28475mettre dans                   mEt d@                        va LES mettre dans le
@@ -1526,7 +1534,7 @@
 30105montre c(e)                   m§t s                         est la montre c(e) est
 30132table sur                     tab syR                       sur la table sur sa
 30147être perdue                   Et pER-dy                     a peut être perdue .
-30160mettre du                     mEt dy                        *veux LUI mettre du lait
+30160mettre du                     mEt dy                        veux LUI mettre du lait
 30234autre côté                    ot ko-te                      de l' autre côté ,
 30262livre de                      liv d2                        regarde le livre de Mimi
 30278mettre dans                   mEt d@                        va LA mettre dans la
@@ -1543,7 +1551,7 @@
 30675autre côté                    ot ko-te                      de l' autre côté .
 30699ressemble plutôt              R°-s@b ply-to                 oh il ressemble plutôt à un
 30710être dans                     Et d@                         il doit être dans la cuisine
-30714mettre dans                   mEt d@                        veux *LE mettre dans le
+30714mettre dans                   mEt d@                        veux LE mettre dans le
 30718être froid                    Et fRwa                       il doit être froid si il
 30865mettre pour                   mEt puR                       il faut mettre pour le
 30884mettre d'                     mEt d                         veuilles en mettre d' autres
@@ -1560,7 +1568,7 @@
 31081triangle jaune                tRi-j@g Zon                   un petit triangle jaune .
 31107autre sens                    ot s@s                        dans l' autre sens ,
 31111être que                      Et k2                         ben peut être que tu LA
-31113être très                     Et tRE                        *il faut être très *
+31113être très                     Et tRE                        il faut être très *
 31122boucles d'                    buk d                         faire des boucles d' oreille
 31137boucles d'                    buk d                         a des boucles d' oreilles
 31138mettre là                     mEt la                        peux LES mettre là ,
@@ -1569,7 +1577,7 @@
 31142boucle d'                     buk d                         , la boucle d' oreille
 31153mettre des                    mEt de                        vais te mettre des jaunes
 31156autre sourcil                 ot suR-si                     était son autre sourcil ,
-31157mettre comme                  mEt kOm                       *LE LUI mettre comme celui
+31157mettre comme                  mEt kOm                       LE LUI mettre comme celui
 31173triangles jaunes              tRi-j@g Zon                   des petits triangles jaunes .
 31188être tout                     Et tut                        i(l)s vont être tout écrabouillés .
 31213rectangle vert                REk-t@g vER                   le petit rectangle vert là triangle
@@ -1599,14 +1607,14 @@
 32153Boucle d'                     buk d                         est juste Boucle d' or
 32156Boucle d'                     buk d                         est juste Boucle d' or
 32166rentre dans                   R@t d@                        ah elle rentre dans la maison
-32180mettre le                     mEt l2                        *tu *veux mettre le bleu ?
+32180mettre le                     mEt l2                        tu veux mettre le bleu ?
 32182Boucle d'                     buk d                         SE dit Boucle d' or
 32208Boucle d'                     buk d                         c(e) est Boucle d' or .
 32219boucle d'                     buk d                         boucle d' or aussi , elle
 32227Boucle d'                     buk d                         dors , Boucle d' or !
 32259boucle d'                     buk d                         faim , boucle d' or
 32280Boucle d'                     buk d                         maison de Boucle d' or
-32293mettre les                    mEt le                        , *de mettre les légos
+32293mettre les                    mEt le                        , de mettre les légos
 32300autre côté                    ot ko-te                      de l' autre côté aussi ,
 32303montre MOI                    m§t mwa                       montre MOI tous les rouges ,
 32316autre rouge                   ot RuZ                        encore un autre rouge .
@@ -1645,7 +1653,7 @@
 32752être quelqu'un                Et kEl-k1                     ça devait être quelqu'un petit
 32759autre coté                    ot ko-te                      de l' autre coté ,
 32772table Là                      tab la                        sur la table Là .
-32798rencontre pas                 R@-k§t pa                     il *ne rencontre pas des
+32798rencontre pas                 R@-k§t pa                     il ne rencontre pas des
 32799rencontre QUI                 R@-k§t ki                     et i(l) rencontre QUI ?
 32801rencontre des                 R@-k§t de                     il rencontre des gens ?
 32818feutre bleu                   f2t bl2                       avec le feutre bleu .
@@ -1653,14 +1661,14 @@
 32875table Là                      tab la                        et la table Là ?
 32929entre le                      @t l2                         c(e) est entre le rouge
 32946mettre les                    mEt le                        est pour mettre les tasses
-32951ouvre pas                     uv pa                         *ne s' ouvre pas .
+32951ouvre pas                     uv pa                         ne s' ouvre pas .
 32969double crayon                 dub kRE-j§                    , le double crayon .
 32982être déçue                    Et de-sy                      tu vas être déçue .
 32988être jouable                  Et Zwabl                      ça devrait être jouable encore .
 32991autre couleur                 ot ku-l9R                     d' une autre couleur ?
 33041être servi                    Et sER-vi                     monde va être servi .
 33067être tout                     Et tu                         ça va être tout rempli
-33118montre pas                    m§t pa                        *ne LA montre pas ,
+33118montre pas                    m§t pa                        ne LA montre pas ,
 33135mettre trop                   mEt tRo                       pas en mettre trop partout
 33135entre les                     @t le                         de place entre les cadeaux
 33136autre feuille                 ot f9j                        sur une autre feuille ?
@@ -1678,7 +1686,7 @@
 33496autre camion                  ot ka-mj§                     à l' autre camion .
 33534autre petite                  ot p°-tit                     a une autre petite fille
 33557entre les                     @t le                         LA mettre entre les deux
-33562entre les                     @t le                         * mettre entre les deux
+33562entre les                     @t le                         peux mettre entre les deux
 33577être des                      Et dez                        ça doit être des oeufs
 33600contre c(e)                   k§t s                         , par contre c(e) est
 33612être dans                     Et d@                         ils peuvent être dans l' herbe
@@ -1688,7 +1696,7 @@
 33827chambre là                    S@b la                        dans la chambre là haut
 33898autres cadeaux                ot ka-do                      eu d' autres cadeaux ?
 33900autres petits                 ot p°-tiz                     avait d' autres petits enfants
-33942semble pas                    s@b pa                        *ne ME semble pas ,
+33942semble pas                    s@b pa                        ne ME semble pas ,
 33950livre dans                    liv d@                        intérieur du livre dans l'
 33958autre chose                   ot Soz                        on met autre chose .
 33980autres souliers               ot su-lje                     les autres souliers , ils sont
@@ -1745,7 +1753,7 @@
 34693rentrent dans                 R@t d@                        quand ils rentrent dans leur
 34707Boucle d'                     buk d                         c(e) est Boucle d' or ,
 34732Boucle d'                     buk d                         version de Boucle d' or
-34742être qu'                      Et k                          ben peut être qu' elle *ne
+34742être qu'                      Et k                          ben peut être qu' elle ne
 34743être LUI                      Et l8i                        faut peut être LUI apprendre
 34744montre LUI                    m§t l8i                       montre LUI comment !
 34767boucle d'                     buk d                         nager , boucle d' or
@@ -1762,9 +1770,9 @@
 34859Boucle d'                     buk d                         bonjour , Boucle d' or
 34879mettre Boucle                 mEt bukl                      Qu' à mettre Boucle d'
 34879Boucle d'                     buk d                         à mettre Boucle d' or
-34880ouvre pas                     uv pa                         *ne s' ouvre pas .
+34880ouvre pas                     uv pa                         ne s' ouvre pas .
 34894être bien                     Et bj5                        ça va être bien * .
-34906rentre pas                    R@t pa                        elle *ne rentre pas ,
+34906rentre pas                    R@t pa                        elle ne rentre pas ,
 34906boucle d'                     buk d                         voiture , boucle d' or
 34912être sur                      Et syR                        on peut être sur le
 34913prendre des                   pR@d de                       pour prendre des photos .
@@ -1811,7 +1819,7 @@
 36565être content                  Et k§-t@                      il doit être content .
 36581permettre d'                  pER-mEt d                     va LUI permettre d' aller
 36591mettre ton                    mEt t§                        avant de mettre ton pyjama
-36674mettre les                    mEt le                        *il faut mettre les chaussures
+36674mettre les                    mEt le                        il faut mettre les chaussures
 36685être que                      Et k2                         puis peut être que jonas ,
 36763mettre bien                   mEt bj5                       faut pouvoir mettre bien sa
 36764mettre tout                   mEt tu                        faut pas mettre tout .
@@ -1916,7 +1924,7 @@
 39805être la                       Et la                         fera peut être la suite
 39864capable de                    ka-pab d2                     es pas capable de descendre
 39864descendre toute               de-s@d tut                    capable de descendre toute seule
-39944étrangles pas                 e-tR@g pa                     *ne m(e) étrangles pas au
+39944étrangles pas                 e-tR@g pa                     ne m(e) étrangles pas au
 39982mettre dans                   mEt d@                        je vais mettre dans ma
 40005être le                       Et l2                         je veux être le plus
 40026mettre les                    mEt le                        pour mettre les skis QU' est-ce
@@ -1934,7 +1942,7 @@
 40354quatre vingt                  kat v5                        quatre vingt seize .
 40355être qu'                      Et k                          peut être qu' ils vont en
 40440autre petite                  ot p°-tit                     l' autre petite ?
-40501répondre je                   Re-p§d Z2                     est pour répondre je *ne
+40501répondre je                   Re-p§d Z2                     est pour répondre je ne
 40526autres garçons                ot gaR-s§                     les autres garçons , comment ils
 40541être contente                 Et k§-t@t                     va pas être contente ,
 40566rentre dans                   R@t d@z                       elle rentre dans une grosse colère
@@ -2018,7 +2026,7 @@
 42756autre pièce                   ot pjEs                       dans une autre pièce .
 42790autre prénom                  ot pRe-n§                     un autre prénom si tu veux
 42821autre qui                     ot ki                         est l' autre qui va
-42872être qu'                      Et k                          peut être qu' il *ne LE
+42872être qu'                      Et k                          peut être qu' il ne LE
 42893autre côté                    ot ko-te                      de l' autre côté que
 42913mettre ma                     mEt ma                        je vais mettre ma robe
 42949montre LUI                    m§t l8i                       ben montre LUI !
