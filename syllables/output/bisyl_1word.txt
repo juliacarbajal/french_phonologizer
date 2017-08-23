@@ -1,4 +1,4 @@
-CV CV          p° ti          1209
+CV CV          p° ti          1210
 CV CV          ma m@          1145
 CV CV          ko m@          896
 CV CV          m@ Ze          740
@@ -10,7 +10,7 @@ CV CV          d° d@          485
 CV CV          ma Ri          484
 CV CV          t§ be          476
 CV CV          fi ni          378
-CV CV          la p5          363
+CV CV          la p5          364
 CV CV          du du          322
 CV CV          se tE          305
 CV CV          ko te          303
@@ -25,7 +25,7 @@ CV CV          gi li          225
 CV CV          bo ku          221
 CV CV          Zo li          216
 CV CV          R@ Ze          214
-CV CV          mE z§          201
+CV CV          mE z§          202
 CV CV          pu pe          201
 CV CV          pa se          200
 CV CV          d° bu          195
@@ -49,7 +49,7 @@ CV CV          si n§          117
 CV CV          mu t§          114
 CV CV          le se          114
 CV CV          pu s5          114
-CV CV          ko k5          107
+CV CV          ko k5          108
 CV CV          RE z§          105
 CV CV          ka l5          105
 CV CV          pi pi          101
@@ -123,7 +123,6 @@ CV CV          d° m5          41
 CV CV          m@ to          40
 CV CV          ko p5          39
 CV CV          be Ne          39
-CV CV          na le          39
 CV CV          te de          38
 CV CV          mi mi          38
 CV CV          mi nu          38
@@ -146,12 +145,12 @@ CV CV          Sa to          31
 CV CV          na vi          31
 CV CV          Zo si          30
 CV CV          ga te          29
-CV CV          za ve          29
 CV CV          mi ni          29
 CV CV          b§ b§          29
 CV CV          ba lE          29
 CV CV          n@ t@          29
 CV CV          ta si          28
+CV CV          za ve          28
 CV CV          fa si          28
 CV CV          Ra na          28
 CV CV          ko Ne          28
@@ -186,7 +185,6 @@ CV CV          mE tE          22
 CV CV          Si pi          22
 CV CV          mo vE          22
 CV CV          mi N§          22
-CV CV          R@ kO          22
 CV CV          ko l@          22
 CV CV          b§ Zu          22
 CV CV          bu Se          22
@@ -204,17 +202,16 @@ CV CV          ta Ri          20
 CV CV          ta ta          20
 CV CV          mi kE          20
 CV CV          sa l§          20
-CV CV          S° va          20
 CV CV          ki ki          20
 CV CV          ku l9          20
 CV CV          R° fE          20
 CV CV          bo nE          20
 CV CV          na mi          20
 CV CV          to Ra          19
-CV CV          ta RE          19
 CV CV          vi de          19
 CV CV          me S@          19
 CV CV          sa vE          19
+CV CV          S° va          19
 CV CV          S° m5          19
 CV CV          so si          19
 CV CV          ka na          19
@@ -246,12 +243,11 @@ CV CV          d° m@          17
 CV CV          my zi          16
 CV CV          fa lE          16
 CV CV          sa pE          16
-CV CV          lE sE          16
 CV CV          di Ra          16
 CV CV          pi Z§          16
 CV CV          v° ny          16
-CV CV          to ma          15
 CV CV          So fe          15
+CV CV          lE sE          15
 CV CV          l@ t@          15
 CV CV          Ro bo          15
 CV CV          la Se          15
@@ -263,6 +259,7 @@ CV CV          ba ba          15
 CV CV          no Ra          15
 CV CV          na Ze          15
 CV CV          ga Ne          14
+CV CV          to ma          14
 CV CV          f° Ra          14
 CV CV          Sa mo          14
 CV CV          lo Ra          14
@@ -273,12 +270,14 @@ CV CV          va zi          14
 CV CV          vu ly          14
 CV CV          t§ t§          14
 CV CV          ni Ra          14
+CV CV          na le          14
 CV CV          Ze tE          13
 CV CV          ma S5          13
 CV CV          ma Si          13
 CV CV          fa Se          13
 CV CV          sa li          13
 CV CV          sa my          13
+CV CV          R@ kO          13
 CV CV          pa RE          13
 CV CV          na v@          13
 CV CV          to RE          12
@@ -350,6 +349,7 @@ CV CV          bu le          9
 CV CV          bu kE          9
 CV CV          ga tO          8
 CV CV          k§ pO          8
+CV CV          ta RE          8
 CV CV          ta l§          8
 CV CV          ta my          8
 CV CV          zo to          8
@@ -361,7 +361,6 @@ CV CV          ma t@          8
 CV CV          ma l5          8
 CV CV          s@ se          8
 CV CV          lE go          8
-CV CV          Ra lO          8
 CV CV          Ra si          8
 CV CV          le t@          8
 CV CV          la na          8
@@ -385,6 +384,7 @@ CV CV          sa le          7
 CV CV          Ru lo          7
 CV CV          l@ lE          7
 CV CV          l@ Ze          7
+CV CV          Ra lO          7
 CV CV          Ra pO          7
 CV CV          le gy          7
 CV CV          le te          7
@@ -401,7 +401,6 @@ CV CV          l° kE          7
 CV CV          be bi          7
 CV CV          bu lo          7
 CV CV          ni na          7
-CV CV          na RE          7
 CV CV          na na          7
 CV CV          nu nu          7
 CV CV          gu Ru          6
@@ -429,9 +428,7 @@ CV CV          ly nE          6
 CV CV          R5 se          6
 CV CV          so ve          6
 CV CV          so Ra          6
-CV CV          ka vE          6
 CV CV          ka le          6
-CV CV          ko ki          6
 CV CV          se Re          6
 CV CV          g@ Za          6
 CV CV          da na          6
@@ -441,6 +438,7 @@ CV CV          bo te          6
 CV CV          n@ kO          6
 CV CV          no RE          6
 CV CV          na ve          6
+CV CV          na RE          6
 CV CV          ne t5          6
 CV CV          ne fE          6
 CV CV          t@ d@          5
@@ -474,6 +472,7 @@ CV CV          fe se          5
 CV CV          so fa          5
 CV CV          k@ k@          5
 CV CV          ko la          5
+CV CV          ko ki          5
 CV CV          ko si          5
 CV CV          d5 d§          5
 CV CV          do nE          5
@@ -562,7 +561,6 @@ CV CV          ty nE          3
 CV CV          m§ ta          3
 CV CV          k§ f§          3
 CV CV          te te          3
-CV CV          te ku          3
 CV CV          ta me          3
 CV CV          ta lo          3
 CV CV          s° g§          3
@@ -615,8 +613,8 @@ CV CV          R@ f@          3
 CV CV          fu ty          3
 CV CV          so RE          3
 CV CV          ka Ro          3
-CV CV          ka ba          3
 CV CV          ka v@          3
+CV CV          ka vE          3
 CV CV          ki lo          3
 CV CV          ko ze          3
 CV CV          se Ne          3
@@ -734,6 +732,7 @@ CV CV          so m§          2
 CV CV          so ta          2
 CV CV          so li          2
 CV CV          fE se          2
+CV CV          ka ba          2
 CV CV          ka di          2
 CV CV          ka bo          2
 CV CV          ka Su          2
@@ -751,7 +750,6 @@ CV CV          de pa          2
 CV CV          de sy          2
 CV CV          de li          2
 CV CV          de po          2
-CV CV          de ku          2
 CV CV          da v@          2
 CV CV          da vE          2
 CV CV          da li          2
@@ -826,6 +824,7 @@ CV CV          ti mi          1
 CV CV          te pE          1
 CV CV          te ni          1
 CV CV          te ta          1
+CV CV          te ku          1
 CV CV          te Sa          1
 CV CV          m° n@          1
 CV CV          m° ne          1
@@ -895,7 +894,6 @@ CV CV          ma RE          1
 CV CV          ma ga          1
 CV CV          ma ta          1
 CV CV          ma sy          1
-CV CV          ma ly          1
 CV CV          mo t9          1
 CV CV          mo nE          1
 CV CV          mi za          1
@@ -976,7 +974,6 @@ CV CV          le ni          1
 CV CV          le fE          1
 CV CV          le ku          1
 CV CV          la za          1
-CV CV          la RE          1
 CV CV          la si          1
 CV CV          la ti          1
 CV CV          la fy          1
@@ -1036,6 +1033,7 @@ CV CV          de gi          1
 CV CV          de ka          1
 CV CV          de pe          1
 CV CV          de f@          1
+CV CV          de ku          1
 CV CV          de SE          1
 CV CV          da mi          1
 CV CV          da l1          1
@@ -1082,7 +1080,6 @@ CV CV          tu S@          1
 CV CV          tu tu          1
 CV CV          tu s5          1
 CV CV          tu vE          1
-CV CV          v@ lE          1
 CV CV          v@ Ze          1
 CV CV          v@ kO          1
 CV CV          R° l@          1
@@ -1116,7 +1113,6 @@ CV CV          b@ b5          1
 CV CV          d° vi          1
 CV CV          d° v5          1
 CV CV          nO N§          1
-CV CV          n@ lE          1
 CV CV          n@ f5          1
 CV CV          n@ pE          1
 CV CV          n@ ti          1

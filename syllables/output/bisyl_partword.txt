@@ -139,7 +139,6 @@ CV CV          ko le          13        R°-ko-le, de-ko-le, bRi-ko-le
 CV CV          ny me          13        e-ny-me-Re, ny-me-Ro
 CV CV          ga z5          12        ma-ga-z5
 CV CV          ti Re          12        a-ti-Re, R°-ti-Re
-CV CV          ta t@          12        ta-t@-tiv-m@, ta-t@-sj§, ta-t@-dy, ta-t@-dE
 CV CV          gi ze          12        de-gi-ze
 CV CV          me ka          12        me-ka-ni, me-ka-nik, me-ka-no
 CV CV          ma ga          12        ma-ga-z5
@@ -155,7 +154,7 @@ CV CV          de gi          12        de-gi-ze
 CV CV          de ko          12        de-ko-gRa-fi, de-ko-Ra-sj§, de-ko-Re, de-ko-d9R, de-ko-le, de-ko-de, de-ko-Ra-ti
 CV CV          pe Re          12        Re-ky-pe-Re, Es-pe-Re, R°-pe-Re
 CV CV          va le          12        ka-va-le, de-va-le, a-va-le, Ra-va-le, la-va-le
-CV CV          vi d@          12        ze-vi-d@, vi-d@-Ze, Re-vi-d@, e-vi-d@, te-vi-d@
+CV CV          vi d@          12        ze-vi-d@, vi-d@-Ze, Re-vi-d@, e-vi-d@
 CV CV          R° ti          12        R°-ti-Ra, R°-ti-Re
 CV CV          ga li          11        ga-li-pEt
 CV CV          t@ d@          11        na-t@-d@
@@ -200,6 +199,7 @@ CV CV          ba le          10        z@-ba-le, t@-ba-le, @-ba-le, tR5-ba-le, 
 CV CV          na Ri          10        ka-na-Ri, na-Ri-vRE, na-Ri-vE, na-Ri-v@
 CV CV          k§ fi          9         k§-fi-tyR, k§-fi-gy-Ra-sj§
 CV CV          to R@          9         REs-to-R@
+CV CV          ta t@          9         ta-t@-tiv-m@, ta-t@-sj§, ta-t@-dy, ta-t@-dE
 CV CV          t2 Ri          9         ka-t2-Ri
 CV CV          f§ se          9         n@-f§-se, p@-f§-se, l@-f§-se, s@-f§-se, @-f§-se, R@-f§-se
 CV CV          Sa tu          9         Sa-tu-j2, Sa-tu-je
@@ -751,7 +751,6 @@ CV CV          ti So          1         naR-ti-So
 CV CV          ti ze          1         tRo-ma-ti-ze
 CV CV          ti ke          1         so-fis-ti-ke
 CV CV          te tu          1         te-tu-fe
-CV CV          te vi          1         te-vi-d@
 CV CV          te Ra          1         li-te-Ra-ty
 CV CV          te go          1         ka-te-go-Ri
 CV CV          te bu          1         te-bu-Ri-fe
