@@ -7,6 +7,7 @@
 29 attends attends                ; attends attends attends .
 47 fois il                        ouais des fois il s' amuse
 47 dedans à                      à parler dedans à ça
+48 bon allez                      bon allez !
 50 alors en                       alors en général c' est la
 51 fait un                        arrête en fait un truc
 52 non il                         général oh non il est
@@ -74,7 +75,7 @@
 451 biberon est                    le biberon est tombé par terre
 456 filmes encore                  tu filmes encore combien de temps
 463 dois avoir                     cappuccinoita je dois avoir du
-465 jouer avec                     de de jouer avec adrien
+465 jouer avec                     , de jouer avec adrien
 465 adrien ou                      jouer avec adrien ou ?
 469 es un                          , t' es un p(e)tit
 471 bon on                         bon on va arrêter l' enregistrement
@@ -192,6 +193,7 @@
 818 attends adrien                 attends adrien si tu veux jouer
 818 jouer avec                     tu veux jouer avec ça
 819 non on                         non non non on n'
+819 tout on                        enlève pas tout on va
 820 non adrien                     non adrien !
 821 tiens adrien                   tiens adrien !
 823 jouer avec                     va jouer avec ça adrien !
@@ -202,6 +204,7 @@
 850 propres au                     les pieds propres au moins
 851 ben il                         ben il s' en fout !
 852 est où                        doudou il est où ,
+858 intelligent elsa               c' est intelligent elsa .
 861 récupérer elsa               la , récupérer elsa !
 862 comment il                     mais comment il arrivera à la
 863 maman elle                     bon ben maman elle va jouer

@@ -24,7 +24,6 @@
 334  les yeux                      lez j2                        pas les yeux , le nez
 358  on enlève                     §n @-lEv                      on enlève la couche maintenant ?
 382  les aimants                   lez E-m@                      enlève pas les aimants ,
-389  les ai                        lez E                         je les ai , je les
 389  les ai                        lez E                         , je les ai accrochés
 389  les aimants                   lez E-m@                      tu prennes les aimants .
 426  son oreille                   s§n o-REj                     son oreille .
@@ -58,7 +57,6 @@
 822  vas y                         vaz i                         vas y pousse .
 828  bien installée                bj5n 5s-ta-le                 t' es bien installée ?
 878  est edouard                   et e-dwaR                     où il est edouard ?
-891  bon allez                     bOn a-le                      bon allez .
 896  tout à                        tut a                         tout à l' heure le jambon
 908  est édouard                   et e-dwaR                     où il est édouard ?
 910  est à                         et a                          il est à l' ecole ?
@@ -168,7 +166,6 @@
 2014 est un                        et 1                          , c' est un moulinet
 2025 en as                         @n a                          tu en as pas mangé depuis
 2029 est un                        et 1                          , c' est un téléphone
-2050 on on                         §n §                          , après on on .
 2057 vas y                         vaz i                         vas y , travaille .
 2067 allons y                      a-l§z i                       allons y .
 2076 des économies                 dez e-ko-no-mi                on fait des économies .
@@ -184,7 +181,6 @@
 2167 en attendant                  @n a-t@-d@                    ta chaussette en attendant !
 2168 est a                         et a                          , c' est a toi
 2179 est encore                    et @-kOR                      habiller c' est encore un
-2182 bon allez                     bOn a-le                      bon allez !
 2187 vas y                         vaz i                         bah vas y !
 2189 vas y                         vaz i                         oui , vas y mais
 2199 on en                         §n @                          on en voyait plein , plein
@@ -306,7 +302,6 @@
 3588 on enlève                     §n @-lEv                      on enlève le sac à dos
 3611 tout à                        tut a                         la prendre tout à l'
 3616 en a                          @n a                          il y en a un
-3639 on on                         §n §                          on on dit je n' ai
 3656 en as                         @n a                          tu en as un petit pied
 3664 on en                         §n @                          on en découvre tous les jours
 3672 quand il                      k@t il                        tu sais quand il y
@@ -336,8 +331,7 @@
 3827 quelques instants             kElkz 5s-t@                   partir dans quelques instants .
 3883 est un                        et 1                          c' est un long trajet ,
 3890 en a                          @n a                          il y en a un
-3911 vous avez                     vuz a-ve                      x , vous avez vous
-3911 vous avez                     vuz a-ve                      vous avez vous avez bien
+3911 vous avez                     vuz a-ve                      avez , vous avez bien
 3919 bonnes idées                  bOnz i-de                     toujours des bonnes idées ,
 3923 peut être                     p2t EtR                       ce serait peut être mieux
 3928 est on                        et §                          ça y est on a
@@ -378,7 +372,6 @@
 4345 les a                         lez a                         alors claire les a rangées
 4379 en ai                         @n E                          je t' en ai donné
 4382 en ai                         @n E                          je t' en ai donné dans
-4391 bon allez                     bOn a-le                      bon allez !
 4399 tout à                        tut a                         tu viendras tout à l' heure
 4404 quand elle                    k@t El                        quand elle sera décidée , tu
 4421 ton assiette                  t§n a-sjEt                    tu ranges ton assiette ?
@@ -414,9 +407,7 @@
 4724 on ira                        §n i-Ra                       midi quand on ira chercher
 4730 est une                       et yn                         c' est une mouche , oui
 4733 est une                       et yn                         c' est une mouche !
-4748 est est                       et e                          , mais est est pas
 4772 tout à                        tut a                         d' éponge tout à l'
-4777 bon allez                     bOn a-le                      bon allez !
 4790 nous allons                   nuz a-l§                      nous allons faire pousser dans le
 4798 quand il                      k@t il                        à édouard quand il était
 4800 en a                          @n a                          , y en a .
@@ -510,9 +501,7 @@
 5821 on a                          §n a                          heureusement qu' on a de la
 5830 quand on                      k@t §                         quand on pense que ce qu'
 5832 on a                          §n a                          pi qu' on a mis du
-5836 vas y                         vaz i                         vas y vas y vas y
-5836 vas y                         vaz i                         vas y vas y vas y
-5836 vas y                         vaz i                         vas y vas y !
+5836 vas y                         vaz i                         y , vas y !
 5841 peut être                     p2t EtR                       peut être maman va t' aider
 5868 en a                          @n a                          qu' elle en a pas
 5870 quand on                      k@t §                         tu vois quand on est une

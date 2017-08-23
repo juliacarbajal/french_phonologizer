@@ -100,7 +100,6 @@
 953  faut il                       fot il                        que faut il faire , maintenant
 964  un accident                   1n ak-si-d@                   est pas un accident .
 976  est assise                    et a-siz                      , elle est assise .
-977  est elle                      et El                         , elle est elle est
 982  est en                        et @                          daddy qui est en train
 987  on appelle                    §n a-pEl                      est-ce qu' on appelle l'
 988  est une                       et yn                         c(e) est une bêche .
@@ -125,15 +124,14 @@
 1127 les oiseaux                   lez wa-zo                     font , les oiseaux ?
 1132 un oiseau                     1n wa-zo                      un oiseau qui vole ?
 1135 des oiseaux                   dez wa-zo                     est plus des oiseaux ,
-1137 ils ont                       ilz §                         ils ont les les ailes ouvertes
-1137 les ailes                     lez El                        ont les les ailes ouvertes
+1137 ils ont                       ilz §                         ils ont les , les ailes
+1137 les ailes                     lez El                        les , les ailes ouvertes
 1167 ton avis                      t§n a-vi                      à ton avis , ce sont
 1171 quand il                      k@t il                        le film quand il sera
 1174 est elle                      et El                         où est elle , la marionnette
 1175 est elle                      et El                         , où est elle ,
 1179 ton anniversaire              t§n a-ni-vER-sER              marionnette pour ton anniversaire .
-1198 est il                        et il                         , il est il est
-1198 est au                        et o                          est il est au ciel
+1198 est au                        et o                          , il est au ciel
 1199 est un                        et 1                          c(e) est un petit ange .
 1199 petit ange                    p°-tit @Z                     est un petit ange .
 1201 ils auront                    ilz o-R§                      parce qu' ils auront beaucoup
@@ -495,7 +493,7 @@
 4776 en essayant                   @n e-se-j@                    en essayant de ne pas tomber
 4802 nous en                       nuz @                         ben tu nous en fais ,
 4830 est un                        et 1                          c(e) est un quoi ?
-4832 tes objets                    tez Ob-ZE                     avec tes tes objets là
+4832 tes objets                    tez Ob-ZE                     tes , tes objets là
 4835 les essuies                   lez E-s8i                     le sur les essuies ,
 4836 bien entendu                  bj5n @-t@-dy                  ah oui bien entendu .
 4837 les ingrédients               lez 5-gRe-dj@                 mettre tous les ingrédients .
@@ -1229,8 +1227,8 @@
 11746vas y                         vaz i                         vas y !
 11752peut être                     p2t EtR                       y a peut être pas
 11763allons y                      a-l§z i                       allons y !
-11773est une                       et yn                         c(e) est une &p c(e) est
-11773est un                        et 1                          &p c(e) est un petit
+11773est une                       et yn                         c(e) est une &p , c(e)
+11773est un                        et 1                          , c(e) est un petit
 11774est un                        et 1                          que c(e) est un chat
 11778est un                        et 1                          c(e) est un petit chat à
 11780peut être                     p2t EtR                       peut être que ça *ne marche
@@ -1302,11 +1300,11 @@
 12538les yeux                      lez j2                        il a les yeux bleus .
 12539deux yeux                     d2z j2                        dessiner les deux yeux de
 12541les yeux                      lez j2                        c(e) est les yeux à
-12559est encore                    et @-kOR                      c(e) est encore sur sur le
+12559est encore                    et @-kOR                      c(e) est encore sur , sur
 12574est encore                    et @-kOR                      c(e) est encore orange , hein
 12586vas y                         vaz i                         vas y !
 12592un autre                      1n otR                        va faire un autre dessin
-12600quand il                      k@t il                        quand quand il y a une
+12600quand il                      k@t il                        quand , quand il y a
 12602quand on                      k@t §                         quand on parle dedans , max
 12603quand on                      k@t §                         montrer tantôt quand on va
 12634est à                         et a                          là c(e) est à lui
@@ -1532,8 +1530,7 @@
 14996peut être                     p2t EtR                       c(e) est peut être un bout
 14998peut être                     p2t EtR                       c(e) est peut être du bonhomme
 15021un oeil                       1n 9j                         un oeil .
-15024un un                         1n 1                          y a un un oeil
-15024un oeil                       1n 9j                         a un un oeil .
+15024un oeil                       1n 9j                         un , un oeil .
 15043vous êtes                     vuz Et                        eh vous êtes vites , vous
 15053nous aider                    nuz e-de                      peut tu nous aider ?
 15073les autres                    lez otR                       finir avant les autres ,
@@ -1575,7 +1572,7 @@
 15242on a                          §n a                          on a déjà deux morceaux de
 15248est un                        et 1                          , c(e) est un petit
 15250est un                        et 1                          c(e) est un garçon ?
-15258est elle                      et El                         est c(e) est elle ,
+15258est elle                      et El                         , c(e) est elle ,
 15274on a                          §n a                          on a un morceau du petit
 15281est un                        et 1                          ah c(e) est un bout de
 15289peut être                     p2t EtR                       il faudrait peut être chercher pour
@@ -1620,8 +1617,6 @@
 15546aux autos                     oz o-to                       joue tu aux autos ?
 15548peut être                     p2t EtR                       peut être de l' autre côté
 15553aux autos                     oz o-to                       venir jouer aux autos avec
-15557aux aux                       oz o                          va jouer aux aux on
-15557aux on                        oz §                          jouer aux aux on va
 15557aux autos                     oz o-to                       va jouer aux autos .
 15571trois autos                   tRwaz o-to                    tu as trois autos ?
 15575les autos                     lez o-to                      les autos où est-ce qu' ils
@@ -1718,7 +1713,6 @@
 16432est elle                      et El                         c(e) est elle qui faisait meuh
 16458ses animaux                   sez a-ni-mo                   va amener ses animaux manger
 16460les animaux                   lez a-ni-mo                   peut mettre les animaux là
-16461les est-ce                    lez Es                        qu' on les est-ce qu'
 16466les animaux                   lez a-ni-mo                   là , les animaux ?
 16476on a                          §n a                          puis ah on a oublié
 16483les animaux                   lez a-ni-mo                   va entre les animaux ?
@@ -1736,7 +1730,6 @@
 16541est elle                      et El                         mais elle est elle est sortie
 16548dans en                       d@z @                         les mettre dans en dans
 16568ils ont                       ilz §                         ils ont sauté par dessus la
-16571on on                         §n §                          on on leur donne tu de
 16583grandes oreilles              gR@dz o-REj                   trop des grandes oreilles ,
 16585les autres                    lez otR                       et puis les autres animaux
 16585autres animaux                otRz a-ni-mo                  puis les autres animaux là
@@ -1781,14 +1774,13 @@
 16911est un                        et 1                          ah c(e) est un morceau comme
 16913est un                        et 1                          c(e) est un morceau de la
 16934en a                          @n a                          il y en a sur son
-16947ton autre                     t§n otR                       pi ton ton autre jambe
+16947ton autre                     t§n otR                       ton , ton autre jambe
 16950bon ok                        bOn o-ke                      bon ok .
 16953nous aider                    nuz e-de                      veux tu nous aider ?
 16954nous aider                    nuz e-de                      viens nous aider à placer le
 16968les attache                   lez a-taS                     on les attache .
 16974bonhommes aussi               bo-nOmz o-si                  des petits bonhommes aussi ?
 16985en a                          @n a                          il y en a d'
-16999en en                         @n @                          (on-va-faire-un-train) en en mettant des petits
 17001bonhommes aussi               bo-nOmz o-si                  des petits bonhommes aussi sur
 17005en arrière                    @n a-RjER                     le monsieur en arrière .
 17010en avant                      @n a-v@                       en avant .
@@ -1836,7 +1828,6 @@
 17194deux yeux                     d2z j2                        *y *a deux yeux là
 17195en a                          @n a                          il y en a beaucoup .
 17196on est-ce                     §n Es                         ça , on est-ce qu'
-17196on on                         §n §                          est-ce qu' on on met
 17199un autre                      1n otR                        un autre bloc .
 17203les autres                    lez otR                       bateaux ah les autres vont
 17205les amis                      lez a-mi                      toute embarquer les amis sur
@@ -1907,15 +1898,14 @@
 17779en a                          @n a                          max m' en a donné
 17779un aussi                      1n o-si                       a donné un aussi ,
 17786en a                          @n a                          catherine en a un , un
-17802est un                        et 1                          , c(e) est un c(e)
-17802est un                        et 1                          un c(e) est un passager
-17829peut on                       p2t §                         on peut on peut le l'
+17802est un                        et 1                          , c(e) est un ,
+17802est un                        et 1                          , c(e) est un passager
 17841en arrière                    @n a-RjER                     vous suivre en arrière ,
 17842en arrière                    @n a-RjER                     crocro suit en arrière .
 17859peut être                     p2t EtR                       bon peut être qu' on se
 17861en as                         @n a                          en as tu , toi ,
 17861petites autos                 p°-titz o-to                  , des petites autos ?
-17867peut être                     p2t EtR                       eh peut être , max max
+17867peut être                     p2t EtR                       eh peut être , max ,
 17867peut être                     p2t EtR                       max , peut être que
 17867peut être                     p2t EtR                       , mais peut être que
 17870en arrière                    @n a-RjER                     en arrière ici il y a
@@ -1926,13 +1916,11 @@
 17953nous aider                    nuz e-de                      crocro va nous aider ,
 17960quand on                      k@t §                         plus facile quand on fait
 17964les ici                       lez i-si                      mets les ici !
-17972on on                         §n §                          regarde , on on tourne toute
 17987peut être                     p2t EtR                       peut être que ça *ne va
 17988est un                        et 1                          il est un peu plus difficile
 17992les yeux                      lez j2                        c(e) est les yeux d'
 17998peut être                     p2t EtR                       ) est peut être pas
-18002est un                        et 1                          ah c(e) est un un morceau
-18002un un                         1n 1                          c(e) est un un morceau
+18002est un                        et 1                          ah c(e) est un , un
 18002son oeil                      s§n 9j                        morceau de son oeil .
 18016est un                        et 1                          , c(e) est un morceau
 18017peut être                     p2t EtR                       il va peut être de l'
@@ -1973,7 +1961,6 @@
 18241peut être                     p2t EtR                       peut être comme ça .
 18245petites autos                 p°-titz o-to                  prendre nos petites autos .
 18273est un                        et 1                          que c(e) est un sifflet
-18288des il                        dez il                        y a des il y
 18307est arrivé                    et a-Ri-ve                    est-ce qui est arrivé là
 18311un autre                      1n otR                        pour # un autre petit
 18317en attendant                  @n a-t@-d@                    au * en attendant ?
@@ -2026,7 +2013,6 @@
 18966en a                          @n a                          ) y en a plus
 18987est encore                    et @-kOR                      , il est encore tout
 18987tout endormi                  tut @-dOR-mi                  est encore tout endormi .
-18988un un                         1n 1                          tu faire un un chemin
 19008est un                        et 1                          c(e) est un train de .
 19031nous aides                    nuz Ed                        nous aides tu , toi ,
 19033nous aides                    nuz Ed                        nous aides tu ?
@@ -2036,8 +2022,8 @@
 19161on arrête                     §n a-REt                      on arrête le train .
 19166en avait                      @n a-vE                       il y en avait un
 19166un autre                      1n otR                        en avait un autre ,
-19196peut être                     p2t EtR                       peut être peut être , max
-19196peut être                     p2t EtR                       peut être peut être , max
+19196peut être                     p2t EtR                       peut être , peut être ,
+19196peut être                     p2t EtR                       être , peut être ,
 19199peut être                     p2t EtR                       peut être , max , que
 19203en a                          @n a                          il y en a plein ,
 19210est à                         et a                          c(e) est à ton tour ?
@@ -2059,7 +2045,7 @@
 19470bonhommes ici                 bo-nOmz i-si                  avec tes bonhommes ici .
 19479les autos                     lez o-to                      ah les autos .
 19480autres autos                  otRz o-to                     vois d' autres autos ?
-19489est un                        et 1                          est c(e) est un camion
+19489est un                        et 1                          , c(e) est un camion
 19492aux autos                     oz o-to                       veux jouer aux autos ?
 19496est ici                       et i-si                       , il est ici .
 19507mon auto                      m§n o-to                      aussi , mon auto est
@@ -2181,7 +2167,6 @@
 20289bons yeux                     b§z j2                        as des bons yeux ,
 20306est ici                       et i-si                       petite fille est ici .
 20319peut être                     p2t EtR                       c(e) est peut être ça ,
-20320en en                         @n @                          et puis en en haut il
 20320un arbre                      1n aRbR                       y a un arbre avec
 20320des oiseaux                   dez wa-zo                     arbre avec des oiseaux dedans
 20323un arbre                      1n aRbR                       y a un arbre avec
@@ -2206,7 +2191,6 @@
 20580les yeux                      lez j2                        je ferme les yeux ,
 20581les yeux                      lez j2                        je ferme les yeux .
 20586les yeux                      lez j2                        qui fermes les yeux .
-20623un un                         1n 1                          je fasse un un beau
 20636en a                          @n a                          il en a plus , de
 20671en a                          @n a                          ) y en a plus
 20681un autre                      1n otR                        un autre chocolat ?
@@ -2216,7 +2200,6 @@
 20723des animaux                   dez a-ni-mo                   y a des animaux là
 20724les animaux                   lez a-ni-mo                   tu , les animaux ,
 20724les autres                    lez otR                       aller avec les autres ?
-20749on on                         §n §                          on on marche ensemble .
 20756en a                          @n a                          il y en a , de
 20758un autre                      1n otR                        un autre .
 20760autres animaux                otRz a-ni-mo                  a d' autres animaux dans
@@ -2228,7 +2211,7 @@
 20804est un                        et 1                          c(e) est un tour de magie
 20808est ici                       et i-si                       que c(e) est ici qu'
 20821autres animaux                otRz a-ni-mo                  a d' autres animaux là
-20823son ami                       s§n a-mi                      à à son ami le
+20823son ami                       s§n a-mi                      , à son ami le
 20831est un                        et 1                          c(e) est un tour de magie
 20834autres animaux                otRz a-ni-mo                  a d' autres animaux là
 20844les animaux                   lez a-ni-mo                   va embarquer les animaux .
@@ -2297,9 +2280,7 @@
 21266les éléphants                 lez e-le-f@                   les éléphants là , ils ont
 21266ils ont                       ilz §                         là , ils ont peur
 21267ils ont                       ilz §                         ils ont peur de ça .
-21276un un                         1n 1                          elle a un un parasol
 21280des abeilles                  dez a-bEj                     des abeilles .
-21286on on                         §n §                          ben on on fait tu ce
 21289est une                       et yn                         , c(e) est une petite
 21311en a                          @n a                          il y en a plein .
 21315est un                        et 1                          c(e) est un chat ?
@@ -2344,7 +2325,6 @@
 21616autres affaires               otRz a-fER                    d' autres affaires comme ça là
 21620on en                         §n @                          , ben on en met
 21621on essaye                     §n e-sEj                      on essaye tu de tourner les
-21641en en                         @n @                          peut ti en en mettre
 21641un autre                      1n otR                        en mettre un autre là
 21646en a                          @n a                          il y en a une autre
 21650en ai                         @n E                          j(e) en ai trouvé un autre
@@ -2412,8 +2392,7 @@
 22505est un                        et 1                          c(e) est un singe singe singe
 22518ses amis                      sez a-mi                      c(e) est ses amis à lui
 22551en a                          @n a                          ) y en a pas
-22553un un                         1n 1                          fait comme un un s
-22553un s                          1n Es                         comme un un s ,
+22553un s                          1n Es                         un , un s ,
 22556en a                          @n a                          il y en a deux
 22572les yeux                      lez j2                        je ferme les yeux .
 22584est à                         et a                          c(e) est à toi ?
@@ -2447,8 +2426,8 @@
 22763quand on                      k@t §                         ah quand on a le rhume
 22763on a                          §n a                          ah quand on a le rhume
 22799en a                          @n a                          il y en a ,
-22811dans un                       d@z 1                         est tu dans un dans
-22811dans un                       d@z 1                         dans un dans un film
+22811dans un                       d@z 1                         est tu dans un ,
+22811dans un                       d@z 1                         un , dans un film
 22828en a                          @n a                          il en a encore .
 22829en a                          @n a                          il y en a .
 22831en a                          @n a                          il en a une , deux
@@ -2525,8 +2504,7 @@
 23545les autres                    lez otR                       ah ben les autres ils *
 23545autres ils                    otRz il                       ben les autres ils *
 23566quand il                      k@t il                        pol , quand il va
-23587est un                        et 1                          c(e) est un un dessin .
-23587un un                         1n 1                          c(e) est un un dessin .
+23587est un                        et 1                          c(e) est un , un dessin
 23591en arrière                    @n a-RjER                     tu colles en arrière .
 23595est à                         et a                          , c(e) est à pol
 23597peut être                     p2t EtR                       peut être que ouais tu l'
@@ -2561,7 +2539,7 @@
 23797est une                       et yn                         c(e) est une vache ?
 23814est une                       et yn                         c(e) est une petite souris .
 23905ton école                     t§n e-kOl                     formes à ton école que
-23908des étoiles                   dez e-twal                    , des des étoiles ,
+23908des étoiles                   dez e-twal                    des , des étoiles ,
 23909ton école                     t§n e-kOl                     ça à ton école ?
 23910des ovales                    dez o-val                     rectangles pi des ovales pi
 23911on avait                      §n a-vE                       et puis on avait remarqué
@@ -2570,7 +2548,6 @@
 23914un oeuf                       1n 9f                         un oeuf là .
 23917est un                        et 1                          , c(e) est un ovale
 23917un ovale                      1n o-val                      c(e) est un ovale .
-23928peut il                       p2t il                        non il peut il peut enlever
 23938un autre                      1n otR                        un autre numéro peut être .
 23938peut être                     p2t EtR                       autre numéro peut être .
 23944vas y                         vaz i                         vas y , max .
@@ -2585,7 +2562,6 @@
 24029un autre                      1n otR                        un autre truc comme ?
 24037est assis                     et a-si                       qu' il est assis .
 24038est assis                     et a-si                       il est assis comme ça .
-24043des il                        dez il                        il a des il a des
 24065en a                          @n a                          il y en a d' autres
 24065autres en                     otRz @                        a d' autres en arrière
 24065en arrière                    @n a-RjER                     d' autres en arrière .
@@ -2608,7 +2584,6 @@
 24234peut être                     p2t EtR                       dormant , peut être .
 24246est ici                       et i-si                       , il est ici .
 24302on en                         §n @                          on en fait tu un qui
-24303un un                         1n 1                          un un qui est correct ?
 24307en a                          @n a                          il y en a une ici
 24313un autre                      1n otR                        veux faire un autre monsieur
 24318un autre                      1n otR                        en faire un autre ?
@@ -2704,14 +2679,12 @@
 25420des ailes                     dez El                        ça fait des ailes .
 25421des ailes                     dez El                        comme des ailes .
 25426en as                         @n a                          combien t(u) en as ?
-25439on on                         §n §                          pi on on va faire euh
 25490les écrase                    lez e-kRaz                    ça les écrase .
 25519est arrivé                    et a-Ri-ve                    il m' est arrivé quelque chose
 25523est arrivé                    et a-Ri-ve                    ça m' est arrivé quand je
 25590est arrivé                    et a-Ri-ve                    est-ce qui est arrivé avec
-25604voulait il                    vu-lEt il                     , il voulait il voulait
 25610en avant                      @n a-v@                       en avant du cheval ?
-25620quand ils                     k@t il                        chats quand quand ils sont
+25620quand ils                     k@t il                        quand , quand ils sont
 25620quand on                      k@t §                         contents # quand on les
 25671les oreilles                  lez o-REj                     de manger les oreilles des
 25681est un                        et 1                          c(e) est un policier ?
@@ -2752,8 +2725,8 @@
 25999dans une                      d@z yn                        , aller dans une montgolfière
 26004petits oiseaux                p°-tiz wa-zo                  bonjour aux petits oiseaux .
 26013on appelle                    §n a-pEl                      tu comment on appelle ça
-26032quand ils                     k@t il                        quand ils quand ils voient de
-26032quand ils                     k@t il                        quand ils quand ils voient de
+26032quand ils                     k@t il                        quand ils , quand ils voient
+26032quand ils                     k@t il                        ils , quand ils voient
 26039vert ici                      vERt i-si                     pi le vert ici , c(e)
 26042en a                          @n a                          y a en a ,
 26047peut être                     p2t EtR                       soleil , peut être .
@@ -2818,8 +2791,7 @@
 26362deux ici                      d2z i-si                      en a deux ici .
 26363en a                          @n a                          il y en a une jaune
 26370en a                          @n a                          il y en a un
-26370un un                         1n 1                          en a un un ici
-26370un ici                        1n i-si                       a un un ici mais
+26370un ici                        1n i-si                       un , un ici mais
 26371peut être                     p2t EtR                       il va peut être tomber
 26384un ascenseur                  1n a-s@-s9R                   est comme un ascenseur .
 26389mon auto                      m§n o-to                      oh non mon auto est tombée
@@ -2946,7 +2918,6 @@
 28004on entend                     §n @-t@                       qui a on entend loulou
 28011est immobile                  et i-mo-bil                   le crocodile est immobile .
 28015est un                        et 1                          c(e) est un croco lion ?
-28017un un                         1n 1                          ou un un croco zèbre ?
 28021bien un                       bj5n 1                        c(e) est bien un croco gorille
 28024est à                         et a                          c(e) est à toi , oui
 28033un oeuf                       1n 9f                         céréales , un oeuf ,
@@ -2957,7 +2928,6 @@
 28073un oiseau                     1n wa-zo                      un oiseau ?
 28074un éléphant                   1n e-le-f@                    un éléphant ?
 28075un éléphant                   1n e-le-f@                    un éléphant .
-28083un un                         1n 1                          un un lion .
 28091un éléphant                   1n e-le-f@                    y a un éléphant ?
 28092un éléphant                   1n e-le-f@                    y a un éléphant ,
 28101un hippopotame                1n i-po-po-tam                un hippopotame .
@@ -3021,7 +2991,7 @@
 28431des animaux                   dez a-ni-mo                   est pas des animaux .
 28442est assis                     et a-si                       i(l) est assis .
 28443est assis                     et a-si                       il est assis dans le petit
-28449les oies                      lez wa                        est les les oies ?
+28449les oies                      lez wa                        les , les oies ?
 28452les amener                    lez am-ne                     on va les amener en
 28459en attendant                  @n a-t@-d@                    la maison en attendant .
 28460tout à                        tut a                         les chercher tout à l'
@@ -3140,7 +3110,7 @@
 29666un autre                      1n otR                        en fait un autre .
 29684un espadon                    1n Es-pa-d§                   un espadon .
 29705un hippopotame                1n i-po-po-tam                *y *a un hippopotame ici
-29709est une                       et yn                         c(e) c(e) est une * nouvelle
+29709est une                       et yn                         , c(e) est une *
 29744en a                          @n a                          il y en a eu sur
 29763vas y                         vaz i                         vas y , vas y !
 29763vas y                         vaz i                         y , vas y !
@@ -3159,7 +3129,6 @@
 29875est à                         et a                          il est à mamy lou .
 29876est à                         et a                          , il est à qui
 29879les ai                        lez E                         , je les ai ,
-29883bon allez                     bOn a-le                      bon allez , moi , je
 29887est aussi                     et o-si                       c(e) est aussi le cousin d'
 29900on a                          §n a                          on a un endroit pour faire
 29900un endroit                    1n @-dRwa                     on a un endroit pour faire
@@ -3213,7 +3182,6 @@
 30426est un                        et 1                          c(e) est un monsieur .
 30435plus actuel                   plyz ak-t8El                  c(e) est plus actuel que le
 30439vas y                         vaz i                         vas y !
-30446elles elles                   Elz El                        elles elles sont où , les
 30462des oreilles                  dez o-REj                     des oreilles .
 30463des oreilles                  dez o-REj                     des oreilles pointues .
 30470des éléphants                 dez e-le-f@                   rats , des éléphants .
@@ -3244,7 +3212,7 @@
 30625tout à                        tut a                         au frigo tout à l'
 30662les ai                        lez E                         je *ne les ai pas mélangés
 30668vas y                         vaz i                         vas y !
-30672des ours                      dez uRs                       faire des des ours .
+30672des ours                      dez uRs                       des , des ours .
 30685est un                        et 1                          c(e) est un petit ours ?
 30685petit ours                    p°-tit uRs                    est un petit ours ?
 30687petit ours                    p°-tit uRs                    , le petit ours ?
@@ -3468,7 +3436,6 @@
 32316un autre                      1n otR                        ah encore un autre rouge .
 32319verts encore                  vERz @-kOR                    a des verts encore ?
 32324est occupée                   et o-ky-pe                    ouh elle est occupée là .
-32329bon allez                     bOn a-le                      bon allez , au travail !
 32350trop occupée                  tRop o-ky-pe                  t(u) es trop occupée là
 32353ils ont                       ilz §                         est-ce qu' ils ont envie
 32353ont envie                     §t @-vi                       qu' ils ont envie de
@@ -3504,7 +3471,6 @@
 32743est après                     et a-pRE                      ben c(e) est après .
 32745est après                     et a-pRE                      , c(e) est après .
 32746on a                          §n a                          ce qu' on a vu
-32748on on                         §n §                          on on l' a fait des
 32749on a                          §n a                          crois qu' on a fait
 32754quand il                      k@t il                        laurent quand il était petit #
 32757est une                       et yn                         , c(e) est une jolie
@@ -4148,7 +4114,6 @@
 37551vas y                         vaz i                         vas y !
 37552les assiettes                 lez a-sjEt                    servir dans les assiettes alors
 37562est occupée                   et o-ky-pe                    elle est occupée .
-37566dans il                       d@z il                        a dit dans il m'
 37627ils ont                       ilz §                         ils ont les mêmes têtes ?
 37629ils ont                       ilz §                         ils ont tous des têtes différentes
 37647tout à                        tut a                         as dit tout à l'
@@ -4503,7 +4468,6 @@
 40468on a                          §n a                          , qu' on a amené
 40478on a                          §n a                          on a amené les playmobils ou
 40480on aille                      §n aj                         veux qu' on aille chercher
-40483bon allez                     bOn a-le                      bon allez , avec aurélia ,
 40483on a                          §n a                          ce qu' on a fait
 40484on a                          §n a                          est-ce qu' on a fait
 40487on a                          §n a                          est-ce qu' on a ?
@@ -4558,7 +4522,7 @@
 40767on a                          §n a                          ça qu' on a dansé
 40768on a                          §n a                          non , on a dansé la
 40769est une                       et yn                         , c(e) est une danse
-40769est une                       et yn                         danse c(e) est une danse
+40769est une                       et yn                         , c(e) est une danse
 40772on a                          §n a                          mais là on a dansé
 40787en a                          @n a                          ) y en a pas
 40793est un                        et 1                          , c(e) est un schtroumpf
@@ -4620,7 +4584,6 @@
 41159est un                        et 1                          c(e) est un quoi ?
 41161est un                        et 1                          c(e) est un tourniquet .
 41172en a                          @n a                          il y en a quatre .
-41180bon allez                     bOn a-le                      bon allez , maintenant qu' est-ce
 41185vas y                         vaz i                         vas y !
 41189en a                          @n a                          , elle en a appris
 41200en a                          @n a                          ah elle en a appris plein
@@ -4714,8 +4677,6 @@
 41643les enfants                   lez @-f@                      les enfants !
 41644vous êtes                     vuz Et                        est-ce que vous êtes cachés
 41674était une                     e-tEt yn                      ben c(e) était une belle
-41676on on                         §n §                          parce qu' on on on
-41676on on                         §n §                          qu' on on on peut
 41676les autres                    lez otR                       qui cherche les autres .
 41677tout à                        tut a                         en premier tout à l'
 41683est elle                      et El                         , c(e) est elle qui
@@ -4737,13 +4698,12 @@
 41808est un                        et 1                          , c(e) est un cuisinier
 41813est une                       et yn                         c(e) est une dame .
 41832ils ont                       ilz §                         oh ils ont de la chance
-41834peut on                       p2t §                         on peut on peut faire descendre
 41843est elle                      et El                         c(e) est elle qui arrive la
 41844ils arrivent                  ilz a-Riv                     faut qu' ils arrivent le
 41850en attendant                  @n a-t@-d@                    la marelle en attendant mes
 41863est un                        et 1                          c(e) est un jeu de fille
 41874ils arrivent                  ilz a-Riv                     donc , ils arrivent pas
-41889nous au                       nuz o                         jouer avec nous au au
+41889nous au                       nuz o                         jouer avec nous au ,
 41899est une                       et yn                         c(e) est une fille .
 41900est arrivée                   et a-Ri-ve                    et elle est arrivée en retard
 41905en a                          @n a                          (n' ) en a pas
@@ -4832,7 +4792,7 @@
 42692petits enfants                p°-tiz @-f@                   est les petits enfants qui
 42695mon avis                      m§n a-vi                      à mon avis c(e) est la
 42698est un                        et 1                          , c(e) est un peu
-42698est un                        et 1                          peu c(e) est un peu
+42698est un                        et 1                          , c(e) est un peu
 42702est un                        et 1                          , c(e) est un radiateur
 42711tout en                       tut @                         il est tout en train
 42721peut être                     p2t EtR                       sa soeur peut être .

@@ -50,7 +50,7 @@
 387 non il                         non il est là édouard .
 398 avait apportées               que christine avait apportées à
 398 apportées à                  christine avait apportées à ton
-409 dis au                         tu dis au revoir au revoir
+409 dis au                         tu dis au , revoir ,
 412 faisais euh                    tu faisais euh non hier matin
 412 non hier                       faisais euh non hier matin
 417 calin hein                     faire le calin hein ?
@@ -89,6 +89,7 @@
 839 manges encore                  tu manges encore , tu fais
 866 rien à                        tu dis rien à edouard ?
 885 allez on                       allez on met le duvet .
+891 bon allez                      bon allez .
 892 edouard au                     au revoir edouard au revoir .
 904 vas aller                      tu vas aller faire la sieste
 907 sont où                       , ils sont où nos
@@ -217,7 +218,7 @@
 2015 marches en                     sur les marches en vacances
 2043 avais un                       j' avais un travail pour toi
 2047 pas y                          tu vas pas y arriver
-2050 après on                      refais , après on on
+2050 après on                      refais , après on ,
 2086 mais oui                       mais oui , frotte !
 2096 montrer à                     tu veux montrer à sylvie comme
 2099 bien hein                      c' est bien hein ?
@@ -227,6 +228,7 @@
 2165 pas a                          t' arrives pas a mettre la
 2173 pas assez                      il fait pas assez chaud pour
 2173 rester en                      chaud pour rester en chau
+2182 bon allez                      bon allez !
 2189 fais attention                 y mais fais attention que
 2218 veut en                        quand elle veut en mettre un
 2222 conversation avec              fait la conversation avec l'
@@ -325,7 +327,6 @@
 3001 fait avec                      , elle fait avec claire
 3003 fait une                       on avait fait une fois
 3007 fait une                       mais ça fait une tour
-3011 non ah                         ah non ah non !
 3012 pas hein                       ça va pas hein !
 3015 vois il                        tu vois il en manque un
 3052 comment ils                    comment ils vont tes bébés ?
@@ -428,7 +429,6 @@
 3818 sommes arrivés                nous sommes arrivés à rouen !
 3818 arrivés à                    nous sommes arrivés à rouen !
 3820 veuillez emprunter             veuillez emprunter les passerelles s' il
-3826 attention attention            attention attention !
 3827 train à                       le train à destination de paris
 3834 maman x                        alors maman x elle va descendre
 3835 maman x                        maman x , elle descend à
@@ -456,7 +456,7 @@
 4022 piques avec                    tu piques avec la fourchette ?
 4026 pas au                         c' est pas au point quand
 4027 piquer avec                    essaie de piquer avec la fourchette
-4032 coupes avec                    pi tu coupes avec l' autre
+4032 coupes avec                    pi tu coupes avec l' ,
 4065 mains ou                       avec tes mains ou avec
 4072 rien entendu                   n' a rien entendu avec
 4077 vas en                         tu vas en manger ?
@@ -476,7 +476,6 @@
 4200 fais un                        tu lui fais un petit baiser
 4203 as enlevé                     tu l' as enlevé .
 4215 viens enlever                  viens enlever ton tee shirt !
-4231 attends attends                attends attends !
 4244 non un                         non un !
 4299 non il                         ah non il est pas sale
 4306 préparer à                   va aller préparer à manger
@@ -487,6 +486,7 @@
 4367 es un                          t' es un peu drolette !
 4375 mettes ailleurs                tu le mettes ailleurs ,
 4384 après on                      , pi après on va
+4391 bon allez                      bon allez !
 4393 préparer à                   va aller préparer à manger
 4397 préparer à                   je vais préparer à manger ,
 4407 pas être                      ça va pas être long
@@ -513,11 +513,12 @@
 4717 en haut                        garde les en haut !
 4724 grands à                      chercher les grands à l'
 4743 est euh                        claire elle est euh .
-4748 mais est                       fenêtre , mais est est
+4748 mais est                       fenêtre , mais est ,
 4749 étais allée                  quand tu étais allée à
 4750 allait à                      elle allait à la bibliothèque ?
 4767 parles à                      tu parles à nounours ?
 4772 passerais un                   je passerais un coup d' éponge
+4777 bon allez                      bon allez !
 4781 met où                        on se met où ?
 4794 doigt euh                      mettais ton doigt euh .
 4798 était à                      , c' était à édouard
@@ -660,7 +661,7 @@
 5898 avait été                    et nounours avait été mouillé .
 5912 pas attraper                   tu peux pas attraper ?
 5922 enlèves une                   t' en enlèves une , t'
-5943 mais elle                      aussi , mais elle est
+5943 mais elle                      aussi , mais elle ,
 5945 fais attention                 fais attention , tu vas casser
 5945 casser ou                      tu vas casser ou bien
 5949 épingles à                   avec les épingles à linge
@@ -938,8 +939,6 @@
 7885 goûter à                     bien de goûter à tout
 7893 veux un                        tu veux un bout de pain
 7904 mais attends                   mais attends , faut laver les
-7905 attends attends                attends attends attends !
-7905 attends attends                attends attends attends !
 7916 mais on                        mais on lave pas les cheveux
 7923 dos un                         sac à dos un petit
 7927 dos un                         sac à dos un petit
@@ -951,7 +950,6 @@
 7970 sert à                        eau ça sert à rien
 7971 presser en                     faut le presser en dehors
 7973 mets à                        tu le mets à ta main
-7987 mets euh                       mets tu mets euh tu
 8017 frotter ou                     finisse de frotter ou pas
 8031 habilles ou                    tu t' habilles ou je t'
 8032 habilles ou                    tu t' habilles ou je

@@ -5,7 +5,7 @@
 34   petit éléphant                p°-tit e-le-f@                est un petit éléphant .
 35   est un                        et 1                          aussi c' est un petit
 35   petit éléphant                p°-tit e-le-f@                est un petit éléphant ,
-35   dans une                      d@z yn                        est dans dans une voiture
+35   dans une                      d@z yn                        dans , dans une voiture
 42   les attraper                  lez a-tRa-pe                  pas à les attraper ?
 50   on a                          §n a                          , mais on a besoin
 66   est une                       et yn                         c' est une dame .
@@ -29,7 +29,6 @@
 297  ton album                     t§n al-bOm                    mettra dans ton album .
 307  ton album                     t§n al-bOm                    mettrai dans ton album .
 316  est à                         et a                          elle est à la cuisine .
-318  est il                        et il                         , il est il est
 325  on ouvre                      §n uvR                        veux qu' on ouvre le
 327  est encore                    et @-kOR                      ça c' est encore un
 332  on est                        §n e                          fois qu' on est couché
@@ -195,7 +194,6 @@
 2695 est un                        et 1                          , elle est un peu
 2739 est un                        et 1                          c' est un pull .
 2740 est un                        et 1                          aussi c' est un pull
-2745 est il                        et il                         mais il est il était
 2760 est en                        et @                          elle est en train de se
 2763 est encore                    et @-kOR                      non elle est encore en train
 2765 les ongles                    lez §gl                       se coupe les ongles ?
@@ -236,10 +234,9 @@
 3197 on allume                     §n a-lym                      on allume le soir quand il
 3197 quand il                      k@t il                        le soir quand il fait
 3209 en as                         @n a                          aussi t(u) en as pour
-3211 les il                        lez il                        , il les il les
-3211 les utilisent                 lez y-ti-liz                  les il les utilisent pour
+3211 les utilisent                 lez y-ti-liz                  , il les utilisent pour
 3229 est une                       et yn                         c' est une boulangerie .
-3271 ton autre                     t§n otR                       remets ton ton autre pied là
+3271 ton autre                     t§n otR                       ton , ton autre pied
 3327 en a                          @n a                          y en a là .
 3330 grands ici                    gR@z i-si                     est des grands ici .
 3331 en a                          @n a                          et y en a sur ton
@@ -471,7 +468,6 @@
 6040 est un                        et 1                          c' est un poil dessus là
 6057 est un                        et 1                          c' est un putois , c'
 6057 est un                        et 1                          , c' est un putois
-6070 en il                         @n il                         il en il en reste deux
 6070 deux encore                   d2z @-kOR                     en reste deux encore hm
 6113 quand elle                    k@t El                        quand elle se lave les mains
 6114 sales ici                     salz i-si                     mains toutes sales ici .
