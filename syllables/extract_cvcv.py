@@ -83,32 +83,40 @@ def print_output(syllable_pair, file, context=[]):
 # SCRIPT:
 f = open('syllables/output/disyllables.txt', 'w')
 fcvcv = open('syllables/output/cvcv.txt', 'w')
+fsyl = open('syllables/output/syllable_count.txt', 'w')
 
-# First: retrieve all disyllables
-syllabic_dict = {}
+# First: retrieve all syllables and disyllables
+disyllable_dict = {}
+syllable_dict = {}
 for line in corpus:
-	line = line.replace('-',' ')
-	line = line.split()
-	text = line[4:]
+	line = line.split('.cha') # Separate corpus title
+	line[1] = line[1].replace('-',' ') # Replace syllable separators with spaces
+	text = line[1].split()[3:] # Text begins after 3 age digits
 	for i, syllable in enumerate(text[:-1]):
-		if (syllable not in syllabic_dict):
-			syllabic_dict[syllable] = [text[i+1]]
+		if (syllable not in disyllable_dict):
+			syllable_dict[syllable]   = 1 # Add syllable to dictionary of all syllables
+			disyllable_dict[syllable] = [text[i+1]] # Add current and next syllable to dictionary of disyllables
 		else:
-			syllabic_dict[syllable] = syllabic_dict[syllable] + [text[i+1]]
+			syllable_dict[syllable]  += 1 # Add +1 to the count of observations of current syllable
+			disyllable_dict[syllable] = disyllable_dict[syllable] + [text[i+1]] # Add next syllable to the dictionary of disyllables
 
 # Second: extract syllabic structure and count syllable pairs
-all_syll_count = count_syllables(syllabic_dict)
+all_disyll_count = count_syllables(disyllable_dict)
 
 # Third: Order by frequency of occurrence and print:
-for syll_pair in sorted(all_syll_count, key=lambda x: x[2], reverse = True):
+for syll_pair in sorted(all_disyll_count, key=lambda x: x[2], reverse = True):
 	print_output(syll_pair, f)
 	S1_structure = syll_pair[3]
 	S2_structure = syll_pair[4]
 	if (S1_structure=='CV') and (S2_structure=='CV'):
 		print_output(syll_pair, fcvcv)
+
+for syll, count in sorted(syllable_dict.iteritems(), key=lambda (k,v): (v,k), reverse = True):
+	print >> fsyl, syllabic_structure(syll).ljust(5) + syll.ljust(6) + str(count)
 		
 f.close()
 fcvcv.close()
+fsyl.close()
 
 
 
