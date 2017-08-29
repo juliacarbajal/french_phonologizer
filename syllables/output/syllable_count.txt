@@ -1,8 +1,6 @@
 CV   la    24511
 V    a     22061
-O    ,     17364
 CV   ty    16452
-O    #     16294
 CV   se    15867
 CV   sa    12861
 CV   le    12765
@@ -1178,7 +1176,6 @@ CVC  Z@R   11
 CVC  R§d  11
 CVC  Rib   11
 VC   @R    11
-O    ;     11
 CVC  zOb   10
 CVC  viv   10
 CVCC vEst  10

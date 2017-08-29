@@ -104,6 +104,12 @@ for line in corpus:
 all_disyll_count = count_syllables(disyllable_dict)
 
 # Third: Order by frequency of occurrence and print:
+# Syllables:
+for syll, count in sorted(syllable_dict.iteritems(), key=lambda (k,v): (v,k), reverse = True):
+	if (syllabic_structure(syll) != 'O'):
+		print >> fsyl, syllabic_structure(syll).ljust(5) + syll.ljust(6) + str(count)
+	
+# Disyllables:
 for syll_pair in sorted(all_disyll_count, key=lambda x: x[2], reverse = True):
 	print_output(syll_pair, f)
 	S1_structure = syll_pair[3]
@@ -111,8 +117,6 @@ for syll_pair in sorted(all_disyll_count, key=lambda x: x[2], reverse = True):
 	if (S1_structure=='CV') and (S2_structure=='CV'):
 		print_output(syll_pair, fcvcv)
 
-for syll, count in sorted(syllable_dict.iteritems(), key=lambda (k,v): (v,k), reverse = True):
-	print >> fsyl, syllabic_structure(syll).ljust(5) + syll.ljust(6) + str(count)
 		
 f.close()
 fcvcv.close()
