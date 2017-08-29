@@ -84,14 +84,19 @@ def print_output(syllable_pair, file, context=[]):
 f = open('syllables/output/disyllables.txt', 'w')
 fcvcv = open('syllables/output/cvcv.txt', 'w')
 fsyl = open('syllables/output/syllable_count.txt', 'w')
+fdiph = open('syllables/output/diphone_count.txt', 'w')
 
-# First: retrieve all syllables and disyllables
+# First: retrieve all syllables, disyllables and diphones
 disyllable_dict = {}
 syllable_dict = {}
+diphone_dict = {}
+
 for line in corpus:
 	line = line.split('.cha') # Separate corpus title
 	line[1] = line[1].replace('-',' ') # Replace syllable separators with spaces
 	text = line[1].split()[3:] # Text begins after 3 age digits
+	
+	# Retrieve syllables and disyllables:
 	for i, syllable in enumerate(text[:-1]):
 		if (syllable not in disyllable_dict):
 			syllable_dict[syllable]   = 1 # Add syllable to dictionary of all syllables
@@ -99,8 +104,17 @@ for line in corpus:
 		else:
 			syllable_dict[syllable]  += 1 # Add +1 to the count of observations of current syllable
 			disyllable_dict[syllable] = disyllable_dict[syllable] + [text[i+1]] # Add next syllable to the dictionary of disyllables
+			
+	# Retrieve diphones, regardless of within or across words:
+	text_no_spaces = ''.join(text).replace('§', '4').replace('°', '6')
+	for i, phone in enumerate(text_no_spaces[:-1]):
+		nextphone = text_no_spaces[i+1]
+		if ((phone + nextphone) not in diphone_dict):
+			diphone_dict[(phone + nextphone)] = 1
+		else:
+			diphone_dict[(phone + nextphone)] += 1
 
-# Second: extract syllabic structure and count syllable pairs
+# Second: extract syllabic structure and count disyllable pairs
 all_disyll_count = count_syllables(disyllable_dict)
 
 # Third: Order by frequency of occurrence and print:
@@ -117,10 +131,16 @@ for syll_pair in sorted(all_disyll_count, key=lambda x: x[2], reverse = True):
 	if (S1_structure=='CV') and (S2_structure=='CV'):
 		print_output(syll_pair, fcvcv)
 
+# Diphones:
+for diphone, count in sorted(diphone_dict.iteritems(), key=lambda (k,v): (v,k), reverse = True):
+	if ('O' not in syllabic_structure(diphone)):
+		print >> fdiph,  diphone.ljust(6).replace('4','§').replace('6','°') + str(count)
 		
 f.close()
 fcvcv.close()
 fsyl.close()
+fdiph.close()
+
 
 
 
