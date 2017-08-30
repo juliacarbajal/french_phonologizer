@@ -50,7 +50,7 @@ def syllabic_structure(syl):
 			structure += 'O'
 	return structure
 
-def count_syllables(syllable_dictionary):
+def count_disyllables(syllable_dictionary):
 	syll_count = []
 	for S1 in syllable_dictionary:
 		S1 = str(S1)
@@ -105,7 +105,7 @@ for line in corpus:
 			syllable_dict[syllable]  += 1 # Add +1 to the count of observations of current syllable
 			disyllable_dict[syllable] = disyllable_dict[syllable] + [text[i+1]] # Add next syllable to the dictionary of disyllables
 			
-	# Retrieve diphones, regardless of within or across words:
+	# Retrieve diphones, regardless of syllable or word boundary:
 	text_no_spaces = ''.join(text).replace('§', '4').replace('°', '6')
 	for i, phone in enumerate(text_no_spaces[:-1]):
 		nextphone = text_no_spaces[i+1]
@@ -115,9 +115,9 @@ for line in corpus:
 			diphone_dict[(phone + nextphone)] += 1
 
 # Second: extract syllabic structure and count disyllable pairs
-all_disyll_count = count_syllables(disyllable_dict)
+all_disyll_count = count_disyllables(disyllable_dict)
 
-# Third: Order by frequency of occurrence and print:
+# Third: Sort by frequency of occurrence and print:
 # Syllables:
 for syll, count in sorted(syllable_dict.iteritems(), key=lambda (k,v): (v,k), reverse = True):
 	if (syllabic_structure(syll) != 'O'):
@@ -141,8 +141,24 @@ fcvcv.close()
 fsyl.close()
 fdiph.close()
 
-
-
+# Fourth: Get positional frequency of each syllable in disyllables
+fpositional = open('syllables/output/positional_freq.txt', 'w')
+positional_syll = {}
+for syll_pair in sorted(all_disyll_count, key=lambda x: x[2], reverse = True):
+	if ('O' not in [syll_pair[3], syll_pair[4]]):
+		N = syll_pair[2]
+		if syll_pair[0] not in positional_syll:
+			positional_syll[syll_pair[0]] = [N,0]
+		else:
+			positional_syll[syll_pair[0]][0] += N
+		if syll_pair[1] not in positional_syll:
+			positional_syll[syll_pair[1]] = [0,N]
+		else:
+			positional_syll[syll_pair[1]][1] += N
+			
+for syll in sorted(positional_syll.iterkeys()):
+	print >> fpositional, syll.ljust(6) + str(positional_syll[syll][0]).ljust(7) + str(positional_syll[syll][1])
+fpositional.close()
 
 # NEW: Alternative way, separated by categories (within word, across words, etc)
 f2 = open('syllables/output/bisyl_1word.txt', 'w')
@@ -157,6 +173,7 @@ syll_across = {}
 context_partwords = {}
 wordboundary = {}
 context_2words = {}
+
 
 for line in corpus:
 	line = line.split()
@@ -244,10 +261,10 @@ for line in corpus:
 				wordboundary[(syllables[-1], syllables_next[0])] = wordboundary[(syllables[-1], syllables_next[0])] + [(word, text[i+1])]
 
 # Second: Count syllables
-syll_1word_count = count_syllables(syll_1word)
-syll_2words_count = count_syllables(syll_2words)
-syll_across_count = count_syllables(syll_across)
-syll_partword_count = count_syllables(syll_partword)
+syll_1word_count = count_disyllables(syll_1word)
+syll_2words_count = count_disyllables(syll_2words)
+syll_across_count = count_disyllables(syll_across)
+syll_partword_count = count_disyllables(syll_partword)
 
 # Third: Order by frequency of occurrence and print:
 for syll_pair in sorted(syll_1word_count, key=lambda x: x[2], reverse = True):
