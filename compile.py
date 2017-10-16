@@ -1,14 +1,39 @@
 # This Python file uses the following encoding: utf-8
 import os
 
-root='output'
-dirlist = [ item for item in os.listdir(root) if os.path.isdir(os.path.join(root, item)) ]
+###############################################################################################
+# SET PARAMETERS
 
-# Age limits:
+# Age limits (XyXm):
 age_min_input = '0y0m' # Eventually make this input user-defined
 age_max_input = '2y0m'
 
-f = open('corpus'+age_min_input + '-' + age_max_input+'.txt', 'w')
+# Define which transcription to load (orthographic or phonological):
+phono_transcript = False # True for phonological transcription, False for orthographic transcription
+if phono_transcript:
+	folder = 'output'
+	filename = '/recoded_L_D_S_E.txt'
+	outname = 'phono'
+else:
+	folder = 'corpora'
+	filename = '/clean/extract.txt'
+	outname = 'ortho'
+
+# Print fileID and age?
+printInfo = False
+if printInfo:
+	printInfoTag = '_withFileInfo'
+else:
+	printInfoTag = '_noFileInfo'
+
+# Print in lower-case?
+lowerCase = True
+
+# Remove parentheses? (Symbolises unpronounced parts of words)
+removeParentheses = False
+
+###############################################################################################
+# FUNCTIONS
 
 def parse_age(age_string):
 	age = age_string.replace('y','-').replace('m','')
@@ -37,14 +62,27 @@ def check_age(current_age):
 			include = True
 	return include
 
+###############################################################################################
+# COMPILE & PRINT
+# Open output file for writing
+f = open('corpus_' + outname + '_' + age_min_input + '_' + age_max_input + printInfoTag + '.txt', 'w')
+# List of files
+dirlist = [ item for item in os.listdir(folder) if os.path.isdir(os.path.join(folder, item)) ]
 
 for corpusdir in dirlist:
-	location = 'output/' + corpusdir
-	with open(location + '/recoded_L_D_S_E.txt') as recoded_file:
+	location = folder + '/' + corpusdir
+	with open(location + filename) as recoded_file:
 		for line_ID, line_text in enumerate(recoded_file):
+			if lowerCase:
+				line_text = line_text.lower()
+			if removeParentheses:
+				line_text = line_text.replace('(','').replace(')','')
 			line = line_text.split()
 			age = [int(x) for x in line[1:4]]
 			if check_age(age):
-				print >> f, line_text.strip()
+				if printInfo:
+					print >> f, corpusdir + ' ' + line_text.strip()
+				else:
+					print >> f, ' '.join(line[4:])
 
 f.close()
