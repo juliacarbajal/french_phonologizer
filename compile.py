@@ -20,7 +20,7 @@ else:
 	outname = 'ortho'
 
 # Print fileID and age?
-printInfo = False
+printInfo = True
 if printInfo:
 	printInfoTag = '_withFileInfo'
 else:
@@ -30,7 +30,11 @@ else:
 lowerCase = True
 
 # Remove parentheses? (Symbolises unpronounced parts of words)
-removeParentheses = False
+removeParentheses = True
+if removeParentheses:
+	removeParenthesesTag = '_noParnths'
+else:
+	removeParenthesesTag = ''
 
 ###############################################################################################
 # FUNCTIONS
@@ -65,7 +69,7 @@ def check_age(current_age):
 ###############################################################################################
 # COMPILE & PRINT
 # Open output file for writing
-f = open('corpus_' + outname + '_' + age_min_input + '_' + age_max_input + printInfoTag + '.txt', 'w')
+f = open('corpus_' + outname + '_' + age_min_input + '_' + age_max_input + printInfoTag + removeParenthesesTag + '.txt', 'w')
 # List of files
 dirlist = [ item for item in os.listdir(folder) if os.path.isdir(os.path.join(folder, item)) ]
 

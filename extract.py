@@ -122,6 +122,10 @@ for corpusdir in dirlist:
 	for file in chafiles:
 		print "Analysing file: ", file
 		child_age = age[file]
+		if child_age[-1] == '.':
+			child_age = child_age + '00' # Add 00 days if days missing from age, e.g. age = "2;8."
+		elif child_age[-1] == ';':
+			child_age = child_age + '0.00' # Add 0 months and 00 days if info missing from age, e.g. age = "2;"
 		child_age = re.sub('[;\.]',' ',child_age) # Replace age written as "y;m.d" by "y m d"
 		continue_line = 0
 		processed_lines = ''
