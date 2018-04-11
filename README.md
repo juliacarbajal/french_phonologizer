@@ -1,10 +1,19 @@
 # Liaison
-This script reads a cleaned-up orthographic transcription of corpora from CHILDES and transcribes it phonologically based on the Lexique380 French dictionary. In the phonological transcription, I automatised the implementation of 4 phonological rules of French, as described in Ngon et al. 2013: obligatory _liaison_, liquid deletion, schwa insertion and resyllabification (_enchainement_).
+These scripts read a cleaned-up orthographic transcription of corpora from CHILDES and transcribes it phonologically based on the Lexique380 French dictionary. The script called **recode.py** only uses the dictionary transcriptions, while in **recode_v2.py** I automatised the implementation of 4 phonological rules of French, as described in Ngon et al. (2013): obligatory _liaison_, liquid deletion, schwa insertion and resyllabification (_enchainement_). All scripts are written for Python 2. No special libraries are required.
 
-## Files
-The main script is called **recode_v2.py**. It is written for Python 2. No special libraries need to be installed.
+## Phonological transcriptions without phonological rules
+The main script is called **recode.py**.
 
-This script will process all corpora included in the **corpora** folder, separated in folders by corpus_name.
+### Input files
+The following files are required to run the code
+* **extract.txt**: This file contains a clean orthographic transcription of a corpus. Each line corresponds to one utterance, preceded by the name of the file and the age of the child at the moment the utterance was produced. An example is given in **test_corpus/short_extract.txt**.
+* **auxiliary/french.dic**: This is a simplified version of the Lexique380 French dictionary. It contains only two columns, one with the orthographic forms, and one with the phonological forms.
+
+### Output file
+The output will contain the phonological transcription line by line, preceded by the same info that precedes the input extract file.
+
+## Transcriptions with phonological rules
+The main script is called **recode_v2.py**. This script will process all corpora included in the **corpora** folder, separated in folders by corpus_name.
 
 ### Input
 The following files are required to run the code
@@ -33,3 +42,5 @@ Note that all phonological rules output lists include line number, orthographic 
 ## To Do
 * Fix cases of six, dix, neuf (should transform into siz, diz, neuv before vowels).
 * Fix problem with "i(l) s ont".
+* Turn phonological rules into modules, merge with recode.py and give options of which modules to run.
+
