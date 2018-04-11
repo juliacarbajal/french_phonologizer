@@ -41,7 +41,7 @@ with open('test_corpus/short_extract.txt') as input_file:
 			if word in dico:
 				newwords.append(dico[word]) # Transcribe the word
 			else:
-				newwords.append('#') 
+				newwords.append('#') # If word is not in dictionary, replace with hashtag.
 		newwords.append(full_line[-1])
 		newsentence = ' '.join(info + newwords) # Concatenate sentence with ID and age
 		newsentence = newsentence.replace("' ",'') # Attach consonants with apostrophe to next word
