@@ -33,7 +33,6 @@ dico[":"]=":"
 # Read line by line and search words in dictionary:
 with open('test_corpus/short_extract.txt') as input_file:
 	for j, line in enumerate(input_file):
-		line = line.decode('cp1252').encode('utf-8')
 		newwords = []
 		full_line = line.lower().split()
 		info = full_line[:4]
