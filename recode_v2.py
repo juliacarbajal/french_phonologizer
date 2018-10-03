@@ -55,7 +55,9 @@ semivowels = ['j', '8', 'w']
 # characters only for the parts of script that require comparing vowels.
 
 ## Consonants:
-obstruents = ['p', 'b', 't', 'd', 'k', 'g', 'f', 'v', 's', 'z', 'S', 'Z']
+unvoiced_obstruents = ['p','t','k','f','s','S']
+voiced_obstruents = ['b','d','g','v','z','Z']
+obstruents = unvoiced_obstruents + voiced_obstruents
 liquids    = ['l', 'R']
 nasals     = ['m', 'n', 'N']
 consonants = obstruents + liquids + nasals
@@ -422,7 +424,11 @@ def check_enchainement(all_words, k) :
 	current_word = all_words[k]
 	if (current_word not in enchainement_exceptions):
 		next_word    = all_words[k+1].replace('§', '4').replace('°', '6') # Replace special characters before matching vowels
-		if (current_word[-1] in (consonants + ["'"])) and (next_word[0] in vowels+semivowels):
+		if (current_word[-1] in consonants) and (len(current_word)==1):
+			do_enchainement = True
+		elif (current_word[-1] in consonants) and (next_word[0] in vowels + semivowels):
+			do_enchainement = True
+		elif (current_word[-1] == "'"):
 			do_enchainement = True
 	return do_enchainement
 
@@ -469,6 +475,7 @@ def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcrib
 	# This prints a list of all the enchainement cases that were applied.
 	current_word_ort = all_words_ort[k]
 	next_word_ort    = all_words_ort[k+1]
+	#print line_index
 	unedited = (current_word_ort + ' ' + next_word_ort).decode('utf-8').encode('cp1252').ljust(30)
 	unedited = unedited.decode('cp1252').encode('utf-8')
 	edited   = (transcribed_word + ' ' + transcribed_word_2).decode('utf-8').encode('cp1252').ljust(30)
@@ -477,7 +484,7 @@ def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcrib
 		edited = edited[1:]
 	# Add context:
 	context = get_context(all_words_ort, k)
-	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
+	print >> file_name, (str(line_index + 1).ljust(7) + unedited + edited + context)
 
 	
 	
@@ -621,12 +628,13 @@ for corpusdir in dirlist:
 			words_ort = full_line_ort[4:]
 			
 			for i, word in enumerate(newwords[:-1]): 
+				final_consonant = word[-1]
 				if (word != '#') and check_enchainement(newwords, i) :
 					currentword = newwords[i]
-					final_consonant = word[-1]
 					if final_consonant != "'":
 						newwords[i]   = currentword[:-1] # Enchainement
 						newwords[i+1] = final_consonant + newwords[i+1]
+						# Here add the devoicing of J'
 					else:
 						newwords[i]   = currentword[:-2] # Enchainement
 						newwords[i+1] = currentword[-2:] + newwords[i+1]
