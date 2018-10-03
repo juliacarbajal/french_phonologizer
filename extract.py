@@ -59,6 +59,7 @@ def clean_text(current_line):
 	new_line = new_line.replace("j' sais","j'sais") # We correct j'sais (which ondergoes assimilation, it is included in the dictionary)
 	new_line = new_line.replace("aujourd' hui","aujourd'hui") # We correct aujourd'hui
 	new_line = new_line.replace("quelqu'  un","quelqu'un")    # We correct quelqu'un/e
+	new_line = re.sub('(ʁ|ʃ|ʌ)', '*', new_line) # Replace problematic character appearing in Lyon (mar09a.cha)
 	return new_line
 
 def print_line(current_line, processed_lines, filename):
