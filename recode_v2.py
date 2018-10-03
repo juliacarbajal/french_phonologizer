@@ -304,7 +304,7 @@ special_numbers['dix'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en
 special_numbers['n9f'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y'] + vowel_ini_months
 
 # Enchainement exceptions:
-enchainement_exceptions = ['9m']
+enchainement_exceptions = ['9m','5','m']
 
 
 #### FUNCTIONS ####
@@ -628,17 +628,25 @@ for corpusdir in dirlist:
 			words_ort = full_line_ort[4:]
 			
 			for i, word in enumerate(newwords[:-1]): 
-				final_consonant = word[-1]
 				if (word != '#') and check_enchainement(newwords, i) :
+					final_character = word[-1]
 					currentword = newwords[i]
-					if final_consonant != "'":
+					if final_character != "'":
 						newwords[i]   = currentword[:-1] # Enchainement
+						if (final_character == 'Z') and (newwords[i+1][0] in unvoiced_obstruents):
+							final_consonant = 'S'  # De-voicing of j(e) before unvoiced obstruents
+						else:
+							final_consonant = final_character
 						newwords[i+1] = final_consonant + newwords[i+1]
-						# Here add the devoicing of J'
+						
 					else:
 						newwords[i]   = currentword[:-2] # Enchainement
-						newwords[i+1] = currentword[-2:] + newwords[i+1]
-						newwords[i+1] = newwords[i+1].replace("'",'') # Erase the apostrophe
+						if (currentword[-2] == 'Z') and (newwords[i+1][0] in unvoiced_obstruents):
+							final_consonant = 'S'  # De-voicing of j(e) before unvoiced obstruents
+						else:
+							final_consonant = currentword[-2]
+						newwords[i+1] = final_consonant + newwords[i+1]
+						#newwords[i+1] = newwords[i+1].replace("'",'') # Erase the apostrophe
 					print_enchainement(line_ID, i, words_ort, newwords[i], newwords[i+1], f4)
 					
 			newwords = filter(None, newwords)
