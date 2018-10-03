@@ -570,39 +570,41 @@ for corpusdir in dirlist:
 	foutput2.close()
 
 
-	#### 3: SCHWA INSERTION ####
-	# Open output files:
-	f3       = open(output_location + '/schwa_insertion_cases.txt', 'w')
-	foutput3 = open(output_location + '/recoded_L_D_S.txt', 'w')
+	# #### 3: SCHWA INSERTION ####
+	# # Open output files:
+	# f3       = open(output_location + '/schwa_insertion_cases.txt', 'w')
+	# foutput3 = open(output_location + '/recoded_L_D_S.txt', 'w')
 
-	with open(output_location + '/recoded_L_D.txt') as input_file:
-		for line_ID, line_text in enumerate(input_file):
-			newwords  = []
-			full_line = line_text.split()
-			full_line_ort = text_ort[line_ID].split()
-			info  = full_line[:4] # ID and age
-			words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
-			words_ort = full_line_ort[4:]
+	# with open(output_location + '/recoded_L_D.txt') as input_file:
+		# for line_ID, line_text in enumerate(input_file):
+			# newwords  = []
+			# full_line = line_text.split()
+			# full_line_ort = text_ort[line_ID].split()
+			# info  = full_line[:4] # ID and age
+			# words = full_line[4:] # Start reading in 5th column, first 4 are ID and age
+			# words_ort = full_line_ort[4:]
 			
-			for i, word in enumerate(words[:-1]): 
-				newwords.append(word)
-				if (word != '#') and check_schwa_insertion(words, i) :
-					newwords[i] += '°' # Add schwa
-					print_applied_cases(line_ID, words, i, words_ort, newwords[i], f3)
+			# for i, word in enumerate(words[:-1]): 
+				# newwords.append(word)
+				# if (word != '#') and check_schwa_insertion(words, i) :
+					# newwords[i] += '°' # Add schwa
+					# print_applied_cases(line_ID, words, i, words_ort, newwords[i], f3)
 					
-			newwords.append(full_line[-1])
-			print >> foutput3 , ' '.join(info + newwords) # Concatenate with ID and age and print
+			# newwords.append(full_line[-1])
+			# print >> foutput3 , ' '.join(info + newwords) # Concatenate with ID and age and print
 		
-	f3.close()
-	foutput3.close()
+	# f3.close()
+	# foutput3.close()
 
 
 	#### 4: ENCHAINEMENT ####
 	# Open output files:
 	f4       = open(output_location + '/enchainement_cases.txt', 'w')
-	foutput4 = open(output_location + '/recoded_L_D_S_E.txt', 'w')
+	#foutput4 = open(output_location + '/recoded_L_D_S_E.txt', 'w')
+	foutput4 = open(output_location + '/recoded_L_D_E.txt', 'w')
 
-	with open(output_location + '/recoded_L_D_S.txt') as input_file:
+	with open(output_location + '/recoded_L_D.txt') as input_file:
+	#with open(output_location + '/recoded_L_D_S.txt') as input_file:
 		for line_ID, line_text in enumerate(input_file):
 			newwords  = []
 			full_line = line_text.split()
