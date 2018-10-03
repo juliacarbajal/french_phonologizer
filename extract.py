@@ -1,3 +1,4 @@
+# This Python file uses the following encoding: utf-8
 import re
 import os
 
@@ -39,6 +40,7 @@ def clean_text(current_line):
 	new_line = new_line.replace('+//.', '.') # Self interruption.
 	new_line = new_line.replace('+//?', '?') # Self interruption.
 	new_line = new_line.replace('+/', '.')   # If any +/ left, replace by stop.
+	new_line = new_line.replace('peut+être', 'peut-être') # Correct spelling of peut-être
 	new_line = new_line.replace('+', ' ')    # Separate words joined by +
 	new_line = new_line.replace('_', '-')    # Composed words transcribed with _ replaced by -
 	new_line = new_line.replace(',', ' ,')   # Add space before comma
@@ -54,7 +56,8 @@ def clean_text(current_line):
 	new_line = re.sub('@.','',new_line)   # Special annotations about certain words, we erase the annotation but keep the word.
 	new_line = new_line.replace(':','')   # Except for :eng, the colon just indicates a stretch in the sound, so we erase it.
 	new_line = new_line.replace("'","' ") # Add a space after apostrophe (we break down words like c'est, l'a, etc)
-	new_line = new_line.replace("aujourd' hui","aujourd'hui") # We correct aujourd'hui (broken in previous line)
+	new_line = new_line.replace("j' sais","j'sais") # We correct j'sais (which ondergoes assimilation, it is included in the dictionary)
+	new_line = new_line.replace("aujourd' hui","aujourd'hui") # We correct aujourd'hui
 	new_line = new_line.replace("quelqu'  un","quelqu'un")    # We correct quelqu'un/e
 	return new_line
 
