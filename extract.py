@@ -56,7 +56,10 @@ def clean_text(current_line):
 	new_line = re.sub('@.','',new_line)   # Special annotations about certain words, we erase the annotation but keep the word.
 	new_line = new_line.replace(':','')   # Except for :eng, the colon just indicates a stretch in the sound, so we erase it.
 	new_line = new_line.replace("'","' ") # Add a space after apostrophe (we break down words like c'est, l'a, etc)
-	new_line = new_line.replace("j' sais","j'sais") # We correct j'sais (which ondergoes assimilation, it is included in the dictionary)
+	new_line = new_line.replace("j' sais", "j'sais") # We correct j'sais (assimilates, it is included in the dictionary)
+	new_line = new_line.replace("j(e) sais", "j'sais") # We correct j(e) sais -> j'sais (same as previous line)
+	new_line = new_line.replace("j' suis", "j'suis") # We correct j'suis (assimilates, it is included in the dictionary)
+	new_line = new_line.replace("j(e) suis", "j'suis") # We correct j(e) suis -> j'suis (same as previous line)
 	new_line = new_line.replace("aujourd' hui","aujourd'hui") # We correct aujourd'hui
 	new_line = new_line.replace("quelqu'  un","quelqu'un")    # We correct quelqu'un/e
 	new_line = re.sub('(ʁ|ʃ|ʌ)', '*', new_line) # Replace problematic character appearing in Lyon (mar09a.cha)
