@@ -304,7 +304,7 @@ special_numbers['dix'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en
 special_numbers['n9f'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y'] + vowel_ini_months
 
 # Enchainement exceptions:
-enchainement_exceptions = ['9m','5','m']
+enchainement_exceptions = ['9m','5', 'Op']
 
 
 #### FUNCTIONS ####
@@ -374,6 +374,10 @@ def check_liaison(line, all_words, k) :
 		
 	return do_liaison
 
+def is_OL_cluster(current_word) :
+	# Check word-final obstruent-liquid cluster
+	return (len(current_word)>2) and (current_word[-2] in obstruents) and (current_word[-1] in liquids)
+	
 def check_liquid_deletion(all_words, k) :
 	# This function checks if liquid deletion applies, returns True or False
 	# all_words: full utterance (as a list)
@@ -381,8 +385,7 @@ def check_liquid_deletion(all_words, k) :
 	do_liquid_deletion = False
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
-	is_OL_cluster = (len(current_word)>2) and (current_word[-2] in obstruents) and (current_word[-1] in liquids)
-	if (is_OL_cluster) and (next_word[0] in consonants):
+	if is_OL_cluster(current_word) and (next_word[0] in consonants):
 		do_liquid_deletion = True
 	# Exception: contre jour
 	if (current_word == 'k§tR') and (next_word == 'ZuR'):
@@ -422,8 +425,8 @@ def check_enchainement(all_words, k) :
 	# k: index of the current word
 	do_enchainement = False
 	current_word = all_words[k]
-	if (current_word not in enchainement_exceptions):
-		next_word    = all_words[k+1].replace('§', '4').replace('°', '6') # Replace special characters before matching vowels
+	next_word    = all_words[k+1].replace('§', '4').replace('°', '6') # Replace special characters before matching vowels
+	if (current_word not in enchainement_exceptions) and (next_word not in enchainement_exceptions + punctuation):
 		if (current_word[-1] in consonants) and (len(current_word)==1):
 			do_enchainement = True
 		elif (current_word[-1] in consonants) and (next_word[0] in vowels + semivowels):
@@ -431,6 +434,26 @@ def check_enchainement(all_words, k) :
 		elif (current_word[-1] == "'"):
 			do_enchainement = True
 	return do_enchainement
+	
+def apply_enchainement(newwords, i) :
+	currentword = newwords[i].replace("'","").replace('§', '4').replace('°', '6') # Remove apostrophes and replace special characters
+	# Select which consonants to resyllabify:
+	if not any(phoneme in vowels for phoneme in currentword):
+		final_consonants = currentword # Whole word if it contains no vowels
+		newwords[i] = ""
+	elif is_OL_cluster(currentword):
+		final_consonants = currentword[-2:] # OL clusters
+		newwords[i] = currentword[:-2]
+	else:
+		final_consonants = currentword[-1] # Otherwise only final consonant
+		newwords[i] = currentword[:-1]
+		
+	if (final_consonants[-1] == 'Z') and (newwords[i+1][0] in unvoiced_obstruents):
+		final_consonants = final_consonants[:-1] + 'S'  # De-voicing of j(e) before unvoiced obstruents
+
+	newwords[i+1] = (final_consonants + newwords[i+1]).replace('4','§').replace('6','°') # Append consonants to next word and re-introduce special characters if any
+	newwords[i]   = newwords[i].replace('4','§').replace('6','°') # Remove from current word and re-introduce special characters if any
+	return newwords
 
 def get_context(line, k):
 	# This function retrieves (if possible) 5 words from an utterance,
@@ -629,24 +652,7 @@ for corpusdir in dirlist:
 			
 			for i, word in enumerate(newwords[:-1]): 
 				if (word != '#') and check_enchainement(newwords, i) :
-					final_character = word[-1]
-					currentword = newwords[i]
-					if final_character != "'":
-						newwords[i]   = currentword[:-1] # Enchainement
-						if (final_character == 'Z') and (newwords[i+1][0] in unvoiced_obstruents):
-							final_consonant = 'S'  # De-voicing of j(e) before unvoiced obstruents
-						else:
-							final_consonant = final_character
-						newwords[i+1] = final_consonant + newwords[i+1]
-						
-					else:
-						newwords[i]   = currentword[:-2] # Enchainement
-						if (currentword[-2] == 'Z') and (newwords[i+1][0] in unvoiced_obstruents):
-							final_consonant = 'S'  # De-voicing of j(e) before unvoiced obstruents
-						else:
-							final_consonant = currentword[-2]
-						newwords[i+1] = final_consonant + newwords[i+1]
-						#newwords[i+1] = newwords[i+1].replace("'",'') # Erase the apostrophe
+					newwords = apply_enchainement(newwords, i)
 					print_enchainement(line_ID, i, words_ort, newwords[i], newwords[i+1], f4)
 					
 			newwords = filter(None, newwords)
