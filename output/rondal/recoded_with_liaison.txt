@@ -38403,7 +38403,7 @@ rondal40a.cha 3 10 14 le gR@ # d2 # ?
 rondal40a.cha 3 10 14 ko-m@ Es k i s a-pEl ?
 rondal40a.cha 3 10 14 ty n sE pa l9R n§ ?
 rondal40a.cha 3 10 14 dZin # # # .
-rondal40a.cha 3 10 14 # maR tRE bj5 .
+rondal40a.cha 3 10 14 # maRk tRE bj5 .
 rondal40a.cha 3 10 14 wi .
 rondal40a.cha 3 10 14 ki Es ki e l2 ply gR@ ?
 rondal40a.cha 3 10 14 # dZin .
@@ -38412,7 +38412,7 @@ rondal40a.cha 3 10 14 dZin il e ply gR@ .
 rondal40a.cha 3 10 14 ki Es ki e l2 ply p°-ti ?
 rondal40a.cha 3 10 14 tRE bj5 .
 rondal40a.cha 3 10 14 e twa ty E ply p°-ti .
-rondal40a.cha 3 10 14 t E ply p°-ti k2 maR 5 wi ?
+rondal40a.cha 3 10 14 t E ply p°-ti k2 maRk 5 wi ?
 rondal40a.cha 3 10 14 Em .
 rondal40a.cha 3 10 14 k Es ki f§ le gR@ # p@-d@ la # k2 ma-m@ t a di ?
 rondal40a.cha 3 10 14 k@ i s§ R@tR Se d@ la mE-z§ .
@@ -40392,9 +40392,9 @@ rondal42.cha 4 0 04 k Es k §n a fE d§k Se do-nald # jER ?
 rondal42.cha 4 0 04 §n a mi yn tabl e m§t la t@t .
 rondal42.cha 4 0 04 n§ .
 rondal42.cha 4 0 04 do-nald # s' e l2 pa-pa .
-rondal42.cha 4 0 04 s' e s' e maR e # le # wi .
-rondal42.cha 4 0 04 e l2 pa-pa d2 maR e d # k Es k il a fE ?
-rondal42.cha 4 0 04 s' e pa l2 pa-pa d2 maR e # tu s9l .
+rondal42.cha 4 0 04 s' e s' e maRk e # le # wi .
+rondal42.cha 4 0 04 e l2 pa-pa d2 maRk e d # k Es k il a fE ?
+rondal42.cha 4 0 04 s' e pa l2 pa-pa d2 maRk e # tu s9l .
 rondal42.cha 4 0 04 ki o-si ?
 rondal42.cha 4 0 04 ki Es ki a Ed ?
 rondal42.cha 4 0 04 pa-pa a Ed .

@@ -46,7 +46,6 @@
 1205 est un                        et 1                          c' est un camion rouge !
 1243 on enlève                     §n @-lEv                      on enlève c(el)ui là !
 1246 est arc                       et aRk                        ça c' est arc en ciel
-1317 peut être                     p2t EtR                       a faim peut être ?
 1323 vas y                         vaz i                         vas y !
 1340 vas y                         vaz i                         allez , vas y !
 1348 vous avez                     vuz a-ve                      pas où vous avez mis
@@ -66,13 +65,10 @@
 1609 vas y                         vaz i                         vas y !
 1611 en a                          @n a                          y en a plus ?
 1618 est à                         et a                          là il est à l'
-1627 peut être                     p2t EtR                       peut être d' autres ?
 1652 mon ange                      m§n @Z                        pas chl mon ange !
 1670 fait on                       fEt §                         qu' on fait on répare
 1699 dort elle                     dORt El                       chl elle dort elle dort chl
 1707 plus elle                     plyz El                       * en plus elle répète !
-1734 peut être                     p2t EtR                       le réparer peut être !
-1737 peut être                     p2t EtR                       à maman peut être ?
 1859 on y                          §n i                          faut qu' on y aille ?
 1860 on y                          §n i                          on y va ?
 1871 tout à                        tut a                         tout à l' heure on y
@@ -91,7 +87,6 @@
 1987 est a                         et a                          mhm c' est a .
 2001 on enlève                     §n @-lEv                      attend on enlève , on enlève
 2001 on enlève                     §n @-lEv                      enlève , on enlève .
-2017 peut être                     p2t EtR                       on va peut être le défaire
 2056 on appuie                     §n a-p8i                      hop on appuie et voilà fini
 2059 vas y                         vaz i                         et vas y appuies .
 2072 vas y                         vaz i                         vas y , vas y .
@@ -107,7 +102,6 @@
 2160 vous en                       vuz @                         vous en voulez un autre ?
 2160 un autre                      1n otR                        en voulez un autre ?
 2168 est un                        et 1                          ça c' est un peu
-2168 peut être                     p2t EtR                       dur ça peut être .
 2199 on y                          §n i                          tiens on y va mais tu
 2243 bien étalé                    bj5n e-ta-le                  t(u) as bien étalé ?
 2251 vas y                         vaz i                         vas y souffle alors .
@@ -273,7 +267,6 @@
 4931 on a                          §n a                          on a perdu l' ai(mant) on
 4931 on a                          §n a                          l' ai(mant) on a perdu
 4943 en a                          @n a                          regarde y en a un deuxième
-4952 peut être                     p2t EtR                       t(u) as peut être des
 4981 est à                         et a                          voilà c' est à ta taille
 4999 vas y                         vaz i                         vas y .
 5000 vas y                         vaz i                         vas y .
@@ -559,6 +552,7 @@
 8685 est un                        et 1                          c' est un singe .
 8689 tout à                        tut a                         on changera tout à l'
 8706 les ours                      lez uRs                       c' est les ours ?
+8719 on ouv(re)                    §n uv                         on ouv(re) ?
 8759 est une                       et yn                         c' est une hirondelle .
 8775 un ours                       1n uRs                        y a un ours .
 8781 un autre                      1n otR                        tu prends un autre livre ?
@@ -584,7 +578,7 @@
 9107 les arbres                    lez aRbR                      les di les arbres .
 9111 des arbres                    dez aRbR                      fête des arbres .
 9115 plus elle                     plyz El                       elle avance plus elle .
-9122 bien avancée                  bj5n a-v@-se                  j(e) suis bien avancée .
+9122 bien avancée                  bj5n a-v@-se                  bon j'suis bien avancée .
 9151 on essaie                     §n E-sE                       on essaie ?
 9164 on a                          §n a                          voir si on a les
 9170 les autres                    lez otR                       va mettre les autres !
@@ -595,7 +589,6 @@
 9227 les arbres                    lez aRbR                      me jeter les arbres hein
 9255 bien ana                      bj5n a-na                     c' est bien ana mais c'
 9255 est un                        et 1                          mais c' est un peu
-9264 peut être                     p2t EtR                       comme ça peut être .
 9266 en a                          @n a                          là y en a trop
 9297 vas y                         vaz i                         ben vas vas y .
 9301 on essaie                     §n E-sE                       on essaie là ?
@@ -876,7 +869,6 @@
 12665en a                          @n a                          y en a plus ?
 12680en a                          @n a                          y en a un autre .
 12680un autre                      1n otR                        en a un autre .
-12684peut être                     p2t EtR                       peut être là ?
 12697vas y                         vaz i                         vas y peigne la poupée .
 12698est encore                    et @-kOR                      aussi c' est encore un
 12709en a                          @n a                          oui y en a d(e) partout
@@ -981,7 +973,6 @@
 14464vas y                         vaz i                         vas y !
 14468les enfants                   lez @-f@                      d' abord les enfants .
 14477vas y                         vaz i                         vas y !
-14486peut être                     p2t EtR                       peut être .
 14533est un                        et 1                          ça c' est un café .
 14556en as                         @n a                          t(u) en as encore un petit
 14562vas y                         vaz i                         vas y .
@@ -1082,7 +1073,6 @@
 15476est au                        et o                          est qu(i) est au téléphone
 15516est à                         et a                          , c' est à peu
 15518mon ange                      m§n @Z                        oui mon ange ?
-15526peut être                     p2t EtR                       ou peut être tu prends l(e)
 15530est à                         et a                          là il est à toi
 15538est à                         et a                          oui c' est à toi
 15539vas y                         vaz i                         vas y !
@@ -1151,6 +1141,7 @@
 16324un escargot                   1n Es-kaR-go                  un escargot .
 16327les f                         lez Ef                        les f .
 16328en a                          @n a                          oui y en a un
+16328un aut(re)                    1n Ot                         en a un aut(re) là
 16378on en                         §n @                          on en était où nous ?
 16378en était                      @n e-tE                       on en était où nous ?
 16379on a                          §n a                          on a laissé tomber le loup
@@ -1161,7 +1152,6 @@
 16469ton anniversaire              t§n a-ni-vER-sER              oui , ton anniversaire à toi
 16473ton anniversaire              t§n a-ni-vER-sER              était à ton anniversaire .
 16482est écrit                     et e-kRi                      ça c' est écrit papa ?
-16516peut être                     p2t EtR                       mh peut être .
 16522on a                          §n a                          est-ce qu' on a ?
 16526est écrit                     et e-kRi                      là c' est écrit caline
 16528on a                          §n a                          sais qu' on a froid
@@ -1226,6 +1216,7 @@
 17235est un                        et 1                          , c' est un soleil
 17236est à                         et a                          c' est à toi .
 17237un autre                      1n otR                        en veux un autre ?
+17238un aut(re)                    1n Ot                         en donne un aut(re) soleil
 17252bon après                     bOn a-pRE                     bon après midi .
 17294mon enfant                    m§n @-f@                      oh mon enfant , mon enfant
 17294mon enfant                    m§n @-f@                      enfant , mon enfant .
@@ -1357,7 +1348,6 @@
 18779est une                       et yn                         ça c' est une marguerite .
 18788est un                        et 1                          si c' est un coqu(e)licot .
 18792les escargots                 lez Es-kaR-go                 pas rouge les escargots .
-18795peut être                     p2t EtR                       peut être qu' i(l) y en
 18795en a                          @n a                          i(l) y en a dedans
 18802est un                        et 1                          ça c' est un p(e)tit chat
 18806est un                        et 1                          ça c' est un chaton .
@@ -1410,7 +1400,6 @@
 19476est écrit                     et e-kRi                      là c' est écrit quoi
 19477est écrit                     et e-kRi                      c' est écrit quoi ?
 19482était un                      e-tEt 1                       qu' il était un peu
-19507peut être                     p2t EtR                       l' ai peut être mis
 19510les oreilles                  lez o-REj                     a pas les oreilles au
 19513ses oreilles                  sez o-REj                     elles bougent ses oreilles *
 19516est envolé                    et @-vo-le                    i(l) s' est envolé ton
@@ -1444,9 +1433,7 @@
 19818les escaliers                 lez Es-ka-lje                 tomber dans les escaliers .
 19828vous aurez                    vuz o-Re                      vous aurez moins froid .
 19840vas y                         vaz i                         vas y accroche , accroche là
-19857peut être                     p2t EtR                       peut être hein ?
 19859un autre                      1n otR                        en voilà un autre .
-19860peut être                     p2t EtR                       là peut être nine .
 19868vas y                         vaz i                         vas y .
 19871mon ange                      m§n @Z                        le bord mon ange .
 19898les autres                    lez otR                       allez mets les autres qui manquent
@@ -1472,7 +1459,6 @@
 20007est écrit                     et e-kRi                      c' est écrit toi ?
 20016est écrit                     et e-kRi                      alors c' est écrit ana ?
 20043vas y                         vaz i                         vas y plus haut , plus
-20052peut être                     p2t EtR                       t' aide peut être ?
 20082vas y                         vaz i                         vas y !
 20084vas y                         vaz i                         allez vas y !
 20094en a                          @n a                          y en a assez .
@@ -1500,7 +1486,6 @@
 20410on est                        §n e                          on est là , tous les
 20410les yeux                      lez j2                        regarde dans les yeux .
 20439est une                       et yn                         ça c' est une grimace
-20446peut être                     p2t EtR                       l' as peut être pas
 20458des oeufs                     dez 2                         des oeufs .
 20459des oeufs                     dez 2                         tu veux des oeufs ?
 20469trois ans                     tRwaz @                       trois ans après j' ai découvert
@@ -1544,7 +1529,6 @@
 20729quand il                      k@t il                        le loup quand il est déguisé
 20733vas y                         vaz i                         vas y !
 20747vas y                         vaz i                         alors vas y !
-20770peut être                     p2t EtR                       hérisson joli peut être ?
 20802est une                       et yn                         c' est une mamie aussi .
 20831un autre                      1n otR                        un autre ?
 20855en a                          @n a                          y en a trop .
@@ -1753,7 +1737,6 @@
 23601mon enfant                    m§n @-f@                      un mouchoir mon enfant ?
 23604les oreilles                  lez o-REj                     c' est les oreilles ça
 23612est une                       et yn                         ça c' est une piqûre
-23623peut être                     p2t EtR                       j(e) vais peut être aller chercher
 23660en a                          @n a                          ouais y en a beaucoup
 23662est encore                    et @-kOR                      c' est encore comme ça ?
 23665est une                       et yn                         vois c' est une griffure
@@ -1912,7 +1895,6 @@
 24902on a                          §n a                          oh on a raté .
 24905est aussi                     et o-si                       il est aussi mou qu(e) le
 24908en a                          @n a                          t' en a mis d(e) partout
-24913peut être                     p2t EtR                       c' est peut être que
 24925on y                          §n i                          voir si on y arrive
 24926vas y                         vaz i                         vas y .
 24951en a                          @n a                          ça y en a d(e) partout
@@ -2107,8 +2089,6 @@
 26781en es                         @n E                          où t(u) en es toi ?
 26790est un                        et 1                          non c' est un gros qu(e)
 26796un angle                      1n @gl                        nous faut un angle là
-26815peut être                     p2t EtR                       peut être .
-26828peut être                     p2t EtR                       c(el)ui là peut être .
 26832vous avez                     vuz a-ve                      vous avez réussi à en perdre
 26835en a                          @n a                          y en a pas par terre
 26844vas y                         vaz i                         vas y .
@@ -2116,7 +2096,6 @@
 26867en a                          @n a                          y en a encore une .
 26876vas y                         vaz i                         vas y .
 26883vas y                         vaz i                         vas y prends les coffres .
-26884peut être                     p2t EtR                       ou peut être ça c' est
 26916bien ana                      bj5n a-na                     bien ana !
 26921mon ange                      m§n @Z                        la bonne mon ange .
 26931est arielle                   et aR-jEl                     qu(e) c' est arielle hein
@@ -2161,7 +2140,6 @@
 27292un os                         1n Os                         un os là .
 27293un os                         1n Os                         ne pas un os dessus ?
 27306tout à                        tut a                         l' avais tout à l'
-27309peut être                     p2t EtR                       peut être derrière toi là bas
 27311un un                         1n 1                          là un un p(e)tit chien .
 27338vas y                         vaz i                         vas y !
 27347est un                        et 1                          c' est un poisson ?
@@ -2231,8 +2209,7 @@
 28125en a                          @n a                          alors y en a combien des
 28139les oreilles                  lez o-REj                     bouchons dans les oreilles ?
 28140en asseoir                    @n a-swaR                     tu vas en asseoir une
-28142en asseoir                    @n a-swaR                     en asseoir une peut être ?
-28142peut être                     p2t EtR                       asseoir une peut être ?
+28142en asseoir                    @n a-swaR                     en asseoir une peut-être ?
 28162est un                        et 1                          zyt c' est un cheval
 28164est une                       et yn                         ah c' est une bouteille ça
 28177est un                        et 1                          c' est un chien ?
@@ -2469,7 +2446,6 @@
 30123vas y                         vaz i                         met là vas y viens
 30125est en                        et @                          ce qu' est en blanc
 30145en a                          @n a                          couleurs t(u) en a pas
-30149peut être                     p2t EtR                       peut être dans ce(tte) .
 30154est en                        et @                          couleur elle est en rouge
 30168vas y                         vaz i                         vas y tout ça en jaune
 30169vas y                         vaz i                         vas y oui merci .
@@ -2606,8 +2582,7 @@
 30848un a                          1n a                          est pas un a .
 30850est un                        et 1                          ça c' est un i
 30852dans ana                      d@z a-na                      i comme dans ana ?
-30860en anglais                    @n @-glE                      en anglais peut être afraid ?
-30860peut être                     p2t EtR                       en anglais peut être afraid ?
+30860en anglais                    @n @-glE                      en anglais peut-être afraid ?
 30864est effrayé                   et e-fRE-je                   il est effrayé ?
 30882est un                        et 1                          c' est un costume !
 30883est une                       et yn                         c' est une blague !
@@ -2704,9 +2679,7 @@
 31607les à                         lez a                         laisse les à l' endroit pour
 31615est un                        et 1                          non c' est un bout d(e)
 31621vas y                         vaz i                         vas y appuie !
-31627peut être                     p2t EtR                       ça , peut être ça
 31630un aut(r)e                    1n Ot                         un aut(r)e bout d(e) nuage .
-31641peut être                     p2t EtR                       tiens peut être ça .
 31658en a                          @n a                          t(u) en a marre ?
 31659est à                         et a                          c' est à moi d(e) faire
 31670en a                          @n a                          t' en a laissé un par
@@ -2829,7 +2802,6 @@
 32806on en                         §n @                          même si on en met encore
 32820vas y                         vaz i                         allez vas y !
 32845ton anniversaire              t§n a-ni-vER-sER              eu pour ton anniversaire ?
-32847peut être                     p2t EtR                       là bas peut être .
 32883est un                        et 1                          bas c' est un bout
 32902est un                        et 1                          ça c' est un bout
 32915peut être                     p2t EtR                       ça peut être quoi comme carreau
@@ -2871,7 +2843,6 @@
 33239est une                       et yn                         , c' est une langue
 33264bien en                       bj5n @                        l' as bien en main
 33302on offre                      §n OfR                        hein on offre le café ?
-33319peut être                     p2t EtR                       je vais peut être me mettre
 33320plus à                        plyz a                        et toi plus à côté .
 33336en ai                         @n E                          mh j' en ai des dents
 33337en ai                         @n E                          j' en ai des dents dans
@@ -2882,7 +2853,6 @@
 33413est amer                      et a-mER                      c' est amer un peu .
 33420est un                        et 1                          c' est un terrain difficile .
 33426vas y                         vaz i                         ah ben vas y .
-33430peut être                     p2t EtR                       fini , peut être .
 33446on avait                      §n a-vE                       bonhomme qu' on avait perdu
 33488les yeux                      lez j2                        t(u) as les yeux qui
 33510un autre                      1n otR                        en veux un autre .
@@ -2900,6 +2870,7 @@
 33638en a                          @n a                          vu y en a un
 33659on est                        §n e                          là on est toute petites là
 33668trop avancer                  tRop a-v@-se                  trop , trop avancer .
+33707un aut(re)                    1n Ot                         a pas un aut(re) pied
 33721un exercice                   1n Eg-zER-sis                 va être un exercice pour
 33721nous aussi                    nuz o-si                      exercice pour nous aussi !
 33766est intéressant               et 5-te-RE-s@                 * c' est intéressant ?
@@ -2986,6 +2957,8 @@
 35151on y                          §n i                          souv(e)nirs , on y tient
 35161les s                         lez Es                        je n(e) les s chiffone
 35199est un                        et 1                          ça c' est un jeu
+35201un aut(re)                    1n Ot                         t(e) donner un aut(re) ,
+35201un aut(re)                    1n Ot                         aut(re) , un aut(re) jeu
 35210les images                    lez i-maZ                     les images les images .
 35210les images                    lez i-maZ                     les images les images .
 35252ces images                    sez i-maZ                     toutes ces images !
@@ -3030,7 +3003,7 @@
 35903les amis                      lez a-mi                      sont où les amis d(e)
 35909vas y                         vaz i                         vas y !
 35927est une                       et yn                         ça c' est une drôle
-35972son ami                       s§n a-mi                      est ʃaʁle son ami crocodile
+35972son ami                       s§n a-mi                      est *a*le son ami crocodile
 35995est un                        et 1                          c' est un canard ?
 36023est intriguée                 et 5-tRi-ge                   ah elle est intriguée par ce
 36042ton image                     t§n i-maZ                     , à ton image ?
@@ -3081,7 +3054,6 @@
 36842on emmène                     §n @-mEn                      veux qu' on emmène ça
 36853on a                          §n a                          mar regarde on a amené plein
 36860les enlève                    lez @-lEv                     que je les enlève ?
-36909peut être                     p2t EtR                       on va peut être même le
 36931est un                        et 1                          oui c' est un chien
 36933en a                          @n a                          i(l) y' en a un
 36933un autre                      1n otR                        en a un autre .
@@ -3114,7 +3086,6 @@
 37215on a                          §n a                          on a vu des vaches cet
 37219un âne                        1n an                         un âne .
 37240est hyper                     et i-pER                      c' est hyper magique .
-37259peut être                     p2t EtR                       elle ressemnble peut être à
 37276est une                       et yn                         ça c' est une boîte magique
 37290est un                        et 1                          , c' est un chien
 37317est au                        et o                          là elle est au maximum .
@@ -3278,7 +3249,6 @@
 39547un autre                      1n otR                        jouer à un autre instrument
 39563est un                        et 1                          c' est un rond ça .
 39567est encore                    et @-kOR                      , c' est encore un
-39610peut être                     p2t EtR                       à boire peut être .
 39645est un                        et 1                          c' est un jeu qu' elle
 39656tout à                        tut a                         , comme tout à l'
 39714vas y                         vaz i                         vas y !
@@ -3291,6 +3261,7 @@
 39826est un                        et 1                          là c' est un peu
 39847les uns                       lez 1                         les gobelets les uns dans
 39847les autres                    lez otR                       uns dans les autres *
+39918un aut(re)                    1n Ot                         passe à un aut(re) sujet
 39920les affaires                  lez a-fER                     comme ça les affaires .
 39933on essaie                     §n E-sE                       on essaie de mettre de des
 39948est un                        et 1                          , c' est un drame
@@ -3501,6 +3472,7 @@
 42446est une                       et yn                         ça c' est une caméra
 42459est une                       et yn                         c' est une caméra .
 42461on enregistre                 §n @R-ZistR                   mar qu' on enregistre .
+42462on enregist(r)e               §n @R-Zist                    on enregist(r)e sa voix et oh
 42463on enregistre                 §n @R-ZistR                   et on enregistre son image .
 42463son image                     s§n i-maZ                     on enregistre son image .
 42465en a                          @n a                          oui y en a une
@@ -3519,8 +3491,6 @@
 42505quand on                      k@t §                         quand on sort .
 42506les oreilles                  lez o-REj                     après dans les oreilles .
 42535tout à                        tut a                         ses clés tout à l'
-42536peut être                     p2t EtR                       son manteau peut être .
-42539peut être                     p2t EtR                       c' est peut être encore
 42554en es                         @n E                          tu t' en es pas
 42573dans une                      d@z yn                        pour mett(r)e dans une bouche
 42574dans une                      d@z yn                        pour mettre dans une serrure
@@ -3567,6 +3537,7 @@
 42897est un                        et 1                          là c' est un micro
 42899on enregistre                 §n @R-ZistR                   là on enregistre .
 42901est un                        et 1                          aussi c' est un micro
+42904on enregist(r)e               §n @R-Zist                    on enregist(r)e ta voix aussi avec
 42912plus ou                       plyz u                        son soit plus ou moins
 42917on arrête                     §n a-REt                      on arrête ?
 42922est allumée                   et a-ly-me                    lumière rouge est allumée et
@@ -3643,7 +3614,6 @@
 43520les endroits                  lez @-dRwa                    m' indiques les endroits où
 43528plus ici                      plyz i-si                     le mets plus ici ,
 43535tout à                        tut a                         on verra tout à l' heure
-43535peut être                     p2t EtR                       gâteaux , peut être .
 43539un endroit                    1n @-dRwa                     est pas un endroit pour
 43547est à                         et a                          c' est à mar après oui
 43561on est                        §n e                          ça , on est pas
@@ -3663,7 +3633,6 @@
 43744est à                         et a                          il est à maman , oui
 43755on a                          §n a                          on a rien à faire en
 43775est à                         et a                          c' est à papa .
-43778peut être                     p2t EtR                       l(e) casser peut être ,
 43782en avoir                      @n a-vwaR                     va y en avoir partout
 43792est un                        et 1                          c' est un micro .
 43793est un                        et 1                          , c' est un micro
@@ -3791,7 +3760,6 @@
 44714quand on                      k@t §                         bruit , quand on le
 44731en ont                        @n §                          ils n' en ont pas
 44744on en                         §n @                          est-ce qu' on en fait
-44760peut être                     p2t EtR                       oui peut être .
 44763est à                         et a                          oui c' est à la dame
 44774un autre                      1n otR                        encore un autre ?
 44776est un                        et 1                          , c' est un autre
@@ -3829,8 +3797,6 @@
 45023deux ailes                    d2z El                        dans les deux ailes en
 45032est une                       et yn                         c' est une catastrophe .
 45043aux animaux                   oz a-ni-mo                    on jouait aux animaux .
-45052peut être                     p2t EtR                       plus , peut être .
-45059peut être                     p2t EtR                       ben , peut être .
 45067les objets                    lez Ob-ZE                     comme ça les objets ?
 45076est un                        et 1                          c' est un che(val) .
 45082un autre                      1n otR                        un autre ?
@@ -3848,7 +3814,6 @@
 45121ils ont                       ilz §                         bébés , ils ont des
 45125on aille                      §n aj                         , qu' on aille où
 45132on ouvre                      §n uvR                        alors on ouvre ?
-45139peut être                     p2t EtR                       peut être oui .
 45156on a                          §n a                          longtemps qu' on a pas
 45160est un                        et 1                          c' est un monsieur , mais
 45164est un                        et 1                          c' est un vélo .
@@ -3917,7 +3882,6 @@
 45800on attend                     §n a-t@                       on attend un peu ?
 45814on a                          §n a                          on a l(e) dernier , il
 45842en aura                       @n o-Ra                       ben y en aura à
-45890peut être                     p2t EtR                       c' est peut être ça qu'
 45903on a                          §n a                          est-ce qu' on a déjà
 45903un hélicoptère                1n e-li-kOp-tER               déjà vu un hélicoptère .
 45909en a                          @n a                          y' en a un là aussi
@@ -3931,7 +3895,6 @@
 45975les oiseaux                   lez wa-zo                     comme les oiseaux .
 45976des ailes                     dez El                        elle a des ailes .
 45991en as                         @n a                          ça t(u) en as dans ton
-46029peut être                     p2t EtR                       le panier peut être ?
 46033on a                          §n a                          ulala on a beaucoup de banane
 46034on a                          §n a                          le reste on a pas
 46036on en                         §n @                          on en a pas .
@@ -3948,7 +3911,6 @@
 46085est un                        et 1                          là c' est un collant à
 46095en a                          @n a                          ben y en a des
 46113les animaux                   lez a-ni-mo                   les animaux ?
-46116peut être                     p2t EtR                       peut être heuh autrement .
 46119un éléphant                   1n e-le-f@                    un éléphant là ?
 46121un autre                      1n otR                        un autre .
 46123vas y                         vaz i                         allez vas y .
@@ -4045,8 +4007,6 @@
 46785est enrhumée                  et @-Ry-me                    mar qui est enrhumée hein
 46787tout à                        tut a                         ai montré tout à l'
 46824ton ami                       t§n a-mi                      je suis ton ami le
-46845peut être                     p2t EtR                       ça peut être pour euh pour
-46850peut être                     p2t EtR                       oh peut être .
 46874on est                        §n e                          on est mieux ici .
 46906on a                          §n a                          on a joué avec ce matin
 46917on l                          §n El                         le bouchon on l ,
@@ -4099,8 +4059,9 @@
 47219quand il                      k@t il                        sait pas quand il rentre
 47227veut on                       v2t §                         on veut on a bientôt terminé
 47227on a                          §n a                          on veut on a bientôt terminé
+47244un aut(re)                    1n Ot                         y a un aut(re) doudou
 47245ton autre                     t§n otR                       ton autre ton aut(re) doudou i(l)
-47269peut être                     p2t EtR                       est dur peut être .
+47245ton aut(re)                   t§n Ot                        ton autre ton aut(re) doudou i(l)
 47283est une                       et yn                         mais c' est une moto
 47284est une                       et yn                         , c' est une moto
 47285est un                        et 1                          , c' est un vélo
@@ -4110,6 +4071,7 @@
 47376des oreilles                  dez o-REj                     il a des oreilles .
 47380est un                        et 1                          c' est un noeud .
 47383son autre                     s§n otR                       parle avec son autre doudou
+47391un aut(re)                    1n Ot                         on mette un aut(re) doudou
 47412bien attention                bj5n a-t@-sj§                 tu fais bien attention avec euh
 47415des amis                      dez a-mi                      ce sont des amis ?
 47416les emmènes                   lez @-mEn                     tu les emmènes où ?
@@ -4223,7 +4185,6 @@
 48205les amis                      lez a-mi                      à bientôt les amis .
 48209est un                        et 1                          c' est un doudou lapin ?
 48210est un                        et 1                          c' est un doudou ours ?
-48232peut être                     p2t EtR                       est lui peut être .
 48256ses enfants                   sez @-f@                      un d(e) ses enfants .
 48279sont ils                      s§t il                        , où sont ils les
 48284est orange                    et o-R@Z                      , il est orange ?
@@ -4257,8 +4218,7 @@
 48508grandes assiettes             gR@dz a-sjEt                  trois grandes assiettes .
 48523en a                          @n a                          vois y en a là
 48524en as                         @n a                          alors t(u) en as mis .
-48525en aura                       @n o-Ra                       (aura) y en aura peut
-48525peut être                     p2t EtR                       en aura peut être à
+48525en aura                       @n o-Ra                       (aura) y en aura peut-être
 48530vas y                         vaz i                         , bah vas y .
 48547trop elle                     tRop El                       s' approche trop elle va
 48550un un                         1n 1                          un un .
@@ -4314,7 +4274,6 @@
 48933un autre                      1n otR                        faut faire un autre .
 48953est un                        et 1                          lui c' est un singe .
 48960est un                        et 1                          ci c' est un zèbre
-48962peut être                     p2t EtR                       peut être qu' il va tomber
 48968est un                        et 1                          ça c' est un p(e)tite bête
 48978quand il                      k@t il                        mais quand il a faim il
 48981tout à                        tut a                         l(e) bib(e)ron tout à l'
@@ -4328,7 +4287,6 @@
 49013est un                        et 1                          lui c' est un b .
 49014est un                        et 1                          oui c' est un b
 49015est un                        et 1                          huit c' est un b
-49016peut être                     p2t EtR                       peut être un huit ?
 49018est un                        et 1                          c' est un b .
 49021en a                          @n a                          mamie elle en a un .
 49028un a                          1n a                          un a .
@@ -4398,7 +4356,6 @@
 49580les oreilles                  lez o-REj                     dans les oreilles de ger .
 49588est une                       et yn                         c' est une cocotte ?
 49595ton m                         t§n Em                        fais grésiller ton m ,
-49606peut être                     p2t EtR                       peut être .
 49633on est                        §n e                          on est d' accord .
 49644dans une                      d@z yn                        le bois dans une tasse
 49657dans une                      d@z yn                        dans une tasse , rouge .
@@ -4422,7 +4379,6 @@
 49794tout à                        tut a                         donc tout à l' heure on
 49798des a                         dez a                         d(e) faire des a ?
 49803est à                         et a                          ann elle est à l' école
-49805peut être                     p2t EtR                       peut être aussi maint(e)nant .
 49807est un                        et 1                          qu' elle est un p(e)tit
 49829est un                        et 1                          c' est un petit ours ?
 49829petit ours                    p°-tit uRs                    est un petit ours ?
@@ -4459,6 +4415,7 @@
 50084quand on                      k@t §                         et quand on fait un peu
 50095en a                          @n a                          (il) y en a combien là
 50098en a                          @n a                          (il) y en a plus que
+50110est aut(re)                   et Ot                         a c' est aut(re) chose .
 50124tout à                        tut a                         c' est tout à l'
 50132quand elle                    k@t El                        que , quand elle te
 50139est en                        et @                          ça c' est en poche
@@ -4473,7 +4430,6 @@
 50241est un                        et 1                          ça c' est un huit ?
 50243est un                        et 1                          c' est un un .
 50243un un                         1n 1                          c' est un un .
-50261peut être                     p2t EtR                       aller là peut être .
 50271les affaires                  lez a-fER                     c' est les affaires de
 50284quand on                      k@t §                         prend uniqu(e)ment quand on va
 50312ont acheté                    §t aS-te                      papa qui ont acheté .
@@ -4482,6 +4438,7 @@
 50316on ira                        §n i-Ra                       heure quand on ira dehors
 50338des animaux                   dez a-ni-mo                   cartes avec des animaux dessus
 50360en a                          @n a                          y en a même deux .
+50370un aut(re)                    1n Ot                         un aut(re) citron ?
 50379vous avez                     vuz a-ve                      et euh vous avez des framboises
 50385vous avez                     vuz a-ve                      et euh vous avez des pommes
 50416vous avez                     vuz a-ve                      ah mais vous avez plus de
@@ -4579,6 +4536,7 @@
 51073on a                          §n a                          on a des citrons des poires
 51098est un                        et 1                          mar elle est un bébé aussi
 51100est un                        et 1                          alors elle est un bébé qui
+51100un aut(re)                    1n Ot                         biberons à un aut(re) bébé
 51127tout à                        tut a                         te donner tout à l'
 51147en ai                         @n E                          ben j' en ai déjà
 51159est une                       et yn                         ça c' est une grosse
@@ -4876,7 +4834,6 @@
 53548est un                        et 1                          c' est un livre .
 53560est un                        et 1                          c' est un pyjama ça ?
 53589nous entendre                 nuz @-t@dR                    va pas nous entendre *
-53618peut être                     p2t EtR                       peut être que ça va les
 53618les endormir                  lez @-dOR-miR                 les , les endormir .
 53627les yeux                      lez j2                        les yeux ?
 53632très agréable                 tREz a-gRe-abl                est pas très agréable .
@@ -4930,7 +4887,6 @@
 53984ses yeux                      sez j2                        mais ses yeux se ferment tous
 53993les yeux                      lez j2                        il a les yeux tous ronds
 53994les histoires                 lez is-twaR                   lui lire les histoires pour
-53997peut être                     p2t EtR                       doudou souris peut être oui
 54017bien avoir                    bj5n a-vwaR                   il aime bien avoir des
 54018est agréable                  et a-gRe-abl                  que c' est agréable d'
 54020quand on                      k@t §                         fait , quand on a
@@ -4966,7 +4922,6 @@
 54214un hydravion                  1n i-dRa-vj§                  s' appelle un hydravion .
 54215un avion                      1n a-vj§                      est comme un avion mais
 54218est une                       et yn                         c' est une longue histoire ,
-54225peut être                     p2t EtR                       peut être que ger elle .
 54233les images                    lez i-maZ                     regarde plutôt les images ensemble
 54263est endormi                   et @-dOR-mi                   il s' est endormi ?
 54269les éléphants                 lez e-le-f@                   est , les éléphants qui
@@ -5022,8 +4977,7 @@
 54668est une                       et yn                         là c' est une raquette
 54670un autre                      1n otR                        va faire un autre sport
 54673tout à                        tut a                         une aut(re) tout à l'
-54673peut être                     p2t EtR                       l' heure peut être qu'
-54673on ira                        §n i-Ra                       être qu' on ira en
+54673on ira                        §n i-Ra                       peut-être qu' on ira en
 54674on ira                        §n i-Ra                       hein on ira en faire dehors
 54676on avait                      §n a-vE                       on avait dit .
 54679on est                        §n e                          parc(e) qu' on est au
@@ -5040,15 +4994,12 @@
 54703les a                         lez a                         là elle les a mis
 54719un autre                      1n otR                        de faire un autre sport
 54722on appelle                    §n a-pEl                      ça , on appelle ça
-54737peut être                     p2t EtR                       peut être que elle s' est
 54743tout autour                   tut o-tuR                     un pansement tout autour du
 54752bien aller                    bj5n a-le                     tu aimes bien aller dans les
 54753en a                          @n a                          tu y en a la
-54753peut être                     p2t EtR                       la crèche peut être ,
 54756on en                         §n @                          nous on en a pas .
 54756en a                          @n a                          nous on en a pas .
 54757en a                          @n a                          ah y en a dans les
-54757peut être                     p2t EtR                       les magasins peut être aussi
 54761plus en                       plyz @                        est d(e) plus en plus
 54769en occupes                    @n o-kyp                      tu t' en occupes bien ?
 54780des affaires                  dez a-fER                     c' est des affaires pour
@@ -5066,9 +5017,7 @@
 54868on était                      §n e-tE                       quand on était dans le ,
 54872on a                          §n a                          on a vu ça .
 54877les yeux                      lez j2                        il a les yeux encore ouverts
-54879peut être                     p2t EtR                       peut être qu' il a faim
 54884les enlèves                   lez @-lEv                     tu n(e) les enlèves pas
-54892peut être                     p2t EtR                       peut être que ton bébé à
 54904en as                         @n a                          tu en as pour les cassettes
 54904en as                         @n a                          puis tu en as maint(e)nant
 54906on on                         §n §                          ouais mais on on va arrêter
@@ -5087,7 +5036,6 @@
 54977en effet                      @n e-fE                       je regarde en effet .
 54989est un                        et 1                          c' est un drôle de doudou
 54992un au                         1n o                          as quelqu' un au téléphone
-55002peut être                     p2t EtR                       peut être qu' elle te dira
 55015quand il                      k@t il                        ah quand il dit ça j(e)
 55019en a                          @n a                          y en a à lyon des
 55023on a                          §n a                          là on a quoi .
@@ -5113,9 +5061,6 @@
 55150plus haute                    plyz ot                       la plus haute , c' est
 55151des arbres                    dez aRbR                      au sommet des arbres .
 55159un arbre                      1n aRbR                       sur euh un arbre et
-55163peut être                     p2t EtR                       ah ben peut être que les
-55167peut être                     p2t EtR                       ben peut être que .
-55169peut être                     p2t EtR                       peut être que les petites elles
 55169petites elles                 p°-titz El                    que les petites elles peuvent
 55174des ânes                      dez an                        c' est des ânes ,
 55178dans un                       d@z 1                         s(e) trouve dans un autre
@@ -5123,7 +5068,6 @@
 55181en a                          @n a                          i(l) y en a là
 55183est une                       et yn                         c' est une aut(re) girafe .
 55192est un                        et 1                          c' est un zèbre .
-55193peut être                     p2t EtR                       tu vas peut être retrouver le
 55200est un                        et 1                          qu(e) c' est un loup
 55208en au                         @n o                          est marqué en au dessus
 55209un l                          1n El                         avec un l comme léa .
@@ -5139,7 +5083,6 @@
 55261est un                        et 1                          qu(e) c' est un loup
 55263on est                        §n e                          on est entouré de loups hein
 55263est entouré                   et @-tu-Re                    on est entouré de loups hein
-55279peut être                     p2t EtR                       ah peut être sur le fauteuil
 55287ils ont                       ilz §                         ils ont embêté les écureuils ?
 55287ont embêté                    §t @-bE-te                    ils ont embêté les écureuils ?
 55287les écureuils                 lez e-ky-R9j                  ont embêté les écureuils ?
@@ -5166,7 +5109,6 @@
 55415est un                        et 1                          ça c' est un peu compliqué
 55425dans une                      d@z yn                        dans une casserole .
 55426en as                         @n a                          t(u) en as pas ?
-55429peut être                     p2t EtR                       peut être que dans les boîtes
 55434dans une                      d@z yn                        tu as dans une casserole
 55435des haricots                  dez a-Ri-ko                   crevettes avec des haricots verts
 55436les haricots                  lez a-Ri-ko                   tu aimes les haricots verts ?
@@ -5188,7 +5130,6 @@
 55631est avec                      et a-vEk                      ah c' est avec ceux là
 55641plus en                       plyz @                        on peut plus en faire .
 55645plus ouvrir                   plyz u-vRiR                   peut même plus ouvrir le
-55648peut être                     p2t EtR                       ah ben peut être que ça
 55651tout à                        tut a                         crois , tout à l'
 55655on essaye                     §n e-sEj                      on essaye ?
 55676plus en                       plyz @                        on peut plus en faire .
@@ -5352,8 +5293,7 @@
 56498est un                        et 1                          ça c' est un monsieur ,
 56501est un                        et 1                          ça c' est un monsieur
 56508est une                       et yn                         que c' est une grimace
-56513est une                       et yn                         c' est une dame peut être
-56513peut être                     p2t EtR                       une dame peut être qui
+56513est une                       et yn                         c' est une dame peut-être qui
 56514est une                       et yn                         ça c' est une dame qui
 56525les on                        lez §                         derrière on les on retrouve
 56530dans une                      d@z yn                        dans une maison qui , qui
@@ -5385,7 +5325,6 @@
 56717un éléphant                   1n e-le-f@                    un éléphant ?
 56729on essaies                    §n E-sE                       alors on essaies de faire .
 56734tout à                        tut a                         l(e) changera tout à l'
-56736peut être                     p2t EtR                       on va peut être même lui
 56740en a                          @n a                          y en a plein sur tes
 56743un une                        1n yn                         essuies avec un une lingette
 56747est un                        et 1                          alors c' est un tigre que
@@ -5412,7 +5351,6 @@
 56919ont a                         §t a                          autre qui ont a des
 56924les avions                    lez a-vj§                     et les avions i(l) s ont
 56935est important                 et 5-pOR-t@                   ah c' est important la couleur
-56945peut être                     p2t EtR                       peut être qu' il veut faire
 56955vous avez                     vuz a-ve                      ah bon vous avez fait du
 56964en a                          @n a                          qu' y en a beaucoup
 56964en a                          @n a                          qu' y en a beaucoup
@@ -5484,7 +5422,6 @@
 57271est en                        et @                          pot qui est en orange
 57271en orange                     @n o-R@Z                      qui est en orange alors
 57286ton avis                      t§n a-vi                      couleur à ton avis ?
-57297peut être                     p2t EtR                       on va peut être enlever la
 57303tout à                        tut a                         l' écoutera tout à l'
 57320bien agréable                 bj5n a-gRe-abl                est pas bien agréable .
 57347ton ongle                     t§n §gl                       regarde avec ton ongle .
@@ -5552,13 +5489,10 @@
 57718en oreilles                   @n o-REj                      se transformeraient en oreilles d'
 57723est un                        et 1                          que c' est un gros
 57726en un                         @n 1                          a transformé en un vrai
-57727peut être                     p2t EtR                       peu long peut être pour
 57728plus une                      plyz yn                       c' est plus une fille
 57735était un                      e-tEt 1                       qu(e) c' était un papa
 57736ils ont                       ilz §                         il a ils ont un
 57736ont un                        §t 1                          a ils ont un peu
-57742peut être                     p2t EtR                       ba oui peut être .
-57744peut être                     p2t EtR                       ou peut être qu' il va
 57746ils ont                       ilz §                         monsieurs aussi ils ont les
 57750ils ont                       ilz §                         ba non ils ont des
 57754dans un                       d@z 1                         dans un champ ?
@@ -5566,13 +5500,10 @@
 57769on a                          §n a                          bon on a terminé l' histoire
 57772quand il                      k@t il                        quand il a donné un coup
 57778trop aller                    tRop a-le                     il voulait trop aller au
-57790peut être                     p2t EtR                       ah peut être .
-57791peut être                     p2t EtR                       peut être qu' elle a attendu
 57796est une                       et yn                         non c' est une sauterelle
 57815est une                       et yn                         cendrillon c' est une , une
 57816est heuh                      et 2                          c' est heuh c' est une
 57816est une                       et yn                         heuh c' est une dame
-57818peut être                     p2t EtR                       mais peut être qu' elle la
 57822son histoire                  s§n is-twaR                   tu aies son histoire à
 57825est un                        et 1                          que c' est un monsieur
 57827en as                         @n a                          souris tu en as déjà
@@ -5599,6 +5530,7 @@
 57976en as                         @n a                          là t(u) en as plein sur
 57990en as                         @n a                          t(u) en as fait un joli
 57995ton oeuvre                    t§n 9vR                       , à ton oeuvre !
+57997ton aut(re)                   t§n Ot                        est quoi ton aut(re) couleur
 57999est un                        et 1                          ça c' est un bleu foncé
 58001est un                        et 1                          c' est un bleu un bleu
 58010on a                          §n a                          est-ce qu' on a l(e)
@@ -5629,7 +5561,6 @@
 58164on entend                     §n @-t@                       est-ce qu' on entend là
 58190on essaie                     §n E-sE                       on essaie ?
 58195on avançait                   §n a-v@-sE                    montré comment on avançait ?
-58196peut être                     p2t EtR                       est sec peut être .
 58218nous explique                 nuz Ek-splik                  tu nous explique mar c(e) que
 58228on en                         §n @                          eh ben on en remettra
 58231en as                         @n a                          non t' en as plein
@@ -5685,14 +5616,12 @@
 58496on a                          §n a                          pleure quand on a perdu
 58496on est                        §n e                          parc(e) qu' on est ?
 58508est un                        et 1                          c' est un dessin ?
-58513peut être                     p2t EtR                       peut être .
 58520on en                         §n @                          longtemps qu' on en a
 58520en a                          @n a                          qu' on en a pas
 58536vas y                         vaz i                         ah bah vas y ?
 58540est aussi                     et o-si                       jeu c' est aussi de
 58563tout à                        tut a                         la non tout à l'
-58564peut être                     p2t EtR                       non peut être tout à l'
-58564tout à                        tut a                         peut être tout à l'
+58564tout à                        tut a                         non peut-être tout à l' heure
 58567est un                        et 1                          ça c' est un rêve ça
 58578est un                        et 1                          oui c' est un rond !
 58579bien un                       bj5n 1                        bien , bien un rond
@@ -5724,13 +5653,10 @@
 58705est un                        et 1                          ça c' est un rose clair
 58706est un                        et 1                          ça c' est un rose foncé
 58709vas y                         vaz i                         bon bah vas y .
-58710peut être                     p2t EtR                       oui peut être que c' est
 58729est un                        et 1                          c' est un renard à tête
 58733est un                        et 1                          , c' est un peu
 58734est un                        et 1                          c' est un serpent .
-58741peut être                     p2t EtR                       ah peut être .
 58763est assez                     et a-se                       , c' est assez facile
-58788peut être                     p2t EtR                       ɑː peut être euh de ton
 58797tout à                        tut a                         on verra tout à l' heure
 58821en entier                     @n @-tje                      le papillon en entier du
 58825nous explique                 nuz Ek-splik                  alors tu nous explique ce que
@@ -6026,7 +5952,6 @@
 60499est une                       et yn                         mais c' est une petite
 60514en as                         @n a                          la t(u) en as plein
 60515on essaie                     §n E-sE                       oh , on essaie d(e)
-60525peut être                     p2t EtR                       , ça peut être que
 60525est un                        et 1                          que c' est un peu
 60529est un                        et 1                          c' est un peu rose ,
 60530est un                        et 1                          c' est un rose foncé ,
@@ -6037,7 +5962,6 @@
 60566en as                         @n a                          tu en as dans ta euh
 60583nous entend                   nuz @-t@                      emi elle nous entend pas
 60597en a                          @n a                          et y en a plus(ieurs) ,
-60611peut être                     p2t EtR                       debout , peut être .
 60612quand ils                     k@t il                        quand ils sont debout , ils
 60615est un                        et 1                          ça c' est un fouet
 60630en a                          @n a                          y en a deux ?
@@ -6167,7 +6091,6 @@
 61423on est                        §n e                          , quand on est dans
 61425peut être                     p2t EtR                       que ça peut être ?
 61430tout abîmés                   tut a-bi-me                   i(ls) sont tout abîmés .
-61436peut être                     p2t EtR                       peut être .
 61442en as                         @n a                          t(u) en as du fromage ,
 61454en ai                         @n E                          mais j' en ai pour toute
 61457bien une                      bj5n yn                       j(e) veux bien une poire
@@ -6179,6 +6102,7 @@
 61532en a                          @n a                          y en a une autre *
 61555vous allez                    vuz a-le                      vous allez où ?
 61556dans un                       d@z 1                         vous partez dans un aut(re) pays
+61556un aut(re)                    1n Ot                         partez dans un aut(re) pays
 61557vous allez                    vuz a-le                      est-ce que vous allez ?
 61560vous allez                    vuz a-le                      vous allez à paris ?
 61567on explique                   §n Ek-splik                   faut qu' on explique à
@@ -6222,7 +6146,6 @@
 61805on essaie                     §n E-sE                       on essaie , quand même ?
 61808les a                         lez a                         où on les a mis
 61808les a                         lez a                         qu' on les a utilisés
-61810peut être                     p2t EtR                       , si peut être !
 61812en a                          @n a                          si y en a ,
 61822en a                          @n a                          là y en a .
 61823en a                          @n a                          , y en a qu'
@@ -6272,7 +6195,6 @@
 62173en avait                      @n a-vE                       y en avait aussi , du
 62173ton école                     t§n e-kOl                     , dans ton école ?
 62174vous y                        vuz i                         et vous y jouez parfois ?
-62176peut être                     p2t EtR                       peut être .
 62183bien être                     bj5n EtR                      ça peut bien être ?
 62185est à                         et a                          que c' est à ton
 62185ton avis                      t§n a-vi                      est à ton avis ,
@@ -6281,7 +6203,6 @@
 62191en a                          @n a                          sais y en a dans
 62202dans un                       d@z 1                         tout seul dans un pré
 62221vas y                         vaz i                         allez vas y essaies de l(e)
-62225peut être                     p2t EtR                       peut être .
 62244tout à                        tut a                         le r(e)mettras tout à l'
 62248on essaiera                   §n E-sE-Ra                    on retrou(vera) on essaiera d(e)
 62248quand il                      k@t il                        d(e) retrouver quand il y
@@ -6333,9 +6254,8 @@
 62555on a                          §n a                          ptiswis donc on a pas
 62557un m                          1n Em                         déjà fait un m .
 62558un a                          1n a                          un a .
-62561en auras                      @n o-Ra                       mais t(u) en auras peut
-62561peut être                     p2t EtR                       en auras peut être d'
-62561autres encore                 otRz @-kOR                    être d' autres encore que
+62561en auras                      @n o-Ra                       mais t(u) en auras peut-être
+62561autres encore                 otRz @-kOR                    peut-être d' autres encore que
 62566un e                          1n 2                          y a un e tout
 62566tout à                        tut a                         un e tout à la
 62574quand il                      k@t il                        a pas quand il a
@@ -6365,7 +6285,6 @@
 62693on on                         §n §                          donc on on verra plus tard
 62697on en                         §n @                          que l' on en a
 62697en a                          @n a                          l' on en a fait
-62718peut être                     p2t EtR                       elle avait peut être une ,
 62718beaucoup à                    bo-kup a                      qui ressemb(l)e beaucoup à la
 62729est en                        et @                          il est en haut là .
 62757en a                          @n a                          y en a plus d' autres
@@ -6374,7 +6293,6 @@
 62796on a                          §n a                          ben non on a déjà cherché
 62799on a                          §n a                          on a dù les , les
 62799les utiliser                  lez y-ti-li-ze                les , les utiliser pour
-62800peut être                     p2t EtR                       peut être qu' on l' a
 62802on a                          §n a                          on a déjà recherché .
 62804des m                         dez Em                        y a des m .
 62810est un                        et 1                          ça c' est un i .
@@ -6414,8 +6332,6 @@
 63003nous as                       nuz a                         tu nous as dit tout à
 63003tout à                        tut a                         as dit tout à l'
 63005vas y                         vaz i                         vas y !
-63011peut être                     p2t EtR                       il est peut être .
-63015peut être                     p2t EtR                       l' a peut être remis
 63024on a                          §n a                          on a fait du jardinage .
 63025on a                          §n a                          on a remué un petit peu
 63033un apéritif                   1n a-pe-Ri-tif                nous proposes un apéritif !
@@ -6440,14 +6356,10 @@
 63155des une                       dez yn                        et des une alina t(u) en
 63155en a                          @n a                          alina t(u) en a pas
 63159est au                        et o                          alors martin est au lit .
-63168peut être                     p2t EtR                       il a peut être besoin
 63169en a                          @n a                          sais y en a aussi
-63170peut être                     p2t EtR                       sais pas peut être que
 63194est à                         et a                          donc elle est à la
 63221est en                        et @                          là qui est en train
-63234peut être                     p2t EtR                       peut être qu' elle ne mange
 63251ton avis                      t§n a-vi                      a ton avis qu' est-ce que
-63251peut être                     p2t EtR                       que ça peut être ,
 63259ton avis                      t§n a-vi                      à ton avis !
 63271est en                        et @                          qu' elle est en train
 63279est habillé                   et a-bi-je                    il s' est habillé .
@@ -6458,7 +6370,6 @@
 63295est un                        et 1                          c' est un parapluie ça !
 63296est une                       et yn                         c' est une .
 63298est une                       et yn                         oui c' est une casquette
-63303peut être                     p2t EtR                       bein peut être qu' avec le
 63303est a                         et a                          la casquette est a volé
 63303est un                        et 1                          oiseau qui est un ami
 63303un ami                        1n a-mi                       qui est un ami de
@@ -6476,14 +6387,10 @@
 63364est une                       et yn                         fusil c' est une arme
 63365on utilise                    §n y-ti-liz                   que euh on utilise pour
 63366un animal                     1n a-ni-mal                   veut soit un animal ou
-63368peut être                     p2t EtR                       bein peut être .
-63369peut être                     p2t EtR                       hein mais peut être que
 63369est une                       et yn                         , c' est une cette
-63369peut être                     p2t EtR                       lumière rouge peut être quand
-63369quand elle                    k@t El                        peut être quand elle ,
+63369quand elle                    k@t El                        rouge peut-être quand elle ,
 63369un un                         1n 1                          atteind quelqu' un un animal
 63369un animal                     1n a-ni-mal                   quelqu' un un animal un
-63369peut être                     p2t EtR                       personne bein peut être que
 63372est un                        et 1                          ça c' est un puzzle .
 63376les ai                        lez E                         que je les ai mis
 63384en a                          @n a                          y en a beaucoup hein de
@@ -6494,30 +6401,25 @@
 63427autres animaux                otRz a-ni-mo                  des d' autres animaux qu'
 63432est une                       et yn                         que c' est une lionne
 63433est un                        et 1                          qu(e) c' est un gros
-63434peut être                     p2t EtR                       un peut être un ocelot .
-63434un ocelot                     1n O-slo                      peut être un ocelot .
+63434un ocelot                     1n O-slo                      un peut-être un ocelot .
 63437autres animaux                otRz a-ni-mo                  mange d' autres animaux comme
 63440ton avis                      t§n a-vi                      ben à ton avis ?
 63442on appelle                    §n a-pEl                      ce qu' on appelle l'
-63444peut être                     p2t EtR                       ben peut être qu' il a
 63448les arbres                    lez aRbR                      bien dans les arbres .
 63450bien être                     bj5n EtR                      ça peut bien être ça
 63458est un                        et 1                          que c' est un grand
 63460est en                        et @                          c(e) qui est en rose
 63473est en                        et @                          c(e) qui est en orange ?
 63473en orange                     @n o-R@Z                      qui est en orange ?
-63474peut être                     p2t EtR                       oh peut être qu' elle peuvent
 63481dans un                       d@z 1                         déjà vu dans un autre
 63481un autre                      1n otR                        vu dans un autre tableau
 63487est un                        et 1                          alors c' est un lion .
 63488est à                         et a                          et il est à côté d(e)
 63496ses yeux                      sez j2                        pas qu(e) ses yeux i(l)
-63498peut être                     p2t EtR                       peut être qu' il fait un
 63506est elle                      et El                         qu' elle est elle s'
 63506est endormie                  et @-dOR-mi                   elle s' est endormie .
 63523quand elle                    k@t El                        musique puis quand elle a
 63524est endormie                  et @-dOR-mi                   elle s' est endormie .
-63525peut être                     p2t EtR                       dit ben peut être qu'
 63525est en                        et @                          qu' elle est en train
 63526quand on                      k@t §                         tu sais quand on s
 63526on s                          §n Es                         sais quand on s '
@@ -6537,8 +6439,6 @@
 63551est à                         et a                          lui c' est à dire
 63552est une                       et yn                         ça c' est une image
 63553est un                        et 1                          c' est un tableau .
-63554peut être                     p2t EtR                       ben oui peut être .
-63556peut être                     p2t EtR                       peut être .
 63565ils étaient                   ilz e-tE                      parce qu' ils étaient vieux
 63571est y                         et i                          c' est y a des gens
 63571des enfants                   dez @-f@                      qui font des enfants ,
@@ -6561,7 +6461,6 @@
 63626dans un                       d@z 1                         les oeufs dans un ,
 63626dans un                       d@z 1                         un , dans un autre
 63626un autre                      1n otR                        , dans un autre récipient
-63629peut être                     p2t EtR                       on va peut être plutôt .
 63630dans un                       d@z 1                         l(e) faire dans un grand
 63634dans un                       d@z 1                         dans un premier temps ils nous
 63634nous ont                      nuz §                         temps ils nous ont ,
@@ -6660,7 +6559,6 @@
 64991vous allez                    vuz a-le                      vous allez mouiller tout l' appareil
 65001chaud ici                     Sot i-si                      fait pas chaud ici hein
 65032mon épaule                    m§n e-pol                     par d(e)ssus mon épaule là
-65053peut être                     p2t EtR                       t(e) gêne peut être .
 65085est extraordinaire            et Ek-stRa-OR-di-nER          c' est extraordinaire ça quand même
 65086quand on                      k@t §                         quand on lache les trucs ça
 65088quand on                      k@t §                         quand on lache les bébés ça
@@ -6679,7 +6577,6 @@
 65378vas y                         vaz i                         vas y !
 65445est un                        et 1                          oh c' est un vieux jouet
 65460on est                        §n e                          on est comme ton papa .
-65470peut être                     p2t EtR                       on va peut être ranger
 65477un autre                      1n otR                        en donner un autre .
 65478un autre                      1n otR                        en chercher un autre .
 65533vas y                         vaz i                         ouais vas y !
@@ -6722,7 +6619,7 @@
 66090bonnes habitudes              bOnz a-bi-tyd                 as d(e) bonnes habitudes ,
 66115trois ensemble                tRwaz @-s@bl                  tous les trois ensemble .
 66116trois ensemble                tRwaz @-s@bl                  tous les trois ensemble .
-66128bon après                     bOn a-pRE                     bon après j(e) sais p(l)us faire
+66128bon après                     bOn a-pRE                     bon après j'sais p(l)us faire .
 66137est à                         et a                          qu' il est à l'
 66188nous ennuie                   nuz @-n8i                     i(l) nous ennuie avec sa tétine
 66196on a                          §n a                          tiens on a pas un truc
@@ -6778,7 +6675,6 @@
 66739on essaie                     §n E-sE                       on essaie dans ce trou là
 66764est un                        et 1                          ça c' est un verre
 66789vas y                         vaz i                         vas y .
-66807peut être                     p2t EtR                       peut être qu' i(l) y aura
 66814était il                      e-tEt il                      loup y était il nous
 66820vas y                         vaz i                         vas y ferme .
 66826vas y                         vaz i                         vas y ferme !
@@ -6972,7 +6868,6 @@
 69325un ami                        1n a-mi                       j' ai un ami qui s'
 69326est un                        et 1                          c' est un géant géant .
 69327est encore                    et @-kOR                      géant c' est encore plus
-69337peut être                     p2t EtR                       l' autre peut être ?
 69342petits enfants                p°-tiz @-f@                   manger les petits enfants !
 69350est assez                     et a-se                       qu' il est assez abîmé
 69353un océan                      1n o-se-@                     vaste comme un océan comme
@@ -7025,7 +6920,6 @@
 69780on ira                        §n i-Ra                       et après on ira jouer
 69809un oignon                     1n O-N§                       m(e) reste un oignon ?
 69831on y                          §n i                          on y va .
-69836peut être                     p2t EtR                       mais , peut être que
 69847tout à                        tut a                         tout à l' heure .
 69855est à                         et a                          c' est à maman ça ?
 69862est à                         et a                          c' est à maman ça .
@@ -7086,7 +6980,6 @@
 70647vas y                         vaz i                         vas y !
 70684quand on                      k@t §                         attention , quand on lance
 70687on allait                     §n a-lE                       et si on allait chercher ton
-70701peut être                     p2t EtR                       peut être dans la chambre de
 70712vas y                         vaz i                         vas y !
 70718vas y                         vaz i                         vas y !
 70744son ombre                     s§n §bR                       c' est son ombre .
@@ -7208,7 +7101,6 @@
 72248en as                         @n a                          t(u) en as pas besoin là
 72331vas y                         vaz i                         vas y touche .
 72333est un                        et 1                          c' est un peu frais là
-72333peut être                     p2t EtR                       frais là peut être quand
 72341en a                          @n a                          qu' y en a pas
 72349on ira                        §n i-Ra                       et puis on ira dans la
 72352vas y                         vaz i                         vas y !
@@ -7426,7 +7318,6 @@
 75071était un                      e-tEt 1                       c' était un oui ou c'
 75071était un                      e-tEt 1                       ou c' était un non
 75072était un                      e-tEt 1                       ou c' était un je sais
-75072peut être                     p2t EtR                       sais pas peut être .
 75098peut être                     p2t EtR                       lune elle peut être aussi
 75099peut être                     p2t EtR                       et elle peut être aussi ,
 75100peut être                     p2t EtR                       et elle peut être aussi comme
@@ -7606,9 +7497,11 @@
 77215les a                         lez a                         qui qui les a mis
 77229les a                         lez a                         jea qui les a fait
 77258est un                        et 1                          c' est un aut(re) petit rond
+77258un aut(re)                    1n Ot                         c' est un aut(re) petit rond
 77267les yeux                      lez j2                        j' ai les yeux qui piquent
 77268les yeux                      lez j2                        j' ai les yeux qui
 77283un autre                      1n otR                        un autre ?
+77284un aut(re)                    1n Ot                         un aut(re) ?
 77286ses yeux                      sez j2                        veux colorier ses yeux en
 77287vas y                         vaz i                         vas y !
 77298vert aussi                    vERt o-si                     bouche en vert aussi ?
@@ -7737,7 +7630,7 @@
 78788est un                        et 1                          oui il est un peu
 78790est un                        et 1                          il est un peu abîmé .
 78812est encore                    et @-kOR                      là c' est encore cache
-78812trop en                       tRop @                        sais pas trop en quoi
+78812trop en                       tRop @                        j'sais pas trop en quoi
 78824est un                        et 1                          c' est un beau .
 78839est un                        et 1                          c' est un cochon .
 78856est encore                    et @-kOR                      il est encore là oui .
@@ -7906,6 +7799,7 @@
 80876est à                         et a                          c' est à l' envers .
 80896est ici                       et i-si                       c' est ici .
 80900est à                         et a                          non c' est à l' envers
+80916un aut(re)                    1n Ot                         nous faut un aut(re) morceau
 80935est aujourd'hui               et o-ZuR-d8i                  c' est aujourd'hui jea .
 80936est aujourd'hui               et o-ZuR-d8i                  c' est aujourd'hui .
 80954est un                        et 1                          là c' est un bateau .
@@ -7960,6 +7854,8 @@
 81364est une                       et yn                         ça c' est une aiguille
 81374quant à                       k@t a                         quant à la petite fille elle
 81376est encore                    et @-kOR                      attends c' est encore mieux
+81383un aut(re)                    1n Ot                         un aut(re) qui tourne nanou .
+81391un aut(re)                    1n Ot                         il faut un aut(re) truc
 81394vas y                         vaz i                         vas y .
 81399dix heures                    diz 9R                        réveiller avant dix heures .
 81400dix heures                    diz 9R                        du tout dix heures hein
@@ -8059,7 +7955,6 @@
 82327on y                          §n i                          on y arrive .
 82347allez y                       a-lez i                       allez y en a plus que
 82347en a                          @n a                          allez y en a plus que
-82351peut être                     p2t EtR                       peut être là oui .
 82362vas y                         vaz i                         vas y .
 82378est accroché                  et a-kRo-Se                   regarde il est accroché à quoi
 82386on arrête                     §n a-REt                      allez on arrête .
@@ -8216,7 +8111,6 @@
 83986on enlève                     §n @-lEv                      aim(e)rais qu' on enlève les
 83997vas y                         vaz i                         vas y .
 84055est un                        et 1                          c' est un mouette .
-84058peut être                     p2t EtR                       peut être .
 84067vous êtes                     vuz Et                        vous êtes doués tous les deux
 84069mon avis                      m§n a-vi                      , à mon avis c'
 84069est à                         et a                          avis c' est à de
@@ -8256,11 +8150,9 @@
 84466est ici                       et i-si                       c' est ici .
 84472un une                        1n yn                         tirer comme un une brute
 84499bien envie                    bj5n @-vi                     ai pas bien envie d(e)
-84509peut être                     p2t EtR                       l(e) mettre peut être .
 84518ton innocent                  t§n i-no-s@                   fais pas ton innocent .
 84523est énervant                  et e-nER-v@                   c' est énervant .
 84530vous avez                     vuz a-ve                      vous avez joué où ?
-84606peut être                     p2t EtR                       on va peut être aler
 84609on aille                      §n aj                         (l' ) on aille manger
 84614on a                          §n a                          regarde on a six m huit
 84614six m                         siz Em                        on a six m huit
@@ -8373,8 +8265,6 @@
 85992est un                        et 1                          c' est un fruit qui est
 85995vas y                         vaz i                         vas y .
 85996les enlever                   lez @l-ve                     i(l) faut les enlever ça
-86002peut être                     p2t EtR                       peut être qu' (il) y a
-86003peut être                     p2t EtR                       peut être qu' (il) y a
 86020en a                          @n a                          t(u) en a fait ou pas
 86044vas y                         vaz i                         bein vas y alors .
 86046on aille                      §n aj                         (l' ) on aille .
@@ -8386,7 +8276,6 @@
 86152est un                        et 1                          c' est un ça va être
 86162les attaquants                lez a-ta-k@                   c' est les attaquants qui vont
 86164les attaquants                lez a-ta-k@                   sont méchants les attaquants !
-86170peut être                     p2t EtR                       peut être .
 86185en entier                     @n @-tje                      pas eu en entier .
 86194tout avoir                    tut a-vwaR                    réussi à tout avoir .
 86212tout à                        tut a                         tout à l' heure .
@@ -8563,15 +8452,13 @@
 88520vas y                         vaz i                         vas y .
 88535vas y                         vaz i                         vas y .
 88573est un                        et 1                          c' est un lion .
-88584peut être                     p2t EtR                       ch(e)wing gum peut être ?
 88588est un                        et 1                          bro il est un bonbon
 88590est un                        et 1                          c' est un seul chi !
-88635dans une                      d@z yn                        j(e) suis dans une phase très
+88635dans une                      d@z yn                        j'suis dans une phase très .
 88640vas y                         vaz i                         vas y , vas y lance
 88640vas y                         vaz i                         y , vas y lance
 88645vas y                         vaz i                         vas y .
 88652est a                         et a                          il est a l' intérieur ?
-88678peut être                     p2t EtR                       tu répètes peut être que
 88684aux ennemis                   oz En-mi                      fait peur aux ennemis qui
 88690est une                       et yn                         c' est une très belle tour
 88695est un                        et 1                          c' est un drôle de batiment
@@ -8656,7 +8543,6 @@
 89463est un                        et 1                          c' est un t .
 89469est une                       et yn                         c' est une margoton .
 89471est une                       et yn                         c' est une margoton .
-89480peut être                     p2t EtR                       d(e) cartes peut être !
 89492vas y                         vaz i                         vas y là !
 89540on essaie                     §n E-sE                       (l' ) on essaie ensemble
 89556mes allumettes                mez a-ly-mEt                  ai perdu mes allumettes .
@@ -8682,7 +8568,6 @@
 89795un endroit                    1n @-dRwa                     garder un endroit dans ta chambre
 89796tout à                        tut a                         l(e) commencera tout à l'
 89810est une                       et yn                         c' est une pièce chacun vous
-89824peut être                     p2t EtR                       peut être oui .
 89828est un                        et 1                          c' est un train ?
 89830on appelle                    §n a-pEl                      comment on appelle ça ?
 89842est à                         et a                          (at)tends c' est à bro
@@ -8746,7 +8631,6 @@
 90505est une                       et yn                         c' est une blague !
 90517quand on                      k@t §                         tu sais quand on était à
 90517on était                      §n e-tE                       sais quand on était à
-90521peut être                     p2t EtR                       peut être que demain il va
 90526les entends                   lez @-t@                      tu les entends les petits oiseaux
 90526petits oiseaux                p°-tiz wa-zo                  entends les petits oiseaux dans
 90527dans un                       d@z 1                         dans , dans un quart
@@ -8893,7 +8777,6 @@
 91978les yeux                      lez j2                        fait fermer les yeux .
 91998on ouvre                      §n uvR                        comment on ouvre ça ?
 92078on allait                     §n a-lE                       et si on allait goûter alors
-92079peut être                     p2t EtR                       peut être qu' après avoir mangé
 92080plus à                        plyz a                        p(eu)t êt(r)e plus à l'
 92095on y                          §n i                          on y va .
 92161les avaient                   lez a-vE                      , tu les avaient perdu
@@ -8981,7 +8864,6 @@
 93460est à                         et a                          est il est à la
 93472bien y                        bj5n i                        * * bien y a du
 93488est une                       et yn                         c' est une feuille .
-93504peut être                     p2t EtR                       peut être faire un trou ?
 93521tout à                        tut a                         tu mets tout à la bouche
 93561tout à                        tut a                         tout à l' heure tu réclamais
 93579est à                         et a                          hein c' est à quoi ça
@@ -9012,8 +8894,7 @@
 94027bien à                        bj5n a                        t(u) es bien à circuler
 94044était un                      e-tEt 1                       ça c' était un truc
 94062est une                       et yn                         c' est une miette .
-94064peut être                     p2t EtR                       peut être tout à l' heure
-94064tout à                        tut a                         peut être tout à l' heure
+94064tout à                        tut a                         peut-être tout à l' heure on
 94085vous aurez                    vuz o-Re                      et vous aurez un escargot .
 94085un escargot                   1n Es-kaR-go                  vous aurez un escargot .
 94090tout à                        tut a                         est pas tout à fait
@@ -9027,6 +8908,7 @@
 94223les endroits                  lez @-dRwa                    les , les endroits à
 94294on aille                      §n aj                         veux qu' on aille regarder
 94330mon avis                      m§n a-vi                      mais à mon avis .
+94331un aut(re)                    1n Ot                         on prendra un aut(re) sac .
 94341vas y                         vaz i                         o vas y .
 94343vas y                         vaz i                         vas y là tu d(e)vrais y
 94350en a                          @n a                          qu' y en a des
@@ -9051,7 +8933,7 @@
 94563est un                        et 1                          c' est un piano c' est
 94563un établi                     1n e-ta-bli                   un , un établi .
 94566est un                        et 1                          c' est un tambour qu' i(l)
-94626bien en                       bj5n @                        j(e) suis bien en train d(e)
+94626bien en                       bj5n @                        j'suis bien en train d(e) jouer
 94646vas y                         vaz i                         vas y oh secoue !
 94671les a                         lez a                         ça on les a jamais
 94683est un                        et 1                          c' est un bouton magique regarde
@@ -9082,7 +8964,6 @@
 95047on en                         §n @                          après on en donne plus hein
 95053bien entendu                  bj5n @-t@-dy                  ai pas bien entendu .
 95055est encore                    et @-kOR                      vois elle est encore un
-95070peut être                     p2t EtR                       peu dedans peut être .
 95074on est                        §n e                          * on est allés voir des
 95074est allés                     et a-le                       * on est allés voir des
 95085bien aimé                     bj5n e-me                     t(u) avais bien aimé hein ?
@@ -9289,7 +9170,6 @@
 98078est endormi                   et @-dOR-mi                   i(l) s' est endormi .
 98087en approches                  @n a-pROS                     tu t' en approches .
 98090est endormi                   et @-dOR-mi                   il s' est endormi sur
-98092peut être                     p2t EtR                       couché tard peut être lui
 98094est un                        et 1                          ça c' est un micro
 98100est un                        et 1                          * c' est un petit micro
 98105est un                        et 1                          c' est un nouveau copain .
@@ -9298,7 +9178,7 @@
 98198en as                         @n a                          t(u) en as vu hier des
 98199en as                         @n a                          mh t(u) en as vu hier
 98219les abîmait                   lez a-bi-mE                   amé elle les abîmait pas trop
-98246on a                          §n a                          suis sûre on a pas
+98246on a                          §n a                          j'suis sûre on a pas tout
 98247est assis                     et a-si                       il est assis .
 98260est avec                      et a-vEk                      chien il est avec son
 98267un arbre                      1n aRbR                       près d' un arbre appuyé
@@ -9411,7 +9291,6 @@
 99280vas y                         vaz i                         ton p(e)tit vas y .
 99284est un                        et 1                          oui c' est un peu
 99315en as                         @n a                          la t(u) en as trouvé
-99319peut être                     p2t EtR                       toi debout peut être .
 99330tout est                      tut e                         et , tout est tombé
 99337en a                          @n a                          y en a un vert là
 99338en a                          @n a                          regarde y en a un vert
@@ -9505,7 +9384,6 @@
 100639en a                          @n a                          i(l) y en a beaucoup
 100641vas y                         vaz i                         vas y .
 100661est une                       et yn                         là c' est une taupe .
-100672peut être                     p2t EtR                       non dessiner peut être .
 100676grandes oreilles              gR@dz o-REj                   avec mes grandes oreilles .
 100677grandes oreilles              gR@dz o-REj                   mes grandes oreilles .
 100687les emmène                    lez @-mEn                     on les emmène pas .
@@ -9514,7 +9392,6 @@
 100776des étoiles                   dez e-twal                    y a des étoiles ?
 100778des étoiles                   dez e-twal                    y a des étoiles dans le
 100792un autre                      1n otR                        en veux un autre ?
-100809peut être                     p2t EtR                       du lait peut être , avant
 100819les étoiles                   lez e-twal                    oh les étoiles !
 100841ses ailes                     sez El                        tu touches ses ailes ?
 100842très en                       tREz @                        bleue , très en colère
@@ -9546,7 +9423,6 @@
 101098est une                       et yn                         c' est une bonne idée ça
 101118était une                     e-tEt yn                      hein c' était une bonne
 101120en a                          @n a                          , y en a trop
-101176peut être                     p2t EtR                       un couteau peut être ?
 101187vas y                         vaz i                         vas y .
 101198on aura                       §n o-Ra                       on aura un gâteau aux pommes
 101200est un                        et 1                          c' est un bretzel ?
@@ -9560,11 +9436,10 @@
 101242est une                       et yn                         c' est une boule de noël
 101246les yeux                      lez j2                        regarde avec les yeux .
 101247les yeux                      lez j2                        avec les yeux on regarde .
-101248les yeux                      lez j2                        ʃyt avec les yeux .
+101248les yeux                      lez j2                        *yt avec les yeux .
 101255peut être                     p2t EtR                       ça peut être dangereux hein .
 101274on en                         §n @                          on en avait acheté deux .
 101274en avait                      @n a-vE                       on en avait acheté deux .
-101288peut être                     p2t EtR                       ah tu peut être , des
 101331est un                        et 1                          ça c' est un micro
 101351on a                          §n a                          dès qu' on a l(e)
 101353tout à                        tut a                         hein tout à l' heure ,
@@ -9625,7 +9500,6 @@
 102002quand on                      k@t §                         quand on joue on renverse pas
 102004est un                        et 1                          , c' est un mur
 102005des escaliers                 dez Es-ka-lje                 des escaliers ?
-102018peut être                     p2t EtR                       peu là peut être .
 102044un air                        1n ER                         avant avec un air coquin
 102057en a                          @n a                          après y en a d(e)
 102092on arrête                     §n a-REt                      , allez on arrête hein
@@ -9721,7 +9595,6 @@
 103232en a                          @n a                          mais y en a un
 103240on a                          §n a                          bon , on a trouvé
 103240nos étagères                  noz e-ta-ZER                  pour faire nos étagères ,
-103285peut être                     p2t EtR                       peut être qu' elle est par
 103324est un                        et 1                          ça c' est un cheval c'
 103332en a                          @n a                          y en a des doudous là
 103333en a                          @n a                          oui y en a hein
@@ -9769,7 +9642,6 @@
 103701petits oiseaux                p°-tiz wa-zo                  pas d(e) petits oiseaux qui
 103716dans un                       d@z 1                         est mieux dans un sac
 103752on attend                     §n a-t@                       attend , on attend valérie hein
-103765peut être                     p2t EtR                       aut(re) chose peut être ?
 103803est une                       et yn                         là c' est une *
 103806est une                       et yn                         là c' est une .
 103830les igloos                    lez i-glu                     les igloos .
@@ -9790,6 +9662,7 @@
 103959vas y                         vaz i                         vas y , c' est toi
 103964en a                          @n a                          (il) y en a dans
 103969est un                        et 1                          ça c' est un canard
+104034un aut(re)                    1n Ot                         on cherche un aut(re) tchoupi
 104037en a                          @n a                          y en a p(eu)t êt(re) bien
 104037bien un                       bj5n 1                        p(eu)t êt(re) bien un encore
 104037un encore                     1n @-kOR                      êt(re) bien un encore ,
@@ -9834,10 +9707,8 @@
 104337en a                          @n a                          (il) y en a un
 104354est encore                    et @-kOR                      c' est encore allumé .
 104357vas y                         vaz i                         allez vas y .
-104379peut être                     p2t EtR                       allumer peut être pa(r)c(e) que mémée
 104403est à                         et a                          c' est à qui le joli
 104406est à                         et a                          c' est à ame .
-104415peut être                     p2t EtR                       õ ça peut être touche ?
 104437on essaie                     §n E-sE                       on essaie de mettre le .
 104451un autre                      1n otR                        il faut un autre ?
 104458est avec                      et a-vEk                      , c' est avec la
@@ -9868,7 +9739,6 @@
 104780vas y                         vaz i                         allez vas y .
 104783vas y                         vaz i                         vas y tire .
 104787en arrière                    @n a-RjER                     failli partir en arrière de
-104800peut être                     p2t EtR                       bon , peut être changer
 104847bien y                        bj5n i                        i(l) doit bien y avoir une
 104902quand elle                    k@t El                        contente ame quand elle va
 104932est une                       et yn                         c' est une brosse .
@@ -9881,8 +9751,6 @@
 105063mon assiette                  m§n a-sjEt                    peu dans mon assiette ?
 105105en a                          @n a                          (il)y en a beaucoup dedans .
 105106en a                          @n a                          aussi i(l) en a beaucoup
-105112peut être                     p2t EtR                       y a peut être quelque
-105122peut être                     p2t EtR                       y a peut être de quoi
 105125bien aller                    bj5n a-le                     va pas bien aller ça
 105142est une                       et yn                         c' est une pomme ça ?
 105145est une                       et yn                         c' est une banane hein .
@@ -9899,7 +9767,6 @@
 105244est une                       et yn                         ça c' est une assiette
 105245bien aimé                     bj5n e-me                     j' aurais bien aimé la
 105261en a                          @n a                          (il) y en a là .
-105274peut être                     p2t EtR                       y a peut être quelque
 105287est un                        et 1                          c' est un poireau .
 105291est un                        et 1                          si c' est un poireau
 105316on a                          §n a                          on a l(e) droit à .
@@ -9989,7 +9856,6 @@
 106004ton eau                       t§n o                         est bonne ton eau .
 106015vas y                         vaz i                         ah oui vas y .
 106033est avec                      et a-vEk                      c' est avec la fourchette .
-106067peut être                     p2t EtR                       d(e) sel peut être moi
 106086en a                          @n a                          y en a trois ?
 106116en ai                         @n E                          la j' en ai d(e)
 106125mon eau                       m§n o                         sirop avec mon eau tiens
@@ -10036,7 +9902,6 @@
 106581les yeux                      lez j2                        d(e) mett(re) les yeux sur
 106606est avec                      et a-vEk                      il est avec qui là ?
 106614est un                        et 1                          ça c' est un p(e)tit arbre
-106614peut être                     p2t EtR                       des , peut être des
 106623en a                          @n a                          là y en a un là
 106624en a                          @n a                          puis y en a un ici
 106624un ici                        1n i-si                       en a un ici .
@@ -10097,7 +9962,6 @@
 107014mouillés après                mu-jez a-pRE                  doigts tout mouillés après tu
 107016un éléphant                   1n e-le-f@                    y a un éléphant .
 107025est un                        et 1                          ça c' est un bateau .
-107047peut être                     p2t EtR                       copain aussi peut être ?
 107052est assis                     et a-si                       il est assis sur un ?
 107053est assis                     et a-si                       il est assis sur quoi ?
 107057est assise                    et a-siz                      miel elle est assise sur
@@ -10168,7 +10032,7 @@
 107669est un                        et 1                          ça c' est un .
 107670est un                        et 1                          , c' est un avion
 107670un avion                      1n a-vj§                      c' est un avion .
-107671un avion                      1n a-vj§                      un avion , ʃepa trop c(e)
+107671un avion                      1n a-vj§                      un avion , *epa trop c(e)
 107680est entre                     et @tR                        , c' est entre les
 107685ton assiette                  t§n a-sjEt                    mets dans ton assiette .
 107687était un                      e-tEt 1                       autre il était un peu
@@ -10248,7 +10112,7 @@
 108404en arrière                    @n a-RjER                     te jettes en arrière bah
 108407en arrière                    @n a-RjER                     te jettes en arrière .
 108413tout à                        tut a                         lui dis tout à lulu
-108440tout à                        tut a                         ʃyi pas tout à l' envers
+108440tout à                        tut a                         *yi pas tout à l' envers
 108449beaux yeux                    boz j2                        beaux yeux .
 108458des yeux                      dez j2                        t(u) as des yeux toi oui
 108460tes yeux                      tez j2                        quelle couleur tes yeux ?
@@ -10272,7 +10136,6 @@
 108612on attend                     §n a-t@                       on attend qu(e) tu chantes hein
 108617est une                       et yn                         c' est une bergère ça ?
 108628était une                     e-tEt yn                      après il était une bergère
-108631peut être                     p2t EtR                       que ça peut être comme
 108637les escargots                 lez Es-kaR-go                 qui ramasse les escargots ?
 108651est il                        et il                         ça y est il euh
 108658est une                       et yn                         c' est une pie .
@@ -10280,7 +10143,6 @@
 108659un oiseau                     1n wa-zo                      c' est un oiseau qui s'
 108693bien amusé                    bj5n a-my-ze                  me suis bien amusé .
 108705en occuper                    @n o-ky-pe                    faut s' en occuper .
-108707peut être                     p2t EtR                       son manteau peut être ?
 108710en occuper                    @n o-ky-pe                    me m' en occuper maman
 108718sans eau                      s@z o                         tout seul sans eau et
 108723sans eau                      s@z o                         et sans eau et sans savon
@@ -10305,7 +10167,6 @@
 108886les oreilles                  lez o-REj                     se bouche les oreilles .
 108890est encore                    et @-kOR                      elle est encore un peu petite
 108917est en                        et @                          elle avait est en train
-108925peut être                     p2t EtR                       encore faim peut être .
 108955deux ans                      d2z @                         as pas deux ans ?
 108975des acrobaties                dez a-kRo-ba-si               fait pas des acrobaties là
 109004est assez                     et a-se                       là elle est assez grosse
@@ -10344,7 +10205,6 @@
 109320est il                        et il                         ça y est il est
 109322un hippopotame                1n i-po-po-tam                un hippopotame .
 109327est un                        et 1                          oh c' est un tunnel aussi
-109331peut être                     p2t EtR                       peut être qu' on peut dire
 109337petit éléphant                p°-tit e-le-f@                est le petit éléphant .
 109347on a                          §n a                          regarde ouais on a même
 109355en a                          @n a                          mais y en a pas .
@@ -10371,7 +10231,6 @@
 109591un oeuf                       1n 9f                         un oeuf de crocodile .
 109613on en                         §n @                          on en a vu au parc
 109613en a                          @n a                          on en a vu au parc
-109624peut être                     p2t EtR                       peut être que ça va tomber
 109642un oeuf                       1n 9f                         doit manquer un oeuf .
 109648des oeufs                     dez 2                         regarde des oeufs avec des poussins
 109649des oeufs                     dez 2                         des oeufs avec des pu ,
@@ -10470,7 +10329,6 @@
 110479est un                        et 1                          c' est un arbre .
 110479un arbre                      1n aRbR                       c' est un arbre .
 110480sans un                       s@z 1                         se pose sans un bruit
-110486peut être                     p2t EtR                       la lune peut être mais
 110487sans un                       s@z 1                         se pose sans un bruit
 110491tout est                      tut e                         tout est calme à nouveau .
 110500ses yeux                      sez j2                        regarde ses yeux comme il a
@@ -10482,7 +10340,7 @@
 110557est épouvanté                 et e-pu-v@-te                 il est épouvanté !
 110558tout au                       tut o                         toutes pattes tout au bout
 110562quand il                      k@t il                        quand il pousse son .
-110564quand il                      k@t il                        quand il pousse son tʃupiduuː .
+110564quand il                      k@t il                        quand il pousse son t*upiduuː .
 110570en a                          @n a                          (il) y en a deux
 110573en a                          @n a                          combien y en a ?
 110575en a                          @n a                          y en a .
@@ -10604,9 +10462,9 @@
 111820en a                          @n a                          y en a un qu' est
 111839vas y                         vaz i                         non vas y mets le au
 111867est un                        et 1                          ça c' est un cheval
-111868peut être                     p2t EtR                       peut être qu' i(l) * dessus
 111873on a                          §n a                          est-ce qu' on a encore
 111874est un                        et 1                          ça c' est un aut(re) ,
+111874un aut(re)                    1n Ot                         c' est un aut(re) ,
 111874un autre                      1n otR                        aut(re) , un autre garde
 111889on à                          §n a                          nous on à fait ça .
 111919plus à                        plyz a                        ça r(e)ssemble plus à un
@@ -10635,7 +10493,6 @@
 112191est à                         et a                          il est à chaley ?
 112198est arrivé                    et a-Ri-ve                    i(l) lui est arrivé à
 112202les enlève                    lez @-lEv                     on les enlève toutes .
-112219peut être                     p2t EtR                       i(l) manque peut être de l'
 112227ton armoire                   t§n aR-mwaR                   est vers ton armoire .
 112228ton armoire                   t§n aR-mwaR                   vers ton armoire .
 112242on a                          §n a                          fois qu' on a r(e)pris
@@ -10694,7 +10551,7 @@
 112674est en                        et @                          qu' il est en train
 112674ton avis                      t§n a-vi                      , à ton avis ?
 112676aux épingles                  oz e-p5gl                     des gâteaux aux épingles ?
-112695est à                         et a                          ça c' est à ʃale qu'
+112695est à                         et a                          ça c' est à *ale qu'
 112700dans une                      d@z yn                        on met dans une aut(re) machine
 112709est une                       et yn                         vois c' est une chaise
 112713en avant                      @n a-v@                       en avant en arrière .
@@ -10731,6 +10588,7 @@
 112929les amis                      lez a-mi                      tous les amis , les papas
 112974ses habits                    sez a-bi                      mis remis ses habits hein
 112988tout à                        tut a                         et puis tout à coup ,
+112988un ouv(re)                    1n uv                         , quelqu' un ouv(re) la
 112989est à                         et a                          c' est à toi ce nounours
 112995tout à                        tut a                         elle raconte tout à son papa
 113003est en                        et @                          vois il est en train
@@ -10824,7 +10682,6 @@
 113822en ai                         @n E                          r(e)garde j' en ai un là
 113876on a                          §n a                          la mais on a presque
 113881quand on                      k@t §                         et quand on .
-113886peut être                     p2t EtR                       on pourrait peut être essayer de
 113896vas y                         vaz i                         vas y .
 113928les enfants                   lez @-f@                      dites donc les enfants j(e)
 113928on a                          §n a                          crois qu' on a tout
@@ -10911,7 +10768,6 @@
 114434on a                          §n a                          ensuite alors on a dit le
 114437est en                        et @                          regarde il est en bas
 114438bas aussi                     baz o-si                      mettre en bas aussi .
-114459peut être                     p2t EtR                       veux dire peut être .
 114461les oreilles                  lez o-REj                     alors les oreilles on les met
 114463les oignons                   lez O-N§                      les oignons .
 114478est en                        et @                          là c' est en bas
@@ -11044,17 +10900,14 @@
 115536un étage                      1n e-taZ                      faut descendre un étage en
 115572les oreilles                  lez o-REj                     y a les oreilles d' emi
 115577est occupé                    et o-ky-pe                    on s' est occupé de toi
-115579peut être                     p2t EtR                       peut être hein laisser .
 115583est une                       et yn                         c' est une fois tous les
 115627tout à                        tut a                         ta chambre tout à l'
 115635on en                         §n @                          c(e) qu' on en a
 115635en a                          @n a                          qu' on en a fait
 115637les airs                      lez ER                        p(l)us tous les airs .
 115666dans un                       d@z 1                         dans un panier .
-115672peut être                     p2t EtR                       un voisin peut être .
 115675content i(l)                  k§-t@t i                      il est content i(l) les
 115679un arrosoir                   1n a-Ro-zwaR                  un arrosoir oui .
-115683peut être                     p2t EtR                       peut être que c' est des
 115687un étang                      1n e-t@                       fond d' un étang .
 115692un étang                      1n e-t@                       fond d' un étang qui
 115693un étang                      1n e-t@                       fond d' un étang qui
@@ -11095,7 +10948,6 @@
 115971mon âne                       m§n an                        mon âne mon âne a bien
 115982des aiguilles                 dez e-g8ij                    elle a des aiguilles .
 115983est une                       et yn                         ça c' est une pelotte de
-115989peut être                     p2t EtR                       la fièvre peut être .
 115991en a                          @n a                          qu' il en a pas
 116000on aura                       §n o-Ra                       et ben on aura bien r(e)gardé
 116012plus il                       plyz il                       en plus il est à ame
@@ -11121,7 +10973,6 @@
 116164un appareil                   1n a-pa-REj                   c' était un appareil photo
 116197est un                        et 1                          bah c' est un popi
 116225est un                        et 1                          que c' est un pantalon
-116229peut être                     p2t EtR                       peut être hein remarque hein .
 116235mon avis                      m§n a-vi                      vois à mon avis .
 116238les élastiques                lez e-las-tik                 oui mais les élastiques i(ls)
 116239bien avec                     bj5n a-vEk                    ça irait bien avec son
@@ -11133,7 +10984,6 @@
 116305on en                         §n @                          alors on en fait que(l)que chose
 116321on a                          §n a                          alors , on a pas
 116328on a                          §n a                          on a inventé un truc .
-116344peut être                     p2t EtR                       peut être .
 116361ton avis                      t§n a-vi                      à ton avis .
 116365ont un                        §t 1                          i(l) s ont un p(e)tit ,
 116386on ouvre                      §n uvR                        le frigo on ouvre il est
@@ -11215,7 +11065,7 @@
 116976des oeufs                     dez 2                         y a des oeufs ?
 116977son aile                      s§n El                        poussin sous son aile .
 116981trois oeufs                   tRwaz 2                       a , trois oeufs et
-116984on aurait                     §n o-RE                       bʁytys on aurait dû t' app(e)ler
+116984on aurait                     §n o-RE                       b*ytys on aurait dû t' app(e)ler
 116988on a                          §n a                          est comment on a ppelle
 116990les animaux                   lez a-ni-mo                   , pour les animaux ?
 116992est aussi                     et o-si                       c' est aussi des poules ?
@@ -11229,9 +11079,8 @@
 117069on avait                      §n a-vE                       on avait mangé par là bas
 117069des oeufs                     dez 2                         là bas des oeufs des
 117069des oeufs                     dez 2                         des oeufs des oeufs de
-117071on a                          §n a                          plus mais on a peut
-117071peut être                     p2t EtR                       on a peut être mangé
-117071des oeufs                     dez 2                         être mangé des oeufs de
+117071on a                          §n a                          plus mais on a peut-être
+117071des oeufs                     dez 2                         peut-être mangé des oeufs de
 117074elles étaient                 Elz e-tE                      non elles étaient plus bonnes le
 117078vous arrêtez                  vuz a-RE-te                   vous arrêtez sinon vous allez chacun
 117078vous allez                    vuz a-le                      arrêtez sinon vous allez chacun
@@ -11247,14 +11096,12 @@
 117160moins aussi                   mw5z o-si                     marche au moins aussi bien
 117162on entend                     §n @-t@                       on entend la mer .
 117164on entend                     §n @-t@                       on entend la mer ?
-117178peut être                     p2t EtR                       on pourrait peut être mettre le
 117187est un                        et 1                          c' est un peu gros .
 117189en avoir                      @n a-vwaR                     doit y en avoir des
 117191en a                          @n a                          y en a pas ?
 117223on est                        §n e                          alors on est où là ?
 117226est une                       et yn                         c' est une ?
 117233les animaux                   lez a-ni-mo                   presque tous les animaux sont endormis
-117243peut être                     p2t EtR                       pt tourterelles peut être .
 117244tout est                      tut e                         tout est calme et tranquille .
 117249elles en                      Elz @                         par tout elles en profitent
 117252on a                          §n a                          maïs qu' on a donner
@@ -11264,7 +11111,7 @@
 117256les autres                    lez otR                       uns contre les autres .
 117261elles ont                     Elz §                         ou alors elles ont été
 117261ont été                       §t e-te                       alors elles ont été coupées
-117264tout à                        tut a                         quand tout à coup , tʃubiduː
+117264tout à                        tut a                         quand tout à coup , t*ubiduː
 117278les inondations               lez i-n§-da-sj§               les inondations sont venus jusqu' ici
 117284est un                        et 1                          caméra c' est un messieur
 117292est une                       et yn                         ailleurs c' est une locomotive
@@ -11295,13 +11142,12 @@
 117437est un                        et 1                          c' est un faux .
 117438est un                        et 1                          c' est un vrai hihé .
 117440les enfants                   lez @-f@                      les enfants i(ls) jouent ?
-117454peut être                     p2t EtR                       tu peux peut être lui
 117502on a                          §n a                          avant qu' on a r(e)mis
 117506les oreilles                  lez o-REj                     les oreilles .
 117507les oreilles                  lez o-REj                     derrière , les oreilles ?
 117508les oreilles                  lez o-REj                     regarder derrière les oreilles .
 117517un an                         1n @                          faut attendre un an .
-117520on a                          §n a                          on a fait à ʃale et
+117520on a                          §n a                          on a fait à *ale et
 117521on a                          §n a                          et puis on a fait aussi
 117525on a                          §n a                          si on a fait * .
 117528on a                          §n a                          on a pas aller à celle
@@ -11339,7 +11185,6 @@
 117764était une                     e-tEt yn                      c' était une blague ?
 117765en a                          @n a                          que y en a encore
 117787est un                        et 1                          que c' est un ekolɛt
-117794peut être                     p2t EtR                       * regarde peut être oh
 117796un éléphant                   1n e-le-f@                    sur un éléphant .
 117799est un                        et 1                          , c' est un chien
 117802est un                        et 1                          que c' est un chien
@@ -11421,9 +11266,7 @@
 118384les une                       lez yn                        pour mettre les une remorques
 118385est aussi                     et o-si                       non c' est aussi pour les
 118388on y                          §n i                          et après on y va
-118389peut être                     p2t EtR                       il faut peut être que
 118392est une                       et yn                         ça c' est une soucoupe volante
-118408peut être                     p2t EtR                       au dessus peut être .
 118417est un                        et 1                          ben c' est un pompier hein
 118418est un                        et 1                          c' est un pompier lui .
 118419est un                        et 1                          si c' est un pompier
@@ -11441,7 +11284,6 @@
 118494en as                         @n a                          t' en as deux là .
 118495on a                          §n a                          sinon on a un lac là
 118499les hippopotames              lez i-po-po-tam               a même les hippopotames en
-118502peut être                     p2t EtR                       des palmiers peut être .
 118509est un                        et 1                          , il est un peu
 118510est un                        et 1                          il est un peu tassé mais
 118528en a                          @n a                          bein y en a des
@@ -11459,7 +11301,6 @@
 118591moins un                      mw5z 1                        tenir au moins un jour
 118629on est                        §n e                          on est tous en train de
 118631plus avec                     plyz a-vEk                    tu joues plus avec le garage
-118653peut être                     p2t EtR                       on va peut être faire
 118667est un                        et 1                          c' est un bouton là ?
 118668en ai                         @n E                          t(u) en ai à cette ligne
 118701plus il                       plyz il                       il a plus il doit plus
@@ -11490,7 +11331,6 @@
 118863un autre                      1n otR                        en a un autre là
 118864est un                        et 1                          chevalier c' est un cavalier
 118867en a                          @n a                          tiens y en a encore hein
-118871peut être                     p2t EtR                       peut être quand tu peux le
 118884on essaye                     §n e-sEj                      alors on essaye de faire que(l)que
 118887des espèces                   dez Es-pEs                    comme ça des espèces de
 118887en en                         @n @                          qui a en en haut
@@ -11531,7 +11371,7 @@
 119143ont en                        §t @                          i(l) s ont en fait
 119144les aient                     lez E                         là j(e) les aient pas
 119153gros avion                    gRoz a-vj§                    un gros avion .
-119154gros avion                    gRoz a-vj§                    un gros avion pas un gʁonavjõ
+119154gros avion                    gRoz a-vj§                    un gros avion pas un g*onavjõ
 119157est un                        et 1                          alors c' est un camion
 119157un avion                      1n a-vj§                      de pompier un avion de
 119164ils arrêtent                  ilz a-REt                     feu tim ils arrêtent le
@@ -11601,7 +11441,6 @@
 119712les a                         lez a                         , on les a vu
 119712gros engins                   gRoz @-Z5                     vu les gros engins qui
 119725ces aventures                 sez a-v@-tyR                  après toute ces aventures .
-119743peut être                     p2t EtR                       boit aussi peut être non
 119758dans une                      d@z yn                        un mur dans une soupe ?
 119767est un                        et 1                          nombreux c' est un dortoire
 119774en a                          @n a                          , y en a beaucoup
@@ -11619,7 +11458,6 @@
 119835en a                          @n a                          quand on en a une partie
 119835on a                          §n a                          une partie on a jamais
 119839on a                          §n a                          est-ce qu' on a plus
-119843peut être                     p2t EtR                       jour , peut être .
 119846en a                          @n a                          y en a des personnages là
 119848petit ours                    p°-tit uRs                    est lequel petit ours brun
 119853est habillé                   et a-bi-je                    mais il est habillé comment petit
@@ -11709,7 +11547,6 @@
 120454on aille                      §n aj                         veux qu' on aille regarder
 120454on aille                      §n aj                         veux qu' on aille regarder
 120465tout à                        tut a                         lirai babar tout à l'
-120481peut être                     p2t EtR                       ce sont peut être des
 120491est en                        et @                          margote est en colère .
 120533ses yeux                      sez j2                        bleu comme ses yeux et
 120535est un                        et 1                          , c' est un petit
@@ -11720,8 +11557,7 @@
 120589est un                        et 1                          c' est un .
 120594un autre                      1n otR                        apportent encore un autre morceau
 120597est un                        et 1                          non c' est un rectangle .
-120602un une                        1n yn                         pour faire un une fenêtre peut
-120602peut être                     p2t EtR                       une fenêtre peut être hein
+120602un une                        1n yn                         pour faire un une fenêtre peut-être
 120606est en                        et @                          et il est en train de
 120618les étoiles                   lez e-twal                    les étoiles .
 120628est un                        et 1                          un c' est un , un
@@ -11792,8 +11628,6 @@
 120849les autres                    lez otR                       et puis les autres i(l)
 120849autres i(l)                   otRz i                        puis les autres i(l) s
 120857on appelle                    §n a-pEl                      ronds , on appelle ça
-120858peut être                     p2t EtR                       on va peut être l'
-120863peut être                     p2t EtR                       un jour peut être .
 120864en a                          @n a                          maintenant y en a d(e)
 120880tout en                       tut @                         faire monter tout en haut
 120904est en                        et @                          , il est en haut
@@ -11801,7 +11635,6 @@
 120909en a                          @n a                          y en a une pour les
 120916en ais                        @n e                          tu t' en ais donné ?
 120941en a                          @n a                          y en a des choses là
-120945peut être                     p2t EtR                       qui ça peut être ?
 120956vas y                         vaz i                         vas y .
 120959en as                         @n a                          t(u) en as pas entendu deux
 120960en as                         @n a                          t(u) en as entendu deux .
@@ -11831,7 +11664,6 @@
 121129est une                       et yn                         c' est une fille quand même
 121132est une                       et yn                         mais c' est une fille hein
 121134elles auraient                Elz o-RE                      les filles elles auraient pas
-121139peut être                     p2t EtR                       essaye là peut être fais voir
 121147petit ours                    p°-tit uRs                    a encore petit ours brun
 121162vas y                         vaz i                         tiens vas y .
 121177en a                          @n a                          il y en a encore
@@ -11849,9 +11681,8 @@
 121273bien installé                 bj5n 5s-ta-le                 je suis bien installé .
 121276les autres                    lez otR                       par dessus les autres .
 121283les arbres                    lez aRbR                      bien dans les arbres hein
-121290bien installé                 bj5n 5s-ta-le                 j(e) suis bien installé .
+121290bien installé                 bj5n 5s-ta-le                 j'suis bien installé .
 121297est assis                     et a-si                       il est assis mais enfin la
-121297peut être                     p2t EtR                       elle est peut être un
 121303est un                        et 1                          ça c' est un palmier
 121306des arbres                    dez aRbR                      dû transporter des arbres un
 121308on a                          §n a                          est qu' on a vu
@@ -11861,7 +11692,6 @@
 121314les attrape                   lez a-tRap                    ça qui les attrape hop
 121314les emmène                    lez @-mEn                     puis qui les emmène qui
 121315les emmène                    lez @-mEn                     il les emmène à la scierie
-121324peut être                     p2t EtR                       ah peut être oui .
 121327quand ils                     k@t il                        quand ils avaient nettoyé l(e) camping
 121327ils avaient                   ilz a-vE                      quand ils avaient nettoyé l(e) camping
 121327ils avaient                   ilz a-vE                      l(e) camping ils avaient ek
@@ -11870,34 +11700,24 @@
 121366ils arrêtent                  ilz a-REt                     paix (et) ils arrêtent de
 121369quand on                      k@t §                         c' est quand on arrête
 121369on arrête                     §n a-REt                      est quand on arrête de
-121396peut être                     p2t EtR                       m peut être .
 121399les autres                    lez otR                       attention que les autres livres
 121402en ai                         @n E                          i(l) y en ai qui
 121419ses yeux                      sez j2                        sont passé ses yeux alors
-121429peut être                     p2t EtR                       y a peut être des
-121429des animaux                   dez a-ni-mo                   peut être des animaux qui
+121429des animaux                   dez a-ni-mo                   a peut-être des animaux qui
 121448quels oiseau                  kElz wa-zo                    quels oiseau fait des trous dans
 121449en a                          @n a                          il y en a plusieurs mais
 121458les arbres                    lez aRbR                      trous dans les arbres pour
 121462petits insectes               p°-tiz 5-sEkt                 attraper les petits insectes qui
 121463les entend                    lez @-t@                      mais on les entend souvent
-121473peut être                     p2t EtR                       il faut peut être qu' elle
-121492peut être                     p2t EtR                       c' est peut être le
 121496quand elle                    k@t El                        quand elle travaille la nuit dans
 121499est obligé                    et o-bli-Ze                   elle est obligé même le soir
-121502peut être                     p2t EtR                       elle vont peut être grignotter
 121506quand on                      k@t §                         et quand on regarde sous la
 121510est en                        et @                          est-ce qui est en train
-121511peut être                     p2t EtR                       peut être ça peut être des
-121511peut être                     p2t EtR                       être ça peut être des
-121511peut être                     p2t EtR                       fleurs ça peut être des
-121511des haricots                  dez a-Ri-ko                   peut être des haricots géants
+121511des haricots                  dez a-Ri-ko                   ça peut-être des haricots géants
 121515est un                        et 1                          c' est un arbre .
 121515un arbre                      1n aRbR                       c' est un arbre .
-121516peut être                     p2t EtR                       peut être .
 121520est une                       et yn                         que c' est une tortue
 121521est une                       et yn                         que c' est une sorte
-121525peut être                     p2t EtR                       un gros peut être pas comme
 121526était un                      e-tEt 1                       si c' était un gros
 121541quand il                      k@t il                        as vu quand il est
 121541est ouvert                    et u-vER                      quand il est ouvert comme
@@ -11909,9 +11729,7 @@
 121576on en                         §n @                          regarde , on en parlait tout
 121576tout à                        tut a                         en parlait tout à l'
 121577en a                          @n a                          vois y en a un
-121591un oiseau                     1n wa-zo                      y a un oiseau peut
-121591peut être                     p2t EtR                       un oiseau peut être mais
-121603peut être                     p2t EtR                       ah oui peut être t(u) as
+121591un oiseau                     1n wa-zo                      y a un oiseau peut-être
 121608un autre                      1n otR                        y a un autre chat
 121613est encore                    et @-kOR                      baleine c' est encore plus
 121619en a                          @n a                          il y en a partout
@@ -11929,7 +11747,6 @@
 121639en a                          @n a                          regarde y en a encor(e)
 121639bas aussi                     baz o-si                      un là bas aussi .
 121642en a                          @n a                          et y en a un là
-121647peut être                     p2t EtR                       c' est peut être la brosse
 121658les affaires                  lez a-fER                     range normalement les affaires .
 121671vient on                      vj5t §                        ben vient on va aller en
 121671jolies encore                 Zo-liz @-kOR                  des plus jolies encore .
@@ -11979,7 +11796,6 @@
 121873dernier enregistrement        dER-njeR @R-Zis-tR°-m@        au dernier enregistrement y avait déjà
 121886est un                        et 1                          oui c' est un drole de
 121887est y                         et i                          c' est y a pas un
-121903peut être                     p2t EtR                       peut être qu' i(l) s dorment
 121930tout à                        tut a                         il est tout à plat ton
 121936des outils                    dez u-ti                      vas chercher des outils ?
 121955est une                       et yn                         percer c' est une .
@@ -12002,11 +11818,11 @@
 122100en avait                      @n a-vE                       y en avait pas qui avait
 122102on a                          §n a                          voiture qu' on a retrouvé
 122104des étoiles                   dez e-twal                    elle a des étoiles .
-122112plus à                        plyz a                        j(e) sais plus à quoi ça
+122112plus à                        plyz a                        j'sais plus à quoi ça sert
 122116on avait                      §n a-vE                       on avait peur .
 122128en avait                      @n a-vE                       tru(c) y en avait un
 122128un avant                      1n a-v@                       en avait un avant mais
-122132est à                         et a                          il est à ʃalɛ j(e) crois
+122132est à                         et a                          il est à *alɛ j(e) crois
 122143on a                          §n a                          on a plus qu(e) l(e) toit
 122151on a                          §n a                          ouais on a entendu , on
 122151on en                         §n @                          entendu , on en entendu
@@ -12071,7 +11887,6 @@
 122632on est                        §n e                          une qu' on est arrivé
 122632est arrivé                    et a-Ri-ve                    qu' on est arrivé à
 122649viennois aussi                vjE-nwaz o-si                 des p(e)tits viennois aussi pendant
-122650peut être                     p2t EtR                       en dessert peut être ?
 122657est une                       et yn                         c' est une bonne idée .
 122670on essaie                     §n E-sE                       veux qu' on essaie de
 122672on ouvre                      §n uvR                        on ouvre .

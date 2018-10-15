@@ -28,7 +28,7 @@
 310 aller on                       aller on va mettre le toit
 310 tient encore                   si il tient encore .
 313 vas où                        tu vas où ?
-318 pas où                        j(e) sais pas où elle
+318 pas où                        , j'sais pas où elle
 332 et alors                       là , et alors ?
 336 doit être                     il doit être dessous !
 345 sont où                       oh elles sont où ?
@@ -66,11 +66,13 @@
 846 allez oust                     allez oust .
 861 es où                         t(u) es où , t(u) es
 861 es où                         , t(u) es où ?
+888 dois êt(r)e                   que tu dois êt(r)e en
 921 veux essayer                   tu veux essayer ?
 925 pas en                         l' oublie pas en partant
 937 et on                          et on appuie .
 954 puis après                    puis après ben .
 955 continuer un                   essayer d(e) continuer un peu
+986 peut êt(r)e                   ça peut êt(r)e drôle aussi les
 989 pas un                         c' est pas un lego
 990 attends ana                    attends ana !
 1016 pas en                         t(u) es pas en face
@@ -119,7 +121,7 @@
 1331 pas elle                       elle rentrera pas elle est
 1347 donnes à                      tu lui donnes à manger
 1347 manger ana                     donnes à manger ana ,
-1347 pas où                        j(e) sais pas où est
+1347 pas où                        mais j'sais pas où est
 1348 pas où                        je sais pas où vous avez
 1349 doit être                     i(l) doit être en haut .
 1349 en haut                        doit être en haut .
@@ -148,7 +150,8 @@
 1688 dois être                     tu dois être contre le mur
 1692 téléphones ana               tu téléphones ana ?
 1698 pas à                         tu vas pas à la chambre
-1737 donnes à                      tu l(e) donnes à maman peut
+1716 trouver aut(re)                on va trouver aut(re) chose .
+1737 donnes à                      tu l(e) donnes à maman peut-être
 1750 et oui                         et oui !
 1775 chaud à                       t(u) as chaud à gigoter dans
 1795 fermer un                      va le fermer un peu
@@ -203,6 +206,7 @@
 2094 doigts on                      mets tes doigts on voit
 2098 allez hop                      allez hop .
 2108 ben oui                        oh ben oui je viens de
+2111 trouves aut(re)                trouves aut(re) chose .
 2116 et où                         et où tu vas ?
 2120 regardes y                     regardes y en a un autre
 2121 doit y                         il doit y en avoir un
@@ -442,7 +446,7 @@
 3737 pas en                         elle tient pas en place c(et)te
 3745 ben elle                       ben elle préfère les animaux !
 3746 et ouais                       et ouais !
-3753 pas assise                     j(e) suis pas assise moi
+3753 pas assise                     , j'suis pas assise moi
 3756 et ensuite                     et ensuite (il) y a ,
 3757 est où                        elle est où la chouette .
 3762 aller ouais                    aller ouais !
@@ -459,7 +463,7 @@
 3870 est où                        elle est où kanel ?
 3889 mais avant                     le donne mais avant tu
 3895 vas où                        tu vas où ?
-3927 pas assise                     j(e) suis pas assise .
+3927 pas assise                     attends j'suis pas assise .
 3980 aller on                       aller on tourne !
 3987 camions et                     est les camions et y
 3987 et y                           les camions et y a
@@ -584,7 +588,7 @@
 4662 veux un                        t' en veux un d(e) micro
 4670 ben où                        ben où elle est ana ?
 4673 attends il                     coucou attends il est cassé le
-4674 pas où                        j(e) sais pas où tu as
+4674 pas où                        j'sais pas où tu as mis
 4678 tiens à                       tiens à toi !
 4691 bruit hein                     a du bruit hein !
 4694 plus et                        en a plus et là
@@ -627,7 +631,7 @@
 4934 pas où                        on sait pas où il est
 4949 ben attend                     ah ben attend on va mettre
 4949 attend on                      ah ben attend on va mettre
-4952 bras élastiques               être des bras élastiques mais
+4952 bras élastiques               peut-être des bras élastiques mais
 4958 pas ana                        le mange pas ana .
 4971 ben alors                      ben alors , ben alors !
 4971 ben alors                      alors , ben alors !
@@ -637,13 +641,13 @@
 4975 hein on                        hein on va les retirer .
 4977 met à                         on les met à ta taille
 4982 était à                      c' était à la crêche .
-4989 prêt à                       suis pas prêt à lui
+4989 prêt à                       j'suis pas prêt à lui
 4993 fais attention                 fais attention d(e) pas * .
 5002 et aujourd'hui                 ranger , et aujourd'hui on
 5002 laisser à                     va l(e) laisser à côté
 5003 tomber avec                    la laisser tomber avec .
 5014 jouer avec                     tu veux jouer avec ça
-5028 pas où                        j(e) sais pas où j(e)
+5028 pas où                        mais j'sais pas où j(e)
 5034 pas une                        c' est pas une bonne idée
 5041 poisson ana                    fais le poisson ana .
 5045 comment i(l)                   comment i(l) fait l(e) poisson ?
@@ -724,11 +728,11 @@
 5850 comment elle                   la vache comment elle fait
 5856 comment i(l)                   comment i(l) fait le poisson ?
 5861 non un                         non un coin coin .
-5862 pas où                        j(e) sais pas où elle
+5862 pas où                        cocotte j'sais pas où elle
 5885 non y                          non y en a plus .
 5898 est où                        il est où l(e) poisson ?
 5909 mis où                        l' as mis où ton
-5912 pas où                        j(e) sais pas où tu l'
+5912 pas où                        j'sais pas où tu l' as
 5933 pas arraché                   t(u) as pas arraché .
 5938 pas eu                         l' as pas eu ?
 5941 en haut                        mets la en haut .
@@ -769,7 +773,7 @@
 6249 pardon au                      ah pardon au revoir .
 6250 mis où                        les a mis où ana
 6254 tiens un                       tiens un bouchon .
-6259 pas où                        j(e) sais pas où tu y
+6259 pas où                        j'sais pas où tu y a
 6261 veux une                       t' en veux une autre .
 6266 ben oui                        voilà ben oui mais elle bouge
 6266 mais elle                      ben oui mais elle bouge
@@ -805,7 +809,7 @@
 6526 non on                         non on ferme pas .
 6535 est où                        elle est où chl là ?
 6556 allez on                       allez on pose .
-6570 comment elle                   sais pas comment elle s'
+6570 comment elle                   j'sais pas comment elle s' appelle
 6582 allez avances                  allez avances .
 6607 as oublié                     t(u) as oublié l(e) lapin .
 6611 ben oui                        ben oui .
@@ -829,6 +833,7 @@
 6835 alors à                       alors à midi ça va bien
 6836 puis après                    et puis après , après elle
 6836 après elle                    après , après elle veut
+6839 p(u)is après                  bah oui p(u)is après on
 6839 après on                      oui p(u)is après on enlèvera
 6840 placard après                 au placard après au placard !
 6840 après au                      au placard après au placard !
@@ -928,7 +933,7 @@
 7339 oreilles aussi                 perdre les oreilles aussi y
 7346 copains à                     est les copains à l'
 7358 comment elle                   comment elle fait la poule ?
-7360 mais attends                   non mais attends j(e) suis pas
+7360 mais attends                   non mais attends j'suis pas prêt
 7366 allez on                       allez on remet tout dans l(e)
 7369 pas un                         c' est pas un extraterrestre
 7372 dirait une                     on dirait une araignée !
@@ -996,7 +1001,7 @@
 7783 pas évident                   c' est pas évident .
 7795 as assez                       t(u) as assez de place dans
 7802 sont où                       i(ls) sont où les autres .
-7813 pas où                        j(e) sais pas où tu
+7813 pas où                        mais j'sais pas où tu
 7823 et alors                       et alors ?
 7826 et alors                       oui et alors ?
 7842 met où                        on met où , là ?
@@ -1041,7 +1046,7 @@
 8284 ben alors                      ben alors !
 8307 ben oui                        ah ben oui faut t(e) peigner
 8308 as eu                          t(u) as eu un coup d(e)
-8311 pas où                        j(e) sais pas où elle est
+8311 pas où                        j'sais pas où elle est .
 8314 viens elle                     viens elle est d(e) l' autre
 8317 viens on                       viens on va là bas !
 8318 viens on                       viens on va chercher la brosse
@@ -1088,6 +1093,7 @@
 8715 maman ourse                    regarde la maman ourse avec
 8739 grands hein                    i(ls) sont grands hein ?
 8757 feuilles i(l)                  est des feuilles i(l) pleut
+8771 trouver aut(re)                on va trouver aut(re) chose !
 8781 prends un                      tu prends un autre livre ?
 8801 comment i(l)                   comment i(l) s' appelle l' oiseau
 8805 éléphant il                  (re)garde l' éléphant il les prend
@@ -1111,7 +1117,7 @@
 8948 vas en                         tu vas en mett(re) de partout
 8953 mis où                        l' avez mis où ?
 8956 alors où                      alors où il est ce stylo
-8958 pas où                        j(e) sais pas où vous l'
+8958 pas où                        j'sais pas où vous l' avez
 8958 mis hein                       l' avez mis hein .
 8959 ben ah                         ben ah .
 8965 tiens on                       tiens on va mett(re) que(l)que chose
@@ -1123,6 +1129,7 @@
 8990 faut un                        alors i(l) faut un rond pour
 8992 ben oui                        ben oui ben attends !
 8992 ben attends                    ben oui ben attends !
+8993 fais aut(re)                   si tu fais aut(re) chose
 8994 fait un                        on fait un rond .
 9014 ben oui                        ben oui mais il est trop
 9014 mais il                        ben oui mais il est trop
@@ -1155,7 +1162,7 @@
 9181 essayer et                     on va essayer et puis i(l)
 9181 puis i(l)                      essayer et puis i(l) faut
 9201 ouais encore                   ouais encore !
-9203 pas où                        j(e) sais pas où c' est
+9203 pas où                        j'sais pas où c' est qu'
 9206 fait hein                      tracteur en fait hein .
 9207 avait une                      ah y avait une pente .
 9209 attends elle                   attends elle est dans la tente
@@ -1178,7 +1185,7 @@
 9264 attends on                     ouh la attends on va l(e)
 9268 es arrivé                     t(u) y es arrivé hein
 9269 aider un                       faut l' aider un p(e)tit
-9270 pas où                        j(e) sais pas où c' est
+9270 pas où                        j'sais pas où c' est qu'
 9272 bon on                         ah bon on l(e) met là
 9274 ben écoute                    ben écoute .
 9282 tiens on                       tiens on va mettre le mouton
@@ -1274,7 +1281,7 @@
 9798 fait un                        t(u) as fait un bisou
 9802 bisous au                      pas des bisous au crocodile
 9804 fait un                        mowgli qui fait un bisou
-9815 comment i(l)                   sais pas comment i(l) s'
+9815 comment i(l)                   j'sais pas comment i(l) s'
 9821 puis i(l)                      et puis i(l) mange ensemble tu
 9826 content hein                   est pas content hein ?
 9833 gourmand hein                  il est gourmand hein !
@@ -1293,13 +1300,13 @@
 9909 dents et                       brosse les dents et ouais
 9909 et ouais                       les dents et ouais ,
 9909 aller au                       il va aller au lit
-9912 pas où                        j(e) sais pas où elles sont
+9912 pas où                        j'sais pas où elles sont .
 9915 serait étonnant               ouh ce serait étonnant !
 9922 semblait aussi                 i(l) m(e) semblait aussi .
 9926 as enlevé                     pourquoi t(u) as enlevé le téléphone
 9927 ben oui                        ben oui pourquoi tu l' as
 9927 as enlevé                     tu l' as enlevé de
-9938 pas où                        j(e) sais pas où il est
+9938 pas où                        j'sais pas où il est c(el)ui
 9961 veux aller                     tu veux aller sur l(e) pot
 9970 éléphant oui                 ele l' éléphant oui .
 9981 ben il                         ah ben il est où c(el)ui
@@ -1391,6 +1398,7 @@
 10596 avais envie                    que t(u) avais envie .
 10608 met en                         on le met en pied si
 10622 est où                        il est où l(e) tabouret ?
+10629 doit êt(r)e                   i(l) doit êt(r)e là .
 10648 couper ensemble                on va couper ensemble .
 10653 pas y                          on va pas y arriver comme
 10660 ben oui                        oui ben oui !
@@ -1414,9 +1422,9 @@
 10819 pot il                         ton pot il est là .
 10830 restes avec                    tu restes avec papa .
 10835 vais y                         j(e) vais y aller .
-10837 suis en                        qu(e) j(e) suis en r(e)tard
+10837 j'suis en                      toi qu(e) j'suis en r(e)tard
 10842 restes avec                    tu restes avec papa .
-10845 suis un                        , j(e) suis un peu
+10845 j'suis un                      ouais , j'suis un peu moins
 10852 et on                          oreilles , et on r(e)monte
 10859 as oublié                     t(u) as oublié quoi ?
 10866 sont où                       i(ls) sont où tes yeux ?
@@ -1531,6 +1539,7 @@
 11681 viens ici                      allez viens ici toi !
 11687 fait un                        ça fait un moment qu(e) t(u)
 11700 pas une                        c' est pas une porte .
+11706 doit êt(r)e                   , elle doit êt(r)e balèze
 11713 est où                        elle est où ta soeur ?
 11716 fait à                        qu' elle fait à l'
 11719 dessins à                     fait des dessins à l'
@@ -1551,6 +1560,7 @@
 11840 est où                        il est où c(el)ui là ?
 11847 comment i(ls)                  mais comment i(ls) font ça ?
 11848 toit à                        un toit à l' envers .
+11850 doit êt(r)e                   ça doit êt(r)e pas mal comme
 11869 man ana                        elle est man ana ?
 11894 doit y                         doit y avoir un scotch seul(e)ment
 11896 mais euh                       est mien mais euh .
@@ -1582,7 +1592,7 @@
 12071 ben alors                      ben alors l(e) lapin .
 12077 et écoute                     et écoute ce(l)ui là .
 12086 attends on                     attends on va trouver autr(e) chose
-12111 pas où                        j(e) sais pas où elle est
+12111 pas où                        j'sais pas où elle est .
 12120 semblait aussi                 i(l) m(e) semblait aussi .
 12126 allez hop                      allez hop viens !
 12136 tiens on                       tiens on va enlever l(e) jeu
@@ -1659,16 +1669,16 @@
 12648 vois avec                      tu vois avec le savon elle
 12648 savon elle                     avec le savon elle se
 12673 non à                         non à moi .
-12683 pas où                        j(e) sais pas où est
+12683 pas où                        mais j'sais pas où est
 12686 pas un                         c' est pas un couvercle ça
 12703 est où                        il est où l(e) poulet ?
 12708 non on                         non on range pas ?
 12720 veux encore                    tu veux encore jouer ?
 12730 doit y                         normal(e)ment i(l) doit y avoir
-12730 pas où                        j(e) sais pas où il
+12730 pas où                        mais j'sais pas où il
 12740 allez on                       allez on le met dans la
 12764 normalement elle               normalement elle va sur son cheval
-12764 pas où                        j(e) sais pas où il
+12764 pas où                        mais j'sais pas où il
 12768 pas en                         il est pas en haut
 12768 en haut                        est pas en haut .
 12770 non il                         non il est là bas ,
@@ -1685,7 +1695,7 @@
 12819 es un                          là t(u) es un peu
 12819 loin avec                      un peu loin avec ta
 12822 bon allez                      bon allez faites la course avec
-12831 pas où                        j(e) sais pas où il est
+12831 pas où                        j'sais pas où il est !
 12833 pas envie                      j' ai pas envie de
 12836 fais avec                      que j(e) fais avec ça
 12849 est où                        elle est où chl !
@@ -1739,7 +1749,7 @@
 13282 mets en                        tu l(e) mets en marche ?
 13289 ben ouais                      ben ouais .
 13306 aspirer ana                    on va aspirer ana .
-13320 pas où                        j(e) sais pas où t(u) as
+13320 pas où                        j'sais pas où t(u) as marché
 13325 ben éteins                    ben éteins d' abord .
 13349 fais un                        tu m(e) fais un câlin
 13360 vas où                        tu vas où ?
@@ -1781,7 +1791,7 @@
 13669 pas à                         c' est pas à la poupée
 13670 est où                        elle est où poupée ?
 13671 est où                        toi elle est où ?
-13675 pas où                        j(e) sais pas où tu l'
+13675 pas où                        j'sais pas où tu l' as
 13690 pas à                         mets pas à la bouche !
 13700 bisous à                      envoies des bisous à papa
 13715 pas à                         mets pas à la bouche s'
@@ -1798,6 +1808,7 @@
 13818 attends on                     attends on va l(e) pousser !
 13825 abord avec                     là d' abord avec les
 13834 recules hein                   qu(e) tu recules hein .
+13838 doit êt(r)e                   euh ça doit êt(r)e c(el)ui là
 13843 violet avec                    , le violet avec le
 13858 défait en                     s' est défait en cours
 13882 jouer avec                     tu veux jouer avec la dînette
@@ -1805,7 +1816,7 @@
 13907 suis à                        j(e) te suis à quat(r)e
 13909 commandos hein                 est les commandos hein .
 13923 vas inventer                   c(e) tu vas inventer ?
-13924 pas où                        j(e) sais pas où c' est
+13924 pas où                        j'sais pas où c' est .
 13940 doudous hein                   pose les doudous hein .
 13998 viens on                       tu viens on joue à la
 13999 jouer à                       tu veux jouer à la dînette
@@ -1847,7 +1858,7 @@
 14305 veux une                       tu veux une serviette ?
 14307 chercher une                   j' aille chercher une serviette
 14315 abord ana                      bain d' abord ana .
-14371 pas où                        j(e) sais pas où tu as
+14371 pas où                        j'sais pas où tu as mis
 14383 manges avec                    tu manges avec le couteau ?
 14384 veux une                       moi j(e) veux une fourchette .
 14395 donnes à                      tu m(e) donnes à manger ?
@@ -1859,6 +1870,7 @@
 14424 après on                      après on f(e)ra le train .
 14426 attends attends                attends attends !
 14447 est où                        on en est où ?
+14456 doit êt(r)e                   après ça doit êt(r)e c(el)ui là
 14491 alors est-ce                   alors est-ce que c' est ça
 14494 vois y                         t(u) vois y a encore un
 14521 couleurs elles                 de quelles couleurs elles sont les
@@ -2053,7 +2065,7 @@
 15606 comment elle                   comment elle se met sa ceinture
 15608 ben elle                       ben elle en avait pas un
 15608 pas un                         en avait pas un celle
-15616 pas où                        j(e) sais pas où tu m(e)
+15616 pas où                        j'sais pas où tu m(e) les
 15619 viens aux                      viens aux toilettes !
 15626 fait une                       t' as fait une goutte ?
 15635 chercher une                   va chercher une culotte !
@@ -2065,9 +2077,9 @@
 15664 ben attends                    ben attends !
 15668 faut enlever                   faut enlever la ceinture avant de
 15675 as enlevées                   qui les as enlevées ,
-15676 pas où                        j(e) sais pas où elles sont
-15688 doivent être                  elles doivent être euh j(e) sais
-15688 pas où                        j(e) sais pas où !
+15676 pas où                        j'sais pas où elles sont ,
+15688 doivent être                  elles doivent être euh j'sais pas
+15688 pas où                        euh j'sais pas où !
 15708 as un                          t(u) as un bobo ?
 15717 fait un                        t' as fait un bobo ?
 15721 pas être                      (doit) pas être bien loin !
@@ -2096,6 +2108,7 @@
 15942 mets autour                    oh tu mets autour du poignet
 15944 as une                         ah t(u) as une super astuce
 15945 mets autour                    tu mets autour du poignet .
+15946 p(u)is après                  les ch(e)veux p(u)is après tu
 15949 (at)tention hein               la tête (at)tention hein !
 15964 non hein                       ah non hein c' est pas
 15965 allez on                       allez on va r(e)tourner ?
@@ -2116,7 +2129,7 @@
 16121 refais une                     tu refais une pile ?
 16150 effet y                        oui en effet y en
 16173 poignet hop                    ton poignet hop !
-16180 pas où                        j(e) sais pas où il est
+16180 pas où                        j'sais pas où il est .
 16193 arrives à                     qu(e) t(u) arrives à fermer
 16201 frais en                       i(l) fait frais en fait .
 16206 dehors ou                      veux rester dehors ou tu
@@ -2183,6 +2196,7 @@
 16770 pas hein                       avales pas hein .
 16773 tiens assied                   tiens assied toi .
 16774 chercher euh                   j(e) vais chercher euh .
+16778 doit êt(re)                   qu' i(l) doit êt(re) par
 16780 non il                         non il est pas là ?
 16794 aurait été                   ç(a) aurait été plus simple .
 16803 pas hein                       abîme les pas hein .
@@ -2202,7 +2216,7 @@
 16959 comment i(l)                   comment i(l) marche ?
 16966 attends on                     attends on va tourner .
 16987 non il                         non il est pas cassé .
-16997 pas il                         j(e) sais pas il est cassé
+16997 pas il                         j'sais pas il est cassé ?
 17003 est où                        elle est où ta main ?
 17061 non à                         non à moi .
 17063 était à                      c' était à moi là .
@@ -2215,6 +2229,7 @@
 17117 cartes et                      garde les cartes et on
 17117 et on                          les cartes et on met
 17155 z en                           donne moi z en deux .
+17182 vais êt(re)                   bah j(e) vais êt(re) bien
 17185 attends y                      attends y a ma boucle dans
 17190 cheveux à                     toi tes cheveux à toi
 17202 pas à                         mets pas à la bouche .
@@ -2237,7 +2252,7 @@
 17325 veux aller                     tu veux aller au lit ?
 17325 aller au                       tu veux aller au lit ?
 17326 et où                         et où tu veux faire dodo
-17336 pas où                        j(e) sais pas où elle est
+17336 pas où                        j'sais pas où elle est .
 17351 non on                         oh bah non on va pas
 17358 pieds à                       colorié tes pieds à l'
 17360 laver hein                     pu t(e) laver hein rafael
@@ -2256,10 +2271,10 @@
 17482 alors i(l)                     alors i(l) faut tout enl(e)ver ?
 17484 défait alors                  on défait alors .
 17485 dedans y                       dedans y en a encore .
-17499 suis en                        que j(e) suis en train
+17499 j'suis en                      c(e) que j'suis en train
 17511 plaît ana                     il te plaît ana passe
 17516 est où                        on en est où là ?
-17525 pas où                        j(e) sais pas où sont les
+17525 pas où                        j'sais pas où sont les autres
 17525 autres hein                    sont les autres hein .
 17567 avancer un                     fais le avancer un p(e)tit peu
 17574 met où                        on l(e) met où ?
@@ -2267,6 +2282,7 @@
 17614 est où                        elle est où la p(e)tite maison
 17637 mets où                       j(e) le mets où l(e) cochon
 17642 met où                        on la met où ?
+17646 doit êt(r)e                   ah ça doit êt(r)e * .
 17662 bon alors                      bon alors l(e) mouton .
 17664 raison i(l)                    t(u) as raison i(l) tient
 17671 allez avance                   allez avance !
@@ -2280,12 +2296,13 @@
 17799 après i(l)                    oui , après i(l) passe par
 17803 murs avec                      toucher les murs avec rap
 17811 mais oui                       mais oui i(l) va passer par
-17819 pas où                        j(e) sais pas où est l(e)
+17819 pas où                        j'sais pas où est l(e) coq
 17824 est où                        coq il est où ?
-17826 pas où                        j(e) sais pas où tu l'
+17826 pas où                        j'sais pas où tu l' as
+17827 doit êt(r)e                   ça doit êt(r)e par là .
 17828 alors où                      bah alors où * .
-17834 pas où                        j(e) sais pas où il
-17856 comment i(l)                   sais plus comment i(l) s'
+17834 pas où                        , j'sais pas où il
+17856 comment i(l)                   j'sais plus comment i(l) s' éteint
 17874 pas à                         mets pas à la bouche !
 17875 plus après                    ça r(e)marche plus après .
 17906 maman et                       est la maman et les
@@ -2299,7 +2316,7 @@
 17977 mamans y                       deux mamans y a ?
 17990 met encore                     qu' on met encore ?
 17999 met un                         on leur met un arbre
-18002 pas où                        j(e) sais pas où il y
+18002 pas où                        j'sais pas où il y en
 18007 alors on                       alors on en est où ?
 18007 est où                        on en est où ?
 18010 pas un                         c' est pas un cheval
@@ -2340,7 +2357,7 @@
 18438 souris elles                   les p(e)tites souris elles y
 18438 plus hein                      y sont plus hein .
 18446 est où                        il est où l(e) quatrième ?
-18448 pas où                        j(e) sais pas où il est
+18448 pas où                        j'sais pas où il est d'
 18452 chercher un                    j(e) vais chercher un mouchoir ana
 18458 et ouais                       et ouais .
 18459 et un                          et un là .
@@ -2447,6 +2464,7 @@
 19321 accord alors                   d' accord alors tu sais c(e)
 19323 rond autour                    fais le rond autour là
 19336 bon on                         bon on va dire qu(e) c'
+19337 p(u)is i(l)                    p(u)is i(l) faut faire le tour
 19344 et il                          et il est comment ton ballon
 19346 est où                        il est où notre truc ,
 19348 est où                        il est où ton truc ?
@@ -2455,7 +2473,7 @@
 19372 mis où                        j' ai mis où les ciseaux
 19388 dessus et                      la colle dessus et tu
 19395 bon on                         bon on a d(é)jà fait l(e)
-19400 pas où                        j(e) sais pas où il est
+19400 pas où                        j'sais pas où il est l(e)
 19427 allez appelle                  allez appelle tho .
 19432 salut à                       salut à tes souhaits !
 19433 salut à                       salut à tes souhaits !
@@ -2537,7 +2555,7 @@
 19826 allez oust                     allez oust !
 19844 rouges hein                    avec les rouges hein .
 19850 non i(l)                       non i(l) va pas là minou
-19852 pas où                        j(e) sais pas où elle va
+19852 pas où                        j'sais pas où elle va .
 19859 tiens en                       tiens en voilà un autre .
 19865 tiens essaie                   tiens essaie de l(e) mettre là
 19894 faut au                        comme i(l) faut au bout
@@ -2638,7 +2656,7 @@
 20736 main elle                      ta main elle est trop petite
 20765 un hérisson                   un hérisson .
 20768 un hérisson                   un hérisson .
-20770 un hérisson                   un hérisson joli peut être ?
+20770 un hérisson                   un hérisson joli peut-être ?
 20785 fait au                        il lui fait au méchant
 20793 mais attends                   mais attends , il a mangé
 20794 et il                          et il a mangé le petit
@@ -2664,7 +2682,7 @@
 20954 as attrapé                    tu l' as attrapé comme ça
 20972 as apprises                    tu l' as apprises à tu
 20972 as apprise                     tu l' as apprise à
-20974 pas à                         j(e) suis pas à l' école
+20974 pas à                         j'suis pas à l' école moi
 20976 connais i                      moi j(e) connais i ipopotamtam moi
 21019 pas un                         c' est pas un tigre .
 21021 pas un                         c' est pas un tigre ça
@@ -2716,10 +2734,11 @@
 21444 as encore                      tu lui as encore piqué ?
 21446 dans euh                       la mets dans euh ?
 21465 veux un                        tu veux un mouchoir ?
-21469 pas où                        j(e) sais pas où .
+21469 pas où                        j'sais pas où .
+21472 doit êt(r)e                   i(l) doit êt(r)e par là l(e)
 21481 est euh                        c' est euh .
 21492 fais un                        tu fais un câlin ?
-21525 pas où                        j(e) sais pas où tu l'
+21525 pas où                        j'sais pas où tu l' as
 21531 peux ouvrir                    , j(e) peux ouvrir .
 21548 tomates ensemble               les tomates ensemble .
 21550 bananes elles                  les bananes elles sont où ?
@@ -2736,9 +2755,10 @@
 21758 fait exprès                   c' est fait exprès pour fermer
 21777 comment on                     comment on l(e) passe ?
 21779 était accroché               c' était accroché où ?
-21794 non y                          non y a un , j(e)
+21794 non y                          non y a un , j'sais
 21814 mets un                        j(e) (l)ui mets un bras à
 21814 bras à                        mets un bras à ta
+21835 doit êt(r)e                   ça ça doit êt(r)e les chaussures
 21852 et elle                        et elle , elle met les
 21854 as essayé                     t(u) as essayé ?
 21861 pas être                      ça doit pas être les mêmes
@@ -2751,7 +2771,7 @@
 21926 pas obligée                   t(u) es pas obligée d(e)
 21927 pas obligée                   t(u) es pas obligée .
 21935 bon hein                       (elle) sent bon hein .
-21943 pas où                        j(e) sais pas où tu
+21943 pas où                        contre j'sais pas où tu
 21947 pas à                         c' était pas à lui .
 21948 non hein                       non hein .
 21949 semblait aussi                 i(l) m(e) semblait aussi .
@@ -2767,15 +2787,15 @@
 22013 sais où                       tu sais où il est toi
 22018 avis il                        à mon avis il est dans
 22028 hein ana                       hein ana ?
-22041 pas où                        j(e) sais pas où c' est
-22042 pas où                        j(e) sais pas où il est
-22049 pas où                        j(e) sais pas où c' est
+22041 pas où                        j'sais pas où c' est .
+22042 pas où                        j'sais pas où il est .
+22049 pas où                        j'sais pas où c' est .
 22052 et oui                         et oui .
 22054 est où                        elle est où la roue de
-22060 pas où                        j(e) sais pas où c' est
+22060 pas où                        j'sais pas où c' est .
 22064 as un                          t(u) as un joli vélo .
 22065 et une                         une selle et une roue
-22066 pas où                        j(e) sais pas où c' est
+22066 pas où                        j'sais pas où c' est .
 22121 non on                         ah mais non on a pas
 22131 es arrivée                    t(u) es arrivée ?
 22146 faut essuyer                   main(te)nant i(l) faut essuyer .
@@ -2811,11 +2831,11 @@
 22535 est où                        il est où l(e) poisson ?
 22565 ronds aussi                    faut des ronds aussi .
 22566 sont où                       i(ls) sont où les ronds ?
-22573 pas où                        j(e) sais pas où i(ls) sont
+22573 pas où                        j'sais pas où i(ls) sont .
 22595 et il                          et il va là c(el)ui là
 22597 bas oui                        , en bas oui .
 22598 sont où                       , elles sont où les
-22610 pas où                        j(e) sais pas où est passé
+22610 pas où                        j'sais pas où est passé le
 22645 mis où                        l' as mis où ton
 22655 veux un                        mais tu veux un ciseau .
 22673 as une                         t(u) as une chaise là bas
@@ -2840,6 +2860,7 @@
 22879 peux avancer                   tu peux avancer ?
 22883 mets où                       tu le mets où j(e) t'
 22887 mais il                        mais il est mis comme i(l)
+22892 doit êt(r)e                   ça doit êt(r)e comme ça .
 22896 crayons ana                    ramasse mes crayons ana !
 22897 as entendu                     mm t(u) as entendu le bruit
 22914 bon alors                      bon alors ces crayons .
@@ -2907,13 +2928,13 @@
 23573 bas elle                       bouteille là bas elle est
 23578 bon on                         oui bon on va là bas
 23579 viens on                       viens on aura une demi heure
-23582 pas où                        j(e) sais pas où tu
+23582 pas où                        oui j'sais pas où tu l'
 23584 viens amène                   attends viens amène .
 23594 dessous oui                    là dessous oui .
 23601 veux un                        tu veux un mouchoir mon enfant
 23613 fais une                       tu m(e) fais une piqûre ?
 23618 écoutes où                   , tu écoutes où ah
-23623 chercher un                    être aller chercher un mouchoir
+23623 chercher un                    peut-être aller chercher un mouchoir
 23626 attends on                     attends on va l(e) mettre sous
 23626 bras hop                       sous l(e) bras hop !
 23645 ben elle                       poubelle ben elle est là ta
@@ -2999,9 +3020,9 @@
 24082 ben ouais                      ben ouais une fille .
 24082 ouais une                      ben ouais une fille .
 24086 ben oui                        ben oui une bleue .
-24092 pas où                        j(e) sais pas où tu l'
-24106 pas où                        j(e) sais pas où c' est
-24120 pas où                        j(e) sais pas où elle est
+24092 pas où                        j'sais pas où tu l' as
+24106 pas où                        j'sais pas où c' est ?
+24120 pas où                        j'sais pas où elle est ta
 24122 pis hein                       tant pis hein ?
 24138 dents hop                      là les dents hop !
 24143 bon alors                      bon alors comment il est cassé
@@ -3045,7 +3066,7 @@
 24326 mis où                        l' as mis où ?
 24327 était accroché               il était accroché là ?
 24329 avais accroché                tu l' avais accroché là
-24331 pas où                        j(e) sais pas où il
+24331 pas où                        bah j'sais pas où il est
 24337 joues avec                     tu joues avec ant ?
 24339 viens on                       viens on va jouer avec amtaro
 24339 jouer avec                     on va jouer avec amtaro
@@ -3065,17 +3086,17 @@
 24397 mais il                        ah mais il tient en plus
 24397 tient en                       mais il tient en plus
 24399 et y                           et y a une manette là
-24401 pas où                        j(e) sais pas où tu
+24401 pas où                        bah j'sais pas où tu les
 24402 tout où                       pas du tout où tu
 24402 mais ils                       les as mais ils sont
-24405 pas où                        j(e) sais pas où ils
+24405 pas où                        autre j'sais pas où ils
 24418 bon attends                    était là bon attends ?
 24422 comment on                     as vu comment on fait
 24424 comment on                     comment on fait ?
 24426 mis à                         j' ai mis à l' envers
 24431 attends on                     attends on va prendre un autre
 24436 fais un                        en as fais un ?
-24437 pas où                        j(e) sais pas où il
+24437 pas où                        là j'sais pas où il
 24437 est hein                       où il est hein .
 24438 était à                      il était à côté d(e) toi
 24455 un hérisson                   un hérisson .
@@ -3127,7 +3148,7 @@
 24646 tiens on                       tiens on va lire .
 24663 avait une                      on en avait une pourtant
 24663 pourtant une                   avait une pourtant une jaune
-24664 pas où                        j(e) sais pas où elle est
+24664 pas où                        j'sais pas où elle est .
 24667 vas où                        tu vas où ?
 24670 non elle                       non , non elle est là
 24676 ouais attends                  ouais attends .
@@ -3147,7 +3168,7 @@
 24779 attends on                     attends on a pas mis les
 24784 allez adjugé                  allez adjugé .
 24793 dit hein                       on a dit hein ?
-24796 pas où                        j(e) sais pas où elles
+24796 pas où                        là j'sais pas où elles
 24802 viens appuyer                  tiens tu viens appuyer ?
 24810 pas à                         me mets pas à quatre
 24816 dirait un                      on dirait un lapin .
@@ -3280,7 +3301,7 @@
 25771 allez encore                   allez encore un chi .
 25774 beaucoup ouais                 beaucoup ouais .
 25779 autres à                      laisse les autres à ta
-25799 pas où                        j(e) sais pas où il est
+25799 pas où                        j'sais pas où il est .
 25800 mais il                        mais il est rangé j(e) t'
 25801 mis un                         on a mis un cochon
 25812 mais où                       bah oui mais où ?
@@ -3335,7 +3356,7 @@
 26253 peux avoir                     j(e) peux avoir l(e) dé ?
 26256 comment elle                   comment elle s' appelle celle là
 26258 forêt enchantée              de la forêt enchantée .
-26261 comment i(l)                   sais pas comment i(l) s'
+26261 comment i(l)                   j'sais pas comment i(l) s' appelle
 26270 as eu                          c(e) t(u) as eu comme
 26272 deux oui                       deux oui .
 26288 bon on                         bon on va dire que j(e)
@@ -3363,6 +3384,7 @@
 26437 ben elle                       et ben elle va avancer .
 26446 allez avance                   allez avance !
 26447 alors un                       alors un .
+26462 pas êt(re)                    * pour pas êt(re) dessus tu
 26467 as eu                          ce t(u) as eu ?
 26470 as eu                          tu as eu lila toi ?
 26471 ben essaies                    ben essaies de rejouer tu verras
@@ -3430,11 +3452,15 @@
 26769 aller ensemble                 i(ls) doivent aller ensemble .
 26773 dis oh                         dis oh t(u) es grande tu
 26777 ben oui                        et ben oui comme ça .
-26784 pas essaie                     j(e) sais pas essaie ana .
+26784 pas essaie                     j'sais pas essaie ana .
 26785 pas ana                        ça marche pas ana .
+26791 peut êt(re)                   ben peut êt(re) que c' est
 26796 faut un                        i(l) nous faut un angle là
 26798 non i(l)                       non i(l) va là bas l'
+26806 peut êt(re)                   peut êt(re) c(el)ui là .
 26808 non ana                        non ana ça va pas là
+26812 peut êt(re)                   peut êt(re) c(el)ui là .
+26819 doit êt(re)                   ça doit êt(re) c(el)ui là .
 26823 pas un                         en manquerait pas un ?
 26827 non i(l)                       non i(l) va pas ana .
 26827 pas ana                        i(l) va pas ana .
@@ -3442,6 +3468,7 @@
 26830 non i(l)                       non i(l) en manque des pions
 26839 continuer à                   on va continuer à tourner alors
 26839 tourner alors                  continuer à tourner alors (et)
+26839 p(u)is on                      alors (et) p(u)is on va
 26843 raison ana                     tu as raison ana c' est
 26858 tien ana                       après le tien ana .
 26861 est où                        , il est où le
@@ -3471,6 +3498,7 @@
 26999 rien à                        j(e) comprends rien à c(e) que
 27005 bon allez                      bon allez viens ana on fait
 27005 viens ana                      bon allez viens ana on fait
+27005 fait aut(re)                   ana on fait aut(re) chose
 27007 enquiquiner autrement          chl nous enquiquiner autrement .
 27011 viens on                       viens on va r(e)garder winnie .
 27037 arrives à                     tu y arrives à mett(r)e
@@ -3708,6 +3736,7 @@
 28364 hein hein                      ernest , hein hein .
 28378 nous hein                      comme chez nous hein .
 28385 est où                        là il est où alors
+28386 doit êt(r)e                   bah i(l) doit êt(r)e caché
 28399 dit amiral                     passé amidou dit amiral .
 28401 est où                        il est où ?
 28402 alors euh                      alors euh .
@@ -3972,6 +4001,7 @@
 29887 maint(e)nant on                hop maint(e)nant on fait un bras
 29887 fait un                        maint(e)nant on fait un bras
 29888 puis un                        et puis un autre bras qui
+29889 p(u)is un                      et p(u)is un autre ?
 29891 attends on                     et voilà attends on va faire
 29892 yeux hop                       ses gros yeux hop !
 29893 un hop                         un hop !
@@ -4286,14 +4316,15 @@
 30886 déguisement à                posé l(e) déguisement à côté
 30887 et ils                         le déguis(e)ment et ils tous
 30888 déguisés en                  se sont déguisés en lion
-30893 pas un                         j(e) suis pas un lion
-30896 suis un                        que j(e) suis un lion
-30897 pas un                         j(e) suis pas un lion
-30898 pas un                         j(e) suis pas un lion
+30893 pas un                         mais j'suis pas un lion moi
+30896 j'suis un                      est-ce que j'suis un lion ?
+30897 pas un                         vrai j'suis pas un lion
+30898 pas un                         vrai j'suis pas un lion
 30900 bébés et                     sont les bébés et les
 30907 et encore                      ici , et encore ici
 30912 rayures oui                    encore des rayures oui .
 30925 non un                         non un deux trois quatre .
+30934 faudrait êt(re)               bien cachée faudrait êt(re) comme
 30935 est où                        elle est où ana ?
 30937 est où                        elle est où ?
 30939 es où                         t' es où ?
@@ -4312,10 +4343,10 @@
 30967 ben oui                        ah ben oui t' as quelque
 30970 et alors                       aïe et alors qu' est-ce qu'
 30973 mien et                        décroché l(e) mien et moi
-30983 pas un                         j(e) suis pas un méchant !
-30984 suis un                        j(e) suis un gentil !
+30983 pas un                         j'suis pas un méchant !
+30984 j'suis un                      j'suis un gentil !
 30991 non aïe                       non , non aïe aïe aïe
-30997 bon à                         j(e) suis bon à manger
+30997 bon à                         que j'suis bon à manger
 31000 es un                          toi t(u) es un lion méchant
 31001 es une                         oh t(u) es une fille .
 31002 es une                         t(u) es une lionne , t(u)
@@ -4403,7 +4434,7 @@
 31519 pas avec                       c' est pas avec un
 31520 oiseaux à                     mets les oiseaux à toi
 31524 aller à                       très bien aller à toi tourne
-31525 pas on                         j(e) sais pas on peut
+31525 pas on                         oh j'sais pas on peut pas
 31527 raquettes alors                pas des raquettes alors c'
 31556 horloges à                    qu(e) les horloges à toi
 31575 non on                         non on va faire aut(r)e chose
@@ -4416,12 +4447,13 @@
 31617 bien alors                     voilà très bien alors nuage ?
 31625 faut un                        i(l) nous faut un bout
 31626 bout euh                       un p(e)tit bout euh .
-31669 comment i(l)                   sais pas comment i(l) va
+31669 comment i(l)                   j'sais pas comment i(l) va
 31675 ouais i(l)                     ouais i(l) faut du rouge là
 31676 et orange                      rouge et orange .
+31683 doit êt(r)e                   ça doit êt(r)e ça voilà !
 31689 donnes un                      m' en donnes un ?
-31692 pas où                        j(e) sais pas où i(l) va
-31697 pas où                        j(e) sais pas où i(l) va
+31692 pas où                        j'sais pas où i(l) va c(e)lui
+31697 pas où                        j'sais pas où i(l) va c(e)lui
 31700 essayer aut(r)e                on va essayer aut(r)e chose
 31706 mais oui                       mais oui mais j' aime pas
 31715 non où                        non où c' est qu' i(l)
@@ -4433,7 +4465,7 @@
 31742 mais oui                       mais oui je viens .
 31749 mais il                        les papillons mais il est
 31749 tout euh                       il est tout euh .
-31751 pas où                        j(e) sais pas où tu m(e)
+31751 pas où                        j'sais pas où tu m(e) les
 31771 lapin où                      coco lapin où tu l(e) mets
 31789 souris et                      la souris et le lapin .
 31820 doit aller                     ci elle doit aller là
@@ -4451,7 +4483,7 @@
 31898 bon allez                      bon allez ça suffit avec le
 31898 suffit avec                    allez ça suffit avec le
 31901 pas en                         tu joues pas en l(e)
-31905 pas où                        j(e) sais pas où il a
+31905 pas où                        j'sais pas où il a mis
 31906 doucement ana                  doucement ana avec !
 31908 vois il                        tu vois il en a eu
 31915 donner aut(r)e                 vais te donner aut(r)e chose
@@ -4488,7 +4520,7 @@
 32021 vois y                         déjà tu vois y a
 32022 vert il                        mais le vert il est
 32029 faut écrire                   qu' i(l) faut écrire ?
-32031 pas écrire                    j(e) sais pas écrire .
+32031 pas écrire                    j'sais pas écrire .
 32032 abord un                       d' abord un a .
 32034 et ensuite                     et ensuite ?
 32037 maman heuh                     euh maman heuh oui à la
@@ -4663,8 +4695,8 @@
 32996 ben oui                        douc(ement) ben oui t(u) es une
 32996 es une                         oui t(u) es une brute
 33009 tiens encore                   tiens encore un bout d' hippopotame
-33011 pas où                        j(e) sais pas où il est
-33014 pas où                        j(e) sais pas où ça va
+33011 pas où                        j'sais pas où il est l'
+33014 pas où                        j'sais pas où ça va .
 33020 es une                         t(u) es une destructrice .
 33021 pas avec                       pas avec les pieds , pas
 33021 pas avec                       pieds , pas avec les
@@ -4686,8 +4718,8 @@
 33076 attention ou                   on fait attention ou i(l) faut
 33080 éléphant et                  même l' éléphant et ses carreaux
 33081 éléphant à                  laisse l' éléphant à carreaux
-33082 pas un                         j(e) suis pas un chien
-33082 pas un                         j(e) suis pas un chien
+33082 pas un                         donc j'suis pas un chien
+33082 pas un                         , j'suis pas un chien
 33088 consignes à                   , des consignes à respecter
 33101 pas encore                     je suis pas encore une
 33102 alors on                       alors on va , on va
@@ -4734,6 +4766,7 @@
 33364 as envie                       , t(u) as envie de
 33387 vas à                         alors tu vas à côté de
 33394 attends il                     attends il faut que je vise
+33465 donner aut(re)                 vais te donner aut(re) chose
 33466 donner un                      vais te donner un p(e)tit
 33468 doux il                        tout doux il est .
 33484 fais avec                      que tu fais avec ta
@@ -4826,7 +4859,7 @@
 34232 jouer avec                     tu veux jouer avec le coq
 34253 pourras en                     déplaces tu pourras en choisr
 34269 peux en                        , tu peux en enl(e)ver
-34285 suis un                        j(e) suis un peu malade .
+34285 j'suis un                      j'suis un peu malade .
 34288 avait un                       qu' elle avait un peu
 34307 vais aller                     j(e) vais aller fermer la f(e)nêtre
 34314 faut essayer                   faut essayer par là .
@@ -4861,7 +4894,7 @@
 34588 téléphones en                les deux téléphones en même
 34593 suis avec                      , je suis avec mar
 34597 étais en                      , j' étais en train
-34600 pas où                        j(e) sais pas où * ,
+34600 pas où                        j'sais pas où * , où
 34600 as eu                          où tu as eu ça
 34603 pas ici                        pas ici .
 34619 as un                          t(u) as un téléphone rien qu(e)
@@ -4975,8 +5008,10 @@
 35648 ouais ouais                    ouais , ouais ouais .
 35650 comment on                     comment on fait ?
 35651 comment on                     comment on fait ?
+35656 p(u)is après                  (et) p(u)is après on va arrêter
 35656 après on                      (et) p(u)is après on va arrêter
 35656 arrêter hein                  on va arrêter hein ?
+35675 p(u)is on                      regarde (et) p(u)is on va voir
 35684 ben on                         bon , ben on va d(e)mander
 35689 joueras avec                   ça tu joueras avec .
 35690 pieds et                       faut deux pieds et une
@@ -5259,7 +5294,7 @@
 37694 et oui                         et oui .
 37695 non on                         non on , on appuit pas
 37698 et oui                         et oui .
-37707 suis à                        là j(e) suis à fond
+37707 j'suis à                      non là j'suis à fond
 37711 racontes à                    tu lui racontes à la
 37730 es où                         t(u) es où ?
 37732 arrives à                     don(c) t(u) arrives à manger
@@ -5343,7 +5378,7 @@
 38213 tiennes en                     prendre les tiennes en fait
 38220 fait hein                      ça en fait hein ?
 38229 tomber hein                    tu peux tomber hein .
-38236 pas où                        j(e) sais pas où les mettre
+38236 pas où                        j'sais pas où les mettre .
 38243 jouer avec                     tu viens jouer avec moi mar
 38250 jouer à                       essayer de jouer à un
 38268 alors y                        toute seule alors y a
@@ -5432,6 +5467,7 @@
 38911 dorment hein                   i(l) s dorment hein .
 38921 fais un                        , tu fais un câlin
 38931 sais y                         tu sais y en a que
+38941 faut êt(r)e                   éh faut êt(r)e plus gentille avec
 38948 peux être                     tu peux être gentille avec lui
 38949 fais un                        tu lui fais un câlin ?
 38951 ben oui                        ben oui .
@@ -5457,6 +5493,7 @@
 39019 poisson il                     nez du poisson il est
 39019 est où                        poisson il est où l(e)
 39025 et i(l)                        et i(l) s sont jolis ces
+39060 pas êt(r)e                    ça va pas êt(r)e ça alors
 39065 manges encore                  ah tu manges encore .
 39074 téléphoner à                tu veux téléphoner à qui ?
 39088 plutôt un                     plutôt un bateau hein .
@@ -5490,7 +5527,7 @@
 39239 fait un                        , ça fait un bâteau
 39243 poissons hein                  bien tes poissons hein .
 39254 nagent oh                      i(l) s nagent oh oui i(l)
-39256 suis un                        * j(e) suis un p(e)tit
+39256 j'suis un                      là * j'suis un p(e)tit
 39261 nagent ensemble                ils nagent ensemble là .
 39268 poussières hein               toutes les poussières hein mar
 39269 fais un                        qu(e) tu fais un p(e)tit
@@ -5522,6 +5559,7 @@
 39343 poissons hein                  bon les poissons hein .
 39362 donner à                      vas lui donner à manger
 39365 ben il                         ah ben il a l' air
+39384 p(u)is on                      oh , p(u)is on a perdu
 39390 ben il                         oh ben il a les os
 39390 fragiles hein                  les os fragiles hein .
 39391 pis hein                       ben tant pis hein .
@@ -5563,6 +5601,7 @@
 39633 manger à                      donnes à manger à qui
 39647 dit elle                       elle nous dit elle , elle
 39647 et elle                        me touche et elle dit
+39647 p(u)is après                  papa et p(u)is après ,
 39648 fois elle                      p(u)is des fois elle dit
 39648 dit elle                       fois elle dit elle se
 39659 ben oui                        oh ben oui , t(u) as
@@ -5617,6 +5656,7 @@
 40060 chercher alors                 aller le chercher alors .
 40070 couper un                      on va couper un morceau d(e)
 40073 croques hein                   tu croques hein dedans .
+40083 p(u)is après                  ci , p(u)is après t(u)
 40084 recouper encore                vais le recouper encore celui
 40091 as encore                      t(u) en as encore , encore
 40098 pendant une                    qui jouons pendant une heure
@@ -5676,7 +5716,7 @@
 40318 sert à                        qu(e) ça sert à ça
 40328 chaussures à                  est les chaussures à papa
 40335 préparer à                   vais lui préparer à manger
-40337 suis en                        ben j(e) suis en train d(e)
+40337 j'suis en                      ben j'suis en train d(e) préparer
 40337 préparer à                   train d(e) préparer à manger
 40344 pas être                      tu veux pas être là debout
 40346 réessayer ou                  veux pas réessayer ou pas
@@ -5709,7 +5749,7 @@
 40540 vais en                        ben j(e) vais en préparer
 40540 préparer une                  vais en préparer une pour
 40543 ben alors                      ben alors j(e) te , j(e)
-40548 suis obligée                  fois j(e) suis obligée d(e)
+40548 j'suis obligée                des fois j'suis obligée d(e)
 40571 emmènes où                   tu m' emmènes où ?
 40572 non on                         ah non on fait pas ça
 40574 après on                      après on peut plus mettre le
@@ -5763,6 +5803,7 @@
 41009 trois en                       trois en même temps ?
 41010 beaucoup hein                  ça fait beaucoup hein .
 41018 veux aller                     tu veux aller là bas pour
+41029 peut êt(re)                   euh peut êt(re) pas !
 41030 bas avec                       feuille là bas avec un
 41031 hein on                        hein on laisse ça là .
 41032 donner à                      vas l(e) donner à ,
@@ -5797,6 +5838,7 @@
 41240 et on                          p(e)tit peu et on mang(e)ra
 41244 met où                        on le met où le a
 41253 alors on                       alors on termine , on les
+41253 p(u)is on                      tous et p(u)is on boira
 41261 attend on                      eh attend on a encore plein
 41268 allez on                       allez on termine là .
 41270 alors est-ce                   alors est-ce qu' i(l) y a
@@ -5938,7 +5980,7 @@
 42207 ben oui                        ben oui mais j' ai plus
 42207 rien à                        ai plus rien à vendre
 42213 enlever y                      veux l' enlever y a
-42215 suis en                        j(e) suis en train d(e) ramasser
+42215 j'suis en                      j'suis en train d(e) ramasser les
 42223 non on                         non , non on ne
 42231 sert à                        ah ça sert à ça !
 42248 et on                          et on ne touche pas !
@@ -5988,13 +6030,14 @@
 42534 alors où                      alors où est-ce qu' il y
 42535 alors où                      alors où est-ce que maman elle
 42535 maman elle                     est-ce que maman elle a
-42539 non alors                      là non alors c' est peut
+42539 non alors                      là non alors c' est peut-être
 42545 gardes à                      tu les gardes à la
 42551 trop haut                      c' est trop haut pour
 42552 pas ouvrir                     n(e) peux pas ouvrir toute
 42553 allez on                       allez on retourne par là ?
 42554 pas occupée                   en es pas occupée aujourd'hui
 42555 restés au                     s sont restés au lit
+42561 pas êt(r)e                    ça doit pas êt(r)e la bonne
 42563 mais oui                       mais oui mais lui i(l) va
 42564 clés aussi                    a ses clés aussi oui
 42569 pas à                         mets le pas à la bouche
@@ -6016,6 +6059,7 @@
 42674 et oui                         et oui elle est là .
 42692 transformer en                 vas t(e) transformer en .
 42693 veux encore                    tu en veux encore ?
+42700 p(u)is on                      p(u)is on essaie d(e) cont ,
 42701 hein on                        hein on retourne vers le loto
 42717 pas à                         t(u) arrives pas à mett(r)e le
 42721 mets où                       tu le mets où ?
@@ -6198,6 +6242,7 @@
 43861 peux encore                    tu peux encore appuyer plus fort
 43866 as un                          , t(u) as un p(e)tit
 43866 dos après                     dans l(e) dos après .
+43869 p(u)is on                      (et) p(u)is on met cel .
 43872 un et                          en ai un et puis
 43872 as un                          t(u) en as un .
 43873 chacun un                      on a chacun un micro .
@@ -6232,6 +6277,7 @@
 43977 évident hein                  est pas évident hein d(e)
 43981 mets un                        tu lui mets un oeil ?
 43986 mis un                         en as mis un d(e)
+43986 p(u)is un                      là (et) p(u)is un d(e)
 43990 bien hein                      tient pas bien hein .
 44011 comment on                     alors comment on fait un nez
 44011 fait un                        comment on fait un nez
@@ -6388,7 +6434,7 @@
 44851 bientôt en                    tu vas bientôt en avoir un
 44873 et oui                         et oui , un papillon .
 44882 bas oui                        , là bas oui ,
-44893 plus où                       j(e) sais plus où elle
+44893 plus où                       , j'sais plus où elle
 44910 papier en                      est du papier en fait
 44912 pas il                         c' est pas il est
 44912 pas en                         il est pas en papier
@@ -6430,6 +6476,7 @@
 45129 aller où                      tu veux aller où ?
 45130 veux aller                     tu veux aller chercher l(e) pot
 45132 alors on                       alors on ouvre ?
+45147 p(u)is on                      et p(u)is on sort .
 45160 monsieur il                    mais l(e) monsieur il est
 45165 et alors                       et alors , tu l(e) places
 45168 ben oui                        et ben oui , on l(e)
@@ -6547,7 +6594,7 @@
 45788 donnes aussi                   tu lui donnes aussi ?
 45791 as un                          qu(e) t(u) as un autre
 45795 pas avec                       qu(i) est pas avec du
-45798 pas où                        j(e) sais pas où il
+45798 pas où                        heuh j'sais pas où il est
 45800 attend un                      on attend un peu ?
 45824 ben on                         ben on va , on va
 45824 verres alors                   remplir les verres alors .
@@ -6697,6 +6744,7 @@
 46714 et on                          et on remet l(e) doudou sur
 46718 autrement on                   c(e) ko autrement on t'
 46719 ben on                         ah ben on peut pas l(e)
+46719 p(u)is il                      petit , p(u)is il parle
 46735 veux aussi                     tu veux aussi enl(e)ver ça ?
 46737 vas avoir                      là tu vas avoir froid .
 46738 non on                         non non non on garde ça
@@ -6744,7 +6792,7 @@
 46917 bouchon on                     ben le bouchon on l ,
 46917 mais on                        là , mais on va
 46918 matin au                       avec c(e) matin au petit
-46918 plus où                       j(e) sais plus où j(e)
+46918 plus où                       p(u)is j'sais plus où j(e)
 46922 pas en                         il est pas en train d(e)
 46927 depuis un                      parti déjà depuis un moment
 46928 veux encore                    tu veux encore voir .
@@ -6807,7 +6855,7 @@
 47149 ben oui                        ah ben oui .
 47162 es enrhumée                   tu t' es enrhumée en fait
 47165 intéressant hein              c' est intéressant hein .
-47170 suis en                        là j(e) suis en train d(e)
+47170 j'suis en                      là j'suis en train d(e) te
 47170 porter et                      d(e) te porter et ça
 47177 ben oui                        eh ben oui .
 47178 monsieur il                    le monsieur il a était mordu
@@ -6844,6 +6892,7 @@
 47386 attention au                   faut faire attention au fil
 47391 jouer avec                     tu peux jouer avec l'
 47402 autrement on                   pa(r)c(e) qu' autrement on peut
+47404 p(u)is on                      voilà et p(u)is on va
 47409 vais essayer                   j(e) vais essayer d(e) trouver des
 47412 attention avec                 fais bien attention avec euh
 47416 emmènes où                   tu les emmènes où ?
@@ -6896,6 +6945,7 @@
 47680 alors on                       alors on lit une histoire ?
 47680 lit une                        alors on lit une histoire ?
 47692 tout hein                      pas du tout hein .
+47693 p(u)is on                      p(u)is on va mett(re) le fil
 47695 seulement hein                 i(l) tombe seulement hein .
 47700 depuis un                      l' histoire depuis un p(e)tit
 47706 câlin à                      faire un câlin à son
@@ -6920,6 +6970,7 @@
 47785 mais il                        un gros mais il est
 47787 froid oui                      ça fait froid oui .
 47791 allés à                      on est allés à la
+47794 p(u)is i(l)                    et p(u)is i(l) f(ai)sait froid .
 47796 main à                        donné la main à mamie
 47796 ben oui                        papi , ben oui .
 47801 bottes on                      avec des bottes on glisse
@@ -7121,6 +7172,7 @@
 48905 comment on                     t(e) rappelles comment on fait
 48906 attirent ou                    i(ls) s' attirent ou des fois
 48906 fois ils                       ou des fois ils au
+48912 peut êt(r)e                   l(e) mett(r)e peut êt(r)e par
 48924 vert et                        il est vert et i(l) et
 48924 et i(l)                        est vert et i(l) et
 48935 mets en                        lequel tu mets en premier
@@ -7128,6 +7180,7 @@
 48941 mets un                        j' en mets un comme
 48942 pardon houp                    houp pardon pardon houp houp houp
 48948 faut encore                    faut encore .
+48950 peut êt(r)e                   ça va peut êt(r)e tomber
 48962 tomber oui                     il va tomber oui .
 48970 pas une                        c' est pas une petite bête
 48975 ben oui                        ben oui regarde comme i(l) dort
@@ -7143,7 +7196,7 @@
 49014 et oui                         et oui c' est un b
 49015 pas un                         c' est pas un huit c'
 49015 un huit                        est pas un huit c'
-49016 un huit                        peut être un huit ?
+49016 un huit                        peut-être un huit ?
 49017 pas un                         c' est pas un huit
 49017 un huit                        est pas un huit .
 49034 prêter un                     va t(e) prêter un arrosoir
@@ -7206,12 +7259,14 @@
 49255 alors attends                  est ma alors attends j(e)
 49262 vas où                        tu vas où ?
 49266 reviens avec                   reviens avec le scotch et p(u)is
+49266 p(u)is on                      scotch et p(u)is on va
 49272 viens avec                     ben viens avec le scotch .
 49273 pas à                         t(u) arrives pas à ouvrir ?
 49275 fait exprès                   c' est fait exprès aussi .
 49280 ben alors                      et ben alors je t' attends
 49283 mais il                        mais il en faut au moins
 49283 faut au                        il en faut au moins
+49284 peut êt(r)e                   peut êt(r)e même trois .
 49288 arrives à                     , t(u) arrives à couper
 49294 alors essaie                   alors essaie de faire toi maintenant
 49296 ben oui                        ah ben oui mais c' est
@@ -7264,6 +7319,7 @@
 49518 est où                        elle est où alors ?
 49524 est euh                        c' est euh .
 49531 plus où                       je sais plus où .
+49532 peut êt(re)                   peut êt(re) déjà dans ta chambre
 49534 est où                        il est où alors ?
 49537 lit alors                      pas ton lit alors .
 49538 as un                          toi t(u) as un grand
@@ -7289,7 +7345,7 @@
 49747 viens ici                      , tu viens ici ?
 49748 fais alors                     que tu fais alors ?
 49769 attention au                   faut faire attention au matériel mar
-49771 non il                         non il est pas kaʃ ,
+49771 non il                         non il est pas ka* ,
 49772 pas euh                        hein faut pas euh se laisser
 49778 alors où                      alors où est-ce que tu es
 49782 tiens on                       tiens on va faire un gros
@@ -7327,6 +7383,7 @@
 49892 quand i(l)                     de papa quand i(l) va
 49895 est où                        il est où quoi ?
 49905 plutôt avec                   viens jouer plutôt avec ça .
+49910 p(u)is en                      le laisses p(u)is en plus
 49910 es en                          plus t(u) es en train
 49910 agrafes et                     tomber des agrafes et puis
 49914 veux on                        si tu veux on va
@@ -7389,6 +7446,7 @@
 50109 compter aussi                  essaie de compter aussi ?
 50111 alors un                       alors un .
 50126 montres alors                  tu me montres alors le
+50127 p(u)is on                      couleur et p(u)is on colore
 50130 dos à                         pas l(e) dos à ger
 50132 mieux avoir                    elle aimerait mieux avoir te
 50134 et oui                         et oui .
@@ -7422,6 +7480,7 @@
 50270 viens ici                      tu viens ici ?
 50272 touches à                     donc tu touches à rien
 50273 vas où                        tu vas où ?
+50277 peut êt(re)                   ah peut êt(re) que c' est
 50289 gens en                        , les gens en dessous
 50289 doit être                     dessous ça doit être pénible
 50292 sont encore                    mouchoirs qui sont encore là
@@ -7531,6 +7590,7 @@
 50854 mais i(l)                      mais i(l) y a plus d(e)
 50857 ben oui                        ben oui .
 50859 fait oui                       l' a fait oui .
+50861 p(u)is on                      et p(u)is on va jouer à
 50861 jouer à                       on va jouer à autre
 50865 as aspirées                   que t' as aspirées .
 50866 sont à                        elles sont à l' intérieur maint(e)nant
@@ -7539,6 +7599,7 @@
 50873 bas et                         aller là bas et on
 50873 et on                          là bas et on va
 50883 ben elle                       , et ben elle peut
+50885 p(u)is on                      là et p(u)is on évite
 50885 bruit avec                     faire du bruit avec l'
 50888 veux aspirer                   tu veux aspirer le poisson ?
 50893 arrêtes alors                 tu arrêtes alors ?
@@ -7551,6 +7612,7 @@
 50925 et après                      et après tu les mangeras ?
 50927 assiettes alors                sortir des assiettes alors .
 50930 pas une                        c' est pas une boîte
+50933 p(u)is y                       et p(u)is y en a derrière
 50934 vois une                       je vois une assiette rouge .
 50945 et i(l)                        et i(l) nous manque quelque chose
 50954 alors on                       alors on mange avec euh ,
@@ -7666,6 +7728,8 @@
 51498 alors est-ce                   alors est-ce que tu crois qu(e)
 51520 et on                          et on tourne la page .
 51536 ans ouf                        aura trois ans ouf ,
+51537 p(u)is elle                    et p(u)is elle écrira dessus ,
+51539 p(u)is y                       p(u)is y a marqué joyeux anniversaire
 51547 aller à                       ans pour aller à l'
 51551 est où                        il est où papa ?
 51574 ben alors                      eh ben alors reviens nous voir
@@ -7712,7 +7776,9 @@
 51786 fort et                        a jetées fort et puis
 51787 mais autrement                 mais autrement euh elles restent sous
 51787 autrement euh                  mais autrement euh elles restent sous
+51787 p(u)is on                      la table p(u)is on les
 51791 dames elles                    les dames elles jettent par là
+51802 peut êt(re)                   ou peut êt(re) qu' il est
 51816 veux une                       , j(e) veux une tomate
 51817 donner un                      vais vous donner un euro
 51823 bananes aussi                  ach(e)ter des bananes aussi .
@@ -7784,6 +7850,7 @@
 52098 sais où                       tu sais où tu vas après
 52098 vas après                     où tu vas après .
 52105 est où                        elle est où ?
+52112 p(u)is après                  p(u)is après on va descendre les
 52112 après on                      p(u)is après on va descendre les
 52112 escaliers encore               descendre les escaliers encore .
 52113 et après                      et après on va aller sur
@@ -7809,6 +7876,7 @@
 52205 jouer un                       tu r(e)viens jouer un peu
 52206 joues à                       tu joues à tu veux jouer
 52206 jouer à                       tu veux jouer à quoi
+52229 p(u)is on                      est rond p(u)is on peut
 52230 as un                          tu en as un .
 52242 bois oui                       que tu bois oui c'
 52261 continuer à                   j(e) vais continuer à r(e)garder
@@ -7824,7 +7892,7 @@
 52346 pendant une                    pendant une heure .
 52355 comment on                     comment on dit aussi une cocotte
 52355 dit aussi                      comment on dit aussi une cocotte
-52356 plus où                       ben ʃe plus où (i)l est
+52356 plus où                       ben *e plus où (i)l est
 52363 ranges hein                    m(e) le ranges hein .
 52368 jouer avec                     tu veux jouer avec l'
 52377 sont en                        i(l) s sont en train de
@@ -7916,6 +7984,7 @@
 52849 était interdit                qu(e) c' était interdit .
 52862 sinon on                       sinon on va arrêter .
 52863 vas aller                      hein tu vas aller dans ta
+52863 p(u)is on                      te reposer p(u)is on va
 52864 secondes et                    réflechis deux secondes et tu
 52866 jouait au                      si on jouait au .
 52874 comment on                     te rappelles comment on joue
@@ -7958,6 +8027,7 @@
 53053 alors il                       alors il est triste encore ?
 53063 racontes une                   tu m(e) racontes une dernière fois
 53063 mouton et                      histoire du mouton et p(u)is
+53063 p(u)is après                  mouton et p(u)is après on
 53063 après on                      et p(u)is après on lira
 53065 et i(l)                        i(l) baîlle et i(l) tousse ?
 53090 mauvais une                    ça sent mauvais une mouflette hein
@@ -7969,6 +8039,7 @@
 53102 pas à                         il est pas à l'
 53106 envers ou                      à l' envers ou à
 53108 bien alors                     eh bien alors , regarde bien
+53130 peut êt(re)                   bah euh peut êt(re) parce qu'
 53134 nous on                        nous on les voit là .
 53135 bientôt une                   vas mett(re) bientôt une .
 53137 p(e)tites euh                  , des p(e)tites euh ,
@@ -8619,6 +8690,7 @@
 55954 pas à                         on prépare pas à manger avec
 55954 manger avec                    pas à manger avec un
 55955 laves encore                   tu laves encore ?
+55971 peut êt(re)                   tu enlèves peut êt(re) l'
 55972 vas avoir                      autrement tu vas avoir euh
 55974 veux aller                     tu veux aller aux toilettes c'
 55974 aller aux                      tu veux aller aux toilettes c'
@@ -8638,6 +8710,7 @@
 56029 ben alors                      ah ben alors c' est normal
 56029 soient usées                  les piles soient usées .
 56032 alors il                       ah ou alors il est peut
+56032 peut êt(re)                   il est peut êt(re) dans
 56033 dos euh                        sac à dos euh marron
 56034 alors il                       ah ou alors il est dans
 56041 vois on                        ben tu vois on retrouve
@@ -8653,6 +8726,7 @@
 56053 puis on                        ranges et puis on l'
 56058 ben alors                      ben alors on prend l(e) livre
 56058 alors on                       ben alors on prend l(e) livre
+56058 p(u)is on                      livre , p(u)is on s'
 56068 carton y                       sur le carton y a
 56068 escargot et                    a un escargot et un
 56068 et un                          un escargot et un canard
@@ -8671,6 +8745,7 @@
 56098 et oui                         et oui .
 56099 bouées autour                 garde ses bouées autour d(e)
 56099 bras hein                      d(e) ses bras hein .
+56100 peut êt(re)                   que ça peut êt(re) dang(e)reux
 56101 ben oui                        ben oui mais même si ça
 56102 sinon on                       sinon on n(e) va pas à
 56102 pas à                         n(e) va pas à la
@@ -8686,9 +8761,10 @@
 56124 puis on                        enfants et puis on les
 56124 bras après                    dans ses bras après .
 56125 fois avec                      ça des fois avec chi
-56126 pas assez                      j(e) suis pas assez costaud
+56126 pas assez                      que j'suis pas assez costaud
 56127 lapin elle                     la maman lapin elle est
 56129 et alors                       et alors philipon lui il ,
+56135 peut êt(re)                   peut êt(re) qu' i(l) veut monter
 56138 ben on                         ah ben on verra quand on
 56140 bouées en                     des belles bouées en forme
 56144 et oui                         et oui .
@@ -8716,8 +8792,10 @@
 56233 vois une                       t(u) en vois une hein
 56239 manges une                     que tu manges une gauffre
 56239 as une                         que tu as une sucette
+56244 doit êt(re)                   bah ça doit êt(re) bon hein
 56244 bon hein                       doit êt(re) bon hein .
 56250 et oui                         et oui !
+56255 vas êt(re)                    tu vas êt(re) comme ça après
 56260 questions et                   poses des questions et j(e)
 56263 pied alors                     est un pied alors .
 56271 fait une                       celui qui fait une maison
@@ -8740,8 +8818,10 @@
 56335 jouer avec                     pourra plus jouer avec .
 56339 pas à                         n(e) vont pas à l'
 56341 mais i(l)                      oui mais i(l) faut êt(re) des
+56341 faut êt(re)                   mais i(l) faut êt(re) des
 56341 aller à                       enfants pour aller à l'
 56342 mais un                        oui mais un bébé c' est
+56343 faut êt(re)                   faut êt(re) une petite fille ou
 56343 aller à                       garçon pour aller à l'
 56346 ans et                         a deux ans et demi
 56353 mais à                        mais à quatre ans on met
@@ -8769,7 +8849,7 @@
 56428 prend alors                    casimir le prend alors par la
 56428 main et                        par la main et l'
 56429 aider à                       pour l' aider à s'
-56434 suis en                        , j(e) suis en train
+56434 j'suis en                      pas , j'suis en train
 56435 veux un                        tu en veux un ?
 56440 alors une                      alors une fois couché , hippolyte
 56441 occupes aussi                  tu t' occupes aussi d(e)
@@ -8871,6 +8951,7 @@
 56765 vas apprendre                  tu vas apprendre à filmer !
 56766 bien hein                      l(e) voit bien hein ?
 56771 vois avec                      tu m(e) vois avec mes
+56776 p(u)is écoute                 p(u)is écoute .
 56780 bien hein                      on entend bien hein ?
 56784 expliques à                   oh tu expliques à ger qui
 56785 non on                         euh non on vu coralie .
@@ -9212,6 +9293,7 @@
 57964 veux un                        tu veux un gros pinceau ou
 57965 fais attention                 fais attention tu faut pas abîmer
 57965 pas abîmer                    tu faut pas abîmer ta
+57969 p(u)is après                  p(u)is après tu le mets dans
 57971 vois y                         que tu vois y a
 57973 mélanger avec                 faut pas mélanger avec l' aut(re)
 57975 dessin hein                    fais l(e) dessin hein c'
@@ -9444,7 +9526,7 @@
 58818 coup on                        du coup on va p(eut) êt(re)
 58820 est où                        elle est où la caméra ?
 58821 papillon en                    pas le papillon en entier
-58839 maman à                       appelle maʁmã maman à ton
+58839 maman à                       appelle ma*mã maman à ton
 58841 ben oui                        ben oui .
 58843 et on                          et on est où là on
 58843 est où                        et on est où là on
@@ -9481,6 +9563,7 @@
 58909 fait avec                      qu' il fait avec sa
 58918 fais attention                 p(eut) êt(re) fais attention ça
 58919 pourrait être                 que ça pourrait être ?
+58921 pourrait êt(re)               que ça pourrait êt(re) d'
 58922 ben oui                        ah ben oui !
 58925 ben oui                        euh ben oui !
 58932 aides à                       tu m' aides à compter ?
@@ -9529,6 +9612,7 @@
 59082 et ou                          aussi , et ou y
 59091 grondent à                    ils te grondent à ton
 59092 fois on                        des fois on peut êt(re) une
+59092 peut êt(re)                   fois on peut êt(re) une
 59092 et on                          grande fille et on peut
 59092 peut encore                    et on peut encore faire
 59100 mais i(l)                      bah oui mais i(l) faut
@@ -9634,6 +9718,7 @@
 59424 et on                          ça , et on fait
 59426 viens on                       viens on se met là .
 59430 allez on                       allez on va essayer d(e) le
+59431 p(u)is après                  le puzzle p(u)is après on
 59431 après on                      puzzle p(u)is après on boit
 59432 avis où                       à ton avis où est-ce
 59433 correspond à                  , ça correspond à quoi
@@ -9641,6 +9726,7 @@
 59438 as une                         , t(u) as une bouteille
 59438 et un                          rouge , et un pot
 59440 en haut                        met(tre) , en haut ,
+59446 pourrait êt(re)               ça pourrait êt(re) comme ça .
 59449 correspond à                  , ça correspond à ces
 59452 met ici                        on le met ici .
 59458 vois où                       tu les vois où sur
@@ -9690,6 +9776,7 @@
 59641 as oublié                     , tu as oublié ?
 59645 bon alors                      bon alors , c(e) qui est
 59648 ben i(ls)                      ah ben i(ls) sont là ,
+59649 pourrait êt(re)               ah ça pourrait êt(re) une tortue
 59651 dessinées euh                 elles sont dessinées euh ,
 59654 comment i(l)                   tu sais comment i(l) s'
 59656 ben euh                        ben euh tous les bébés n'
@@ -9732,7 +9819,7 @@
 59831 vraiment une                   est pas vraiment une carte
 59837 alors on                       alors on joue au , on
 59840 as un                          mais t(u) as un joker
-59857 allez on                       allez on retourne ãʁ une nouvelle
+59857 allez on                       allez on retourne ã* une nouvelle
 59870 as un                          regarde t(u) as un paquet
 59872 as un                          toi t(u) as un cinq
 59881 comment on                     tu sais comment on fait
@@ -9813,6 +9900,7 @@
 60317 non on                         euh non on va continuer ,
 60340 enfuit en                      monde s' enfuit en hurlant
 60340 hurlant ou                     enfuit en hurlant ou se
+60341 peut êt(re)                   c' est peut êt(re) son cousin
 60345 passer à                      va s(e) passer à la
 60349 et une                         et une flèche est tirée sur
 60355 fond en                        n toto fond en larmes et
@@ -9822,6 +9910,7 @@
 60370 et alors                       et alors y a , y
 60370 alors y                        et alors y a , y
 60370 animaux avec                   chassent des animaux avec des
+60374 peut êt(re)                   il est peut êt(re) tué
 60379 et alors                       et alors est-ce qu' il est
 60379 alors est-ce                   et alors est-ce qu' il est
 60387 jours et                       durant trois jours et trois
@@ -9847,7 +9936,7 @@
 60465 comment il                     comment il a fait pour en
 60466 ben i(l)                       ben i(l) s' est cassé .
 60471 mais à                        un filet mais à ce
-60472 plus où                       j(e) sais plus où j' ai
+60472 plus où                       j'sais plus où j' ai mis
 60475 as été                       t(u) as été aidée , là
 60476 as été                       t(u) as été aidée par papa
 60478 es une                         t(u) es une gourmande , toi
@@ -9858,6 +9947,7 @@
 60521 fais exprès                   tu le fais exprès , là
 60534 pas un                         c' est pas un peu
 60563 faut un                        i(l) nous faut un bleu clair
+60568 peut êt(re)                   ben peut êt(re) que * de
 60569 vais aller                     je vais aller r(e)garder , hein
 60570 vais amener                    , j(e) vais amener ton
 60583 autrement euh                  autrement , autrement euh emi
@@ -9872,6 +9962,7 @@
 60610 trop haut                      c' est trop haut ,
 60626 jouer avec                     tu veux jouer avec ça
 60631 pas être                      ça doit pas être ce
+60632 peut êt(re)                   peut êt(re) que tu as joué
 60634 ben oui                        ah ben oui , voilà .
 60645 bien alors                     et bien alors vas y .
 60658 fait i(l)                      en fait i(l) faut trouver .
@@ -9899,11 +9990,13 @@
 60749 et ensuite                     rond , et ensuite le
 60752 puis en                        ah oui puis en plus c'
 60760 mais on                        mais on l' a pas lue
-60761 plus où                       j(e) sais plus où elle
+60761 plus où                       , j'sais plus où elle
 60763 ben on                         ah ben on la lira .
 60774 mets à                        tu mets à côté ?
+60776 peut êt(re)                   oui , peut êt(re) que
 60787 es enrhumée                   , t(u) es enrhumée ça
 60794 et i(l)                        et i(l) reste d(e) la place
+60796 peut êt(re)                   la , peut êt(re) pas
 60804 après euh                     on termin(e)ra après euh l'
 60808 pas une                        n' es pas une grande
 60812 bois une                       et tu bois une gorgée .
@@ -9923,6 +10016,7 @@
 60856 et après                      et après trois ans et demi
 60856 ans et                         après trois ans et demi
 60860 es un                          qu(e) tu es un chien
+60861 peut êt(re)                   ah ben peut êt(re) que .
 60862 pas alors                      je sais pas alors .
 60864 ans et                         après trois ans et d(e)mi p(eu)t
 60866 allez arrête                  allez arrête toi .
@@ -10000,6 +10094,7 @@
 61097 vois apparemment               tu vois apparemment , toi avec
 61107 normalement hein               normalement hein .
 61114 as envie                       que tu as envie d(e)
+61126 p(u)is y                       p(u)is y a l , là
 61136 puis au                        et puis au dessus , tu
 61142 as une                         tu en as une autre .
 61162 pas avec                       n(e) va pas avec ce
@@ -10008,6 +10103,7 @@
 61169 fait après                    on le fait après ?
 61172 pas euh                        c' est pas euh , un
 61177 vois i(ls)                     tu vois i(ls) sont vernis .
+61194 peut êt(re)                   ça , peut êt(re) deux
 61205 ben oui                        et ben oui .
 61221 peux en                        blanche tu peux en remet(tre)
 61224 briques au                     , les briques au même
@@ -10022,6 +10118,7 @@
 61247 rappelles une                  t' en rappelles une fois
 61250 petites avec                   on était petites avec alin
 61250 jouait à                      , on jouait à ça
+61256 peut êt(re)                   peut êt(re) qu' i(l) s ont
 61256 cas où                        rajouté au cas où on
 61257 maint(e)nant on                et maint(e)nant on va faire le
 61262 fais avec                      tu le fais avec ces
@@ -10031,6 +10128,8 @@
 61290 maison elle                    donc ta maison elle est
 61300 alors on                       alors on essaie d(e) continuer .
 61314 et i(l)                        et i(l) nous en manque euh
+61316 peut êt(re)                   peut êt(re) qu' il en manque
+61317 peut êt(re)                   peut êt(re) que * tombé .
 61318 vais aller                     j(e) vais aller r(e)garder dans l'
 61326 nous on                        nous on s' occupe , de
 61328 puis au                        , et puis au d(e)ssus
@@ -10080,6 +10179,7 @@
 61533 ben oui                        ah ben oui elle est là
 61535 mais on                        mais on peut n(e) pas les
 61537 ben y                          ben y a plus d(e) place
+61539 peut êt(re)                   peut êt(re) qu' elle i(ls) tiendront
 61541 met assis                      on les met assis .
 61546 faut y                         faut y aller tout douc(e)ment .
 61547 veux aussi                     si tu veux aussi .
@@ -10152,14 +10252,17 @@
 61802 ben oui                        ah ben oui .
 61803 asseois et                     tu t' asseois et puis
 61803 fait une                       tu on fait une euh
-61808 plus où                       j(e) sais plus où on les
+61808 plus où                       j'sais plus où on les a
+61821 peut êt(re)                   une feuille peut êt(re) .
 61824 non on                         ah ben non on arrache pas
+61829 doit êt(re)                   , ça doit êt(re) ça
 61838 et alors                       et alors , qu' est-ce qu'
 61844 faudrait un                    faudrait un , un rond ,
 61845 jardin i(l)                    dans l(e) jardin i(l) fallait
 61846 et une                         et une petite boule ronde pour
 61849 as aidé                       t(u) as aidé beaucoup , oui
 61852 abord on                       on d' abord on fait les
+61852 p(u)is on                      formes , p(u)is on colorie
 61853 seulement après               c' est seulement après qu'
 61876 mais i(l)                      mais i(l) faut la , faut
 61884 colorier en                    vas tout colorier en rouge
@@ -10212,18 +10315,22 @@
 62111 alors après                   alors après qu' est-ce qu' i(l)
 62119 et oui                         et oui .
 62126 veux aller                     tu veux aller voir maman ?
+62143 peut êt(re)                   ne touche peut êt(re) pas
 62173 avait aussi                    y en avait aussi , du
+62177 peut êt(re)                   peut êt(re) qu' y a l(e)
 62178 allez on                       allez on les mets tous devant
 62191 sais y                         tu sais y en a dans
 62192 et il                          et il les chasse .
 62202 alors il                       un pré alors il ,
 62203 et alors                       et alors ça ?
+62208 peut êt(re)                   ah peut êt(re) de l' aut(re)
 62209 et i(l)                        et i(l) comment i(l) s' appelle
 62209 comment i(l)                   et i(l) comment i(l) s' appelle
 62211 et alors                       lui , et alors lui
 62214 pioches une                    tu en pioches une au
-62219 comment on                     comment on dit ʃ ?
+62219 comment on                     comment on dit * ?
 62229 alors est-ce                   alors est-ce que tu vois ,
+62232 peut êt(re)                   c' est peut êt(re) pinocchio .
 62233 et arrêtes                    assi(eds) toi et arrêtes de faire
 62233 bruit avec                     faire du bruit avec le
 62235 et alors                       et alors est-ce que tu as
@@ -10404,6 +10511,7 @@
 62992 parles après                  puis tu parles après .
 62998 pas un                         c' est pas un jus d'
 63000 mets au                        je le mets au frigo
+63007 doit êt(r)e                   i(l) doit êt(r)e derrière ton dos
 63010 alors il                       alors il n' est pas là
 63013 plus ou                        n(e) sais plus ou il
 63015 part ou                        lancé quelque part ou alo(rs)
@@ -10511,7 +10619,7 @@
 63313 alors il                       et alors il faut refaire des
 63315 jouer à                       tu veux jouer à ce jeu
 63317 autrement i(l)                 parc(e) qu' autrement i(l) ,
-63330 pas ou                         j(e) sais pas ou on a
+63330 pas ou                         j'sais pas ou on a eu
 63334 suis une                       je suis une gentille sorcière .
 63341 pas où                        (ne) sais pas où on
 63348 parles et                      quand tu parles et quand
@@ -10562,6 +10670,7 @@
 63507 non on                         non , non on ne .
 63511 allez on                       allez on va pouvoir un petit
 63515 devait être                   elle devait être fatiguée .
+63523 peut êt(r)e                   aussi alors peut êt(r)e qu'
 63526 nuit où                       pendant la nuit où on
 63526 est où                        où on est où on
 63533 étonnant hein                 il est étonnant hein ce peintre
@@ -10570,7 +10679,7 @@
 63547 alors il                       alors il nous montre une photo
 63547 puis une                       était jeune puis une photo
 63548 maintenant il                  longtemps donc maintenant il n'
-63554 ben oui                        ah ben oui peut être .
+63554 ben oui                        ah ben oui peut-être .
 63568 ben oui                        ben oui !
 63572 enfants i(l)                   , des enfants i(l) s
 63572 pas en                         s vivent pas en même
@@ -10643,7 +10752,7 @@
 63853 faut en                        il faut en mettre un litre
 63857 ben on                         ben on comprend rien à ce
 63857 rien à                        on comprend rien à ce
-63863 remues ou                      tu ʁɛmu remues ou tu verses
+63863 remues ou                      tu *ɛmu remues ou tu verses
 63866 peux arrêter                  tu peux arrêter là un petit
 63877 continuer à                   tu peux continuer à verser
 63895 saladier avec                  dans le saladier avec le
@@ -10736,7 +10845,7 @@
 64292 as eu                          syt tu as eu peur !
 64302 met un                         , j(e) met un peu
 64303 attends une                    attends une seconde hein !
-64307 crayon ou                      as du crayon ou j(e)
+64307 crayon ou                      as du crayon ou j'sais
 64332 as eux                         t(u) as eux l' impression d'
 64338 joues un                       tu joues un p(e)tit peu cinq
 64343 as entendu                     t(u) as entendu ça ?
@@ -10791,6 +10900,7 @@
 64687 vais y                         j(e) vais y aller l(e) chercher
 64694 chercher un                    vais t(e) chercher un mouchoir
 64715 ben oui                        ben oui mais tu t' asseois
+64716 pas êt(re)                    ça doit pas êt(re) confortable
 64747 veux aller                     tu veux aller où ?
 64747 aller où                      tu veux aller où ?
 64780 mais oui                       mais oui mais maman elle est
@@ -10872,7 +10982,7 @@
 65409 mais il                        mais il est retombé hein !
 65415 pas où                        je sais pas où il
 65417 et oui                         et oui mais (il) y a
-65470 bon on                         bon on va peut être ranger
+65470 bon on                         bon on va peut-être ranger tout
 65477 donner un                      t' en donner un autre
 65478 chercher un                    t' en chercher un autre
 65490 comment i(l)                   comment i(l) s' appelle d(é)jà son
@@ -10991,6 +11101,7 @@
 66402 accord avec                    es d' accord avec lui
 66420 maint(e)nant on                allez , maint(e)nant on va ,
 66422 pas une                        c' est pas une écharpe mon
+66426 peut êt(re)                   d' aide peut êt(re) .
 66450 sorts une                      m' en sorts une .
 66453 quand y                        , et quand y en
 66455 sorts une                      m' en sorts une ?
@@ -11421,7 +11532,7 @@
 69324 non on                         non on lit jean le géant
 69327 mais un                        grand , mais un géant
 69331 vaches et                      a des vaches et dormir
-69337 hein on                        hein on finit l' autre peut
+69337 hein on                        hein on finit l' autre peut-être
 69338 jouer avec                     il aime jouer avec les trains
 69338 trains et                      avec les trains et regarde
 69339 parfois oui                    parfois oui .
@@ -11433,7 +11544,7 @@
 69354 partait un                     cette maison partait un sentier
 69354 conduisait à                  * qui conduisait à la
 69356 alors attends                  , nat alors attends .
-69359 comment on                     sais pas comment on va
+69359 comment on                     j'sais pas comment on va
 69367 histoires encore               expéditif les histoires encore hein
 69369 sais à                        tu sais à ton , à
 69370 regardais ah                   âge tu regardais ah oui
@@ -11486,6 +11597,7 @@
 69644 pas encore                     t(u) es pas encore étouffé .
 69645 pas encore                     t(u) as pas encore mis une
 69645 mis une                        pas encore mis une goutte
+69663 essayer aut(re)                on va essayer aut(re) chose .
 69673 veux un                        tu veux un bout d(e) pain
 69695 manger alors                   pas les manger alors .
 69699 pas obligé                    t(u) es pas obligé d(e) mett(r)e
@@ -11546,7 +11658,7 @@
 70163 fais un                        tu m(e) fais un câlin ?
 70164 raison y                       t(u) as raison y a
 70164 patates aussi                  a les patates aussi .
-70177 suis un                        moi j(e) suis un peu con
+70177 j'suis un                      moi j'suis un peu con moi
 70182 essuies aussi                  tu t' essuies aussi ?
 70185 essuies aussi                  tu t' essuies aussi comme
 70190 rends à                       tu l(e) rends à papa ?
@@ -11584,15 +11696,17 @@
 70387 comment on                     comment on fait maintenant ?
 70390 rattraper hein                 p(l)us la rattraper hein .
 70391 et oui                         et oui .
+70396 vais êt(re)                   j(e) vais êt(re) obligé d(e) tirer
 70404 ben alors                      ben alors c' est fini mon
 70408 veux en                        tu veux en voir un autre
 70425 allez encore                   allez encore .
 70439 et hop                         et hop là !
 70445 peux y                         , tu peux y aller
 70446 peux y                         tu peux y aller mon nanou
-70464 bon alors                      bon alors évidemment j(e) suis un
-70464 alors évidemment              bon alors évidemment j(e) suis un
-70464 suis un                        évidemment j(e) suis un peu
+70464 bon alors                      bon alors évidemment j'suis un peu
+70464 alors évidemment              bon alors évidemment j'suis un peu
+70464 j'suis un                      alors évidemment j'suis un peu
+70502 chercher aut(re)               vais t(e) chercher aut(re) chose
 70511 pas être                      ça d(e)vrait pas être ouvert ça
 70530 frères et                     est les frères et soeurs
 70540 pensant à                     , en pensant à jea
@@ -12046,7 +12160,7 @@
 73708 faut aussi                     mais i(l) faut aussi qu(e)
 73710 ouais ah                       ouais ah !
 73718 instant hein                   pour l' instant hein ?
-73720 bien où                       j(e) suis bien où j(e) suis
+73720 bien où                       j'suis bien où j'suis .
 73734 est où                        il est où nat ?
 73736 est où                        il est où nanou ?
 73739 joues avec                     tu joues avec le ballon ?
@@ -12126,7 +12240,7 @@
 74031 et oui                         et oui .
 74032 et il                          l' eau et il se
 74033 pas être                      ça peut pas être moi
-74034 pas aussi                      j(e) suis pas aussi sale .
+74034 pas aussi                      j'suis pas aussi sale .
 74045 coup i(l)                      itgre du coup i(l) va
 74048 jouer avec                     tu veux jouer avec moi
 74049 dit ah                         il lui dit ah sur(e)ment pas
@@ -12251,6 +12365,7 @@
 74879 attention à                   la la attention à l'
 74891 et hop                         et hop .
 74899 vais aller                     moi j(e) vais aller éteind(re)
+74899 aller éteind(re)              j(e) vais aller éteind(re) la
 74900 lever aussi                    puisse me lever aussi .
 74901 pas à                         touche pas à ça !
 74917 as envie                       que t(u) as envie d(e)
@@ -12516,6 +12631,7 @@
 76321 et on                          et on fait un rond noir
 76321 fait un                        et on fait un rond noir
 76323 fais un                        là j(e) fais un .
+76331 peut êt(r)e                   peut êt(r)e un futur betoven toi
 76332 mais arrête                   , non mais arrête de
 76333 continues à                   si tu continues à cracher on
 76333 cracher on                     continues à cracher on s'
@@ -12657,7 +12773,7 @@
 77285 fait un                        qui en fait un .
 77286 yeux en                        colorier ses yeux en vert
 77309 fais un                        j(e) fais un gros * un
-77315 suis en                        j(e) suis en train de .
+77315 j'suis en                      j'suis en train de .
 77317 allez on                       allez on va en mett(re) .
 77331 et hop                         et hop .
 77341 allez on                       allez on va manger les enfants
@@ -12714,7 +12830,7 @@
 77603 bon allez                      bon allez .
 77604 préparer à                   va aller préparer à manger
 77610 attends une                    attends une seconde .
-77612 suis en                        j(e) suis en face de vous
+77612 j'suis en                      j'suis en face de vous deux
 77625 maint(e)nant i(l)              écoute maint(e)nant i(l) faut qu(e) tu
 77631 veux un                        tu veux un peu de j(e)
 77631 mets un                        de j(e) mets un peu
@@ -13027,6 +13143,7 @@
 79264 point alors                    juste un point alors ?
 79268 et on                          hop et on relève .
 79272 pâtes et                      faire les pâtes et p(u)is
+79272 p(u)is après                  pâtes et p(u)is après on
 79272 après on                      et p(u)is après on va
 79279 vas apprendre                  sais tu vas apprendre petit
 79279 petit à                       vas apprendre petit à petit
@@ -13142,7 +13259,7 @@
 79974 mais on                        * mais on a pas .
 79995 expliques un                   tu m' expliques un peu
 79999 vert oui                       est encore vert oui .
-80004 suis en                        ben j(e) suis en train de
+80004 j'suis en                      ben j'suis en train de dessiner
 80007 avez une                       ça vous avez une chance
 80020 tiens hop                      tiens hop !
 80024 non on                         non , non on a
@@ -13439,15 +13556,18 @@
 81407 sinon on                       ça bien sinon on va
 81420 veux une                       bon qui veux une tartine ?
 81423 dessin animé                  mett(re) un dessin animé ?
+81425 p(u)is après                  p(u)is après on mettait un dessin
 81425 après on                      p(u)is après on mettait un dessin
 81425 mettait un                     après on mettait un dessin
 81425 dessin animé                  mettait un dessin animé .
 81431 chantes avec                   tu chantes avec moi nanou .
 81441 et il                          comme ça et il est
 81446 mais et                        oui mais et p(u)is , et
+81446 p(u)is il                      , et p(u)is il s'
 81446 gnous aussi                    par les gnous aussi .
 81448 ouais encore                   ouais encore un comme ça .
 81449 mais oui                       mais oui attends nanou j(e) vais
+81453 p(u)is après                  et p(u)is après .
 81454 attention avec                 attention avec tes pieds nat !
 81457 enfants après                 bon les enfants après moi j(e)
 81458 ben oui                        ben oui hein vous vous avez
@@ -13458,12 +13578,14 @@
 81491 non ah                         non ah la la si j'
 81507 vois y                         tu vois y a un côté
 81507 et un                          s' attire et un côté
+81509 pas êt(re)                    ça va pas êt(re) facile
 81514 viens ici                      là nan(ou) viens ici ,
 81514 viens ici                      ici , viens ici nanou
 81519 attention une                  ah attention une catastrophe ambulante !
 81525 pas un                         t(u) es pas un peu toc
 81529 bon écoute                    bon écoute oui on joue un
 81529 train et                       peu au train et p(u)is
+81529 p(u)is après                  train et p(u)is après on
 81529 après on                      et p(u)is après on va
 81531 sort et                        rentre ça sort et là
 81536 viens avec                     ben viens avec moi on va
@@ -13479,12 +13601,14 @@
 81558 regarder à                    va l(e) regarder à la
 81570 mais en                        mais en france tu trouves pas
 81572 mustangs oui                   est des mustangs oui .
+81574 p(u)is y                       p(u)is y a des chev(aux) chevaux
 81574 chevaux arabes                 des chev(aux) chevaux arabes .
 81575 comment on                     euh comment on les appelle ceux
 81576 non on                         non on les appelle pas mustangs
 81577 chevaux américains            est les chevaux américains .
 81581 arcs ouais                     avaient des arcs ouais .
 81588 as encore                      t(u) as encore perdu ton chausson
+81606 p(u)is alors                   oh p(u)is alors j(e) peux plus
 81614 attention où                  attention où sont les mains de
 81621 voulez aller                   allez vous voulez aller r(e)garder spirit
 81639 vient après                   quelle lettre vient après ka
@@ -13672,7 +13796,7 @@
 82391 et après                      une seconde et après on
 82391 après on                      seconde et après on finit
 82393 attends i(l)                   attends i(l) parle .
-82395 pas où                        j(e) sais pas où il est
+82395 pas où                        j'sais pas où il est .
 82402 prêter une                    * t(e) prêter une épée .
 82403 veux une                       tu veux une épée ?
 82404 veux une                       tu veux une épée ?
@@ -13829,7 +13953,7 @@
 83118 fait un                        qui a fait un bon
 83123 et après                      juste aujourd'hui et après c' est
 83138 ben écoute                    ben écoute j(e) fais c(e) que
-83139 suis obligée                  j(e) suis obligée d(e) te mettre
+83139 j'suis obligée                j'suis obligée d(e) te mettre des
 83139 gouttes encore                 mettre des gouttes encore aujourd'hui
 83141 ben oui                        ben oui mais , quand même
 83142 ben écoute                    ben écoute .
@@ -13911,7 +14035,7 @@
 83660 cochonnet et                   le cochonnet et j(e) vais prendre
 83678 viens ici                      viens ici nanou .
 83680 viens ici                      viens ici nat !
-83699 suis en                        que j(e) suis en train
+83699 j'suis en                      ce que j'suis en train
 83702 puis y                         et puis y en a même
 83708 veut un                        qui veut un vous un ,
 83715 mets avec                      et j(e) mets avec le beurre
@@ -14065,7 +14189,7 @@
 84480 mais i(l)                      mais i(l) (ne) faut pas tou(cher)
 84492 abord hein                     débarbouiller d' abord hein .
 84493 attends une                    attends une seconde .
-84505 suis en                        j(e) suis en train d(e) te
+84505 j'suis en                      j'suis en train d(e) te parler
 84514 mais oh                        non mais oh !
 84516 mais il                        non mais il a fait semblant
 84539 deux hein                      en manque deux hein c'
@@ -14587,7 +14711,7 @@
 87518 toboggan à                    a un toboggan à l'
 87522 laissant ouvert                partie en laissant ouvert tiens
 87523 coup aussi                     boire un coup aussi .
-87529 accord avec                    suis d' accord avec toi
+87529 accord avec                    j'suis d' accord avec toi .
 87537 mieux être                    (il) vaut mieux être prudent .
 87548 temps ou                       le temps ou tu manges tes
 87549 bon on                         bon on en a pour une
@@ -14673,7 +14797,7 @@
 87947 trucs hein                     enl(e)ver ces trucs hein !
 87948 faciles à                     i(ls) sont faciles à enl(e)ver
 87960 as entendu                     où tu as entendu ça ?
-87961 suis au                        moi j(e) suis au mi(li)eu
+87961 j'suis au                      douc(e)ment moi j'suis au mi(li)eu
 87964 vais aller                     non j(e) vais aller t(e) mettre
 87970 es un                          t(u) es un peu p(e)tit quand
 87975 aller aux                      besoin d' aller aux toilettes
@@ -14725,6 +14849,7 @@
 88273 chanteras après               m(e) la chanteras après .
 88274 chanterez ensemble             m(e) la chanterez ensemble .
 88282 cerf ouvre                     cerf , cerf ouvre moi .
+88290 peut êt(r)e                   peut êt(r)e oui .
 88294 écrit un                      y a écrit un grand
 88299 peux ou                        tu peux ou pas i(l) peut
 88299 pas i(l)                       peux ou pas i(l) peut
@@ -15037,7 +15162,7 @@
 90270 attends i(l)                   attends i(l) faut finir .
 90276 maman elle                     * bein maman elle , a
 90286 non il                         ah non il faut que tu
-90288 suis obligé                   mais j(e) suis obligé d(e)
+90288 j'suis obligé                 ah mais j'suis obligé d(e) faire
 90289 pis hein                       bein tant pis hein !
 90290 fait un                        j(e) fait un hui(t) vert un
 90290 vert un                        un hui(t) vert un huit
@@ -15079,7 +15204,7 @@
 90515 voitures est                   pourquoi ma voitures est toute mouillée
 90517 était à                      quand on était à la
 90518 vois i(l)                      là tu vois i(l) commence
-90521 demain il                      être que demain il va
+90521 demain il                      peut-être que demain il va faire
 90525 p(e)tits oiseaux               tous les p(e)tits oiseaux qui
 90533 (en)fin on                     (en)fin on verra si (i)l (n'
 90535 p(e)tit oiseau                 encore un p(e)tit oiseau qui
@@ -15166,6 +15291,7 @@
 90916 aller où                      tu veux aller où ?
 90918 touches hein                   qu(e) tu touches hein .
 90946 nez oui                        sur son nez oui aussi
+90961 p(u)is un                      ouh p(u)is un petit lapin !
 90964 hein y                         hein y a des lapins comme
 90973 fait une                       on fait une tour ?
 90977 pas assez                      en a pas assez .
@@ -15238,6 +15364,7 @@
 91468 tiens y                        tiens y a des petit suisses
 91470 vas en                         tu vas en avoir .
 91484 hein on                        hein on enlève le couvercle ?
+91499 p(u)is en                      et p(u)is en plus j(e) te
 91502 bon attends                    bon attends !
 91507 frais hein                     c' est frais hein ça fait
 91508 bon écoute                    bon écoute tim hein !
@@ -15289,7 +15416,7 @@
 91824 jouer avec                     tu veux jouer avec quoi ?
 91837 comment on                     comment on fait pour souffler ?
 91858 baguettes amé                 mis les baguettes amé ?
-91871 pas où                        j(e) sais pas où elles sont
+91871 pas où                        j'sais pas où elles sont .
 91873 et oui                         et oui .
 91874 et oui                         et oui .
 91889 comment on                     comment on fait ?
@@ -15307,6 +15434,7 @@
 92012 maman elle                     quand * maman elle amène
 92016 bruit encore                   fait d(e) bruit encore mais
 92020 manger aussi                   peux l(e) manger aussi .
+92021 peut êt(r)e                   d(e)dans , peut êt(r)e tu
 92031 veux aller                     où tu veux aller ?
 92033 rester un                      veux pas rester un p(e)tit
 92037 veux y                         si tu veux y aller
@@ -15316,7 +15444,7 @@
 92068 et on                          et on fait encore de la
 92068 fait encore                    et on fait encore de la
 92078 goûter alors                  on allait goûter alors ?
-92079 après avoir                   être qu' après avoir mangé
+92079 après avoir                   peut-être qu' après avoir mangé ,
 92101 as envie                       que t(u) as envie d(e)
 92103 as envie                       c(e) t(u) as envie d(e)
 92117 choisit encore                 maman qui choisit encore hein
@@ -15352,6 +15480,7 @@
 92252 fait une                       t' as fait une coupe
 92268 pas à                         commence pas à en mettre de
 92279 machines hein                  pas des machines hein .
+92290 p(u)is hier                    p(u)is hier t(u) étais à la
 92290 étais à                      hier t(u) étais à la
 92329 tiroirs à                     ces tiroirs à proximité là .
 92333 pas immense                    elle est pas immense .
@@ -15379,6 +15508,7 @@
 92412 dynamiser un                   allait te dynamiser un peu
 92415 pourtant on                    pourtant on est pas trop sorti
 92422 mettais à                     tu t(e) mettais à hurler
+92430 p(u)is elle                    p(u)is elle va eː tu vas
 92430 vas attendre                   eː tu vas attendre qu'
 92430 et et                          soit partie et et p(u)is
 92434 dis au                         tu me dis au r(e)voir
@@ -15390,6 +15520,7 @@
 92458 dit ils                        m' ont dit ils vont
 92462 bon un                         bon un p(e)tit coup , un
 92462 coup on                        un p(e)tit coup on s(e)
+92463 p(u)is après                  mhm et p(u)is après on va
 92463 après on                      et p(u)is après on va
 92465 jouer aujourd'hui              on va jouer aujourd'hui ?
 92466 jouer avec                     temps d(e) jouer avec toi
@@ -15426,7 +15557,7 @@
 92741 comment on                     comment on va faire pour parler
 92744 discutes un                    tu discutes un peu avec moi
 92745 racontes un                    tu m(e) racontes un peu c(e)
-92747 suis à                        que j(e) suis à côté
+92747 j'suis à                      pa(r)ce que j'suis à côté
 92747 besoin en                      as pas besoin en fait
 92747 fait euh                       besoin en fait euh .
 92749 et hop                         et hop , elle est pour
@@ -15721,6 +15852,7 @@
 94881 pain hein                      aime le pain hein !
 94886 et oui                         et oui on te suit .
 94887 mais on                        tu dis mais on peut pas
+94887 pas êt(re)                    on peut pas êt(re) tranquille
 94890 maman elle                     ouh maman elle tremble .
 94895 viens à                       hein je viens à côté hein
 94897 as un                          oui t(u) as un morceau
@@ -15765,7 +15897,7 @@
 95069 pleines alors                  deux mains pleines alors ,
 95070 vois un                        tu te vois un peu
 95078 es allé                       t(u) es allé voir les petits
-95096 suis épatée                  j(e) suis épatée .
+95096 j'suis épatée                j'suis épatée .
 95101 attends essaye                 attends essaye de la ranger là
 95106 plus hein                      déchires pas plus hein ?
 95108 était à                      c' était à ãtɔni ça .
@@ -15917,8 +16049,10 @@
 96101 ouais ouais                    ouais ouais c' est encore un
 96105 fais admirer                   tu t(e) fais admirer ?
 96109 alors on                       ou alors on descend .
+96116 vas êt(re)                    tu vas êt(re) crevé hein .
 96124 alors on                       alors on va en prendre un
 96131 pas hein                       tu sais pas hein .
+96158 peut êt(re)                   on va peut êt(re) le
 96164 pas aller                      ça va pas aller .
 96168 attend on                      (a)ttend , attend on va
 96182 pas habituée                  j' étais pas habituée hein
@@ -15933,7 +16067,7 @@
 96250 pas hein                       je sais pas hein ,
 96258 soit une                       qu(e) ce soit une bonne
 96265 foncer avec                    à foncer avec .
-96291 comment elle                   comment elle a fait atʃum ?
+96291 comment elle                   comment elle a fait at*um ?
 96297 pas hein                       je sais pas hein .
 96302 est où                        il est où ?
 96305 sais où                       tu sais où il est ?
@@ -16279,7 +16413,7 @@
 98839 amener a                       pour amener a .
 98843 attends on                     attends on va te mett(r)e le
 98866 toujours un                    oh toujours un rhume , qui
-98877 non oh                         oh non oh moi j(e) suis
+98877 non oh                         oh non oh moi j'suis maman
 98885 est euh                        non c' est euh c'
 98896 comment elle                   bas , comment elle s'
 98901 penser à                      t(e) fait penser à papy
@@ -16533,6 +16667,7 @@
 100497 souffler un                    tu pouvais souffler un peu
 100500 pas à                         t(u) arrives pas à l(e)
 100501 fermer et                      faut fermer et puis quand tu
+100546 p(u)is on                      (v)oilà et p(u)is on ferme la
 100547 foin aussi                     mets du foin aussi .
 100566 chevaux i(ls)                  mhm les chevaux i(ls) adorent les
 100567 pommes hein                    ça les pommes hein ?
@@ -16569,7 +16704,7 @@
 100838 bon allez                      bon allez i(l) va faire dodo
 100838 allez i(l)                     bon allez i(l) va faire dodo
 100840 suis une                       bzzz je suis une petite bête
-100842 suis une                       cʁcʁcʁcʁcʁ je suis une petite bête
+100842 suis une                       c*c*c*c*c* je suis une petite bête
 100843 suis une                       moi je suis une toute
 100845 suis une                       attention je suis une grosse araignée
 100849 suis une                       moi je suis une petite bête
@@ -16643,6 +16778,8 @@
 101297 retrouves hein                 tu les retrouves hein .
 101298 bien hein                      * bien hein * .
 101315 fais un                        tu lui fais un bisou *
+101321 p(u)is oh                      r(e)gardes et p(u)is oh ,
+101321 p(u)is allez                   oh , p(u)is allez hɔp
 101327 et ouais                       et ouais hein .
 101327 ouais hein                     et ouais hein .
 101331 vois et                        micro tu vois et on
@@ -16718,9 +16855,11 @@
 101896 mais alors                     oh oui mais alors là i(l)
 101896 bricoler et                    tablier pour bricoler et pour
 101900 fais un                        je fais un gâteau avec des
+101903 p(u)is i(l)                    p(u)is i(l) met du lait .
 101926 et il                          et il a fait pousser une
 101926 pousser une                    a fait pousser une belle
 101927 ouais il                       ouais il a arrosé hein .
+101933 p(u)is avec                    p(u)is avec les pinces à linge
 101939 pas un                         c' est pas un bâteau
 101945 bon allez                      bon allez hein .
 101945 allez hein                     bon allez hein .
@@ -16769,9 +16908,9 @@
 102196 pas eu                         on a pas eu l(e)
 102196 autocollants en                mettre les autocollants en fait
 102198 ouais on                       ouais on a pas gardé la
-102199 plus où                       j(e) sais plus où c' était
+102199 plus où                       j'sais plus où c' était .
 102214 faut en                        qu' i(l) faut en mettre
-102215 doit être                     regulaʁ ça doit être sur les
+102215 doit être                     regula* ça doit être sur les
 102216 pompes à                      pompes à essence regular .
 102223 arrêtes avec                  oh t(u) arrêtes avec ces p(e)tites
 102228 non y                          mais non y a du super
@@ -16846,7 +16985,7 @@
 102645 est où                        il est où ?
 102646 mais il                        est là mais il est
 102646 est où                        mais il est où encore
-102653 et euh                         et euh pɔʁsinɛ .
+102653 et euh                         et euh pɔ*sinɛ .
 102704 avais appuyé                  bravo t(u) avais appuyé .
 102706 avais appuyé                  bien t(u) avais appuyé .
 102707 as arrêté                    t(u) as arrêté .
@@ -16905,6 +17044,7 @@
 103017 fait un                        t(u) as fait un trou
 103019 fais un                        allez , fais un trou !
 103034 as essayé                     t(u) as essayé .
+103038 faut êt(re)                   hein faut êt(re) bien installé pour
 103049 aider à                       veux m' aider à ranger
 103062 dessiner oui                   on peut dessiner oui .
 103069 et oui                         et oui !
@@ -16916,7 +17056,7 @@
 103106 peux entrer                    tu peux entrer au cp là
 103106 entrer au                      tu peux entrer au cp là
 103129 p(e)tits oiseaux               est des p(e)tits oiseaux .
-103138 pas où                        j(e) sais pas où i(ls)
+103138 pas où                        oui j'sais pas où i(ls)
 103139 est où                        mécanique elle est où ?
 103142 pas avec                       non , pas avec le
 103149 sert à                        ça sert à quoi celui là
@@ -16925,6 +17065,8 @@
 103205 aides à                       tu m' aides à construire
 103207 met en                         on met en face .
 103211 (a)ttention à                 (a)ttention à mes doigts .
+103215 vont êt(re)                   i(l) s vont êt(re) contents les
+103228 doit êt(re)                   là doit êt(re) au bout là
 103230 clous hein                     bouts des clous hein .
 103232 mais y                         ah mais y en a un
 103245 bon on                         bon on peut pas faire celui
@@ -16951,6 +17093,7 @@
 103378 comment i(l)                   comment i(l) fait le coq ?
 103382 ouvert un                      qui a ouvert un oeil
 103385 mais y                         ouh mais y en a là
+103397 peut êt(re)                   peut êt(re) .
 103411 comment i(l)                   comment i(l) s' appelle euh ?
 103437 p(e)tites euh                  attrape des p(e)tites euh des
 103456 non elle                       oh mais non elle pleure pas
@@ -16967,6 +17110,7 @@
 103585 mis au                         est bien mis au milieu
 103587 fait une                       t(u) as fait une autre
 103590 fais un                        tu nous fais un beau château
+103608 p(u)is y                       p(u)is y en a un là
 103608 camion aussi                   derrière l(e) camion aussi .
 103614 vert oui                       vert oui il est vert .
 103646 train oui                      est un train oui .
@@ -17033,6 +17177,7 @@
 104176 et il                          et il a les oreilles poilues
 104203 doigts hein                    (a)ttention tes doigts hein .
 104205 met où                        on l(e) met où ?
+104214 p(u)is après                  , (et) p(u)is après ?
 104224 replanter hein                 , faut replanter hein .
 104239 alors attend                   alors attend , regarde , t(u)
 104241 jouer à                       veux plus jouer à ça
@@ -17149,6 +17294,7 @@
 105007 alors hein                     me servir alors hein .
 105011 ben oui                        oh oui ben oui .
 105015 plus hein                      fraîche en plus hein .
+105018 p(u)is après                  verre et p(u)is après hein
 105018 après hein                    et p(u)is après hein .
 105021 maman elle                     maman elle a plus soif .
 105031 veux une                       t(u) veux une cuisse ?
@@ -17246,6 +17392,7 @@
 105511 dos oui                        dans l(e) dos oui .
 105512 mais en                        oui mais en afrique i(l) s
 105515 doit être                     ça doit être lourd .
+105516 p(u)is i(l)                    et p(u)is i(l) fait chaud .
 105519 et ils                         et ils marchent , ils marchent
 105521 vont au                        ils vont au marché ?
 105530 cornes en                      sont des cornes en or
@@ -17261,6 +17408,7 @@
 105557 arrivent au                    ils arrivent au village .
 105571 et heureusement                et heureusement que kirikou il a
 105589 maint(e)nant ils               et maint(e)nant ils ont pu s'
+105597 doit êt(r)e                   , ça doit êt(r)e des
 105606 alors attends                  alors attends .
 105608 (at)tends on                   attends , (at)tends on va voir
 105618 contents hein                  ils sont contents hein ?
@@ -17359,6 +17507,7 @@
 106057 faut attendre                  bah faut attendre un p(e)tit peu
 106064 couverts oui                   merci les couverts oui .
 106072 pas un                         tu as pas un peu d(e)
+106082 peut êt(r)e                   oui ça peut êt(r)e la lune
 106085 mais y                         mais y a bien beaucoup de
 106104 renverser hein                 pas le renverser hein .
 106112 et oui                         et oui .
@@ -17484,7 +17633,7 @@
 107036 copines à                     tes copines à la crèche ,
 107039 comment elles                  comment elles s' appellent tes copines
 107039 copines à                     appellent tes copines à la
-107047 copain aussi                   est ton copain aussi peut
+107047 copain aussi                   est ton copain aussi peut-être
 107059 comment elle                   comment elle s' appelle ?
 107062 comment elle                   * comment elle s' appelle .
 107065 fais une                       tu fais une pile ?
@@ -17505,6 +17654,7 @@
 107195 (a)ttention on                 (a)ttention on va avoir des preuves
 107195 es une                         que t(u) es une brute
 107199 malin hein                     fais ton malin hein ?
+107214 p(u)is i(l)                    , et p(u)is i(l) manque
 107218 es un                          qu(e) t(u) es un grand
 107228 doit être                     qu ça doit être en
 107230 peux y                         tu peux y aller là comme
@@ -17520,6 +17670,7 @@
 107278 avait encore                   (il) y avait encore ?
 107282 comment i(l)                   comment i(l) s' app(e)lait , le
 107298 descends et                    , tu descends et p(u)is
+107298 p(u)is on                      descends et p(u)is on met
 107303 allez attend                   allez attend , descend !
 107326 pas aller                      tu veux pas aller jouer avec
 107326 jouer avec                     pas aller jouer avec moi
@@ -17557,6 +17708,7 @@
 107546 reviens hein                   tu reviens hein ?
 107557 panier oui                     un panier oui !
 107567 vais avoir                     j(e) vais avoir un couteau mais
+107571 doit êt(re)                   ça doit êt(re) que(l)qu(e) part .
 107572 ranger hein                    ira la ranger hein après
 107572 hein après                    la ranger hein après hein
 107572 après hein                    ranger hein après hein .
@@ -17659,6 +17811,7 @@
 108053 chaud et                       un chocolat chaud et des
 108054 fait à                        quand il fait à nouveau
 108057 vois un                        t(u) en vois un autre
+108060 peut êt(re)                   se promène peut êt(re) carrrément
 108068 jouer à                       pour aller jouer à la
 108071 aimerais avoir                 alors j' aimerais avoir un verre
 108110 mais il                        ah mais il est , il
@@ -17690,6 +17843,7 @@
 108244 pot à                         est le pot à eau
 108246 pas un                         tu cherchais pas un verre ?
 108249 maman elle                     si maman elle fait la vaisselle
+108257 peut êt(re)                   c' est peut êt(re) ceux d'
 108277 mais avec                      ah mais avec les gants c'
 108294 attention au                   attention au fil hein .
 108299 pot oh                         pas le pot oh ,
@@ -17784,6 +17938,7 @@
 108669 livres hein                    pas les livres hein ?
 108674 mets où                       tu t(e) mets où ?
 108684 veut un                        tchoupi veut un chaton .
+108688 p(u)is i(l)                    et p(u)is i(l) rent(r)e dans l(e)
 108696 mis à                         il a mis à ses
 108697 gants oui                      des gants oui pour pas avoir
 108697 pas avoir                      oui pour pas avoir froid
@@ -17805,6 +17960,7 @@
 108793 et à                          et à côté , y a
 108797 coussin oui                    couverture un coussin oui .
 108807 et oui                         et oui c' est pour aller
+108809 p(u)is alors                   et p(u)is alors tu vois on
 108809 vois on                        alors tu vois on appelle
 108810 dedans on                      et dedans on met de la
 108816 et oui                         et oui .
@@ -17879,10 +18035,11 @@
 109069 rideaux aussi                  accrocher les rideaux aussi .
 109073 intéressant hein              c' est intéressant hein ?
 109078 pourrait en                    on pourrait en faire des papillotes
-109084 pas où                        j(e) sais pas où j'
+109084 pas où                        bah j'sais pas où j'
 109085 es un                          hein t(u) es un peu
 109089 plus et                        un peu plus et l(e) tam
 109094 mieux hein                     bah tant mieux hein .
+109107 p(u)is alors                   et p(u)is alors dès qu' y
 109109 aller accompagner              pour aller accompagner ame .
 109119 vois attablé                  j(e) te vois attablé là
 109123 pas à                         te donne pas à manger
@@ -17920,10 +18077,11 @@
 109252 pas exprès                    tu fais pas exprès d(e) le
 109258 prends avec                    vois tu prends avec une
 109258 main et                        avec une main et p(u)is
+109258 p(u)is avec                    main et p(u)is avec l'
 109272 pas avec                       ça va pas avec les .
 109274 et oui                         et oui .
 109284 doit y                         i(l) doit y avoir le bébé
-109285 pas où                        j(e) sais pas où il est
+109285 pas où                        j'sais pas où il est l'
 109290 veux hein                      que tu veux hein mais
 109291 tout hein                      après tout hein .
 109300 et un                          et un petit canoë un bateau
@@ -17982,7 +18140,7 @@
 109638 alors on                       alors on voit qui ?
 109639 mêmes hein                    toujours les mêmes hein .
 109642 manquer un                     i(l) doit manquer un oeuf
-109643 pas où                        j(e) sais pas où il est
+109643 pas où                        j'sais pas où il est .
 109644 alors il                       alors il a toujours pas trouvé
 109648 oeufs avec                     regarde des oeufs avec des poussins
 109649 oeufs avec                     des oeufs avec des pu ,
@@ -18009,7 +18167,7 @@
 109806 et elle                        alors , et elle habite où
 109830 fais attention                 fais attention , avec les livres
 109831 était à                      , c' était à ɑm
-109846 pas où                        j(e) sais pas où il
+109846 pas où                        , j'sais pas où il
 109856 bisous au                      gros bisous au titou .
 109862 comment il                     tu sais comment il s' appelle
 109864 comment il                     tu sais comment il s' appelle
@@ -18087,6 +18245,7 @@
 110288 vas aller                      tu vas aller où , à
 110288 aller où                      tu vas aller où , à
 110293 attends on                     attends on va l(e) mett(re) là
+110295 pas êt(re)                    i(l) va pas êt(re) content
 110295 content hein                   pas êt(re) content hein !
 110298 vais attraper                  attention j(e) vais attraper ton
 110299 vais attraper                  j(e) vais attraper l' étiquette hop
@@ -18122,6 +18281,7 @@
 110419 réveillées alors             étaient déjà réveillées alors bon
 110420 pas elles                      e(lles) dormaient pas elles .
 110424 as apprise                     qu(e) t(u) as apprise à
+110431 p(u)is on                      l' araignée p(u)is on fait dans
 110434 fait un                        alors hector fait un effort ,
 110438 poussins ont                   mes poussins ont école demain !
 110446 et euh                         et euh .
@@ -18206,7 +18366,7 @@
 110864 en haut                        un poisson en haut des montagnes
 110875 ailleurs hein                  les mettra ailleurs hein si
 110877 non on                         oh non on renverse pas tout
-110890 pas à                         j(e) sais pas à quoi ça
+110890 pas à                         j'sais pas à quoi ça sert
 110913 met un                         on met un régime de bananes
 110921 vois attends                   tu vois attends .
 110960 veux on                        si t(u) veux on amène
@@ -18312,10 +18472,12 @@
 111726 bon on                         bon on va aller dans la
 111726 pas y                          elle va pas y arriver
 111732 visiter hein                   faire euh visiter hein .
+111737 p(u)is alors                   et p(u)is alors (il) y a
 111738 pas arriver                    e(lle) va pas arriver à marcher
 111738 arriver à                     va pas arriver à marcher
 111743 mais un                        mais un , un petit peu
 111748 ben oui                        ah ben oui mais moi ça
+111748 peut êt(re)                   m' interesser peut êt(re) .
 111752 mais hein                      mais hein , (il) y a
 111753 plus hein                      quoi non plus hein .
 111768 non on                         oh non on le range hein
@@ -18327,7 +18489,7 @@
 111800 pas où                        tu sais pas où elle
 111802 mais on                        non mais on la * .
 111822 pas à                         t(u) arrives pas à faire l(e)
-111826 faut essayer                   sais pas faut essayer d(e)
+111826 faut essayer                   j'sais pas faut essayer d(e) mett(r)e
 111829 pas évident                   c' est pas évident .
 111830 pas évident                   c' est pas évident .
 111837 ouais on                       ouais on peut faire un peu
@@ -18336,8 +18498,10 @@
 111852 gardes ou                      les gardes ou les chevaliers .
 111854 non un                         non un cheva(lier) .
 111865 chevalier il                   chevalier il est sur son cheval
+111881 p(u)is ici                     p(u)is ici on peut faire *
 111889 nous on                        nous on à fait ça .
 111890 peut en                        oui on peut en mett(r)e
+111900 p(u)is après                  et p(u)is après .
 111930 dit amé                       qu' elle dit amé .
 111933 pas obligatoire                c' est pas obligatoire hein dans
 111940 et oui                         et oui .
@@ -18345,6 +18509,7 @@
 111968 pas hein                       ça va pas hein .
 111971 amusez à                      vous vous amusez à ça mais
 111978 pas au                         pas au bout du .
+111987 p(u)is essaye                  ton chausson p(u)is essaye de
 111990 jouer encore                   tu veux jouer encore au château
 111993 fais un                        bah fais un canapé !
 111999 comment un                     est quoi comment un fauteuil
@@ -18399,13 +18564,13 @@
 112295 et oui                         et oui .
 112315 bruit hein                     entend(r)e le bruit hein .
 112325 doit y                         doit y en avoir dans la
-112333 pas euh                        j(e) sais pas euh .
+112333 pas euh                        j'sais pas euh .
 112349 alors après                   alors après comment ?
-112352 suis en                        non j(e) suis en train d'
+112352 j'suis en                      non j'suis en train d' essayer
 112354 comment i(l)                   d' ailleurs comment i(l) faut
 112358 faut un                        il en faut un , un
 112363 pas y                          tu vas pas y arriver
-112379 suis allée                    j(e) suis allée les chercher déjà
+112379 j'suis allée                  j'suis allée les chercher déjà .
 112387 maman elle                     y est maman elle a
 112390 dessins animés                regarder les dessins animés .
 112392 aider à                       pour m' aider à finir
@@ -18441,6 +18606,7 @@
 112554 viens on                       tu viens on va lire un
 112564 dessins animés                r(e)garder les dessins animés et
 112564 animés et                     les dessins animés et p(u)is
+112565 p(u)is après                  et p(u)is après j(e) te lir(ai)
 112568 pas hein                       , pourquoi pas hein .
 112571 tapis hein                     un p(e)tit tapis hein .
 112575 plus hein                      sort pas plus hein .
@@ -18590,6 +18756,7 @@
 113153 mais i(l)                      des morceaux mais i(l) manque
 113158 mais oui                       mais oui mais on l' a
 113158 mais on                        mais oui mais on l' a
+113161 doit êt(re)                   i(l) doit êt(re) dans la maison
 113161 maison hein                    dans la maison hein mais
 113176 fait un                        il te fait un bisou
 113179 fais un                        tu fais un , un ,
@@ -18606,7 +18773,7 @@
 113218 était encore                  c' était encore à l' autre
 113233 viens on                       viens on va mett(re) dedans !
 113271 loin avec                      pouvoir aller loin avec .
-113279 pas appuie                     j(e) sais pas appuie .
+113279 pas appuie                     j'sais pas appuie .
 113285 dis essaye                     bah euh dis essaye !
 113286 alors appuie                   alors appuie !
 113290 disent un                      bah i(ls) disent un pingouin
@@ -18695,6 +18862,7 @@
 113876 mais on                        la la mais on a
 113884 alors et                       alors et ça .
 113895 bas en                         * bas en bas .
+113903 p(u)is i(l)                    et p(u)is i(l) reste c(e)lui là
 113915 faut appuyer                   faut appuyer .
 113916 met où                        elle se met où ?
 113919 met à                         s' y met à deux
@@ -18721,6 +18889,7 @@
 114056 ouais ouais                    ouais ouais .
 114059 soit une                       qu(e) ce soit une bonne
 114060 dehors et                      , entre dehors et ,
+114063 pas êt(re)                    e(lle) va pas êt(re) bien
 114064 nuit alors                     travaille la nuit alors si
 114075 bon allez                      bon allez maint(e)nant arrête pa(r)c(e) que
 114075 maint(e)nant arrête           bon allez maint(e)nant arrête pa(r)c(e) que
@@ -18746,6 +18915,7 @@
 114183 ben i(ls)                      ben i(ls) disent un fanfaron .
 114183 disent un                      ben i(ls) disent un fanfaron .
 114198 en haut                        comme par en haut .
+114220 doit êt(re)                   ça doit êt(re) la même chose
 114220 mais avec                      même chose mais avec des
 114222 faut hein                      comme i(l) faut hein .
 114243 trucs au                       a des trucs au milieu
@@ -18762,6 +18932,8 @@
 114299 coquin hein                    est un coquin hein petit
 114299 brun hein                      petit ours brun hein .
 114303 tiens on                       tiens on l(e) connais pas c(el)ui
+114305 doit êt(re)                   ça ça doit êt(re) chr qui
+114308 doit êt(re)                   ça doit êt(re) tim ou cam
 114314 jouer à                       brun veut jouer à la
 114315 abord il                       dit d' abord il faut
 114320 non elle                       non elle a ça y est
@@ -18805,6 +18977,7 @@
 114469 en haut                        en haut aussi .
 114469 haut aussi                     en haut aussi .
 114474 était oui                     ah c' était oui c' était
+114481 peut êt(re)                   peut êt(re) par exemple là dans
 114496 pas y                          oh * pas y arriver là
 114503 saut et                        , trotte saut et queue
 114508 mûres au                      mangent des mûres au petit
@@ -18841,7 +19014,7 @@
 114686 pas aidé                      l' as pas aidé ?
 114693 petit hein                     il est petit hein .
 114699 butiner une                    elle vient butiner une jolie fleur
-114702 suis une                       moi j(e) suis une fleur hein
+114702 j'suis une                     moi j'suis une fleur hein .
 114704 (a)ttention au                 (a)ttention au micro hein .
 114705 pas ici                        i(l) va pas ici .
 114706 vont à                        voitures qui vont à chalet
@@ -18980,6 +19153,7 @@
 115653 doigt à                       avec le doigt à la
 115654 doigt à                       avec le doigt à la
 115667 fait un                        il a fait un trou
+115669 p(u)is i(l)                    p(u)is i(l) plante le chou .
 115676 taper avec                     i(l) va taper avec le .
 115684 étais en                      que j' étais en train
 115687 poisson au                     un poisson au fond d' un
@@ -19027,6 +19201,7 @@
 115950 disait à                      le canard disait à sa canne
 115982 vois elle                      tu vois elle a des aiguilles
 115985 et elle                        et elle tricote .
+115986 p(u)is il                      et p(u)is il est malade .
 115987 vois il                        tu vois il a le thermomètre
 115991 pas en                         en a pas en fait
 115993 bien alors                     pas bien bien alors tu
@@ -19064,6 +19239,7 @@
 116109 pas envie                      t(u) as pas envie d' aller
 116109 aller aux                      envie d' aller aux toilettes
 116133 ben ah                         ah ben ah !
+116136 vont êt(re)                   i(l) s vont êt(re) contents
 116137 vont aimer                     ça i(ls) vont aimer ça .
 116148 pas encore                     e(lle) fait pas encore noël hein
 116149 fois hein                      une dernière fois hein .
@@ -19088,8 +19264,10 @@
 116238 et oui                         et oui mais les élastiques i(ls)
 116238 élastiques i(ls)              mais les élastiques i(ls) sont
 116238 sont un                        élastiques i(ls) sont un peu
+116239 peut êt(re)                   peut êt(re) le jaune là ça
 116250 faut un                        il lui faut un .
 116266 vert avec                      ou du vert avec euh .
+116272 peut êt(re)                   essaye peut êt(re) tu vois si
 116275 pieds à                       a les pieds à l'
 116284 ranger alors                   tu vas ranger alors après ?
 116284 alors après                   vas ranger alors après ?
@@ -19115,6 +19293,7 @@
 116451 pas au                         on joue pas au ballon
 116456 remets en                      tu le remets en haut ?
 116456 en haut                        le remets en haut ?
+116460 p(u)is il                      et p(u)is il est tout vide
 116474 pas autorisé                  c' est pas autorisé le
 116482 pourtant il                    pourtant il est beau hein .
 116496 mis un                         lui avait mis un élastique
@@ -19167,7 +19346,9 @@
 116794 sanglier i(l)                  , le sanglier i(l) ,
 116798 glands et                      attrapé des glands et des
 116804 sanglier il                    le sanglier il est comme ça
+116804 p(u)is il                      ça et p(u)is il a
 116805 pas es                         il a pas es grosses
+116806 p(u)is il                      p(u)is il est noir et blanc
 116807 sanglier il                    le sanglier il est comme ça
 116812 mais après                    ses pattes mais après .
 116813 as un                          toi t(u) as un gros nez
@@ -19201,7 +19382,7 @@
 116930 crois as                       mimi tu crois as qu'
 116936 cochons à                     vont les cochons à votre
 116940 attention hein                 la la attention hein .
-116941 comment elle                   sais pas comment elle se
+116941 comment elle                   j'sais pas comment elle se .
 116956 trop et                        * pas trop et là
 116958 alors on                       alors on met le crocodile puisqu'
 116962 peut aller                     personne qui peut aller ?
@@ -19221,6 +19402,7 @@
 117045 fait une                       qu' on fait une fois
 117048 puis on                        et puis on se ?
 117060 non après                     non après tim faut qu(e) j(e)
+117070 peut êt(r)e                   ah oui peut êt(r)e .
 117071 mais on                        souviens plus mais on a
 117071 pâques oui                    oeufs de pâques oui ça
 117074 non elles                      non elles étaient plus bonnes le
@@ -19230,7 +19412,7 @@
 117102 non euh                        non , non euh .
 117118 met où                        on se met où tim ?
 117122 remet en                       ça se remet en route
-117130 plus où                       j(e) sais plus où j(e) l'
+117130 plus où                       j'sais plus où j(e) l' ai
 117131 sais y                         tu sais y avait un petit
 117131 avait un                       sais y avait un petit
 117132 balayer aussi                  tu pourrais balayer aussi .
@@ -19321,8 +19503,8 @@
 117517 après i(l)                    après i(l) faut attendre un an
 117517 faut attendre                  après i(l) faut attendre un an
 117519 fois en                        fait deux fois en plus
-117520 fait à                        on a fait à ʃale et
-117520 et aussi                       à ʃale et aussi ?
+117520 fait à                        on a fait à *ale et
+117520 et aussi                       à *ale et aussi ?
 117521 puis on                        et puis on a fait aussi
 117521 fait aussi                     on a fait aussi .
 117522 et à                          et à lyon .
@@ -19347,10 +19529,10 @@
 117602 jours hein                     deux trois jours hein .
 117604 et alors                       et alors !
 117606 vais aller                     j(e) vais aller l(e) changer .
-117610 franchement hein               franchement hein , j(e) suis pas
+117610 franchement hein               franchement hein , j'suis pas contente
 117614 mais écoute                   mais écoute , quand même hein
 117623 rien et                        on dit rien et puis
-117623 refais alors                   plus tu refais alors j(e)
+117623 refais alors                   plus tu refais alors j'suis
 117625 puis y                         oh , puis y en a
 117627 vraiment hein                  non là vraiment hein !
 117633 non hein                       non , non hein parce que
@@ -19381,6 +19563,7 @@
 117668 ben oui                        ben oui .
 117673 mais i(ls)                     non mais i(ls) sont trop grand
 117678 ben on                         ben on met d' abord les
+117680 p(u)is y                       oh p(u)is y avait , y
 117680 avait un                       , y avait un cd
 117689 doit être                     ça ça doit être là
 117691 as i(l)                        que tu as i(l) va
@@ -19420,6 +19603,7 @@
 117888 sert à                        c(e) qui sert à faire
 117891 monsieur i(l)                  , le monsieur i(l) grimpe
 117893 vois y                         tu vois y a un monsieur
+117895 p(u)is i(l)                    p(u)is i(l) va aller attacher .
 117895 aller attacher                 i(l) va aller attacher .
 117897 aller attacher                 i(l) va aller attacher quelque chose
 117903 ben oui                        eh oui ben oui d(e)puis l(e)
@@ -19429,6 +19613,7 @@
 117927 maison en                      une p(e)tite maison en bas ,
 117928 p(e)tit y                      a une p(e)tit y avait
 117928 avait une                      p(e)tit y avait une toute
+117931 peut êt(re)                   peut êt(re) d' une puce !
 117934 es au                          t(u) es au bord d(e) la
 117937 pourrais habiter               tu pourrais habiter dedans , toi
 117942 sont envolées                 elles se sont envolées !
@@ -19495,8 +19680,8 @@
 118240 ben y                          ben y a un livre i(l)
 118240 fait i(l)                      s ont fait i(l) s
 118254 livres hein                    pas les livres hein !
-118259 pas y                          j(e) sais pas y en
-118260 pas où                        j(e) sais pas où on a
+118259 pas y                          ciseaux j'sais pas y en
+118260 pas où                        j'sais pas où on a mis
 118269 pas envie                      t(u) as pas envie d' aller
 118269 coup au                        fais l(e) coup au milieu
 118270 pas y                          tu veux pas y aller
@@ -19536,7 +19721,7 @@
 118388 chaussons et                   et tes chaussons et après
 118388 et après                      tes chaussons et après on
 118388 après on                      chaussons et après on y
-118389 puis il                        et puis il faut peut être
+118389 puis il                        et puis il faut peut-être que
 118391 froid en                       es tout froid en tout
 118398 des héros                     plus grand des héros .
 118402 ben oui                        ben oui tchou tchou .
@@ -19691,7 +19876,7 @@
 119070 ben alors                      la la ben alors !
 119072 non elle                       non , non elle va
 119073 fait un                        * fait un tonneau .
-119078 suis allée                    j(e) suis allée fermer la porte
+119078 j'suis allée                  j'suis allée fermer la porte parce
 119079 fait avec                      qu' on fait avec ce
 119086 chaussons à                   mis tes chaussons à l'
 119088 étaient à                    i(l) s étaient à l'
@@ -19701,7 +19886,7 @@
 119098 heureusement il                la la heureusement il avait
 119098 avait un                       heureusement il avait un casque
 119105 vas aller                      tu vas aller le jeter plus
-119114 et i(l)                        ça pʃiː et i(l) ramasse
+119114 et i(l)                        ça p*iː et i(l) ramasse
 119116 puis après                    puis après hop ça prend ,
 119116 après hop                     puis après hop ça prend ,
 119118 fait un                        * ça fait un trou
@@ -19713,14 +19898,14 @@
 119126 godet alors                    est le godet alors ça
 119127 godet et                       dans le godet et après
 119127 et après                      le godet et après ça
-119130 suis une                       moi j(e) suis une miette
+119130 j'suis une                     et moi j'suis une miette
 119132 allez on                       allez on va ramasser aussi tim
 119132 ramasser aussi                 on va ramasser aussi tim
 119133 creuser un                     on va creuser un trou dans
 119143 têtes i(l)                    , quelles têtes i(l) s
 119146 mais i(l)                      ah mais i(l) bouge le pilote
 119152 quand i(l)                     i(l) bouge quand i(l) dit ça
-119154 pas un                         gros avion pas un gʁonavjõ
+119154 pas un                         gros avion pas un g*onavjõ
 119157 pompier un                     camion de pompier un avion
 119158 non il                         non il est rouge parce que
 119163 pompiers hein                  , les pompiers hein .
@@ -19846,7 +20031,7 @@
 119737 bien hein                      c' est bien hein .
 119741 puis on                        mange et puis on .
 119742 fait encore                    qu' on fait encore ,
-119743 boit aussi                     on boit aussi peut être non
+119743 boit aussi                     on boit aussi peut-être non ?
 119745 donnes à                      tu lui donnes à boire
 119746 doit avoir                     i(l) doit avoir soif .
 119747 robinet hein                   pratique ton robinet hein .
@@ -19890,11 +20075,13 @@
 119959 tellement énorme              il est tellement énorme papa que
 119962 et ouais                       et ouais .
 119963 et on                          et on s(e)ra bien tranquille .
+119973 p(u)is i(l)                    p(u)is i(l) tir(e)ra son p(e)tit materiel
 119976 aller à                       , pour aller à la
 119979 ans on                         d(e) trois ans on va
 119980 ans elle                       à deux ans elle ,
 119981 alors on                       ou alors on se servira de
 119983 vas aller                      tu vas aller voir la mer
+119985 p(u)is on                      p(u)is on ira à la montagne
 119990 avancer à                     vous f(e)sait avancer à coup
 119995 glaciers aussi                 vu les glaciers aussi .
 119998 maman elle                     maman elle est toute seule .
@@ -19968,8 +20155,8 @@
 120344 arrives à                     vu tu arrives à le
 120344 pousser ouais                  à le pousser ouais mais
 120346 fort hein                      c' est fort hein !
-120348 suis une                       j(e) suis une magicienne non ?
-120349 pas une                        j(e) suis pas une magicienne ?
+120348 j'suis une                     j'suis une magicienne non ?
+120349 pas une                        j'suis pas une magicienne ?
 120350 es un                          si t(u) es un magicien
 120353 es un                          si t(u) es un magicien
 120354 es un                          mais t(u) es un magicien
@@ -20014,7 +20201,7 @@
 120460 tiens alors                    vais regarder tiens alors .
 120465 pis alors                      ben tant pis alors j(e)
 120478 comptes avec                   tu comptes avec moi ?
-120481 bonbons en                     être des bonbons en chocolat
+120481 bonbons en                     peut-être des bonbons en chocolat
 120483 chocolat et                    ni le chocolat et encore
 120483 et encore                      le chocolat et encore moins
 120490 cochon a                       le cochon a peur et n'
@@ -20117,7 +20304,7 @@
 120751 rappelles on                   t(u) t(e) rappelles on en
 120751 fois à                        voit des fois à chalet
 120751 chalet heuh                    fois à chalet heuh .
-120758 pas enfin                      j(e) sais pas enfin bon
+120758 pas enfin                      ça j'sais pas enfin bon
 120771 faut un                        il lui faut un escabeau
 120773 trop haut                      qui sont trop haut sinon
 120774 et alors                       et alors après qui est-ce qui
@@ -20149,7 +20336,7 @@
 120843 alors i(l)                     alors i(l) s mettent la serviette
 120849 idiots et                      ah les idiots et puis les
 120849 puis i(l)                      vacances et puis i(l) s
-120858 attends on                     attends on va peut être l'
+120858 attends on                     attends on va peut-être l' accrocher
 120858 non on                         l' accrocher non on peut
 120858 accrocher ou                   plus l' accrocher ou c'
 120863 jamais eu                      j' ai jamais eu le temps
@@ -20179,6 +20366,7 @@
 120918 allez attends                  allez attends , on remet le
 120923 hein allez                     hà là hein allez viens
 120926 pas allumé                    qui était pas allumé .
+120928 doit êt(re)                   ça doit êt(re) bon .
 120959 pas entendu                    en as pas entendu deux
 120960 as entendu                     t(u) en as entendu deux .
 120969 fait un                        ça ça fait un bruit
@@ -20197,10 +20385,11 @@
 121027 comment i(l)                   alors comment i(l) faut qu' i(l)
 121062 aller écraser                 est d' aller écraser les
 121063 p(e)tit éléphanteau          a un p(e)tit éléphanteau qui
+121071 peut êt(re)                   oui ça peut êt(re) le papa
 121073 ben oui                        ben oui bien sûr .
 121074 gros oui                       est plus gros oui en
 121074 éléphants hein               général les éléphants hein .
-121078 fait un                        ça fait un grand spluʃ .
+121078 fait un                        ça fait un grand splu* .
 121082 ben alors                      oh ben alors .
 121084 hein il                        hein il s' approche aussi oui
 121087 et après                      et après avec son tuyau hop
@@ -20208,10 +20397,12 @@
 121087 peut aller                     hop i(l) peut aller euh
 121087 aller euh                      i(l) peut aller euh éteindre
 121088 peut imaginer                  euh on peut imaginer qu'
+121089 p(u)is i(l)                    p(u)is i(l) pompe .
 121098 ben oui                        ben oui hein .
 121099 sais en                        tu sais en afrique i(ls) boivent
 121103 p(e)tits enfants               a des p(e)tits enfants et
 121103 enfants et                     des p(e)tits enfants et des
+121104 p(u)is i(ls)                   et p(u)is i(ls) s' en servent
 121105 nous on                        nous on est pas trop habitué
 121111 comment il                     comment il y a pas d(e)
 121112 vont arriver                   voir i(ls) vont arriver .
@@ -20239,6 +20430,7 @@
 121269 et oui                         et oui ben on va la
 121269 ben on                         et oui ben on va la
 121275 hein hein                      malin lui hein hein .
+121277 p(u)is il                      p(u)is il a même mis sa
 121277 en haut                        sa chaise en haut .
 121280 griffes hein                   a des griffes hein .
 121282 panthères hein                comme les panthères hein .
@@ -20279,6 +20471,7 @@
 121438 et une                         hibous , et une maman
 121438 maman ou                       et une maman ou un
 121442 nuit alors                     chasse la nuit alors ça
+121443 peut êt(r)e                   , insectes peut êt(r)e aussi
 121463 mais on                        ah mais on les voit pas
 121463 mais on                        voit pas mais on les
 121468 et alors                       et alors mimi .
@@ -20326,6 +20519,7 @@
 121664 jouer avec                     veux venir jouer avec moi
 121671 aller en                       on va aller en trouver
 121672 jouer au                       allez viens jouer au ballon .
+121674 p(u)is y                       la oui p(u)is y en
 121677 puis y                         et puis y en a encore
 121682 faut aider                     il faut aider la maman poule
 121691 non on                         non on dirait , on dirait
@@ -20536,7 +20730,7 @@
 122549 donner hop                     veut lui donner hop i(l)
 122551 ailleurs aussi                 tête d' ailleurs aussi i(l)
 122552 en haut                        a là en haut ?
-122557 comment on                     sais pas comment on appelle
+122557 comment on                     j'sais pas comment on appelle le
 122559 en haut                        hop là en haut de
 122559 en haut                        de la en haut du
 122565 protéger oui                  pour protéger oui .

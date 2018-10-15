@@ -345,7 +345,7 @@
 1808 spaghettis et                  des spaghettis et de la salade
 1832 est où                        elle est où ?
 1838 et un                          une fourchette et un couteau ?
-1842 dessus ils                     être au dessus ils sont
+1842 dessus ils                     peut-être au dessus ils sont
 1849 prend un                       qu' on prend un couteau
 1850 pas absolument                 ) est pas absolument nécessaire
 1851 frites avec                    mange les frites avec mes
@@ -1420,7 +1420,7 @@
 8057 vais essayer                   je vais essayer .
 8059 met ici                        ça se met ici .
 8065 en haut                        l' attache en haut ?
-8068 aller euh                      être d' aller euh dans
+8068 aller euh                      peut-être d' aller euh dans
 8076 est où                        elle est où , la petite
 8089 puis il                        fer et puis il atterrit
 8089 atterrit ici                   puis il atterrit ici pour
@@ -1694,7 +1694,7 @@
 10886 orteils avec                   licher les orteils avec sa
 10903 as attrapé                    que t(u) as attrapé ?
 10911 chercher autre                 d' aller chercher autre chose
-10927 un à                          ben là un à pol peut
+10927 un à                          ben là un à pol peut-être
 10928 ben oui                        ben oui .
 10934 rien encore                    il a rien encore dans la
 10935 pas eu                         il a pas eu le temps
@@ -1779,8 +1779,8 @@
 11697 as une                         ici t(u) as une couronne ,
 11712 chien en                       oh le chien en a deux
 11744 dis à                         dis à crocro qu' il aille
-11752 pas assez                      peut être pas assez une
-11752 assez une                      être pas assez une grande
+11752 pas assez                      a peut-être pas assez une
+11752 assez une                      peut-être pas assez une grande
 11757 tirer où                      tirer où ?
 11773 chat à                        un petit chat à bicyclette
 11778 chat à                        un petit chat à bicyclette
@@ -2163,7 +2163,7 @@
 14982 donnes à                      tu le donnes à catherine ?
 14990 ben attends                    ben attends !
 14991 regarder ici                   on va regarder ici pour voir
-14996 bout ici                       être un bout ici parce
+14996 bout ici                       peut-être un bout ici parce
 15001 et ensuite                     et ensuite on va faire le
 15008 ben oui                        ah ben oui , ben ça
 15013 vais essayer                   ben je vais essayer de trouver
@@ -2623,8 +2623,8 @@
 18050 fait après                    qu' on fait après ?
 18055 puis ici                       et puis ici là c(e) est
 18056 comment il                     comment il s' appelle , lui
-18060 pas un                         peut être pas un morceau
-18061 pas un                         peut être pas un morceau
+18060 pas un                         est peut-être pas un morceau
+18061 pas un                         est peut-être pas un morceau
 18088 ben oui                        ben oui c(e) est rouge ,
 18098 ben oui                        ben oui ça sent le lait
 18105 ben oui                        ben oui .
@@ -2649,7 +2649,7 @@
 18299 vais essayer                   ah je vais essayer le bleu
 18304 peut attendre                  , il peut attendre son
 18317 jouer au                       i(l) va jouer au *
-18325 suis allée                    j(e) suis allée chez ma maman
+18325 j'suis allée                  j'suis allée chez ma maman .
 18336 montrer à                     veux les montrer à maman
 18352 vas en                         tu vas en prendre parce que
 18356 non il                         non il (n' ) est pas
@@ -3036,7 +3036,7 @@
 21017 ben oui                        ben oui .
 21032 fait en                        qu' on fait en premier
 21070 en haut                        là , en haut .
-21072 trouver un                     peut être trouver un autre
+21072 trouver un                     va peut-être trouver un autre
 21080 trouver un                     on va trouver un morceau
 21081 doit y                         il doit y avoir un autre
 21090 trouver est-ce                 va le trouver est-ce que
@@ -4427,6 +4427,7 @@
 31529 comment il                     comment il s' appelle ?
 31558 attends attends                attends attends attends !
 31558 attends attends                attends attends attends !
+31570 p(u)is il                      ah p(u)is il y a un
 31585 lisent une                     ils lisent une histoire # avec
 31586 doucement avec                 doucement avec le livre , lolo
 31593 matin alors                    est le matin alors #
@@ -4444,6 +4445,7 @@
 31669 ben oui                        ah ben oui .
 31676 repas avec                     est le repas avec toute
 31687 yaourts et                     les petits yaourts et la
+31691 p(u)is après                  tout ça p(u)is après il
 31691 après il                      ça p(u)is après il va
 31693 et après                      et après , elle coupe sa
 31698 alors attends                  ta chaise alors attends attends
@@ -5420,6 +5422,7 @@
 36567 as un                          maintenant t(u) as un grand
 36571 faisait une                    ça faisait une petite goutte qui
 36578 vert et                        jaune du vert et puis
+36581 p(u)is elle                    et p(u)is elle fait quelque chose
 36581 aller à                       permettre d' aller à l'
 36584 maintenant à                  à faire maintenant à la
 36587 aller à                       tu * aller à l' école
@@ -5530,7 +5533,7 @@
 37167 histoires aux                  raconte des histoires aux enfants
 37168 chansons aussi                 des petites chansons aussi .
 37181 ben oui                        ben oui .
-37190 suis à                        ah j(e) suis à l' envers
+37190 j'suis à                      ah j'suis à l' envers .
 37192 es à                          , t(u) es à l'
 37196 toujours une                   tu as toujours une surprise ,
 37216 as été                       tu as été en vacances dans
@@ -5958,6 +5961,7 @@
 39612 sont en                        , ils sont en vacances
 39619 fais attention                 non , fais attention avec l'
 39619 attention avec                 , fais attention avec l'
+39620 p(u)is i(l)                    caméra et p(u)is i(l) y
 39621 arroser à                     pour t' arroser à toi
 39626 est où                        il est où , le gros
 39636 vas où                        ben tu vas où ?

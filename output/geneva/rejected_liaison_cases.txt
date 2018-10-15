@@ -72,6 +72,7 @@
 533 as un                          que tu as un tabouret
 534 prends un                      prends un tabouret .
 553 vas à                         toi tu vas à côté de
+555 p(u)is après                  , et p(u)is après ?
 571 as enlevé                     t' as enlevé la couche ?
 580 peux aussi                     tu peux aussi enlever les chaussettes
 581 franchement un                 elles sont franchement un peu petites
@@ -89,6 +90,7 @@
 619 rester ici                     tu peux rester ici .
 620 chercher une                   il va chercher une couche
 632 alors on                       alors on va en mettre une
+647 p(u)is on                      p(u)is on va aller chercher louis
 660 vient avec                     il vient avec , il vient
 660 vient avec                     , il vient avec .
 661 vient avec                     il vient avec lui papa .
@@ -393,6 +395,7 @@
 2840 pas être                      ça va pas être facile .
 2844 petit hérisson                a un petit hérisson avec
 2844 hérisson avec                 un petit hérisson avec un
+2883 p(u)is une                     et p(u)is une autre encore .
 2886 pas encore                     n' a pas encore retrouvé
 2897 balais à                      un petit balais à poussière
 2902 puis on                        là et puis on le
@@ -446,7 +449,7 @@
 3133 pas où                        je sais pas où elle
 3146 donner avec                    peux lui donner avec la
 3151 haut y                         mais là haut y a pas
-3152 pas où                        j(e) sais pas où elle
+3152 pas où                        , j'sais pas où elle
 3156 donner à                      peux lui donner à la
 3158 ben oui                        ben oui , ma pitchoune .
 3159 pas où                        ne sais pas où tu
@@ -486,8 +489,8 @@
 3331 et y                           et y en a sur ton
 3342 fais attention                 tu fais attention marie parce que
 3344 pas un                         c' est pas un râteau marie
-3352 pas exactement                 j(e) sais pas exactement où elles
-3352 exactement où                 sais pas exactement où elles
+3352 pas exactement                 j'sais pas exactement où elles sont
+3352 exactement où                 j'sais pas exactement où elles sont
 3354 pas ici                        ne sont pas ici .
 3357 as essayé                     , tu as essayé ?
 3366 surtout avec                   surtout avec cette petite balle .
@@ -520,6 +523,7 @@
 3474 mamans et                      papas des mamans et des
 3498 et après                      et après y a une (pe)tite
 3498 après y                       et après y a une (pe)tite
+3506 p(u)is on                      et p(u)is on a une p(e)tite
 3509 pas une                        y a pas une p(e)tite fille
 3512 veux aussi                     tu veux aussi mettre l' éléphant
 3540 gens on                        viennent les gens on peut
@@ -672,7 +676,7 @@
 4591 as eue                         que t(u) as eue .
 4592 pas aimé                      elle a pas aimé là
 4609 laver ici                      je * laver ici et je
-4618 suis un                        j' suis un p(e)tit lapin .
+4618 j'suis un                      j'suis un p(e)tit lapin .
 4621 pas une                        n' est pas une vache
 4636 fait avec                      qu' on fait avec ?
 4648 est où                        elle est où , marie ?
@@ -749,6 +753,7 @@
 5179 froid aux                      vas avoir froid aux pieds
 5186 et hop                         et hop , encore un petit
 5189 es assise                      si t(u) es assise quelque
+5221 p(u)is il                      p(u)is il est plus épais pour
 5223 veux encore                    tu veux encore un kleenex ?
 5237 enlever ou                     pas l' enlever ou alors
 5237 alors on                       enlever ou alors on met
@@ -861,6 +866,7 @@
 5902 fait un                        t' es fait un p(e)tit
 5915 après on                      après on prend les chaussures et
 5915 chaussures et                  prend les chaussures et p(u)is
+5915 p(u)is on                      chaussures et p(u)is on fait
 5919 fais attention                 tu fais attention de ne pas
 5920 fais attention                 tu fais attention de ne pas
 5944 briques à                     donnes des briques à manger
@@ -889,6 +895,7 @@
 6084 veux aller                     tu veux aller où ?
 6084 aller où                      tu veux aller où ?
 6085 est où                        il est où le poisson ?
+6093 p(u)is après                  p(u)is après qu' est-ce qu' elle
 6096 ouais elle                     ouais elle le met sur les
 6097 et elle                        et elle frotte , scratch .
 6100 puis après                    et puis après elle se fait
@@ -911,6 +918,9 @@
 6179 volet ici                      manque un volet ici .
 6180 volet ici                      manque un volet ici .
 6181 pas où                        ne sais pas où il
+6196 p(u)is après                  et p(u)is après ?
+6197 p(u)is encore                  p(u)is encore ?
+6208 p(u)is après                  et p(u)is après ?
 6209 moulin il                      le moulin il est là haut
 6232 veux un                        tu veux un jus d' orange
 6237 chantes avec                   tu chantes avec moi ?

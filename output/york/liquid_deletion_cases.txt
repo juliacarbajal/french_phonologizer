@@ -159,7 +159,7 @@
 4722 prendre tous                  pR@d tu                       vas pas prendre tous les
 4725 autre table                   ot tabl                       sur l' autre table ?
 4727 table par                     tab paR                       tirer la table par ici
-4760 être resté                    Et REs-te                     est peut être resté chez
+4760 peut-être resté               p2-tEt REs-te                 il est peut-être resté chez
 4796 mettre ça                     mEt sa                        vas NOUS mettre ça pour
 4832 mettre ça                     mEt sa                        vas pas mettre ça dans
 4835 mettre sur                    mEt syR                       faut LES mettre sur le
@@ -186,7 +186,7 @@
 5260 mettre sur                    mEt syR                       pas tout mettre sur la
 5267 ensemble sans                 @-s@b s@                      tout remis ensemble sans ,
 5286 prendre ton                   pR@d t§                       vaudrait mieux prendre ton vieux
-5300 être plus                     Et ply                        est peut être plus là
+5300 peut-être plus                p2-tEt ply                    ) est peut-être plus là
 5304 peindre de                    p5d d2                        vas NOUS peindre de beau
 5382 mettre sur                    mEt syR                       était pour mettre sur du
 5383 mettre dans                   mEt d@z                       est pour mettre dans un
@@ -196,10 +196,10 @@
 5432 être très                     Et tREz                       devait pas être très intéressant
 5434 quatre jours                  kat ZuR                       avoir congé quatre jours .
 5478 chiffre qui                   Sif ki                        est le chiffre qui est
-5486 être resté                    Et REs-te                     est peut être resté deux
+5486 peut-être resté               p2-tEt REs-te                 il est peut-être resté deux heures
 5529 prendre ton                   pR@d t§                       on va prendre ton verre .
 5580 pauvre Pongo                  pov p§-go                     pauvre Pongo .
-5587 être pas                      Et pa                         rends peut être pas compte
+5587 peut-être pas                 p2-tEt pa                     en rends peut-être pas compte
 5593 notre chien                   nOt Sj5                       appelle , notre chien .
 5607 ressemble t                   R°-s@b te                     Blanche neige ressemble t il
 5639 pauvre petit                  pov p°-tit                    oh pauvre petit homme .
@@ -231,13 +231,13 @@
 6341 semble que                    s@b k2                        il ME semble que tu LES
 6439 autre chose                   ot Soz                        c(e) est autre chose ,
 6469 mettre du                     mEt dy                        façon de mettre du poivre
-6471 être de                       Et d2                         est peut être de la
+6471 peut-être de                  p2-tEt d2                     c(e) est peut-être de la poussière
 6474 poivre tu                     pwav ty                       est du poivre tu vas
 6534 mettre de                     mEt d2                        de pouvoir mettre de l'
 6573 contre lolita                 k§t lo-li-ta                  par contre lolita et florent ,
 6679 autres choses                 ot Soz                        a d' autres choses qui
-6770 être mort                     Et mOR                        est peut être mort tout
-6772 être que                      Et k2                         peut être que ?
+6770 peut-être mort                p2-tEt mOR                    il est peut-être mort tout
+6772 peut-être que                 p2-tEt k2                     peut-être que ?
 6805 autre chose                   ot Soz                        on fait autre chose ?
 6846 titres du                     tit dy                        bien les titres du compact
 6908 prendre quelques              pR@d kElk                     on va prendre quelques gouttes
@@ -245,8 +245,8 @@
 6912 mettre surtout                mEt syR-tu                    faut LES mettre surtout quand
 6975 prendre l'                    pR@d l                        besoin de prendre l' avion
 6994 être dans                     Et d@                         pas d' être dans l'
-7047 être LE                       Et l2                         faudrait peut être LE mettre
-7047 mettre dans                   mEt d@                        être LE mettre dans la
+7047 peut-être LE                  p2-tEt l2                     il faudrait peut-être LE mettre dans
+7047 mettre dans                   mEt d@                        peut-être LE mettre dans la
 7047 autre bébé                    ot be-be                      de l' autre bébé .
 7048 mettre debout                 mEt d°-bu                     LE mettre debout dans la chaise
 7048 autre bébé                    ot be-be                      de l' autre bébé .
@@ -268,7 +268,7 @@
 7616 montre MOI                    m§t mwa                       montre MOI ton doigt !
 7730 éteindre l'                   e-t5d l                       je vais éteindre l' appareil
 7736 mettre tes                    mEt te                        rond pour mettre tes petites
-7756 être que                      Et k2                         peut être que ça ne va
+7756 peut-être que                 p2-tEt k2                     peut-être que ça ne va pas
 7766 autre bout                    ot bu                         avait un autre bout qui
 7771 rentre pas                    R@t pa                        lui ne rentre pas ,
 7800 mettre sur                    mEt syR                       faut LE mettre sur les
@@ -295,10 +295,10 @@
 8013 mettre dedans                 mEt d°-d@                     veux LE mettre dedans ?
 8018 mettre comme                  mEt kOm                       va LE mettre comme il
 8033 prendre le                    pR@d l2                       je vais prendre le petit
-8068 être d'                       Et d                          aimerait peut être d' aller
+8068 peut-être d'                  p2-tEt d                      il aimerait peut-être d' aller
 8069 mettre dans                   mEt d@                        peut LE mettre dans la
 8072 mettre dans                   mEt d@                        pas LE mettre dans celui
-8075 être qu'                      Et k                          ou peut être qu' il aimerait
+8075 peut-être qu'                 p2-tEt k                      ou peut-être qu' il aimerait d'
 8110 montre MOI                    m§t mwa                       montre MOI QU' est-ce que t(u)
 8133 mettre dedans                 mEt d°-d@                     veux LES mettre dedans ?
 8162 autre côté                    ot ko-te                      de l' autre côté aussi
@@ -311,7 +311,7 @@
 8246 autre côté                    ot ko-te                      de l' autre côté ?
 8319 montre MOI                    m§t mwa                       montre MOI !
 8324 prendre le                    pR@d l2                       on pourrait prendre le bonhomme de
-8329 être dans                     Et d@                         peut être dans ça ?
+8329 peut-être dans                p2-tEt d@                     peut-être dans ça ?
 8333 prendre le                    pR@d l2                       on va prendre le bonhomme ici
 8334 être le                       Et l2                         ça va être le bonhomme du
 8343 autre bonhomme                ot bo-nOm                     un autre bonhomme .
@@ -320,7 +320,7 @@
 8405 montre MOI                    m§t mwa                       montre MOI !
 8440 montre MOI                    m§t mwa                       montre MOI !
 8452 montre MOI                    m§t mwa                       montre MOI !
-8585 autre page                    ot paZ                        à l' autre page peut
+8585 autre page                    ot paZ                        à l' autre page peut-être
 8618 ressemble beaucoup            R°-s@b bo-ku                  i(l) se ressemble beaucoup , hein
 8652 autre page                    ot paZ                        l' autre page .
 8653 autre page                    ot paZ                        à l' autre page ?
@@ -332,7 +332,7 @@
 9047 mettre sur                    mEt syR                       va LES mettre sur le
 9051 autre pour                    ot puR                        chose d' autre pour toi
 9066 autre côté                    ot ko-te                      de l' autre côté ?
-9097 être laissé                   Et le-se                      ai peut être laissé en
+9097 peut-être laissé              p2-tEt le-se                  L' ai peut-être laissé en
 9125 combattre le                  k§-bat l2                     ils vont combattre le dragon .
 9190 autre jour                    ot ZuR                        un autre jour .
 9204 perdre ton                    pERd t§                       tu vas perdre ton chapeau .
@@ -354,8 +354,8 @@
 9457 autre grenouille              ot gR°-nuj                    une autre grenouille va rentrer dans
 9471 mettre des                    mEt de                        faudrait LUI mettre des pantoufles
 9473 mettre des                    mEt de                        va LUI mettre des pantoufles
-9523 être d'                       Et d                          est peut être d' autres
-9523 autres chocolats              ot So-ko-la                   être d' autres chocolats .
+9523 peut-être d'                  p2-tEt d                      c(e) est peut-être d' autres chocolats
+9523 autres chocolats              ot So-ko-la                   peut-être d' autres chocolats .
 9529 mettre ça                     mEt sa                        je vais mettre ça ici
 9553 montre MOI                    m§t mwa                       montre MOI !
 9567 montre MOI                    m§t mwa                       montre MOI !
@@ -391,9 +391,9 @@
 10080mettre ta                     mEt ta                        veux tu mettre ta main dedans
 10085mettre quelque                mEt kElk                      vais LUI mettre quelque chose
 10101descendre le                  de-s@d l2                     il peut descendre le mur
-10106être LE                       Et l2                         faut peut être LE mouiller
-10140être qu'                      Et k                          * peut être qu' i(l) va
-10141être qu'                      Et k                          mhm peut être qu' i(l) va
+10106peut-être LE                  p2-tEt l2                     (il) faut peut-être LE mouiller .
+10140peut-être qu'                 p2-tEt k                      * peut-être qu' i(l) va marcher
+10141peut-être qu'                 p2-tEt k                      mhm peut-être qu' i(l) va marcher
 10152mettre sur                    mEt syR                       tu LE mettre sur le
 10157mettre par                    mEt paR                       va LES mettre par dessus
 10161mettre sur                    mEt syR                       tu LE mettre sur le
@@ -415,11 +415,11 @@
 10291mettre là                     mEt la                        vas LES mettre là ?
 10296mettre dans                   mEt d@                        veux LE mettre dans le
 10324autre côté                    ot ko-te                      de l' autre côté .
-10365être qu'                      Et k                          peut être qu' elle veut des
+10365peut-être qu'                 p2-tEt k                      peut-être qu' elle veut des carottes
 10369prendre le                    pR@d l2                       je vais prendre le cochon
 10391mettre des                    mEt de                        je vais mettre des canards
 10392mettre là                     mEt la                        tu en mettre là dedans
-10398être le                       Et l2                         est peut être le fermier
+10398peut-être le                  p2-tEt l2                     c(e) est peut-être le fermier ,
 10426mettre comme                  mEt kOm                       veux LES mettre comme il
 10428mettre comme                  mEt kOm                       va LES mettre comme il
 10481mettre la                     mEt la                        veux tu mettre la petite
@@ -447,29 +447,29 @@
 10911autre chose                   ot Soz                        aller chercher autre chose ?
 10951mettre sur                    mEt syR                       pourras LES mettre sur ta
 10952montre MOI                    m§t mwa                       montre MOI donc le nez !
-11042être là                       Et la                         , peut être là dedans
+11042peut-être là                  p2-tEt la                     tiens , peut-être là dedans ?
 11074mettre là                     mEt la                        faudra LE mettre là .
 11137mettre le                     mEt l2                        tu veux mettre le cheval là
 11172mettre le                     mEt l2                        on va mettre le cochon et
-11189être qu'                      Et k                          , peut être qu' il
-11190être pas                      Et pa                         veut peut être pas manger
+11189peut-être qu'                 p2-tEt k                      oui , peut-être qu' il y
+11190peut-être pas                 p2-tEt pa                     il veut peut-être pas manger le
 11236capable de                    ka-pab d2                     es pas capable de L'
 11251autre chose                   ot Soz                        T' apporterai autre chose .
-11275être que                      Et k2                         peut être que tu vas voir
+11275peut-être que                 p2-tEt k2                     peut-être que tu vas voir Maman
 11284livre de                      liv d2                        ton beau livre de Winnie
 11285livre de                      liv d2                        , ton livre de Winnie
 11297votre livre                   vOt livR                      eh dans votre livre avec ça
 11298autre page                    ot paZ                        sur l' autre page .
-11299être mieux                    Et mj2                        est peut être mieux (d'
+11299peut-être mieux               p2-tEt mj2                    c(e) est peut-être mieux (d' employer)
 11299autres crayons                ot kRE-j§                     employer) les autres crayons ,
-11317être qu'                      Et k                          peut être qu' il y en
+11317peut-être qu'                 p2-tEt k                      peut-être qu' il y en a
 11317autres qui                    ot ki                         a d' autres qui sentent
 11372mettre par                    mEt paR                       vais LE mettre par terre
 11399autres comme                  ot kOm                        a d' autres comme ça
 11432montre MOI                    m§t mwa                       montre MOI !
 11434montre MOI                    m§t mwa                       montre MOI !
 11453montres comment               m§t ko-m@                     tu ME montres comment faire
-11478être qu'                      Et k                          peut être qu' il va là
+11478peut-être qu'                 p2-tEt k                      peut-être qu' il va là ,
 11479mettre là                     mEt la                        TU LE mettre là ?
 11483mettre ça                     mEt sa                        on peut mettre ça comme ça
 11491mettre celui                  mEt sl8i                      tu peux mettre celui là
@@ -489,9 +489,9 @@
 11717être pour                     Et puR                        ça peut être pour Catherine
 11739mettre ta                     mEt ta                        tu veux mettre ta main d(e)dans
 11749mettre quelque                mEt kElk                      vais LUI mettre quelque chose
-11752être pas                      Et pa                         a peut être pas assez
+11752peut-être pas                 p2-tEt pa                     y a peut-être pas assez
 11770montre MOI                    m§t mwa                       montre MOI !
-11780être que                      Et k2                         peut être que ça ne marche
+11780peut-être que                 p2-tEt k2                     peut-être que ça ne marche pas
 11794être fini                     Et fi-ni                      ça va être fini je
 11797autre chose                   ot Soz                        de chercher autre chose dans
 11799autre chose                   ot Soz                        aller chercher autre chose dans
@@ -507,10 +507,10 @@
 12089mettre ça                     mEt sa                        je vais mettre ça dans la
 12100prendre celui                 pR@d sl8i                     tu vas prendre celui avec la
 12143montre MOI                    m§t mwa                       montre MOI le bobo # su(r)
-12192être des                      Et dez                        est peut être des ours
-12193être des                      Et dez                        est peut être des ours
+12192peut-être des                 p2-tEt dez                    c(e) est peut-être des ours .
+12193peut-être des                 p2-tEt dez                    c(e) est peut-être des ours .
 12207livres là                     liv la                        , ces livres là .
-12216être qu'                      Et k                          peut être qu' il y a
+12216peut-être qu'                 p2-tEt k                      peut-être qu' il y a une
 12216autre Catherine               ot ka-t2-Rin                  a une autre Catherine .
 12225quatre vingt                  kat v5                        neuf dollars quatre vingt quinze
 12227notre petit                   nOt p°-ti                     ça dans notre petit cochon
@@ -537,7 +537,7 @@
 12592autre dessin                  ot de-s5                      faire un autre dessin .
 12623être Max                      Et maks                       ça va être Max .
 12674livre pour                    liv puR                       chercher un livre pour (re)garder
-12688être que                      Et k2                         peut être que Crocro va t'
+12688peut-être que                 p2-tEt k2                     peut-être que Crocro va t' aider
 12717être Max                      Et maks                       ça va être Max .
 12718autre fois                    ot fwa                        pi l' autre fois ça va
 12747montre MOI                    m§t mwa                       montre MOI !
@@ -547,8 +547,8 @@
 12859autre chose                   ot Soz                        chercher d' autre chose dans
 12862autre chose                   ot Soz                        chercher d' autre chose dans
 12866autre chose                   ot Soz                        chercher d' autre chose ?
-12901être difficile                Et di-fi-sil                  est peut être difficile un
-12940être qu'                      Et k                          peut être qu' il ne veut
+12901peut-être difficile           p2-tEt di-fi-sil              c(e) est peut-être difficile un peu
+12940peut-être qu'                 p2-tEt k                      peut-être qu' il ne veut pas
 12946autre chose                   ot Soz                        chercher d' autre chose dans
 12948autre chose                   ot Soz                        chercher d' autre chose .
 12954autre chose                   ot Soz                        chercher d' autre chose dans
@@ -568,7 +568,7 @@
 13231autre galette                 ot ga-lEt                     faire une autre galette .
 13267mettre dans                   mEt d@                        va LE mettre dans le
 13268mettre dans                   mEt d@                        va LE mettre dans le
-13281être qu'                      Et k                          peut être qu' on pourrait LE
+13281peut-être qu'                 p2-tEt k                      peut-être qu' on pourrait LE mettre
 13281mettre dans                   mEt d@                        pourrait LE mettre dans le
 13284autre côté                    ot ko-te                      de l' autre côté .
 13297autre côté                    ot ko-te                      de l' autre côté ,
@@ -591,7 +591,7 @@
 13599quatre petits                 kat p°-ti                     quatre petits chiens .
 13602quatre petits                 kat p°-ti                     on est quatre petits chiens ,
 13609montre LE                     m§t l2                        montre LE à Catherine , le
-13638être que                      Et k2                         veux peut être que ça
+13638peut-être que                 p2-tEt k2                     tu veux peut-être que ça va
 13642autre morceau                 ot mOR-so                     pi l' autre morceau ?
 13644autre morceau                 ot mOR-so                     pour l' autre morceau ,
 13648autre petit                   ot p°-ti                      de l' autre petit chien
@@ -631,7 +631,7 @@
 14147mettre là                     mEt la                        peut LE mettre là en
 14172être jaune                    Et Zon                        supposé d' être jaune ,
 14210autre crayon                  ot kRE-j§                     # l' autre crayon .
-14230être de                       Et d2                         est peut être de la
+14230peut-être de                  p2-tEt d2                     il est peut-être de la même
 14249montres comment               m§t ko-m@                     tu ME montres comment !
 14328apparaître d'                 a-pa-REt d                    pas fait apparaître d' autre
 14328autre sauf                    ot sof                        apparaître d' autre sauf qu'
@@ -647,7 +647,7 @@
 14401ensemble là                   @-s@b la                      pourra marcher ensemble là bas
 14405attendre son                  a-t@d s§n                     elle va attendre son autobus
 14420mettre ça                     mEt sa                        tu veux mettre ça comme ça
-14426être juste                    Et Zyst                       peut être juste comme ça .
+14426peut-être juste               p2-tEt Zyst                   peut-être juste comme ça .
 14432mettre comme                  mEt kOm                       va LE mettre comme ça
 14491autre côté                    ot ko-te                      l' autre côté Max * .
 14498mettre comme                  mEt kOm                       veux LE mettre comme ça
@@ -664,7 +664,7 @@
 14606montre MOI                    m§t mwa                       montre MOI donc , Max !
 14630mettre dedans                 mEt d°-d@                     va LE mettre dedans si
 14633mettre l'                     mEt l                         il faut mettre l' épée dans
-14644être qu'                      Et k                          peut être qu' il peut rentrer
+14644peut-être qu'                 p2-tEt k                      peut-être qu' il peut rentrer dans
 14676montre MOI                    m§t mwa                       oh oh montre MOI ça
 14709montre MOI                    m§t mwa                       montre MOI donc !
 14731mettre ça                     mEt sa                        on va mettre ça comme ça
@@ -691,7 +691,7 @@
 14970mettre comme                  mEt kOm                       va LE mettre comme ça
 14981autre petit                   ot p°-ti                      après un autre petit bout
 14984mettre sur                    mEt syR                       peux LE mettre sur Crocro
-14998être du                       Et dy                         est peut être du bonhomme
+14998peut-être du                  p2-tEt dy                     c(e) est peut-être du bonhomme jaune
 15015boucle rose                   buk Roz                       la petite boucle rose dans
 15037être sa                       Et sa                         ça doit être sa joue .
 15086autre côté                    ot ko-te                      de l' autre côté ici
@@ -700,27 +700,27 @@
 15148autre biscuit                 ot bis-k8i                    veux un autre biscuit au
 15182être sa                       Et sa                         ça doit être sa patte
 15192montre MOI                    m§t mwa                       montre MOI donc la patte à
-15195être quatre                   Et katR                       a peut être quatre .
+15195peut-être quatre              p2-tEt katR                   en a peut-être quatre .
 15202quatre derrière               kat dE-RjER                   en a quatre derrière .
 15216autre morceau                 ot mOR-so                     trouvé un autre morceau ici
 15223mettre comme                  mEt kOm                       difficile à mettre comme ça
 15275autre morceau                 ot mOR-so                     et l' autre morceau du petit
-15289être chercher                 Et SER-Se                     faudrait peut être chercher pour
+15289peut-être chercher            p2-tEt SER-Se                 il faudrait peut-être chercher pour des
 15297autre bout                    ot bu                         est un autre bout .
-15307autre morceau                 ot mOR-so                     être un autre morceau .
-15309être que                      Et k2                         peut être que celui là va
-15311être que                      Et k2                         ah peut être que non non
+15307autre morceau                 ot mOR-so                     peut-être un autre morceau .
+15309peut-être que                 p2-tEt k2                     peut-être que celui là va là
+15311peut-être que                 p2-tEt k2                     ah peut-être que non non plus
 15319autre singe                   ot s5Z                        est l' autre singe qui
-15328être que                      Et k2                         peut être que .
-15347être lui                      Et l8i                        est peut être lui .
-15361être de                       Et d2                         ah peut être de l' autre
+15328peut-être que                 p2-tEt k2                     peut-être que .
+15347peut-être lui                 p2-tEt l8i                    c(e) est peut-être lui .
+15361peut-être de                  p2-tEt d2                     ah peut-être de l' autre côté
 15361autre côté                    ot ko-te                      de l' autre côté ?
 15370rentre là                     R@t la                        bout qui rentre là .
 15390autre côté                    ot ko-te                      de l' autre côté aussi
-15399être celui                    Et sl8i                       peut être celui ci ?
-15410être de                       Et d2                         peut être de l' autre côté
+15399peut-être celui               p2-tEt sl8i                   peut-être celui ci ?
+15410peut-être de                  p2-tEt d2                     peut-être de l' autre côté ?
 15410autre côté                    ot ko-te                      de l' autre côté ?
-15411être comme                    Et kOm                        peut être comme ça , voilà
+15411peut-être comme               p2-tEt kOm                    peut-être comme ça , voilà .
 15419autre bout                    ot bu                         encore un autre bout de
 15466souffles fort                 suf fOR                       tu souffles fort , toi ,
 15480mettre serré                  mEt sE-Re                     TE LE mettre serré serré
@@ -731,9 +731,9 @@
 15517mettre du                     mEt dy                        il faudra mettre du papier
 15530mettre ton                    mEt t§                        tu peux mettre ton petit doigt
 15532mettre comme                  mEt kOm                       va LE mettre comme il
-15548être de                       Et d2                         peut être de l' autre côté
+15548peut-être de                  p2-tEt d2                     peut-être de l' autre côté ?
 15548autre côté                    ot ko-te                      de l' autre côté ?
-15611être de                       Et d2                         est peut être de la
+15611peut-être de                  p2-tEt d2                     c(e) est peut-être de la
 15646sable sur                     sab syR                       as du sable sur les
 15647montre MOI                    m§t mwa                       montre MOI tes mains !
 15650mettre les                    mEt le                        on va mettre les camions dans
@@ -748,7 +748,7 @@
 15848montre MOI                    m§t mwa                       ben montre MOI donc !
 15897mettre l'                     mEt l                         il veut mettre l' abeille dans
 15908ressemble beaucoup            R°-s@b bo-kup                 ça ressemble beaucoup à des petits
-15930être juste                    Et Zyst                       voit peut être juste sur
+15930peut-être juste               p2-tEt Zyst                   LE voit peut-être juste sur
 15930autres dessins                ot de-s5                      sur les autres dessins .
 15936mettre de                     mEt d2                        va LES mettre de nouveau
 15966montre tu                     m§t ty                        ME montre tu , # le
@@ -782,7 +782,7 @@
 16460mettre les                    mEt lez                       on peut mettre les animaux là
 16465ouvre la                      uv la                         ouvre la porte !
 16483entre les                     @t lez                        il va entre les animaux ?
-16491être qu'                      Et k                          ben peut être qu' il
+16491peut-être qu'                 p2-tEt k                      ah ben peut-être qu' il ne
 16495tondre le                     t§d l2                        tu veux tondre le gazon là
 16496mettre là                     mEt la                        va LE mettre là .
 16499mettre des                    mEt dez                       on peut mettre des animaux
@@ -792,21 +792,21 @@
 16516mettre là                     mEt la                        va LES mettre là tantôt
 16519autre clôture                 ot klo-tyR                    reste une autre clôture .
 16520autre clôture                 ot klo-tyR                    , l' autre clôture ?
-16521être qu'                      Et k                          ben peut être qu' elle ne
-16539être pour                     Et puR                        est peut être pour mettre
-16539mettre de                     mEt d2                        être pour mettre de l'
+16521peut-être qu'                 p2-tEt k                      ben peut-être qu' elle ne va
+16539peut-être pour                p2-tEt puR                    c(e) est peut-être pour mettre
+16539mettre de                     mEt d2                        peut-être pour mettre de l'
 16548mettre dans                   mEt d@z                       vas LES mettre dans en
 16561autre côté                    ot ko-te                      de l' autre côté !
 16565mettre là                     mEt la                        va LA mettre là .
 16599fenêtre de                    f°-nEt d2                     par la fenêtre de la
 16623mettre le                     mEt l2                        on va mettre le ,
-16636être faim                     Et f5                         a peut être faim ,
+16636peut-être faim                p2-tEt f5                     Crocro a peut-être faim ,
 16648mettre beaucoup               mEt bo-ku                     on peut mettre beaucoup de choses
 16671mettre par                    mEt paR                       pourras LE mettre par dessus
 16708mettre les                    mEt lez                       on va mettre les escargots ,
 16711mettre les                    mEt le                        va toute mettre les morceaux
 16735autre bout                    ot bu                         a un autre bout de
-16752être celui                    Et sl8i                       est peut être celui là
+16752peut-être celui               p2-tEt sl8i                   c(e) est peut-être celui là
 16765autres bouts                  ot bu                         a d' autres bouts de
 16791autre morceau                 ot mOR-so                     un autre morceau ?
 16796autre casse                   ot kas                        &morce un autre casse tête
@@ -816,10 +816,10 @@
 16865mettre son                    mEt s§                        on va mettre son chandail .
 16873mettre d'                     mEt d                         il faut mettre d' autres
 16873autres morceaux               ot mOR-so                     mettre d' autres morceaux ici
-16877être construire               Et k§s-tR8iR                  peut peut être construire le
+16877peut-être construire          p2-tEt k§s-tR8iR              on peut peut-être construire le petit
 16878prendre la                    pR@d la                       on va prendre la tête
 16892autre qu'                     ot k                          quoi d' autre qu' il faut
-16895être que                      Et k2                         pense peut être que ça
+16895peut-être que                 p2-tEt k2                     je pense peut-être que ça s'
 16906mettre comme                  mEt kOm                       vais LE mettre comme ça
 16936montre MOI                    m§t mwa                       montre MOI !
 16947autre jambe                   ot Z@b                        , ton autre jambe en
@@ -828,24 +828,24 @@
 16990montre MOI                    m§t mwa                       montre MOI donc QU' est-ce que
 17001notre train                   nOt tR5                       aussi sur notre train ?
 17014mettre d'                     mEt d                         tu veux mettre d' autre
-17017être c(e)                     Et s                          peut être c(e) est lui qui
+17017peut-être c(e)                p2-tEt s                      peut-être c(e) est lui qui va
 17027autre côté                    ot ko-te                      de l' autre côté .
 17040autre côté                    ot ko-te                      de l' autre côté .
 17041être capables                 Et ka-pabl                    ils vont être capables de
 17041capables de                   ka-pab d2                     vont être capables de voir
-17075être que                      Et k2                         peut être que Catherine ne va
+17075peut-être que                 p2-tEt k2                     peut-être que Catherine ne va pas
 17075être capable                  Et ka-pabl                    va pas être capable parce
 17075capable parce                 ka-pab paRs                   pas être capable parce que
-17090être trop                     Et tRo                        est peut être trop gros
-17099être ce                       Et s2                         peut être ce serait mieux de
+17090peut-être trop                p2-tEt tRo                    il est peut-être trop gros
+17099peut-être ce                  p2-tEt s2                     peut-être ce serait mieux de mettre
 17104mettre de                     mEt d2                        peux LE mettre de même
 17110être correct                  Et ko-REkt                    ça va être correct comme ça
-17132être qu'                      Et k                          peut être qu' il veut s'
+17132peut-être qu'                 p2-tEt k                      peut-être qu' il veut s' en
 17142autres bonhommes              ot bo-nOm                     a d' autres bonhommes qui
 17146autre bonhomme                ot bo-nOm                     un autre bonhomme ?
 17157mettre là                     mEt la                        va LE mettre là ,
 17162descendre toute               de-s@d tut                    je vais descendre toute les .
-17174être qu'                      Et k                          peut être qu' on pourrait toute
+17174peut-être qu'                 p2-tEt k                      peut-être qu' on pourrait toute embarquer
 17178mettre sur                    mEt syR                       est pour mettre sur le
 17188mettre d'                     mEt d                         faut en mettre d' autres
 17189mettre lui                    mEt l8i                       tu vas mettre lui en
@@ -856,17 +856,17 @@
 17203autres vont                   ot v§                         ah les autres vont aller
 17208mettre beaucoup               mEt bo-ku                     je vais mettre beaucoup de blocs
 17209mettre beaucoup               mEt bo-ku                     il faut mettre beaucoup de
-17210être toute                    Et tut                        pourra peut être toute embarquer
+17210peut-être toute               p2-tEt tut                    on pourra peut-être toute embarquer
 17211mettre celui                  mEt sl8i                      on va mettre celui là là
-17222être que                      Et k2                         peut être que .
-17224être qu'                      Et k                          mais peut être qu' on peut
+17222peut-être que                 p2-tEt k2                     peut-être que .
+17224peut-être qu'                 p2-tEt k                      mais peut-être qu' on peut essayer
 17226mettre dessus                 mEt d°-sy                     pourront se mettre dessus .
-17229être qu'                      Et k                          peut être qu' i(l) ne va
-17230être comme                    Et kOm                        peut être comme ça ?
+17229peut-être qu'                 p2-tEt k                      peut-être qu' i(l) ne va pas
+17230peut-être comme               p2-tEt kOm                    peut-être comme ça ?
 17247mettre comme                  mEt kOm                       vais LES mettre comme ça
 17257être tout                     Et tu                         ils vont être tout mouillés .
 17262mettre les                    mEt le                        va toute mettre les blocs
-17266être qu'                      Et k                          # peut être qu' on
+17266peut-être qu'                 p2-tEt k                      ici # peut-être qu' on
 17266mettre les                    mEt lez                       pourrait toute mettre les amis
 17295être debout                   Et d°-bu                      il va être debout ?
 17297autre passager                ot pa-sa-Ze                   emmène un autre passager avec
@@ -897,8 +897,8 @@
 17680prendre les                   pR@d le                       il va prendre les lacets dans
 17690autre petite                  ot p°-tit                     l' autre petite patte !
 17691autre petite                  ot p°-tit                     l' autre petite patte !
-17711être TE                       Et t2                         va peut être TE mordre
-17711mordre les                    mORd lez                      être TE mordre les orteils
+17711peut-être TE                  p2-tEt t2                     il va peut-être TE mordre les
+17711mordre les                    mORd lez                      peut-être TE mordre les orteils
 17727autre fois                    ot fwa                        comme l' autre fois , hein
 17728autre fois                    ot fwa                        joué l' autre fois aussi
 17732notre train                   nOt tR5                       euh sur notre train ?
@@ -913,35 +913,35 @@
 17792mettre les                    mEt le                        va LUI mettre les bas
 17816mettre le                     mEt l2                        veux tu mettre le policier
 17821pauvre policier               pov po-li-sje                 oh pauvre policier .
-17859être qu'                      Et k                          bon peut être qu' on SE
-17867être que                      Et k2                         , peut être que ,
-17867être que                      Et k2                         mais peut être que le
-17873être que                      Et k2                         peut être que ça ne marchera
-17876être que                      Et k2                         ah peut être que ça .
+17859peut-être qu'                 p2-tEt k                      bon peut-être qu' on SE fait
+17867peut-être que                 p2-tEt k2                     Max , peut-être que ,
+17867peut-être que                 p2-tEt k2                     , mais peut-être que le
+17873peut-être que                 p2-tEt k2                     peut-être que ça ne marchera pas
+17876peut-être que                 p2-tEt k2                     ah peut-être que ça .
 17927montre MOI                    m§t mwa                       montre MOI !
 17959autre fois                    ot fwa                        comme l' autre fois ,
-17987être que                      Et k2                         peut être que ça ne va
-17998être pas                      Et pa                         est peut être pas Ernest
-18017être de                       Et d2                         va peut être de l'
+17987peut-être que                 p2-tEt k2                     peut-être que ça ne va pas
+17998peut-être pas                 p2-tEt pa                     ) est peut-être pas Ernest
+18017peut-être de                  p2-tEt d2                     il va peut-être de l' autre
 18017autre côté                    ot ko-te                      de l' autre côté .
-18060être pas                      Et pa                         est peut être pas un
-18061être pas                      Et pa                         est peut être pas un
+18060peut-être pas                 p2-tEt pa                     ) est peut-être pas un
+18061peut-être pas                 p2-tEt pa                     ) est peut-être pas un
 18063prendre tout                  pR@d tu                       pas LE prendre tout de
 18066montre MOI                    m§t mwa                       montre MOI donc !
-18075être que                      Et k2                         peut être que c(e) est celui
+18075peut-être que                 p2-tEt k2                     peut-être que c(e) est celui là
 18109mettre des                    mEt dez                       on peut mettre des autos qui
 18125prendre lui                   pR@d l8i                      tu peux prendre lui .
 18131autre wagon                   ot va-g§                      puis l' autre wagon ?
 18150prendre lui                   pR@d l8i                      tu vas prendre lui ?
 18185être droit                    Et dRwa                       ça va être droit .
 18195autre morceau                 ot mOR-so                     avait un autre morceau ,
-18199être comme                    Et kOm                        peut être comme ça .
+18199peut-être comme               p2-tEt kOm                    peut-être comme ça .
 18203autre côté                    ot ko-te                      de l' autre côté .
-18214être tourner                  Et tuR-ne                     peut peut être tourner de
+18214peut-être tourner             p2-tEt tuR-ne                 on peut peut-être tourner de l'
 18214autre côté                    ot ko-te                      de l' autre côté ?
 18222être LE                       Et l2                         peut (peu)t être LE mettre
-18230autre morceau                 ot mOR-so                     être un autre morceau ?
-18241être comme                    Et kOm                        peut être comme ça .
+18230autre morceau                 ot mOR-so                     peut-être un autre morceau ?
+18241peut-être comme               p2-tEt kOm                    peut-être comme ça .
 18245prendre nos                   pR@d no                       on peut prendre nos petites
 18252mettre le                     mEt l2                        on va mettre le petit cactus
 18255mettre les                    mEt le                        veux tu mettre les petites maisons
@@ -977,13 +977,13 @@
 18770prendre quelques              pR@d kElkz                    veux en prendre quelques uns
 18850remettre là                   R°-mEt la                     va LE remettre là dedans
 18864mettre là                     mEt la                        va LE mettre là .
-18879être qu'                      Et k                          peut être qu' on devrait demander
-18882être qu'                      Et k                          peut être qu' ils ne veulent
+18879peut-être qu'                 p2-tEt k                      peut-être qu' on devrait demander à
+18882peut-être qu'                 p2-tEt k                      peut-être qu' ils ne veulent pas
 18885autre Que                     ot k2                         faire d' autre Que manger
-18895être qu'                      Et k                          mais peut être qu' on peut
+18895peut-être qu'                 p2-tEt k                      mais peut-être qu' on peut LES
 18895mettre par                    mEt paR                       peut LES mettre par dessus
 18897mettre par                    mEt paR                       veux LES mettre par dessus
-18949être dans                     Et d@                         peut être dans la salle de
+18949peut-être dans                p2-tEt d@                     peut-être dans la salle de bains
 19000mettre ça                     mEt sa                        tu peux mettre ça dans le
 19013mettre des                    mEt de                        on peut mettre des passagers
 19035autres morceaux               ot mOR-so                     a d' autres morceaux .
@@ -1008,17 +1008,17 @@
 19499être le                       Et l2                         je va être le mécanicien
 19520autre garage                  ot ga-RaZ                     à un autre garage ah ok
 19535mettre par                    mEt paR                       peut LES mettre par dessus
-19537être de                       Et d2                         peut être de l' autre ah
-19537être de                       Et d2                         non peut être de ce
+19537peut-être de                  p2-tEt d2                     peut-être de l' autre ah ouais
+19537peut-être de                  p2-tEt d2                     ouais non peut-être de ce
 19564rentre pareil                 R@t pa-REj                    mais il rentre pareil .
 19574notre bébé                    nOt be-be                     a oublié notre bébé qui
 19581mettre là                     mEt la                        va LE mettre là .
 19586prendre des                   pR@d de                       prendre , prendre des bonhommes
-19601être que                      Et k2                         non peut être que non
+19601peut-être que                 p2-tEt k2                     ah non peut-être que non .
 19607mettre mon                    mEt m§                        je peux mettre mon doigt
 19620mettre des                    mEt dez                       tu peux mettre des affaires
 19639montre MOI                    m§t mwa                       montre MOI donc !
-19678être qu'                      Et k                          peut être qu' il rentre là
+19678peut-être qu'                 p2-tEt k                      peut-être qu' il rentre là .
 19678rentre là                     R@t la                        qu' il rentre là .
 19686mettre le                     mEt l2                        on peut mettre le bonhomme là
 19689mettre ton                    mEt t§                        veux tu mettre ton policier là
@@ -1037,7 +1037,7 @@
 19861mettre son                    mEt s§n                       va LUI mettre son accordéon
 19869autre main                    ot m5                         dans l' autre main ?
 19870capable de                    ka-pab d2                     est pas capable de LE
-19874être si                       Et si                         peut être si on tourne sa
+19874peut-être si                  p2-tEt si                     peut-être si on tourne sa main
 19881mettre ses                    mEt se                        veux tu mettre ses souliers
 19916montre MOI                    m§t mwa                       montre MOI donc les petits bonhommes
 19919mettre les                    mEt le                        peux LUI mettre les cheveux
@@ -1063,10 +1063,10 @@
 20225mettre là                     mEt la                        pas LE mettre là tout
 20231mettre la                     mEt la                        on va mettre la tête du
 20241semble que                    s@b k2                        il ME semble que c(e)
-20242être LE                       Et l2                         peux peut être LE mettre
+20242peut-être LE                  p2-tEt l2                     tu peux peut-être LE mettre à
 20281mettre ça                     mEt sa                        pour mettre ça .
-20319être ça                       Et sa                         est peut être ça ,
-20328être de                       Et d2                         ah peut être de l' autre
+20319peut-être ça                  p2-tEt sa                     c(e) est peut-être ça , hein
+20328peut-être de                  p2-tEt d2                     ah peut-être de l' autre côté
 20328autre côté                    ot ko-te                      de l' autre côté .
 20341autre morceau                 ot mOR-so                     mettre un autre morceau ,
 20346boucle des                    buk de                        est la boucle des cheveux
@@ -1084,7 +1084,7 @@
 20684montre MOI                    m§t mwa                       ouais ben montre MOI !
 20696capable de                    ka-pab d2                     t(u) es capable de L'
 20701autre côté                    ot ko-te                      de l' autre côté !
-20703être des                      Et de                         est peut être des morceaux
+20703peut-être des                 p2-tEt de                     c(e) est peut-être des morceaux
 20714mettre la                     mEt la                        on va mettre la pâte
 20854autre cheval                  ot S°-val                     Là l' autre cheval a
 20876autres personnes              ot pER-sOn                    vois d' autres personnes ici
@@ -1092,7 +1092,7 @@
 20906montre MOI                    m§t mwa                       montre MOI QU' est-ce qu' il
 20907montre MOI                    m§t mwa                       montre MOI !
 20948montre MOI                    m§t mwa                       montre MOI !
-20975être lui                      Et l8i                        peut être lui va rester .
+20975peut-être lui                 p2-tEt l8i                    peut-être lui va rester .
 20988ouvre la                      uv la                         j(e) ouvre la porte .
 20991rentre pas                    R@t pa                        ça ne rentre pas .
 21011montre MOI                    m§t mwa                       montre MOI !
@@ -1101,22 +1101,22 @@
 21047montre MOI                    m§t mwa                       montre MOI donc , que je
 21052montre MOI                    m§t mwa                       montre MOI donc QU' est-ce que
 21063montre MOI                    m§t mwa                       montre MOI donc !
-21072être trouver                  Et tRu-ve                     va peut être trouver un
+21072peut-être trouver             p2-tEt tRu-ve                 on va peut-être trouver un
 21072autre morceau                 ot mOR-so                     trouver un autre morceau de
 21081autre morceau                 ot mOR-so                     avoir un autre morceau de
-21098être celui                    Et sl8i                       peut être celui là .
-21114être qu'                      Et k                          peut être qu' il y avait
+21098peut-être celui               p2-tEt sl8i                   peut-être celui là .
+21114peut-être qu'                 p2-tEt k                      peut-être qu' il y avait un
 21114autre morceau                 ot mOR-so                     avait un autre morceau avant
-21115être que                      Et k2                         , peut être que oui
-21116être faire                    Et fER                        pourrait peut être faire la
-21122être faire                    Et fER                        pourrait peut être faire la
-21124être le                       Et l2                         est peut être le bleu
+21115peut-être que                 p2-tEt k2                     hein , peut-être que oui ,
+21116peut-être faire               p2-tEt fER                    on pourrait peut-être faire la petite
+21122peut-être faire               p2-tEt fER                    on pourrait peut-être faire la petite
+21124peut-être le                  p2-tEt l2                     c(e) est peut-être le bleu de
 21126autre bleu                    ot bl2                        ai un autre bleu .
-21131être que                      Et k2                         et peut être que ça
-21132être que                      Et k2                         peut être que oui .
+21131peut-être que                 p2-tEt k2                     aussi et peut-être que ça
+21132peut-être que                 p2-tEt k2                     peut-être que oui .
 21164autres morceaux               ot mOR-so                     , les autres morceaux ,
 21166prendre lui                   pR@d l8i                      tu veux prendre lui ?
-21187être là                       Et la                         va peut être là .
+21187peut-être là                  p2-tEt la                     il va peut-être là .
 21209être carré                    Et ka-Re                      si * être carré comme
 21210autre coin                    ot kw5                        as un autre coin .
 21211mettre là                     mEt la                        va LE mettre là .
@@ -1131,7 +1131,7 @@
 21425montres TU                    m§t ty                        tu ME montres TU comment jouer
 21449autre cheval                  ot S°-val                     avoir un autre cheval .
 21450autre cheval                  ot S°-val                     avoir un autre cheval ?
-21464être s'                       Et s                          peut peut être s' asseoir
+21464peut-être s'                  p2-tEt s                      il peut peut-être s' asseoir .
 21466pauvre Petit                  pov p°-ti                     oh ben pauvre Petit brun .
 21472rentre LE                     R@t l2                        rentre LE comme il faut !
 21475pauvre Petit                  pov p°-ti                     pauvre Petit brun .
@@ -1151,7 +1151,7 @@
 21653mettre là                     mEt la                        peux LE mettre là dessus
 21666mettre par                    mEt paR                       va LE mettre par terre
 21697autre qui                     ot ki                         quoi d' autre qui va là
-21707être qu'                      Et k                          peut être qu' on verra mieux
+21707peut-être qu'                 p2-tEt k                      peut-être qu' on verra mieux ,
 21715mettre dedans                 mEt d°-d@                     vais LE mettre dedans .
 21753montre MOI                    m§t mwa                       montre MOI donc !
 21787mettre par                    mEt paR                       TU LA mettre par dessus
@@ -1165,7 +1165,7 @@
 21871autre côté                    ot ko-te                      de l' autre côté .
 21882montre MOI                    m§t mwa                       montre MOI !
 21917mettre de                     mEt d2                        va LE mettre de nouveau
-21950être des                      Et de                         est peut être des bleuets
+21950peut-être des                 p2-tEt de                     c(e) est peut-être des bleuets .
 21964mettre dans                   mEt d@                        juste LA mettre dans sa
 21975prendre là                    pR@d la                       pas LA prendre là .
 22050montre MOI                    m§t mwa                       montre MOI donc tes doigts ,
@@ -1173,16 +1173,16 @@
 22080mettre le                     mEt l2                        on pourrait mettre le petit
 22085autre côté                    ot ko-te                      de l' autre côté .
 22092autre côté                    ot ko-te                      de l' autre côté comme
-22106être LE                       Et l2                         peut peut être LE mettre
-22106mettre pour                   mEt puR                       être LE mettre pour la
-22122être qu'                      Et k                          peut être qu' il pourrait marcher
+22106peut-être LE                  p2-tEt l2                     on peut peut-être LE mettre pour
+22106mettre pour                   mEt puR                       peut-être LE mettre pour la
+22122peut-être qu'                 p2-tEt k                      peut-être qu' il pourrait marcher avec
 22123mettre le                     mEt l2                        on pourrait mettre le chien sur
 22150montre MOI                    m§t mwa                       montre MOI donc !
 22179mettre sur                    mEt syR                       va LE mettre sur le
 22203montre MOI                    m§t mwa                       ben montre MOI QU' .
 22239pauvre petit                  pov p°-ti                     pauvre petit garçon .
 22255remettre le                   R°-mEt l2                     on peut remettre le casque .
-22259être faire                    Et fER                        pourrait peut être faire le
+22259peut-être faire               p2-tEt fER                    on pourrait peut-être faire le chien
 22285mettre là                     mEt la                        voudrais LE mettre là dessus
 22298mettre ça                     mEt sa                        on va mettre ça comme ça
 22303mettre là                     mEt la                        va LE mettre là .
@@ -1192,7 +1192,7 @@
 22383autres morceaux               ot mOR-so                     trouver les autres morceaux .
 22391montre MOI                    m§t mwa                       montre MOI donc !
 22398autre petit                   ot p°-ti                      trouver un autre petit banc
-22399être celui                    Et sl8i                       ben peut être celui ci aussi
+22399peut-être celui               p2-tEt sl8i                   ben peut-être celui ci aussi ,
 22426être mieux                    Et mj2                        tu vas être mieux là
 22429mettre là                     mEt la                        pas te mettre là dedans
 22441mettre là                     mEt la                        va LA mettre là .
@@ -1201,7 +1201,7 @@
 22511ressemble beaucoup            R°-s@b bo-ku                  il TE ressemble beaucoup ,
 22538prendre sa                    pR@d sa                       va pas prendre sa banane
 22551autre comme                   ot kOm                        pas d' autre comme quoi
-22589être qu'                      Et k                          ben peut être qu' on
+22589peut-être qu'                 p2-tEt k                      ah ben peut-être qu' on
 22631mettre des                    mEt de                        on va mettre des mains .
 22634montre MOI                    m§t mwa                       montre MOI donc !
 22639montre MOI                    m§t mwa                       montre MOI donc !
@@ -1231,7 +1231,7 @@
 22950montre MOI                    m§t mwa                       montre MOI !
 22952montre MOI                    m§t mwa                       montre MOI !
 22957montre MOI                    m§t mwa                       mais montre MOI son visage !
-22961être juste                    Et Zyst                       est peut être juste un
+22961peut-être juste               p2-tEt Zyst                   c(e) est peut-être juste un bonhomme
 22966montre MOI                    m§t mwa                       montre MOI !
 22989autre qui                     ot ki                         quelqu'un d' autre qui va
 23013montre MOI                    m§t mwa                       montre MOI donc !
@@ -1246,13 +1246,13 @@
 23124prendre celui                 pR@d sl8i                     je peux prendre celui là
 23126être le                       Et l2                         ça va être le mien
 23146mettre dedans                 mEt d°-d@                     faut LA mettre dedans ?
-23161être de                       Et d2                         pensais peut être de faire
-23203être qu'                      Et k                          peut être qu' il (n' )
+23161peut-être de                  p2-tEt d2                     je pensais peut-être de faire
+23203peut-être qu'                 p2-tEt k                      peut-être qu' il (n' ) y
 23209ressemblent beaucoup          R°-s@b bo-ku                  ils se ressemblent beaucoup .
 23212autre morceau                 ot mOR-so                     prendre un autre morceau .
-23217être qu'                      Et k                          peut être qu' il aime ça
+23217peut-être qu'                 p2-tEt k                      peut-être qu' il aime ça ,
 23275mettre ta                     mEt ta                        tu peux mettre ta cuillère
-23337être qu'                      Et k                          ah peut être qu' i(l) y
+23337peut-être qu'                 p2-tEt k                      ah peut-être qu' i(l) y en
 23362autre côté                    ot ko-te                      par l' autre côté !
 23369autre plat                    ot pla                        chercher un autre plat pour
 23437montre MOI                    m§t mwa                       montre MOI donc le petit doigt
@@ -1318,8 +1318,8 @@
 24389mettre les                    mEt le                        faut * mettre les deux
 24396autre partie                  ot paR-ti                     , l' autre partie .
 24400autre partie                  ot paR-ti                     * l' autre partie !
-24401être que                      Et k2                         ou peut être que Elmo peut
-24413être qu'                      Et k                          peut être qu' on va voir
+24401peut-être que                 p2-tEt k2                     ou peut-être que Elmo peut LE
+24413peut-être qu'                 p2-tEt k                      peut-être qu' on va voir quand
 24512mettre là                     mEt la                        veux LE mettre là ?
 24519ouvre LA                      uv la                         , ben ouvre LA !
 24571autre monsieur                ot m°-sj2                     faire un autre monsieur Patate
@@ -1334,7 +1334,7 @@
 24722être correct                  Et ko-REkt                    ça va être correct , Max
 24740mettre sur                    mEt syR                       veux LE mettre sur la
 24750être correct                  Et ko-REkt                    il va être correct ,
-24770être que                      Et k2                         peut être que ça marchera mieux
+24770peut-être que                 p2-tEt k2                     peut-être que ça marchera mieux .
 24779montre MOI                    m§t mwa                       montre MOI donc !
 24804mettre le                     mEt l2                        réussir à mettre le pont
 24822mettre dessus                 mEt d°-sy                     peut le mettre dessus .
@@ -1353,7 +1353,7 @@
 24948prendre par                   pR@d paR                      vais LE prendre par l'
 24948autre bout                    ot bu                         par l' autre bout .
 24950suivre Catherine              s8iv ka-t2-Rin                on va suivre Catherine .
-24986être plus                     Et ply                        a peut être plus mal
+24986peut-être plus                p2-tEt ply                    ) a peut-être plus mal
 25096mettre là                     mEt la                        va LE mettre là .
 25119mettre de                     mEt d2                        vais LE mettre de l'
 25119autre côté                    ot ko-te                      de l' autre côté comme
@@ -1369,10 +1369,10 @@
 25312être pas                      Et pa                         (n' ) être pas couché
 25317ronfle fort                   R§f fOR                       fait il ronfle fort fort
 25373rouvre les                    Ruv le                        on LUI rouvre les * ?
-25374être que                      Et k2                         mais peut être que ça
+25374peut-être que                 p2-tEt k2                     a mais peut-être que ça
 25380autre côté                    ot ko-te                      de l' autre côté ,
 25384remettre dedans               R°-mEt d°-d@                  va LE remettre dedans .
-25388être qu'                      Et k                          oh peut être qu' on pèse
+25388peut-être qu'                 p2-tEt k                      oh peut-être qu' on pèse au
 25446mettre sur                    mEt syR                       veux LE mettre sur le
 25458capable de                    ka-pab d2                     t(u) es capable de LE faire
 25461montre MOI                    m§t mwa                       montre MOI donc !
@@ -1388,7 +1388,7 @@
 25793mettre dans                   mEt d@                        ah pour mettre dans l' auto
 25804ressemble pas                 R°-s@b pa                     ça ne ressemble pas à ça
 25816montre MOI                    m§t mwa                       montre MOI comment ça marche ,
-25820être que                      Et k2                         mais peut être que ça va
+25820peut-être que                 p2-tEt k2                     mais peut-être que ça va après
 25820autre camion                  ot ka-mj§                     après un autre camion .
 25847autres petits                 ot p°-ti                      , d' autres petits camions
 25891mettre comme                  mEt kOm                       veux te mettre comme ça
@@ -1412,7 +1412,7 @@
 26367mettre des                    mEt de                        on peut mettre des petits
 26370rentre dedans                 R@t d°-d@                     si il rentre dedans .
 26371rentre dedans                 R@t d°-d@                     ben il rentre dedans mais il
-26371être tomber                   Et t§-be                      va peut être tomber .
+26371peut-être tomber              p2-tEt t§-be                  il va peut-être tomber .
 26374mettre là                     mEt la                        va LE mettre là .
 26375rentre vraiment               R@t vRE-m@                    , il rentre vraiment dedans
 26377prendre la                    pR@d la                       peux TU prendre la jaune
@@ -1424,9 +1424,9 @@
 26492autre chose                   ot Soz                        jouer à autre chose ,
 26510autre côté                    ot ko-te                      et l' autre côté c(e)
 26523être content                  Et k§-t@                      il doit être content , crocro
-26550être ça                       Et sa                         peut être ça va être mieux
+26550peut-être ça                  p2-tEt sa                     peut-être ça va être mieux comme
 26550être mieux                    Et mj2                        ça va être mieux comme
-26661être que                      Et k2                         eh peut être que je sais
+26661peut-être que                 p2-tEt k2                     eh peut-être que je sais comment
 26695autre vaisseau                ot vE-so                      est un autre vaisseau spatial
 26700autres sont                   ot s§                         ouais les autres sont toute de
 26728autre jour                    ot ZuR                        un l' autre jour comme
@@ -1533,7 +1533,7 @@
 30086table de                      tab d2                        sur la table de nuit ,
 30105montre c(e)                   m§t s                         est la montre c(e) est
 30132table sur                     tab syR                       sur la table sur sa
-30147être perdue                   Et pER-dy                     a peut être perdue .
+30147peut-être perdue              p2-tEt pER-dy                 L' a peut-être perdue .
 30160mettre du                     mEt dy                        veux LUI mettre du lait
 30234autre côté                    ot ko-te                      de l' autre côté ,
 30262livre de                      liv d2                        regarde le livre de Mimi
