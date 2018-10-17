@@ -87,6 +87,30 @@ def print_line(current_line, processed_lines, filename):
 		continue_line = 0
 	return continue_line, processed_lines
 
+def correct_names_lyon_corpus(current_line, file):
+	# Correction of name spellings which were shortened in Lyon corpus
+	current_line = re.sub('( ana | Ana )', ' Anaïs ', current_line)
+	current_line = re.sub('Ana ', 'Anaïs ', current_line)
+	current_line = re.sub('( chl | Chl )', ' Chloé ', current_line)
+	current_line = re.sub('Chl ', 'Chloé ', current_line)
+	current_line = re.sub('( nat | Nat )', ' Nathan ', current_line)
+	current_line = re.sub('Nat ', 'Nathan ', current_line)
+	current_line = re.sub('( jea | Jea )', ' Jean ', current_line)
+	current_line = re.sub('Jea ', 'Jean ', current_line)
+	current_line = re.sub('( tim | Tim )', ' Théotime ', current_line)
+	current_line = re.sub('Tim ', 'Théotime ', current_line)
+	current_line = re.sub('( ger | Ger )', ' Géraldine ', current_line)
+	current_line = re.sub('Ger ', 'Géraldine ', current_line)
+	if   file[:3] == 'ana':
+		current_line = current_line.replace('Chi ', 'Anaïs ').replace('Mar ','Marc ').replace('Fle ','Fleur ')
+	elif file[:3] == 'mar':
+		current_line = current_line.replace('Chi ', 'Marie ').replace('Mar ', 'Marie ')
+	elif file[:3] == 'nat':
+		current_line = current_line.replace('Chi ', 'Nathan ').replace('Bro ','Jean ').replace('Mar ', 'Marie ')
+	elif file[:3] == 'tim':
+		current_line = current_line.replace('Chi ', 'Théotime ').replace('Mar ', 'Marie ')
+	return current_line
+
 for corpusdir in dirlist:
 	print 'Processing corpus:', corpusdir
 	input_location = root + '\\' + corpusdir + '\\raw'
@@ -103,7 +127,6 @@ for corpusdir in dirlist:
 	for file in os.listdir(input_location):
 		try:
 			if file.endswith(".cha"):
-				print "cha file found:\t", file
 				chafiles.append(str(file))
 				counter = counter + 1
 		except Exception as e:
@@ -147,12 +170,14 @@ for corpusdir in dirlist:
 						start_text = 0
 					thisline = line[start_text:]
 					newline  = clean_text(thisline)
-					# Final corrections (punctuation marks):
+					# Final corrections (punctuation marks, correction of names):
 					newline = newline.split()
 					if (len(newline) > 0):
-						if (continue_line == 0) and (newline[0]==','): # Note: only do this in first line of a dialog
+						if (continue_line == 0) and (newline[0]==','): # Note: only do this in first line of a dialogue
 							newline = newline[1:] # Get rid of any comma left at the beginning of the line
 						newline = ' '.join(newline)
+						if corpusdir == 'lyon':
+							newline = correct_names_lyon_corpus(newline, file)
 						
 						# Print:
 						if (continue_line == 1):
