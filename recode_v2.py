@@ -148,7 +148,7 @@ with open('auxiliary/h_aspire.txt') as Hlist:
 		line = line.strip()
 		h_aspire.append(line)
 # (2) Other words (interjections and others)
-exceptions_next = ['et', 'oh', 'euh', 'hum', 'oui', 'ouais', 'ouah', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends', 'whisky', 'yaourt', 'yéti']
+exceptions_next = ['et', 'oh', 'euh', 'hum', 'oui', 'ouais', 'ouah', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends', 'whisky', 'yaourt', 'yéti', 'aussi']
 exceptions_next = exceptions_next + h_aspire
 
 
@@ -175,16 +175,9 @@ always_except['leurs'] = exceptions_next
 always_except['aux']   = exceptions_next
 always_except['aucun'] = exceptions_next
 always_except['tout']  = exceptions_next + ['il', 'ils', 'elle', 'elles', 'on']
-always_except['toutes'] = exceptions_next
 always_except['quels']  = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['quelles']  = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['quelques'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except['lesquels'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except['lesquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except['auxquels']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except['auxquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except['desquels']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except['desquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['plusieurs']  = exceptions_next
 always_except['certains']   = exceptions_next
 always_except['certaines']  = exceptions_next
@@ -196,17 +189,26 @@ always_except['ils']    = exceptions_next
 always_except['elles']  = exceptions_next
 always_except['est']  = exceptions_next + ['adrien']
 always_except['ont']  = exceptions_next
-always_except['chez'] = exceptions_next
-always_except['dans'] = exceptions_next
-always_except['en']   = exceptions_next
+always_except['en']   = exceptions_next + ['un', 'une']
 always_except['sans'] = exceptions_next
 always_except['sous'] = exceptions_next
 always_except['plus'] = exceptions_next + ['après']
-always_except['moins'] = exceptions_next
 always_except['très']  = exceptions_next
 always_except['bien']  = exceptions_next + ['écoutez', 'écoute', 'il', 'elle', 'on', 'aussi']
-always_except['trop']  = exceptions_next
-always_except['beaucoup'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
+
+# Cases removed due to optional status:
+#always_except['chez'] = exceptions_next # Decision: it is optional, so remove (17/oct/2018)
+#always_except['dans'] = exceptions_next # Moved to only-before (17/oct/2018)
+#always_except['trop']  = exceptions_next # Decision: it is optional, so remove (17/oct/2018)
+#always_except['beaucoup'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
+#always_except['moins'] = exceptions_next # Decision: it rarely occurs in the right context, so remove (17/oct/2018)
+#always_except['toutes'] = exceptions_next # Decision: not mandatory, remove
+#always_except['lesquels'] = exceptions_next + ['il', 'ils', 'elle', 'elles'] # Decision: these cases (lesquels,lesquelles,auxquels, etc) rarely appear and if they do, they're not correct, so remove (17/oct/2018)
+#always_except['lesquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
+#always_except['auxquels']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
+#always_except['auxquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
+#always_except['desquels']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
+#always_except['desquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
 
 # (2) Adjectives:
 for adjective in adjectives:
@@ -277,6 +279,7 @@ only_before['comment'] = 'allez'
 only_before['quand']   = ['il', 'elle','on', 'ils','elles']
 only_before['quant']   = ['à', 'aux']
 only_before['avait']   = ['il', 'elle', 'on'] #['un', 'une']
+only_before['dans']    = ['un', 'une']
 #only_before['aller']   = ['à', 'au'] # Not mandatory 
 
 ## Denasalization cases:

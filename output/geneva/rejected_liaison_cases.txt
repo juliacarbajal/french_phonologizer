@@ -42,6 +42,7 @@
 363 montrer à                     on va montrer à papa .
 382 photos après                  avec les photos après !
 387 mets où                       je la mets où ?
+388 chez elle                      mets la chez elle !
 392 maman elle                     marie , maman elle va
 401 cheveux hein                   fou les cheveux hein ?
 406 viennent aussi                 p(e)luches elles viennent aussi dans
@@ -169,6 +170,7 @@
 1244 fais attention                 fais attention à toi .
 1244 attention à                   fais attention à toi .
 1245 es un                          t(u) es un peu trop au
+1245 trop au                        un peu trop au bord
 1256 lapin aussi                    bout de lapin aussi ?
 1263 un yaourt                      as mangé un yaourt ?
 1266 pas à                         c' est pas à moi
@@ -297,6 +299,7 @@
 2233 alors on                       accord , alors on va
 2236 est où                        , il est où le
 2238 est où                        , il est où le
+2239 est aussi                      ça c' est aussi un
 2240 est où                        , il est où ?
 2250 pas un                         c' est pas un chat ça
 2259 et un                          et un chat .
@@ -316,6 +319,7 @@
 2366 ouvert oui                     est déjà ouvert oui .
 2369 stores ouais                   est des stores ouais .
 2370 volets ici                     pas des volets ici .
+2373 est aussi                      kahid c' est aussi des
 2379 bien aussi                     j' aimerais bien aussi un
 2381 peux encore                    euh j(e) peux encore choisir .
 2398 maman ou                       pour maman ou pour marie ?
@@ -407,6 +411,7 @@
 2931 alors on                       bon alors on les range *
 2935 directement alors              la boîte directement alors .
 2947 donner à                      on pourrait donner à louis
+2954 est aussi                      , il est aussi trop
 2959 livres il                      pour les livres il est trop
 2966 enlever alors                  vais l' enlever alors .
 2971 fait exprès                   c' est fait exprès .
@@ -529,6 +534,7 @@
 3540 gens on                        viennent les gens on peut
 3542 christian et                   peut-être appeler christian et gloria
 3543 christian et                   connais pas christian et gloria
+3544 chez eux                       ils sont chez eux .
 3548 seras au                       quand tu seras au lit
 3550 vas où                        tu vas où ?
 3579 christian et                   christian et gloria ?
@@ -621,6 +627,7 @@
 4164 doit être                     , il doit être .
 4165 doit être                     il doit être au salon .
 4176 lapin et                       avec le lapin et les canards
+4183 est aussi                      ça c' est aussi un petit
 4195 cerf oui                       le cerf oui , il y
 4204 pas encore                     pas encore fini .
 4209 pas encore                     j' ai pas encore fini .
@@ -633,6 +640,7 @@
 4293 fait un                        tu as fait un noeud à
 4293 noeud à                       fait un noeud à ta
 4302 retourner au                   tu veux retourner au lit ?
+4318 est aussi                      guignol il est aussi couché
 4320 couches à                     tu te couches à côté de
 4348 lapin et                       avec le lapin et le
 4348 met en                         on les met en haut
@@ -721,6 +729,7 @@
 5005 en haut                        à mettre en haut .
 5010 mais il                        mais il y en a des
 5027 chien avec                     est un chien avec le
+5033 toutes ouvert                  on a toutes ouvert les
 5033 pouvait ouvrir                 qu' on pouvait ouvrir jusqu'
 5036 chaussettes et                 prendre les chaussettes et les
 5036 amener à                      et les amener à maman
@@ -739,6 +748,7 @@
 5116 dedans aussi                   là dedans aussi tu peux dessiner
 5122 lapin aussi                    un petit lapin aussi , oui
 5123 et un                          et un petit canard , oui
+5125 est aussi                      , c' est aussi un
 5126 plutôt une                    c' est plutôt une balle
 5128 crayon ici                     pas de crayon ici .
 5142 veux aller                     tu veux aller dans le dos
@@ -947,6 +957,7 @@
 6338 fais attention                 fais attention si elle va à
 6353 maman elle                     mais maman elle est pas là
 6372 alors on                       alors on va aller changer la
+6375 beaucoup avec                  déjà fait beaucoup avec papa
 6376 alors encore                   alors encore quelques bulles , puis
 6376 puis après                    bulles , puis après on
 6376 après on                      , puis après on fait

@@ -1765,7 +1765,6 @@
 3377   c' est                        se                           c' est ses yeux !
 3377   ses yeux                      se zj2                        c' est ses yeux !
 3380   il est                        i le                          ah il est trop petit aussi
-3380   petit aussi                   p°-ti to-si                   est trop petit aussi !
 3381   c' est                        set                          pi c' est une image !
 3381   est une                       se tyn                        pi c' est une image !
 3381   une image                     ty ni-maZ                     c' est une image !
@@ -2173,8 +2172,7 @@
 4239   t' en                         t@                           , je t' en donne
 4239   donne un                      dO n1                         t' en donne un là
 4242   c' est                        se                           est , c' est la
-4243   prends en                     pR@ z@n                       prends en un !
-4243   en un                         z@ n1                         prends en un !
+4243   prends en                     pR@ z@                        prends en un !
 4253   c' est                        se                           c' est là .
 4255   c' est                        set                          oui , c' est une poche
 4255   est une                       se tyn                        , c' est une poche
@@ -2789,7 +2787,7 @@
 5336   l' assiette                   la-sjEt                      côté de l' assiette !
 5337   l' assiette                   la-sjEt                      bord de l' assiette .
 5338   c' est                        se                           ça c' est vert aussi .
-5338   vert aussi                    vER to-si                     c' est vert aussi .
+5338   vert aussi                    vE Ro-si                      c' est vert aussi .
 5339   il est                        i le                          il est cassé aussi ?
 5342   elle a                        E la                          elle a pas parlé de colotte
 5342   elle a                        E la                          de colotte elle a parlé
@@ -3328,7 +3326,6 @@
 6207   chambre à                     S@ bRa                        dans la chambre à moi ,
 6207   chambre à                     S@ bRa                        dans la chambre à claire
 6211   les épingles                  le ze-p5gl                    les épingles !
-6216   moins on                      mw5 z§                        au moins on l' entend arriver
 6216   l' entend                     l@-t@                        moins on l' entend arriver
 6219   elle arrive                   E la-Riv                      elle arrive à l' ouvrir toute
 6219   arrive à                      la-Ri va                      elle arrive à l' ouvrir toute
@@ -3591,7 +3588,6 @@
 6610   t' as                         ta                           t' as vu , personne lui
 6610   bon anniversaire              bO na-ni-vER-sER              a dit bon anniversaire !
 6611   c' est                        se                           c' est qui le nounours là
-6613   chez elle                     Se zEl                        elle rentre chez elle ?
 6615   qu' elle                      kEl                          mais tandis qu' elle pousse la
 6616   petite oursonne               p°-ti tuR-sOn                 la petite oursonne entends crier de
 6616   oursonne entends              tuR-sO n@-t@                  la petite oursonne entends crier de
@@ -3633,7 +3629,6 @@
 6663   d' an                         d@                           a pas d' an !
 6664   il a                          i la                          bébé il a .
 6665   d' an                         d@                           pas d' an !
-6667   moins une                     mw5 zyn                       moins une semaine !
 6669   il est                        i le                          il est dans mon ventre le
 6674   par exemple                   pa REg-z@pl                   tout ça par exemple !
 6675   tout à                        tu ta                         pas tout à l' heure ,

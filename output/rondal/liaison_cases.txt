@@ -1,6 +1,5 @@
 26   des images                    dez i-maZ                     y a des images .
 30   prends en                     pR@z @                        prends en un autre .
-30   en un                         @n 1                          prends en un autre .
 30   un autre                      1n otR                        prends en un autre .
 49   est un                        et 1                          toto c' est un train
 52   est un                        et 1                          non c' est un p' tit
@@ -30,7 +29,6 @@
 365  en avant                      @n a-v@                       tes mains en avant .
 366  en avant                      @n a-v@                       en avant les mains .
 406  en a                          @n a                          y en a beaucoup y a
-406  beaucoup y                    bo-kup i                      en a beaucoup y a
 422  ils ont                       ilz §                         ils ont chaud ?
 439  les enfants                   lez @-f@                      ou bien les enfants ?
 441  les enfants                   lez @-f@                      les enfants vont .
@@ -94,7 +92,6 @@
 1569 des enfants                   dez @-f@                      i' mettemt des enfants .
 1570 des enfants                   dez @-f@                      est pas des enfants qu'
 1625 est un                        et 1                          m c' est un crayon pas
-1684 chaud aussi                   Sot o-si                      papa est chaud aussi .
 1729 en as                         @n a                          t' en as deja un de
 1734 en as                         @n a                          t' en as encore perdu un
 1735 en as                         @n a                          maman t' en as donne quatre
@@ -139,7 +136,6 @@
 2507 est une                       et yn                         ah c' est une une quoi
 2608 les oreilles                  lez o-REj                     ce sont les oreilles ca .
 2610 les oreilles                  lez o-REj                     les oreilles oui .
-2642 beaucoup m                    bo-kup Em                     * pas beaucoup m .
 2685 est assise                    et a-siz                      fille s' est assise sur
 2687 est assise                    et a-siz                      la elle est assise la
 2748 un oiseau                     1n wa-zo                      ah oui un oiseau .
@@ -169,7 +165,6 @@
 3237 ton auto                      t§n o-to                      cle d' ton auto ou
 3237 est elle                      et El                         auto ou est elle .
 3261 prends en                     pR@z @                        prends en une et puis donne
-3261 en une                        @n yn                         prends en une et puis donne
 3287 est un                        et 1                          ca c' est un jouet .
 3296 vont ils                      v§t il                        ou vont ils ?
 3300 on a                          §n a                          oh on a ecrit sur le
@@ -217,7 +212,6 @@
 4196 les oeufs                     lez 2                         les oeufs les yeux du chasseur
 4196 les yeux                      lez j2                        les oeufs les yeux du chasseur
 4201 un arbre                      1n aRbR                       un arbre .
-4247 est aussi                     et o-si                       ca c' est aussi .
 4251 est une                       et yn                         c' est une petite maison .
 4285 tout a                        tut a                         tout a l' heure on ecout'
 4291 quand on                      k@t §                         quand on aura tire quand on
@@ -281,7 +275,6 @@
 4882 est il                        et il                         il ou est il le
 4889 les arbres                    lez aRbR                      celle avec les arbres la
 4893 est encore                    et @-kOR                      ca c' est encore une
-4898 est aussi                     et o-si                       fille c' est aussi tante
 5002 en a                          @n a                          y en a en d' sous
 5003 en a                          @n a                          y en a dans la boite
 5007 est un                        et 1                          ah c' est un peu mieux
@@ -450,7 +443,6 @@
 7344 froid a                       fRwat a                       i' fait froid a tes pieds
 7360 un s                          1n Es                         oeil d' un s d'
 7360 un aveugle                    1n a-v9gl                     s d' un aveugle ca
-7368 beaucoup a                    bo-kup a                      donnes pas beaucoup a papa
 7388 vous en                       vuz @                         vous en voulez encore ?
 7412 on en                         §n @                          non on en a eu assez
 7412 en a                          @n a                          non on en a eu assez
@@ -569,7 +561,6 @@
 9164 vous aurez                    vuz o-Re                      en belgique vous aurez une
 9164 des escarpolettes             dez Es-kaR-po-lEt             aurez une des escarpolettes et
 9165 on appelle                    §n a-pEl                      est-ce qu' on appelle ca
-9216 chez elle                     Sez El                        est rentree chez elle .
 9296 des oranges                   dez o-R@Z                     mange pas des oranges maint'
 9319 quand on                      k@t §                         apres quand on aura de la
 9319 on aura                       §n o-Ra                       apres quand on aura de la
@@ -652,7 +643,6 @@
 10220quand on                      k@t §                         et puis quand on est coupe
 10220on est                        §n e                          puis quand on est coupe
 10222quand on                      k@t §                         qui vient quand on se
-10253beaucoup a                    bo-kup a                      a encore beaucoup a ramasser
 10272des avions                    dez a-vj§                     a vu des avions lui
 10274gros avions                   gRoz a-vj§                    vu des gros avions stephane
 10278dans un                       d@z 1                         es alle dans un petit
@@ -739,7 +729,6 @@
 11356on aille                      §n aj                         veux qu' on aille faire
 11372dans une                      d@z yn                        les tickets dans une petite
 11379est une                       et yn                         oui c' est une petite maison
-11387est aussi                     et o-si                       c' est aussi un morceau du
 11388est une                       et yn                         c' est une estrade .
 11419les autos                     lez o-to                      comme ca les autos peuvent
 11421les autos                     lez o-to                      comme ca les autos n'
@@ -754,11 +743,9 @@
 11601est a                         et a                          c' est a toi ?
 11638quand on                      k@t §                         et puis quand on aura fini
 11638on aura                       §n o-Ra                       puis quand on aura fini
-11649brun aussi                    bR1n o-si                     il est brun aussi l' aut'
 11650est un                        et 1                          il est un peu rouge il
 11656on a                          §n a                          on a dit qu' on l'
 11690est un                        et 1                          c' est un si grand garcon
-11701chez eux                      Sez 2                         i sont chez eux dans
 11704on est                        §n e                          oui mais on est revenu maint'
 11707les assiettes                 lez a-sjEt                    la table les assiettes sur
 11731ton ami                       t§n a-mi                      ton ami ?
@@ -1044,7 +1031,6 @@
 14371est une                       et yn                         ohoh c' est une madame qui
 14372est une                       et yn                         c' est une madame qui telephone
 14401quand on                      k@t §                         pas bien quand on met
-14429dans aussi                    d@z o-si                      monsieur va dans aussi ?
 14433dans un                       d@z 1                         ah pas dans un magasin .
 14453on est                        §n e                          on est alle au magasin pour
 14454on est                        §n e                          cadeau qu' on est alle
@@ -1053,7 +1039,6 @@
 14458on a                          §n a                          c' qu' on a fait
 14460on a                          §n a                          c' qu' on a fait
 14462on est                        §n e                          on est alle chez une madame
-14462chez une                      Sez yn                        est alle chez une madame
 14470on a                          §n a                          c' qu' on a fait
 14472on a                          §n a                          c' qu' on a fait
 14473on a                          §n a                          c' qu' on a fait
@@ -1112,9 +1097,7 @@
 15038est un                        et 1                          c' est un bobo ?
 15039on a                          §n a                          est-ce qu' on a mis
 15041on a                          §n a                          est-ce qu' on a fait
-15047beaucoup un                   bo-kup 1                      ah pas beaucoup un p' tit
 15051on a                          §n a                          est-ce qu' on a mis
-15061bas aussi                     baz o-si                      et les bas aussi on
 15061on a                          §n a                          bas aussi on a les
 15070des autres                    dez otR                       faudra mettre des autres souliers tantot
 15070des autres                    dez otR                       nant et des autres bas
@@ -1189,7 +1172,6 @@
 15655est au                        et o                          qu' c' est au p'
 15665quand on                      k@t §                         c' etait quand on est alles
 15665on est                        §n e                          etait quand on est alles
-15674chez elle                     Sez El                        elle est chez elle suzanne .
 15720est un                        et 1                          c' est un popsickle ca ?
 15721est un                        et 1                          c' est un gros popsickle ?
 15723est un                        et 1                          ca c' est un popsickle ?
@@ -1236,14 +1218,9 @@
 16267quand on                      k@t §                         quand on s' fache n' est-ce
 16295est une                       et yn                         c' est une ardoise hein ca
 16296tes affaires                  tez a-fER                     attention a tes affaires hein
-16311chez eux                      Sez 2                         i' restent chez eux ?
-16312chez eux                      Sez 2                         i' restent chez eux ?
-16313chez eux                      Sez 2                         ils restent chez eux ?
-16314chez eux                      Sez 2                         i' restent chez eux dans
 16317en anglais                    @n @-glE                      i' parlent en anglais ?
 16320en anglais                    @n @-glE                      comment ca en anglais ?
 16323en anglais                    @n @-glE                      comment ca en anglais ?
-16339beaucoup a                    bo-kup a                      a laisse beaucoup a stephane
 16358on a                          §n a                          oui on a pousse sur le
 16359on a                          §n a                          oui on a fait une photo
 16365les a                         lez a                         laisse les a terre laisse les
@@ -1382,7 +1359,6 @@
 17885on est                        §n e                          et on est alles au birthday
 17887on on                         §n §                          on on n' est pas alles
 17894on est                        §n e                          et on est alles au birthday
-17894chez une                      Sez yn                        au birthday chez une petite
 17897on avait                      §n a-vE                       on avait pris l' auto .
 17904plus oublier                  plyz u-bli-je                 n' vas plus oublier .
 17921son auto                      s§n o-to                      elle est son auto ?
@@ -1434,7 +1410,6 @@
 18278est une                       et yn                         c' est une horloge ca .
 18279les autos                     lez o-to                      d' temps les autos elles
 18287est un                        et 1                          c' est un dessin stephan .
-18289est aussi                     et o-si                       c' est aussi pour faire marcher
 18291les autos                     lez o-to                      pour faire les autos d' sus
 18302est un                        et 1                          non c' est un qui n'
 18371est un                        et 1                          ca c' est un wagon
@@ -1498,7 +1473,6 @@
 18939est un                        et 1                          c' est un dessin sur le
 18962est a                         et a                          c' est a maman la bequille
 19010ont un                        §t 1                          pierrot i' ont un petit
-19012ont aussi                     §t o-si                       i' s ont aussi un
 19017plus elle                     plyz El                       mamy non plus elle n' a
 19039quand il                      k@t il                        quand il y a de la
 19057est un                        et 1                          c' est un arbre ou on
@@ -1565,7 +1539,6 @@
 19589ton avion                     t§n a-vj§                     la boite ton avion .
 19596est une                       et yn                         c' est une belle petite auto
 19622en a                          @n a                          i' y en a deux que
-19629dans en                       d@z @                         avion va dans en l'
 19630quand on                      k@t §                         avion hein quand on est
 19630on est                        §n e                          hein quand on est dans
 19630quand on                      k@t §                         bien ferme quand on va
@@ -1574,7 +1547,6 @@
 19665on a                          §n a                          c' qu' on a ici
 19668en a                          @n a                          t' en a mis ?
 19669en a                          @n a                          tu n' en a pas
-19674lesquels i'                   lE-kElz i                     tuyaux dans lesquels i' y
 19696les autos                     lez o-to                      ah non les autos n' vont
 19707un accident                   1n ak-si-d@                   as fait un accident ?
 19711un accident                   1n ak-si-d@                   * fait un accident ?
@@ -1593,7 +1565,6 @@
 19830on ecoute                     §n e-kut                      oreilles qu' on ecoute .
 19837est a                         et a                          qu' il est a la
 19846on entend                     §n @-t@                       on entend papa hein ?
-19853chez elle                     Sez El                        chez elle .
 19858un autre                      1n otR                        un autre .
 19863des autos                     dez o-to                      as demande des autos sur
 19868est un                        et 1                          ca c' est un bonnet
@@ -1623,7 +1594,6 @@
 20122les oiseaux                   lez wa-zo                     oh les oiseaux ?
 20125un arbre                      1n aRbR                       arretent sur un arbre les
 20170on enregistre                 §n @R-ZistR                   on enregistre .
-20197chez elle                     Sez El                        elle est chez elle maint' nant
 20207des histoires                 dez is-twaR                   en racontes des histoires .
 20212un un                         1n 1                          un un grand garcon ?
 20217est un                        et 1                          tchitchi c' est un garcon
@@ -1731,9 +1701,7 @@
 21254est un                        et 1                          c' est un dessin .
 21270quand on                      k@t §                         quand on aura enregistre stephane .
 21270on aura                       §n o-Ra                       quand on aura enregistre stephane .
-21271trop en                       tRop @                        tu mets trop en bouche stephane
 21282est un                        et 1                          c' est un p' tit fauteuil
-21322chez elle                     Sez El                        chez elle hein qu' elle est
 21329est une                       et yn                         c' est une lettre oui ?
 21342les essuyer                   lez e-s8i-je                  faut aller les essuyer maint'
 21361on a                          §n a                          on a lave on a donne
@@ -1773,7 +1741,6 @@
 21791les autoroutes                lez o-to-Rut                  sont sur les autoroutes ?
 21817est en                        et @                          non c' est en l' air
 21841bien aller                    bj5n a-le                     i' faut bien aller voir s'
-21855est aussi                     et o-si                       ca c' est aussi un
 21856est un                        et 1                          chose cui~la est un autre
 21856un autre                      1n otR                        cui~la est un autre pompier
 21881les autos                     lez o-to                      a encore les autos aussi
@@ -1792,7 +1759,6 @@
 21984est assise                    et a-siz                      elle s' est assise sur
 21994ton oeil                      t§n 9j                        laisse ton oeil tranquille cheri .
 22006les ours                      lez uRs                       voila les ours qui rentrent chez
-22006chez eux                      Sez 2                         qui rentrent chez eux .
 22045les ours                      lez uRs                       les ours i' vont voir dans
 22050petit ours                    p°-tit uRs                    lit du petit ours .
 22054gros ours                     gRoz uRs                      peur des gros ours ?
@@ -1852,7 +1818,6 @@
 22598est un                        et 1                          c' est un vert .
 22603les autres                    lez otR                       aller dans les autres .
 22605les autres                    lez otR                       les autres aussi alors .
-22605autres aussi                  otRz o-si                     les autres aussi alors .
 22621noirs ensemble                nwaRz @-s@bl                  tous les noirs ensemble .
 22654est orange                    et o-R@Z                      c' est orange c' ui~la .
 22657est orange                    et o-R@Z                      c' est orange .
@@ -1877,7 +1842,6 @@
 22960quand on                      k@t §                         tout ca quand on fait
 22961les oreilles                  lez o-REj                     pas faire les oreilles du
 22962les oreilles                  lez o-REj                     pas faire les oreilles .
-22980trop a                        tRop a                        d' apporter trop a la
 22995est un                        et 1                          hein c' est un p'
 23008est une                       et yn                         c' est une chanson qu' t'
 23010est une                       et yn                         c' est une chanson pour maman
@@ -2013,7 +1977,6 @@
 24506quand on                      k@t §                         quand on debarasse la vaisselle .
 24513en as                         @n a                          t' en as bu assez .
 24517quand on                      k@t §                         quelque chose quand on demande
-24541chez elle                     Sez El                        elle est chez elle .
 24598on enregistre                 §n @R-ZistR                   oui on enregistre stephane cheri ?
 24603les aiguilles                 lez e-g8ij                    arretent pas les aiguilles .
 24608quand on                      k@t §                         parce que quand on baille et
@@ -2058,7 +2021,6 @@
 24971tout au                       tut o                         tout au d' sus ?
 24972quand on                      k@t §                         ding dong quand on sonne
 24979vient elle                    vj5t El                       quand berangere vient elle sonne oui
-24984chez une                      Sez yn                        es alle chez une madame
 25019sont ils                      s§t il                        ou sont ils tes legos ?
 25026un autre                      1n otR                        as trouve un autre .
 25028est un                        et 1                          ca c' est un beau
@@ -2084,10 +2046,8 @@
 25201on a                          §n a                          et puis on a r' cu
 25205en ont                        @n §                          i' s en ont eu
 25205ont eu                        §t y                          s en ont eu un
-25205un aussi                      1n o-si                       ont eu un aussi ?
 25210est un                        et 1                          ca c' est un cow boy
 25219on est                        §n e                          et puis on est alles chez
-25219chez une                      Sez yn                        est alles chez une madame
 25248bien en                       bj5n @                        est pas bien en ordre
 25248en ordre                      @n ORdR                       pas bien en ordre .
 25249des armoires                  dez aR-mwaR                   d' voir des armoires qui
@@ -2228,7 +2188,6 @@
 26824on avait                      §n a-vE                       heinoui qu' on avait raconte
 26832est assise                    et a-siz                      elle s' est assise dessus
 26841est a                         et a                          il est a cote d' la
-26844chez un                       Sez 1                         la chaise chez un menuisier
 26847bien i'                       bj5n i                        chaise ou bien i' va
 26856est une                       et yn                         c' est une * .
 26862est un                        et 1                          qu' c' est un p'
@@ -2281,9 +2240,6 @@
 27247des autres                    dez otR                       avait encore des autres enfants
 27247autres enfants                otRz @-f@                     encore des autres enfants ?
 27252est avec                      et a-vEk                      elle est avec sa maman et
-27252chez elle                     Sez El                        sa soeur chez elle et
-27254chez eux                      Sez 2                         i' sont chez eux maint' nant
-27255chez eux                      Sez 2                         i' sont chez eux .
 27275en arriere                    @n a-RjER                     vas tomber en arriere .
 27283on a                          §n a                          est-ce qu' on a vu
 27288on avait                      §n a-vE                       marionnettes et on avait eteint
@@ -2502,7 +2458,6 @@
 29031en as                         @n a                          tu n' en as plus
 29032est un                        et 1                          oui c' est un clown .
 29044des histoires                 dez is-twaR                   qui raconte des histoires .
-29069sous aussi                    suz o-si                      avec les sous aussi ?
 29080en a                          @n a                          i' n' en a pas pour
 29082les a                         lez a                         on les a caches .
 29083les a                         lez a                         on les a caches .
@@ -2525,7 +2480,6 @@
 29243quand on                      k@t §                         le chameau quand on conduit
 29259en a                          @n a                          en a il en a deux
 29259en a                          @n a                          a il en a deux
-29259deux aussi                    d2z o-si                      en a deux aussi .
 29260en a                          @n a                          il en a meme quatre .
 29274est un                        et 1                          mais c' est un lapin hein
 29295ses oreilles                  sez o-REj                     mettre a ses oreilles .
@@ -2685,7 +2639,6 @@
 30447est une                       et yn                         ca c' est une madame hein
 30448est assis                     et a-si                       ca c' est assis .
 30449est un                        et 1                          ca c' est un monsieur .
-30468un aussi                      1n o-si                       va manger un aussi ?
 30469des hamburgers                dez @-buR-g9R                 va manger des hamburgers celui~la
 30470les hamburgers                lez @-buR-g9R                 qui sert les hamburgers .
 30476est un                        et 1                          c' est un autre monsieur qui
@@ -2770,7 +2723,6 @@
 31336ils aiment                    ilz Em                        ils aiment bien de faire dodo
 31338des histoires                 dez is-twaR                   livre avec des histoires de
 31340un autre                      1n otR                        y a un autre beau
-31349chez une                      Sez yn                        oh chez une autre madame et
 31349un autre                      1n otR                        madame et un autre monsieur
 31350dans une                      d@z yn                        dans une autre maison .
 31368est un                        et 1                          non c' est un grand chat
@@ -2785,7 +2737,6 @@
 31482est a                         et a                          c' est a toi ces livres
 31493est a                         et a                          c' est a toi ca ?
 31497les a                         lez a                         c' qui les a pris
-31500beaucoup a                    bo-kup a                      en prendre beaucoup a la
 31503en as                         @n a                          t' en as pris beaucoup ?
 31531trois ours                    tRwaz uRs                     ah des trois ours oui .
 31539est un                        et 1                          c' est un mechant ou un
@@ -2907,7 +2858,6 @@
 32644quand on                      k@t §                         les jouets quand on en
 32644on en                         §n @                          jouets quand on en a
 32644en a                          @n a                          quand on en a beaucoup
-32644beaucoup avec                 bo-kup a-vEk                  en a beaucoup avec les
 32645quand on                      k@t §                         hein quand on a quelqu'un ici
 32645on a                          §n a                          hein quand on a quelqu'un ici
 32645quelqu'un ici                 kEl-k1n i-si                  on a quelqu'un ici qu'
@@ -2970,7 +2920,6 @@
 33315on est                        §n e                          on est dans la maison de
 33378bien i'                       bj5n i                        i' voudrait bien i' voudrait
 33379bien une                      bj5n yn                       i' voudrait bien une assiette pour
-33383sales aussi                   salz o-si                     sont toutes sales aussi .
 33388est un                        et 1                          ca c' est un aut'
 33406les a                         lez a                         et il les a portes chez
 33441tout est                      tut e                         non tout est propre .
@@ -2988,7 +2937,6 @@
 33490quand on                      k@t §                         la fumee quand on fait
 33493tout en                       tut @                         i' monte tout en haut
 33496est s                         et Es                         elle est s il est sale
-33516deux aussi                    d2z o-si                      tous les deux aussi .
 33521est encore                    et @-kOR                      qu' elle est encore .
 33597petits enfants                p°-tiz @-f@                   les aut' petits enfants .
 33645on a                          §n a                          est-ce qu' on a du
@@ -3034,7 +2982,6 @@
 34093dans un                       d@z 1                         dans un livre ?
 34109est une                       et yn                         c' est une horloge par hasard
 34142en a                          @n a                          t' en a deux ?
-34170beaucoup avec                 bo-kup a-vEk                  as parle beaucoup avec mamy
 34175on entendait                  §n @-t@-dE                    donc qu' on entendait ?
 34184est un                        et 1                          ca c' est un trop petit
 34191est un                        et 1                          c' est un grand ou bien
@@ -3101,7 +3048,6 @@
 35031est une                       et yn                         ha c' est une autre paire
 35039un autre                      1n otR                        mm tiens un autre collier tiens
 35060est a                         et a                          c' est a papa ca .
-35071beaucoup aujourd'hui          bo-kup o-ZuR-d8i              parle pas beaucoup aujourd'hui tu
 35102plus assez                    plyz a-se                     y a plus assez de
 35106les as                        lez a                         tu ne les as pas
 35107les as                        lez a                         tu les as laisse tombe a
@@ -3172,7 +3118,6 @@
 35537quand on                      k@t §                         alors quand on ira encore a
 35537on ira                        §n i-Ra                       alors quand on ira encore a
 35540petits enfants                p°-tiz @-f@                   beaucoup de petits enfants que tu
-35546chez elle                     Sez El                        etait pas chez elle .
 35552quand on                      k@t §                         ai dit quand on aura
 35552on aura                       §n o-Ra                       dit quand on aura fini
 35558tout a                        tut a                         le mangeras tout a l'
@@ -3235,7 +3180,6 @@
 36329les autres                    lez otR                       alors avec les autres savons
 36334en aille                      @n aj                         sable s' en aille .
 36342tes oreilles                  tez o-REj                     eau dans tes oreilles .
-36356moins i'                      mw5z i                        au moins i' n' glisse pas
 36361en avant                      @n a-v@                       allez en avant .
 36378on est                        §n e                          m on est bien .
 36382plus en                       plyz @                        tit peu plus en arriere
@@ -3267,7 +3211,6 @@
 36682sous elle                     suz El                        avoir des sous elle ira
 36721est une                       et yn                         c' est une belle carte .
 36738ras ici                       Raz i-si                      tu rest' ras ici .
-36744dans enfin                    d@z @-f5                      maman mettra dans enfin on
 36748quand on                      k@t §                         s' passe quand on joue
 36766quand il                      k@t il                        quand il s' ra au bout
 36773on a                          §n a                          est-ce qu' on a qu'
@@ -3287,9 +3230,7 @@
 36880les yeux                      lez j2                        vas faire les yeux ?
 36896est une                       et yn                         ca c' est une quelle
 36897est un                        et 1                          m c' est un .
-36944toutes s                      tutz Es                       tu prends toutes s tout
 36945en a                          @n a                          i' n' en a plus
-36952toutes l                      tutz El                       avais pris toutes l tous
 37027on est                        §n e                          est-ce qu' on est alles
 37029on est                        §n e                          est-ce qu' on est alles
 37032on est                        §n e                          on est alles au parc .
@@ -3381,7 +3322,6 @@
 37773quand on                      k@t §                         voit pas quand on est
 37773on est                        §n e                          pas quand on est derriere
 37784bien i'                       bj5n i                        eh bien i' n' va plus
-37789tout aussi                    tut o-si                      pourrait tout aussi bien r' tirer
 37795un autre                      1n otR                        on mettra un autre film si
 37795on a                          §n a                          film si on a repare
 37821grands outils                 gR@z u-ti                     des grands outils ?
@@ -3447,7 +3387,6 @@
 38350est un                        et 1                          c' est un bateau .
 38389ras encore                    Raz @-kOR                     tu mang' ras encore bien toute
 38393on est                        §n e                          est-ce qu' on est alles
-38419chez eux                      Sez 2                         le temps chez eux les
 38430les aimes                     lez Em                        oh tu les aimes bien ?
 38431les aimes                     lez Em                        tu les aimes bien ?
 38451on est                        §n e                          est-ce qu' on est alle
@@ -3585,7 +3524,6 @@
 39582ils etaient                   ilz e-tE                      quand ils etaient tous les deux
 39582deux a                        d2z a                         tous les deux a l'
 39597bien y                        bj5n i                        ou bien y a quoi a
-39601est aussi                     et o-si                       c' est aussi des stop signs
 39606quand on                      k@t §                         un kouki quand on aura
 39606on aura                       §n o-Ra                       kouki quand on aura fini
 39641sont ils                      s§t il                        ou sont ils ?
@@ -3598,10 +3536,8 @@
 39662les attraper                  lez a-tRa-pe                  sait pas les attraper .
 39671est un                        et 1                          c' est un liv' sur quoica
 39677les autres                    lez otR                       a mange les autres aha
-39679est aussi                     et o-si                       il est aussi gros qu' la
 39690est une                       et yn                         bah c' est une histoire .
 39702est un                        et 1                          que c' est un elephant
-39707est aussi                     et o-si                       il est aussi grand que beaucoup
 39707des autos                     dez o-to                      que beaucoup des autos comme
 39712les a                         lez a                         un peu les a ses
 39724est une                       et yn                         c' est une dent une .
@@ -3884,7 +3820,6 @@
 42585on a                          §n a                          bille si on a besoin
 42604bien un                       bj5n 1                        la ou bien un le
 42604un autre                      1n otR                        bras d' un autre petit
-42606dans aux                      d@z o                         ou bien dans aux deux bras
 42615les autres                    lez otR                       parce que les autres peuvent passer
 42620les autos                     lez o-to                      c' pour les autos le stop
 42640quand on                      k@t §                         a rien quand on t'
@@ -3940,7 +3875,6 @@
 43073est a                         et a                          c' est a papa qu' t'
 43091doit on                       dwat §                        que doit on faire ?
 43095en a                          @n a                          si y en a beaucoup beaucoup
-43113chez olivier                  Sez o-li-vje                  ah chez olivier ?
 43126les essuie                    lez E-s8i                     pour essuyer les essuie glaces
 43149quand on                      k@t §                         ah oui quand on bouge la
 43177on on                         §n §                          parce que on on t'
@@ -4007,7 +3941,6 @@
 43733est un                        et 1                          train heinc' est un wagon
 43735est il                        et il                         taxi ou est il donc
 43762plus ou                       plyz u                        ben oui plus ou moins une
-43762moins une                     mw5z yn                       plus ou moins une voiture
 43769on a                          §n a                          parce qu' on a fait
 43772on on                         §n §                          seulement on on s' arretera .
 43773on ira                        §n i-Ra                       on ira manger .
@@ -4027,7 +3960,6 @@
 43910on actionne                   §n ak-sjOn                    on actionne memele * .
 43946sont ils                      s§t il                        ou sont ils ?
 43950ses autres                    sez otR                       ce sont ses autres bottes
-43980chez isabelle                 Sez i-za-bEl                  maison comme chez isabelle ?
 43984est elle                      et El                         ou est elle la porte ?
 44006son encadrement               s§n @-ka-dR°-m@               une avec son encadrement .
 44035elles ont                     Elz §                         elles ont un moteur sinon elles
@@ -4155,7 +4087,6 @@
 44705on entend                     §n @-t@                       est-ce qu' on entend donc
 44723ton auto                      t§n o-to                      dire avec ton auto lego
 44737tes autres                    tez otR                       la defaire tes autres aussi
-44737autres aussi                  otRz o-si                     defaire tes autres aussi si
 44749en essayant                   @n e-se-j@                    bon en essayant d' enlever l'
 44753est une                       et yn                         que c' est une moto
 44798bien un                       bj5n 1                        tu sais bien un qu' on
@@ -4193,10 +4124,8 @@
 45170en allant                     @n a-l@                       en allant a l' ecole .
 45172des avions                    dez a-vj§                     tu fais des avions hein
 45179ils ont                       ilz §                         est qu' ils ont mis
-45179deux aussi                    d2z o-si                      ont mis deux aussi .
 45180ils en                        ilz @                         ils en ont mis deux aussi
 45180en ont                        @n §                          ils en ont mis deux aussi
-45180deux aussi                    d2z o-si                      ont mis deux aussi tout
 45183est il                        et il                         ou est il un grand rouge
 45184en a                          @n a                          y en a surement dans la
 45185en a                          @n a                          maisy y en a pas ici
@@ -4223,8 +4152,6 @@
 45402est une                       et yn                         amie c' est une amie
 45404en ai                         @n E                          je n' en ai pas
 45405en as                         @n a                          tu en as dans ta maison
-45408en un                         @n 1                          donne m' en un .
-45409en un                         @n 1                          donne m' en un .
 45410en as                         @n a                          tu n' en as que deux
 45412en as                         @n a                          tu en as ?
 45414un ainsi                      1n 5-si                       faut encore un ainsi .
@@ -4265,7 +4192,6 @@
 45670bien ensemble                 bj5n @-s@bl                   les garde bien ensemble .
 45672en avant                      @n a-v@                       les bras en avant .
 45676est avec                      et a-vEk                      c' est avec les mains .
-45679en une                        @n yn                         une fois en une fois
 45687tes autos                     tez o-to                      as descendu tes autos du
 45702on appelle                    §n a-pEl                      on appelle ca un cheval comment
 45703est un                        et 1                          c' est un cheval a bascule
@@ -4273,7 +4199,6 @@
 45714des histoires                 dez is-twaR                   des histoires .
 45715en avait                      @n a-vE                       n' y en avait pas
 45716en avait                      @n a-vE                       n' y en avait pas
-45718petit aussi                   p°-tit o-si                   pas un petit aussi ?
 45729petits enfants                p°-tiz @-f@                   tout les petits enfants .
 45735en as                         @n a                          tu en as deux toi ?
 45752ils avaient                   ilz a-vE                      pas qu' ils avaient un
@@ -4330,16 +4255,13 @@
 46056nous autres                   nuz otR                       qui ca nous autres ?
 46071son habit                     s§n a-bi                      c' est son habit quoi .
 46072est habille                   et a-bij                      comme il est habille .
-46078dans l                        d@z El                        qui partira dans l parachut
 46079dans un                       d@z 1                         meme pas dans un avion
 46079un avion                      1n a-vj§                      pas dans un avion .
 46080dans un                       d@z 1                         meme pas dans un avion
 46080un avion                      1n a-vj§                      pas dans un avion tiens
 46092on est                        §n e                          elle ou on est alle
 46093on est                        §n e                          pouquoi on est alle chercher tante
-46095chez elle                     Sez El                        qui va chez elle comme
 46098on est                        §n e                          on est alle chez tante helene
-46100chez elle                     Sez El                        est retournee chez elle .
 46108quand elle                    k@t El                        m quand elle sera finie tu
 46122est un                        et 1                          c' est un beau jeu sur
 46132est un                        et 1                          c' est un signe de sens
@@ -4351,7 +4273,6 @@
 46173on est                        §n e                          est quand on est la
 46178est isabelle                  et i-za-bEl                   c' est isabelle qui crie comme
 46187est a                         et a                          qui est a cote ?
-46193chez eux                      Sez 2                         ils sont chez eux .
 46217est avec                      et a-vEk                      et c' est avec les roues
 46225est un                        et 1                          c' est un cheval qui .
 46227quand on                      k@t §                         sais avant quand on y

@@ -3377,7 +3377,7 @@ paul22b.cha 1 10 20 se l2 be-be !
 paul22b.cha 1 10 20 se se zj2 !
 paul22b.cha 1 10 20 o !
 paul22b.cha 1 10 20 ty vu-dRE l2 pR@d d@ te m5 !
-paul22b.cha 1 10 20 a i le tRo p°-ti to-si !
+paul22b.cha 1 10 20 a i le tRo p°-ti o-si !
 paul22b.cha 1 10 20 pi se ty ni-maZ !
 paul22b.cha 1 10 20 se ty nis-twa Rwi .
 paul22b.cha 1 10 20 o !
@@ -4240,7 +4240,7 @@ paul23b.cha 1 11 21 a-t@ , Z2 t@ dO n1 la .
 paul23b.cha 1 11 21 vwa-la !
 paul23b.cha 1 11 21 n§ , n§ .
 paul23b.cha 1 11 21 la , s' , e , s' , e , se la Re-zERv .
-paul23b.cha 1 11 21 pR@ z@ n1 !
+paul23b.cha 1 11 21 pR@ z@ 1 !
 paul23b.cha 1 11 21 n§ 1 !
 paul23b.cha 1 11 21 la !
 paul23b.cha 1 11 21 tiR !
@@ -5335,7 +5335,7 @@ paul25b.cha 2 1 17 fo k2 Z2 l2 taj o-si , sl8i la .
 paul25b.cha 2 1 17 a !
 paul25b.cha 2 1 17 i a 1 # # bu ki e-tE t§-be a ko-te d2 la-sjEt !
 paul25b.cha 2 1 17 o bOR d2 la-sjEt .
-paul25b.cha 2 1 17 sa se vER to-si .
+paul25b.cha 2 1 17 sa se vE Ro-si .
 paul25b.cha 2 1 17 i le ka-se o-si ?
 paul25b.cha 2 1 17 ko-lo .
 paul25b.cha 2 1 17 e !
@@ -6213,7 +6213,7 @@ paul27a.cha 2 02 29 o !
 paul27a.cha 2 02 29 la la la la !
 paul27a.cha 2 02 29 El maRS pa , El kuR , po-lin !
 paul27a.cha 2 02 29 ty kuR ?
-paul27a.cha 2 02 29 o mw5 z§ l@-t@ a-Ri-ve !
+paul27a.cha 2 02 29 o mw5 § l@-t@ a-Ri-ve !
 paul27a.cha 2 02 29 pa d2 pRo-blEm !
 paul27a.cha 2 02 29 a ty tRu-ve ?
 paul27a.cha 2 02 29 E la-Ri va lu-vRiR tut s9l sa , m5t-n@ ?
@@ -6610,7 +6610,7 @@ paul28a.cha 2 04 03 se p2-tEt puR sa kEl pl9R !
 paul28a.cha 2 04 03 ta vy , pER-sOn l8i a di bO na-ni-vER-sER !
 paul28a.cha 2 04 03 se ki l2 nu-nuRs la ?
 paul28a.cha 2 04 03 a !
-paul28a.cha 2 04 03 El R@t Se zEl ?
+paul28a.cha 2 04 03 El R@t Se El ?
 paul28a.cha 2 04 03 # .
 paul28a.cha 2 04 03 mE t@-di kEl pus la pORt , su-d5 .
 paul28a.cha 2 04 03 la p°-ti tuR-sO n@-t@ kRi-je d2 paR-tu bO na-ni-vER-sER , # !
@@ -6664,7 +6664,7 @@ paul28a.cha 2 04 03 pi be-be i la pa d@ !
 paul28a.cha 2 04 03 be-be i la .
 paul28a.cha 2 04 03 pa d@ !
 paul28a.cha 2 04 03 mw5 2 !
-paul28a.cha 2 04 03 mw5 zyn s°-mEn !
+paul28a.cha 2 04 03 mw5 yn s°-mEn !
 paul28a.cha 2 04 03 ba wi !
 paul28a.cha 2 04 03 i le d@ m§ v@t l2 be-be !
 paul28a.cha 2 04 03 wi ?

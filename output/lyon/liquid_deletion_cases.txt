@@ -17,7 +17,7 @@
 1116 stable ça                     stab sa                       pas très stable ça *
 1161 rentres plus                  R@t ply                       bientôt tu rentres plus dans l(e)
 1213 être pas                      Et pa                         va p(eu)t être pas aimer
-1224 livres de                     liv d2                        est des livres de Chl
+1224 livres de                     liv d2                        est des livres de Chloé
 1321 autre côté                    ot ko-te                      par l' autre côté mimin
 1350 être dans                     Et d@                         i(l) doit être dans la chambre
 1350 chambre le                    S@b l2                        dans la chambre le biberon
@@ -28,7 +28,7 @@
 1429 autres balles                 ot bal                        prendre les autres balles là
 1481 montre moi                    m§t mwa                       montre moi comment tu joues avec
 1583 autre sens                    ot s@s                        dans l' autre sens .
-1585 autre sens                    ot s@s                        dans l' autre sens Ana .
+1585 autre sens                    ot s@s                        dans l' autre sens Anaïs .
 1586 autre sens                    ot s@s                        dans l' autre sens !
 1607 autre sens                    ot s@s                        dans l' autre sens !
 1627 peut-être d'                  p2-tEt d                      peut-être d' autres ?
@@ -77,7 +77,7 @@
 2876 autre sens                    ot s@s                        dans l' autre sens si
 2935 mettre de                     mEt d2                        on va mettre de l'
 2986 mettre de                     mEt d2                        m' en mettre de partout
-3018 puzzles de                    p9z d2                        rempli des puzzles de Chi
+3018 puzzles de                    p9z d2                        rempli des puzzles de Anaïs
 3208 arbre le                      aRb l2                        derrière l' arbre le zèbre
 3271 prendre ce                    pR@d s2                       vas prendre ce que tu veux
 3352 mettre sur                    mEt syR                       tu veux mettre sur les
@@ -183,7 +183,7 @@
 8314 autre côté                    ot ko-te                      d(e) l' autre côté .
 8318 autre côté                    ot ko-te                      d(e) l' autre côté .
 8348 mettre de                     mEt d2                        on va mettre de la
-8559 remettre le                   R°-mEt l2                     on va remettre le nounours Ana
+8559 remettre le                   R°-mEt l2                     on va remettre le nounours Anaïs
 8606 livre des                     liv de                        le livre des jouets !
 8781 autre livre                   ot livR                       prends un autre livre ?
 8782 autre livre                   ot livR                       prendre un autre livre là
@@ -200,7 +200,7 @@
 9203 autre pile                    ot pil                        a d' autre pile .
 9222 mettre dessus                 mEt d°-sy                     va l(e) mettre dessus .
 9225 mettre là                     mEt la                        est pour mettre là regarde
-9250 autre sens                    ot s@s                        dans l' autre sens Ana
+9250 autre sens                    ot s@s                        dans l' autre sens Anaïs
 9259 mettre le                     mEt l2                        qu' à mettre le cheval
 9264 mettre comme                  mEt kOm                       va l(e) mettre comme ça
 9270 autres piles                  ot pil                        a d' autres piles .
@@ -214,8 +214,8 @@
 9441 mettre dans                   mEt d@                        vas le mettre dans la
 9472 mordre c'                     mORd s'                       qui faut mordre c' est
 9473 autre de                      ot d2                         est l' autre de doudou
-9486 prendre le                    pR@d l2                       va prendre le sac Ana .
-9497 mettre ton                    mEt t§                        va mettre ton sac Ana .
+9486 prendre le                    pR@d l2                       va prendre le sac Anaïs .
+9497 mettre ton                    mEt t§                        va mettre ton sac Anaïs .
 9501 prendre le                    pR@d l2                       va le prendre le sac puis
 9523 livre des                     liv dez                       le livre des animaux .
 9719 mettre dessous                mEt d°-su                     dû les mettre dessous .
@@ -279,7 +279,7 @@
 14592montre moi                    m§t mwa                       montre moi le rouge .
 14647mettre quand                  mEt k@                        de les mettre quand même
 14655descendre le                  de-s@d l2                     on fait descendre le ,
-14838montre moi                    m§t mwa                       montre moi deux Ana .
+14838montre moi                    m§t mwa                       montre moi deux Anaïs .
 14850être plus                     Et ply                        ça doit être plus facile
 14859quatre cinq                   kat s5k                       deux trois quatre cinq six
 14899prendre tous                  pR@d tu                       tu vas prendre tous les sens
@@ -298,7 +298,7 @@
 15582mettre le                     mEt l2                        pour mettre le ch(e)val dans la
 15679table bleue                   tab bl2                       la table bleue , les chaussures
 15680table là                      tab la                        , la table là ,
-15699autre vélo                    ot ve-lo                      l' autre vélo Chi , le
+15699autre vélo                    ot ve-lo                      l' autre vélo Anaïs , le
 15701mettre les                    mEt le                        est pour mettre les pieds
 15706mettre l'                     mEt l                         on va mettre l' autre pied
 15706autre pied                    ot pje                        mettre l' autre pied .
@@ -336,7 +336,7 @@
 19561mettre du                     mEt dy                        on va mettre du scotch .
 19807mettre le                     mEt l2                        veux le mettre le tablier
 19833autre sens                    ot s@s                        dans l' autre sens .
-19849autre bleu                    ot bl2                        prends l' autre bleu Ana .
+19849autre bleu                    ot bl2                        prends l' autre bleu Anaïs .
 19851autre bleu                    ot bl2                        prend l' autre bleu .
 19865mettre là                     mEt la                        de l(e) mettre là .
 19898autres qui                    ot ki                         mets les autres qui manquent
@@ -411,11 +411,11 @@
 24230mettre dans                   mEt d@                        faut mettre dans mon assiette .
 24348mettre là                     mEt la                        va l(e) mettre là .
 24405autre j'sais                  ot SE                         mais l' autre j'sais pas
-24440autre pour                    ot puR                        faire un autre pour Ger
+24440autre pour                    ot puR                        faire un autre pour Géraldine
 24463mettre ça                     mEt sa                        tu peux mettre ça dans
 24478livres qu'                    liv k                         chercher les livres qu' on
 24508ouvre la                      uv la                         on ouvre la porte oh !
-24518ouvres la                     uv la                         Chl t' ouvres la prochaine
+24518ouvres la                     uv la                         Chloé t' ouvres la prochaine
 24538prendre ton                   pR@d t§                       tu vas prendre ton bain
 24542autre toi                     ot twa                        ouvert l' autre toi ?
 24568ouvre la                      uv la                         ouvre la porte qu' on voit
@@ -423,7 +423,7 @@
 24614ouvre le                      uv l2                         alors ouvre le volet ?
 24628ouvre la                      uv la                         allez ouvre la porte ?
 24665être chez                     Et Se                         est p(eu)t être chez papi
-24668chambre de                    S@b d2                        dans la chambre de Chl
+24668chambre de                    S@b d2                        dans la chambre de Chloé
 24679boucle d'                     buk d                         c' est boucle d' or
 24680boucle d'                     buk d                         avec Raph boucle d' or
 24727mettre la                     mEt la                        on va mettre la pâte à
@@ -479,7 +479,7 @@
 28275notre fête                    nOt fEt                       grignoter pour notre fête .
 28422mettre celui                  mEt sl8i                      faut * mettre celui là
 28467mettre là                     mEt la                        i(l) faudra mettre là ,
-28568livre de                      liv d2                        dans le livre de Chl
+28568livre de                      liv d2                        dans le livre de Chloé
 28611comble de                     k§b d2                        et le comble de l' injustice
 28830livre là                      liv la                        un petit livre là bas
 28938être par                      Et paR                        peut * être par ici
@@ -492,7 +492,7 @@
 29332autre balai                   ot ba-lE                      et l' autre balai ?
 29333autre là                      ot la                         a un autre là regarde
 29360autre puzzle                  ot p9zl                       puis l' autre puzzle .
-29366ouvre la                      uv la                         ouvre la fermeteur éclair Ana ?
+29366ouvre la                      uv la                         ouvre la fermeteur éclair Anaïs ?
 29382autre sens                    ot s@s                        dans l' autre sens .
 29478autre bleu                    ot bl2                        as un autre bleu ?
 29505autre rose                    ot Roz                        a un autre rose là
@@ -551,7 +551,7 @@
 30775boucle tu                     buk ty                        a une boucle tu la
 30775boucle là                     buk la                        vois la boucle là ah
 30796lettre c'                     lEt s'                        est quelle lettre c' est
-30797lettre de                     lEt d2                        la lettre de Chl c' est
+30797lettre de                     lEt d2                        la lettre de Chloé c' est
 30802autres des                    ot de                         a d' autres des lettres
 30812montre moi                    m§t mwa                       montre moi y en a encore
 30821montre là                     m§t la                        te l(e) montre là tout
@@ -572,7 +572,7 @@
 31485prendre le                    pR@d l2                       j(e) vais prendre le rose
 31561lettre là                     lEt la                        mis comme lettre là .
 31592table comme                   tab kOm                       remet la table comme i(l)
-31627peut-être ça                  p2-tEt sa                     ça , peut-être ça Ana
+31627peut-être ça                  p2-tEt sa                     ça , peut-être ça Anaïs
 31637être c(e)lui                  Et sl8i                       est p(eu)t être c(e)lui là
 31641peut-être ça                  p2-tEt sa                     tiens peut-être ça .
 31673contre l'                     k§t l                         par contre l' autre i(l) va
@@ -705,6 +705,7 @@
 36413montres ce                    m§t s2                        tu me montres ce qu' il
 36428ensemble mais                 @-s@b mE                      le préparer ensemble mais oui
 36476contre la                     k§t la                        comme ça contre la caisse
+36496joindre Marie                 Zw5d ma-Ri                    cherche à joindre Marie .
 36528autre chose                   ot Soz                        passer à autre chose euh
 36564entre les                     @t le                         la tête entre les deux
 36679mettre dans                   mEt d@                        faut la mettre dans le
@@ -737,13 +738,14 @@
 37687autres temps                  ot t@                         en d' autres temps .
 37725être pas                      Et pa                         va p(eu)t être pas changer
 37789montres tes                   m§t te                        tu me montres tes jouets .
+37820rejoindre Marie               R°-Zw5d ma-Ri                 viens me rejoindre Marie ?
 37846mettre dans                   mEt d@                        veux le mettre dans tes
 37862mettre tout                   mEt tu                        i(l) faut mettre tout ça
 37877mettre sur                    mEt syR                       veux l(e) mettre sur l'
 37918livre là                      liv la                        cherches ce livre là ?
 37986prendre la                    pR@d la                       veux m(e) prendre la baguette
 38182pantoufles ça                 p@-tuf sa                     , mes pantoufles ça .
-38189chambre de                    S@b d2                        est la chambre de Mar
+38189chambre de                    S@b d2                        est la chambre de Marie
 38200mettre là                     mEt la                        te l(e) mettre là .
 38205pantoufles de                 p@-tuf d2                     met des pantoufles de grands
 38212être contente                 Et k§-t@t                     qui va être contente .
@@ -784,6 +786,7 @@
 39219montres ton                   m§t t§                        tu nous montres ton ventre
 39219ventre comme                  v@t kOm                       montres ton ventre comme ça
 39261ensemble là                   @-s@b la                      ils nagent ensemble là .
+39494montres Marie                 m§t ma-Ri                     tu me montres Marie .
 39524être pas                      Et pa                         vais p(eu)t être pas la
 39552mettre là                     mEt la                        d' y mettre là d(e)dans
 39578mettre sur                    mEt syR                       vais t(e) mettre sur løf
@@ -832,6 +835,7 @@
 41257montres celui                 m§t sl8i                      tu me montres celui ci ?
 41275triangle qu'                  tRi-j@g k                     est l(e) triangle qu' on
 41348agréable ça                   a-gRe-ab sa                   pas bien agréable ça .
+41407montre Marie                  m§t ma-Ri                     m(e) la montre Marie ?
 41478montres le                    m§t l2                        tu me montres le doudou ?
 41480montres la                    m§t la                        tu me montres la fleur ?
 41557montres les                   m§t le                        tu nous montres les boules
@@ -893,8 +897,8 @@
 43022prendre par                   pR@d paR                      pas l(e) prendre par là
 43023prendre comme                 pR@d kOm                      faut l(e) prendre comme ça .
 43026prendre par                   pR@d paR                      faut plutôt prendre par le fil
-43107livres de                     liv d2                        sont les livres de Mar
-43108livres de                     liv d2                        les livres de Mar ?
+43107livres de                     liv d2                        sont les livres de Marie
+43108livres de                     liv d2                        les livres de Marie ?
 43112mettre dans                   mEt d@                        vais l(e) mettre dans la
 43121enregistre maman              @R-Zist ma-m@                 alors on enregistre maman comme ça
 43123enregistre p(eu)t             @R-Zist pt                    (en)fin elle enregistre p(eu)t êt(r)e pas
@@ -913,7 +917,7 @@
 43452livre qu'                     liv k                         dans ce livre qu' i(l)
 43529ouvres toute                  uv tut                        tu l' ouvres toute seule ,
 43543ouvre le                      uv l2                         j' ouvre le paquet ?
-43575chambre de                    S@b d2                        la chambre de Mar .
+43575chambre de                    S@b d2                        la chambre de Marie .
 43576autre chambre                 ot S@bR                       a une autre chambre .
 43599être pas                      Et pa                         i(l) va être pas propre
 43631montres ta                    m§t ta                        pourquoi tu montres ta ?
@@ -1011,6 +1015,7 @@
 46687mettre là                     mEt la                        on va mettre là ?
 46701mettre dans                   mEt d@                        de le mettre dans le
 46704reprendre le                  R°-pR@d l2                    veux le reprendre le bébé
+46716entendre Marie                @-t@d ma-Ri                   pour bien entendre Marie .
 46739montre pas                    m§t pa                        puis on montre pas son ventre
 46739ventre comme                  v@t kOm                       pas son ventre comme ça
 46754ouvre le                      uv l2                         qu' on ouvre le paquet
@@ -1022,6 +1027,7 @@
 46959autres bonhommes              ot bo-nOm                     comme les autres bonhommes que
 47040ouvre pas                     uv pa                         n(e) l' ouvre pas ,
 47041être pareil                   Et pa-REj                     ça va être pareil .
+47051possible Marie                po-sib ma-Ri                  est pas possible Marie .
 47112autre là                      ot la                         a un autre là oui
 47173montres des                   m§t dez                       tu me montres des oiseaux
 47182livre dans                    liv d@                        dans ce livre dans ce
@@ -1089,7 +1095,7 @@
 49475livre là                      liv la                        dans ce livre là .
 49476livre là                      liv la                        dans ce livre là qu'
 49567être portée                   Et pOR-te                     être portée .
-49597désagréable pour              de-za-gRe-ab puR              c' est désagréable pour Ger .
+49597désagréable pour              de-za-gRe-ab puR              c' est désagréable pour Géraldine .
 49659montre des                    m§t de                        je te montre des photos
 49706montre moi                    m§t mwa                       bah alors montre moi .
 49879autre mouchoir                ot mu-SwaR                    avec un autre mouchoir ?
@@ -1130,7 +1136,7 @@
 51046prendre des                   pR@d de                       p(eu)t être prendre des mh
 51072notre panier                  nOt pa-nje                    pas dans notre panier .
 51203autre chose                   ot Soz                        pour faire autre chose .
-51220autre chose                   ot Soz                        jouer à autre chose Mar
+51220autre chose                   ot Soz                        jouer à autre chose Marie
 51276autre côté                    ot ko-te                      d(e) l' autre côté on
 51288autre chose                   ot Soz                        veux coller autre chose ?
 51344autre côté                    ot ko-te                      de l' autre côté .
@@ -1214,7 +1220,7 @@
 54152autre livre                   ot livR                       lisait un autre livre ?
 54167livre qui                     liv ki                        est mon livre qui a
 54184mettre dans                   mEt d@                        à mettre dans quoi ?
-54225peut-être que                 p2-tEt k2                     peut-être que Ger elle .
+54225peut-être que                 p2-tEt k2                     peut-être que Géraldine elle .
 54228mettre là                     mEt la                        va s(e) mettre là !
 54394prendre ton                   pR@d t§                       de quoi prendre ton p(e)tit
 54450être difficile                Et di-fi-sil                  ça va être difficile à remettre
@@ -1226,7 +1232,7 @@
 54555autre tas                     ot ta                         dans un autre tas .
 54567mettre dans                   mEt d@                        puis les mettre dans ta
 54573autre chose                   ot Soz                        joue à autre chose ,
-54581ressemble beaucoup            R°-s@b bo-kup                 ça elle ressemble beaucoup à
+54581ressemble beaucoup            R°-s@b bo-ku                  ça elle ressemble beaucoup à
 54584être celle                    Et sEl                        est p(eu)t être celle ci
 54603désagréable dans              de-za-gRe-ab d@               un bruit désagréable dans les
 54618chambre de                    S@b d2                        dans la chambre de Pie
@@ -1394,6 +1400,7 @@
 58442livres c'                     liv s'                        ach(e)té des livres c' est
 58459feutres sous                  f2t su                        , des feutres sous ,
 58492autre coin                    ot kw5                        dans l' autre coin d(e)
+58510livre Marie                   liv ma-Ri                     là du livre Marie ?
 58528mettre dans                   mEt d@                        vais les mettre dans n'
 58555mettre le                     mEt l2                        facile de mettre le dernier
 58564peut-être tout                p2-tEt tut                    non peut-être tout à l' heure
@@ -1505,7 +1512,7 @@
 62279montre moi                    m§t mwa                       montre moi , toi .
 62450quatre pièces                 kat pjEs                      y a quatre pièces .
 62456puzzle que                    p9z k2                        , un puzzle que j'
-62513lettres de                    lEt d2                        toutes les lettres de Mar
+62513lettres de                    lEt d2                        toutes les lettres de Marie
 62514remettre dans                 R°-mEt d@                     de les remettre dans l'
 62521lettres dans                  lEt d@                        euh les lettres dans qui
 62549autre lettre                  ot lEtR                       quelle autre lettre ?
@@ -1514,7 +1521,7 @@
 62556lettres pour                  lEt puR                       toutes les lettres pour écrire
 62561peut-être d'                  p2-tEt d                      en auras peut-être d' autres
 62563lettre suivante               lEt s8i-v@t                   la lettre suivante c' est dans
-62590lettre dans                   lEt d@                        combien de lettre dans Mar
+62590lettre dans                   lEt d@                        combien de lettre dans Marie
 62600exemple ça                    Eg-z@p sa                     vale*i par exemple ça commence c'
 62606mettre dans                   mEt d@                        faut le mettre dans l'
 62606autre sens                    ot s@s                        dans l' autre sens .
@@ -1522,7 +1529,7 @@
 62615mettre comme                  mEt kOm                       mieux le mettre comme ça
 62616lettre qui                    lEt ki                        justement la lettre qui manque
 62624autre chose                   ot Soz                        on écrit autre chose ?
-62639ressemble beaucoup            R°-s@b bo-kup                 ça ressemble beaucoup en fait .
+62639ressemble beaucoup            R°-s@b bo-ku                  ça ressemble beaucoup en fait .
 62642mettre de                     mEt d2                        va le mettre de tel
 62644mettre comme                  mEt kOm                       va l(e) mettre comme ça
 62668lettre là                     lEt la                        est cette lettre là que
@@ -1607,6 +1614,7 @@
 63749ouvre comme                   uv kOm                        j' ouvre comme ça , avec
 63789attendre parce                a-t@d paRs                    vas m' attendre parce que
 63797sucre puis                    syk p8i                       ajouter le sucre puis le *
+63826mettre Marie                  mEt ma-Ri                     encore en mettre Marie .
 63843sucre pour                    syk puR                       gâteau au sucre pour patienter
 63895mettre la                     mEt la                        mettre la farine dans le saladier
 63897sucre puis                    syk p8i                       ajouter le sucre puis le lait
@@ -1642,14 +1650,16 @@
 65278mettre tout                   mEt tut                       va l(e) mettre tout en
 65301livre que                     liv k2                        est le livre que tu
 65392être dans                     Et d@                         y doit être dans ta chambre
+65392chambre Jean                  S@b Z@                        dans ta chambre Jean .
 65470peut-être ranger              p2-tEt R@-Ze                  on va peut-être ranger tout
 65526notre jeu                     nOt Z2                        notre jeu préféré c' est de
 65585notre jeu                     nOt Z2                        notre jeu préféré c' est de
 65670ressemble pas                 R°-s@b pa                     cochon i(l) ressemble pas à
 65795mettre de                     mEt d2                        pour ce mettre de la
 65923livres là                     liv la                        regardes comme livres là ?
-65939livre pour                    liv puR                       lire le livre pour Nat
-66099ensemble Nat                  @-s@b nat                     ensemble Nat .
+65939livre pour                    liv puR                       lire le livre pour Nathan
+65998livre Jean                    liv Z@                        pas son livre Jean .
+66099ensemble Nathan               @-s@b na-t@                   ensemble Nathan .
 66137livre mon                     liv m§                        envers le livre mon Nanou
 66306montres comme                 m§t kOm                       tu me montres comme tu l(e)à
 66484être dans                     Et d@                         p(eu)t être dans ta chambre ?
@@ -1685,10 +1695,10 @@
 67902attendre dans                 a-t@d d@                      aller l' attendre dans la
 67902attendre dans                 a-t@d d@                      aller l' attendre dans ta
 67904mettre des                    mEt de                        pas à mettre des tartes
-67931chambre de                    S@b d2                        dans la chambre de Jea
+67931chambre de                    S@b d2                        dans la chambre de Jean
 68018attendre papa                 a-t@d pa-pa                   on va attendre papa .
 68028mettre dans                   mEt d@                        va s(e) mettre dans la
-68028chambre de                    S@b d2                        dans la chambre de Jea
+68028chambre de                    S@b d2                        dans la chambre de Jean
 68130livre de                      liv d2                        le livre de la lune .
 68147rendre visite                 R@d vi-zit                    viennent lui rendre visite .
 68282vivre ta                      viv ta                        tu vas vivre ta vie
@@ -1708,7 +1718,7 @@
 68823être bien                     Et bj5                        de s' être bien passé
 68912chèvre fait                   SEv fE                        ma chèvre fait .
 68946remettre la                   R°-mEt la                     j(e) vais remettre la poubelle
-69096chambre de                    S@b d2                        dans la chambre de Jea
+69096chambre de                    S@b d2                        dans la chambre de Jean
 69239ensemble Nanou                @-s@b na-nu                   les mets ensemble Nanou ?
 69301ressemble mais                R°-s@b mE                     ça y ressemble mais s'
 69336autre d'                      ot d                          finisse l' autre d' abord
@@ -1732,7 +1742,7 @@
 69836peut-être que                 p2-tEt k2                     mais , peut-être que ça
 69864être te                       Et t2                         peux p(eu)t être te laisser
 69876prendre pendant               pR@d p@-d@                    pas te prendre pendant que
-69949livre de                      liv d2                        est le livre de Chl
+69949livre de                      liv d2                        est le livre de Chloé
 69970obstacles là                  Op-stak la                    trop d' obstacles là hein
 69972mettre là                     mEt la                        va l(e) mettre là ce
 69991montre moi                    m§t mwa                       montre moi ça !
@@ -1792,7 +1802,7 @@
 72014livre tous                    liv tu                        chercher un livre tous les
 72028livre d'                      liv d                         chercher le livre d' arc
 72030livre d'                      liv d                         chercher le livre d' arc
-72077autre Nat                     ot nat                        prenne un autre Nat ?
+72077autre Nathan                  ot na-t@                      prenne un autre Nathan ?
 72080autres livres                 ot livR                       a d' autres livres là
 72080livres là                     liv la                        d' autres livres là .
 72089tricycle de                   tRi-sik d2                    un petit tricycle de mhm ,
@@ -1804,7 +1814,7 @@
 72329mettre le                     mEt l2                        on va mettre le bouchon .
 72333peut-être quand               p2-tEt k@                     frais là peut-être quand même
 72340autres jouets                 ot ZwE                        encore d' autres jouets ?
-72412livres de                     liv d2                        tous les livres de Nat
+72412livres de                     liv d2                        tous les livres de Nathan
 72454moufles tu                    muf ty                        plutôt des moufles tu vois
 72517prendre d'                    pR@d d                        à les prendre d' ailleurs
 72648montre moi                    m§t mwa                       montre moi !
@@ -1875,14 +1885,14 @@
 75136prendre le                    pR@d l2                       on va prendre le bain
 75137prendre le                    pR@d l2                       si faut prendre le bain
 75145prendre le                    pR@d l2                       va aller prendre le bain
-75166ouvres la                     uv la                         tu m' ouvres la porte Jea
+75166ouvres la                     uv la                         tu m' ouvres la porte Jean
 75172autre jour                    ot ZuR                        regarde l' autre jour j'
 75191autre chose                   ot Soz                        t(e) montrer autre chose .
 75196chambre non                   S@b n§                        dans ta chambre non ?
 75221prendre c(el)ui               pR@d s8i                      on va prendre c(el)ui là .
 75223chambre nan                   S@b n@                        dans ta chambre nan !
 75230mettre les                    mEt le                        vois faut mettre les boules
-75268autres jeux                   ot Z2                         plein d' autres jeux Jea
+75268autres jeux                   ot Z2                         plein d' autres jeux Jean
 75344prendre le                    pR@d l2                       aller , prendre le bain
 75465prendre le                    pR@d l2                       on va prendre le bain aujourd'hui
 75491prendre le                    pR@d l2                       on va prendre le bain
@@ -1896,7 +1906,7 @@
 75992agréable ce                   a-gRe-ab s2                   est pas agréable ce bruit
 75993agréable ce                   a-gRe-ab s2                   est pas agréable ce bruit
 76033table quoi                    tab kwa                       sur la table quoi .
-76049descendre Nat                 de-s@d nat                    tu veux descendre Nat .
+76049descendre Nathan              de-s@d na-t@                  tu veux descendre Nathan .
 76053ensemble tu                   @-s@b ty                      va dessiner ensemble tu veux
 76059mettre ses                    mEt se                        va lui mettre ses feutres
 76105mettre partout                mEt paR-tu                    vas en mettre partout .
@@ -1928,7 +1938,7 @@
 77363couvercle de                  ku-vERk d2                    mis l(e) couvercle de ça
 77391autres grands                 ot gR@                        où les autres grands ?
 77392être dans                     Et d@                         s doivent être dans la
-77392chambre de                    S@b d2                        dans la chambre de Jea
+77392chambre de                    S@b d2                        dans la chambre de Jean
 77406mettre là                     mEt la                        veux le mettre là ?
 77430mettre ça                     mEt sa                        tu d(e)vrais mettre ça .
 77451terrible ma                   tE-Rib ma                     est pas terrible ma bête
@@ -1945,6 +1955,7 @@
 77782ventre de                     v@t d2                        fond du ventre de Georges
 77785ventre de                     v@t d2                        fond du ventre de Georges
 77794ouvre la                      uv la                         alors Georges ouvre la bouche et
+77831répondre Jean                 Re-p§d Z@                     laisse le répondre Jean .
 77848autre train                   ot tR5                        faire un autre train .
 77849autre train                   ot tR5                        un autre train avec d' aut(res)
 77876être bloqué                   Et blo-ke                     tu vas être bloqué .
@@ -2091,9 +2102,9 @@
 82435autre petite                  ot p°-tit                     a une autre petite toupie
 82465être devant                   Et d°-v@                      peux pas être devant la
 82466être derrière                 Et dE-RjER                    peux pas être derrière et
-82471mettre là                     mEt la                        vas t(e) mettre là bas Jea
+82471mettre là                     mEt la                        vas t(e) mettre là bas Jean
 82471table s'                      tab s                         d(e) la table s' il
-82475mettre là                     mEt la                        va t(e) mettre là bas Nat
+82475mettre là                     mEt la                        va t(e) mettre là bas Nathan
 82476mettre là                     mEt la                        va t(e) mettre là bas .
 82528rentre l'                     R@t l                         alors rentre l' antenne .
 82623prendre ta                    pR@d ta                       * viens prendre ta tartine .
@@ -2140,9 +2151,9 @@
 83905être papa                     Et pa-pa                      est p(eu)t être papa .
 83950table pour                    tab puR                       sur la table pour ce
 83956attendre pour                 a-t@d puR                     peut pas attendre pour le
-83971autre ça                      ot sa                         et l' autre ça s(e)ra Nat
+83971autre ça                      ot sa                         et l' autre ça s(e)ra Nathan
 84057prendre le                    pR@d l2                       elle va prendre le train
-84065puzzles Nat                   p9z nat                       bien les puzzles Nat hein
+84065puzzles Nathan                p9z na-t@                     bien les puzzles Nathan hein
 84069autre côté                    ot ko-te                      de l' autre côté .
 84072rentres là                    R@t la                        que ça rentres là ?
 84100rentre ça                     R@t sa                        ça rentre ça Nanou ?
@@ -2168,8 +2179,8 @@
 84526autre chose                   ot Soz                        pense à autre chose .
 84588mettre le                     mEt l2                        faut pas mettre le sac
 84590mettre par                    mEt paR                       pas le mettre par terre
-84602chambre de                    S@b d2                        dans la chambre de Chi !
-84604chambre de                    S@b d2                        dans la chambre de Chi
+84602chambre de                    S@b d2                        dans la chambre de Nathan !
+84604chambre de                    S@b d2                        dans la chambre de Nathan
 84616entre six                     @t sis                        entre six et huit .
 84675mettre dans                   mEt d@                        va l(e) mettre dans la
 84676mettre dans                   mEt d@                        je vais mettre dans le
@@ -2206,10 +2217,11 @@
 85717mettre le                     mEt l2                        i(l) faut mettre le nounours .
 85746agréable pour                 a-gRe-ab puR                  pas très agréable pour Marise
 85753votre les                     vOt lez                       à la votre les enfants
-85757mettre partout                mEt paR-tu                    vas en mettre partout Bro
+85757mettre partout                mEt paR-tu                    vas en mettre partout Jean
 85758mettre partout                mEt paR-tu                    fai(re) en mettre partout .
 85776mettre près                   mEt pRE                       va en mettre près du
 85807être bien                     Et bj5n                       air d' être bien en
+85845autre Jean                    ot Z@                         trouve un(e) autre Jean .
 85871mettre des                    mEt de                        on va mettre des graines
 85885nombre de                     n§b d2                        nombre de jour pour a levée
 85918mettre les                    mEt le                        avant d(e) mettre les graines
@@ -2227,6 +2239,7 @@
 86256autre fois                    ot fwa                        cassé l' autre fois .
 86270autre quand                   ot k@                         cassé l' autre quand même
 86283montre moi                    m§t mwa                       alors montre moi le loup !
+86312ouvres Jean                   uv Z@                         tu l' ouvres Jean !
 86314ouvres pour                   uv puR                        tu l' ouvres pour l'
 86356mettre mes                    mEt me                        j(e) puis mettre mes .
 86358mettre des                    mEt de                        faudrait pas mettre des .
@@ -2251,7 +2264,7 @@
 87260autres pièces                 ot pjEs                       , d' autres pièces d'
 87270mettre ta                     mEt ta                        tu peux mettre ta pièce
 87280quatre cinq                   kat s5k                       deux trois quatre cinq six
-87328chambre de                    S@b d2                        dans la chambre de Jea ?
+87328chambre de                    S@b d2                        dans la chambre de Jean ?
 87412être dira                     Et di-Ra                      va p(eu)t être dira à
 87416autre cuillère                ot k8i-jER                    moi un(e) autre cuillère là
 87463autre dame                    ot dam                        et l' autre dame elle s'
@@ -2328,8 +2341,10 @@
 89755autre main                    ot m5                         lèves l' autre main .
 89770autre chose                   ot Soz                        jouer à autre chose .
 89783puzzle tous                   p9z tu                        fait un puzzle tous les
+89794chambre Jean                  S@b Z@                        dans ta chambre Jean !
 89795chambre pour                  S@b puR                       dans ta chambre pour le
 89856mettre là                     mEt la                        de l(e) mettre là !
+89910autres Jean                   ot Z@                         regarde les autres Jean .
 89911mettre celle                  mEt sEl                       encore la mettre celle là
 89926montre son                    m§t s§                        il te montre son ballon de
 89955mettre partout                mEt paR-tu                    pas en mettre partout !
@@ -2344,12 +2359,14 @@
 90162autres va                     ot va                         moi les autres va .
 90167ensemble comme                @-s@b kOm                     quat(r)e pattes ensemble comme ça
 90186feutres par                   f2t paR                       hop deux feutres par terre
+90201feutre Jean                   f2t Z@                        moi l(e) feutre Jean que
 90209autre côté                    ot ko-te                      de l' autre côté hein
 90280autre si                      ot si                         fais un(e) autre si tu
 90299entre les                     @t le                         tu passes entre les doigts .
 90302entre les                     @t le                         entre les doigts .
 90308feutre toi                    f2t twa                       pas mon feutre toi .
 90311être sur                      Et syR                        besoin d' être sur la
+90311table Jean                    tab Z@                        sur la table Jean ?
 90322autre dessin                  ot de-s5                      un autre dessin ?
 90351prendre c(el)ui               pR@d s8i                      on va prendre c(el)ui là
 90421table non                     tab n§                        sur la table non !
@@ -2357,7 +2374,7 @@
 90521peut-être que                 p2-tEt k2                     peut-être que demain il va faire
 90552autre qui                     ot ki                         encore un autre qui arrive
 90556autre qui                     ot ki                         encore un autre qui arrive !
-90560possible ça                   po-sib sa                     est pas possible ça Bro
+90560possible ça                   po-sib sa                     est pas possible ça Jean
 90566entre les                     @t le                         se glisser entre les branches
 90596mettre ma                     mEt ma                        de mettre ma main à moi
 90612lettre fais                   lEt fE                        est quelle lettre fais voir
@@ -2427,6 +2444,7 @@
 94215mettre des                    mEt de                        à t(e) mettre des cassettes
 94219être ça                       Et sa                         est p(eu)t être ça !
 94280sombre là                     s§b la                        il fait sombre là .
+94316prendre Théotime              pR@d te-o-tim                 t(e) le prendre Théotime .
 94330remettre dedans               R°-mEt d°-d@                  plus l(e) remettre dedans mais
 94365mettre des                    mEt de                        peux y mettre des choses
 94380remettre ça                   R°-mEt sa                     pour remettre ça * .
@@ -2461,7 +2479,7 @@
 96647ouvre pas                     uv pa                         on n' ouvre pas les poubelles
 96686montres le                    m§t l2                        tu lui montres le dessin
 96764être des                      Et de                         fais pour être des deux
-96766montre voir                   m§t vwaR                      montre voir Tim .
+96766montre voir                   m§t vwaR                      montre voir Théotime .
 96822mettre bien                   mEt bj5n                      va l(e) mettre bien à
 96879mettre les                    mEt le                        temps d(e) mettre les .
 96985concentre toi                 k§-s@t twa                    regarde , concentre toi plutôt
@@ -2470,6 +2488,7 @@
 97145être facile                   Et fa-sil                     va pas être facile ça
 97157chambre des                   S@b de                        dans ta chambre des fois
 97270chambre ça                    S@b sa                        une belle chambre ça .
+97357chambre Théotime              S@b te-o-tim                  est ta chambre Théotime ?
 97432être propre                   Et pROpR                      tu vas être propre là .
 97432propre là                     pROp la                       vas être propre là .
 97579autre là                      ot la                         a une autre là .
@@ -2492,6 +2511,7 @@
 98289souffles les                  suf le                        tu souffles les bougies ?
 98373ouvre la                      uv la                         elle ouvre la fenêtre pour regarder
 98373fenêtre pour                  f°-nEt puR                    ouvre la fenêtre pour regarder
+98394livres Théotime               liv te-o-tim                  sur les livres Théotime ?
 98451autre l'                      ot l                          a un autre l' à
 98459livre doucement               liv dus-m@                    referme le livre doucement .
 98504autre là                      ot la                         a un autre là ?
@@ -2589,7 +2609,7 @@
 102511chambre d'                    S@b d                         dans la chambre d' Amé
 102523mettre quoi                   mEt kwa                       fait pour mettre quoi ?
 102559battre pour                   bat puR                       à s(e) battre pour savoir
-102565chambre de                    S@b d2                        dans la chambre de Tim
+102565chambre de                    S@b d2                        dans la chambre de Théotime
 102566chambre d'                    S@b d                         dans la chambre d' Amé
 102580mettre sur                    mEt syR                       veux l(e) mettre sur ton
 102718être contente                 Et k§-t@t                     va pas être contente .
@@ -2628,6 +2648,7 @@
 104546livre de                      liv d2                        regarder le livre de mami
 104549livre de                      liv d2                        regarder le livre de mami
 104570mettre par                    mEt paR                       pas le mettre par terre non
+104602livre Théotime                liv te-o-tim                  sur le livre Théotime .
 104645être tout                     Et tu                         i(l) doit être tout doux .
 104646être douce                    Et dus                        ça doit être douce .
 104749quatre roues                  kat Ru                        trois roues quatre roues .
@@ -2678,6 +2699,8 @@
 106905autres choses                 ot Soz                        plein d' autres choses .
 106922livre de                      liv d2                        le livre de la jungle .
 106987mettre dans                   mEt d@                        mieux les mettre dans l'
+107135table Théotime                tab te-o-tim                  sur la table Théotime .
+107193souffle Théotime              suf te-o-tim                  souffle , souffle Théotime oh
 107257descendre pour                de-s@d puR                    monter et descendre pour .
 107294mettre le                     mEt l2                        tu vas mettre le sac
 107308autre pa(r)c(e)               ot pas                        à l' autre pa(r)c(e) que
@@ -2715,6 +2738,7 @@
 108928être changée                  Et S@-Ze                      besoin d' être changée .
 109199table de                      tab d2                        sur la table de la
 109201table de                      tab d2                        sur la table de la
+109207mordre Théotime               mORd te-o-tim                 pas se mordre Théotime .
 109237livres là                     liv la                        la les livres là .
 109331peut-être qu'                 p2-tEt k                      peut-être qu' on peut dire qu'
 109362mettre dans                   mEt d@                        pour mettre dans le feu .
@@ -2768,11 +2792,11 @@
 111248prendre la                    pR@d la                       faut prendre la .
 111311autre sens                    ot s@s                        dans l' autre sens .
 111540mettre d'                     mEt d                         faut mettre d' abord les bleus
-111599autre boîte                   ot bwat                       dans l' autre boîte Tim
+111599autre boîte                   ot bwat                       dans l' autre boîte Théotime
 111647mettre des                    mEt de                        tu veux mettre des légos
 111652mettre les                    mEt le                        bien les mettre les premiers
 111670mettre celui                  mEt sl8i                      bah viens mettre celui qu(e)
-111726chambre de                    S@b d2                        dans la chambre de Tim
+111726chambre de                    S@b d2                        dans la chambre de Théotime
 111782mettre sur                    mEt syR                       va se mettre sur la
 111790éteindre l'                   e-t5d l                       je vais éteindre l' eau du
 111868peut-être qu'                 p2-tEt k                      peut-être qu' i(l) * dessus .
@@ -2817,7 +2841,7 @@
 113768oeuvre pas                    9v pa                         copie d' oeuvre pas la
 113877possible ça                   po-sib sa                     c' est possible ça ?
 113941puzzles sont                  p9z s§                        * les puzzles sont complets
-113944chambre de                    S@b d2                        dans la chambre de Tim
+113944chambre de                    S@b d2                        dans la chambre de Théotime
 113967mettre dans                   mEt d@                        vas l(e) mettre dans l(e)carton
 114044tremblent plus                tR@b ply                      i(l) s tremblent plus là
 114060entre dehors                  @t d°-OR                      bruit , entre dehors et
@@ -2875,6 +2899,7 @@
 117071peut-être mangé               p2-tEt m@-Ze                  on a peut-être mangé des
 117078votre chambre                 vOt S@bR                      chacun dans votre chambre .
 117079mettre chacun                 mEt Sa-k1                     va se mettre chacun dans
+117081chambre Théotime              S@b te-o-tim                  dans ta chambre Théotime !
 117086chambre si                    S@b si                        dans ta chambre si tu
 117136mettre là                     mEt la                        aller les mettre là bas
 117177rentre le                     R@t l2                        qu' i(l) rentre le singe
@@ -3039,7 +3064,7 @@
 120870quatre quatre                 kat katR                      voiture la quatre quatre là
 120870quatre là                     kat la                        la quatre quatre là bas
 120876être prudent                  Et pRy-d@                     vaut mieux être prudent , voir
-120889autre sens                    ot s@s                        dans l' autre sens Tim
+120889autre sens                    ot s@s                        dans l' autre sens Théotime
 120895mettre la                     mEt la                        tu peux mettre la voiture et
 120899mettre ça                     mEt sa                        veux me mettre ça bien
 120921pauvre chat                   pov Sa                        pauvre chat !

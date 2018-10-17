@@ -8,8 +8,8 @@ cam01.cha 1 3 25 ko-m@ i fE l2 Sj5 ?
 cam01.cha 1 3 25 wuf !
 cam01.cha 1 3 25 wuf !
 cam01.cha 1 3 25 n§ b§ ty v2 1n otR livR ?
-cam01.cha 1 3 25 pR@z @n 1 !
-cam01.cha 1 3 25 pR@z @n 1n otR !
+cam01.cha 1 3 25 pR@z @ 1 !
+cam01.cha 1 3 25 pR@z @ 1n otR !
 cam01.cha 1 3 25 a-le pR@ 1n otR livR !
 cam01.cha 1 3 25 pR@ 1n otR livR puR liR a-vEk ma-m@ .
 cam01.cha 1 3 25 pR@ !
@@ -102,7 +102,7 @@ cam02.cha 1 4 08 mE di Se-Ri t a 1 fo-t9j puR liR !
 cam02.cha 1 4 08 sa s' e l2 pE-Ro-kE .
 cam02.cha 1 4 08 t§ la-p5 , il e la .
 cam02.cha 1 4 08 sa s' e l2 pwa-s§ , sa s' e l2 pwa-s§ .
-cam02.cha 1 4 08 wi sa s' et o-si 1 pwa-s§ .
+cam02.cha 1 4 08 wi sa s' e o-si 1 pwa-s§ .
 cam02.cha 1 4 08 u ty va ka-mij ?
 cam02.cha 1 4 08 k e s2 ty fE ?
 cam02.cha 1 4 08 k Es k2 ty fE # ?
@@ -648,7 +648,7 @@ cam10.cha 1 8 06 la o o-si # i a dez wa-zo , i f§ de ni a-vEk de p°-ti be-be .
 cam10.cha 1 8 06 i f§ de ni lez wa-zo , de ptit mE-z§ u i mEt le be-be .
 cam10.cha 1 8 06 wE , le be-be wa-zo .
 cam10.cha 1 8 06 § p2 pa a-le le SER-Se .
-cam10.cha 1 8 06 n§ , i s§ tRop o .
+cam10.cha 1 8 06 n§ , i s§ tRo o .
 cam10.cha 1 8 06 s' e o .
 cam10.cha 1 8 06 wE mE § p2 pa a-le le SER-Se Se-Ri , il s§ tu la o , tu la o syR l2 twa , syR l2 twa d2 la mE-z§ .
 cam10.cha 1 8 06 e la s' e kwa ?
@@ -927,7 +927,7 @@ cam14.cha 1 10 08 il e ka-se ?
 cam14.cha 1 10 08 5 ?
 cam14.cha 1 10 08 mER-si , ba t a vy l kRE-j§ kOm il e !
 cam14.cha 1 10 08 il e ka-se .
-cam14.cha 1 10 08 1n otR , pR@z @n 1n otR !
+cam14.cha 1 10 08 1n otR , pR@z @ 1n otR !
 cam14.cha 1 10 08 l Ot kwa ?
 cam14.cha 1 10 08 mE § p2 pa e-kRiR a-vEk s8i-la , R°-gaRd il e ka-se !
 cam14.cha 1 10 08 o n§ 5 !
@@ -1466,7 +1466,7 @@ cam20.cha 2 1 13 Z kRwa-jE k § f°-zE l2 p9zl de la-p5 .
 cam20.cha 2 1 13 n§ ty fE s8i-la .
 cam20.cha 2 1 13 o ba wi mE t o-RE py fER l2 p9zl de la-p5 d a-bOR !
 cam20.cha 2 1 13 b§ ba d a-bOR fE s8i-la a-lOR !
-cam20.cha 2 1 13 mE ka-mij fE @n 1 paR 1 , le fE pa tus @ mEm t@ !
+cam20.cha 2 1 13 mE ka-mij fE @ 1 paR 1 , le fE pa tus @ mEm t@ !
 cam20.cha 2 1 13 t E syR !
 cam20.cha 2 1 13 ty fE sl8i de nu-nuRs ?
 cam20.cha 2 1 13 de pti nu-nuRs .

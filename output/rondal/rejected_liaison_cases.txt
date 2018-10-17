@@ -4,6 +4,7 @@
 7 viens un                       viens un peu .
 9 souliers a                     mettre tes souliers a leur
 25 livres y                       pas tes livres y a
+30 en un                          prends en un autre .
 45 chien est                      le chien est sur la table
 49 pas une                        c' est pas une toto
 64 fait avec                      qu' on fait avec ca
@@ -57,6 +58,7 @@
 401 maisons aussi                  des maisons aussi .
 402 maisons oui                    des maisons oui .
 403 pas y                          y a pas y a pas
+406 beaucoup y                     en a beaucoup y a
 410 fatigant et                    est trop fatigant et puis
 411 pas a                          oui mais pas a terre
 413 non on                         non non on n' se met
@@ -238,6 +240,7 @@
 1662 veux un                        tu veux un papier pour ecrire
 1671 jouer avec                     oh pas jouer avec ca sais
 1672 jouer avec                     pas jouer avec la le poste
+1684 chaud aussi                    papa est chaud aussi .
 1697 toucher a                      ne pas toucher a la tv
 1698 casser hein                    vas la casser hein .
 1708 maman a                        porte que maman a d'
@@ -368,6 +371,7 @@
 2616 vas avec                       t' en vas avec l'
 2623 attention a                    ohoh attention a la fleur de
 2639 bien hein                      est tres bien hein ca
+2642 beaucoup m                     * pas beaucoup m .
 2669 maman ours                     la chaise maman ours .
 2670 maman ours                     chaise de maman ours .
 2671 dis un                         dis un peu qu' elle est
@@ -450,6 +454,7 @@
 3236 cles a                         elles tes cles a toi
 3249 casser hein                    pas l' casser hein .
 3250 pas a                          n' est pas a toi
+3261 en une                         prends en une et puis donne
 3261 sachet a                       donne le sachet a maman
 3270 manger une                     tu veux manger une chique ?
 3278 es un                          t' es un sale gamin .
@@ -584,6 +589,7 @@
 4195 maison oui                     la maison oui .
 4232 dis un                         dis un peu bam .
 4242 dirait un                      on dirait un bateau .
+4247 est aussi                      ca c' est aussi .
 4248 attends un                     attends un peu .
 4249 lapin aussi                    comme un lapin aussi .
 4254 t un                           c' ' t un p' tit
@@ -679,6 +685,7 @@
 4873 avion oui                      est un avion oui .
 4875 mais ou                        mais ou est ce la ?
 4898 garcon et                      p' tit garcon et la
+4898 est aussi                      fille c' est aussi tante
 4935 camion est                     et le camion est jaune .
 4945 non elle                       non elle n' est pas jaune
 4947 non elle                       non elle n' est pas jaune
@@ -1077,6 +1084,7 @@
 7344 pieds oui                      a tes pieds oui ?
 7349 pas attacher                   n' sais pas attacher .
 7367 pas a                          en donnes pas a maman
+7368 beaucoup a                     donnes pas beaucoup a papa
 7371 main ouverte                   sur ta main ouverte ?
 7388 voulez encore                  vous en voulez encore ?
 7408 tiens y                        tiens y a encore un p'
@@ -1385,6 +1393,7 @@
 9206 dis un                         dis un peu .
 9209 vas avoir                      tu vas avoir froid .
 9210 fais attention                 fais attention .
+9216 chez elle                      est rentree chez elle .
 9221 chercher un                    tu vas chercher un mouchoir
 9223 es un                          tu es un drole de p'
 9233 vas a                          tu vas a l' ecole avec
@@ -1576,6 +1585,7 @@
 10193 maman a                        ce que maman a fait
 10221 vient hein                     sang qui vient hein .
 10253 t y                            t y a encore beaucoup a
+10253 beaucoup a                     a encore beaucoup a ramasser
 10253 ramasser avant                 beaucoup a ramasser avant .
 10256 non y                          oh non y a plus rien
 10257 ramasser oui                   faut les ramasser oui .
@@ -1808,6 +1818,7 @@
 11380 tickets oui                    vend les tickets oui cheri
 11382 veux une                       toi tu veux une photo
 11386 pas aller                      n' fais pas aller le
+11387 est aussi                      c' est aussi un morceau du
 11394 rails hein                     sur les rails hein .
 11421 pas hein                       n' peuvent pas hein .
 11424 mets encore                    mets encore une barriere .
@@ -1863,12 +1874,14 @@
 11639 comment est-ce                 comment est-ce qu' i' faisait dehors
 11646 brun avec                      pas tout brun avec le
 11647 non et                         non et marie paule elle est
+11649 brun aussi                     il est brun aussi l' aut'
 11659 alors hein                     la figure alors hein .
 11660 pied alors                     coups d' pied alors .
 11667 ment avec                      tout douc' ment avec les
 11673 attends un                     attends un peu une minute hein
 11679 pas apres                      ne pleure pas apres papa comme
 11701 nant i                         et maint' nant i sont chez
+11701 chez eux                       i sont chez eux dans
 11702 manger aussi                   kate va manger aussi .
 11704 mais on                        oui mais on est revenu maint'
 11705 et i                           chez lui et i va
@@ -2389,6 +2402,7 @@
 14425 vas aller                      tu vas aller jouer ?
 14427 jouer au                       jouer au mgasin ?
 14428 jouer au                       on peut jouer au magasin
+14429 dans aussi                     monsieur va dans aussi ?
 14446 non elle                       non elle n' a pas eu
 14446 pas eu                         n' a pas eu beaucoup
 14448 as apporte                     toi t' as apporte un cadeau
@@ -2396,6 +2410,7 @@
 14456 puis on                        m et puis on est alle
 14457 non on                         non on a ete pour faire
 14460 fait encore                    on a fait encore ?
+14462 chez une                       est alle chez une madame
 14466 mis un                         a pas mis un p'
 14467 fais ah                        quand tu fais ah que
 14467 stephan a                      ah que stephan a du
@@ -2504,12 +2519,14 @@
 15040 maman a                        est-ce que maman a fait
 15041 fait au                        on a fait au bobo
 15045 maman a                        si hein maman a lave avec
+15047 beaucoup un                    ah pas beaucoup un p' tit
 15048 savon oui                      peu du savon oui .
 15049 puis elle                      et puis elle a mis quoi
 15055 nant i'                        oh maint' nant i' n' est
 15058 non on                         non on n' va pas dehors
 15060 mouilles aussi                 pieds tout mouilles aussi on
 15060 pantoufles et                  retirer les pantoufles et de
+15061 bas aussi                      et les bas aussi on
 15062 viens un                       viens un peu montrer a maman
 15062 montrer a                      un peu montrer a maman
 15068 viens un                       viens un peu voir * p'
@@ -2605,6 +2622,7 @@
 15662 pas a                          pas a marie claude ?
 15668 maman et                       et maman et papa aussi .
 15671 et avec                        et avec papa et maman ?
+15674 chez elle                      elle est chez elle suzanne .
 15677 maman a                        maman a mis l' enregistreur .
 15686 vas en                         que tu vas en faire
 15694 livres en                      est les livres en d'
@@ -2701,6 +2719,10 @@
 16296 affaires hein                  a tes affaires hein espece
 16303 parlent a                      i' parlent a leur maman ?
 16310 pas au                         en vont pas au magasin
+16311 chez eux                       i' restent chez eux ?
+16312 chez eux                       i' restent chez eux ?
+16313 chez eux                       ils restent chez eux ?
+16314 chez eux                       i' restent chez eux dans
 16316 et i'                          et i' parlent avec leur maman
 16316 parlent avec                   et i' parlent avec leur maman
 16317 parlent en                     i' parlent en anglais ?
@@ -2710,6 +2732,7 @@
 16330 attention hein                 fais attention hein .
 16333 peut avoir                     maman peut avoir un morceau ?
 16336 maman a                        maman a pris toutout ?
+16339 beaucoup a                     a laisse beaucoup a stephane
 16342 pas encore                     n' donnes pas encore un
 16359 fait une                       on a fait une photo
 16361 quand est-ce                   quand est-ce que maman a fait
@@ -2985,6 +3008,7 @@
 17885 et on                          et on est alles au birthday
 17889 faut aller                     i' faut aller ?
 17894 et on                          et on est alles au birthday
+17894 chez une                       au birthday chez une petite
 17901 as oublie                      t' as oublie hein ?
 17902 non on                         non on n' a pas oublie
 17902 pas oublie                     n' a pas oublie ?
@@ -3065,6 +3089,7 @@
 18279 autos elles                    temps les autos elles mettent
 18283 faites avancer                 ne les faites avancer .
 18286 pas hein                       n' saurais pas hein .
+18289 est aussi                      c' est aussi pour faire marcher
 18294 as encore                      t' as encore une piqure de
 18300 pas hein                       ne gratte pas hein sur celui~la
 18304 as encore                      tu as encore ete pique des
@@ -3235,6 +3260,7 @@
 19010 petit et                       mimi et petit et tonton
 19010 pierrot i'                     et tonton pierrot i' ont
 19012 jacques i'                     et tonton jacques i' s
+19012 ont aussi                      i' s ont aussi un
 19050 maman elle                     maman elle n' a jamais ete
 19054 et i'                          et i' vientdeposer les cadeaux santa
 19055 petits et                      les petits et les gros tout
@@ -3363,6 +3389,7 @@
 19620 monsieur et                    p' tit monsieur et une
 19620 et une                         tit monsieur et une petite
 19625 vont aller                     i' vont aller dans l' avion
+19629 dans en                        avion va dans en l'
 19629 alors on                       l' air alors on n'
 19629 rester hein                    sait pas rester hein cheri
 19630 rester hors                    pas savoir rester hors de
@@ -3379,6 +3406,7 @@
 19659 pas oublie                     t' as pas oublie d'
 19660 pas oublie                     as tu pas oublie ?
 19667 pas en                         n' faut pas en mettre
+19674 lesquels i'                    tuyaux dans lesquels i' y
 19680 avion hein                     dans l' avion hein ceux~la
 19680 vont hein                      s' en vont hein .
 19681 vont avec                      s' en vont avec les
@@ -3414,6 +3442,7 @@
 19841 voix elle                      que la voix elle ne
 19848 non i'                         non i' n' va pas travailler
 19848 travailler ici                 va pas travailler ici .
+19853 chez elle                      chez elle .
 19860 et un                          et un casque de pompier jef
 19862 vas avoir                      tu vas avoir un grand casque
 19866 pas un                         c' est pas un chose
@@ -3478,6 +3507,7 @@
 20144 monsieur i'                    le monsieur i' rentre dans la
 20146 doucement hein                 doucement hein .
 20160 voit un                        on voit un p' tit peu
+20197 chez elle                      elle est chez elle maint' nant
 20198 non elle                       non elle fait dodo maint' nant
 20208 et une                         tchitchi c' et une petite fille
 20210 pas une                        t' es pas une petite fille
@@ -3689,6 +3719,7 @@
 21247 portes un                      birthday tu portes un cadeau
 21249 portes un                      quand tu portes un cadeau
 21269 faut attendre                  faut attendre un petit peu .
+21271 trop en                        tu mets trop en bouche stephane
 21286 cracher hors                   beau de cracher hors de
 21288 pas ou                         n' sais pas ou papa
 21291 pas avec                       oh non pas avec ca qui
@@ -3700,6 +3731,7 @@
 21303 raisin avec                    piques le raisin avec la
 21318 laver a                        mise a laver a la
 21318 autrement on                   hein cheri autrement on n'
+21322 chez elle                      chez elle hein qu' elle est
 21333 pierrot et                     est tonton pierrot et tante
 21334 et i'                          et i' zont envoye quoi encore
 21334 pierrot et                     encore tonton pierrot et tante
@@ -3775,6 +3807,7 @@
 21839 maison ou                      dans la maison ou y
 21840 pas aller                      n' peut pas aller la
 21841 un hein                        pas quelqu' un hein qui
+21855 est aussi                      ca c' est aussi un
 21856 pompier aussi                  un autre pompier aussi .
 21861 pompier a                      le pompier a mis son casque
 21881 et i'                          ca et i' y a encore
@@ -3799,6 +3832,7 @@
 21996 auras encore                   que t' auras encore mal
 21998 fais attention                 fais attention .
 22003 demandes a                     stephane tu demandes a maman
+22006 chez eux                       qui rentrent chez eux .
 22017 maman ours                     est la maman ours ?
 22043 faut une                       i' faut une autre .
 22048 maman aussi                    lit de maman aussi .
@@ -3890,6 +3924,7 @@
 22575 pas avec                       ah pas avec les rouges .
 22596 pas avec                       n' va pas avec ceux~la
 22603 pas aller                      n' peut pas aller dans
+22605 autres aussi                   les autres aussi alors .
 22606 mets un                        mets un peu les rouges la
 22616 ben alors                      eh ben alors on va chercher
 22616 alors on                       eh ben alors on va chercher
@@ -3940,6 +3975,7 @@
 22962 pas avec                       pas avec ce jeu~la on n'
 22971 garder hein                    maman r' garder hein ?
 22972 fais une                       ben fais une grande fumee hein
+22980 trop a                         d' apporter trop a la
 22988 bien oui                       tu veux bien oui ?
 22989 fais un                        oui je fais un tricycle .
 22996 pas une                        n' fait pas une roue
@@ -4245,6 +4281,7 @@
 24523 pas avec                       n' joue pas avec ca
 24524 marches oui                    quand tu marches oui .
 24530 hein oui                       hein oui ?
+24541 chez elle                      elle est chez elle .
 24548 assieds a                      tu t' assieds a ta
 24559 prends un                      tu prends un gros morceau pour
 24563 enfants i'                     p' tits enfants i' zont
@@ -4330,6 +4367,7 @@
 24948 mets en                        tu l' mets en bouche
 24954 vient ici                      on r' vient ici ?
 24956 puis on                        janet et puis on revient
+24984 chez une                       es alle chez une madame
 24986 et y                           et y a des p' tits
 24990 garcon etait                   le grand garcon etait parti avec
 24991 etait au                       son papa etait au bureau .
@@ -4373,10 +4411,12 @@
 25203 as eu                          oui t' as eu un grand
 25203 sachet un                      un grand sachet un grand
 25205 enfants i'                     p' tits enfants i' s
+25205 un aussi                       ont eu un aussi ?
 25209 chercher hein                  faut chercher hein tresor .
 25211 faut un                        i' lui faut un cheval .
 25218 descends un                    descends un peu d' ta chaise
 25219 puis on                        et puis on est alles chez
+25219 chez une                       est alles chez une madame
 25220 avait une                      ou y avait une petite fille
 25223 mets a                         tu l' mets a l' envers
 25236 dis a                          mais dis a maman ainsi .
@@ -4725,6 +4765,7 @@
 26839 pas assis                      s' est pas assis .
 26841 et i'                          la chaise et i' pleurebebe
 26843 hein on                        ah oui hein on la f'
+26844 chez un                        la chaise chez un menuisier
 26844 menuisier et                   chez un menuisier et i'
 26844 et i'                          un menuisier et i' demandera
 26844 garcon hein                    p' tit garcon hein .
@@ -4799,6 +4840,9 @@
 27247 et y                           * oui et y avait encore
 27247 avait encore                   et y avait encore des
 27252 maman et                       avec sa maman et sa
+27252 chez elle                      sa soeur chez elle et
+27254 chez eux                       i' sont chez eux maint' nant
+27255 chez eux                       i' sont chez eux .
 27260 avait une                      y avait une petite maison en
 27260 maison en                      une petite maison en candy
 27262 et i'                          et i' y avait un p'
@@ -5248,6 +5292,7 @@
 29053 pas assez                      y a pas assez .
 29054 faut encore                    faut encore beaucoup beaucoup .
 29064 pas assez                      t' as pas assez pour un
+29069 sous aussi                     avec les sous aussi ?
 29071 lait aussi                     et du lait aussi .
 29072 abord aussi                    d' abord aussi oui je vois
 29087 nez aussi                      voila son nez aussi .
@@ -5298,6 +5343,7 @@
 29247 attention a                    fais attention a n' pas laisser
 29249 pas un                         c' est pas un chameau .
 29256 pied hein                      et son pied hein .
+29259 deux aussi                     en a deux aussi .
 29270 souris hein                    p' tite souris hein .
 29273 zizis et                       des zizis et deux zazas .
 29274 lapin hein                     est un lapin hein mon
@@ -5588,6 +5634,7 @@
 30467 fais avec                      que tu fais avec tes
 30467 personnages hein               p' tits personnages hein moi
 30468 manger un                      i' va manger un aussi
+30468 un aussi                       va manger un aussi ?
 30469 pas un                         n' est pas un monsieur
 30478 hein oui                       hein oui ?
 30479 monsieur avec                  un autre monsieur avec sa
@@ -5800,6 +5847,7 @@
 31344 mais attends                   mais attends .
 31346 non il                         non il n' etait pas comme
 31348 roux hein                      tit chat roux hein .
+31349 chez une                       oh chez une autre madame et
 31349 et un                          autre madame et un autre
 31352 maman et                       parce que maman et papa ne
 31353 maman i'                       papa et maman i' voulaient pas
@@ -5837,6 +5885,7 @@
 31486 pas a                          n' sais pas a qui
 31497 pris a                         les a pris a la
 31500 peut en                        on peut en prendre beaucoup a
+31500 beaucoup a                     en prendre beaucoup a la
 31504 puis et                        et puis et qu' est-ce que
 31504 fait alors                     tu as fait alors ?
 31506 prends et                      tu prends et puis tu t'
@@ -6157,6 +6206,7 @@
 32640 viennent ici                   quand ils viennent ici .
 32641 vas etre                       tu vas etre gentil ?
 32642 jouer avec                     le laisser jouer avec tes
+32644 beaucoup avec                  en a beaucoup avec les
 32646 jouer avec                     petits enfants jouer avec tes
 32648 alors il                       alors il faut etre poli hein
 32648 faut etre                      alors il faut etre poli hein
@@ -6308,6 +6358,7 @@
 33380 dit y                          bear dit y a pas d'
 33383 dit oh                         et bear dit oh y a
 33383 fourchettes elles              pas d' fourchettes elles sont
+33383 sales aussi                    sont toutes sales aussi .
 33384 comment est-ce                 comment est-ce que j' vais manger
 33385 mais aujourd'hui               suis desole mais aujourd'hui j'
 33386 peut etre                      la et peut etre que
@@ -6350,6 +6401,7 @@
 33507 garcon il                      p' tit garcon il avait
 33508 toit aussi                     sur le toit aussi .
 33515 et i'                          et i' tombent tous les deux
+33516 deux aussi                     tous les deux aussi .
 33517 tombent i'                     i' tombent i' tombent i' tombent
 33517 tombent i'                     tombent i' tombent i' tombent
 33517 tombent ouf                    tombent i' tombent ouf .
@@ -6463,6 +6515,7 @@
 34141 es un                          et tu es un grand ?
 34146 font avec                      qu' ils font avec le
 34161 vas a                          tu vas a como ?
+34170 beaucoup avec                  as parle beaucoup avec mamy
 34177 content ou                     il etait content ou parce
 34182 sait encore                    on sait encore se servir de
 34191 grand ou                       est un grand ou bien
@@ -6624,6 +6677,7 @@
 35065 amusant hein                   est pas amusant hein .
 35066 pas amusant                    c' est pas amusant .
 35067 pas une                        ne fais pas une maison
+35071 beaucoup aujourd'hui           parle pas beaucoup aujourd'hui tu
 35072 collier est                    ton collier est fini oui .
 35075 non il                         non il n' est pas trop
 35082 collier est                    ton nouveau collier est plus
@@ -6721,6 +6775,7 @@
 35540 hein a                         connais bien hein a la
 35543 est oh                         elle est oh .
 35545 etait a                        anick etait a l' ecole .
+35546 chez elle                      etait pas chez elle .
 35548 pas ou                         ne sais pas ou .
 35554 manger a                       peus le manger a condition
 35557 mais attends                   mais attends un petit peu .
@@ -6900,6 +6955,7 @@
 36323 et alors                       l' sable et alors le
 36329 alors avec                     doit faire alors avec les
 36339 vas avoir                      si tu vas avoir du shampooing
+36356 moins i'                       au moins i' n' glisse pas
 36361 allez en                       allez en avant .
 36371 bras avec                      pas tes bras avec du
 36380 attends attends                attends attends .
@@ -6971,6 +7027,7 @@
 36705 en haut                        faire pipi en haut .
 36729 pas eu                         t' as pas eu ton chapeau
 36742 jouer a                        tu vas jouer a quoi ?
+36744 dans enfin                     maman mettra dans enfin on
 36744 enfin on                       mettra dans enfin on l'
 36746 jouer avec                     sauras pas jouer avec les
 36747 jouer avec                     peut pas jouer avec les
@@ -7014,8 +7071,10 @@
 36937 chercher a                     n' vas chercher a chercher
 36937 bien on                        a chercher bien on t'
 36939 en haut                        en haut .
+36944 toutes s                       tu prends toutes s tout
 36945 apres i'                       parce qu' apres i' n'
 36946 peux en                        tu peux en prendre un tout
+36952 toutes l                       avais pris toutes l tous
 36958 ben on                         eh ben on d' mande gentiment
 36962 mot encore                     un petit mot encore .
 36966 doit avoir                     i' doit avoir des aut' .
@@ -7231,6 +7290,7 @@
 37763 et on                          parc como et on a
 37771 tomber hein                    laisses pas tomber hein ?
 37783 pas un                         c' est pas un jouet .
+37789 tout aussi                     pourrait tout aussi bien r' tirer
 37805 tomber hein                    as laisse tomber hein l'
 37806 lors i'                        depuis lors i' n' va plushein
 37808 tomber i'                      as laisse tomber i' n'
@@ -7362,9 +7422,12 @@
 38374 et ou                          et ou est-ce que ca va
 38391 et elle                        et elle est plus grosse que
 38403 comment est-ce                 comment est-ce qu' i' s' appellent
+38411 jean il                        jean il est plus grand .
 38415 hein oui                       que marc hein oui ?
 38418 quand i'                       quand i' sont rentres chez dans
 38419 quand i'                       i' font quand i' sont
+38419 chez eux                       le temps chez eux les
+38420 jean est                       ah jean est alle nage oui
 38421 mais ou                        mais ou est-ce qu' i' sont
 38427 as un                          t' as un teacher ?
 38436 disent aux                     elles disent aux p' tits enfants
@@ -7610,6 +7673,7 @@
 39561 hein il                        hein il a un aut' nom
 39565 comment est-ce                 comment est-ce qu' eric dit *
 39566 comment est-ce                 comment est-ce qu' il dit ?
+39572 jean oui                       jean oui cheri .
 39581 quand y                        oui mais quand y a deux
 39583 etaient a                      toi ye etaient a l'
 39591 toujours hein                  la rue toujours hein oui
@@ -7619,6 +7683,7 @@
 39595 quand y                        quand y a pas de stop
 39596 peut aller                     on peut aller .
 39597 stoppent aussi                 signs qui stoppent aussi ?
+39601 est aussi                      c' est aussi des stop signs
 39606 auras un                       t' auras un kouki quand on
 39607 mais on                        mais on va manger a l'
 39607 manger a                       on va manger a l'
@@ -7641,9 +7706,11 @@
 39662 maman elle                     oh mais maman elle n' a
 39664 pas attraper                   n' sait pas attraper les
 39669 pas un                         n' est pas un lion
+39679 est aussi                      il est aussi gros qu' la
 39686 gros hein                      c' est gros hein a dinosaure
 39686 hein a                         est gros hein a dinosaure
 39697 non i'                         non i' n' sont * .
+39707 est aussi                      il est aussi grand que beaucoup
 39713 griffes a                      toutes les griffes a ses
 39714 pointues hein                  pointues hein les griffes ?
 39719 mais ils                       sais tu mais ils se
@@ -8282,6 +8349,7 @@
 42603 et une                         menottes la et une de
 42604 policier et                    un le policier et au
 42604 et au                          le policier et au bras
+42606 dans aux                       ou bien dans aux deux bras
 42613 quand i                        s' arreter quand i y
 42613 croisent hein                  qui se croisent hein ?
 42619 rien a                         n' a rien a voir
@@ -8410,6 +8478,7 @@
 43102 quand y                        on fait quand y a
 43108 mais oui                       mais oui bien sur .
 43109 pas autant                     y a pas autant de
+43113 chez olivier                   ah chez olivier ?
 43116 lampes aussi                   sur les lampes aussi ?
 43136 hein oui                       ca cheri hein oui ?
 43145 pas en                         n' a pas en d'
@@ -8587,6 +8656,7 @@
 43759 doit etre                      ca ca doit etre une bmw
 43761 pas une                        n' est pas une de
 43762 ben oui                        ben oui plus ou moins une
+43762 moins une                      plus ou moins une voiture
 43767 ben on                         oui ben on va avoir fini
 43769 fait une                       on a fait une demie
 43770 veux encore                    ah tu veux encore t' enregistrer
@@ -8635,6 +8705,7 @@
 43965 bien hein                      tiens pas bien hein qu'
 43970 fais une                       tu tu fais une autre
 43971 vas encore                     tu vas encore charger des briques
+43980 chez isabelle                  maison comme chez isabelle ?
 43989 vois une                       ben je vois une maison .
 44004 mais elle                      ah oui mais elle ne tient
 44018 faut encore                    qu' i' faut encore faire
@@ -8859,6 +8930,7 @@
 44729 bien on                        une ou bien on fait
 44731 ben oui                        ben oui bien sur tu vois
 44732 pas ensemble                   pas ensemble .
+44737 autres aussi                   defaire tes autres aussi si
 44738 pas assez                      n' as pas assez d'
 44739 mais oui                       mais oui mais c' est c'
 44740 pas assez                      n' auras pas assez d'
@@ -8980,6 +9052,8 @@
 45168 comment on                     comment on apprend ?
 45170 allant a                       en allant a l' ecole .
 45172 avions hein                    fais des avions hein mon
+45179 deux aussi                     ont mis deux aussi .
+45180 deux aussi                     ont mis deux aussi tout
 45185 pas ici                        en a pas ici .
 45186 pas ou                         n' sais pas ou il
 45200 enregistrer hein               de t' enregistrer hein mon
@@ -9028,6 +9102,8 @@
 45400 aimes autant                   t' aimes autant hein ?
 45400 autant hein                    t' aimes autant hein ?
 45407 mais enfin                     mais enfin si tu n' as
+45408 en un                          donne m' en un .
+45409 en un                          donne m' en un .
 45411 faut encore                    m' en faut encore deux
 45414 faut encore                    m' en faut encore un
 45417 non oui                        non oui c' est tres bien
@@ -9102,6 +9178,7 @@
 45672 bras en                        pousse les bras en avant
 45679 vois une                       voila tu vois une fois en
 45679 fois en                        vois une fois en une
+45679 en une                         une fois en une fois
 45680 puis alors                     oui et puis alors plier comme
 45681 viens ici                      viens ici mon chou .
 45682 viens ici                      viens ici mon chou .
@@ -9128,6 +9205,7 @@
 45717 avait un                       * y avait un grand et
 45717 grand et                       avait un grand et je
 45718 pas un                         y avait pas un petit
+45718 petit aussi                    pas un petit aussi ?
 45719 pas un                         y avait pas un petit
 45720 pas a                          n' sais pas a qui
 45721 peut etre                      a eli peut etre .
@@ -9229,12 +9307,15 @@
 46051 bon alors                      ho bon alors ils ne sont
 46051 alors ils                      ho bon alors ils ne sont
 46062 mais on                        plus petit mais on deviendra
+46078 dans l                         qui partira dans l parachut
 46083 retournait ou                  elle retournait ou ?
 46086 maman hein                     chez sa maman hein elle
 46086 hein elle                      sa maman hein elle .
 46087 maison a                       dans sa maison a *
+46095 chez elle                      qui va chez elle comme
 46097 mais y                         mais y a un bus qui
 46099 mais elle                      mais elle n' est pas retournee
+46100 chez elle                      est retournee chez elle .
 46103 rien entendre                  va plus rien entendre .
 46107 pas a                          ne touche pas a ca maintenant
 46109 dis ecoute                     dis ecoute un peu ce que
@@ -9261,6 +9342,7 @@
 46188 maison a                       la maison a cote ?
 46189 maison a                       a la maison a cote
 46191 bas oui                        est plus bas oui et
+46193 chez eux                       ils sont chez eux .
 46196 peut etre                      est ca peut etre .
 46205 t on                           ou va t on ?
 46209 maman essayera                 un jour maman essayera de te

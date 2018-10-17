@@ -1,8 +1,6 @@
 10   un autre                      1n otR                        tu veux un autre livre
 11   prends en                     pR@z @                        prends en un !
-11   en un                         @n 1                          prends en un !
 12   prends en                     pR@z @                        prends en un autre !
-12   en un                         @n 1                          prends en un autre !
 12   un autre                      1n otR                        prends en un autre !
 13   un autre                      1n otR                        allez prends un autre livre !
 14   un autre                      1n otR                        prends un autre livre pour lire
@@ -13,7 +11,6 @@
 46   vas y                         vaz i                         allez vas y !
 50   est un                        et 1                          ça c' est un petit chat
 51   est un                        et 1                          c' est un poteau !
-105  est aussi                     et o-si                       ça c' est aussi un
 124  un autre                      1n otR                        en chercher un autre ma
 125  un autre                      1n otR                        me chercher un autre livre
 162  est un                        et 1                          ça c' est un chat .
@@ -57,7 +54,6 @@
 643  les oiseaux                   lez wa-zo                     les oiseaux .
 647  des oiseaux                   dez wa-zo                     y a des oiseaux ,
 648  les oiseaux                   lez wa-zo                     des nids les oiseaux ,
-651  trop hauts                    tRop o                        i(ls) sont trop hauts .
 655  ses amis                      sez a-mi                      elle cherche ses amis .
 656  les amis                      lez a-mi                      sont là les amis ,
 660  est une                       et yn                         c' est une .
@@ -137,7 +133,6 @@
 914  est un                        et 1                          , c' est un chien
 930  un autre                      1n otR                        un autre , prends en un
 930  prends en                     pR@z @                        autre , prends en un
-930  en un                         @n 1                          , prends en un autre
 930  un autre                      1n otR                        prends en un autre !
 954  est une                       et yn                         ça c' est une montre
 956  est un                        et 1                          ça c' est un avion ,
@@ -218,7 +213,6 @@
 1440 est une                       et yn                         ça c' est une mouche .
 1447 tout à                        tut a                         l(a) regardera tout à l'
 1451 vas y                         vaz i                         , allez vas y !
-1469 en un                         @n 1                          camille fais en un par
 1517 les animaux                   lez a-ni-mo                   a tous les animaux là
 1520 est un                        et 1                          ça c' est un coquetier
 1526 un arbre                      1n aRbR                       un arbre .

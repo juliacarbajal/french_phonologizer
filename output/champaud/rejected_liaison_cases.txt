@@ -446,6 +446,7 @@
 2427 non il                         oh non il va pas monter
 2427 monter à                      va pas monter à la
 2434 cours hein                     ah tu cours hein .
+2436 est aussi                      remarque c' est aussi bien .
 2450 sautes aussi                   toi tu sautes aussi .
 2452 non il                         oh non il faut pas faire
 2454 fois il                        des fois il casse quelque chose
@@ -713,6 +714,9 @@
 3764 ait encore                     qu' il ait encore dit
 3766 mais y                         en veut mais y a
 3768 et à                          et à nous , aussi .
+3770 moins en                       de moins en moins c' est
+3770 moins en                       est de moins en moins
+3771 moins en                       de moins en moins souvent .
 3772 renforcer en                   tendance à renforcer en mettant
 3772 mettant un                     renforcer en mettant un moi
 3772 redondant à                   moi , redondant à la
@@ -900,6 +904,7 @@
 4385 content adrien                 va être content adrien tiens
 4386 as alignés                    tu les as alignés d' une
 4392 vois il                        tu vois il faut venir plus
+4392 trop ému                      il est trop ému .
 4400 câlin à                      faire un câlin à ton
 4401 fait incroyable                tout à fait incroyable il
 4401 complètement intimidé        il est complètement intimidé parce
@@ -1009,6 +1014,7 @@
 4695 et en                          pas où et en fait
 4695 bain et                        le grand bain et la
 4703 maintenant elle                maintenant elle est rentrée chez elle
+4703 chez elle                      est rentrée chez elle elle
 4703 pinpin alors                   l' appelle pinpin alors sa
 4706 avait en                       là y avait en particulier une
 4706 particulier une                avait en particulier une pergola
@@ -1156,6 +1162,7 @@
 5189 mais il                        mais il est pas là adrien
 5189 adrien il                      pas là adrien il a
 5190 est adrien                     où il est adrien ?
+5192 trop en                        t' es trop en arrière jouboudou
 5194 non ah                         ah non ah non ça tu
 5194 pas à                         tu montres pas à christian
 5195 pas utile                      c' est pas utile tu sais
@@ -1194,6 +1201,7 @@
 5265 part à                        sinon ça part à la
 5267 allez où                      allez où est-ce qu' il est
 5273 justement on                   tant pis justement on va
+5275 beaucoup au                    qui ressemble beaucoup au tien
 5278 étouffent avec                bébés s' étouffent avec des
 5279 adrien entre                   préféré d' adrien entre un
 5279 an et                          entre un an et deux

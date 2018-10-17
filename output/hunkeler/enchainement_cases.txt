@@ -2,11 +2,9 @@
 2      page est                      pa Ze                         attends la page est collée .
 5      c' est                        se                           et là c' est quoi
 10     un autre                      1 not                         tu veux un autre livre
-11     prends en                     pR@ z@n                       prends en un !
-11     en un                         z@ n1                         prends en un !
-12     prends en                     pR@ z@n                       prends en un autre !
-12     en un                         z@ n1n                        prends en un autre !
-12     un autre                      n1 notR                       prends en un autre !
+11     prends en                     pR@ z@                        prends en un !
+12     prends en                     pR@ z@                        prends en un autre !
+12     un autre                      1 notR                        prends en un autre !
 13     un autre                      1 not                         allez prends un autre livre !
 14     un autre                      1 not                         prends un autre livre pour lire
 14     lire avec                     li Ra-vEk                     livre pour lire avec maman
@@ -75,8 +73,7 @@
 103    il est                        i le                          lapin , il est là
 104    c' est                        se                           ça c' est le poisson ,
 104    c' est                        se                           , ça c' est le
-105    c' est                        set                          oui ça c' est aussi un
-105    est aussi                     se to-si                      ça c' est aussi un
+105    c' est                        se                           oui ça c' est aussi un
 107    qu' est                       ke                           qu' est ce tu fais ?
 108    qu' est-ce                    kEs                          qu' est-ce que tu fais poupette
 109    faire un                      fE R1                         tu viens faire un gâté à
@@ -439,7 +436,6 @@
 646    l' oiseau                     lwa-zo                       est parti l' oiseau .
 647    des oiseaux                   de zwa-zo                     y a des oiseaux ,
 648    les oiseaux                   le zwa-zo                     des nids les oiseaux ,
-651    trop hauts                    tRo po                        i(ls) sont trop hauts .
 652    c' est                        se                           c' est haut .
 654    c' est                        se                           et là c' est quoi ?
 655    c' est                        se                           c' est la petite chèvre ,
@@ -741,9 +737,8 @@
 928    il est                        mi le                         crayon comme il est !
 929    il est                        i le                          il est cassé .
 930    un autre                      1 notR                        un autre , prends en un
-930    prends en                     pR@ z@n                       autre , prends en un
-930    en un                         z@ n1n                        , prends en un autre
-930    un autre                      n1 notR                       prends en un autre !
+930    prends en                     pR@ z@                        autre , prends en un
+930    un autre                      1 notR                        prends en un autre !
 931    l' aut(r)e                    lOt                          l' aut(r)e quoi ?
 932    écrire avec                   e-kRi Ra-vEk                  peut pas écrire avec çuilà
 932    regarde il                    R°-gaR dil                    çuilà , regarde il est
@@ -1225,7 +1220,6 @@
 1467   t(u) aurais                   to-RE                        oui mais t(u) aurais pu
 1467   d' abord                      da-bOR                       des lapins d' abord !
 1468   d' abord                      da-bOR                       bon bah d' abord fais çuilà
-1469   en un                         @ n1                          Camille fais en un par
 1469   par un                        pa R1                         en un par un ,
 1469   tous en                       tu s@                         fais pas tous en même
 1470   t(u) es                       tE                           t(u) es sûr !

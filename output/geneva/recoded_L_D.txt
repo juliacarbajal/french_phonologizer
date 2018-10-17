@@ -385,7 +385,7 @@ gen1.cha 1 8 26 m5t-n@ m§tR a pa-pa !
 gen1.cha 1 8 26 n§ n§ ma-Ri .
 gen1.cha 1 8 26 sa s' e d@ l al-bOm .
 gen1.cha 1 8 26 sEl la Z2 la mE u ?
-gen1.cha 1 8 26 mE la Sez El !
+gen1.cha 1 8 26 mE la Se El !
 gen1.cha 1 8 26 e p8i lez otR ?
 gen1.cha 1 8 26 Se nu .
 gen1.cha 1 8 26 le d2 ?
@@ -1242,7 +1242,7 @@ gen12.cha 2 1 28 k Es ki e ka-se syR la pu-sEt ?
 gen12.cha 2 1 28 ty t E fE mal o dwa ?
 gen12.cha 2 1 28 a , syR l2 bOR dy kOfR .
 gen12.cha 2 1 28 fE a-t@-sj§ a twa .
-gen12.cha 2 1 28 t E 1 p2 tRop o bOR , wi .
+gen12.cha 2 1 28 t E 1 p2 tRo o bOR , wi .
 gen12.cha 2 1 28 vwa-la .
 gen12.cha 2 1 28 kOm sa s' e mj2 .
 gen12.cha 2 1 28 vwa-la , kOm sa ty E bj5n o mi-lj2 .
@@ -1857,8 +1857,8 @@ gen13.cha 2 2 11 # ?
 gen13.cha 2 2 11 n§ .
 gen13.cha 2 2 11 l°-kEl ?
 gen13.cha 2 2 11 n§ .
-gen13.cha 2 2 11 sa s' e Z@-ti dZin .
-gen13.cha 2 2 11 Z@-ti dZin s @ vj5 d la vil # # # a a a a .
+gen13.cha 2 2 11 sa s' e Z@-ti Z@ .
+gen13.cha 2 2 11 Z@-ti Z@ s @ vj5 d la vil # # # a a a a .
 gen13.cha 2 2 11 pa tuR-ne le paZ kOm sa ma-Ri .
 gen13.cha 2 2 11 vwa-la .
 gen13.cha 2 2 11 n§ .
@@ -2236,7 +2236,7 @@ gen14.cha 2 3 03 sEl la El va u ?
 gen14.cha 2 3 03 e la , il e u l2 Sa ?
 gen14.cha 2 3 03 # # .
 gen14.cha 2 3 03 e p8i la ma-Ri , il e u l2 Sa ?
-gen14.cha 2 3 03 wi , sa s' et o-si 1 Sa .
+gen14.cha 2 3 03 wi , sa s' e o-si 1 Sa .
 gen14.cha 2 3 03 mE la , il e u ?
 gen14.cha 2 3 03 sa s' e l2 Sa ?
 gen14.cha 2 3 03 R°-gaRd !
@@ -2370,7 +2370,7 @@ gen15.cha 2 3 13 de stOR , s' e de stOR wE .
 gen15.cha 2 3 13 § n a pa de vo-lE i-si .
 gen15.cha 2 3 13 ty sE ?
 gen15.cha 2 3 13 Se # ?
-gen15.cha 2 3 13 n§ , Se # s' et o-si de stOR Z kRwa .
+gen15.cha 2 3 13 n§ , Se # s' e o-si de stOR Z kRwa .
 gen15.cha 2 3 13 kOm i-si .
 gen15.cha 2 3 13 # ?
 gen15.cha 2 3 13 kEl # ?
@@ -2951,7 +2951,7 @@ gen16.cha 2 5 26 sa s' e , s' e .
 gen16.cha 2 5 26 il e tRo p°-ti puR sa , le kaRt .
 gen16.cha 2 5 26 ot Soz .
 gen16.cha 2 5 26 # # .
-gen16.cha 2 5 26 n§ , le livR , il et o-si tRo p°-ti ma-Ri .
+gen16.cha 2 5 26 n§ , le livR , il e o-si tRo p°-ti ma-Ri .
 gen16.cha 2 5 26 ty sE ?
 gen16.cha 2 5 26 e n§ ma-Ri .
 gen16.cha 2 5 26 il e tRo p°-ti puR le livR .
@@ -3541,7 +3541,7 @@ gen17.cha 2 6 10 wi ma-Ri k@t il vjEn le Z@ § p2 le sOR-tiR .
 gen17.cha 2 6 10 a-lOR ki va v°-niR ?
 gen17.cha 2 6 10 § va p2-tEtR a-ple kRis-tj@ e glo-Rja ?
 gen17.cha 2 6 10 ty ko-nE pa kRis-tj@ e glo-Rja ?
-gen17.cha 2 6 10 e bj5n il s§ Sez 2 .
+gen17.cha 2 6 10 e bj5n il s§ Se 2 .
 gen17.cha 2 6 10 § lez a-pEl-Ra puR l9R d°-m@-de s il v9l v°-niR m@-Ze .
 gen17.cha 2 6 10 n§ , § va pa lez a-ple m5t-n@ ma-Ri .
 gen17.cha 2 6 10 pa m5t-n@ .
@@ -3687,8 +3687,8 @@ gen17.cha 2 6 10 wi s' e # ki a @-vwa-je .
 gen17.cha 2 6 10 a , il t @n a o-si @-vwa-je yn ?
 gen17.cha 2 6 10 El e u ta kaRt pOs-tal ?
 gen17.cha 2 6 10 ty sE pa # ?
-gen17.cha 2 6 10 o , sa s' e dZin ki t a @-vwa-je .
-gen17.cha 2 6 10 t§ pa-R5 dZin .
+gen17.cha 2 6 10 o , sa s' e Z@ ki t a @-vwa-je .
+gen17.cha 2 6 10 t§ pa-R5 Z@ .
 gen17.cha 2 6 10 s' e # .
 gen17.cha 2 6 10 # ki a @-vwa-je .
 gen17.cha 2 6 10 o .
@@ -4180,7 +4180,7 @@ gen2.cha 1 9 03 wi s' et 1 p°-ti Sa , wi .
 gen2.cha 1 9 03 l2 # il fE do-do , wi .
 gen2.cha 1 9 03 sa s' e le p°-ti pu-s5 .
 gen2.cha 1 9 03 wi , il i @n a 1 ki fE do-do la .
-gen2.cha 1 9 03 sa s' et o-si 1 p°-ti Sa .
+gen2.cha 1 9 03 sa s' e o-si 1 p°-ti Sa .
 gen2.cha 1 9 03 k Es ki e ka-se ma Se-Ri ?
 gen2.cha 1 9 03 k Es ki e ka-se ?
 gen2.cha 1 9 03 wi , sa s' et yn vaS .
@@ -4315,7 +4315,7 @@ gen3.cha 1 9 10 il fo k2 Z2 m2 mEt a ko-te d2 twa ?
 gen3.cha 1 9 10 il a o-si l2 ne ki kul , pa-pa , ty vwa ?
 gen3.cha 1 9 10 §n a tus l2 Rym .
 gen3.cha 1 9 10 §n a tus l2 Rym .
-gen3.cha 1 9 10 wi , t§ gi-NOl il et o-si ku-Se .
+gen3.cha 1 9 10 wi , t§ gi-NOl il e o-si ku-Se .
 gen3.cha 1 9 10 il dOR , # ?
 gen3.cha 1 9 10 ty t2 kuS a ko-te d2 # ?
 gen3.cha 1 9 10 Z2 dwa fER do-do ?
@@ -5030,7 +5030,7 @@ gen5.cha 1 10 01 ty v2 pR@dR 1n ot livR ?
 gen5.cha 1 10 01 il n e pa ka-se l2 ba-l§ .
 gen5.cha 1 10 01 n§ .
 gen5.cha 1 10 01 n§ n§ .
-gen5.cha 1 10 01 ty sE , §n a tutz u-vER le pORt k § pu-vE u-vRiR Zysk a o-ZuR-d8i ma-Ri .
+gen5.cha 1 10 01 ty sE , §n a tut u-vER le pORt k § pu-vE u-vRiR Zysk a o-ZuR-d8i ma-Ri .
 gen5.cha 1 10 01 a ty sE s2 k2 ty p2 fER ma-Ri ?
 gen5.cha 1 10 01 ma-Ri , ty sE s2 k2 ty p2 fER ?
 gen5.cha 1 10 01 ty p2 pR@d le So-sEt e lez am-ne a ma-m@ .
@@ -5122,7 +5122,7 @@ gen5.cha 1 10 01 la il i a 1 pwa-s§ , wE .
 gen5.cha 1 10 01 1 p°-ti la-p5 o-si , wi .
 gen5.cha 1 10 01 e 1 p°-ti ka-naR , wi .
 gen5.cha 1 10 01 § va vwaR si § tRuv 1 p°-ti Sa .
-gen5.cha 1 10 01 wi , s' et o-si 1 ba-l§ sa .
+gen5.cha 1 10 01 wi , s' e o-si 1 ba-l§ sa .
 gen5.cha 1 10 01 wi , sa s' e ply-to yn bal .
 gen5.cha 1 10 01 n§ , pa la d°-sy !
 gen5.cha 1 10 01 n§ n§ , pa d2 kRE-j§ i-si .
@@ -6372,7 +6372,7 @@ gen9.cha 2 0 09 n§ s9l-m@ s' e l 9R , mE sa s@ pa tRE b§ .
 gen9.cha 2 0 09 a-lOR § va a-le S@-Ze la kuS .
 gen9.cha 2 0 09 de byl ?
 gen9.cha 2 0 09 ty v2 de byl ?
-gen9.cha 2 0 09 mE t @n a de-Za fE bo-kup a-vEk pa-pa , n§ ?
+gen9.cha 2 0 09 mE t @n a de-Za fE bo-ku a-vEk pa-pa , n§ ?
 gen9.cha 2 0 09 a-lOR @-kOR kElk byl , p8i a-pRE § fE 1 p9zl .
 gen9.cha 2 0 09 d a-kOR ?
 gen9.cha 2 0 09 a-lOR .

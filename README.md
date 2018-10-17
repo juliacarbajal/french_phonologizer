@@ -40,7 +40,6 @@ Note that all phonological rules output lists include line number, orthographic 
 * **recoded_L_D_S_E.txt**: Phonological transcription of the corpus with liaison + liquid deletion + schwa insertion + enchainement.
 
 ## To Do
-* Fix cases of six, dix, neuf (should transform into siz, diz, neuv before vowels).
 * Fix problem with "i(l) s ont".
 * Turn phonological rules into modules, merge with recode.py and give options of which modules to run.
 

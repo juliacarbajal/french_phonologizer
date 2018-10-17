@@ -3,6 +3,8 @@
 6 comment i(l)                   comment i(l) fait le chien ?
 7 comment i(l)                   comment i(l) fait le chien ?
 10 veux un                        bon tu veux un autre
+11 en un                          prends en un !
+12 en un                          prends en un autre !
 13 prends un                      allez prends un autre livre !
 14 prends un                      prends un autre livre pour lire
 23 ouais et                       ouais et là , il mange
@@ -19,6 +21,7 @@
 86 éléphant et                  la maman éléphant et son
 93 comment i(l)                   comment i(l) fait le singe ?
 101 as un                          chéri t(u) as un fauteuil
+105 est aussi                      ça c' est aussi un
 121 viens on                       viens on va le lire ,
 123 allez allez                    allez allez !
 124 chercher un                    va en chercher un autre ma
@@ -104,6 +107,7 @@
 648 maisons où                    des p(e)tites maisons où i(ls)
 649 bébés oiseaux                , les bébés oiseaux .
 650 pas aller                      on peut pas aller les chercher
+651 trop hauts                     i(ls) sont trop hauts .
 652 est haut                       c' est haut .
 653 mais on                        ouais mais on peut pas aller
 653 pas aller                      on peut pas aller les
@@ -135,6 +139,7 @@
 917 attention hein                 oui mais attention hein !
 918 livres hein                    sur les livres hein !
 921 montrer à                     , viens montrer à maman
+930 en un                          , prends en un autre
 932 mais on                        mais on peut pas écrire avec
 932 pas écrire                    on peut pas écrire avec
 933 non hein                       oh non hein !
@@ -229,6 +234,7 @@
 1453 p(u)is il                      p(u)is il est dure çuilà ,
 1463 plusieurs en                   en fais plusieurs en même
 1469 fais en                        mais camille fais en un par
+1469 en un                          camille fais en un par
 1481 et une                         et une cuillère pour maman tiens
 1490 maman elle                     maman elle a un verre .
 1497 mais il                        ça , mais il est
