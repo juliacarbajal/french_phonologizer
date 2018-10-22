@@ -197,7 +197,7 @@
 010309.cha 1 3 9 wi , n§ !
 010309.cha 1 3 9 5 , sa t a-myz ?
 010309.cha 1 3 9 a-le vj5 !
-010309.cha 1 3 9 wE il et Ob-ny-bi-le paR sa !
+010309.cha 1 3 9 wE il e Ob-ny-bi-le paR sa !
 010309.cha 1 3 9 vj5 la R°-gaRd !
 010309.cha 1 3 9 R°-gaRd a-dRi-j5 R°-gaRd , t a vy ?
 010309.cha 1 3 9 va-zi va pR@dR # !
@@ -291,7 +291,7 @@
 010410.cha 1 4 10 ty m' pus ?
 010410.cha 1 4 10 di d§k !
 010410.cha 1 4 10 Z' vE mEtR l2 mi-kRo 1 p2 ply pRE .
-010410.cha 1 4 10 paRs k2 la , il et 1 p2 dE-RjER .
+010410.cha 1 4 10 paRs k2 la , il e 1 p2 dE-RjER .
 010410.cha 1 4 10 a-le a-dRi-j5 !
 010410.cha 1 4 10 §n @-lEv l2 bi-bR§ !
 010410.cha 1 4 10 tj5 !
@@ -641,8 +641,8 @@
 010908.cha 1 9 8 a a-dRi-j5 , R°-gaRd s2 k2 Z' E tRu-ve ?
 010908.cha 1 9 8 a-dRi-j5 k Es k2 s' e sa ?
 010908.cha 1 9 8 R°-gaRd !
-010908.cha 1 9 8 R°-gaRd s' et 1 bu d2 Z@-b§ .
-010908.cha 1 9 8 R°-gaRd s' et 1 bu d2 vj@d .
+010908.cha 1 9 8 R°-gaRd s' e 1 bu d2 Z@-b§ .
+010908.cha 1 9 8 R°-gaRd s' e 1 bu d2 vj@d .
 010908.cha 1 9 8 pa-pa k Es k2 ty di a pa-pa ?
 010908.cha 1 9 8 ba-ba .
 010908.cha 1 9 8 a tj5 ?
@@ -795,8 +795,8 @@
 011114.cha 1 11 14 n§ il fE m2 !
 011114.cha 1 11 14 wi # .
 011114.cha 1 11 14 # # # # !
-011114.cha 1 11 14 e s' et a twa d2 fER s' e pa tu-ZuR a pa-pa , # !
-011114.cha 1 11 14 s' et a twa d2 fER a a-dRi-j5 m5t-n@ !
+011114.cha 1 11 14 e s' e a twa d2 fER s' e pa tu-ZuR a pa-pa , # !
+011114.cha 1 11 14 s' e a twa d2 fER a a-dRi-j5 m5t-n@ !
 011114.cha 1 11 14 ko-m@ il fE l an # l2 l an i @ i .
 011114.cha 1 11 14 a-dRi-j5 dus-m@ !
 011114.cha 1 11 14 ty va t2 ka-Se a-dRi-j5 ?
@@ -855,7 +855,7 @@
 011114.cha 1 11 14 # la sy-sEt !
 011114.cha 1 11 14 # pa la sy-sEt il Risk pa d2 diR kElk Soz # .
 011114.cha 1 11 14 b§ b5 R@ la sy-sEt a-lOR !
-011114.cha 1 11 14 a s' et 5-te-li-Z@ El-za .
+011114.cha 1 11 14 a s' e 5-te-li-Z@ El-za .
 011114.cha 1 11 14 mE la sy-sEt d@ l2 li mE la sy-sEt d@ l2 li !
 011114.cha 1 11 14 mE la sy-sEt d@ l2 li bo-nOm !
 011114.cha 1 11 14 il va la , Re-ky-pe-Re El-za !
@@ -1044,8 +1044,8 @@
 011114.cha 1 11 14 ty va mEtR syR la tabl sa ?
 011114.cha 1 11 14 d yn m5 t i a-Riv ty mE syR la tabl ?
 011114.cha 1 11 14 a-le va mEtR syR la tabl m§ Se-Ri !
-011114.cha 1 11 14 il et @ tR5 d2 m@-Ze l # § va a-t@dR k2 ma-m@ t2 dOn l a-vo-ka p2-tEtR 5 ?
-011114.cha 1 11 14 k Es k il et @ tR5 d2 m@-Ze ?
+011114.cha 1 11 14 il e @ tR5 d2 m@-Ze l # § va a-t@dR k2 ma-m@ t2 dOn l a-vo-ka p2-tEtR 5 ?
+011114.cha 1 11 14 k Es k il e @ tR5 d2 m@-Ze ?
 011114.cha 1 11 14 2 l a-vo-ka kOm sa .
 011114.cha 1 11 14 a b5 s' e bj5 ty vwa m§ bo-nOm t a f5 !
 011114.cha 1 11 14 va l8i do-ne # a m@-Ze El-za Z2 m' o-kyp dy REst !
@@ -1086,7 +1086,7 @@
 011114.cha 1 11 14 ba Z2 v2 bj5 .
 011114.cha 1 11 14 l2 b§ # 5 !
 011114.cha 1 11 14 n§ mE si-n§ s' e pa gRav !
-011114.cha 1 11 14 paRs k §n a yn otR d2 bu-tEj mE il pa-REt El et 1 p2 mw5 bOn a-lOR Z2 sE pa .
+011114.cha 1 11 14 paRs k §n a yn otR d2 bu-tEj mE il pa-REt El e 1 p2 mw5 bOn a-lOR Z2 sE pa .
 011114.cha 1 11 14 t a-pORt pa le # tu d2 s8it # 5 !
 011114.cha 1 11 14 a Z' E fi-ni la bu-tEj .
 011114.cha 1 11 14 mER-si bj5 .
@@ -1143,12 +1143,12 @@
 011114.cha 1 11 14 e mE sa d°-d@ ty mE la bu-Zi d°-d@ ?
 011114.cha 1 11 14 wi wi u la wi s' e Sot a-t@-sj§ !
 011114.cha 1 11 14 k Es k2 # i a ?
-011114.cha 1 11 14 b5 ty kRwa k2 s' et 1 vo-l@ ?
+011114.cha 1 11 14 b5 ty kRwa k2 s' e 1 vo-l@ ?
 011114.cha 1 11 14 s' e kOm yn vwa-tyR ?
 011114.cha 1 11 14 tj5 # ty p2 Ra-ma-se s t2 plE ?
 011114.cha 1 11 14 # ty p2 Ra-ma-se s t2 plE ?
 011114.cha 1 11 14 # i a d otR tRyk ki s§ t§-be Z2 kRwa .
-011114.cha 1 11 14 R°-gaRd il kRwa k2 s' et 1 vo-l@ d2 vwa-tyR !
+011114.cha 1 11 14 R°-gaRd il kRwa k2 s' e 1 vo-l@ d2 vwa-tyR !
 011114.cha 1 11 14 t a vy # ?
 011114.cha 1 11 14 il kRwa k2 s' e kOm le vwa-tyR !
 011114.cha 1 11 14 a ma-m@ El a ta-Se ?

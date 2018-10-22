@@ -161,8 +161,7 @@
 192    t' as                         ta                           est-ce que t' as l' droit
 192    l' droit                      ldRwa                        t' as l' droit ?
 198    t' amuse                      ta-myz                       , ca t' amuse ?
-200    il est                        i let                         ouais il est obnubilé par ça
-200    est obnubilé                  le tOb-ny-bi-le               ouais il est obnubilé par ça
+200    il est                        i le                          ouais il est obnubilé par ça
 202    regarde Adrien                R°-gaR da-dRi-j5              regarde Adrien regarde , t' as
 202    t' as                         ta                           regarde , t' as vu
 208    qu' est-ce                    kEs                          qu' est-ce que c' est ?
@@ -202,8 +201,7 @@
 286    t' es                         tE                           t' es un coquin !
 291    m' pousses                    mpus                         tu m' pousses ?
 293    j' vais                       ZvE                          j' vais mettre le micro un
-294    il est                        i let                         là , il est un
-294    est un                        le t1                         , il est un peu
+294    il est                        i le                          là , il est un
 296    on enlève                     § n@-lEv                      on enlève le biberon !
 323    c' est                        se                           non mais c' est pas
 323    d' abord                      da-bOR                       veux faire d' abord attends
@@ -335,10 +333,8 @@
 641    j' ai                         ZE                           ce que j' ai trouvé
 642    qu' est-ce                    kEs                          Adrien qu' est-ce que c' est
 642    c' est                        se                           est-ce que c' est ça
-644    c' est                        set                          regarde c' est un bout de
-644    est un                        se t1                         regarde c' est un bout de
-645    c' est                        set                          regarde c' est un bout de
-645    est un                        se t1                         regarde c' est un bout de
+644    c' est                        se                           regarde c' est un bout de
+645    c' est                        se                           regarde c' est un bout de
 646    qu' est-ce                    kEs                          papa qu' est-ce que tu dis
 650    qu' est-ce                    kEs                          qu' est-ce qu' il y a
 650    qu' il                        kil                          qu' est-ce qu' il y a
@@ -425,12 +421,10 @@
 791    l' âne                        lan                          fait comment l' âne hi
 791    âne hi                        la ni                         comment l' âne hi han
 793    l' âne                        lan                          il fait l' âne ?
-798    c' est                        set                          hé c' est à toi de
-798    est à                         se ta                         hé c' est à toi de
+798    c' est                        se                           hé c' est à toi de
 798    c' est                        se                           de faire c' est pas
 798    toujours à                    tu-Zu Ra                      est pas toujours à papa
-799    c' est                        set                          c' est à toi de faire
-799    est à                         se ta                         c' est à toi de faire
+799    c' est                        se                           c' est à toi de faire
 799    faire à                       fE Ra                         toi de faire à Adrien
 800    l' âne                        lan                          il fait l' âne Adri(en)
 800    l' âne                        lan                          Adri(en) le l' âne hi
@@ -473,8 +467,7 @@
 854    t' es                         tE                           non mais t' es .
 856    sucette il                    sy-sE til                     pas la sucette il risque
 857    sucette alors                 sy-sE ta-lOR                  rends la sucette alors !
-858    c' est                        set                          ah c' est intelligent Elsa .
-858    est intelligent               se t5-te-li-Z@                ah c' est intelligent Elsa .
+858    c' est                        se                           ah c' est intelligent Elsa .
 862    il arrivera                   i la-Ri-vRa                   mais comment il arrivera à la
 870    s' énerve                     se-nERv                      il s' énerve .
 873    qu' est-ce                    kEs                          qu' est-ce que (il) y a
@@ -578,14 +571,12 @@
 1043   t' apportes                   ta-pORt                      t' apportes sur la table ?
 1045   d' une                        dyn                          d' une main t' y arrives
 1045   t' y                          ti                           une main t' y arrives
-1047   il est                        i let                         il est en train de manger
-1047   est en                        le t@                         il est en train de manger
+1047   il est                        i le                          il est en train de manger
 1047   l' avoc(at)                   l#                           de manger l' avoc(at) on
 1047   l' avocat                     la-vo-ka                     te donne l' avocat peut-être
 1048   qu' est-ce                    kEs                          qu' est-ce qu' il est en
 1048   qu' il                        kil                          qu' est-ce qu' il est en
-1048   il est                        ki let                        est-ce qu' il est en
-1048   est en                        le t@                         qu' il est en train
+1048   il est                        ki le                         est-ce qu' il est en
 1049   l' avocat                     la-vo-ka                     euh l' avocat comme ça .
 1050   c' est                        se                           ah ben c' est bien tu
 1050   t' as                         ta                           mon bonhomme t' as faim
@@ -621,8 +612,7 @@
 1089   on a                          k§ na                         parce qu' on a une autre
 1089   une autre                     y not                         on a une autre de
 1089   paraît elle                   pa-RE tEl                     mais il paraît elle est
-1089   elle est                      tE let                        il paraît elle est un
-1089   est un                        le t1                         paraît elle est un peu
+1089   elle est                      tE le                         il paraît elle est un
 1089   bonne alors                   bO na-lOR                     peu moins bonne alors je
 1090   t' apportes                   ta-pORt                      t' apportes pas les blinisrus tout
 1091   j' ai                         ZE                           ah j' ai fini la bouteille
@@ -668,16 +658,14 @@
 1144   c' est                        se                           là oui c' est chaud
 1144   chaud attention               So ta-t@-sj§                  c' est chaud attention !
 1145   qu' est-ce                    kEs                          qu' est-ce que (il) y a
-1146   c' est                        set                          crois que c' est un
-1146   est un                        se t1                         que c' est un volant
+1146   c' est                        se                           crois que c' est un
 1147   c' est                        se                           c' est comme une voiture ?
 1147   comme une                     kO myn                        c' est comme une voiture ?
 1148   s' te                         st2                          peux ramasser s' te plaît
 1149   s' te                         st2                          peux ramasser s' te plaît
 1150   d' autres                     dot                          y a d' autres trucs
 1151   regarde il                    R°-gaR dil                    regarde il croit que c' est
-1151   c' est                        set                          croit que c' est un
-1151   est un                        se t1                         que c' est un volant
+1151   c' est                        se                           croit que c' est un
 1152   t' as                         ta                           t' as vu Emeric ?
 1153   c' est                        se                           croit que c' est comme
 1154   elle a                        E la                          ah maman elle a taché ?

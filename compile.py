@@ -60,18 +60,6 @@ def check_age(current_age):
 		include = True
 	else:
 		include = False
-	# include = False
-	# if (years < age_max_y and years > age_min_y):
-		# include = True
-	# elif (years == age_max_y and years == age_min_y):
-		# if (months <= age_max_m or months >= age_min_m):
-			# include = True
-	# elif (years == age_max_y and years != age_min_y):
-		# if (months <= age_max_m):
-			# include = True
-	# elif (years == age_min_y and years != age_max_y):
-		# if (months >= age_min_m):
-			# include = True
 	return include
 
 ###############################################################################################

@@ -7,12 +7,16 @@
 12 en un                          prends en un autre !
 13 prends un                      allez prends un autre livre !
 14 prends un                      prends un autre livre pour lire
+21 est avec                       il est avec son frère momo
 23 ouais et                       ouais et là , il mange
 30 est où                        elle est où maman ?
 31 maman elle                     maman elle est où ?
 31 est où                        maman elle est où ?
 33 allez un                       allez un autre !
 37 ouais alors                    ouais alors qu' est-ce que tu
+43 est une                        ça c' est une voiture .
+50 est un                         ça c' est un petit chat
+51 est un                         c' est un poteau !
 52 comment i(l)                   comment i(l) fait la chat ?
 53 chat i(l)                      le chat i(l) fait miaou !
 56 mais on                        mais on n' a pas regardé
@@ -28,6 +32,7 @@
 125 chercher un                    va me chercher un autre livre
 132 allez alors                    allez alors à la ferme !
 132 alors à                       allez alors à la ferme !
+162 est un                         ça c' est un chat .
 166 poisson i(l)                   , le poisson i(l) fait
 167 poisson i(l)                   le poisson i(l) fait comme ça
 172 maman elle                     est-ce que maman elle a
@@ -44,6 +49,9 @@
 213 en haut                        lit , en haut de
 215 et il                          et il soulève une couverture .
 218 comment on                     ah bah comment on fait ?
+257 est un                         ça c' est un chien ,
+258 est un                         , c' est un chien
+264 est une                        ça c' est une feuille .
 277 est où                        il est où le bébé ?
 278 est où                        il est où ?
 280 est où                        il est où ?
@@ -52,11 +60,21 @@
 311 dis hein                       tu lui dis hein !
 312 attention hein                 bébé , attention hein !
 313 dis un                         tu dis un bisou à bébé
+318 est un                         ça c' est un pantalon .
+320 est un                         ça c' est un ours .
+327 est un                         ça c' est un p(e)tit garçon
 327 patin à                       fait du patin à roulettes
 328 patin à                       fait du patin à roulettes
+332 est une                        , c' est une balle
 337 attention hein                 attention hein !
 341 vaches hein                    vu d(e) vaches hein !
+346 est une                        non c' est une girafe
+353 est un                         ça c' est un gentil petit
 358 dis au                         tu dis au r(e)voir aux p(e)tites
+360 est un                         ça c' est un réveil .
+363 est un                         c' est un réveil ?
+370 est un                         ça c' est un clown .
+375 est un                         ça c' est un clown .
 393 est où                        il est où l(e) ballon ?
 404 pantalon i(l)                  là ton pantalon i(l) descend
 425 attention hein                 attention hein !
@@ -66,9 +84,13 @@
 436 montres à                     tu montres à maman !
 440 chien il                       oui le chien il a peur
 440 alors il                       peur , alors il fait
+450 est une                        c' est une abeille ?
 455 canards i(ls)                  les canards i(ls) sont sur l'
+456 est une                        ça c' est une poule ,
 461 canard il                      , le canard il est
 483 est où                        il est où ?
+494 est un                         c' est un gros gros animal
+496 est un                         ça c' est un p(e)tit
 497 est où                        , il est où le
 499 chaussettes à                 , les chaussettes à maman
 501 maman elle                     maman elle enlève pas ses chaussettes
@@ -78,6 +100,8 @@
 510 frapper ainsi                  et frapper ainsi cerf , cerf
 510 cerf ouvre                     cerf , cerf ouvre moi
 510 lapin entre                    lapin , lapin entre et
+515 est un                         ça c' est un p(e)tit garçon
+515 est alexis                     , c' est alexis .
 516 pas alexis                     c' est pas alexis ?
 542 dis un                         tu dis un bisou à maman
 542 dis un                         , tu dis un p(e)tit
@@ -97,10 +121,15 @@
 589 dis un                         tu dis un p(e)tit bisou !
 600 cheveux i(ls)                  regarde tes cheveux i(ls) volent !
 601 vent hein                      a du vent hein dis
+603 est un                         c' est un chien .
 604 biberon il                     , ton biberon il est
 606 biberon à                     le biberon à camille , il
 612 maman elle                     p(u)is maman elle a des bobos
 617 viens on                       viens on va le lire !
+621 est un                         ça c' est un , vélo
+622 est un                         c' est un vélo .
+625 est un                         ça c' est un ours .
+636 est une                        ça c' est une tondeuse .
 638 attention attention            attention attention d(e) pas tomber !
 647 haut aussi                     là haut aussi (il) y a
 647 nids avec                      font des nids avec des
@@ -111,28 +140,83 @@
 652 est haut                       c' est haut .
 653 mais on                        ouais mais on peut pas aller
 653 pas aller                      on peut pas aller les
+660 est une                        c' est une .
 663 ânes i(ls)                    han les ânes i(ls) font
 663 han hi                         , hi han hi han
+667 est un                         ça c' est un âne
+672 est un                         ça c' est un oiseau .
 683 vas en                         bah tu vas en chercher un
 683 chercher un                    vas en chercher un autre
 684 prends un                      tu prends un autre livre ,
 689 jeter hein                     pas les jeter hein !
 690 livres hein                    camille les livres hein !
+710 est en                         , elle est en panne
+713 est un                         ça c' est un coussin ,
+714 est un                         aussi c' est un coussin
+715 est un                         , c' est un coussin
+717 est un                         c' est un coussin .
 727 dit à                         e(lle) dit à petit cheval ,tu
 727 vas aller                      cheval ,tu vas aller faire
+731 est une                        oui c' est une chaussure d'
+731 est une                        mais c' est une botte
+732 est une                        ça c' est une selle .
+733 est une                        c' est une .
+734 est une                        ça c' est une chaussure oui
+734 est une                        mais c' est une selle
+736 est une                        ça c' est une lampe
+737 est une                        ouais c' est une lampe comme
+737 est une                        , c' est une lampe
 746 non elle                       mais non elle est cachée la
+749 est un                         c' est un ver .
+751 est un                         ça c' est un château .
+763 est un                         oui c' est un clown ,
+763 est un                         veux c' est un clown
+763 est un                         , c' est un clown
+769 est un                         ça c' est un , canard
+770 est un                         c' est un canard , canard
+772 est un                         ça c' est un ours .
+775 est une                        , c' est une salopette
 779 main oh                        ouille ta main oh là là
+781 est un                         ça c' est un gant .
 795 pas une                        c' est pas une pomme mais
 795 mais enfin                     une pomme mais enfin si
+796 est une                        ça c' est une poêle .
+798 est une                        si c' est une poêle .
+799 est un                         ça c' est un bol ,
+801 est une                        ça c' est une tasse
+802 est une                        si c' est une tasse .
+803 est un                         ça c' est un couvercle .
+806 est un                         ouais c' est un p(e)tit garçon
+809 est un                         ça c' est un camion .
+810 est un                         ça c' est un avion ,
 817 as un                          genou tu as un bobo
 835 et on                          , blanche et on ouvre
 837 est où                        , il est où le
+851 est un                         ça c' est un tour
+853 est un                         ça c' est un lion
+855 est un                         ça c' est un ours ,
 862 biberon ouais                  biberon ouais .
+863 est un                         ça c' est un tablier
+867 est une                        ça c' est une , maison
+869 est une                        ça c' est une barrière .
+874 est une                        ça c' est une culotte ,
+885 est une                        ça c' est une salopette .
+888 est un                         ça c' est un pull .
 889 pas une                        c' est pas une broum
+889 est une                        , c' est une voiture
+896 est une                        ça c' est une tente .
+897 est une                        , c' est une piscine
+899 est une                        c' est une piscine , piscine
+901 est une                        ça c' est une bouée .
+902 est une                        c' est une bouée pour aller
 902 aller à                       bouée pour aller à l'
 903 aller à                       bouée pour aller à l'
+904 est un                         c' est un hérisson .
 904 un hérisson                   c' est un hérisson .
+906 est une                        ça c' est une poule .
 909 ouais i(ls)                    ouais i(ls) mangent .
+912 est un                         c' est un âne .
+914 est un                         , c' est un chien
 916 lapin oui                      un lapin oui .
 917 crayons oui                    les crayons oui mais attention hein
 917 mais attention                 crayons oui mais attention hein
@@ -145,15 +229,25 @@
 933 non hein                       oh non hein !
 945 pas écrire                    p(u)is faut pas écrire sur
 946 non hein                       non hein !
+954 est une                        ça c' est une montre
+956 est un                         ça c' est un avion ,
+962 est une                        ça c' est une voiture
 972 boit avec                      , i(l) boit avec un
+973 est un                         ça c' est un verre .
 986 biberon on                     dans l(e) biberon on le met
 991 manger alors                   va l(e) manger alors !
 998 comment on                     bah alors comment on va faire
+1017 est une                        , c' est une poule
 1020 tournes ouais                  tu tournes ouais , vas y
 1028 fait alors                     qu' elle fait alors la
+1031 est un                         c' est un papillon que maman
 1045 racontes à                    tu racontes à maman tout c(e)
+1048 est à                         ça c' est à papa ,
 1051 est où                        elle est où la brosse à
+1052 est une                        , c' est une brosse
+1053 est une                        ça c' est une brosse ,
 1061 doux ouais                     c' est doux ouais .
+1063 est un                         ça c' est un parapluie .
 1064 bottes ouais                   a des bottes ouais ,
 1093 fais attention                 fais attention ma grande !
 1103 rester à                      faut pas rester à l'
@@ -161,23 +255,36 @@
 1110 vas avoir                      tu vas avoir froid à l'
 1110 froid à                       vas avoir froid à l'
 1117 pas un                         c' est pas un mia(ou)
+1117 est un                         , c' est un chat
 1118 non un                         non un chat !
+1123 est une                        c' est une souris .
 1141 pas un                         c' est pas un canard
+1141 est un                         , c' est un cygne
 1158 éléphant à                  donner l' éléphant à lucile
 1160 attention à                   faut faire attention à sa
 1162 après elle                    parce qu' après elle pleure !
 1169 jouets à                      est les jouets à qui
+1173 est une                        ouais c' est une aut(r)e .
+1177 est une                        c' est une bête mais c'
+1177 est un                         mais c' est un papillon
+1178 est une                        c' est une petite bête .
 1179 prends un                      tu prends un autre ?
 1180 non i(l)                       non i(l) pleure pas .
 1183 nuit i(l)                      est la nuit i(l) fait
 1192 grandes hein                   e(lles) sont grandes hein !
+1193 est un                         c' est un tigre .
 1198 non il                         non il est rouge !
 1199 trouver où                    tu vas trouver où i(l)
 1201 doit aller                     i(l) doit aller là .
 1206 maison ouais                   la maison ouais .
 1224 prend un                       on en prend un autre ?
+1229 est une                        ça c' est une balance .
 1231 combien on                     on regarde combien on pèse ,
+1234 est un                         ça c' est un sèche cheveux
 1237 bobos ouais                    pour les bobos ouais .
+1238 est un                         c' est un pansement .
+1241 est une                        non c' est une toupie !
+1243 est une                        ça c' est une maison de
 1246 goûter un                     viens goûter un choco ?
 1250 goûter un                     tu viens goûter un choco !
 1251 un yaourt                      veux tu un yaourt ?
@@ -197,11 +304,19 @@
 1299 chiens i(ls)                   chiens i(ls) sont deux .
 1303 attention attention            attention attention attention raconte à maman
 1303 attention attention            attention attention attention raconte à maman
+1311 est un                         ça c' est un lapin
 1317 pas un                         c' est pas un tanin
+1317 est un                         , c' est un canard
 1319 comment on                     comment on fait avec la brosse
 1319 fait avec                      comment on fait avec la brosse
 1320 pas une                        c' est pas une pomme
+1320 est une                        , c' est une pêche
+1321 est une                        ça c' est une prune .
+1323 est une                        c' est une cerise .
+1332 est un                         ça c' est un yaourt .
 1332 un yaourt                      c' est un yaourt .
+1338 est un                         ouais c' est un papillon .
+1344 est un                         ça c' est un hérisson .
 1344 un hérisson                   c' est un hérisson .
 1353 maman avec                     e(lle) fait maman avec ?
 1354 fais avec                      que j(e) fais avec l'
@@ -211,19 +326,37 @@
 1362 maman a                        bien qu(e) maman a un
 1365 attention avec                 faut faire attention avec l' herbe
 1369 pas un                         c' est pas un mia(ou)
+1369 est un                         , c' est un chat
 1370 comment i(l)                   tu sais comment i(l) s' appelle
+1371 est une                        ça c' est une vache .
 1373 pas une                        c' est pas une fourmi ,
+1373 est une                        , c' est une araignée
 1375 pas une                        c' est pas une fourmi
+1375 est une                        , c' est une araignée
+1382 est un                         c' est un , os .
 1384 vois il                        terre tu vois il a
 1384 fait un                        il a fait un trou
 1385 fait un                        il a fait un trou le
 1389 alors alors                    alors alors alors alors qu' est-ce
 1389 alors alors                    alors alors alors alors qu' est-ce
 1389 alors alors                    alors alors alors alors qu' est-ce
+1390 est un                         c' est un petit lapin qui
 1397 chat oui                       chat oui .
 1398 souris oui                     une p(e)tite souris oui .
+1400 est un                         ça c' est un bonbon .
+1401 est un                         ça c' est un manteau .
+1403 est un                         ça c' est un bo(nnet) .
+1404 est un                         , c' est un bonnet
+1405 est une                        ça c' est une écharpe .
 1407 ouais et                       ouais et ça .
+1410 est un                         ça c' est un gant .
 1414 dis à                         alors tu dis à maman c'
+1426 est une                        ça c' est une montgolfière .
+1427 est un                         oui c' est un très gros
+1429 est un                         ça c' est un parachute .
+1437 est un                         c' est un .
+1438 est un                         c' est un pa(pillon) .
+1440 est une                        ça c' est une mouche .
 1441 mais oui                       camille , mais oui mais
 1441 vois on                        mais tu vois on va
 1446 sinon i(l)                     parce que sinon i(l) va
@@ -248,6 +381,7 @@
 1512 tiens une                      tiens une assiette !
 1514 tiens un                       tiens un verre !
 1519 tiens un                       tiens un verre !
+1520 est un                         ça c' est un coquetier
 1521 tiens un                       tiens un verre !
 1523 tiens un                       tiens un chien !
 1524 tiens un                       tiens un cochon !
@@ -257,20 +391,31 @@
 1538 pas où                        je sais pas où i(l)
 1541 raison i(l)                    t(u) as raison i(l) va
 1555 alors après                   alors après .
+1566 est un                         c' est un aut(r)e du petit
 1567 pas aller                      ça va pas aller là
 1567 pas aller                      ça peut pas aller là
 1575 non on                         non on a pas tout fait
+1576 est un                         ça c' est un écureuil .
+1579 est heuh                       ça c' est heuh , une
+1581 est une                        ça c' est une souris .
+1583 est au                         main(te)nant on est au supermarché
 1587 non ouais                      non ouais , c' est un(e)
 1587 maman hippopotame              est un(e) maman hippopotame .
+1601 est une                        c' est une coccinelle .
+1604 est un                         , c' est un singe
+1612 est un                         c' est un hippopotame .
 1613 font un                        coccinelles qui font un château
 1620 comment i(l)                   crabe , comment i(l) fait
 1620 fait avec                      comment i(l) fait avec ses
+1621 est un                         ça c' est un écureuil .
 1632 sinon on                       carreaux , sinon on les
 1638 maman elle                     maman elle a pas faim .
 1640 non il                         non il en veut pas papa
 1651 tantôt après                 les voir tantôt après ,
 1651 après avoir                   après , après avoir fait
 1652 accord après                  d' accord après dodo .
+1653 est une                        dit c' est une sorcière
+1662 est un                         ça c' est un dauphin .
 1670 pas elle                       e(lle) sait pas elle .
 1695 sont où                       cartes e(lles) sont où ?
 1696 puis on                        mett(r)e dedans puis on va
@@ -283,14 +428,23 @@
 1722 et i(l)                        vient , et i(l) lui
 1722 dit à                         i(l) lui dit à la
 1723 pas à                         ne touche pas à la pomme
+1723 est à                         , c' est à moi
 1726 et elle                        vient là et elle trouve
+1729 est une                        , c' est une fourmi
 1731 pas une                        c' est pas une guêpe
+1731 est une                        , c' est une fourmi
 1732 pas une                        c' est pas une guêpe
+1732 est une                        , c' est une fourmi
 1742 puis à                        et puis à la fin qu'
 1745 vas aller                      tu vas aller au dodo ?
 1745 aller au                       tu vas aller au dodo ?
+1752 est une                        c' est une tulipe .
+1759 est un                         , c' est un pansement
 1760 as un                          quand t(u) as un bobo
 1765 sinon on                       que là sinon on voit
+1770 est une                        , c' est une balle
+1770 est une                        , c' est une balle
+1770 est une                        , c' est une balle
 1778 puis on                        prendre çuilà puis on va
 1780 allez on                       allez on y va ?
 1781 allez hop                      allez hop !
@@ -317,6 +471,7 @@
 1932 et oh                          et oh ?
 1935 pas hein                       touche pas hein !
 1940 bain hein                      prend son bain hein ?
+1947 est un                         ça c' est un cochon .
 1961 est où                        elle est où la balle ?
 1978 sont où                       ils sont où tes chaussons à
 1978 chaussons à                   où tes chaussons à toi
@@ -326,10 +481,13 @@
 1987 est où                        , il est où ton
 1990 sont où                       , ils sont où pierre
 1997 joues à                       tu joues à la balle ?
+2006 est un                         , c' est un tracteur
 2008 déchirer hein                 faut pas déchirer hein !
 2017 pas être                      ça va pas être très
 2017 pas aut(r)e                    t(u) as pas aut(r)e chose
 2017 pas être                      ça va pas être très
+2030 est en                         ça c' est en angleterre
+2038 est au                         , on est au pays
 2040 est où                        , il est où ton
 2040 nez à                         où ton nez à toi
 2042 nez à                         le nez à maman il est
@@ -349,10 +507,18 @@
 2094 allez on                       allez on prend la balle .
 2101 et oui                         et oui pour faire dodo ,
 2101 faut avoir                     , i(l) faut avoir les
+2108 est une                        , c' est une ,
 2115 comment i(l)                   as vu comment i(l) s
+2122 est un                         ça c' est un canard .
 2123 canard i(l)                    le canard i(l) fait coin coin
 2132 viens on                       viens on va lire !
+2138 est un                         ça c' est un nuage .
+2139 est une                        ça c' est une porte ,
+2140 est une                        ça c' est une table ,
+2145 est une                        ça c' est une chaise
 2147 habits à                      met les habits à lucile
+2154 est un                         ça c' est un cube ,
+2159 est un                         ça c' est un petit
 2174 ouais alors                    ouais alors raconte à maman .
 2183 pas une                        c' est pas une balle ,
 2187 dadas on                       mais les dadas on y touche
@@ -360,14 +526,22 @@
 2200 mais on                        mais on peut pas jouer avec
 2200 jouer avec                     peut pas jouer avec la
 2200 mauvais hein                   fait trop mauvais hein !
+2209 est une                        côté c' est une .
+2211 est une                        , c' est une maison
 2211 maison et                      est une maison et la
+2214 est une                        c' est une auto .
+2217 est une                        c' est une .
 2225 fait hum                       , i(l) fait hum !
 2235 est où                        elle est où la balle en
 2236 est où                        elle est où la balle toute
+2240 est un                         c' est un vélo pierre ?
+2241 est un                         c' est un vélo .
 2252 chaussettes hein               mis des chaussettes hein !
+2261 est une                        c' est une clé .
 2264 jouer à                       viens jouer à la balle avec
 2271 ouais allez                    ouais allez !
 2279 allez encore                   allez encore !
+2318 est abîmé                    il est abîmé !
 2320 maman elle                     maman elle s' est fait une
 2320 fait une                       s' est fait une cloque
 2320 tellement elle                 aux doigts tellement elle les
@@ -381,6 +555,7 @@
 2341 maman a                        maman a fait un bateau ,
 2341 fait un                        maman a fait un bateau ,
 2342 fait un                        est qui fait un bateau
+2348 est un                         c' est un bébé .
 2350 fais un                        tu fais un chausson ?
 2351 fais un                        fais un chausson !
 2353 fais une                       tu fais une casquette , tu
@@ -388,40 +563,81 @@
 2355 fait une                       regarde maman fait une casquette hop
 2359 maman elle                     regarde maman elle a fait les
 2361 viens on                       viens on va regarder le livre
+2363 est éteinte                   elle est éteinte , tu sais
+2363 est éteinte                   qu' elle est éteinte !
+2367 est un                         c' est un écureuil .
+2371 est une                        ça c' est une sauterelle ,
+2379 est au                         oui il est au bain ,
+2379 est au                         , il est au bain
 2379 et il                          bain , et il est
+2387 est un                         , c' est un peigne
+2388 est une                        ça c' est une brosse
 2389 dents ouais                    pour les dents ouais .
 2391 non oui                        ah non oui maman s' est
 2396 sont où                       pierre e(lles) sont où les
 2397 chercher une                   va chercher une épingle pour ouvrir
 2398 chercher une                   va chercher une épingle pour ouvrir
 2403 maman elle                     veux qu(e) maman elle ouvre
+2407 est à                         c' est à papa mais c'
+2407 est un                         mais c' est un râteau
+2415 est un                         c' est un crayon .
+2429 est une                        c' est une poupée .
+2437 est un                         ça c' est un poussin .
+2440 est un                         ça c' est un âne .
 2442 oiseaux avec                   ouais des oiseaux avec leur bec
 2444 chats i(ls)                    les p(e)tits chats i(ls) jouent
 2444 jouent à                      chats i(ls) jouent à la
 2445 chats i(ls)                    les p(e)tits chats i(ls) jouent à
 2445 jouent à                      chats i(ls) jouent à la
 2450 pas un                         c' est pas un miaou ,
+2450 est un                         , c' est un chat
+2451 est une                        c' est une feuille .
+2452 est une                        si c' est une feuille ,
+2452 est une                        , c' est une feuille
+2457 est un                         c' est un bâton avec des
 2457 bâton avec                    est un bâton avec des
 2460 biberon à                     dans l(e) biberon à lucile
+2474 est un                         c' est un coq .
+2475 est un                         c' est un , heuh ,
 2476 pas un                         c' est pas un kinkin ,
+2476 est une                        , c' est une oie
+2489 est un                         c' est un chien pierre !
+2492 est une                        ça c' est une fraise .
 2499 début allez                   le début allez !
 2502 pas écrire                    faut pas écrire sur les livres
+2503 est un                         ça c' est un bonbon .
 2518 poissons oui                   a des poissons oui !
 2520 comment i(ls)                  comment i(ls) font les poissons ?
+2521 est un                         ça c' est un totem
+2522 est un                         c' est un chapeau .
+2523 est une                        ça c' est une langue ,
 2527 ouais au                       ouais au bain .
+2528 est un                         c' est un canard pierre !
 2535 mais i(l)                      bah oui mais i(l) m(e) faut
 2535 faut un                        i(l) m(e) faut un seau
 2552 pas assez                      il est pas assez mouillé
 2553 pas assez                      il est pas assez mouillé le
 2564 est où                        il est où le lit ?
+2568 est au                         est il est au lit
+2569 est un                         c' est un petit .
+2570 est un                         c' est un tout petit ,
+2570 est un                         , c' est un tout
+2571 est une                        c' est une algue .
+2572 est une                        c' est une algue .
 2574 pas une                        c' est pas une bête !
+2584 est un                         ouais c' est un chien .
 2594 un hibou                       un hibou .
 2595 un hibou                       est ça un hibou .
 2596 partout hein                   d' enfants partout hein !
 2600 enfants oui                    enfants oui mon chéri .
 2601 es un                          aussi t(u) es un enfant
 2608 as une                         t(u) en as une sur la
+2609 est une                        c' est une cas(quette) , casquette
+2610 est un                         ça c' est un bonnet .
+2613 est un                         ça c' est un manteau ça
 2616 normalement on                 caca mais normalement on fait
+2617 est une                        c' est une couche .
+2618 est un                         c' est un pyjama .
 2623 frottes hein                   tu frottes hein !
 2625 veux un                        t(u) en veux un camille ?
 2626 non un                         ah non un d' abord !
@@ -434,14 +650,18 @@
 2669 vas être                      après tu vas être tout mouillé
 2671 lit un                         on lit un livre ?
 2676 vas effacer                    tu vas effacer l(e) tableau ?
+2692 est une                        c' est une éponge .
 2694 mais i(ls)                     mais i(ls) sont où aussi ?
 2694 sont où                       mais i(ls) sont où aussi ?
 2697 chercher alors                 va les chercher alors !
 2699 sont où                       i(ls) sont où ?
 2700 sont où                       i(ls) sont où ?
+2701 est un                         ça c' est un .
+2705 est une                        c' est une fusée .
 2720 fois une                       était une fois une petite
 2722 est où                        , elle est où la
 2725 est où                        il est où l(e) moustique ?
+2727 est un                         c' est un , moustique .
 2730 main à                        sur la main à camille
 2739 comment on                     comment on fait quand on frappe
 2740 comment on                     comment on fait pour frapper à
@@ -449,15 +669,21 @@
 2745 fait avec                      qu' i(l) fait avec son
 2746 fait avec                      qu' i(l) fait avec son
 2747 ouais il                       ouais il a mangé les enfants
+2755 est une                        ça c' est une banane .
+2759 est une                        ça c' est une pastèque ,
 2766 mais oui                       non , mais oui ,
 2766 mais oui                       oui , mais oui ,
 2774 dis à                         dis à maman c' est quoi
 2778 bon allez                      bon allez j(e) t' écoute !
 2782 dis à                         tu dis à maman qui c'
 2783 pas une                        c' est pas une meuh
+2796 est un                         oui c' est un chat ,
 2796 pas un                         chat , pas un mia(ou)
 2826 doit être                     si elle doit être quelque
 2831 et oh                          et oh elle est là !
+2833 est en                         il est en d(e)ssous tu crois
+2838 est en                         qu' il est en d(e)ssous
+2839 est en                         s(i) il est en d(e)ssous
 2845 fais attention                 mais fais attention d(e) pas cogner
 2845 cogner hein                    d(e) pas cogner hein !
 2858 es un                          t(u) es un grand toi hein
@@ -470,11 +696,19 @@
 2890 livres avec                    regarder des livres avec maman
 2897 lion il                        ça le lion il a
 2914 dis à                         tête , dis à maman
+2920 est un                         c' est un ver de terre
 2927 alors et                       alors et là qu' est-ce qu'
+2936 est à                         c' est à maman le sèche
 2936 cheveux oui                    le sèche cheveux oui .
+2944 est un                         ça c' est un p(e)tit garçon
+2944 est un                         , c' est un garçon
+2945 est un                         ça c' est un nœud .
+2950 est une                        ça c' est une robe .
+2956 est un                         c' est un gant .
 2982 dit un                         elle dit un bisou ?
 2985 non où                        non où ?
 2987 dis un                         tu dis un bisou à maman
+3003 est un                         c' est un petit bébé ça
 3025 viens on                       viens on y va tous les
 3027 mais on                        oui mais on fait quoi ?
 3030 maman elle                     maman elle a oublié d' en
@@ -494,28 +728,37 @@
 3057 faites à                      doucement vous faites à la tienne
 3062 est où                        il est où le loup ?
 3063 maman un                       mont(r)e à maman un peu !
+3064 est une                        c' est une vache .
 3070 mais enfin                     poules , mais enfin ,
 3087 nez ouais                      ouais le nez ouais , il
 3100 quand i(l)                     quand i(l) pleut on ouvre son
 3102 dehors ouais                   un oiseau dehors ouais .
 3105 non i(l)                       non i(l) pleut pas .
 3109 ailes aussi                    a des ailes aussi .
+3110 est en                         il est en train d(e) manger
 3110 manger oui                     train d(e) manger oui ,
 3116 doit y                         si i(l) doit y en
 3120 attention à                   attention à la tête hein !
 3122 est où                        bah il est où l' aut(r)e
 3125 pas un                         c' est pas un (vé)lo
+3125 est un                         , c' est un vélo
+3126 est à                         c' est à toi mais c'
+3126 est un                         mais c' est un vélo
 3134 pas avec                       non non pas avec cette
 3136 non attends                    non non non attends viens !
 3138 maman ou                       c' est maman ou c' est
 3140 vas essuyer                    va tu vas essuyer ?
 3141 pas un                         c' est pas un chapeau ,
+3141 est un                         , c' est un lapin
+3151 est une                        ouais c' est une glace .
 3173 saucisson ouais                saucisson ouais .
+3182 est un                         ça c' est un gant .
 3200 court ouais                    il court ouais .
 3202 p(u)is i(ls)                   p(u)is i(ls) chantent , comment on
 3202 comment on                     chantent , comment on fait
 3204 cachés ouais                  i(ls) sont cachés ouais .
 3205 pas un                         c' est pas un coin coin
+3205 est un                         , c' est un cygne
 3213 sont où                       i(ls) sont où tes yeux toi
 3215 chats oui                      est les chats oui .
 3227 loup i(l)                      alors le loup i(l) met ses

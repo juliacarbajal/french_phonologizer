@@ -199,9 +199,6 @@ always_except['aux']  = exceptions_next
 always_except['en']   = exceptions_next + ['un', 'une']
 always_except['sans'] = exceptions_next
 always_except['sous'] = exceptions_next
-# Verbs:
-always_except['est'] = exceptions_next + ['adrien']
-always_except['ont'] = exceptions_next
 
 # Cases removed due to optional status:
 #always_except['bien']  = exceptions_next + ['écoutez', 'écoute', 'il', 'elle', 'on', 'aussi']
@@ -217,6 +214,8 @@ always_except['ont'] = exceptions_next
 #always_except['auxquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
 #always_except['desquels']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
 #always_except['desquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
+#always_except['est'] = exceptions_next + ['adrien']
+#always_except['ont'] = exceptions_next
 
 # (2) Adjectives:
 for adjective in adjectives:

@@ -2,8 +2,7 @@
 7      t' as                         ta                           oh , t' as fait caca
 11     t' as                         ta                           t' as fait le gros caca
 16     ses habits                    se za-bi                      veux enlever ses habits ?
-19     c' est                        set                          c' est un peu froid .
-19     est un                        se t1                         c' est un peu froid .
+19     c' est                        se                           c' est un peu froid .
 21     c' est                        se                           c' est pas très froid pourtant
 22     t' es                         tE                           t' es délicate ?
 23     t' es                         tE                           non , t' es pas délicate
@@ -13,8 +12,7 @@
 42     il est                        i le                          il est la !
 43     il est                        i le                          il est là !
 45     c' est                        se                           c' est pas un bébé c'
-45     c' est                        set                          un bébé c' est un
-45     est un                        se t1                         bébé c' est un monsieur
+45     c' est                        se                           un bébé c' est un
 50     il est                        i le                          où il est le pied .
 51     il est                        i le                          il est caché .
 58     il est                        i le                          il est là ton nez !
@@ -33,8 +31,7 @@
 84     c' est                        se                           ça c' est le couteau .
 89     t' installer                  t5s-ta-le                    on va t' installer le micro
 90     d' accord                     da-kOR                       d' accord ?
-93     fil est                       fi let                        le fil est assez long .
-93     est assez                     le ta-se                      le fil est assez long .
+93     fil est                       fi le                         le fil est assez long .
 99     tout à                        tu ta                         manger depuis tout à l'
 99     l' heure                      l9R                          tout à l' heure .
 101    qu' est-ce                    kEs                          qu' est-ce que je sors là
@@ -82,8 +79,7 @@
 206    t' aider                      te-de                        je vais t' aider à
 207    d' accord                     da-kOR                       d' accord ?
 210    tête avant                    tE ta-v@                      avec la tête avant de
-214    c' est                        set                          oui , c' est un
-214    est un                        se t1                         , c' est un morceau
+214    c' est                        se                           oui , c' est un
 215    vas y                         va zi                         vas y mange le , il
 215    il est                        i le                          le , il est bon
 217    l' as                         la                           tu me l' as tendu en
@@ -188,10 +184,8 @@
 433    l' oreille                    lo-REj                       est là l' oreille .
 434    tes oreilles                  te zo-REj                     elles sont tes oreilles ?
 441    l' autre                      lotR                         l' autre , attention , attention
-441    il est                        i let                         attention , il est encore
-441    est encore                    le t@-kOR                     , il est encore caché
-442    il est                        i let                         il est encore caché .
-442    est encore                    le t@-kOR                     il est encore caché .
+441    il est                        i le                          attention , il est encore
+442    il est                        i le                          il est encore caché .
 446    c' est                        se                           la c' est le bébé .
 455    t' es                         tE                           comme t' es bien jolie !
 457    encore un                     @-kO R1                       encore un baiser sur le pied
@@ -359,8 +353,7 @@
 777    t' as                         ta                           non t' as pas fait caca
 778    t' as                         ta                           t' as fait ni caca ni
 779    tout était                    tu te-tE                      tout était parti dans la couche
-780    c' est                        set                          crois que c' est un
-780    est un                        se t1                         que c' est un bébé
+780    c' est                        se                           crois que c' est un
 782    qu' est-ce                    kEs                          qu' est-ce que t' en penses
 782    t' en                         t@                           est-ce que t' en penses
 783    t' es                         tE                           t' es un bébé ou pas
@@ -394,8 +387,7 @@
 867    elle est                      E le                          , où elle est pauline
 868    qu' est-ce                    kEs                          qu' est-ce que tu dis ?
 871    elle est                      E le                          où elle est pauline ?
-878    il est                        i let                         où il est edouard ?
-878    est edouard                   le te-dwaR                    où il est edouard ?
+878    il est                        i le                          où il est edouard ?
 883    j' ai                         ZE                           j' ai pris le duvet pour
 884    arrête edouard                a-RE te-dwaR                  arrête edouard .
 886    dire au                       di Ro                         va te dire au revoir
@@ -411,19 +403,15 @@
 898    d' accord                     da-kOR                       d' accord ?
 904    sieste après                  sjEs ta-pRE                   faire la sieste après .
 908    édouard où                    e-dwa Ru                      édouard où il est édouard ?
-908    il est                        i let                         édouard où il est édouard ?
-908    est édouard                   le te-dwaR                    où il est édouard ?
-910    il est                        i let                         il est à l' ecole ?
-910    est à                         le ta                         il est à l' ecole ?
+908    il est                        i le                          édouard où il est édouard ?
+910    il est                        i le                          il est à l' ecole ?
 910    l' ecole                      le-kOl                       est à l' ecole ?
 914    l' enlever                    l@l-ve                       on va l' enlever .
 915    elle est                      E le                          , où elle est claire
 917    qu' est-ce                    kEs                          qu' est-ce que tu dis ?
-919    elle est                      E let                         pas , elle est à
-919    est à                         le ta                         , elle est à l'
+919    elle est                      E le                          pas , elle est à
 919    l' ecole                      le-kOl                       est à l' ecole .
-920    il est                        i let                         françois aussi il est à
-920    est à                         le ta                         aussi il est à l'
+920    il est                        i le                          françois aussi il est à
 920    l' école                      le-kOl                       est à l' école .
 921    les a                         le za                         on les a conduit ce matin
 930    d' oeil                       d9j                          le coup d' oeil .
@@ -500,8 +488,7 @@
 1101   qu' il                        kil                          qu' est-ce qu' il y a
 1101   il y                          ki li                         est-ce qu' il y a
 1107   qu' on                        k§                           je crois qu' on va changer
-1113   elle est                      E let                         elle est encore très branchée non
-1113   est encore                    le t@-kOR                     elle est encore très branchée non
+1113   elle est                      E le                          elle est encore très branchée non
 1115   qu' est-ce                    kEs                          qu' est-ce qu' il y a
 1115   qu' il                        kil                          qu' est-ce qu' il y a
 1115   il y                          ki li                         est-ce qu' il y a
@@ -526,8 +513,7 @@
 1162   elle est                      E le                          elle est coquine hein ?
 1163   qu' est-ce                    kEs                          qu' est-ce que c' est ça
 1163   c' est                        se                           est-ce que c' est ça
-1164   c' est                        set                          c' est un petit rond ?
-1164   est un                        se t1                         c' est un petit rond ?
+1164   c' est                        se                           c' est un petit rond ?
 1171   faire un                      fE R1                         tu veux faire un jeu avec
 1172   t' aimes                      tEm                          t' aimes pas ?
 1175   t' aimes                      tEm                          t' aimes pas ca ?
@@ -537,16 +523,12 @@
 1178   bonhomme on                   bo-nO m§                      le bonhomme on dirait que .
 1181   s' il                         sil                          cuillère maman s' il te
 1183   qu' est-ce                    kEs                          qu' est-ce que tu dis pauline
-1186   c' est                        set                          c' est à claire .
-1186   est à                         se ta                         c' est à claire .
-1187   c' est                        set                          celle là c' est à
-1187   est à                         se ta                         là c' est à claire
+1186   c' est                        se                           c' est à claire .
+1187   c' est                        se                           celle là c' est à
 1189   quand elles                   k@ tEl                        quand elles seront trop petites .
-1190   c' est                        set                          pi ça c' est à qui
-1190   est à                         se ta                         ça c' est à qui
+1190   c' est                        se                           pi ça c' est à qui
 1191   c' est                        se                           non , c' est pas à
-1192   c' est                        set                          c' est à edouard .
-1192   est à                         se ta                         c' est à edouard .
+1192   c' est                        se                           c' est à edouard .
 1194   t' aide                       tEd                          je t' aide ?
 1195   t' aide                       tEd                          je t' aide ?
 1199   donne à                       dO na                         je lui donne à manger alors
@@ -580,8 +562,7 @@
 1296   l' autre                      lotR                         l' autre ?
 1297   l' autre                      lotR                         on met l' autre ?
 1298   l' autre                      lot                          l' autre chaussure .
-1311   c' est                        set                          oh c' est un pot d'
-1311   est un                        se t1                         oh c' est un pot d'
+1311   c' est                        se                           oh c' est un pot d'
 1311   d' abricot                    da-bRi-ko                    un pot d' abricot que
 1311   t' ai                         tE                           que je t' ai préparé
 1312   t' as                         ta                           t' as vu ?
@@ -747,8 +728,7 @@
 1546   qu' est-ce                    kEs                          qu' est-ce que c' est ça
 1546   c' est                        se                           est-ce que c' est ça
 1548   c' est                        se                           c' est quoi ?
-1550   c' est                        set                          c' est un ?
-1550   est un                        se t1                         c' est un ?
+1550   c' est                        se                           c' est un ?
 1552   c' est                        se                           c' est le biberon .
 1560   t' en                         t@                           tu t' en moques hein .
 1565   c' est                        se                           c' est comme ça quand on
@@ -799,16 +779,14 @@
 1622   les enfants                   le z@-f@                      as vu les enfants qui
 1624   qu' est-ce                    kEs                          celui là qu' est-ce qu' il
 1624   qu' il                        kil                          qu' est-ce qu' il fait
-1625   c' est                        set                          c' est une fille , elle
-1625   est une                       se tyn                        c' est une fille , elle
+1625   c' est                        se                           c' est une fille , elle
 1625   elle a                        E la                          fille , elle a une
 1632   on a                          § na                          on a changé de page .
 1639   petit enfant                  p°-ti t@-f@                   , le petit enfant ,
 1639   qu' est-ce                    kEs                          enfant , qu' est-ce qu'
 1639   qu' il                        kil                          qu' est-ce qu' il fait
 1644   cet enfant                    sE t@-f@                      regarde là cet enfant là il
-1644   il est                        i let                         enfant là il est assis
-1644   est assis                     le ta-si                      là il est assis sur
+1644   il est                        i le                          enfant là il est assis
 1646   qu' est-ce                    kEs                          qu' est-ce qu' il a mis
 1646   qu' il                        kil                          qu' est-ce qu' il a mis
 1646   il a                          ki la                         est-ce qu' il a mis
@@ -819,11 +797,9 @@
 1663   on ira                        § ni-Ra                       oui , on ira dehors tout
 1663   tout à                        tu ta                         ira dehors tout à l'
 1663   l' heure                      l9R                          tout à l' heure .
-1670   c' est                        set                          c' est a toi ça ?
-1670   est a                         se ta                         c' est a toi ça ?
+1670   c' est                        se                           c' est a toi ça ?
 1671   qu' on                        k§                           tu veux qu' on lise ?
-1674   c' est                        set                          oui c' est un chat .
-1674   est un                        se t1                         oui c' est un chat .
+1674   c' est                        se                           oui c' est un chat .
 1678   qu' est-ce                    kEs                          qu' est-ce que c' est là
 1678   c' est                        se                           est-ce que c' est là
 1681   c' est                        se                           ça c' est le petit papillon
@@ -853,8 +829,7 @@
 1708   il y                          ki li                         est-ce qu' il y a
 1709   encore un                     @-kO R1                       encore un livre ?
 1710   encore un                     @-kO R1                       veux regarder encore un livre
-1715   c' est                        set                          si c' est un poisson !
-1715   est un                        se t1                         si c' est un poisson !
+1715   c' est                        se                           si c' est un poisson !
 1716   un oiseau                     1 nwa-zo                      un oiseau .
 1720   qu' est-ce                    kEs                          qu' est-ce que tu dis pauline
 1722   elle est                      E le                          elle est costaud .
@@ -905,8 +880,7 @@
 1813   un escargot                   m1 nEs-kaR-go                 est comme un escargot ,
 1815   qu' est-ce                    kEs                          qu' est-ce que c' est ?
 1815   c' est                        se                           est-ce que c' est ?
-1816   c' est                        set                          c' est une limace .
-1816   est une                       se tyn                        c' est une limace .
+1816   c' est                        se                           c' est une limace .
 1819   même entre                    mE m@t                        manger quand même entre deux
 1820   elle avance                   E la-v@s                      elle avance la limace hein !
 1821   elle a                        E la                          tu vois elle a des cornes
@@ -984,8 +958,7 @@
 1942   t' es                         tE                           toi t' es un bébé ?
 1946   c' est                        se                           et ça c' est ?
 1950   c' est                        se                           c' est le seau .
-1952   c' est                        set                          ça , c' est une
-1952   est une                       se tyn                        , c' est une grosse
+1952   c' est                        se                           ça , c' est une
 1953   c' est                        se                           et ça c' est ?
 1954   l' omelette                   lom-lEt                      de l' omelette .
 1956   c' est                        se                           c' est bon !
@@ -995,16 +968,13 @@
 1964   qu' est-ce                    kEs                          et ça qu' est-ce que c'
 1964   c' est                        se                           est-ce que c' est ?
 1965   c' est                        se                           non , c' est pas une
-1967   c' est                        set                          c' est un ch .
-1967   est un                        se t1                         c' est un ch .
+1967   c' est                        se                           c' est un ch .
 1968   qu' est-ce                    kEs                          qu' est-ce que tu mets sur
 1969   peut-être oui                 p2-tE tRwi                    chouchou , peut-être oui .
 1970   tête en                       tE t@                         sur la tête en ce
 1971   c' est                        se                           non , c' est pas un
-1971   c' est                        set                          ça , c' est un
-1971   est un                        se t1                         , c' est un chapeau
-1976   c' est                        set                          ça , c' est un dinausore
-1976   est un                        se t1                         , c' est un dinausore
+1971   c' est                        se                           ça , c' est un
+1976   c' est                        se                           ça , c' est un dinausore
 1977   qu' il                        kil                          demande ce qu' il fait
 1979   qu' est-ce                    kEs                          qu' est-ce que c' est ?
 1979   c' est                        se                           est-ce que c' est ?
@@ -1017,29 +987,22 @@
 1990   c' est                        se                           c' est chaud .
 1991   c' est                        se                           pi c' est sur un gateau
 1991   sur un                        sy R1                         c' est sur un gateau
-1994   c' est                        set                          là , c' est un petit
-1994   est un                        se t1                         , c' est un petit
-1995   c' est                        set                          là , c' est un broc
-1995   est un                        se t1                         , c' est un broc
-1996   c' est                        set                          c' est un dodo ?
-1996   est un                        se t1                         c' est un dodo ?
-1998   il est                        i let                         lit , il est un
-1998   est un                        le t1                         , il est un peu
+1994   c' est                        se                           là , c' est un petit
+1995   c' est                        se                           là , c' est un broc
+1996   c' est                        se                           c' est un dodo ?
+1998   il est                        i le                          lit , il est un
 1999   qu' est-ce                    kEs                          qu' est-ce qu' il y a
 1999   qu' il                        kil                          qu' est-ce qu' il y a
 1999   il y                          ki li                         est-ce qu' il y a
 2000   qu' est-ce                    kEs                          qu' est-ce que tu dis ?
 2001   c' est                        se                           ça , c' est la pelle
-2003   c' est                        set                          c' est une luge !
-2003   est une                       se tyn                        c' est une luge !
-2004   c' est                        set                          ça , c' est une
-2004   est une                       se tyn                        , c' est une voiture
+2003   c' est                        se                           c' est une luge !
+2004   c' est                        se                           ça , c' est une
 2005   qu' est-ce                    kEs                          qu' est-ce que tu as trouvé
 2011   j' aime                       ZEm                          j' aime pas ça !
 2012   j' aime                       ZEm                          non , j' aime pas .
 2013   c' est                        se                           ça , c' est la voiture
-2014   c' est                        set                          ça , c' est un moulinet
-2014   est un                        se t1                         , c' est un moulinet
+2014   c' est                        se                           ça , c' est un moulinet
 2015   j' évite                      Ze-vit                       j' évite ce genre de chose
 2015   marches en                    maR S@                        sur les marches en vacances
 2019   qu' est-ce                    kEs                          ça , qu' est-ce que
@@ -1050,8 +1013,7 @@
 2027   c' est                        se                           est-ce que c' est ?
 2028   qu' est-ce                    kEs                          qu' est-ce que c' est ça
 2028   c' est                        se                           est-ce que c' est ça
-2029   c' est                        set                          oui , c' est un
-2029   est un                        se t1                         , c' est un téléphone
+2029   c' est                        se                           oui , c' est un
 2037   j' ai                         ZE                           non , j' ai un travail
 2037   pour elle                     pu REl                        un travail pour elle après
 2037   elle après                    RE la-pRE                     travail pour elle après .
@@ -1076,8 +1038,7 @@
 2076   des économies                 de ze-ko-no-mi                on fait des économies .
 2080   elle est                      E le                          elle est pas rendue !
 2081   qu' ils                       kilz                         savais pas qu' ils ont
-2081   ils ont                       kil z§t                       pas qu' ils ont invente
-2081   ont invente                   z§ t5-v@t                     qu' ils ont invente le
+2081   ils ont                       kil z§                        pas qu' ils ont invente
 2088   j' ai                         ZE                           j' ai pas toujours cette patience
 2089   il est                        i le                          oui , il est là .
 2099   c' est                        se                           c' est bien hein ?
@@ -1126,17 +1087,15 @@
 2165   t' arrives                    ta-Riv                       t' arrives pas a mettre la
 2167   chaussette en                 So-sE t@n                     remets ta chaussette en attendant
 2167   en attendant                  t@ na-t@-d@                   ta chaussette en attendant !
-2168   c' est                        set                          oui , c' est a toi
-2168   est a                         se ta                         , c' est a toi
+2168   c' est                        se                           oui , c' est a toi
 2169   c' est                        se                           c' est dur !
 2170   t' aide                       tEd                          que je t' aide ?
 2174   c' est                        se                           pi c' est pas le bon
 2175   c' est                        se                           c' est pas le bon pied
 2178   c' est                        se                           oui , c' est dur
 2179   t' habiller                   ta-bi-je                     déshabilles mais t' habiller c'
-2179   c' est                        set                          t' habiller c' est encore
-2179   est encore                    se t@-kOR                     habiller c' est encore un
-2179   encore un                     t@-kO R1                      c' est encore un peu
+2179   c' est                        se                           t' habiller c' est encore
+2179   encore un                     @-kO R1                       c' est encore un peu
 2180   qu' est-ce                    kEs                          qu' est-ce que tu entends ?
 2183   c' est                        se                           c' est la coccinelle que tu
 2183   c' est                        se                           vue , c' est ça
@@ -1169,9 +1128,7 @@
 2228   c' est                        se                           c' est la nuit , la
 2229   il y                          i li                          as vu il y a
 2233   c' est                        se                           là , c' est pas
-2233   est avec                      e ta-vEk                      coccinelle qui est avec le
-2234   c' est                        set                          c' est une grenouille .
-2234   est une                       se tyn                        c' est une grenouille .
+2234   c' est                        se                           c' est une grenouille .
 2239   qu' est-ce                    kEs                          qu' est-ce qu' il y a
 2239   qu' il                        kil                          qu' est-ce qu' il y a
 2239   il y                          ki li                         est-ce qu' il y a
@@ -1211,9 +1168,8 @@
 2307   n' est                        ne                           on n' est jamais mieux servi
 2309   c' est                        se                           c' est la deux chevaux ?
 2310   c' est                        se                           oui mais c' est pas papa
-2311   c' est                        set                          c' est une autre deux chevaux
-2311   est une                       se tyn                        c' est une autre deux chevaux
-2311   une autre                     ty not                        c' est une autre deux chevaux
+2311   c' est                        se                           c' est une autre deux chevaux
+2311   une autre                     y not                         c' est une autre deux chevaux
 2312   c' est                        se                           c' est pas une deux chevaux
 2312   qu' on                        k§n                          deux chevaux qu' on entend
 2312   on entend                     k§ n@-t@                      chevaux qu' on entend la
@@ -1281,8 +1237,7 @@
 2412   c' est                        se                           c' est bon ?
 2413   qu' il                        kil                          est-ce qu' il a bien bu
 2413   il a                          ki la                         est-ce qu' il a bien bu
-2415   c' est                        set                          ah mais c' est un vrai
-2415   est un                        se t1                         mais c' est un vrai
+2415   c' est                        se                           ah mais c' est un vrai
 2418   il est                        i le                          est , il est bien
 2422   d' accord                     da-kOR                       ah d' accord !
 2423   c' est                        se                           c' est maman qui donne .
@@ -1406,8 +1361,7 @@
 2614   petit ours                    p°-ti tuRs                    ressemble à petit ours brun
 2615   il est                        i le                          tellement il est mignon .
 2616   il est                        i le                          il est pas beau celui là
-2618   c' est                        set                          tu vois c' est un
-2618   est un                        se t1                         vois c' est un dessin
+2618   c' est                        se                           tu vois c' est un
 2618   qu' on                        k§                           un dessin qu' on pourrait
 2621   il a                          i la                          dans quoi il a mis les
 2622   qu' est-ce                    kEs                          qu' est-ce que c' est ça
@@ -1429,15 +1383,13 @@
 2660   les enfants                   le z@-f@                      ce soit les enfants qui
 2663   les autres                    le zotR                       te chercher les autres .
 2667   c' est                        se                           c' est bien !
-2674   c' est                        set                          c' est une affaire qui marche
-2674   est une                       se tyn                        c' est une affaire qui marche
-2674   une affaire                   ty na-fER                     c' est une affaire qui marche
+2674   c' est                        se                           c' est une affaire qui marche
+2674   une affaire                   y na-fER                      c' est une affaire qui marche
 2675   il en                         i l@                          il en manque un je crois
 2675   manque un                     m@ k1                         il en manque un je crois
 2685   en es                         @ nE                          où tu en es là ?
 2689   en attendant                  @ na-t@-d@                    en attendant .
-2693   c' est                        set                          fois que c' est une
-2693   est une                       se tyn                        que c' est une pomme
+2693   c' est                        se                           fois que c' est une
 2698   s' il                         sil                          s' il te plaît maman !
 2699   s' il                         sil                          s' il te plaît maman !
 2702   c' est                        se                           là , c' est la carotte
@@ -1480,8 +1432,7 @@
 2801   c' est                        se                           oh oui c' est bien ,
 2804   l' autre                      lot                          pi l' autre côté ?
 2808   l' eau                        lo                           l' eau est chaude , hein
-2809   c' est                        set                          c' est agréable !
-2809   est agréable                  se ta-gRe-abl                 c' est agréable !
+2809   c' est                        se                           c' est agréable !
 2813   c' est                        se                           ses mains c' est pas
 2815   qu' est-ce                    kEs                          qu' est-ce que tu veux ?
 2817   qu' est-ce                    kEs                          qu' est-ce que tu veux ?
@@ -1530,8 +1481,7 @@
 2915   c' est                        se                           c' est reparti !
 2918   l' avait                      la-vE                        on l' avait fait ça deja
 2920   c' est                        se                           justement , c' est parce que
-2927   c' est                        set                          bah c' est ingénieux !
-2927   est ingénieux                 se t5-Ze-nj2                  bah c' est ingénieux !
+2927   c' est                        se                           bah c' est ingénieux !
 2934   t' aider                      te-de                        je vais t' aider !
 2937   c' est                        se                           c' est tellement plus facile quand
 2937   quand on                      k@ t§                         plus facile quand on enleve
@@ -1574,21 +1524,18 @@
 3030   elle a                        E la                          elle a le hoquet .
 3039   montre à                      m§ tRa                        montre à maman !
 3041   c' est                        se                           pi c' est chiffonné , ça
-3043   c' est                        set                          oh mais c' est à nenuco
-3043   est à                         se ta                         mais c' est à nenuco
+3043   c' est                        se                           oh mais c' est à nenuco
 3044   il est                        i le                          où il est nenuco ?
 3055   elle a                        E la                          elle a perfectionné son système depuis
 3056   qu' est-ce                    kEs                          qu' est-ce qu' il y a
 3056   qu' il                        kil                          qu' est-ce qu' il y a
 3056   il y                          ki li                         est-ce qu' il y a
 3067   t' as                         ta                           donc , t' as le
-3068   c' est                        set                          c' est embêtant ça , hein
-3068   est embêtant                  se t@-bE-t@                   c' est embêtant ça , hein
+3068   c' est                        se                           c' est embêtant ça , hein
 3069   qu' est                       ke                           qu' est ce tu fais ?
 3073   l' habiller                   la-bi-je                     tu vas l' habiller ?
 3075   encore un                     @-kO R1                       y a encore un plus petit
-3076   c' est                        set                          oh , c' est une chaussette
-3076   est une                       se tyn                        , c' est une chaussette
+3076   c' est                        se                           oh , c' est une chaussette
 3078   il est                        i le                          il est où le monsieur ?
 3079   il est                        i le                          il est couche là .
 3082   il est                        i le                          ah , il est là !
@@ -1620,8 +1567,7 @@
 3123   ton oeuf                      t§ n9f                        de casser ton oeuf ?
 3128   il est                        i le                          il est pas cassé , il
 3128   il est                        i le                          cassé , il est coupéen
-3129   elle est                      E let                         elle est en train de le
-3129   est en                        le t@                         elle est en train de le
+3129   elle est                      E le                          elle est en train de le
 3131   t' aider                      te-de                        avant de t' aider .
 3138   t' es                         tE                           t' es encore trop petite !
 3139   l' oeuf                       l9f                          crois que l' oeuf ,
@@ -1655,8 +1601,7 @@
 3177   petits enfants                p°-ti z@-f@                   toujours les petits enfants ,
 3177   l' envers                     l@-vER                       couteau à l' envers .
 3178   coupe et                      ku pe                         que ça coupe et puis
-3184   c' est                        set                          attends , c' est un peu
-3184   est un                        se t1                         , c' est un peu
+3184   c' est                        se                           attends , c' est un peu
 3186   piques avec                   pi ka-vEk                     tu piques avec la fourchette le
 3187   c' est                        se                           c' est bon , pauline ?
 3195   qu' on                        k§n                          pas ce qu' on a
@@ -1690,10 +1635,8 @@
 3241   c' est                        se                           pi c' est la clémentine à
 3241   clémentine à                  kle-m@-ti na                  est la clémentine à toi
 3243   qu' est-ce                    kEs                          qu' est-ce que tu fais ?
-3244   c' est                        set                          c' est un gant !
-3244   est un                        se t1                         c' est un gant !
-3245   c' est                        set                          c' est à claire !
-3245   est à                         se ta                         c' est à claire !
+3244   c' est                        se                           c' est un gant !
+3245   c' est                        se                           c' est à claire !
 3246   c' est                        se                           c' est pour claire !
 3248   il y                          i li                          il y en a un pour
 3248   en a                          @ na                          il y en a un pour
@@ -1727,8 +1670,7 @@
 3332   qu' est-ce                    kEs                          ça , qu' est-ce que
 3332   c' est                        se                           est-ce que c' est ?
 3334   tout à                        tu ta                         pas tout à fait un nounours
-3335   c' est                        set                          c' est un lapin .
-3335   est un                        se t1                         c' est un lapin .
+3335   c' est                        se                           c' est un lapin .
 3336   il a                          i la                          il a des grandes oreilles .
 3336   grandes oreilles              gR@d zo-REj                   a des grandes oreilles .
 3337   une autre                     y not                         voilà une autre page où on
@@ -1743,10 +1685,8 @@
 3344   c' est                        se                           c' est pas pareil !
 3347   montre un                     m§ tR1                        grande soeur montre un hochet
 3351   il est                        i le                          tu vois il est tout petit
-3353   c' est                        set                          c' est un tout petit trognon
-3353   est un                        se t1                         c' est un tout petit trognon
-3354   s' est                        set                          le bébé s' est endormi
-3354   est endormi                   se t@-dOR-mi                  bébé s' est endormi couché
+3353   c' est                        se                           c' est un tout petit trognon
+3354   s' est                        se                           le bébé s' est endormi
 3355   il a                          i la                          vois , il a son
 3356   sieste aussi                  sjEs to-si                    fait la sieste aussi à
 3359   c' est                        se                           c' est dans le jardin .
@@ -1762,12 +1702,10 @@
 3377   c' est                        se                           c' est ses yeux !
 3377   ses yeux                      se zj2                        c' est ses yeux !
 3380   il est                        i le                          ah il est trop petit aussi
-3381   c' est                        set                          pi c' est une image !
-3381   est une                       se tyn                        pi c' est une image !
-3381   une image                     ty ni-maZ                     c' est une image !
-3382   c' est                        set                          c' est une histoire oui .
-3382   est une                       se tyn                        c' est une histoire oui .
-3382   une histoire                  ty nis-twaR                   c' est une histoire oui .
+3381   c' est                        se                           pi c' est une image !
+3381   une image                     y ni-maZ                      c' est une image !
+3382   c' est                        se                           c' est une histoire oui .
+3382   une histoire                  y nis-twaR                    c' est une histoire oui .
 3382   histoire oui                  nis-twa Rwi                   est une histoire oui .
 3385   qu' est-ce                    kEs                          qu' est-ce qu' il fait ce
 3385   qu' il                        kil                          qu' est-ce qu' il fait ce
@@ -1778,8 +1716,7 @@
 3395   faire un                      fE R1                         de lui faire un baiser
 3397   qu' est-ce                    kEs                          ça , qu' est-ce que
 3397   c' est                        se                           est-ce que c' est ?
-3399   c' est                        set                          c' est un vélo ?
-3399   est un                        se t1                         c' est un vélo ?
+3399   c' est                        se                           c' est un vélo ?
 3400   d' enfant                     d@-f@                        un vélo d' enfant .
 3404   même encore                   mE m@-kOR                     , et même encore maintenant
 3404   claire ou                     klE Ru                        parfois , claire ou édouard
@@ -1791,8 +1728,7 @@
 3414   c' était                      se-tE                        c' était pareil !
 3415   on a                          § na                          là , on a déshabillé
 3416   il est                        i le                          il est tout nu .
-3420   soeur est                     s9 Ret                        la grande soeur est à
-3420   est à                         Re ta                         grande soeur est à côté
+3420   soeur est                     s9 Re                         la grande soeur est à
 3420   claire était                  klE Re-tE                     bébé , claire était près
 3420   qu' il                        kil                          tout ce qu' il fallait
 3420   s' occuper                    so-ky-pe                     fallait pour s' occuper de
@@ -1822,8 +1758,7 @@
 3459   c' est                        se                           ça c' est le lit .
 3461   qu' est-ce                    kEs                          qu' est-ce qu' il fait avec
 3461   qu' il                        kil                          qu' est-ce qu' il fait avec
-3475   c' est                        set                          c' est une belle histoire ?
-3475   est une                       se tyn                        c' est une belle histoire ?
+3475   c' est                        se                           c' est une belle histoire ?
 3475   belle histoire                bE lis-twaR                   est une belle histoire ?
 3476   un au                         1 no                          en chercher un au ?
 3477   quelle heure                  kE l9R                        euh quelle heure ?
@@ -1910,8 +1845,7 @@
 3672   quand il                      k@ til                        tu sais quand il y
 3672   il y                          ti li                         sais quand il y a
 3672   petit anneau                  p°-ti ta-no                   a un petit anneau ,
-3672   c' est                        set                          mais quand c' est à
-3672   est à                         se ta                         quand c' est à mettre
+3672   c' est                        se                           mais quand c' est à
 3675   c' est                        se                           c' est le train de maman
 3675   pour aller                    pu Ra-le                      de maman pour aller à
 3677   vas y                         va zi                         vas y !
@@ -1952,8 +1886,7 @@
 3744   j' ai                         ZE                           bah j' ai dit il faut
 3744   qu' il                        kil                          il faut qu' il y
 3744   il y                          ki li                         faut qu' il y ait
-3745   en ont                        @ n§t                         petites filles en ont eu
-3745   ont eu                        n§ ty                         filles en ont eu mais
+3745   en ont                        @ n§                          petites filles en ont eu
 3748   tout est                      tu te                         alors quand tout est mélangé on
 3752   c' est                        se                           c' est marrant , tu les
 3756   c' est                        se                           c' est le transport de meubles
@@ -1966,8 +1899,7 @@
 3765   c' est                        se                           oui , c' est la
 3766   les waters                    le zwa-tER                    les waters , pi la glace
 3767   c' est                        se                           c' est la salle de bain
-3769   c' est                        set                          tiens c' est un truc que
-3769   est un                        se t1                         tiens c' est un truc que
+3769   c' est                        se                           tiens c' est un truc que
 3769   j' ai                         ZE                           truc que j' ai jamais
 3769   pour enfant                   pu R@-f@                      un parc pour enfant .
 3793   quelqu' un                    kEl k1                        nous faut quelqu' un !
@@ -1975,8 +1907,7 @@
 3804   il avait                      i la-vE                       il avait pas mis sa ceinture
 3805   c' est                        se                           c' est le t g v
 3806   même aller                    mE ma-le                      on peut même aller chercher
-3807   c' est                        set                          c' est un peu dur à
-3807   est un                        se t1                         c' est un peu dur à
+3807   c' est                        se                           c' est un peu dur à
 3807   dur à                         dy Ra                         un peu dur à .
 3810   qu' il                        kil                          parce qu' il y a même
 3810   il y                          ki li                         parce qu' il y a même
@@ -2002,8 +1933,7 @@
 3878   elle a                        E la                          elle a , ah non elle
 3878   elle a                        E la                          ah non elle a pas
 3882   c' est                        se                           oh c' est long , hein
-3883   c' est                        set                          c' est un long trajet ,
-3883   est un                        se t1                         c' est un long trajet ,
+3883   c' est                        se                           c' est un long trajet ,
 3890   il y                          i li                          là là il y en
 3890   en a                          @ na                          il y en a un
 3903   madame x                      ma-da miks                    ma , madame x donne
@@ -2077,8 +2007,7 @@
 4047   c' est                        se                           c' est bien .
 4048   des haricots                  de za-Ri-ko                   vas manger des haricots verts
 4049   c' est                        se                           oh oui c' est mieux comme
-4050   il est                        i let                         ton couteau il est à l'
-4050   est à                         le ta                         couteau il est à l'
+4050   il est                        i le                          ton couteau il est à l'
 4050   l' envers                     l@-vER                       est à l' envers .
 4054   vas y                         va zi                         vas y c' est bien ,
 4054   c' est                        se                           vas y c' est bien ,
@@ -2088,8 +2017,7 @@
 4058   c' est                        se                           c' est dur , hein !
 4059   quand on                      k@ t§                         surtout quand on regarde pas ce
 4059   qu' on                        k§                           pas ce qu' on fait
-4059   c' est                        set                          fait , c' est encore
-4059   est encore                    se t@-kOR                     , c' est encore plus
+4059   c' est                        se                           fait , c' est encore
 4060   qu' il                        kil                          je crois qu' il y aurait
 4060   il y                          ki li                         crois qu' il y aurait
 4060   d' un                         d1                           bien besoin d' un petit
@@ -2170,8 +2098,7 @@
 4242   c' est                        se                           est , c' est la
 4243   prends en                     pR@ z@                        prends en un !
 4253   c' est                        se                           c' est là .
-4255   c' est                        set                          oui , c' est une poche
-4255   est une                       se tyn                        , c' est une poche
+4255   c' est                        se                           oui , c' est une poche
 4255   poche à                       pO Sa                         est une poche à droite
 4255   droite aussi                  dRwa to-si                    poche à droite aussi .
 4259   l' autre                      lot                          l' autre poche , bah *
@@ -2209,8 +2136,7 @@
 4308   c' est                        se                           c' est quoi , ça ?
 4309   qu' est-ce                    kEs                          qu' est-ce que c' est ?
 4309   c' est                        se                           est-ce que c' est ?
-4310   c' est                        set                          c' est un bébé .
-4310   est un                        se t1                         c' est un bébé .
+4310   c' est                        se                           c' est un bébé .
 4312   l' assiette                   la-sjEt                      elle montre l' assiette !
 4314   remettre au                   R°-mE tRo                     falloir le remettre au lit
 4322   elle est                      E le                          où elle est la dinette ?
@@ -2274,8 +2200,7 @@
 4433   c' est                        se                           bah c' est bien !
 4435   t' en                         t@n                          t' en a beaucoup de coton
 4435   en a                          t@ na                         t' en a beaucoup de coton
-4442   c' est                        set                          c' est au fond ?
-4442   est au                        se to                         c' est au fond ?
+4442   c' est                        se                           c' est au fond ?
 4446   t' en                         t@n                          t' en as un gros paquet
 4446   en as                         t@ na                         t' en as un gros paquet
 4447   qu' est-ce                    kEs                          qu' est-ce qu' il y a
@@ -2299,8 +2224,7 @@
 4475   en avais                      t@ na-vE                      , t' en avais une
 4476   c' est                        se                           c' est quoi ça ?
 4477   c' est                        se                           non , c' est pas une
-4477   c' est                        set                          cuillère , c' est une
-4477   est une                       se tyn                        , c' est une fourchette
+4477   c' est                        se                           cuillère , c' est une
 4480   l' assiette                   la-sjEt                      tu prends l' assiette , là
 4482   t' as                         ta                           t' as vu ?
 4484   qu' est-ce                    kEs                          qu' est-ce que tu vas faire
@@ -2312,8 +2236,7 @@
 4490   qu' est                       ke                           qu' est ce tu cherches ?
 4496   t' asseoir                    ta-swaR                      viens t' asseoir !
 4497   d' abord                      da-bOR                       faire pipi d' abord ,
-4502   c' est                        set                          c' est une grande fille maintenant
-4502   est une                       se tyn                        c' est une grande fille maintenant
+4502   c' est                        se                           c' est une grande fille maintenant
 4507   c' est                        se                           parce que c' est .
 4513   les waters                    le zwa-tER                    le dans les waters !
 4517   vas y                         va zi                         vas y !
@@ -2385,8 +2308,7 @@
 4653   qu' il                        kil                          qu' est-ce qu' il y a
 4653   il y                          ki li                         est-ce qu' il y a
 4654   il y                          i li                          oh il y a un petit
-4654   s' est                        set                          , qui s' est accroché
-4654   est accroché                  se ta-kRo-Se                  qui s' est accroché à
+4654   s' est                        se                           , qui s' est accroché
 4654   ton ongle                     t§ n§gl                       accroché à ton ongle !
 4657   frotte avec                   fRO ta-vEk                    frotte avec le savon !
 4664   l' une                        lyn                          tes mains l' une sur
@@ -2397,8 +2319,7 @@
 4667   l' autre                      lotR                         une sur l' autre !
 4669   vas y                         va zi                         toi , vas y !
 4673   t' as                         ta                           t' as mouillé ton sweat shirt
-4676   c' est                        set                          c' est embêtant ?
-4676   est embêtant                  se t@-bE-t@                   c' est embêtant ?
+4676   c' est                        se                           c' est embêtant ?
 4684   qu' on                        k§                           non parce qu' on va
 4685   c' est                        se                           c' est pas la peine .
 4687   faire un                      fE R1                         tu vas faire un petit pipi
@@ -2419,10 +2340,8 @@
 4726   j' ouvre                      Zuv                          j' ouvre la boite !
 4727   c' est                        se                           c' est .
 4729   il y                          i li                          il y a une mouche !
-4730   c' est                        set                          c' est une mouche , oui
-4730   est une                       se tyn                        c' est une mouche , oui
-4733   c' est                        set                          c' est une mouche !
-4733   est une                       se tyn                        c' est une mouche !
+4730   c' est                        se                           c' est une mouche , oui
+4733   c' est                        se                           c' est une mouche !
 4734   t' aimes                      tEm                          t' aimes pas les mouches ?
 4735   t' aimes                      tEm                          t' aimes pas la mouche ?
 4736   c' est                        se                           c' est ça ?
@@ -2476,16 +2395,13 @@
 4804   c' est                        se                           oui c' est bien !
 4805   qu' est-ce                    kEs                          pi ça qu' est-ce que c'
 4805   c' est                        se                           est-ce que c' est ?
-4809   c' est                        set                          c' est un arbre en fleur
-4809   est un                        se t1n                        c' est un arbre en fleur
-4809   un arbre                      t1 naRbR                      c' est un arbre en fleur
+4809   c' est                        se                           c' est un arbre en fleur
+4809   un arbre                      1 naRbR                       c' est un arbre en fleur
 4809   arbre en                      naR bR@                       est un arbre en fleur
-4810   c' est                        set                          , mais c' est un
-4810   est un                        se t1n                        mais c' est un arbre
-4810   un arbre                      t1 naRbR                      c' est un arbre .
-4813   c' est                        set                          c' est un arbre , il
-4813   est un                        se t1n                        c' est un arbre , il
-4813   un arbre                      t1 naRbR                      c' est un arbre , il
+4810   c' est                        se                           , mais c' est un
+4810   un arbre                      1 naRbR                       c' est un arbre .
+4813   c' est                        se                           c' est un arbre , il
+4813   un arbre                      1 naRbR                       c' est un arbre , il
 4813   il a                          i la                          arbre , il a un
 4815   l' arbre                      laRbR                        tronc de l' arbre .
 4817   qu' est-ce                    kEs                          ça , qu' est-ce que
@@ -2499,8 +2415,7 @@
 4822   prêtes à                      pRE ta                        petites pousses prêtes à planter
 4825   c' est                        se                           ce que c' est sur
 4826   c' est                        se                           non , c' est pas une
-4827   c' est                        set                          c' est une tomate .
-4827   est une                       se tyn                        c' est une tomate .
+4827   c' est                        se                           c' est une tomate .
 4835   en a                          @ na                          y en a encore plein ,
 4836   graines et                    gRE ne                        mettons les graines et les
 4838   nous avons                    nu za-v§                      est , nous avons un
@@ -2560,8 +2475,7 @@
 4927   c' est                        se                           c' est comment ?
 4929   c' est                        se                           c' est comment ?
 4931   c' est                        se                           c' est pas chaud , c'
-4931   c' est                        set                          chaud , c' est encore
-4931   est encore                    se t@-kOR                     , c' est encore froid
+4931   c' est                        se                           chaud , c' est encore
 4933   c' est                        se                           essuies ou c' est maman
 4934   vas y                         va zi                         bah vas y !
 4936   c' est                        se                           c' est bien !
@@ -2633,11 +2547,9 @@
 5070   donc euh                      d§ k2                         ah dis donc euh !
 5071   t' as                         ta                           t' as déjà choisi !
 5072   c' est                        se                           c' est quoi ça ?
-5074   c' est                        set                          c' est un pion ?
-5074   est un                        se t1                         c' est un pion ?
+5074   c' est                        se                           c' est un pion ?
 5075   c' est                        se                           non , c' est pas un
-5075   c' est                        set                          pion , c' est un
-5075   est un                        se t1                         , c' est un papillon
+5075   c' est                        se                           pion , c' est un
 5082   j' ai                         ZE                           ça j' ai compris !
 5083   t' avais                      ta-vE                        pion , t' avais compris
 5084   qu' est-ce                    kEs                          qu' est-ce que c' est ,
@@ -2682,7 +2594,6 @@
 5158   alors on                      a-lO R§                       alors on le met là .
 5160   c' est                        se                           c' est la souris , tu
 5161   c' est                        se                           est-ce que c' est la souris
-5162   est un                        e t1                          la souris est un peu plus
 5163   allons y                      a-l§ zi                       bon , allons y !
 5164   lequel est                    l°-kE le                      après , lequel est le plus
 5171   l' éléphant                   le-le-f@                     l' éléphant , est-ce qu' il
@@ -2752,10 +2663,8 @@
 5290   t' as                         ta                           t' as un de ces bleus
 5292   t' as                         ta                           t' as mal là ?
 5295   t' es                         tE                           tu t' es cognée ?
-5298   c' est                        set                          là , c' est un bobo
-5298   est un                        se t1                         , c' est un bobo
-5299   c' est                        set                          c' est un bobo qui fait
-5299   est un                        se t1                         c' est un bobo qui fait
+5298   c' est                        se                           là , c' est un bobo
+5299   c' est                        se                           c' est un bobo qui fait
 5300   c' est                        se                           droit , c' est terminé
 5302   t' as                         ta                           t' as pas mal à ton
 5302   mal à                         ma la                         as pas mal à ton
@@ -2767,16 +2676,14 @@
 5316   qu' est-ce                    kEs                          qu' est-ce qu' il a celui
 5316   qu' il                        kil                          qu' est-ce qu' il a celui
 5316   il a                          ki la                         est-ce qu' il a celui
-5317   il est                        i let                         il est un peu cassé celui
-5317   est un                        le t1                         il est un peu cassé celui
+5317   il est                        i le                          il est un peu cassé celui
 5320   c' est                        se                           parce que c' est des gros
 5320   n' a                          na                           puis on n' a pas
 5321   c' est                        se                           c' est le crayon rouge ?
 5322   rouge à                       Ru Za                         rouge à toi !
 5324   faire attention               fE Ra-t@-sj§                  faut faire attention !
 5326   t' amuse                      ta-myz                       ça t' amuse pauline !
-5328   c' est                        set                          celui là c' est un
-5328   est un                        se t1                         là c' est un petit
+5328   c' est                        se                           celui là c' est un
 5331   t' en                         t@n                          si t' en as un autre
 5331   en as                         t@ na                         si t' en as un autre
 5331   un autre                      1 not                         en as un autre gros
@@ -2870,8 +2777,7 @@
 5483   bibliothèque avec             bi-bli-jo-tE ka-vEk           à la bibliothèque avec carole
 5485   c' est                        se                           si , c' est la même
 5486   carole emmène                 ka-RO l@-mEn                  parfois carole emmène les grands ,
-5486   pauline est                   po-li net                     pas si pauline est assez
-5486   est assez                     ne ta-se                      si pauline est assez grande
+5486   pauline est                   po-li ne                      pas si pauline est assez
 5487   pour aller                    pu Ra-le                      pour aller à la bibliothèque .
 5489   bibliothèque avec             bi-bli-jo-tE ka-vEk           à la bibliothèque avec carole
 5491   t' es                         tE                           t' es allée chercher des livres
@@ -2888,8 +2794,7 @@
 5520   quand elle                    k@ tEl                        quand elle monte les marches avec
 5520   marches avec                  maR Sa-vEk                    monte les marches avec claire
 5520   quand elle                    k@ tEl                        , ou quand elle descend
-5521   c' est                        set                          quatorze , c' est impossible
-5521   est impossible                se t5-po-sibl                 , c' est impossible .
+5521   c' est                        se                           quatorze , c' est impossible
 5523   t' as                         ta                           est , t' as compté
 5524   en a                          @ na                          , y en a combien
 5527   t' en                         t@n                          t' en oublies pas un petit
@@ -2912,8 +2817,7 @@
 5551   vas y                         va zi                         bah vas y !
 5556   qu' est-ce                    kEs                          qu' est-ce qu' il est en
 5556   qu' il                        kil                          qu' est-ce qu' il est en
-5556   il est                        ki let                        est-ce qu' il est en
-5556   est en                        le t@                         qu' il est en train
+5556   il est                        ki le                         est-ce qu' il est en
 5557   il est                        i le                          oui , il est comme ça
 5557   qu' est-ce                    kEs                          , mais qu' est-ce qu'
 5557   qu' il                        kil                          qu' est-ce qu' il fait
@@ -2922,8 +2826,7 @@
 5561   un an                         1 n@                          y a un an ,
 5562   c' est                        se                           c' est marion , tu vois
 5562   il y                          i li                          vois , il y a
-5563   c' est                        set                          c' est écrit marion .
-5563   est écrit                     se te-kRi                     c' est écrit marion .
+5563   c' est                        se                           c' est écrit marion .
 5564   c' est                        se                           là c' est lili .
 5565   c' est                        se                           là c' est plic .
 5566   c' est                        se                           là c' est pomme .
@@ -2931,8 +2834,7 @@
 5568   c' est                        se                           là c' est alex .
 5569   c' est                        se                           là c' est plotch .
 5570   c' est                        se                           là c' est , regarde là
-5571   c' est                        set                          là c' est isabelle , et
-5571   est isabelle                  se ti-za-bEl                  là c' est isabelle , et
+5571   c' est                        se                           là c' est isabelle , et
 5571   c' est                        se                           puis là c' est ?
 5572   qu' est-ce                    kEs                          qu' est-ce qu' elle a dit
 5572   qu' elle                      kEl                          qu' est-ce qu' elle a dit
@@ -2969,8 +2871,7 @@
 5616   c' est                        se                           c' est moins bien , là
 5617   c' est                        se                           c' est mieux ou c' est
 5617   c' est                        se                           mieux ou c' est moins
-5619   c' est                        set                          c' est avec le bout plus
-5619   est avec                      se ta-vEk                     c' est avec le bout plus
+5619   c' est                        se                           c' est avec le bout plus
 5620   l' a                          la                           elle l' a mise pi elle
 5620   l' a                          la                           pi elle l' a renlevé
 5622   l' as                         la                           tu l' as renlevée ?
@@ -3047,8 +2948,7 @@
 5744   c' est                        se                           ah là c' est mieux !
 5747   peut être                     p2 tEt                        je vais peut être couper
 5747   l' installer                  l5s-ta-le                    couper pour l' installer sur
-5753   c' est                        set                          c' est à sylvie ça .
-5753   est à                         se ta                         c' est à sylvie ça .
+5753   c' est                        se                           c' est à sylvie ça .
 5755   gros yeux                     gRo zj2                       faire les gros yeux !
 5764   j' enlève                     Z@-lEv                       là que j' enlève tes
 5766   t' emmènera                   t@-mEn-Ra                    , sylvie t' emmènera pour
@@ -3119,8 +3019,7 @@
 5868   elle en                       kE l@n                        , qu' elle en a
 5868   en a                          l@ na                         qu' elle en a pas
 5870   quand on                      k@ t§n                        tu vois quand on est une
-5870   on est                        t§ net                        vois quand on est une
-5870   est une                       ne tyn                        quand on est une petite
+5870   on est                        t§ ne                         vois quand on est une
 5870   on a                          § na                          et bah on a une
 5872   t' as                         ta                           t' as vu , elle est
 5872   elle est                      E le                          vu , elle est bien
@@ -3192,15 +3091,12 @@
 5951   s' il                         sil                          deux épingles s' il te
 5953   encore une                    @-kO Ryn                      encore une .
 5957   j' accroche                   Za-kROS                      là , j' accroche les culottes
-5958   c' est                        set                          c' est à qui ça ?
-5958   est à                         se ta                         c' est à qui ça ?
+5958   c' est                        se                           c' est à qui ça ?
 5962   c' est                        se                           c' est pas à pauline ?
-5965   c' est                        set                          non , c' est à François
-5965   est à                         se ta                         , c' est à François
+5965   c' est                        se                           non , c' est à François
 5966   l' autre                      lotR                         l' autre elle est à édouard
 5966   autre elle                    lo tREl                       l' autre elle est à édouard
-5966   elle est                      tRE let                       l' autre elle est à édouard
-5966   est à                         le ta                         autre elle est à édouard
+5966   elle est                      tRE le                        l' autre elle est à édouard
 5967   des épingles                  de ze-p5gl                    donner encore des épingles à
 5967   épingles à                    ze-p5 gla                     encore des épingles à linge
 5967   s' il                         sil                          à linge s' il te
@@ -3216,11 +3112,9 @@
 5983   j' ai                         ZE                           parce que j' ai plein de
 5983   chaussettes à                 So-sE ta                      plein de chaussettes à accrocher
 5993   qu' on                        k§                           on dirait qu' on frappe ?
-5998   c' est                        set                          oui c' est à maman .
-5998   est à                         se ta                         oui c' est à maman .
+5998   c' est                        se                           oui c' est à maman .
 5999   j' ai                         ZE                           oui , j' ai acheté le
-6001   c' est                        set                          ça c' est à pauline ?
-6001   est à                         se ta                         ça c' est à pauline ?
+6001   c' est                        se                           ça c' est à pauline ?
 6002   t' appelles                   ta-pEl                       toi tu t' appelles pauline ?
 6004   s' appelle                    sa-pEl                       il s' appelle pas isabelle ,
 6005   s' appelle                    sa-pEl                       il s' appelle ?
@@ -3403,8 +3297,7 @@
 6326   assiette avant                na-sjE ta-v@                  peu ton assiette avant !
 6328   vas y                         va zi                         bah vas y , fais le
 6331   ton assiette                  t§ na-sjEt                    tu sauces ton assiette !
-6332   elle est                      E let                         elle est assez saucée ?
-6332   est assez                     le ta-se                      elle est assez saucée ?
+6332   elle est                      E le                          elle est assez saucée ?
 6339   c' est                        se                           c' est ça que tu m'
 6339   m' as                         ma                           que tu m' as montré
 6340   qu' est-ce                    kEs                          qu' est-ce que tu m' as
@@ -3571,8 +3464,7 @@
 6590   qu' elle                      kEl                          chewing gum qu' elle .
 6594   elle est                      E le                          elle est toute triste !
 6599   alors on                      a-lO R§                       alors on va lire , on
-6600   c' est                        set                          comme c' est étrange , pense
-6600   est étrange                   se te-tR@Z                    comme c' est étrange , pense
+6600   c' est                        se                           comme c' est étrange , pense
 6601   vont ils                      v§ til                        où vont ils donc si pressés
 6602   n' a                          na                           hérisson , n' a pas
 6602   s' arrêter                    sa-Re-te                     temps de s' arrêter !
@@ -3600,8 +3492,7 @@
 6629   t' as                         ta                           t' as vu ?
 6630   elle est                      E le                          là elle est plus triste .
 6637   t' aimes                      tEm                          t' aimes bien ça ?
-6638   c' est                        set                          finalement , c' est un très
-6638   est un                        se t1                         , c' est un très
+6638   c' est                        se                           finalement , c' est un très
 6638   très heureux                  tRE z2-R2z                    un très très heureux anniversaire
 6638   heureux anniversaire          z2-R2 za-ni-vER-sER           très très heureux anniversaire pour
 6638   petite oursonne               p°-ti tuR-sOn                 et la petite oursonne !
@@ -3891,14 +3782,11 @@
 7063   était une                     le-tE tyn                     il était une fois trois lou
 7063   trois ours                    tRwa zuRs                     lou , trois ours qui
 7063   dans une                      d@ zyn                        habitaient ensemble dans une jolie
-7064   premier est                   pR°-mje Ret                   le premier est un tout petit
-7064   est un                        Re t1                         le premier est un tout petit
+7064   premier est                   pR°-mje Re                    le premier est un tout petit
 7064   petit ours                    p°-ti tuRs                    un tout petit ours .
-7065   deuxième est                  d2-zjE met                    le deuxième est un ours moyen
-7065   est un                        me t1n                        le deuxième est un ours moyen
-7065   un ours                       t1 nuRs                       deuxième est un ours moyen
-7065   troisième est                 tRwa-zjE met                  et le troisième est un
-7065   est un                        me t1                         le troisième est un grand
+7065   deuxième est                  d2-zjE me                     le deuxième est un ours moyen
+7065   un ours                       1 nuRs                        deuxième est un ours moyen
+7065   troisième est                 tRwa-zjE me                   et le troisième est un
 7065   grand ours                    gR@ tuRs                      grand , grand ours .
 7066   premier a                     pR°-mje Ra                    le premier a une toute petite
 7067   deuxième a                    d2-zjE ma                     le deuxième a une voix moyenne
@@ -3944,20 +3832,16 @@
 7093   en as                         @ na                          mais tu en as jamais mangé
 7095   n' est                        ne                           grande chaise n' est pas
 7096   quelqu' un                    kEl k1                        quelqu' un s' est assis sur
-7096   s' est                        set                          quelqu' un s' est assis sur
-7096   est assis                     se ta-si                      un s' est assis sur
+7096   s' est                        se                           quelqu' un s' est assis sur
 7099   quelqu' un                    kEl k1                        quelqu' un s' est assis sur
-7099   s' est                        set                          quelqu' un s' est assis sur
-7099   est assis                     se ta-si                      un s' est assis sur
+7099   s' est                        se                           quelqu' un s' est assis sur
 7099   grand ours                    gR@ tuRs                      dit le grand ours de
 7100   quelqu' un                    kEl k1                        quelqu' un s' est assis sur
-7100   s' est                        set                          quelqu' un s' est assis sur
-7100   est assis                     se ta-si                      un s' est assis sur
+7100   s' est                        se                           quelqu' un s' est assis sur
 7100   l' ours                       luRs                         , dit l' ours moyen
 7103   c' est                        se                           alors , c' est celui là
 7104   quelqu' un                    kEl k1                        quelqu' un s' est assis sur
-7104   s' est                        set                          quelqu' un s' est assis sur
-7104   est assis                     se ta-si                      un s' est assis sur
+7104   s' est                        se                           quelqu' un s' est assis sur
 7104   il a                          i la                          , et il a cassé
 7105   petit ours                    p°-ti tuRs                    crie le petit ours de sa
 7108   t' as                         ta                           t' as vu ce qu' il
@@ -3990,8 +3874,7 @@
 7129   on était                      t§ ne-tE                      toi quand on était chez
 7130   t' as                         ta                           papi t' as fait écouter ,
 7130   on entendait                  § n@-t@-dE                    écouter , on entendait du
-7138   elle est                      E let                         elle est un peu coquine ,
-7138   est un                        le t1                         elle est un peu coquine ,
+7138   elle est                      E le                          elle est un peu coquine ,
 7139   petit ours                    p°-ti tuRs                    , le petit ours ?
 7145   même au                       mE mo                         dire quand même au magnéto
 7145   qu' on                        k§n                          au magnéto qu' on avait
@@ -4019,8 +3902,7 @@
 7173   il est                        i le                          il est bon ?
 7180   l' histoire                   lis-twaR                     dans l' histoire de ?
 7185   pauline était                 po-li ne-tE                   pauline était malade ?
-7186   elle est                      E let                         elle est allée à l' hopital
-7186   est allée                     le ta-le                      elle est allée à l' hopital
+7186   elle est                      E le                          elle est allée à l' hopital
 7186   l' hopital                    l#                           allée à l' hopital ?
 7188   elle est                      E le                          elle est pas allée à l'
 7188   l' hopital                    l#                           allée à l' hopital .
@@ -4029,10 +3911,8 @@
 7189   l' hopital                    l#                           aller à l' hopital !
 7190   c' est                        se                           c' est caroline qui était malade
 7190   malade et                     ma-la de                      qui était malade et qui
-7190   est allée                     e ta-le                       et qui est allée à
 7190   l' hopital                    l#                           allée à l' hopital ?
-7193   c' est                        set                          si c' est avec sa mère
-7193   est avec                      se ta-vEk                     si c' est avec sa mère
+7193   c' est                        se                           si c' est avec sa mère
 7193   c' est                        se                           mère , c' est ,
 7193   elle est                      E le                          est , elle est sauvée
 7205   c' est                        se                           c' est tout !
@@ -4100,8 +3980,7 @@
 7371   c' est                        se                           c' est la tétine qui marche
 7373   c' est                        se                           c' est ça ?
 7374   c' est                        se                           c' est ça pauline ?
-7378   c' est                        set                          c' est encore la tétine .
-7378   est encore                    se t@-kOR                     c' est encore la tétine .
+7378   c' est                        se                           c' est encore la tétine .
 7380   t' as                         ta                           t' as du mauvais matériel ,
 7380   qu' est-ce                    kEs                          matériel , qu' est-ce que
 7382   peut-être une                 p2-tE tRyn                    tu veux peut-être une petite cuillère
@@ -4180,12 +4059,9 @@
 7516   ils ont                       il z§                         vois , ils ont la
 7518   couleur elle                  ku-l9 REl                     de quelle couleur elle est
 7518   elle est                      RE le                         quelle couleur elle est ta
-7519   elle est                      E let                         elle est un peu marron ,
-7519   est un                        le t1                         elle est un peu marron ,
-7520   elle est                      E let                         tes mains elle est un
-7520   est un                        le t1                         mains elle est un peu
-7522   elle est                      E let                         elle est un peu rose aussi
-7522   est un                        le t1                         elle est un peu rose aussi
+7519   elle est                      E le                          elle est un peu marron ,
+7520   elle est                      E le                          tes mains elle est un
+7522   elle est                      E le                          elle est un peu rose aussi
 7522   rose aussi                    Ro zo-si                      un peu rose aussi cette
 7523   t' aide                       tEd                          que je t' aide ?
 7528   c' est                        se                           c' est bon ?
@@ -4202,8 +4078,7 @@
 7545   qu' est-ce                    kEs                          qu' est-ce qu' on a fait
 7545   qu' on                        k§n                          qu' est-ce qu' on a fait
 7545   on a                          k§ na                         est-ce qu' on a fait
-7546   elle est                      E let                         elle est à l' école .
-7546   est à                         le ta                         elle est à l' école .
+7546   elle est                      E le                          elle est à l' école .
 7546   l' école                      le-kOl                       est à l' école .
 7550   il est                        i le                          pi françois il est monté
 7553   t' as                         ta                           il t' as fait coucou .
@@ -4217,8 +4092,7 @@
 7562   c' est                        se                           c' est sa grande sortie de
 7562   l' année                      la-ne                        sortie de l' année !
 7563   alors on                      a-lO R§n                      alors on est allé les regarder
-7563   on est                        R§ net                        alors on est allé les regarder
-7563   est allé                      ne ta-le                      alors on est allé les regarder
+7563   on est                        R§ ne                         alors on est allé les regarder
 7565   il était                      i le-tE                       il était content !
 7566   il avait                      i la-vE                       il avait pris son sac à
 7566   sac à                         sa ka                         pris son sac à dos
@@ -4247,8 +4121,7 @@
 7599   l' ogresse                    lo-gREs                      t' es l' ogresse pour les
 7602   t' es                         tE                           t' es la gourmande en pêche
 7602   gourmande en                  guR-m@ d@                     es la gourmande en pêche
-7603   il est                        i let                         papa il est à l' école
-7603   est à                         le ta                         papa il est à l' école
+7603   il est                        i le                          papa il est à l' école
 7603   l' école                      le-kOl                       est à l' école ,
 7606   il est                        i le                          il est où ?
 7607   son école                     s§ ne-kOl                     à son école .
@@ -4316,8 +4189,7 @@
 7689   l' aspirateur                 las-pi-Ra-t9R                trouve sous l' aspirateur ,
 7689   les aspirer                   le zas-pi-Re                  va te les aspirer .
 7692   c' est                        se                           c' est ça ?
-7693   c' est                        set                          c' est à toi la petite
-7693   est à                         se ta                         c' est à toi la petite
+7693   c' est                        se                           c' est à toi la petite
 7697   t' as                         ta                           t' as cassé le biberon ?
 7698   des artichauts                de zaR-ti-So                  tu fais des artichauts aussi ?
 7703   j' ai                         ZE                           j' ai rien mis à la
@@ -4340,10 +4212,8 @@
 7736   qu' est-ce                    kEs                          alors qu' est-ce qu' on va
 7736   qu' on                        k§                           qu' est-ce qu' on va
 7736   comme habits                  kO ma-bi                      lui mettre comme habits ?
-7738   c' est                        set                          , ça c' est à
-7738   est à                         se ta                         ça c' est à .
-7739   c' est                        set                          c' est à bébé framboise ,
-7739   est à                         se ta                         c' est à bébé framboise ,
+7738   c' est                        se                           , ça c' est à
+7739   c' est                        se                           c' est à bébé framboise ,
 7740   c' est                        se                           c' est ton bébé , framboise
 7741   c' est                        se                           c' est pour toi si elle
 7742   qu' elle                      kEl                          tu crois qu' elle voudra bien
@@ -4352,8 +4222,7 @@
 7749   j' ai                         ZE                           j' ai compris .
 7750   d' accord                     da-kOR                       oui , d' accord , je
 7753   l' ai                         lE                           je l' ai habillé , pi
-7757   c' est                        set                          ça c' est à bébé vanille
-7757   est à                         se ta                         ça c' est à bébé vanille
+7757   c' est                        se                           ça c' est à bébé vanille
 7757   c' est                        se                           est-ce que c' est propre
 7761   qu' est-ce                    kEs                          qu' est-ce qu' elle avait comme
 7761   qu' elle                      kEl                          qu' est-ce qu' elle avait comme
@@ -4363,8 +4232,7 @@
 7764   l' as                         la                           tu l' as vue , ou
 7766   l' avais                      la-vE                        je l' avais vue .
 7768   c' est                        se                           c' est pas à toi ,
-7768   c' est                        set                          toi , c' est à
-7768   est à                         se ta                         , c' est à claire
+7768   c' est                        se                           toi , c' est à
 7770   c' est                        se                           bébé vanille c' est pas à
 7776   elle est                      E le                          elle est bien habillée la fille
 7781   s' en                         s@                           elle s' en va dans le
@@ -4461,8 +4329,7 @@
 7938   il aboie                      ki la-bwa                     est-ce qu' il aboie comme
 7939   qu' il                        kil                          tu crois qu' il a fait
 7939   il a                          ki la                         crois qu' il a fait
-7942   c' est                        set                          bah , c' est un
-7942   est un                        se t1                         , c' est un grand
+7942   c' est                        se                           bah , c' est un
 7943   il a                          i la                          il a plus , sa maman
 7943   s' en                         s@n                          maman euh s' en occupe
 7943   en occupe                     s@ no-kyp                     euh s' en occupe plus
@@ -4476,18 +4343,15 @@
 7952   c' était                      se-tE                        c' était papa ou c' était
 7952   c' était                      se-tE                        papa ou c' était mamie
 7953   fesses et                     fE se                         lavait les fesses et mamie
-7957   c' est                        set                          c' est un peu chaud ?
-7957   est un                        se t1                         c' est un peu chaud ?
+7957   c' est                        se                           c' est un peu chaud ?
 7958   l' autre                      lot                          tourne dans l' autre sens le
-7965   c' est                        set                          c' est encore trop chaud ?
-7965   est encore                    se t@-kOR                     c' est encore trop chaud ?
+7965   c' est                        se                           c' est encore trop chaud ?
 7967   c' est                        se                           c' est maman qui lave ?
 7969   il est                        i le                          il est sale ?
 7970   l' eau                        lo                           presses dans l' eau ça
 7970   sert à                        sE Ra                         eau ça sert à rien
 7971   l' eau                        lo                           dehors de l' eau .
-7974   c' est                        set                          c' est à quelle main ,
-7974   est à                         se ta                         c' est à quelle main ,
+7974   c' est                        se                           c' est à quelle main ,
 7976   t' es                         tE                           t' es gauchère , oui .
 7977   c' est                        se                           c' est mieux comme ça ?
 7979   t' as                         ta                           que , t' as de
@@ -4501,8 +4365,7 @@
 7996   l' eau                        lo                           tu vides l' eau ?
 7997   vas y                         va zi                         tiens vas y .
 7999   c' est                        se                           bah , c' est laquelle ,
-8001   c' est                        set                          , ça c' est à
-8001   est à                         se ta                         ça c' est à françois
+8001   c' est                        se                           , ça c' est à
 8003   c' est                        se                           c' est celle là ?
 8004   c' est                        se                           bah , c' est du dentifrice
 8004   dentifrice à                  d@-ti-fRi sa                  est du dentifrice à la
@@ -4636,16 +4499,13 @@
 8203   l' as                         la                           tu l' as ouverte ?
 8205   t' as                         ta                           t' as ouvert la porte toute
 8210   c' est                        se                           c' est bien .
-8211   c' est                        set                          ça c' est un timbre à
-8211   est un                        se t1                         ça c' est un timbre à
+8211   c' est                        se                           ça c' est un timbre à
 8211   timbre à                      t5 bRa                        est un timbre à édouard
-8212   c' est                        set                          ça c' est un petit autocollant
-8212   est un                        se t1                         ça c' est un petit autocollant
+8212   c' est                        se                           ça c' est un petit autocollant
 8212   petit autocollant             p°-ti to-to-ko-l@             est un petit autocollant que
 8212   j' te                         St2                          autocollant que j' te donne
 8214   s' appelle                    sa-pEl                       comment il s' appelle ton
-8216   c' est                        set                          c' est un petit bout de
-8216   est un                        se t1                         c' est un petit bout de
+8216   c' est                        se                           c' est un petit bout de
 8220   qu' est-ce                    kEs                          alors , qu' est-ce que tu
 8224   c' est                        se                           ça c' est quoi la couleur
 8225   c' est                        se                           non , c' est violet !
@@ -4668,8 +4528,7 @@
 8245   j' ai                         ZE                           alors , j' ai ouvert la
 8245   des animaux                   de za-ni-mo                   le loto des animaux .
 8246   c' est                        se                           non , c' est pas
-8246   c' est                        set                          couleur , c' est une
-8246   est une                       se tyn                        , c' est une carte
+8246   c' est                        se                           couleur , c' est une
 8249   d' accord                     da-kOR                       bon , d' accord !
 8251   t' as                         ta                           t' as joué avec papi bernard
 8252   j' étais                      Ze-tE                        pendant que j' étais pas là
@@ -4706,30 +4565,24 @@
 8293   c' est                        se                           oui , c' est pareil .
 8297   c' est                        se                           c' est moi !
 8298   s' appelle                    sa-pEl                       comment ça s' appelle ?
-8299   c' est                        set                          c' est une pintade .
-8299   est une                       se tyn                        c' est une pintade .
+8299   c' est                        se                           c' est une pintade .
 8300   c' est                        se                           non , c' est moi qui
-8301   c' est                        set                          dis , c' est à
-8301   est à                         se ta                         , c' est à moi
+8301   c' est                        se                           dis , c' est à
 8302   c' est                        se                           ça , c' est les ,
 8302   d' inde                       d5d                          les cochons d' inde .
-8303   c' est                        set                          c' est à moi , hein
-8303   est à                         se ta                         c' est à moi , hein
+8303   c' est                        se                           c' est à moi , hein
 8306   c' est                        se                           c' est là .
 8308   regarde à                     R°-gaR da                     , il regarde à la
 8310   les hamsters                  le zam-stER                   ça mange les hamsters ?
 8312   s' appelle                    sa-pEl                       comment ça s' appelle , ça
 8313   c' est                        se                           alors , c' est moi qui
-8315   c' est                        set                          ça c' est un dindon .
-8315   est un                        se t1                         ça c' est un dindon .
+8315   c' est                        se                           ça c' est un dindon .
 8316   c' est                        se                           non , c' est pas à
-8317   c' est                        set                          c' est à ta .
-8317   est à                         se ta                         c' est à ta .
+8317   c' est                        se                           c' est à ta .
 8322   c' est                        se                           c' est moi !
 8323   qu' est-ce                    kEs                          qu' est-ce que c' est ça
 8323   c' est                        se                           est-ce que c' est ça
-8326   c' est                        set                          c' est à moi .
-8326   est à                         se ta                         c' est à moi .
+8326   c' est                        se                           c' est à moi .
 8328   c' est                        se                           , ça c' est le
 8331   d' accord                     da-kOR                       d' accord !
 8332   m as                          E ma                          tu m as montré .
@@ -4756,8 +4609,7 @@
 8362   qu' est-ce                    kEs                          qu' est-ce que ça peut être
 8362   peut être                     p2 tEtR                       que ça peut être ,
 8363   qu' est-ce                    kEs                          qu' est-ce qui manque là ?
-8366   c' est                        set                          non , c' est un mouton
-8366   est un                        se t1                         , c' est un mouton
+8366   c' est                        se                           non , c' est un mouton
 8369   un oiseau                     1 nwa-zo                      non , un oiseau qui s'
 8369   s' appelle                    sa-pEl                       oiseau qui s' appelle un
 8369   appelle un                    sa-pE l1                      qui s' appelle un rouge
@@ -4769,8 +4621,7 @@
 8384   faire une                     fE Ryn                        on va faire une autre partie
 8384   une autre                     Ry not                        va faire une autre partie
 8390   t' en                         t@                           t' en prends deux !
-8392   c' est                        set                          alors c' est un petit peu
-8392   est un                        se t1                         alors c' est un petit peu
+8392   c' est                        se                           alors c' est un petit peu
 8393   qu' est-ce                    kEs                          qu' est-ce que c' est les
 8393   c' est                        se                           est-ce que c' est les
 8396   elle est                      E le                          elle est où la poule ?

@@ -2,10 +2,17 @@
 15 couches alors                  qui te couches alors ,
 16 jouer avec                     tu veux jouer avec tes boules
 18 maison alors                   dans la maison alors ?
+22 est un                         c' est un poisson , oui
+29 est un                         c' est un nounours , oui
+34 est un                         ça c' est un petit éléphant
+35 est un                         aussi c' est un petit
 42 pas à                         t(u) arrives pas à les attraper
 50 mais on                        oui , mais on a besoin
 65 chien oui                      un chien oui , et puis
+66 est une                        c' est une dame .
 67 regarder un                    tu viens regarder un livre ?
+68 est au                         ta poupée est au lit .
+72 est au                         elle est au lit ?
 84 pas où                        je sais pas où il est
 85 avait un                       il y avait un poisson
 115 alors ouvre                    accord , alors ouvre un
@@ -18,24 +25,33 @@
 157 veux encore                    que tu veux encore ?
 163 veux encore                    que tu veux encore ?
 185 arriver à                     tu va arriver à ouvrir marie
+186 est ouvert                     qu' il est ouvert comme
 191 veux aussi                     , tu veux aussi mettre
+201 est ici                        elle est ici .
 203 veux enlever                   tu veux enlever le la ti(c)
 204 veux enlever                   tu veux enlever la montre ou
+207 est allée                     où elle est allée la
+208 est ici                        elle est ici .
 216 parles il                      quand tu parles il faut l'
 216 sinon on                       enlever , sinon on te
 225 puis il                        nounours et puis il y
 237 couchés alors                 les deux couchés alors .
 247 pas un                         c' est pas un crocodile .
+256 est odile                      c' est odile .
 267 maman et                       grand maman et grand papa .
+269 est odile                      ça c' est odile .
 277 et à                          et à côté là ?
 281 et à                          et à côté ?
 300 nicolas oui                    c' est nicolas oui , oui
 306 maman elle                     maman elle va le mettre dans
 314 doit être                     est qui doit être couchée
 315 maman elle                     mais maman elle est partie .
+316 est à                         elle est à la cuisine .
 317 pas où                        je sais pas où .
 319 veux ouvrir                    tu veux ouvrir ta valise pour
+327 est encore                     ça c' est encore un
 339 yeux aussi                     fermer les yeux aussi .
+341 est à                         ça c' est à la naissance
 345 malheureusement elle           mais là malheureusement elle est pas
 354 est où                        marie elle est où ?
 355 est où                        elle est où marie sur la
@@ -50,17 +66,21 @@
 409 aller éteindre                tu peux aller éteindre .
 416 ouais enfin                    ouais enfin bon , si tu
 417 finalement il                  finalement il y a des canards
+421 est un                         ça c' est un chat oui
 421 chat oui                       est un chat oui .
 422 et ici                         et ici ?
+426 est un                         aussi c' est un petit
 429 pas un                         c' est pas un chat
 438 fait un                        on fait un petit lit pour
 441 veux encore                    tu veux encore lui mettre son
+450 est un                         ça c' est un chat
 475 alors on                       alors on met les chaussons ?
 477 pars en                        si tu pars en courant
 478 fais attention                 tu fais attention avec les doigts
 478 attention avec                 tu fais attention avec les doigts
 478 doigts avec                    avec les doigts avec le
 483 doucement un                   marie , doucement un peu .
+488 est un                         c' est un peu particulier .
 491 veux en                        tu en veux en mettre là
 502 canard ici                     le petit canard ici .
 504 est où                        il est où ?
@@ -68,6 +88,7 @@
 506 vois où                       tu vois où il est l'
 507 pas un                         c' est pas un ballon
 508 mais y                         mais y a un ballon sur
+515 est un                         ça c' est un peu
 517 trop haut                      c' est trop haut .
 527 pas une                        c' est pas une bonne
 533 as un                          que tu as un tabouret
@@ -90,12 +111,15 @@
 616 chercher une                   tu vas chercher une couche et
 619 rester ici                     tu peux rester ici .
 620 chercher une                   il va chercher une couche
+628 est un                         là elle est un peu
 632 alors on                       alors on va en mettre une
 647 p(u)is on                      p(u)is on va aller chercher louis
+654 est allé                      papa est allé le chercher .
 660 vient avec                     il vient avec , il vient
 660 vient avec                     , il vient avec .
 661 vient avec                     il vient avec lui papa .
 662 vient avec                     il vient avec lui .
+669 est un                         c' est un peu tôt ,
 705 alors attends                  alors attends !
 708 peut enlever                   on peut enlever ça aussi .
 730 bras en                        mets ton bras en bas marie
@@ -112,6 +136,7 @@
 821 rester un                      il va rester un petit moment
 821 moment avec                    un petit moment avec papa
 836 veux aller                     tu veux aller fermer les rideaux
+838 est allé                      papa il est allé mettre quelque
 849 mais elle                      oui , mais elle est dans
 850 apporter un                    vais t' apporter un biberon
 874 lit à                         dans son lit à lui
@@ -124,23 +149,28 @@
 933 louis y                        chez louis y en a un
 933 petit et                       a un petit et marie
 938 maman elle                     non , maman elle en a
+939 est un                         c' est un pour marie ,
 942 grand ou                       veux le grand ou le
 954 fait un                        on fait un dessin alors ?
 954 dessin alors                   fait un dessin alors ?
 963 après on                      après on verra plus rien .
 966 peux ouvrir                    tu peux ouvrir les rideaux ,
 975 papier alors                   sors le papier alors ,
+988 est un                         ça c' est un poisson
 992 poisson encore                 un poisson encore ?
+1000 est orange                     ça c' est orange , vert
 1013 fait une                       on fait une cheminée ?
 1026 choisis un                     choisis un dessin !
 1029 mais y                         mais y a où ça un
 1030 vois un                        tu vois un petit oiseau ,
 1033 vois un                        , je vois un hélicoptère
+1038 est une                        ça c' est une barque
 1042 fais une                       tu en fais une avec moi
 1043 fais une                       tu en fais une ?
 1054 maison ouais                   une belle maison ouais .
 1059 fais attention                 fais attention marie !
 1060 pas à                         pas à t' appuyer trop là
+1065 est en                         on est en train de faire
 1069 cornet est                     le cornet est vide .
 1084 alors elle                     alors elle va dormir ?
 1092 veux une                       t' en veux une autre ?
@@ -162,11 +192,13 @@
 1201 pas aller                      on va pas aller sur le
 1202 pas encore                     t' es pas encore habillée .
 1204 seras habillée                quand tu seras habillée .
+1208 est avec                       il est avec maman .
 1209 pas exactement                 je sais pas exactement où ils
 1209 exactement où                 sais pas exactement où ils
 1224 pas encore                     on peut pas encore la
 1227 mets ici                       tu la mets ici en
 1232 veux encore                    tu veux encore en mettre d'
+1240 est un                         est-ce qui est un peu
 1244 fais attention                 fais attention à toi .
 1244 attention à                   fais attention à toi .
 1245 es un                          t(u) es un peu trop au
@@ -205,6 +237,12 @@
 1460 montrer à                     tu veux montrer à maman ?
 1486 viens à                       tu viens à côté de papa
 1489 viens à                       tu viens à côté de papa
+1497 est une                        c' est une petite bouche ?
+1517 est en                         qu' il est en train
+1521 est en                         il est en train de s'
+1527 est en                         il est en train de se
+1528 est une                        * c' est une grande maison
+1529 est en                         qu' il est en train
 1530 sont en                        où ils sont en train
 1540 chercher une                   veux bien chercher une image
 1540 sont en                        où ils sont en train
@@ -226,6 +264,8 @@
 1621 as un                          t' as un peu de papier
 1632 pas ensemble                   ça va pas ensemble .
 1664 pas encore                     euh pas encore mais bientôt .
+1667 est un                         vois c' est un bord
+1668 est en                         on est en train de faire
 1676 puis à                        puis à côté tu peux mettre
 1677 non à                         non à côté .
 1682 bord y                         que le bord y soit là
@@ -239,23 +279,34 @@
 1777 alors on                       alors on remet ça dans la
 1797 as une                         t' as une drôle de position
 1803 et on                          et on marche pas sur l(e)
+1820 est à                         il est à qui ?
+1821 est à                         il est à qui celui là
+1823 est à                         ah il est à qui ?
+1824 est à                         il est à grand papa et
 1824 et à                          grand papa et à grand
 1827 p(e)tits oiseaux               vu les p(e)tits oiseaux ?
 1828 vont au                        s' en vont au champ
 1831 vont au                        s' en vont au champ
+1832 est une                        c' est une histoire de poules
 1838 irons au                       trois nous irons au bois
+1840 est un                         c' est un p(e)tit oiseau qui
 1840 p(e)tit oiseau                 est un p(e)tit oiseau qui
+1844 est en                         ça c' est en bateau
 1852 héron héron                  une bergère héron héron petit
 1869 vois il                        tu vois il est dans son
 1872 quand y                        quand y a l' arbre qui
 1872 boules et                      a les boules et puis
 1879 pas un                         y a pas un chant
+1880 est une                        c' est une image .
 1881 vont au                        s' en vont au champ
 1883 vont au                        s' en vont au champ
 1886 vont au                        s' en vont au champ
 1889 vont au                        s' en vont au .
 1893 pas une                        c' est pas une chanson la
+1894 est une                        c' est une chanson ?
+1895 est une                        c' est une chanson ça ?
 1898 doit être                     ça doit être la mimi cracra
+1911 est un                         ça c' est un monsieur qui
 1918 vois il                        tu vois il a un nez
 1919 nez et                         * un nez et encore un
 1919 et encore                      un nez et encore un
@@ -268,6 +319,7 @@
 1945 et il                          et il écarte très fort ses
 1969 jouer avec                     tu veux jouer avec les bulles
 1988 ballons aussi                  les ballons aussi ?
+1997 est une                        oui c' est une couleur .
 2003 est où                        c' est où stop ?
 2019 veux encore                    tu veux encore essayer ?
 2029 vas où                        tu vas où ?
@@ -280,11 +332,14 @@
 2116 alors il                       alors il faut lâcher là .
 2117 faut enlever                   faut enlever .
 2120 faisais avant                  que tu faisais avant ,
+2122 est un                         c' est un peu plus difficile
+2132 est à                         , c' est à marie
 2133 prêtes une                    tu me prêtes une chaise ?
 2135 assieds où                    je m' assieds où ?
 2141 mais il                        oui , mais il faut la
 2142 autrement elle                 parce qu' autrement elle tombe .
 2162 autrement il                   autrement il y a toute la
+2164 est une                        mais c' est une bonne idée
 2194 mais il                        mais il faut d' abord renfermer
 2200 rien à                        y a rien à faire
 2201 rien à                        y a rien à faire
@@ -294,6 +349,7 @@
 2214 alors on                       alors on fait autre chose .
 2214 fait autre                     alors on fait autre chose .
 2215 jouer avec                     on pourrait jouer avec le
+2217 est à                         oui c' est à toi .
 2221 bison et                       , un bison et un
 2221 et un                          un bison et un canard
 2230 aides à                       tu m' aides à chercher ?
@@ -304,8 +360,12 @@
 2239 est aussi                      ça c' est aussi un
 2240 est où                        , il est où ?
 2250 pas un                         c' est pas un chat ça
+2251 est un                         ça c' est un chat .
+2254 est un                         ça c' est un chat .
 2259 et un                          et un chat .
 2260 était en                      , c' était en vacances
+2262 est y                          ça c' est y a pas
+2266 est un                         , c' est un chat
 2269 et ici                         et ici , il est où
 2269 est où                        , il est où le
 2273 pas encore                     tu sais pas encore bien lire
@@ -338,6 +398,7 @@
 2438 pas une                        c' est pas une peluche
 2446 puis on                        puis on regarde un livre comme
 2449 est hier                       ah c' est hier , hein
+2452 est avec                       il est avec son papa .
 2457 fait un                        ils ont fait un grand tas
 2457 tas avec                       un grand tas avec la
 2458 et ils                         et ils dorment comme ça .
@@ -349,7 +410,9 @@
 2466 mais il                        mais il fait chaud là .
 2472 ouais un                       ouais un hippopotame .
 2473 dit il                         peur , dit il à
+2478 est un                         c' est un ours polaire .
 2481 images et                      plein d' images et tout
+2482 est un                         plume c' est un ours polaire
 2483 et il                          tout blanc et il vit
 2491 aider à                       va t' aider à rentrer
 2493 rencontrent un                 ils rencontrent un * .
@@ -357,6 +420,7 @@
 2497 et il                          se repose et il attend
 2499 pas aller                      il peut pas aller vite
 2501 alors il                       alors il lui dit je vais
+2502 est une                        orque c' est une baleine .
 2503 et orque                       et orque il va aider plume
 2506 et i(l)                        et i(l) fait un long long
 2506 fait un                        et i(l) fait un long long
@@ -370,33 +434,44 @@
 2572 rien alors                     j(e) fais rien alors .
 2583 maison alors                   fait deux maison alors .
 2584 lit avec                       fasses au lit avec les
+2617 est un                         ça c' est un grand immeuble
 2625 alors attends                  ben , alors attends !
 2628 non alors                      ben , non alors .
 2670 met où                        on le met où celui là
 2675 et on                          et on va le mettre où
 2676 est où                        il est où ?
 2690 es un                          t' es un peu grande marie
+2693 est un                         c' est un bout de la
+2695 est un                         , elle est un peu
 2713 pas où                        je vois pas où il
 2730 vas être                      tu vas être toute mouillée .
 2738 pas un                         c' est pas un pantalon
+2739 est un                         c' est un pull .
+2740 est un                         aussi c' est un pull
 2743 chaussettes aussi              mais les chaussettes aussi tu
 2745 mais il                        non , mais il est ,
 2752 jouer avec                     tu veux jouer avec la maison
 2756 aider à                       vais t' aider à les
 2758 aider à                       vais t' aider à les
+2760 est en                         elle est en train de se
 2763 non elle                       non elle est encore en train
+2763 est encore                     non elle est encore en train
+2775 est un                         c' est un petit bonhomme ça
+2778 est un                         ça c' est un nid avec
 2778 nid avec                       est un nid avec des
 2780 pas enlever                    on peut pas enlever .
 2781 peut enlever                   on peut enlever ça , ça
 2783 fait un                        t' as fait un bobo là
 2784 es arrivé                     qui t' es arrivé ?
 2788 fait un                        tu as fait un bobo
+2790 est aujourd'hui                c' est aujourd'hui que tu as
 2793 non on                         non on va rien entendre non
 2793 rien entendre                  on va rien entendre non
 2794 après on                      après on entendra peut-être marie .
 2816 veux on                        si tu veux on peut jouer
 2816 jouer avec                     on peut jouer avec ces
 2816 cartes oui                     avec ces cartes oui .
+2829 est égal                      , c' est égal .
 2830 donnes une                     m' en donnes une ?
 2840 pas être                      ça va pas être facile .
 2844 petit hérisson                a un petit hérisson avec
@@ -412,6 +487,7 @@
 2931 bon alors                      bon alors on les range *
 2931 alors on                       bon alors on les range *
 2935 directement alors              la boîte directement alors .
+2938 est une                        c' est une carte , oui
 2947 donner à                      on pourrait donner à louis
 2954 est aussi                      , il est aussi trop
 2959 livres il                      pour les livres il est trop
@@ -420,9 +496,12 @@
 2976 puis après                    ça et puis après on
 2976 après on                      et puis après on met
 2977 bouton y                       voilà le bouton y reste toujours
+2982 est un                         c' est un mouton .
+2983 est un                         c' est un mouton behehe .
 2985 as une                         , tu as une drôle
 2991 après on                      non , après on les
 2992 legos après                   quoi les legos après ?
+3005 est agréable                  que c' est agréable si
 3009 alors il                       alors il apprécie encore moins que
 3013 jouer aussi                    je peux jouer aussi avec lui
 3014 fais autre                     toi tu fais autre chose
@@ -442,6 +521,7 @@
 3057 et on                          pour marie et on va
 3057 chercher un                    va en chercher un autre
 3072 maintenant avec                faire quoi maintenant avec le
+3073 est encore                     c' est encore un cadeau marie
 3086 veut alors                     qu' i(l) veut alors !
 3087 fait avec                      qu' il fait avec ?
 3098 donner emballé                faut lui donner emballé marie
@@ -451,6 +531,7 @@
 3102 louis en                       crois que louis en a
 3106 fais une                       tu fais une maison toi ?
 3107 donnes une                     tu lui donnes une * ,
+3110 est un                         c' est un cadeau .
 3114 lapin ou                       un petit lapin ou .
 3128 donnes à                      tu lui donnes à manger ?
 3133 pas où                        je sais pas où elle
@@ -469,6 +550,7 @@
 3218 et un                          et un gâteau d' anniversaire ?
 3219 début y                       au début y a des biscuits
 3225 dirait une                     ça on dirait une petite épicerie
+3229 est une                        c' est une boulangerie .
 3230 mais elle                      mais elle est fermée .
 3231 alors il                       alors il est tout déçu hervé
 3247 jouer après                   place pour jouer après .
@@ -494,8 +576,10 @@
 3309 allez encore                   allez encore un p(e)tit coup d'
 3321 en haut                        y a en haut ?
 3331 et y                           et y en a sur ton
+3335 est au                         celui qui est au milieu
 3342 fais attention                 tu fais attention marie parce que
 3344 pas un                         c' est pas un râteau marie
+3345 est une                        c' est une canne .
 3352 pas exactement                 j'sais pas exactement où elles sont
 3352 exactement où                 j'sais pas exactement où elles sont
 3354 pas ici                        ne sont pas ici .
@@ -524,13 +608,17 @@
 3439 jouer ici                      veux venir jouer ici avec
 3441 fait alors                     qu' on fait alors ?
 3445 construit une                  t' as construit une maison ?
+3448 est un                         c' est un parasol .
+3454 est une                        c' est une grand maman .
 3456 alors on                       alors on va le chercher .
 3457 est où                        il est où ?
 3470 maman à                       mettre grand maman à côté
+3471 est assise                     oui elle est assise .
 3474 mamans et                      papas des mamans et des
 3498 et après                      et après y a une (pe)tite
 3498 après y                       et après y a une (pe)tite
 3506 p(u)is on                      et p(u)is on a une p(e)tite
+3508 est une                        ça c' est une p(e)tite dame
 3509 pas une                        y a pas une p(e)tite fille
 3512 veux aussi                     tu veux aussi mettre l' éléphant
 3540 gens on                        viennent les gens on peut
@@ -544,6 +632,7 @@
 3583 pas appeler                    on va pas appeler ce
 3598 ben alors                      ben alors tant pis .
 3608 fois oui                       été une fois oui ,
+3609 est un                         c' est un moulin marie .
 3613 dirait une                     on dirait une carte .
 3615 christian ou                   &christ christian ou christiane ?
 3620 papier autour                  plier le papier autour ?
@@ -558,6 +647,7 @@
 3710 était où                     mais c' était où cette photo
 3711 pris où                       l' a pris où ?
 3714 était en                      c' était en vacances .
+3727 est à                         oui c' est à toi .
 3743 avait envoyé                  qui l' avait envoyé en
 3744 était en                      quand elle était en voyage .
 3749 maintenant on                  sais marie maintenant on va
@@ -570,6 +660,7 @@
 3811 avis elles                     à mon avis elles sont dans
 3814 veux encore                    tu veux encore faire le petit
 3818 peux essayer                   tu peux essayer là dessus ,
+3823 est un                         ça c' est un chat
 3823 chat oui                       est un chat oui .
 3844 faut aussi                     il faut aussi que je me
 3852 veux en                        que tu veux en faire
@@ -602,15 +693,19 @@
 3995 lapins et                      les petits lapins et oscar
 3995 et oscar                       petits lapins et oscar le
 4006 reçoit un                     lapin qui reçoit un cadeau
+4008 est un                         c' est un cadeau , oui
 4009 reçoit une                    il reçoit une montgolfière .
 4019 vois un                        moi je vois un petit chat
 4019 chat ici                       un petit chat ici .
 4020 pas un                         c' est pas un petit chat
 4021 vraiment à                    ça ressemble vraiment à un
 4033 avait une                      il y avait une grande vache
+4034 est en                         qu' elle est en train
 4035 veux aller                     tu veux aller voir ?
 4055 fait un                        ça te fait un chapeau ,
+4056 est un                         c' est un peu encombrant comme
 4057 veux essayer                   tu veux essayer de passer dessous
+4058 est un                         avis tu est un petit
 4059 es un                          tu es un peu grande pour
 4070 moucher aussi                  veux te moucher aussi ?
 4071 alors attends                  oui , alors attends !
@@ -619,6 +714,7 @@
 4088 après il                      après il y en aura partout
 4089 veux un                        tu en veux un autre ?
 4095 confettis avec                 par des confettis avec la
+4105 est un                         là c' est un petit poisson
 4106 veux aussi                     tu veux aussi colorier ?
 4125 maintenant on                  marie , maintenant on va aller
 4125 aller à                       on va aller à la
@@ -630,7 +726,10 @@
 4164 doit être                     , il doit être .
 4165 doit être                     il doit être au salon .
 4176 lapin et                       avec le lapin et les canards
+4179 est un                         oui c' est un petit chat
 4183 est aussi                      ça c' est aussi un petit
+4186 est une                        ça c' est une vache
+4194 est un                         , c' est un chien
 4195 cerf oui                       le cerf oui , il y
 4204 pas encore                     pas encore fini .
 4209 pas encore                     j' ai pas encore fini .
@@ -649,6 +748,7 @@
 4348 met en                         on les met en haut
 4348 en haut                        les met en haut ?
 4354 pas assez                      ne sont pas assez solides
+4357 est assise                     elle s' est assise sur
 4357 et elle                        une chaise et elle s'
 4358 alors on                       alors on ne va pas de
 4361 veux aller                     tu veux aller voir odile .
@@ -657,6 +757,7 @@
 4379 suis assis                     , je suis assis .
 4381 et elle                        et elle est pas solide ,
 4385 alors il                       marie , alors il faut
+4392 est à                         , c' est à toi
 4399 et on                          et on le met où ?
 4399 met où                        on le met où ?
 4400 jouets à                      coffre à jouets à côté
@@ -684,18 +785,23 @@
 4567 maman elle                     la lolette maman elle comprend
 4568 faut enlever                   il faut enlever la lolette ,
 4587 manger alors                   pas le manger alors ,
+4590 est une                        c' est une girafe .
 4591 as eue                         que t(u) as eue .
 4592 pas aimé                      elle a pas aimé là
+4607 est à                         papa il est à la cuisine
 4609 laver ici                      je * laver ici et je
 4618 j'suis un                      j'suis un p(e)tit lapin .
 4621 pas une                        n' est pas une vache
 4636 fait avec                      qu' on fait avec ?
 4648 est où                        elle est où , marie ?
+4658 est ici                        c' est ici qu' il faut
 4660 assieds ici                    tu t' assieds ici ?
 4665 pas un                         il a pas un long nez
 4678 fait une                       et ça fait une petite bonne
+4684 est à                         c' est à toi , oui
 4685 veux essayer                   tu veux essayer de la mettre
 4687 veux essayer                   tu veux essayer de la mettre
+4734 est un                         , c' est un chapeau
 4745 mais on                        mais on va aller , on
 4746 pas être                      ça doit pas être très agréable
 4753 faut ouvrir                    il faut ouvrir ?
@@ -704,7 +810,9 @@
 4768 mets où                       je les mets où ?
 4772 mais y                         mais y en a partout de
 4776 mets une                       je te mets une petite
+4783 est ouvert                     si c' est ouvert ,
 4784 veux une                       tu veux une ou deux granules
+4809 est à                         que c' est à toi
 4813 souffles un                    tu souffles un peu .
 4835 faut enlever                   il faut enlever tes chaussons .
 4838 veux aller                     tu veux aller dans ton lit
@@ -728,10 +836,14 @@
 4981 veux ouvrir                    tu veux ouvrir ça là bas
 4983 pas ouverte                    l' as pas ouverte hier
 4984 as ouverte                     tu l' as ouverte ?
+4985 est une                        c' est une lune .
+4991 est un                         c' est un gâteau , un
 5002 peut ouvrir                    là on peut ouvrir .
 5003 en haut                        * en haut ?
 5005 en haut                        à mettre en haut .
 5010 mais il                        mais il y en a des
+5016 est un                         ça c' est un petit lapin
+5027 est un                         c' est un chien avec le
 5027 chien avec                     est un chien avec le
 5033 toutes ouvert                  on a toutes ouvert les
 5033 pouvait ouvrir                 qu' on pouvait ouvrir jusqu'
@@ -739,7 +851,14 @@
 5036 amener à                      et les amener à maman
 5038 et à                          une chaussette et à côté
 5040 amener à                      peux les amener à maman
+5041 est une                        , c' est une petite
+5045 est à                         , c' est à toi
+5046 est ici                        il est ici marie ton coussin
+5047 est ici                        il est ici .
+5049 est ici                        il est ici .
+5056 est une                        ça c' est une tête
 5060 fait un                        on a fait un petit cochon
+5061 est à                         elle est à l' envers .
 5067 paon oui                       un paon oui .
 5068 faut encore                    * il faut encore faire l'
 5072 veux aller                     tu veux aller au lit ?
@@ -748,6 +867,7 @@
 5085 vais aller                     je vais aller t' en chercher
 5086 attends un                     attends un petit instant !
 5091 donnes un                      tu me donnes un crayon ?
+5103 est un                         , c' est un poisson
 5113 livres on                      dans les livres on ne peut
 5116 dedans aussi                   là dedans aussi tu peux dessiner
 5122 lapin aussi                    un petit lapin aussi , oui
@@ -759,6 +879,7 @@
 5148 vais aller                     je vais aller chercher du scotch
 5148 puis on                        scotch et puis on va
 5150 faut encore                    faut encore sortir des peluches marie
+5156 est un                         c' est un gentil bébé ?
 5164 viens à                       je viens à côté de toi
 5170 mets à                        tu te mets à côté ?
 5172 et on                          et on met didi sur la
@@ -774,6 +895,8 @@
 5239 fermer un                      on va fermer un peu la
 5241 bruit avec                     beaucoup de bruit avec papa
 5253 mais on                        mais on touche pas ça .
+5256 est enregistré                c' est enregistré ça .
+5257 est un                         c' est un appareil pour enregistrer
 5257 mais on                        enregistrer , mais on peut
 5261 veux avec                      si tu veux avec les
 5270 donnes un                      m' en donnes un ?
@@ -811,8 +934,11 @@
 5471 sauter à                      non , sauter à genoux
 5476 autrement on                   autrement on se fait mal aux
 5485 maman aussi                    mal et maman aussi .
+5491 est à                         papa il est à la cuisine
 5492 veux aller                     tu veux aller voir papa ?
 5519 ouais elle                     ouais elle est pas très solide
+5522 est une                        ça c' est une dame
+5526 est une                        que c' est une dame
 5532 fait une                       on fait une voiture ?
 5534 fait alors                     qu' on fait alors marie
 5537 prends un                      prends un mouchoir !
@@ -830,6 +956,9 @@
 5580 peut en                        mais on peut en f(aire) .
 5586 mais elle                      mais elle tient pas encore très
 5586 pas encore                     elle tient pas encore très
+5587 est un                         , elle est un peu
+5592 est une                        c' est une maison ça ?
+5593 est une                        c' est une maison verte et
 5613 chariot il                     ton chariot il est rouge .
 5616 maintenant on                  mais maintenant on l' a réparé
 5617 maintenant il                  oui , maintenant il est réparé
@@ -848,15 +977,30 @@
 5639 après il                      après il casse , le chariot
 5646 légumes oui                   légumes oui .
 5660 pas un                         c' est pas un citron
+5667 est orange                     , c' est orange .
+5669 est un                         ça c' est un chou fleur
+5685 est une                        , c' est une tomate
+5695 est un                         , c' est un fruit
+5696 est un                         c' est un fruit .
+5697 est une                        c' est une pomme .
 5698 mais y                         mais y a pas de fleurs
+5699 est un                         ça c' est un poireau .
+5703 est un                         c' est un maïs .
 5707 pas une                        c' est pas une fleur
+5708 est une                        c' est une citrouille .
+5709 est une                        ça c' est une poire .
 5725 donnez une                     vous me donnez une orange ,
 5726 donnez une                     vous me donnez une orange ,
+5727 est un                         ça c' est un citron
 5728 dehors encore                  en a dehors encore des
+5730 est une                        ça c' est une orange .
 5739 un ou                          a encore un ou deux
 5772 jouer avec                     tu veux jouer avec ça ?
 5775 vais ouvrir                    je vais ouvrir , marie .
 5777 vais ouvrir                    je vais ouvrir .
+5780 est ouvert                     maintenant c' est ouvert .
+5787 est à                         oui c' est à toi .
+5788 est à                         mais tout est à toi ici
 5791 souffler alors                 il faut souffler alors dans
 5795 souffles avec                  puis tu souffles avec le
 5797 maintenant encore              essuie maintenant encore un peu !
@@ -897,10 +1041,16 @@
 6002 veux aller                     tu veux aller où ?
 6002 aller où                      tu veux aller où ?
 6003 veux aller                     ça tu veux aller ?
+6006 est une                        c' est une maison marie ?
+6010 est un                         que c' est un avion
 6018 mais il                        mais il faut le laisser marie
 6025 petit alors                    un tout petit alors .
+6039 est un                         c' est un poil du blaireau
+6040 est un                         c' est un poil dessus là
 6046 pas un                         c' est pas un blaireau
 6056 pas un                         n' était pas un raton
+6057 est un                         c' est un putois , c'
+6057 est un                         , c' est un putois
 6058 putois il                      un putois il s' appelle lui
 6063 comment on                     et puis comment on fait une
 6063 fait une                       comment on fait une tour
@@ -927,6 +1077,7 @@
 6137 puis après                    et puis après , ben je
 6139 fais attention                 tu fais attention hein ?
 6139 attention hein                 tu fais attention hein ?
+6149 est assis                      qu' on est assis ?
 6177 ailleurs il                    , d' ailleurs il lui
 6178 est où                        il est où ?
 6179 volet ici                      manque un volet ici .
@@ -937,6 +1088,8 @@
 6205 bien assise                    reste bien assise !
 6208 p(u)is après                  et p(u)is après ?
 6209 moulin il                      le moulin il est là haut
+6225 est une                        c' est une photo ?
+6227 est abîmée                   elle est abîmée la photo ?
 6232 veux un                        tu veux un jus d' orange
 6237 chantes avec                   tu chantes avec moi ?
 6253 chaussures et                  mettre ses chaussures et elle
@@ -973,6 +1126,7 @@
 6404 fait un                        on fait un puzzle ?
 6406 maintenant avec                ça suffit maintenant avec ça .
 6428 regarder un                    tu veux regarder un livre ?
+6436 est en                         , il est en haut
 6436 en haut                        il est en haut .
 6437 bientôt aller                 tu vas bientôt aller au
 6437 aller au                       vas bientôt aller au lit
