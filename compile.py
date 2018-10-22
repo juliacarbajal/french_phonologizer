@@ -9,10 +9,10 @@ age_min_input = '0y0m' # Eventually make this input user-defined
 age_max_input = '2y0m'
 
 # Define which transcription to load (orthographic or phonological):
-phono_transcript = False # True for phonological transcription, False for orthographic transcription
+phono_transcript = True # True for phonological transcription, False for orthographic transcription
 if phono_transcript:
 	folder = 'output'
-	filename = '/recoded_L_D_S_E.txt'
+	filename = '/recoded_L_D_E.txt'  #'/recoded_L_D_S_E.txt' # Note: specify here which version of the phonologized corpus to use.
 	outname = 'phono'
 else:
 	folder = 'corpora'
@@ -27,10 +27,10 @@ else:
 	printInfoTag = '_noFileInfo'
 
 # Print in lower-case?
-lowerCase = True
+lowerCase = False
 
 # Remove parentheses? (Symbolises unpronounced parts of words)
-removeParentheses = True
+removeParentheses = False
 if removeParentheses:
 	removeParenthesesTag = '_noParnths'
 else:
@@ -47,23 +47,31 @@ def parse_age(age_string):
 
 age_min_y, age_min_m = parse_age(age_min_input)
 age_max_y, age_max_m = parse_age(age_max_input)
+total_months_min = age_min_y * 12 + age_min_m
+total_months_max = age_max_y * 12 + age_max_m
 
 
 def check_age(current_age):
 	years  = current_age[0]
 	months = current_age[1]
-	include = False
-	if (years < age_max_y and years > age_min_y):
+	days   = current_age[2]
+	total_months = years*12 + months
+	if (total_months in range(total_months_min,total_months_max) or (total_months == total_months_max and days == 0)):
 		include = True
-	elif (years == age_max_y and years == age_min_y):
-		if (months <= age_max_m or months >= age_min_m):
-			include = True
-	elif (years == age_max_y and years != age_min_y):
-		if (months <= age_max_m):
-			include = True
-	elif (years == age_min_y and years != age_max_y):
-		if (months >= age_min_m):
-			include = True
+	else:
+		include = False
+	# include = False
+	# if (years < age_max_y and years > age_min_y):
+		# include = True
+	# elif (years == age_max_y and years == age_min_y):
+		# if (months <= age_max_m or months >= age_min_m):
+			# include = True
+	# elif (years == age_max_y and years != age_min_y):
+		# if (months <= age_max_m):
+			# include = True
+	# elif (years == age_min_y and years != age_max_y):
+		# if (months >= age_min_m):
+			# include = True
 	return include
 
 ###############################################################################################
