@@ -158,11 +158,7 @@ exceptions_next = exceptions_next + h_aspire
 # Keys: Words that are considered to undergo mandatory liaison
 # Values: Exceptions of following words that would not trigger liaison
 always_except = {}
-always_except['un'] = exceptions_next + ['à']
-always_except["quelqu'un"] = exceptions_next + ['y', 'est', 'a']
-always_except['les'] = exceptions_next + ['avec']
-always_except['des'] = exceptions_next + ['avec']
-always_except['ces'] = exceptions_next + ['avec']
+# Possessive pronouns:
 always_except['mon'] = exceptions_next + ['avec']
 always_except['ton'] = exceptions_next + ['avec']
 always_except['son'] = exceptions_next + ['avec']
@@ -172,31 +168,43 @@ always_except['ses'] = exceptions_next + ['avec']
 always_except['nos'] = exceptions_next + ['avec']
 always_except['vos'] = exceptions_next + ['avec']
 always_except['leurs'] = exceptions_next
-always_except['aux']   = exceptions_next
-always_except['aucun'] = exceptions_next
-always_except['tout']  = exceptions_next + ['il', 'ils', 'elle', 'elles', 'on']
-always_except['quels']  = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except['quelles']  = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except['quelques'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except['plusieurs']  = exceptions_next
-always_except['certains']   = exceptions_next
-always_except['certaines']  = exceptions_next
-always_except['autres'] = exceptions_next + ['à', 'au']
-always_except['on']     = exceptions_next
-always_except['nous']   = exceptions_next + ['à', 'on'] + ['il', 'ils', 'elle', 'elles']
-always_except['vous']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except['ils']    = exceptions_next
-always_except['elles']  = exceptions_next
-always_except['est']  = exceptions_next + ['adrien']
-always_except['ont']  = exceptions_next
+# Personal pronouns:
+always_except['on']    = exceptions_next
+always_except['nous']  = exceptions_next + ['à', 'on'] + ['il', 'ils', 'elle', 'elles']
+always_except['vous']  = exceptions_next + ['il', 'ils', 'elle', 'elles']
+always_except['ils']   = exceptions_next
+always_except['elles'] = exceptions_next
+# Articles:
+always_except['un']  = exceptions_next + ['à']
+always_except['les'] = exceptions_next + ['avec']
+always_except['des'] = exceptions_next + ['avec']
+# Determiners:
+always_except['ces']     = exceptions_next + ['avec']
+always_except['quels']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
+always_except['quelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
+# Indefinite adjectives:
+always_except["quelqu'un"] = exceptions_next + ['y', 'est', 'a']
+always_except['quelques']  = exceptions_next + ['il', 'ils', 'elle', 'elles']
+always_except['plusieurs'] = exceptions_next
+always_except['certains']  = exceptions_next
+always_except['certaines'] = exceptions_next
+always_except['autres']    = exceptions_next + ['à', 'au']
+always_except['aucun']     = exceptions_next
+# Monosyllabic adverbs:
+always_except['tout'] = exceptions_next + ['il', 'ils', 'elle', 'elles', 'on']
+always_except['plus'] = exceptions_next + ['après']
+always_except['très'] = exceptions_next
+# Prepositions:
+always_except['aux']  = exceptions_next
 always_except['en']   = exceptions_next + ['un', 'une']
 always_except['sans'] = exceptions_next
 always_except['sous'] = exceptions_next
-always_except['plus'] = exceptions_next + ['après']
-always_except['très']  = exceptions_next
-always_except['bien']  = exceptions_next + ['écoutez', 'écoute', 'il', 'elle', 'on', 'aussi']
+# Verbs:
+always_except['est'] = exceptions_next + ['adrien']
+always_except['ont'] = exceptions_next
 
 # Cases removed due to optional status:
+#always_except['bien']  = exceptions_next + ['écoutez', 'écoute', 'il', 'elle', 'on', 'aussi']
 #always_except['chez'] = exceptions_next # Decision: it is optional, so remove (17/oct/2018)
 #always_except['dans'] = exceptions_next # Moved to only-before (17/oct/2018)
 #always_except['trop']  = exceptions_next # Decision: it is optional, so remove (17/oct/2018)
@@ -219,12 +227,12 @@ for adjective in adjectives:
 # Values: List of following words that trigger liaison for each Key.
 
 only_before = {}
-# Modal verbs in clitic groups
+# Modal verbs in clitic groups:
 for verb in verbs_3rd:
 	only_before[verb] = ['il', 'elle', 'ils', 'elles', 'on']
 only_before['fait'] = ['il','elle','on']
 only_before['veut'] = ['il','elle','on']
-only_before['peut'] = ['il','elle','on','être']
+only_before['peut'] = ['il','elle','on']
 only_before['doit'] = ['il','elle','on']
 only_before['sait'] = ['il','elle','on']
 only_before['vaut'] = ['il','elle','on']
@@ -258,11 +266,12 @@ only_before['pourraient'] = ['ils','elles']
 only_before['devraient']  = ['ils','elles']
 only_before['sauraient']  = ['ils','elles']
 only_before['vaudraient'] = ['ils','elles']
-# Auxiliaries in clitic groups
+# Auxiliaries in clitic groups:
 only_before['était']  = ['il','elle','on', 'un', 'une']
 only_before['serait'] = ['il','elle','on']
 only_before['allait'] = ['il','elle','on']
 only_before['irait']  = ['il','elle','on']
+only_before['avait']  = ['il', 'elle', 'on']
 only_before['sont']     = ['ils','elles']
 only_before['étaient']  = ['ils','elles']
 only_before['seraient'] = ['ils','elles']
@@ -274,37 +283,38 @@ only_before['allons'] = 'y'
 only_before['prends'] = 'en'
 only_before['prenez'] = 'en'
 only_before['prenons'] = 'en'
-# Others
+# Other cases:
 only_before['comment'] = 'allez'
 only_before['quand']   = ['il', 'elle','on', 'ils','elles']
 only_before['quant']   = ['à', 'aux']
-only_before['avait']   = ['il', 'elle', 'on'] #['un', 'une']
 only_before['dans']    = ['un', 'une']
+only_before['peut']    = only_before['peut'] + ['être']
+
 #only_before['aller']   = ['à', 'au'] # Not mandatory 
 
-## Denasalization cases:
-denasalization = {}
-denasalization['bon'] = 'bOn'
-denasalization['certain'] = 'sER-tEn'
-denasalization['moyen'] = 'mwa-jEn'
-denasalization['humain'] = 'y-mEn'
-denasalization['prochain'] = 'pRo-SEN'
-denasalization['sain'] = 'sEn'
-denasalization['lointain'] = 'lw5-tEn'
-denasalization['plein'] = 'plEn'
-denasalization['ancien'] = '@-sjEn'
-denasalization['vain'] = 'vEn'
-denasalization['vilain'] = 'vi-lEn'
-denasalization['divin'] = 'di-vin'
-denasalization['fin'] = 'fin'
-
-## Special cases:
-# Numbers 6, 9, 10:
+# (4) Numbers 6, 9, 10:
 vowel_ini_months = ['avril', 'août', 'octobre']
 special_numbers = {}
 special_numbers['six'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y'] + vowel_ini_months
 special_numbers['dix'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y', 'après', 'onze'] + vowel_ini_months
 special_numbers['n9f'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'adrien', 'avec', 'y'] + vowel_ini_months
+
+
+## Denasalization cases:
+denasalization = {}
+denasalization['bon']     = 'bOn'
+denasalization['certain'] = 'sER-tEn'
+denasalization['moyen']   = 'mwa-jEn'
+denasalization['humain']  = 'y-mEn'
+denasalization['prochain'] = 'pRo-SEN'
+denasalization['sain']     = 'sEn'
+denasalization['lointain'] = 'lw5-tEn'
+denasalization['plein']    = 'plEn'
+denasalization['ancien']   = '@-sjEn'
+denasalization['vain']   = 'vEn'
+denasalization['vilain'] = 'vi-lEn'
+denasalization['divin']  = 'di-vin'
+denasalization['fin']    = 'fin'
 
 # Enchainement exceptions:
 enchainement_exceptions = ['9m','5', 'Op']
