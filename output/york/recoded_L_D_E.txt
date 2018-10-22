@@ -388,7 +388,7 @@ liea005.cha 2 10 21 R°-gaRd !
 liea005.cha 2 10 21 l2 vwa-si d@ la mE-z§ @ bwa .
 liea005.cha 2 10 21 o s°-kuR !
 liea005.cha 2 10 21 l2 lu v2 m2 kRo-ke .
-liea005.cha 2 10 21 sni fe # s2 kRwa bj5 na la-bRi d@ la mE-z§ d2 bwa .
+liea005.cha 2 10 21 sni fe # s2 kRwa bj5 a la-bRi d@ la mE-z§ d2 bwa .
 liea005.cha 2 10 21 u-vRe !
 liea005.cha 2 10 21 yRl l2 lu .
 liea005.cha 2 10 21 syR-m@ pa , Re-p§d le d2 fRER .
@@ -447,7 +447,7 @@ liea006.cha 2 11 04 si il t2 plE .
 liea006.cha 2 11 04 Z2 vE t2 mEt paR tER ?
 liea006.cha 2 11 04 o-ke , se tRE bj5 .
 liea006.cha 2 11 04 mE ma-mi di-Ra n§ .
-liea006.cha 2 11 04 ZE bj5 n@-t@-dy , il fE bj5 tRo fRwa .
+liea006.cha 2 11 04 ZE bj5 @-t@-dy , il fE bj5 tRo fRwa .
 liea006.cha 2 11 04 e-ku t1 p2 , le-a !
 liea006.cha 2 11 04 § ne t@-Ry-me , wi ?
 liea006.cha 2 11 04 § na 1 Rym .
@@ -2069,7 +2069,7 @@ liea009.cha 3 0 24 e p8i kEs k2 ty va fE Ra-vEk le dRa ?
 liea009.cha 3 0 24 ty va le mE tRu ?
 liea009.cha 3 0 24 a n§ il n2 fo pa S@-Ze le dRa d2 # m5t-n@ , il dOR .
 liea009.cha 3 0 24 i le fa-ti-ge , il fo l2 le-se s2 R°-po-ze .
-liea009.cha 3 0 24 bj5 n@-t@-dy .
+liea009.cha 3 0 24 bj5 @-t@-dy .
 liea009.cha 3 0 24 il dOR d@ s§ li .
 liea009.cha 3 0 24 d@ sa S@bR .
 liea009.cha 3 0 24 wi .
@@ -2079,7 +2079,7 @@ liea009.cha 3 0 24 e la ma-dam , se ma-m@ .
 liea009.cha 3 0 24 fE a-t@-sj§ a me pje !
 liea009.cha 3 0 24 ty vu-dRE bj5 , 5 , sa , 5 ?
 liea009.cha 3 0 24 ma-m@ le-a , kEs kE lo-RE b§ , di d§k .
-liea009.cha 3 0 24 ty vu-dRE bj5 nEt gR@d , 5 , le-a ?
+liea009.cha 3 0 24 ty vu-dRE bj5 Et gR@d , 5 , le-a ?
 liea009.cha 3 0 24 ty E de-Za gR@d ?
 liea009.cha 3 0 24 ty E gR@d ko-m@ ?
 liea009.cha 3 0 24 paRs k2 ty a 1 gR@ ve-lo ?
@@ -2212,7 +2212,7 @@ liea010.cha 3 1 07 a-le !
 liea010.cha 3 1 07 ty t2 pus tut s9l , a-lOR ?
 liea010.cha 3 1 07 wi bRa-vo .
 liea010.cha 3 1 07 ty ta-REt , m5t-n@ ?
-liea010.cha 3 1 07 a ty nE pa bj5 na-siz .
+liea010.cha 3 1 07 a ty nE pa bj5 a-siz .
 liea010.cha 3 1 07 Z2 t2 fE a-le o ?
 liea010.cha 3 1 07 tRE o ?
 liea010.cha 3 1 07 a-le !
@@ -2436,7 +2436,7 @@ liea010.cha 3 1 07 p°-ti m§stR .
 liea010.cha 3 1 07 di , se tyn p°-tit Si-pi , ta fij .
 liea010.cha 3 1 07 Z2 n2 sa-vE pa , mwa .
 liea010.cha 3 1 07 Z2 n2 sa-vE pa mE ty E yn Si-pi , twa .
-liea010.cha 3 1 07 se bj5 na-my-z@ , 5 # da-vwa R1 ma-S5 ki , ki as-pERZ kOm sa .
+liea010.cha 3 1 07 se bj5 a-my-z@ , 5 # da-vwa R1 ma-S5 ki , ki as-pERZ kOm sa .
 liea010.cha 3 1 07 # fo-dRE @ pRe-vwaR d2 u tRwa k@ se le-te .
 liea010.cha 3 1 07 5 ?
 liea010.cha 3 1 07 5 ?
@@ -3305,7 +3305,7 @@ liea012.cha 3 3 08 ty m@-vwa 1 bi-zu ?
 liea012.cha 3 3 08 ty m@-vwa 1 bi-zu ?
 liea012.cha 3 3 08 ZE di , ZE di .
 liea012.cha 3 3 08 Es k2 ty p2 diR sa , ZE di ?
-liea012.cha 3 3 08 ty E bj5 no-to-Ri-tER .
+liea012.cha 3 3 08 ty E bj5 o-to-Ri-tER .
 liea012.cha 3 3 08 wi .
 liea012.cha 3 3 08 il m2 s@bl , 5 .
 liea012.cha 3 3 08 pu R1 p°-ti ma-S5 d2 tRwa z@ .
@@ -3589,7 +3589,7 @@ liea014.cha 3 4 08 tE yn gR@d fij .
 liea014.cha 3 4 08 Ra-k§ t1 p2 a pa-R5 s2 ki se pa-se t@-to !
 liea014.cha 3 4 08 k@ t§ R°v-nE d2 le-kOl .
 liea014.cha 3 4 08 Re-pE t1 p2 !
-liea014.cha 3 4 08 Z2 # # E pa bj5 n@-t@-dy .
+liea014.cha 3 4 08 Z2 # # E pa bj5 @-t@-dy .
 liea014.cha 3 4 08 ty E t§-be paRs k2 ?
 liea014.cha 3 4 08 wi .
 liea014.cha 3 4 08 § p2 vwa Ru i le , l2 bo-bo ?
@@ -4303,7 +4303,7 @@ liea024.cha 3 9 09 b5 syR kil fo le-s8i-je .
 liea024.cha 3 9 09 sa n2 fE pa l§b d1 dut .
 liea024.cha 3 9 09 o wi .
 liea024.cha 3 9 09 bj5 syR k2 Z2 l2 sE .
-liea024.cha 3 9 09 ty m2 la-vE bj5 nEk-spli-ke .
+liea024.cha 3 9 09 ty m2 la-vE bj5 Ek-spli-ke .
 liea024.cha 3 9 09 ZE bj5 k§-pRi .
 liea024.cha 3 9 09 n§ , 5 , twa .
 liea024.cha 3 9 09 o si l9R ma-m@ @ pR@ sw5 .
@@ -4767,8 +4767,8 @@ liea027.cha 3 10 23 § va vwaR s2 k§ va vwaR .
 liea027.cha 3 10 23 wi mE di d§k !
 liea027.cha 3 10 23 il n2 fo pa bo-ku do , sE ty .
 liea027.cha 3 10 23 stOp !
-liea027.cha 3 10 23 ty @ na bj5 na-se , sE ty .
-liea027.cha 3 10 23 i li @ na bj5 na-se .
+liea027.cha 3 10 23 ty @ na bj5 a-se , sE ty .
+liea027.cha 3 10 23 i li @ na bj5 a-se .
 liea027.cha 3 10 23 dOn !
 liea027.cha 3 10 23 Z2 vE la t°-niR , la ka-sROl .
 liea027.cha 3 10 23 ty de-s@ ?
@@ -4833,7 +4833,7 @@ liea027.cha 3 10 23 ty n2 va pa mEt sa d@ lo a-vEk te , te zOb-ZE la ?
 liea027.cha 3 10 23 puR fER s@-bl@ .
 liea027.cha 3 10 23 a wi da-kOR .
 liea027.cha 3 10 23 si ty sOR tu sa d2 lo il fo le mEt syR l2 syR le zE-s8i , 5 .
-liea027.cha 3 10 23 a wi bj5 n@-t@-dy .
+liea027.cha 3 10 23 a wi bj5 @-t@-dy .
 liea027.cha 3 10 23 il fo mEt tu le z5-gRe-dj@ .
 liea027.cha 3 10 23 twa , ty va e-tER-n8e , 5 .
 liea027.cha 3 10 23 ty va vwaR .
@@ -5419,7 +5419,7 @@ liea029.cha 3 11 20 le-a !
 liea029.cha 3 11 20 a-le , vj5 !
 liea029.cha 3 11 20 ty fE si No R°-vwaR ?
 liea029.cha 3 11 20 mE di o R°-vwaR , da-bOR , 5 !
-liea029.cha 3 11 20 e bj5 na la ka-me-Ra , 5 .
+liea029.cha 3 11 20 e bj5 a la ka-me-Ra , 5 .
 liea030.cha 4 0 08 kEs k2 ty a fE d2 b§ , le-a , s2 ma-t5 ?
 liea030.cha 4 0 08 di , @-lE v1 p2 ta m5 d2 ta buS k@ ty paRl !
 liea030.cha 4 0 08 ty E a-le a le-kOl .
@@ -5509,7 +5509,7 @@ liea030.cha 4 0 08 # .
 liea030.cha 4 0 08 wi .
 liea030.cha 4 0 08 b5 n§ , paRs ki li @ na paR-tu a-lOR .
 liea030.cha 4 0 08 wi , tu le n8aZ s2 kaS l1 lotR , di d§k .
-liea030.cha 4 0 08 § ne bj5 na-R@-Ze .
+liea030.cha 4 0 08 § ne bj5 a-R@-Ze .
 liea030.cha 4 0 08 o la la .
 liea030.cha 4 0 08 se vRE k2 sa R°-s@ blo Si fR1 .
 liea030.cha 4 0 08 s# # e pa sa k2 sa v2 diR .
@@ -5718,7 +5718,7 @@ liea030.cha 4 0 08 a le-kO l§ n2 t2 fE pa fE R1 tRa-vaj puR la fEt de pa-pa ?
 liea030.cha 4 0 08 pa @-kOR ?
 liea030.cha 4 0 08 paRs k2 s2 sRa bj5-to , 5 .
 liea030.cha 4 0 08 il n2 fo pa lu-bli-je , 5 , la fEt de pa-pa .
-liea030.cha 4 0 08 ty Zu bj5 no ba-l§ .
+liea030.cha 4 0 08 ty Zu bj5 o ba-l§ .
 liea030.cha 4 0 08 ty va la-ve ta k8i-zin ?
 liea030.cha 4 0 08 ty va kwa ?
 liea030.cha 4 0 08 a-le u ?
@@ -6819,7 +6819,7 @@ liea036.cha 4 3 21 kEs ki li a syR la f9j ?
 liea036.cha 4 3 21 ty E tu-ZuR Se ma-dam # a-lOR ?
 liea036.cha 4 3 21 se tu-ZuR la mE m5s-ti-ty-tRis ?
 liea036.cha 4 3 21 mE puR-kwa ?
-liea036.cha 4 3 21 mE ty E bj5 na-vEk ma-dam # .
+liea036.cha 4 3 21 mE ty E bj5 a-vEk ma-dam # .
 liea036.cha 4 3 21 E le Z@-tij , 5 , ma-dam # .
 liea036.cha 4 3 21 E le vRE-m@ tRE Z@-tij , sE ty .
 liea036.cha 4 3 21 si , 5 .
@@ -6892,7 +6892,7 @@ liea036.cha 4 3 21 se pa gRav .
 liea036.cha 4 3 21 se pa gRav , 5 , le-a .
 liea036.cha 4 3 21 5 wi ?
 liea036.cha 4 3 21 mE n§ pa ku-pe .
-liea036.cha 4 3 21 n§ n§ , Z2 di se bj5 na-vEk le ly-nEt .
+liea036.cha 4 3 21 n§ n§ , Z2 di se bj5 a-vEk le ly-nEt .
 liea036.cha 4 3 21 mE le ly-nEt !
 liea036.cha 4 3 21 k2 va ty fER ?
 liea036.cha 4 3 21 kEs k2 ty v2 fE Ra-vEk ?
@@ -7115,7 +7115,7 @@ liea036.cha 4 3 21 sa-pRis-ti , di d§k , § va pu-vwaR fE R1 gRo ga-to .
 liea036.cha 4 3 21 § va pu-vwaR fE R1 gR@ ga-to a la m@-da-Ri na-lOR ?
 liea036.cha 4 3 21 ki Es ki Em bj5 le ga-to a la m@-da-Rin ?
 liea036.cha 4 3 21 twa ?
-liea036.cha 4 3 21 e bj5 nil z§ d2 la S@s .
+liea036.cha 4 3 21 e bj5 il z§ d2 la S@s .
 liea036.cha 4 3 21 il z§ bj5 RE-z§ de-me le fR8i .
 liea036.cha 4 3 21 e ty l9 R@ dOn su-v@ , de ga-to o fR8i ?
 liea036.cha 4 3 21 tu le ZuR ?
@@ -13360,7 +13360,7 @@ mona013.cha 2 3 06 i lEm sa , l8i , d2 la lEn .
 mona013.cha 2 3 06 i lEm sa , le ba .
 mona013.cha 2 3 06 o ty v2 ti-Re la k2 ?
 mona013.cha 2 3 06 a wi wi .
-mona013.cha 2 3 06 sa , sa va bj5 na-le a-vEk l2 # .
+mona013.cha 2 3 06 sa , sa va bj5 a-le a-vEk l2 # .
 mona013.cha 2 3 06 s# # e pa vRE-m@ puR tu d2 s8it .
 mona013.cha 2 3 06 a .
 mona013.cha 2 3 06 puR t@-to .
@@ -21812,7 +21812,7 @@ mona027.cha 2 9 27 R°-gaR da ko-te !
 mona027.cha 2 9 27 u § fE y not ga-lEt ?
 mona027.cha 2 9 27 m§t mwa d§k si ki li @ na REs-te la d°-d@ !
 mona027.cha 2 9 27 a wE 5 .
-mona027.cha 2 9 27 ty E bj5 n5s-ta-le , maks ?
+mona027.cha 2 9 27 ty E bj5 5s-ta-le , maks ?
 mona027.cha 2 9 27 tE syR t§ kOfR ?
 mona027.cha 2 9 27 1 p°-ti b@ .
 mona027.cha 2 9 27 o-ke .
@@ -25814,7 +25814,7 @@ mona035.cha 3 1 25 b5 § va l2 tRu-ve .
 mona035.cha 3 1 25 § SERS ty @-kOR ?
 mona035.cha 3 1 25 a se sa k2 ty v2 .
 mona035.cha 3 1 25 m§t mwa ko-m@ sa maRS , sa !
-mona035.cha 3 1 25 # va bj5 ne-ku-te @ ply , l8i .
+mona035.cha 3 1 25 # va bj5 e-ku-te @ ply , l8i .
 mona035.cha 3 1 25 u .
 mona035.cha 3 1 25 sa sa-ta Su , sa ?
 mona035.cha 3 1 25 mE p2-tEt k2 sa va a-pRE 1 not ka-mj§ .
@@ -25835,7 +25835,7 @@ mona035.cha 3 1 25 up .
 mona035.cha 3 1 25 a @-kOR .
 mona035.cha 3 1 25 ty v2 ty k2 Z2 l2 pus ?
 mona035.cha 3 1 25 kOm sa .
-mona035.cha 3 1 25 ty la bj5 ny , 5 , t@-to .
+mona035.cha 3 1 25 ty la bj5 y , 5 , t@-to .
 mona035.cha 3 1 25 a-t@ !
 mona035.cha 3 1 25 a .
 mona035.cha 3 1 25 Es k2 Z2 p2 e-se-je , mwa ?
@@ -26485,7 +26485,7 @@ mona037.cha 3 2 23 b5 wi b5 si ty l8i d°-m@d , ka-t2-Rin , Z2 s8i sER-tEn kEl v
 mona037.cha 3 2 23 paRs k2 mwa , s# # e pa m§ bo-nOm .
 mona037.cha 3 2 23 se t§ bo-nOm .
 mona037.cha 3 2 23 si ty l8i d°-m@ da ka-t2-Rin .
-mona037.cha 3 2 23 ka-t2-Rin , ZEm-RE bj5 na-vwaR m§ bo-nOm .
+mona037.cha 3 2 23 ka-t2-Rin , ZEm-RE bj5 a-vwaR m§ bo-nOm .
 mona037.cha 3 2 23 El va t2 l2 do-ne .
 mona037.cha 3 2 23 se ty sa k2 ty vu-lE , t§ bo-nOm ?
 mona037.cha 3 2 23 Z2 vE SER-Se 1 p°-ti mu-SwaR puR twa .
@@ -28018,7 +28018,7 @@ para003.cha 1 11 13 u 1 , 1 kRo-ko zEbR ?
 para003.cha 1 11 13 u 1 kRo-ko go-Rij .
 para003.cha 1 11 13 1 kRo-ko go-Rij .
 para003.cha 1 11 13 R°-gaRd !
-para003.cha 1 11 13 se bj5 n1 kRo-ko go-Rij .
+para003.cha 1 11 13 se bj5 1 kRo-ko go-Rij .
 para003.cha 1 11 13 R°-gaRd l2 zEb ki va a-Ri-ve !
 para003.cha 1 11 13 o El s§ Zo-li , te So-syR .
 para003.cha 1 11 13 se ta twa , wi .
@@ -30896,7 +30896,7 @@ para010.cha 2 2 30 o o El s§ 1 p2 fRa-Zil , le ly-nEt .
 para010.cha 2 2 30 § p2 le mE tRa la dam ?
 para010.cha 2 2 30 ty v2 mEt la ?
 para010.cha 2 2 30 s# # e pa bj5 .
-para010.cha 2 2 30 # # pa tRE tRE bj5 no mi-lj2 d2 la fi-gyR , ty vwa .
+para010.cha 2 2 30 # # pa tRE tRE bj5 o mi-lj2 d2 la fi-gyR , ty vwa .
 para010.cha 2 2 30 a-lOR .
 para010.cha 2 2 30 dotR z@-kOR ?
 para010.cha 2 2 30 lot kwa ?
@@ -32490,7 +32490,7 @@ para014.cha 2 5 04 e si § la mE-tE a tabl # i-si # a-vEk la di-nEt ?
 para014.cha 2 5 04 tj5 , R°-gaRd !
 para014.cha 2 5 04 El va sa-swaR .
 para014.cha 2 5 04 El va sa-ta-ble .
-para014.cha 2 5 04 se Zyst bj5 na sa taj @ ply .
+para014.cha 2 5 04 se Zyst bj5 a sa taj @ ply .
 para014.cha 2 5 04 Zyst s2 kil l8i fo , # .
 para014.cha 2 5 04 El # # a pa @-vi ?
 para014.cha 2 5 04 ty n2 v2 pa la fER m@-Ze ?
@@ -32655,7 +32655,7 @@ para014.cha 2 5 04 te-tE m§-te o-si d@ zyn vwa-tyR .
 para014.cha 2 5 04 ty t2 Ra-pEl ?
 para014.cha 2 5 04 ty t2 Ra-pEl .
 para014.cha 2 5 04 se-tE bj5 .
-para014.cha 2 5 04 ta bj5 ne-me , l2 ma-nEZ .
+para014.cha 2 5 04 ta bj5 e-me , l2 ma-nEZ .
 para014.cha 2 5 04 a-vEk # .
 para014.cha 2 5 04 o-si i li a-vE yn fwa a-vEk ma-m@ e yn fwa a-vEk # kRis-tin .
 para014.cha 2 5 04 ply-zj9R fwa a-vEk # kRis-tin .
@@ -33269,7 +33269,7 @@ para015.cha 2 5 18 a-lOR l2 ka-fe d@ la ka-f°-tjER .
 para015.cha 2 5 18 vwa-la .
 para015.cha 2 5 18 la pwa-Ne .
 para015.cha 2 5 18 # la pwa-Ne .
-para015.cha 2 5 18 i i a-vE bj5 n1 tRyk ki m@-kE .
+para015.cha 2 5 18 i i a-vE bj5 1 tRyk ki m@-kE .
 para015.cha 2 5 18 # fE de tas ?
 para015.cha 2 5 18 de ta sa-vEk l2 ka-fe d°-d@ .
 para015.cha 2 5 18 b5 mwa , Z2 fE le ta sa ka-fe .
@@ -33468,7 +33468,7 @@ para016.cha 2 6 02 o wi , s2 k2 ta R°-sy .
 para016.cha 2 6 02 la syR-pRiz ki li a-vE d@ la bwa to lEtR .
 para016.cha 2 6 02 ty v2 vwaR ?
 para016.cha 2 6 02 b5 mwa o-si , Z2 v2 bj5 vwaR .
-para016.cha 2 6 02 a ty ta-myz bj5 na-vEk .
+para016.cha 2 6 02 a ty ta-myz bj5 a-vEk .
 para016.cha 2 6 02 ty la ka-Se d@ le Z@b , lot m5 .
 para016.cha 2 6 02 la ta ka-Se ta m5 ?
 para016.cha 2 6 02 d2 kwa ?
@@ -33924,7 +33924,7 @@ para017.cha 2 6 18 o il # # i a pa d2 su-lje .
 para017.cha 2 6 18 a mE il s§ a l@-dRwa sEt fwa si .
 para017.cha 2 6 18 sy-pER , le su-lje .
 para017.cha 2 6 18 e wi .
-para017.cha 2 6 18 a il s§ bj5 na-kRo-Se , le pyl # .
+para017.cha 2 6 18 a il s§ bj5 a-kRo-Se , le pyl # .
 para017.cha 2 6 18 a tRE bj5 , # .
 para017.cha 2 6 18 ty le za bj5 mi la .
 para017.cha 2 6 18 u ty la R@Z , la ky-lOt ?
@@ -34816,7 +34816,7 @@ para018.cha 2 7 01 a-le , pR@ buk dO Re § l8i fE 1 p°-ti tuR !
 para018.cha 2 7 01 1 tuR d2 zo-o .
 para018.cha 2 7 01 ty l8i d°-m@d si sa l8i plE da-le o zo-o , a buk dOR ?
 para018.cha 2 7 01 buk dOR , Es k2 ty v2 a-le o zo-o a-vEk # ?
-para018.cha 2 7 01 wi wi , Z2 v2 bj5 na-le o zo-o a-vEk # , kEl m2 pRe-z@t tu se p°-ti ko-p5 .
+para018.cha 2 7 01 wi wi , Z2 v2 bj5 a-le o zo-o a-vEk # , kEl m2 pRe-z@t tu se p°-ti ko-p5 .
 para018.cha 2 7 01 da-kOR , b§ , e b5 § va i a-le .
 para018.cha 2 7 01 a il fo k§ R°-fas l@-tRe dy zo-o .
 para018.cha 2 7 01 ty la pR@ ?
@@ -35418,7 +35418,7 @@ para019.cha 2 7 16 a-vE kwi , § la vy sE ta-ne a-vEk ma-m@ .
 para019.cha 2 7 16 d@ la kuR .
 para019.cha 2 7 16 a pa-Ri ?
 para019.cha 2 7 16 ma pa-Ri .
-para019.cha 2 7 16 wi , se-tE a-v@ no-El , bj5 na-v@ no-El , 5 .
+para019.cha 2 7 16 wi , se-tE a-v@ no-El , bj5 a-v@ no-El , 5 .
 para019.cha 2 7 16 wE , no-v@bR .
 para019.cha 2 7 16 o @-kOR de ka-do .
 para019.cha 2 7 16 se de ka-do k2 ty a R°-sy a no-El ?
@@ -35553,7 +35553,7 @@ para020.cha 2 8 03 e Za-mE d@ la mE-z§ ?
 para020.cha 2 8 03 Za-mE d@ la mE-z§ ?
 para020.cha 2 8 03 mwa , la pul ki sE tu , Z2 sE k2 ty kuR de fwa d@ la mE-z§ .
 para020.cha 2 8 03 pu Ra-le SER-Se t§ ja-uRt .
-para020.cha 2 8 03 kEs k2 ty fE d2 bj5 n@-kOR ?
+para020.cha 2 8 03 kEs k2 ty fE d2 bj5 @-kOR ?
 para020.cha 2 8 03 ty v2 m§-tRe sa a la pul ?
 para020.cha 2 8 03 a a mwa , a # .
 para020.cha 2 8 03 a-lOR kEs k2 ty a ?
@@ -37340,7 +37340,7 @@ para023.cha 2 10 18 1 kRwa-s@ .
 para023.cha 2 10 18 o mER-si .
 para023.cha 2 10 18 dy Zy d2 RE-z5 ?
 para023.cha 2 10 18 da-kOR .
-para023.cha 2 10 18 sa , Z2 v2 bj5 n@ bwaR tu d2 s8it .
+para023.cha 2 10 18 sa , Z2 v2 bj5 @ bwaR tu d2 s8it .
 para023.cha 2 10 18 1 ja-uRt .
 para023.cha 2 10 18 yn k8i-jER ?
 para023.cha 2 10 18 b5 E le d°-d@ , 5 .
@@ -38148,7 +38148,7 @@ para024.cha 2 11 02 ty dwa a-vwaR de gaR-gu-ji d@ l2 v@tR .
 para024.cha 2 11 02 de gaR-gu-ji .
 para024.cha 2 11 02 puR-kwa El n2 vu-dRE pa ?
 para024.cha 2 11 02 ty v2 k§ la-pEl , ta mER ?
-para024.cha 2 11 02 o tE bj5 nEk-si-te .
+para024.cha 2 11 02 o tE bj5 Ek-si-te .
 para024.cha 2 11 02 o la dus-m@ !
 para024.cha 2 11 02 ty t2 R@ k§t .
 para024.cha 2 11 02 a b5 wi , mE sa , puR Ri-go-le .
@@ -38921,7 +38921,7 @@ para026.cha 3 0 10 il z§ de kaR-tabl , de ka-je , de sak , de kRE-j§ .
 para026.cha 3 0 10 wE , de sak # puR mEt le za-fER pu Ra-le a le-kOl .
 para026.cha 3 0 10 e vwa-la .
 para026.cha 3 0 10 le-kOl .
-para026.cha 3 0 10 § n@ n@-t@ paR-le bj5 na-v@ di a-le .
+para026.cha 3 0 10 § n@ n@-t@ paR-le bj5 a-v@ di a-le .
 para026.cha 3 0 10 ty a vy mEm k@ se t1 tu p°-ti be-be .
 para026.cha 3 0 10 la ma-m@ ki l8i di .
 para026.cha 3 0 10 o k@ Es k2 ty va a-le a le-kOl , m§ p°-ti be-be ?
@@ -39003,7 +39003,7 @@ para026.cha 3 0 10 e § p2 mE mam-ne sa pu-pe ?
 para026.cha 3 0 10 wi .
 para026.cha 3 0 10 a-lOR mwa , Z2 pu-RE v°-ni Ra-vEk twa a le-kOl ?
 para026.cha 3 0 10 wE , ZE at .
-para026.cha 3 0 10 ZEm-RE bj5 na-le a le-kO la-vEk # .
+para026.cha 3 0 10 ZEm-RE bj5 a-le a le-kO la-vEk # .
 para026.cha 3 0 10 da-kOR .
 para026.cha 3 0 10 ty a-mEn-Ra mi-mi a-lOR .
 para026.cha 3 0 10 # fo-dRa kE la-pREn pl5 d2 Soz .
@@ -39314,7 +39314,7 @@ para026.cha 3 0 10 e pi ty vwa , § p2 am-ne .
 para026.cha 3 0 10 R°-gaRd !
 para026.cha 3 0 10 o wi , # !
 para026.cha 3 0 10 i li a 1 p°-ti nu-nuRs ki va a le-kOl .
-para026.cha 3 0 10 § p2 bj5 nam-ne yn p°-tit su-Ri , k@ mEm .
+para026.cha 3 0 10 § p2 bj5 am-ne yn p°-tit su-Ri , k@ mEm .
 para026.cha 3 0 10 wi .
 para026.cha 3 0 10 wi .
 para026.cha 3 0 10 mi-mi , a le-kOl !
@@ -39431,7 +39431,7 @@ para026.cha 3 0 10 i la p2R k2 sa ma-m@ n2 vjEn pa l2 SER-Se .
 para026.cha 3 0 10 i la p2R d2 REs-te tu s9 la le-kOl .
 para026.cha 3 0 10 wi , il va a-Re-te d2 pl2-Re .
 para026.cha 3 0 10 paRs kil va s2 R@d k§t k2 se bj5 .
-para026.cha 3 0 10 k§ Ri-gOl bj5 na le-kOl .
+para026.cha 3 0 10 k§ Ri-gOl bj5 a le-kOl .
 para026.cha 3 0 10 wE , i la a-Re-te d2 pl2-Re .
 para026.cha 3 0 10 b5 i la vy l2 la-p5 d2 la mE-tREs .
 para026.cha 3 0 10 se # l2 la-p5 .
@@ -39933,7 +39933,7 @@ para028.cha 3 1 15 ko-m@ il fE ?
 para028.cha 3 1 15 kOm sa ?
 para028.cha 3 1 15 ty me-tR@gl !
 para028.cha 3 1 15 ty me-tR@gl !
-para028.cha 3 1 15 a wi , b5 di d§k , ty ma bj5 ne-tR@-gle la .
+para028.cha 3 1 15 a wi , b5 di d§k , ty ma bj5 e-tR@-gle la .
 para028.cha 3 1 15 a-t@ !
 para028.cha 3 1 15 § va l2 R°-m§-te paRs k2 si-n§ l2 S°-val , il # .
 para028.cha 3 1 15 vwa-la .
@@ -42112,7 +42112,7 @@ para033.cha 3 4 09 a-t@ , a-t@ !
 para033.cha 3 4 09 il fo sER-viR d2 lo .
 para033.cha 3 4 09 d2 lo u dy Zy d2 pOm p2 tEt puR s2 ki v9l .
 para033.cha 3 4 09 o wi .
-para033.cha 3 4 09 mwa , Z2 v2 bj5 n1 p°-ti Zy d2 pOm .
+para033.cha 3 4 09 mwa , Z2 v2 bj5 1 p°-ti Zy d2 pOm .
 para033.cha 3 4 09 wE .
 para033.cha 3 4 09 a-vEk ple-ziR .
 para033.cha 3 4 09 kEs k2 ty # ?
@@ -42131,7 +42131,7 @@ para033.cha 3 4 09 mE sa p2 tEt s§ bOl .
 para033.cha 3 4 09 R°-gaRd !
 para033.cha 3 4 09 i li a kat bOl .
 para033.cha 3 4 09 puR-kwa ?
-para033.cha 3 4 09 sa p2 tRE bj5 nEt s§ bOl .
+para033.cha 3 4 09 sa p2 tRE bj5 Et s§ bOl .
 para033.cha 3 4 09 a b§ .
 para033.cha 3 4 09 il n2 fo pa sa-p8i-je syR la tabl , # !
 para033.cha 3 4 09 o o o .
@@ -42572,7 +42572,7 @@ para034.cha 3 4 23 e # , i le kw5-se .
 para034.cha 3 4 23 i le tu-ZuR la .
 para034.cha 3 4 23 a-lOR le p§-pje a-Riv .
 para034.cha 3 4 23 il za-pORt de z5s-tRy-m@ puR bRi-ze l2 tRo-twaR .
-para034.cha 3 4 23 si il vu plE , di la fER-mjER , fEt bj5 na-t@-sj§ !
+para034.cha 3 4 23 si il vu plE , di la fER-mjER , fEt bj5 a-t@-sj§ !
 para034.cha 3 4 23 s2 ko-S§ e l2 mE-j9R dy m§d .
 para034.cha 3 4 23 se nOt ko-S§ a-do-Re .
 para034.cha 3 4 23 il va Et bj5-to li-be-Re paR le p§-pje .

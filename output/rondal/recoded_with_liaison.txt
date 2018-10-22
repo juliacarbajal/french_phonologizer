@@ -1311,7 +1311,7 @@ rondal02a.cha 2 3 03 mE i a pa d kle 5 puR s2 # .
 rondal02a.cha 2 3 03 ma-m@ n a pa d kle .
 rondal02a.cha 2 3 03 o wi .
 rondal02a.cha 2 3 03 ty vu-dRE @-tRe d d@ 5 .
-rondal02a.cha 2 3 03 5 k ty vu-dRE bj5n @-tRe d d@ ?
+rondal02a.cha 2 3 03 5 k ty vu-dRE bj5 @-tRe d d@ ?
 rondal02a.cha 2 3 03 mE t E tRo gR@ puR a-le d@ sEt # .
 rondal02a.cha 2 3 03 l o-to e tRo p°-tit .
 rondal02a.cha 2 3 03 Em .
@@ -1967,7 +1967,7 @@ rondal02c.cha 2 3 12 k Es k il i a ?
 rondal02c.cha 2 3 12 la ma-dam El mE kwa ?
 rondal02c.cha 2 3 12 Em .
 rondal02c.cha 2 3 12 wi .
-rondal02c.cha 2 3 12 t o-RE bj5n Em a-le d@ l ka-mj§ # .
+rondal02c.cha 2 3 12 t o-RE bj5 Em a-le d@ l ka-mj§ # .
 rondal02c.cha 2 3 12 e l ka-mj§ e tRo p°-ti .
 rondal02c.cha 2 3 12 povR ste-f@ .
 rondal02c.cha 2 3 12 wi i s2 mE d@ la bEn .
@@ -4631,7 +4631,7 @@ rondal05d.cha 2 6 11 § t @R-ZistR .
 rondal05d.cha 2 6 11 ty n a pa b°-zw5 d2 ta ti-ti 5 .
 rondal05d.cha 2 6 11 s' e pa bo 5 .
 rondal05d.cha 2 6 11 vj5 i-si .
-rondal05d.cha 2 6 11 o b5 v2 ty bj5n a-le R°-mEtR sa .
+rondal05d.cha 2 6 11 o b5 v2 ty bj5 a-le R°-mEtR sa .
 rondal05d.cha 2 6 11 k Es k2 ty fE d@ la k8i-zin ?
 rondal05d.cha 2 6 11 vj5 vit i-si .
 rondal05d.cha 2 6 11 n§ ?
@@ -4693,7 +4693,7 @@ rondal05d.cha 2 6 11 u l2 mEtR ?
 rondal05d.cha 2 6 11 a tER ?
 rondal05d.cha 2 6 11 a n§ .
 rondal05d.cha 2 6 11 s' e tRo ba .
-rondal05d.cha 2 6 11 la § n e pa bj5n a tER .
+rondal05d.cha 2 6 11 la § n e pa bj5 a tER .
 rondal05d.cha 2 6 11 syR l2 di-v@ .
 rondal05d.cha 2 6 11 vwa-la .
 rondal05d.cha 2 6 11 # gaR-de l o-to d fa-fa ?
@@ -6440,7 +6440,7 @@ rondal06f.cha 2 7 30 mE n2 pl9R pa 5 Se-Ri .
 rondal06f.cha 2 7 30 ty n sE pa pi-ke ?
 rondal06f.cha 2 7 30 s' e pa yn RE-z§ puR pl2-Re 5 ni puR t # .
 rondal06f.cha 2 7 30 d°-m@d a ma-m@ e p8i s' e tut i i a pa d RE-z§ puR pl2-Re .
-rondal06f.cha 2 7 30 # i a tu-ZuR bj5n 1 mwa-j5 5 .
+rondal06f.cha 2 7 30 # i a tu-ZuR bj5 1 mwa-j5 5 .
 rondal06f.cha 2 7 30 @-kOR dy lE ?
 rondal06f.cha 2 7 30 fa-fa kwa ?
 rondal06f.cha 2 7 30 # .
@@ -7192,7 +7192,7 @@ rondal07b.cha 2 8 04 # .
 rondal07b.cha 2 8 04 kwa ?
 rondal07b.cha 2 8 04 n§ lEs l2 syR l2 # .
 rondal07b.cha 2 8 04 mE l2 la .
-rondal07b.cha 2 8 04 ty n paRl pa bj5n a-vEk ta sy-sEt § n t2 k§-pR@ pa bj5 .
+rondal07b.cha 2 8 04 ty n paRl pa bj5 a-vEk ta sy-sEt § n t2 k§-pR@ pa bj5 .
 rondal07b.cha 2 8 04 mE la la .
 rondal07b.cha 2 8 04 n§ pa # n@ paRs k § t @R-ZistR .
 rondal07b.cha 2 8 04 § n sE pa mEtR la # si § t @R-ZistR .
@@ -7256,7 +7256,7 @@ rondal07c.cha 2 8 07 § n l e-kut pa # n@ .
 rondal07c.cha 2 8 07 n§ § n @-t@ Rj5 .
 rondal07c.cha 2 8 07 t@-tO § # Ra fa-fa .
 rondal07c.cha 2 8 07 t@-tO § # Ra fa-fa .
-rondal07c.cha 2 8 07 o n§ paRs k2 ty n paRl pa bj5n a-vEk ta ti-ti puR paR-le .
+rondal07c.cha 2 8 07 o n§ paRs k2 ty n paRl pa bj5 a-vEk ta ti-ti puR paR-le .
 rondal07c.cha 2 8 07 paR-le puR # .
 rondal07c.cha 2 8 07 puR # pa-pa k i paRl ?
 rondal07c.cha 2 8 07 o i va paR-le puR # .
@@ -7445,7 +7445,7 @@ rondal07c.cha 2 8 07 wi mE k Es k2 ty va fER ?
 rondal07c.cha 2 8 07 # .
 rondal07c.cha 2 8 07 n§ # n@ s' e fi-ni § va a-le Z2 .
 rondal07c.cha 2 8 07 va Z°-te sa d@ la pu-bEl .
-rondal07c.cha 2 8 07 pa a kOt 5 Z2 fE bj5n a-t@-sj§ .
+rondal07c.cha 2 8 07 pa a kOt 5 Z2 fE bj5 a-t@-sj§ .
 rondal07c.cha 2 8 07 n§ s' e pa la pu-bEl .
 rondal07c.cha 2 8 07 wi .
 rondal07c.cha 2 8 07 # .
@@ -7696,7 +7696,7 @@ rondal08a.cha 2 8 14 kwa ?
 rondal08a.cha 2 8 14 il m§t syR lez Es-ka-lje d l a-vj§ ?
 rondal08a.cha 2 8 14 tu ?
 rondal08a.cha 2 8 14 i a pa kwa ?
-rondal08a.cha 2 8 14 i a pa i va d@ l sjEl u bj5n i a pa d sjEl ?
+rondal08a.cha 2 8 14 i a pa i va d@ l sjEl u bj5 i a pa d sjEl ?
 rondal08a.cha 2 8 14 il n a pa d pOS ?
 rondal08a.cha 2 8 14 Em .
 rondal08a.cha 2 8 14 wi i a le # # # .
@@ -9363,7 +9363,7 @@ rondal10a.cha 2 9 12 k@ i tus # b§ .
 rondal10a.cha 2 9 12 kwa ?
 rondal10a.cha 2 9 12 ty a l ne ki kul .
 rondal10a.cha 2 9 12 ty v2 t2 mu-Se ?
-rondal10a.cha 2 9 12 e b5 ty sE bj5n a-le SER-Se 1 mu-SwaR tu s9l ?
+rondal10a.cha 2 9 12 e b5 ty sE bj5 a-le SER-Se 1 mu-SwaR tu s9l ?
 rondal10a.cha 2 9 12 § mE le lEtR la ?
 rondal10a.cha 2 9 12 le lEtR d2 ki ?
 rondal10a.cha 2 9 12 s' e puR twa sa ?
@@ -9484,7 +9484,7 @@ rondal10a.cha 2 9 12 i n kOl ply s2-la .
 rondal10a.cha 2 9 12 kOl ply .
 rondal10a.cha 2 9 12 o n§ n§ i @n a ma-l2-R2z-m@ ply .
 rondal10a.cha 2 9 12 sa s' e do-maZ 5 .
-rondal10a.cha 2 9 12 ste-fan Em-RE bj5n @n a-vwaR .
+rondal10a.cha 2 9 12 ste-fan Em-RE bj5 @n a-vwaR .
 rondal10a.cha 2 9 12 a-t@ 1 p2 .
 rondal10a.cha 2 9 12 dOn 1 p2 l2 kaR-nE d a-dREs .
 rondal10a.cha 2 9 12 u Es k2 ty a mi l kaR-nE d a-dREs ?
@@ -9618,7 +9618,7 @@ rondal10a.cha 2 9 12 Em .
 rondal10a.cha 2 9 12 Em ?
 rondal10a.cha 2 9 12 n§ pa de # .
 rondal10a.cha 2 9 12 de ba-gaZ e yn .
-rondal10a.cha 2 9 12 u bj5 § dwa diR u bj5n yn va-liz .
+rondal10a.cha 2 9 12 u bj5 § dwa diR u bj5 yn va-liz .
 rondal10a.cha 2 9 12 va-liz .
 rondal10a.cha 2 9 12 di 1 p2 .
 rondal10a.cha 2 9 12 Em .
@@ -10437,7 +10437,7 @@ rondal11b.cha 2 9 26 t E @-kOR t§b ?
 rondal11b.cha 2 9 26 wi t a fE bum ?
 rondal11b.cha 2 9 26 n2 mOR pa .
 rondal11b.cha 2 9 26 n la mE pa @ buS paRs k § paRl # n@ .
-rondal11b.cha 2 9 26 # paRs k § n paRl pa bj5n a-vEk la sy-sEt .
+rondal11b.cha 2 9 26 # paRs k § n paRl pa bj5 a-vEk la sy-sEt .
 rondal11b.cha 2 9 26 § n va nyl paR .
 rondal11b.cha 2 9 26 § va t @R-Zis-tRe .
 rondal11b.cha 2 9 26 o ma-ga-z5 ?
@@ -10518,7 +10518,7 @@ rondal11b.cha 2 9 26 ty v2 fER d2 la p5-tyR ?
 rondal11b.cha 2 9 26 § # Ra d la p5-tyR t@-tO .
 rondal11b.cha 2 9 26 kwa ?
 rondal11b.cha 2 9 26 ty n v2 pa @R-Zis-tRe fa-fa ?
-rondal11b.cha 2 9 26 o si ty v2 bj5n @R-Zis-tRe fa-fa .
+rondal11b.cha 2 9 26 o si ty v2 bj5 @R-Zis-tRe fa-fa .
 rondal11b.cha 2 9 26 o si ty Em bj5 paRs k a-pRE k@t § p2 # fa-fa s' e bj5 sa .
 rondal11b.cha 2 9 26 n§ s ty .
 rondal11b.cha 2 9 26 t Em bj5 d # ste-fan 5 wi ?
@@ -13681,7 +13681,7 @@ rondal16a.cha 2 11 03 i n a ply d2 # # d@ l2 sak d2 ma-m@ .
 rondal16a.cha 2 11 03 Em # .
 rondal16a.cha 2 11 03 ty SERS ?
 rondal16a.cha 2 11 03 n§ i @ n a ply k@ ma-m@ di k i i @ n a ply .
-rondal16a.cha 2 11 03 Z2 vu-dRE bj5n 1 gRo # # s i vu # ma-m@ 5 ?
+rondal16a.cha 2 11 03 Z2 vu-dRE bj5 1 gRo # # s i vu # ma-m@ 5 ?
 rondal16a.cha 2 11 03 v2 .
 rondal16a.cha 2 11 03 vj5 .
 rondal16a.cha 2 11 03 sot .
@@ -13776,7 +13776,7 @@ rondal16b.cha 2 11 04 a kOt Se-Ri Se djan § pR@ d2 l o .
 rondal16b.cha 2 11 04 o n§ puR fER a m@-Ze .
 rondal16b.cha 2 11 04 u # mi le sy-sEt ?
 rondal16b.cha 2 11 04 u ?
-rondal16b.cha 2 11 04 ty vwa bj5n yn bwat .
+rondal16b.cha 2 11 04 ty vwa bj5 yn bwat .
 rondal16b.cha 2 11 04 mE ty sE bj5 s2 k2 s' e .
 rondal16b.cha 2 11 04 s' e t§ Z2 .
 rondal16b.cha 2 11 04 l2 Z2 a ste-f@ sa Em ?
@@ -13934,7 +13934,7 @@ rondal16b.cha 2 11 04 sa i e-tE tu-ZuR 5 sa .
 rondal16b.cha 2 11 04 fo l # vER ?
 rondal16b.cha 2 11 04 ty v2 k § # l2 # # R§ la ?
 rondal16b.cha 2 11 04 kEl # .
-rondal16b.cha 2 11 04 s' e bj5n a-taS .
+rondal16b.cha 2 11 04 s' e bj5 a-taS .
 rondal16b.cha 2 11 04 Z2 n so-RE pa .
 rondal16b.cha 2 11 04 # n§ Z2 n so-RE pa l # .
 rondal16b.cha 2 11 04 s' e kOm sa .
@@ -16399,7 +16399,7 @@ rondal20a.cha 3 0 07 e # # ba-to ?
 rondal20a.cha 3 0 07 u d§k ?
 rondal20a.cha 3 0 07 u Es k i i a # ?
 rondal20a.cha 3 0 07 yn kOm sa k ty a twa ?
-rondal20a.cha 3 0 07 a-vEk de Ru u bj5n yn a-vEk de S°-nij k2 ty a ?
+rondal20a.cha 3 0 07 a-vEk de Ru u bj5 yn a-vEk de S°-nij k2 ty a ?
 rondal20a.cha 3 0 07 yn a-vEk kwa ?
 rondal20a.cha 3 0 07 a-vEk de de Ru ?
 rondal20a.cha 3 0 07 wi ?
@@ -19131,7 +19131,7 @@ rondal23a.cha 3 2 14 u Es k2 ty va l2 mEtR ?
 rondal23a.cha 3 2 14 wi mE i-si i a pa d ma-Sin i-si .
 rondal23a.cha 3 2 14 i-si u Es k § va mEtR l2 Es .
 rondal23a.cha 3 2 14 o pa fER sa ty sE bj5 k l # fwa ty a m@k d a-va-le l2 su .
-rondal23a.cha 3 2 14 ty sE bj5n o ma-ga-z5 a-vEk # k t a-vE mi l2 su @ buS ?
+rondal23a.cha 3 2 14 ty sE bj5 o ma-ga-z5 a-vEk # k t a-vE mi l2 su @ buS ?
 rondal23a.cha 3 2 14 a wi .
 rondal23a.cha 3 2 14 f°-zE mal 5 ?
 rondal23a.cha 3 2 14 pa mEtR le suz @ buS .
@@ -19735,7 +19735,7 @@ rondal23b.cha 3 2 21 wi ?
 rondal23b.cha 3 2 21 sa s' e t§ ga-RaZ ?
 rondal23b.cha 3 2 21 # .
 rondal23b.cha 3 2 21 1 # 1n ak-si-d@ d@ l sjEl ?
-rondal23b.cha 3 2 21 u bj5n 1n ak-si-d@ syR l2 sOl ?
+rondal23b.cha 3 2 21 u bj5 1n ak-si-d@ syR l2 sOl ?
 rondal23b.cha 3 2 21 la ?
 rondal23b.cha 3 2 21 pa d@ l sjEl ?
 rondal23b.cha 3 2 21 wi wi s' e la .
@@ -21755,7 +21755,7 @@ rondal25b.cha 3 3 17 mE n2 kwa pa t§n e-s@s ?
 rondal25b.cha 3 3 17 b5 n§ 5 Z2 n Z2 n vE pa pR@dR t§n e-s@s .
 rondal25b.cha 3 3 17 k Es ki e t§b ?
 rondal25b.cha 3 3 17 tj5 # # vwa-la de su .
-rondal25b.cha 3 3 17 di l8i 1 p2 s' k2 ty vu-dRE bj5n a # # .
+rondal25b.cha 3 3 17 di l8i 1 p2 s' k2 ty vu-dRE bj5 a # # .
 rondal25b.cha 3 3 17 Z2 vu-dRE bj5 .
 rondal25b.cha 3 3 17 ty vu-dRE bj5 dez o-to ?
 rondal25b.cha 3 3 17 Em .
@@ -21838,7 +21838,7 @@ rondal25b.cha 3 3 17 R°-gaRd l2 p§-pje ki gR5p syR l # .
 rondal25b.cha 3 3 17 u Es k i va ?
 rondal25b.cha 3 3 17 i va @-tRe d@ la # d@ la # puR vwaR s i i a pER-sOn d@ la mE-z§ u i a l2 f2 .
 rondal25b.cha 3 3 17 i n p2 pa a-le la ?
-rondal25b.cha 3 3 17 i fo bj5n a-le vwaR s i i a pa kElk 1 5 ki # .
+rondal25b.cha 3 3 17 i fo bj5 a-le vwaR s i i a pa kElk 1 5 ki # .
 rondal25b.cha 3 3 17 e s2 # k Es k i fE ?
 rondal25b.cha 3 3 17 i va mEtR d2 l o i tj5 l2 t8i-jo puR m§-te l o .
 rondal25b.cha 3 3 17 u Es k il e ?
@@ -23395,7 +23395,7 @@ rondal27b.cha 3 4 04 5 ?
 rondal27b.cha 3 4 04 s' e u sa la ?
 rondal27b.cha 3 4 04 ta ma-m@ fERm l @R-Zis-tR9R p8isk ty n # pa ?
 rondal27b.cha 3 4 04 5 ?
-rondal27b.cha 3 4 04 ty p2 bj5n EtR Z@-ti si ty v2 dez o-to .
+rondal27b.cha 3 4 04 ty p2 bj5 EtR Z@-ti si ty v2 dez o-to .
 rondal27b.cha 3 4 04 n§ ty n E pa Z@-ti .
 rondal27b.cha 3 4 04 ty n e-kut pa s' k2 ma-m@ di .
 rondal27b.cha 3 4 04 ty n Ra-k§t Rj5 a ma-m@ .
@@ -23661,7 +23661,7 @@ rondal27b.cha 3 4 04 s2 s§ le fOk sa Se-Ri .
 rondal27b.cha 3 4 04 i Zu a-vEk de ba-l§ syR l9R ne ?
 rondal27b.cha 3 4 04 # .
 rondal27b.cha 3 4 04 # l2 m°-sj2 ki maRS syR 1 fil ?
-rondal27b.cha 3 4 04 o bj5n e-kut Se-Ri .
+rondal27b.cha 3 4 04 o bj5 e-kut Se-Ri .
 rondal27b.cha 3 4 04 ty # ko-m@s a diR Em .
 rondal27b.cha 3 4 04 s' e pa fOR bo 5 .
 rondal27b.cha 3 4 04 le S°-vo ?
@@ -24820,7 +24820,7 @@ rondal28b.cha 3 4 14 ty va fER yn mE-z§ puR mwa ?
 rondal28b.cha 3 4 14 u Es k2 Z2 dwa le mEtR mwa # n@ ?
 rondal28b.cha 3 4 14 # b§ .
 rondal28b.cha 3 4 14 Z2 p2 le mEtR # n@ ?
-rondal28b.cha 3 4 14 t E bj5n E-mabl .
+rondal28b.cha 3 4 14 t E bj5 E-mabl .
 rondal28b.cha 3 4 14 wi .
 rondal28b.cha 3 4 14 Em ?
 rondal28b.cha 3 4 14 5 wi .
@@ -25245,7 +25245,7 @@ rondal29a.cha 3 4 22 wi ?
 rondal29a.cha 3 4 22 e fERm l aR-mwaR tj5 .
 rondal29a.cha 3 4 22 s' n e pa bo l aR-mwaR u-vERt .
 rondal29a.cha 3 4 22 5 ?
-rondal29a.cha 3 4 22 paRs k2 s' n e pa bj5n @n ORdR .
+rondal29a.cha 3 4 22 paRs k2 s' n e pa bj5 @n ORdR .
 rondal29a.cha 3 4 22 s' e bj5 ply bo d vwaR dez aR-mwaR ki s§ bj5 # k2 tut e bj5 R@Z @n ORdR .
 rondal29a.cha 3 4 22 § va a-le # la tabl p8i ma-m@ fE le fRit ?
 rondal29a.cha 3 4 22 n2 fE pa tuR-ne tu l t@ .
@@ -25338,7 +25338,7 @@ rondal29b.cha 3 4 25 a ty sE bj5 ti-Re sl8i dy m°-sj2 .
 rondal29b.cha 3 4 25 ty n sE pa ti-Re .
 rondal29b.cha 3 4 25 ty n sE pa ti-Re l tj5 .
 rondal29b.cha 3 4 25 a .
-rondal29b.cha 3 4 25 ty vu-dRE bj5n 1 # kOm sl8i dy m°-sj2 twa ?
+rondal29b.cha 3 4 25 ty vu-dRE bj5 1 # kOm sl8i dy m°-sj2 twa ?
 rondal29b.cha 3 4 25 wi ?
 rondal29b.cha 3 4 25 s' e-tE 1 kEl ?
 rondal29b.cha 3 4 25 e k Es k2 t a-vE mi puR Zwe ?
@@ -26844,7 +26844,7 @@ rondal31a.cha 3 5 09 a wi 5 § la # Ra # 5 .
 rondal31a.cha 3 5 09 # pa-pa uRs i va a-vEk la SEz Se 1 m2-n8i-zje e i d°-m@-dRa k § la # u bj5 pa-pa uRs # t Ra yn nu-vEl SEz puR s§ # # gaR-s§ 5 .
 rondal31a.cha 3 5 09 sa s' e l2 p°-ti gaR-s§ d2 pa-pa uRs .
 rondal31a.cha 3 5 09 Em ?
-rondal31a.cha 3 5 09 i va l8i # tER yn otR SEz u bj5n i va # sEl-la Se-Ri .
+rondal31a.cha 3 5 09 i va l8i # tER yn otR SEz u bj5 i va # sEl-la Se-Ri .
 rondal31a.cha 3 5 09 i va # tER yn otR SEz .
 rondal31a.cha 3 5 09 k§-ti-ny a # gaR-de t§ livR .
 rondal31a.cha 3 5 09 kwa ?
@@ -26967,7 +26967,7 @@ rondal31a.cha 3 5 09 paRs k il a kas la mE-z§ ?
 rondal31a.cha 3 5 09 puR-kwa fER ?
 rondal31a.cha 3 5 09 i v2 ka-se la mE-z§ puR-kwa ?
 rondal31a.cha 3 5 09 puR pu-vwaR a-tRa-pe l2 l2 # # ko-S§ .
-rondal31a.cha 3 5 09 l2 # lu vu-dRE bj5n a-tRa-pe l2 p°-ti ko-S§ .
+rondal31a.cha 3 5 09 l2 # lu vu-dRE bj5 a-tRa-pe l2 p°-ti ko-S§ .
 rondal31a.cha 3 5 09 puR l2 m@-Ze .
 rondal31a.cha 3 5 09 tuRn la paZ .
 rondal31a.cha 3 5 09 ty l vE-Ra .
@@ -27494,7 +27494,7 @@ rondal31b.cha 3 5 12 tez a-ni-mo ?
 rondal31b.cha 3 5 12 n§ s' et 1 tigR Se-Ri .
 rondal31b.cha 3 5 12 ty a vy 1 tigR kElk paR ?
 rondal31b.cha 3 5 12 o zo-o Se-Ri R°-gaR-de lez a-ni-mo .
-rondal31b.cha 3 5 12 twa o-si ty sE bj5n a-le o zo-o paR-fwa 5 ?
+rondal31b.cha 3 5 12 twa o-si ty sE bj5 a-le o zo-o paR-fwa 5 ?
 rondal31b.cha 3 5 12 puR R°-gaR-de lez a-ni-mo .
 rondal31b.cha 3 5 12 i m§tR .
 rondal31b.cha 3 5 12 i m§tR a sa # # s9R .
@@ -29736,7 +29736,7 @@ rondal33a.cha 3 6 10 la sot @-kOR yn fwa .
 rondal33a.cha 3 6 10 n§ pa mEtR t§n otR pje a tER .
 rondal33a.cha 3 6 10 la # tu l t@ @ l ER .
 rondal33a.cha 3 6 10 sot @-kOR .
-rondal33a.cha 3 6 10 tRE bj5n @-kOR .
+rondal33a.cha 3 6 10 tRE bj5 @-kOR .
 rondal33a.cha 3 6 10 a vwa-la kOm sa .
 rondal33a.cha 3 6 10 n§ t a # mi t§ pje a tER .
 rondal33a.cha 3 6 10 s2 n e pa bj5 .
@@ -30163,7 +30163,7 @@ rondal33b.cha 3 6 14 dOn 1 p2 t§ # # .
 rondal33b.cha 3 6 14 ty l pR@-dRa t@-tO a-pRE .
 rondal33b.cha 3 6 14 si-n§ ty n paRl pa bj5 kOm sa .
 rondal33b.cha 3 6 14 si ?
-rondal33b.cha 3 6 14 ty paRl bj5n a-vEk t§ # # ?
+rondal33b.cha 3 6 14 ty paRl bj5 a-vEk t§ # # ?
 rondal33b.cha 3 6 14 n§ n§ .
 rondal33b.cha 3 6 14 s' e pa yn kOm sa .
 rondal33b.cha 3 6 14 wi .
@@ -30367,7 +30367,7 @@ rondal33b.cha 3 6 14 ma-m@ a .
 rondal33b.cha 3 6 14 u Es k El pR@ lez @-buR-g9R ?
 rondal33b.cha 3 6 14 la o k§-twaR 5 .
 rondal33b.cha 3 6 14 e p8i a-lOR u Es k El va a-vEk sa ?
-rondal33b.cha 3 6 14 El @tR paR la ma-m@ u bj5n i-si u bj5n o k§-twaR .
+rondal33b.cha 3 6 14 El @tR paR la ma-m@ u bj5 i-si u bj5 o k§-twaR .
 rondal33b.cha 3 6 14 u Es k i s§ le me-sj2 ki sERv o k§-twaR ?
 rondal33b.cha 3 6 14 vwa-la .
 rondal33b.cha 3 6 14 5 ?
@@ -30384,7 +30384,7 @@ rondal33b.cha 3 6 14 R°-gaRd bj5 .
 rondal33b.cha 3 6 14 s' e ma-m@ sa ?
 rondal33b.cha 3 6 14 wi ?
 rondal33b.cha 3 6 14 El @tR e p8i El va o k§-twaR .
-rondal33b.cha 3 6 14 b§-ZuR m°-sj2 Z2 vu-dRE bj5n 1 @-buR-g9R e de fRit e 1 ko-ka e dy kEt-S9p s i vu # .
+rondal33b.cha 3 6 14 b§-ZuR m°-sj2 Z2 vu-dRE bj5 1 @-buR-g9R e de fRit e 1 ko-ka e dy kEt-S9p s i vu # .
 rondal33b.cha 3 6 14 a-le .
 rondal33b.cha 3 6 14 k Es k i fE l2 m°-sj2 ?
 rondal33b.cha 3 6 14 a e b5 s' e s' # .
@@ -31217,7 +31217,7 @@ rondal35a.cha 3 7 12 e bj5 ty a fE 1 gRo do-do syR l2 di-v@ 5 m§ # ?
 rondal35a.cha 3 7 12 ty gaRd s2 # ?
 rondal35a.cha 3 7 12 k Es k2 s' e k2 s2 # ?
 rondal35a.cha 3 7 12 ty n sE pa e mwa n§ ply .
-rondal35a.cha 3 7 12 k Es k2 sa p2 bj5n EtR ?
+rondal35a.cha 3 7 12 k Es k2 sa p2 bj5 EtR ?
 rondal35a.cha 3 7 12 Em ?
 rondal35a.cha 3 7 12 u Es k2 s' e-tE ?
 rondal35a.cha 3 7 12 s' e-tE u ?
@@ -31581,7 +31581,7 @@ rondal35a.cha 3 7 12 twa ty a mi t§ m@-to .
 rondal35a.cha 3 7 12 mE a-lOR t a te Z@b e ta ky-lOt e tut # k@ ty va Zwe d@ la nEZ .
 rondal35a.cha 3 7 12 la nEZ sa muj 5 .
 rondal35a.cha 3 7 12 sa muj pa la nEZ ?
-rondal35a.cha 3 7 12 ty t E bj5n a-myz d°-OR ?
+rondal35a.cha 3 7 12 ty t E bj5 a-myz d°-OR ?
 rondal35a.cha 3 7 12 ty a Zu a-vEk yn pa .
 rondal35a.cha 3 7 12 ty n a pa Zu a-vEk yn p°-tit pa-lEt ?
 rondal35a.cha 3 7 12 ty a y la pa-lEt .
@@ -31984,7 +31984,7 @@ rondal35b.cha 3 7 15 k § s Em bj5 .
 rondal35b.cha 3 7 15 wi 5 m§ Se-Ri .
 rondal35b.cha 3 7 15 a ki s' k2 ty pu-RE @-vwa-je yn va-l@-t5 ?
 rondal35b.cha 3 7 15 a ste-f@ Ro-bER ?
-rondal35b.cha 3 7 15 e ki k2 ty Em bj5n @-kOR ?
+rondal35b.cha 3 7 15 e ki k2 ty Em bj5 @-kOR ?
 rondal35b.cha 3 7 15 a # Z2 kRwa k2 ty Em bj5 n§ ?
 rondal35b.cha 3 7 15 Em ?
 rondal35b.cha 3 7 15 s' e dZak .
@@ -32106,7 +32106,7 @@ rondal35b.cha 3 7 15 a sE pa mE # El # bj5 .
 rondal35b.cha 3 7 15 kwa sa ?
 rondal35b.cha 3 7 15 lE-kEl ?
 rondal35b.cha 3 7 15 # .
-rondal35b.cha 3 7 15 1 tu dRwa u bj5n a-vEk 1 pw5 .
+rondal35b.cha 3 7 15 1 tu dRwa u bj5 a-vEk 1 pw5 .
 rondal35b.cha 3 7 15 vwa-la 1 i wi .
 rondal35b.cha 3 7 15 ty dwa fER pi-pi ?
 rondal35b.cha 3 7 15 vwa-la 1 i .
@@ -33375,8 +33375,8 @@ rondal36a.cha 3 8 01 i n e pa sER-vi .
 rondal36a.cha 3 8 01 i kup 1 mOR-so d2 ga-tO puR # e puR l8i .
 rondal36a.cha 3 8 01 vwa-la .
 rondal36a.cha 3 8 01 vwa-la le d2 mOR-so d2 ga-tO .
-rondal36a.cha 3 8 01 a-lOR # i vu-dRE bj5n i vu-dRE bj5 kElk Soz # .
-rondal36a.cha 3 8 01 i vu-dRE bj5n yn a-sjEt puR mEtR s§ ga-tO d°-sy .
+rondal36a.cha 3 8 01 a-lOR # i vu-dRE bj5 i vu-dRE bj5 kElk Soz # .
+rondal36a.cha 3 8 01 i vu-dRE bj5 yn a-sjEt puR mEtR s§ ga-tO d°-sy .
 rondal36a.cha 3 8 01 # di i a pa d a-sjEt .
 rondal36a.cha 3 8 01 El s§ tut sal .
 rondal36a.cha 3 8 01 a-lOR # d°-m@d yn fuR-SEt puR m@-Ze s§ ga-tO .
@@ -33658,7 +33658,7 @@ rondal36a.cha 3 8 01 i n s§ pa Z@-ti ?
 rondal36a.cha 3 8 01 k Es k i f§ ?
 rondal36a.cha 3 8 01 Em ?
 rondal36a.cha 3 8 01 # .
-rondal36a.cha 3 8 01 a wi mE si §n e ma-lad i fo bj5n a-le a l # k Es k2 ty v2 .
+rondal36a.cha 3 8 01 a wi mE si §n e ma-lad i fo bj5 a-le a l # k Es k2 ty v2 .
 rondal36a.cha 3 8 01 n§ ?
 rondal36a.cha 3 8 01 ko-m@ Es k § fE ?
 rondal36a.cha 3 8 01 il e t§b @ d # dy di-v@ ?
@@ -33842,7 +33842,7 @@ rondal36a.cha 3 8 01 n pER pa t§ ba-to .
 rondal36a.cha 3 8 01 ty v2 ku-pe l # tEt ?
 rondal36a.cha 3 8 01 a ty va ku-pe la tEt ?
 rondal36a.cha 3 8 01 tRE bj5 .
-rondal36a.cha 3 8 01 tuRn bj5n o-tuR .
+rondal36a.cha 3 8 01 tuRn bj5 o-tuR .
 rondal36a.cha 3 8 01 o o pa d°-d@ .
 rondal36a.cha 3 8 01 n§ .
 rondal36a.cha 3 8 01 o-tuR .
@@ -34188,7 +34188,7 @@ rondal36b.cha 3 8 04 wi sa pik 5 .
 rondal36b.cha 3 8 04 i a de pw5t .
 rondal36b.cha 3 8 04 pus bj5 .
 rondal36b.cha 3 8 04 vwa-la .
-rondal36b.cha 3 8 04 s' et 1 gR@ u bj5n 1 p°-ti s' # ?
+rondal36b.cha 3 8 04 s' et 1 gR@ u bj5 1 p°-ti s' # ?
 rondal36b.cha 3 8 04 t E syR ?
 rondal36b.cha 3 8 04 n§ i n e pa gR@t a-se .
 rondal36b.cha 3 8 04 1 p°-ti .
@@ -35736,7 +35736,7 @@ rondal38a.cha 3 9 13 d°-OR .
 rondal38a.cha 3 9 13 # n@ § va m@-Ze d a-bOR .
 rondal38a.cha 3 9 13 k@ ty o-Ra m@Z si ty v2 ty pu-Ra # l @-tEn e a-le d°-OR a-vEk .
 rondal38a.cha 3 9 13 5 ?
-rondal38a.cha 3 9 13 si pa-pa v2 bj5n a-le Zwe a-vEk .
+rondal38a.cha 3 9 13 si pa-pa v2 bj5 a-le Zwe a-vEk .
 rondal38a.cha 3 9 13 dOn 1 p2 1 p@-pl°-mus a ma-m@ .
 rondal38a.cha 3 9 13 kEl p@-pl°-mus ?
 rondal38a.cha 3 9 13 1 p@-pl°-mus p@-pl°-mus .
@@ -36437,7 +36437,7 @@ rondal38b.cha 3 9 16 k@ ty a 1 p2 Zu a-vEk t§ ba-to ty sOR tu d s8it d2 l o 5 ?
 rondal38b.cha 3 9 16 # a-vwaR fRwa .
 rondal38b.cha 3 9 16 ma-m@ n v2 pa .
 rondal38b.cha 3 9 16 p2R k2 ty n E fRwa sE ty ?
-rondal38b.cha 3 9 16 fo bj5n e-s8i-je te # v2 .
+rondal38b.cha 3 9 16 fo bj5 e-s8i-je te # v2 .
 rondal38b.cha 3 9 16 kwa ?
 rondal38b.cha 3 9 16 k Es k2 ty di Se-Ri ?
 rondal38b.cha 3 9 16 mEm ta # miz ki e sal .
@@ -37781,7 +37781,7 @@ rondal39a.cha 3 10 01 5 ?
 rondal39a.cha 3 10 01 i fo de pil d@ l2 flaS .
 rondal39a.cha 3 10 01 n§ # d@ l2 flaS # .
 rondal39a.cha 3 10 01 s' e pa 1 ZwE .
-rondal39a.cha 3 10 01 e bj5n i n va ply l a-pa-REj fo-to .
+rondal39a.cha 3 10 01 e bj5 i n va ply l a-pa-REj fo-to .
 rondal39a.cha 3 10 01 § n so-RE ply fER la fo-to .
 rondal39a.cha 3 10 01 paRs k i n i n va ply .
 rondal39a.cha 3 10 01 R°-gaRd sa .
@@ -38514,7 +38514,7 @@ rondal40a.cha 3 10 14 va 1 p2 le SER-Se .
 rondal40a.cha 3 10 14 tu pRE de livR .
 rondal40a.cha 3 10 14 i a d2 livR d2 la # la .
 rondal40a.cha 3 10 14 s2-la .
-rondal40a.cha 3 10 14 ma-m@ p2 bj5n a-le le Ra-pOR-te .
+rondal40a.cha 3 10 14 ma-m@ p2 bj5 a-le le Ra-pOR-te .
 rondal40a.cha 3 10 14 o §n et @ # taR .
 rondal40a.cha 3 10 14 o sa s' et 1n a twa .
 rondal40a.cha 3 10 14 n§ s' e pa la # .
@@ -39481,7 +39481,7 @@ rondal41a.cha 3 11 13 El a pa d2 # # Ru 5 ?
 rondal41a.cha 3 11 13 El a pa d2 # # Ru # .
 rondal41a.cha 3 11 13 # sa s' e s' # puR mEtR d@ la la ma-Sin k@t § va # la Ru .
 rondal41a.cha 3 11 13 ty a pER-dy s' k il fa-lE s2 ki .
-rondal41a.cha 3 11 13 ty sE bj5n @ Zw@ a-vEk # .
+rondal41a.cha 3 11 13 ty sE bj5 @ Zw@ a-vEk # .
 rondal41a.cha 3 11 13 Z2 kRwa k ty a pER-dy .
 rondal41a.cha 3 11 13 s' e-tE la .
 rondal41a.cha 3 11 13 a-vEk sa # n@ # .
@@ -39594,7 +39594,7 @@ rondal41a.cha 3 11 13 s' e syR l2 kw5 5 .
 rondal41a.cha 3 11 13 s' e k@ i a yn # Ry .
 rondal41a.cha 3 11 13 k@ i a pa d2 stOp # k Es k i a ?
 rondal41a.cha 3 11 13 § p2 a-le .
-rondal41a.cha 3 11 13 u bj5n i a kwa a la plas de stOp # ki stOp o-si ?
+rondal41a.cha 3 11 13 u bj5 i a kwa a la plas de stOp # ki stOp o-si ?
 rondal41a.cha 3 11 13 s' e la mEm Soz .
 rondal41a.cha 3 11 13 de ly .
 rondal41a.cha 3 11 13 de # .
@@ -40136,7 +40136,7 @@ rondal42.cha 4 0 04 ma-m@ a-lE # gaR-de puR 1 sak puR twa .
 rondal42.cha 4 0 04 El n a pa tRuv .
 rondal42.cha 4 0 04 puR-kwa Z' n E pa tRuv ?
 rondal42.cha 4 0 04 paRs k i @n a-vE pa .
-rondal42.cha 4 0 04 ty vu-dRE bj5n 1 sak ?
+rondal42.cha 4 0 04 ty vu-dRE bj5 1 sak ?
 rondal42.cha 4 0 04 1 sak .
 rondal42.cha 4 0 04 s' e kwa ?
 rondal42.cha 4 0 04 ty n sE pa s' k2 s' et 1 sak ?
@@ -40438,7 +40438,7 @@ rondal42.cha 4 0 04 i va Ru-je si ty l mE d@ l o .
 rondal42.cha 4 0 04 d2 l o l o .
 rondal42.cha 4 0 04 a la pi-sin ty v2 diR ?
 rondal42.cha 4 0 04 a n§ § n p2 pa # sa a la pi-sin .
-rondal42.cha 4 0 04 t E bj5n a-myz a la pi-sin ?
+rondal42.cha 4 0 04 t E bj5 a-myz a la pi-sin ?
 rondal42.cha 4 0 04 wi ?
 rondal42.cha 4 0 04 t a sot .
 rondal42.cha 4 0 04 wi .
@@ -40564,7 +40564,7 @@ rondal42.cha 4 0 04 b5 ty # Ra bj5 l # d2 kEl-k1 d # Ru-le d°-sy 5 .
 rondal42.cha 4 0 04 ty n kRwa pa ?
 rondal42.cha 4 0 04 5 ?
 rondal42.cha 4 0 04 n§ kwa n§ ?
-rondal42.cha 4 0 04 ty n a pa 1 # # mE ty # Ra bj5n 1n 1 .
+rondal42.cha 4 0 04 ty n a pa 1 # # mE ty # Ra bj5 1n 1 .
 rondal42.cha 4 0 04 ty l # Ra syR l2 # d2 # 1 p°-ti p2 si ty v2 .
 rondal42.cha 4 0 04 u bj5 d2 kEl-k1 d # ty # Ra .
 rondal42.cha 4 0 04 k Es k i a Se-Ri ?
@@ -41095,7 +41095,7 @@ rondal44a.cha 4 4 08 k Es k El a tRi-kOt puR twa d§k ma-mi ?
 rondal44a.cha 4 4 08 n 5-pORt ?
 rondal44a.cha 4 4 08 1 # ?
 rondal44a.cha 4 4 08 1 kEl # ?
-rondal44a.cha 4 4 08 a Z2 sE bj5n 1 # vER .
+rondal44a.cha 4 4 08 a Z2 sE bj5 1 # vER .
 rondal44a.cha 4 4 08 1 # RuZ ?
 rondal44a.cha 4 4 08 n§ ma-mi s' e pa 1 Zi-lE RuZ s' et 1 Zi-lE vER .
 rondal44a.cha 4 4 08 e § l a-taS a-vEk de bu-t§ .
@@ -41276,7 +41276,7 @@ rondal44a.cha 4 4 08 Em ?
 rondal44a.cha 4 4 08 k Es k2 ty v2 k2 l # fas a-vEk le su-lje ?
 rondal44a.cha 4 4 08 kElk Soz puR m@-Ze .
 rondal44a.cha 4 4 08 kElk Soz puR m@-Ze .
-rondal44a.cha 4 4 08 wi mE k Es k il va bj5n e-me d§k l # ty kRwa ?
+rondal44a.cha 4 4 08 wi mE k Es k il va bj5 e-me d§k l # ty kRwa ?
 rondal44a.cha 4 4 08 s' k §n a m@Z jER .
 rondal44a.cha 4 4 08 o wi .
 rondal44a.cha 4 4 08 # ty a # SER-Se jER d@ l2 ZaR-d5 .
@@ -41652,7 +41652,7 @@ rondal44b.cha 4 4 14 kOm sa il et a-si syR s§ # val .
 rondal44b.cha 4 4 14 Em ?
 rondal44b.cha 4 4 14 vwa-la .
 rondal44b.cha 4 4 14 il e pas kwa ?
-rondal44b.cha 4 4 14 e bj5n Es k2 ty l fE a-v@-se # n@ ?
+rondal44b.cha 4 4 14 e bj5 Es k2 ty l fE a-v@-se # n@ ?
 rondal44b.cha 4 4 14 Z2 t2 # k2 ty tiR t§ pi-Za-ma .
 rondal44b.cha 4 4 14 paRs k2 ty t2 # 1 p2 .
 rondal44b.cha 4 4 14 1 # # p2 .
@@ -42601,7 +42601,7 @@ rondal45a.cha 4 4 29 vwa-la Z2 dwa ti-Re le le # paRs k @ # § n mE pa le m°-nO
 rondal45a.cha 4 4 29 n§ 5 .
 rondal45a.cha 4 4 29 Z2 vE t2 m§-tRe ko-m@ § dwa ko-m@ i fE .
 rondal45a.cha 4 4 29 vwa-la i # m°-nOt la e yn d2 l otR kOt .
-rondal45a.cha 4 4 29 a wi tut le d2 la u bj5n 1 l2 po-li-sje e o bRa d 1n otR p°-ti bo-nOm 5 .
+rondal45a.cha 4 4 29 a wi tut le d2 la u bj5 1 l2 po-li-sje e o bRa d 1n otR p°-ti bo-nOm 5 .
 rondal45a.cha 4 4 29 1 # m°-sj2 .
 rondal45a.cha 4 4 29 u bj5 d@ o d2 bRa kOm sa .
 rondal45a.cha 4 4 29 kOm sa i n2 sE ply bu-Ze .
@@ -43387,7 +43387,7 @@ rondal45c.cha 4 5 11 n2 pa R°-m8e .
 rondal45c.cha 4 5 11 ki Es ki di REst tR@-kil ?
 rondal45c.cha 4 5 11 la # a l e-kOl di sa ?
 rondal45c.cha 4 5 11 de REst tR@-kil s' e Rj5 .
-rondal45c.cha 4 5 11 t Em bj5n yn vwa-tyR REst tR@-kil Em .
+rondal45c.cha 4 5 11 t Em bj5 yn vwa-tyR REst tR@-kil Em .
 rondal45c.cha 4 5 11 # # ?
 rondal45c.cha 4 5 11 o o .
 rondal45c.cha 4 5 11 Z2 n sE pa .
@@ -43640,7 +43640,7 @@ rondal46a.cha 4 5 28 ko-m@ Es k il a-v@s a-lOR ?
 rondal46a.cha 4 5 28 n§ n§ s' e pa a-vEk d2 l o k §n a-v@s 5 .
 rondal46a.cha 4 5 28 ty mE 1 # l o i n bu-ZRa pa ste-fan 5 .
 rondal46a.cha 4 5 28 ko-m@ Es k i fo # a-v@-se l ba-to ?
-rondal46a.cha 4 5 28 i fo bj5n a-vwaR 1 mo-t9R .
+rondal46a.cha 4 5 28 i fo bj5 a-vwaR 1 mo-t9R .
 rondal46a.cha 4 5 28 u bj5 i # le Ram e Ra-me .
 rondal46a.cha 4 5 28 ty sE s' k2 s' e le Ram ?
 rondal46a.cha 4 5 28 mE si k@t § pR@ de gR@ # a-vEk yn Soz o bu e k # kOm sa d@ l o .
@@ -43873,7 +43873,7 @@ rondal46b.cha 4 6 05 le So-f9R s§ # ny ?
 rondal46b.cha 4 6 05 wi ?
 rondal46b.cha 4 6 05 Em Em .
 rondal46b.cha 4 6 05 k Es k i i a ?
-rondal46b.cha 4 6 05 # v2 ty bj5n @l-ve d2 la ?
+rondal46b.cha 4 6 05 # v2 ty bj5 @l-ve d2 la ?
 rondal46b.cha 4 6 05 de-pES twa .
 rondal46b.cha 4 6 05 i # # tuRn ?
 rondal46b.cha 4 6 05 i s2 s§ # tuRn ?
@@ -44098,7 +44098,7 @@ rondal46b.cha 4 6 05 El n2 kas pa mE El fE de # .
 rondal46b.cha 4 6 05 n§ .
 rondal46b.cha 4 6 05 El n2 kas pa .
 rondal46b.cha 4 6 05 El n2 El n2 s2 s2 n e pa @ mOR-so # s2 fE @ bOs .
-rondal46b.cha 4 6 05 El s2 pli u bj5n i a de bOs ki vjEn .
+rondal46b.cha 4 6 05 El s2 pli u bj5 i a de bOs ki vjEn .
 rondal46b.cha 4 6 05 # ?
 rondal46b.cha 4 6 05 a k@ i vj5 paR la # ?
 rondal46b.cha 4 6 05 a paRs k2 s' et 1 s5 .
@@ -44524,7 +44524,7 @@ rondal46c.cha 4 6 09 R°-fE t§ # .
 rondal46c.cha 4 6 09 s' e-tE 1 kwa ?
 rondal46c.cha 4 6 09 1 # de # tut o-tuR ?
 rondal46c.cha 4 6 09 a yn mE-z§ wi .
-rondal46c.cha 4 6 09 wi e bj5n 5-si .
+rondal46c.cha 4 6 09 wi e bj5 5-si .
 rondal46c.cha 4 6 09 fE l2 5-si .
 rondal46c.cha 4 6 09 ty n Zu pa a-vEk sa o-ZuR-d8i ?
 rondal46c.cha 4 6 09 mE t i-Ra SER-Se t§ # 5 Se-Ri ?
@@ -44795,7 +44795,7 @@ rondal46d.cha 4 6 21 1 Sa-po ?
 rondal46d.cha 4 6 21 1 Sa-po n vj5-dRa pa d # t§ ne e ta buS 5 ?
 rondal46d.cha 4 6 21 o mE t E .
 rondal46d.cha 4 6 21 s' e ply fa-sil a-vEk 1 Zyst 1 Zyst l2 bo-nE .
-rondal46d.cha 4 6 21 ty sE bj5n 1 k § pas .
+rondal46d.cha 4 6 21 ty sE bj5 1 k § pas .
 rondal46d.cha 4 6 21 1 k Z' E Ra-pORt d s5 # .
 rondal46d.cha 4 6 21 k §n a # s5 # .
 rondal46d.cha 4 6 21 i a Zyst 1 # # tRu puR lez j2 wi ?
@@ -45216,7 +45216,7 @@ rondal47a.cha 4 6 28 b§ # a-vEk yn bRik tj5 d§k .
 rondal47a.cha 4 6 28 kOm sa .
 rondal47a.cha 4 6 28 tj5 # ko-m@s t§n a-vj§ # n@ .
 rondal47a.cha 4 6 28 wi o bu bj5 syR .
-rondal47a.cha 4 6 28 bj5n o mi-lj2 5 .
+rondal47a.cha 4 6 28 bj5 o mi-lj2 5 .
 rondal47a.cha 4 6 28 wi tRE bj5 .
 rondal47a.cha 4 6 28 si ty mE-tE le Ru o-si .
 rondal47a.cha 4 6 28 le Ru o-si .
@@ -45667,7 +45667,7 @@ rondal47b.cha 4 7 07 § pus se bRa tRE fOR d°-v@ swa kOm sa .
 rondal47b.cha 4 7 07 e p8i a-lOR § tuRn le m5 e § pus l o lw5 dE-RjER swa .
 rondal47b.cha 4 7 07 vwa-la e p8i § R°-mE se m5 @-s@bl wi ?
 rondal47b.cha 4 7 07 § pus se bRa tRE fOR d°-v@ .
-rondal47b.cha 4 7 07 § le gaRd bj5n @-s@bl .
+rondal47b.cha 4 7 07 § le gaRd bj5 @-s@bl .
 rondal47b.cha 4 7 07 e § pus l o lw5 dE-RjER .
 rondal47b.cha 4 7 07 a-le § pus le bRa @n a-v@ .
 rondal47b.cha 4 7 07 a-le m§tR .
@@ -45864,7 +45864,7 @@ rondal47b.cha 4 7 07 n§ § n2 le m@Z pa 5 m§ # .
 rondal47b.cha 4 7 07 n§ mE Z2 # diR .
 rondal47b.cha 4 7 07 s' e-tE puR t Ek-spli-ke k2 lez Os e-tE d°-d@ .
 rondal47b.cha 4 7 07 k § n2 le vwa-jE pa 5 .
-rondal47b.cha 4 7 07 mE k i p9v bj5n EtR kas sE ty .
+rondal47b.cha 4 7 07 mE k i p9v bj5 EtR kas sE ty .
 rondal47b.cha 4 7 07 e k2 sa fE tRE mal .
 rondal47b.cha 4 7 07 a wi sa wi .
 rondal47b.cha 4 7 07 ty vwa bj5 tj5 i s e kas 1n Os l8i .
@@ -46245,7 +46245,7 @@ rondal47c.cha 4 7 14 a-vEk lez Es-ka-lje la p°-tit mE-zo-nEt o d2 # .
 rondal47c.cha 4 7 14 5 ty # e-se-je d2 fER 1 ZuR .
 rondal47c.cha 4 7 14 s2 sRE bj5 .
 rondal47c.cha 4 7 14 u vwa ty la p°-tit so-nEt d§k ?
-rondal47c.cha 4 7 14 a la k2 ty vu-dRE bj5n aS tER .
+rondal47c.cha 4 7 14 a la k2 ty vu-dRE bj5 aS tER .
 rondal47c.cha 4 7 14 # ?
 rondal47c.cha 4 7 14 n§ ?
 rondal47c.cha 4 7 14 o mE § n2 sE pa fER sa @ lE-go .
@@ -46421,7 +46421,7 @@ rondal47d.cha 4 7 22 2 .
 rondal47d.cha 4 7 22 mE m5t-n@ ty la ko-nE .
 rondal47d.cha 4 7 22 e # ?
 rondal47d.cha 4 7 22 o n§ .
-rondal47d.cha 4 7 22 il # bj5n 1 Sa-po bj5 syR .
+rondal47d.cha 4 7 22 il # bj5 1 Sa-po bj5 syR .
 rondal47d.cha 4 7 22 e R°-gaRd .
 rondal47d.cha 4 7 22 k Es k2 ty a @-kOR a-pORt # .
 rondal47d.cha 4 7 22 1 bo kwa ?
@@ -46772,7 +46772,7 @@ rondal47d.cha 4 7 22 s' e k@ mEm tu-ZuR d@-ZR2 .
 rondal47d.cha 4 7 22 # .
 rondal47d.cha 4 7 22 di # 1 p2 vRE-m@ .
 rondal47d.cha 4 7 22 a # .
-rondal47d.cha 4 7 22 ty # bj5n a-le vwaR si t§n o-to n a pa fE 1 ku syR t§ ty-nEl m5t-n@ .
+rondal47d.cha 4 7 22 ty # bj5 a-le vwaR si t§n o-to n a pa fE 1 ku syR t§ ty-nEl m5t-n@ .
 rondal47d.cha 4 7 22 El n a pa # l2 ty-nEl .
 rondal47d.cha 4 7 22 El e # d°-sy .
 rondal47d.cha 4 7 22 n§ i a Rj5 ?
@@ -46941,7 +46941,7 @@ rondal48.cha 4 8 00 s' e fi-ni .
 rondal48.cha 4 8 00 ty a @-kOR vy kElk Soz ?
 rondal48.cha 4 8 00 k Es k2 ty SERS ?
 rondal48.cha 4 8 00 o l2 bo p§ .
-rondal48.cha 4 8 00 ty vu-dRE bj5n 1 p§ kOm sa twa ?
+rondal48.cha 4 8 00 ty vu-dRE bj5 1 p§ kOm sa twa ?
 rondal48.cha 4 8 00 § n a pa vy d2 p§ a s5 # ?
 rondal48.cha 4 8 00 u .
 rondal48.cha 4 8 00 a wi wi Z2 vwa .
@@ -47067,7 +47067,7 @@ rondal48.cha 4 8 00 m§tR mwa .
 rondal48.cha 4 8 00 va vit m§-tRe s2 ki fE mal o pje a t§ su-lje .
 rondal48.cha 4 8 00 sa ?
 rondal48.cha 4 8 00 o n§ sa n2 so-RE pa t2 fER mal o pje .
-rondal48.cha 4 8 00 si ty a-vE mal o pje § l2 vE-RE bj5n a t§ pje .
+rondal48.cha 4 8 00 si ty a-vE mal o pje § l2 vE-RE bj5 a t§ pje .
 rondal48.cha 4 8 00 swa Z@-ti .
 rondal48.cha 4 8 00 mE s' et a p2 pRE le # k2 s2 k2 ty a .
 rondal48.cha 4 8 00 # .

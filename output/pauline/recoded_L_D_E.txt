@@ -770,7 +770,7 @@ paul16b.cha 1 4 20 po .
 paul16b.cha 1 4 20 wi .
 paul16b.cha 1 4 20 po .
 paul16b.cha 1 4 20 sa i e ?
-paul16b.cha 1 4 20 tE bj5 n5s-ta-le ?
+paul16b.cha 1 4 20 tE bj5 5s-ta-le ?
 paul16b.cha 1 4 20 wi ?
 paul16b.cha 1 4 20 a-t@ § va @l-ve l2 ti # .
 paul16b.cha 1 4 20 vwa-la !
@@ -825,7 +825,7 @@ paul16b.cha 1 4 20 Es k2 ty nu fE kElk Soz d@ l2 po ?
 paul16b.cha 1 4 20 kEs k2 ty fE d@ l2 po ?
 paul16b.cha 1 4 20 ty fE kElk Soz d@ l2 po ?
 paul16b.cha 1 4 20 ty @-t@ pa-pa ki Ra-k§t lis-twaR ?
-paul16b.cha 1 4 20 tE bj5 n5s-ta-le ?
+paul16b.cha 1 4 20 tE bj5 5s-ta-le ?
 paul16b.cha 1 4 20 ty tu Sa t§ pje ?
 paul16b.cha 1 4 20 o !
 paul16b.cha 1 4 20 i a Rj5 !
@@ -3011,7 +3011,7 @@ paul22a.cha 1 10 07 paRs k2 la , sa s@-f§s pa .
 paul22a.cha 1 10 07 a , n§ , a n§ !
 paul22a.cha 1 10 07 sa va pa 5 !
 paul22a.cha 1 10 07 vwa-la !
-paul22a.cha 1 10 07 R°-gaRd le bj5 na-v@ d2 le Swa-ziR , po-lin !
+paul22a.cha 1 10 07 R°-gaRd le bj5 a-v@ d2 le Swa-ziR , po-lin !
 paul22a.cha 1 10 07 ty vwa i l@ m@ k1 , la .
 paul22a.cha 1 10 07 sl8i la , pi a-pRE , l°-kEl va la ?
 paul22a.cha 1 10 07 l2 ply gR@ d2 s2 ki REst .
@@ -3509,7 +3509,7 @@ paul22b.cha 1 10 20 a-lOR la ky-lOt !
 paul22b.cha 1 10 20 Op la !
 paul22b.cha 1 10 20 o Z2 la-tRa-pe !
 paul22b.cha 1 10 20 o di d§k !
-paul22b.cha 1 10 20 ty tj5 bj5 n@ ne-ki-libR 5 !
+paul22b.cha 1 10 20 ty tj5 bj5 @ ne-ki-libR 5 !
 paul22b.cha 1 10 20 syR l2 pje goS !
 paul22b.cha 1 10 20 n§ , n§ , n§ , n§ , n§ !
 paul22b.cha 1 10 20 t2 sov pa !
@@ -6309,7 +6309,7 @@ paul27a.cha 2 02 29 a-le , fERm t§ Ro-bi-nE !
 paul27a.cha 2 02 29 fERm !
 paul27a.cha 2 02 29 tj5 !
 paul27a.cha 2 02 29 a !
-paul27a.cha 2 02 29 ty tE pa bj5 ne-s8i-je !
+paul27a.cha 2 02 29 ty tE pa bj5 e-s8i-je !
 paul27a.cha 2 02 29 5 ?
 paul27a.cha 2 02 29 wi , ZE mi dy si-tR§ syR ma sa-lad .
 paul27a.cha 2 02 29 ta pa py m@-Ze lo-R@ Za-lOR sa me-tOn-RE k2 ty p8is m@-Ze l2 si-tR§ .
@@ -7086,7 +7086,7 @@ paul28b.cha 2 04 17 se la pR°-mjER fwa kEl vwa y no-si dRol d2 mE-z§ !
 paul28b.cha 2 04 17 El l8i plE t@ kE lu-bli tu to-si-to le b§ k§-sEj d2 sa ma-m@ .
 paul28b.cha 2 04 17 e kO myn vi-lEn ky-Rj2z , El R°-gaRd paR la f°-nEtR , p8i paR l2 tRu d2 la se-RyR .
 paul28b.cha 2 04 17 n2 vwa-j@ pER-sOn , buk dOR pus la pOR te @tR .
-paul28b.cha 2 04 17 El tRuv bj5 na-pe-ti-s@t la sup d2 Ri o lE ki R°f-Rwa-di syR la tabl .
+paul28b.cha 2 04 17 El tRuv bj5 a-pe-ti-s@t la sup d2 Ri o lE ki R°f-Rwa-di syR la tabl .
 paul28b.cha 2 04 17 twa ty di-zE k2 se-tE d2 la s°-mul ?
 paul28b.cha 2 04 17 n§ , se dy Ri o lE , ki e de-si-ne .
 paul28b.cha 2 04 17 dy Ri o lE .
@@ -7122,7 +7122,7 @@ paul28b.cha 2 04 17 SEz .
 paul28b.cha 2 04 17 e k2 , paRs k2 buk dO Ra m@-Ze sa ?
 paul28b.cha 2 04 17 o !
 paul28b.cha 2 04 17 a-lOR le zuRs m§t d@ l9R S@bR .
-paul28b.cha 2 04 17 @ dOR-m@ , buk dO Ra bj5 n@-t@-dy la gRos vwa dy gR@ tuRs .
+paul28b.cha 2 04 17 @ dOR-m@ , buk dO Ra bj5 @-t@-dy la gRos vwa dy gR@ tuRs .
 paul28b.cha 2 04 17 mE E la p@-se k2 se-tE t1 gR§d-m@ d2 to-nER .
 paul28b.cha 2 04 17 ty @ na @-t@-dy , jER dy to-nER !
 paul28b.cha 2 04 17 a-vEk la p°-tit fij la ba ?
@@ -7617,7 +7617,7 @@ paul29a.cha 2 05 07 ty m@-ZRa de Sips !
 paul29a.cha 2 05 07 wi ?
 paul29a.cha 2 05 07 tEm bj5 le Sips ?
 paul29a.cha 2 05 07 t@ na de-Za m@-Ze , wi .
-paul29a.cha 2 05 07 ta-vE bj5 ne-me ?
+paul29a.cha 2 05 07 ta-vE bj5 e-me ?
 paul29a.cha 2 05 07 k@ # e # e-tE v°-ny ?
 paul29a.cha 2 05 07 ty t@ su-vj5 ?
 paul29a.cha 2 05 07 wi ?
@@ -7773,7 +7773,7 @@ paul29b.cha 2 5 20 vwa-la !
 paul29b.cha 2 5 20 b§ !
 paul29b.cha 2 5 20 pi la fij , la !
 paul29b.cha 2 5 20 a ba !
-paul29b.cha 2 5 20 E le bj5 na-bi-je la fij !
+paul29b.cha 2 5 20 E le bj5 a-bi-je la fij !
 paul29b.cha 2 5 20 la-kEl ?
 paul29b.cha 2 5 20 sEt fij la ?
 paul29b.cha 2 5 20 o n§ !
@@ -7879,8 +7879,8 @@ paul29b.cha 2 5 20 vu za-ve gu-te !
 paul29b.cha 2 5 20 wi .
 paul29b.cha 2 5 20 tj5 !
 paul29b.cha 2 5 20 sa , se le p°-ti pwa .
-paul29b.cha 2 5 20 t , a , ty a bj5 ne-me k@ mEm !
-paul29b.cha 2 5 20 tEm mj2 le ka-RO te le p°-ti pwa mE ty a bj5 ne-me k@ mEm sa , 5 ?
+paul29b.cha 2 5 20 t , a , ty a bj5 e-me k@ mEm !
+paul29b.cha 2 5 20 tEm mj2 le ka-RO te le p°-ti pwa mE ty a bj5 e-me k@ mEm sa , 5 ?
 paul29b.cha 2 5 20 b§ !
 paul29b.cha 2 5 20 se bj5 d2 gu-te a tu .
 paul29b.cha 2 5 20 o , te-kRaz pa te p°-ti pwa po-lin , 5 !

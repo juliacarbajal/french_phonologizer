@@ -356,7 +356,6 @@
 763    comme hier                    kO mjER                       comme hier soir .
 764    t' avais                      ta-vE                        t' avais fait pipi hier soir
 773    t' es                         tE                           t' es bien installée ?
-773    bien installée                bj5 n5s-ta-le                 t' es bien installée ?
 777    t' as                         ta                           non t' as pas fait caca
 778    t' as                         ta                           t' as fait ni caca ni
 779    tout était                    tu te-tE                      tout était parti dans la couche
@@ -382,7 +381,6 @@
 825    qu' est-ce                    kEs                          qu' est-ce que tu fais dans
 827    l' histoire                   lis-twaR                     qui raconte l' histoire ?
 828    t' es                         tE                           t' es bien installée ?
-828    bien installée                bj5 n5s-ta-le                 t' es bien installée ?
 829    touches à                     tu Sa                         tu touches à ton pied ?
 832    c' est                        se                           non , c' est ce qui
 835    t' as                         ta                           t' as mis des pâtes dans
@@ -1566,7 +1564,6 @@
 3005   s' encastrent                 s@-kastR                     pots qui s' encastrent .
 3007   c' est                        se                           c' est le même système ,
 3010   s' enfonce                    s@-f§s                       , ça s' enfonce pas
-3014   bien avant                    bj5 na-v@                     regarde les bien avant de les
 3015   il en                         i l@                          tu vois il en manque un
 3015   manque un                     m@ k1                         il en manque un ,
 3019   c' est                        se                           , ça c' est le
@@ -1846,8 +1843,7 @@
 3504   t' as                         ta                           t' as enlevé la chaussette .
 3506   l' autre                      lotR                         et l' autre ?
 3510   l' attrappe                   la-tRa-pe                    oh je l' attrappe !
-3512   bien en                       bj5 n@n                       tu tiens bien en équilibre hein
-3512   en équilibre                  n@ ne-ki-libR                 tiens bien en équilibre hein
+3512   en équilibre                  @ ne-ki-libR                  tiens bien en équilibre hein
 3519   l' enlever                    l@l-ve                       faut pas l' enlever comme
 3520   d' abord                      da-bOR                       faut d' abord enlever les boutons
 3520   abord enlever                 da-bO R@l-ve                  faut d' abord enlever les boutons
@@ -3392,7 +3388,6 @@
 6306   l' autre                      lot                          une sur l' autre sous
 6306   l' eau                        lo                           autre sous l' eau .
 6312   t' es                         tE                           tu t' es pas bien essuyée
-6312   bien essuyée                  bj5 ne-s8i-je                 es pas bien essuyée !
 6314   j' ai                         ZE                           oui , j' ai mis du
 6315   t' as                         ta                           t' as pas pu manger l'
 6315   l' orange                     lo-R@Z                       pu manger l' orange alors
@@ -3944,7 +3939,6 @@
 7087   comme une                     kO myn                        et comme une vilaine curieuse ,
 7088   d' or                         dOR                          , boucles d' or pousse
 7088   porte et                      pOR te                        pousse la porte et entre
-7089   bien appétissante             bj5 na-pe-ti-s@t              elle trouve bien appétissante la soupe
 7090   c' était                      se-tE                        disais que c' était de
 7091   c' est                        se                           non , c' est du riz
 7093   en as                         @ na                          mais tu en as jamais mangé
@@ -3987,7 +3981,6 @@
 7124   les ours                      le zuRs                       alors les ours montent dans leur
 7125   d' or                         dOR                          , boucles d' or a
 7125   or a                          dO Ra                         boucles d' or a bien
-7125   bien entendu                  bj5 n@-t@-dy                  or a bien entendu la
 7125   grand ours                    gR@ tuRs                      voix du grand ours .
 7126   elle a                        E la                          mais elle a pensé que c'
 7126   c' était                      se-tEt                       pensé que c' était un
@@ -4272,7 +4265,6 @@
 7619   t' en                         t@n                          t' en as déjà mangé ,
 7619   en as                         t@ na                         t' en as déjà mangé ,
 7620   t' avais                      ta-vE                        t' avais bien aimé ?
-7620   bien aimé                     bj5 ne-me                     t' avais bien aimé ?
 7622   t' en                         t@                           tu t' en souviens ?
 7625   t' étais                      te-tE                        t' étais fatiguée !
 7626   t' avait                      ta-vE                        alors anne t' avait couchée ?
@@ -4375,7 +4367,6 @@
 7768   est à                         se ta                         , c' est à claire
 7770   c' est                        se                           bébé vanille c' est pas à
 7776   elle est                      E le                          elle est bien habillée la fille
-7776   bien habillée                 bj5 na-bi-je                  elle est bien habillée la fille
 7781   s' en                         s@                           elle s' en va dans le
 7782   qu' est-ce                    kEs                          qu' est-ce qu' il y a
 7782   qu' il                        kil                          qu' est-ce qu' il y a
@@ -4439,10 +4430,8 @@
 7877   c' est                        se                           bon bah c' est bien !
 7878   vous avez                     vu za-ve                      vous avez goûté !
 7881   c' est                        se                           ça , c' est les petits
-7882   bien aimé                     bj5 ne-me                     tu as bien aimé quand
 7883   t' aimes                      tEm                          t' aimes mieux les carottes et
 7883   carottes et                   ka-RO te                      mieux les carottes et les
-7883   bien aimé                     bj5 ne-me                     tu as bien aimé quand
 7885   c' est                        se                           c' est bien de goûter à
 7886   t' écrases                    te-kRaz                      oh , t' écrases pas tes
 7888   l' assiette                   la-sjEt                      serviette sous l' assiette ,

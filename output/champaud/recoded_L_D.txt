@@ -386,7 +386,7 @@ greg01.cha 1 9 18 t§ pje ?
 greg01.cha 1 9 18 u il e t§ pje ?
 greg01.cha 1 9 18 So-s§ .
 greg01.cha 1 9 18 t§ pje .
-greg01.cha 1 9 18 mE twa bj5n a-si , gRe-gwaR .
+greg01.cha 1 9 18 mE twa bj5 a-si , gRe-gwaR .
 greg01.cha 1 9 18 vwa-la .
 greg01.cha 1 9 18 dOn te p°-ti pje .
 greg01.cha 1 9 18 o il a ply d2 So-s§ , gRe-gwaR .
@@ -780,7 +780,7 @@ greg02.cha 1 9 28 R°-gaRd .
 greg02.cha 1 9 28 va ply lw5 .
 greg02.cha 1 9 28 a .
 greg02.cha 1 9 28 te-le-fOn , §n e pa-se d2 # , a # .
-greg02.cha 1 9 28 Z2 sE pa si sa pa-sRa bj5n a l @R-Zis-tR°-m@ , 5 .
+greg02.cha 1 9 28 Z2 sE pa si sa pa-sRa bj5 a l @R-Zis-tR°-m@ , 5 .
 greg02.cha 1 9 28 sa s' e le fl9R .
 greg02.cha 1 9 28 # , vwa-la !
 greg02.cha 1 9 28 le fl9R .
@@ -1367,7 +1367,7 @@ greg03.cha 1 10 03 mER-vE-j2z .
 greg03.cha 1 10 03 il m' a di te-tin a ma .
 greg03.cha 1 10 03 a b§ .
 greg03.cha 1 10 03 e-kut ty n2 va pa m2 le Ram-ne tut .
-greg03.cha 1 10 03 mE la dER-njER fwa il di-zE de-Za tRE bj5n a pu-pe a p5-p5 .
+greg03.cha 1 10 03 mE la dER-njER fwa il di-zE de-Za tRE bj5 a pu-pe a p5-p5 .
 greg03.cha 1 10 03 k Es k2 ty SERS , tRe-zOR ?
 greg03.cha 1 10 03 s2 ma-t5 il a di o-si 1 tRyk sy-pER e-la-bo-Re .
 greg03.cha 1 10 03 Z' e-tE a-le SER-Se kElk Soz d@ la sal d2 b5 .
@@ -1614,7 +1614,7 @@ greg03.cha 1 10 03 # , s' e l2 S°-val 5 .
 greg03.cha 1 10 03 paR-fE .
 greg03.cha 1 10 03 wi s' et 1 S°-val .
 greg03.cha 1 10 03 sa kwa ?
-greg03.cha 1 10 03 a-lOR sa # , sa pu-RE p2-tEt bj5n Et t§b .
+greg03.cha 1 10 03 a-lOR sa # , sa pu-RE p2-tEt bj5 Et t§b .
 greg03.cha 1 10 03 o .
 greg03.cha 1 10 03 wi wi wi .
 greg03.cha 1 10 03 s' e pa 5-po-sib paRs k2 t§b , il fE yn 5-vER-sj§ , il ak-s@-ty l2 .
@@ -3057,7 +3057,7 @@ greg06.cha 2 1 25 fE a-t@-sj§ a-dRi-j5 puR n2 pa k il t§b .
 greg06.cha 2 1 25 Z2 t2 dOn yn tut p°-tit mjEt mE yn tut p°-tit mjEt .
 greg06.cha 2 1 25 o s' e pa 1 p2 sa !
 greg06.cha 2 1 25 ty Em sa l2 p5 ?
-greg06.cha 2 1 25 Es k2 tut e bj5n a-Re-te d@ la k8i-zin ?
+greg06.cha 2 1 25 Es k2 tut e bj5 a-Re-te d@ la k8i-zin ?
 greg06.cha 2 1 25 Es k2 tut e bj5 kOm il fo ?
 greg06.cha 2 1 25 wi wi sa film .
 greg06.cha 2 1 25 sa film !
@@ -4614,7 +4614,7 @@ greg08.cha 2 5 01 di mwa ki Es ki e syR la fo-to .
 greg08.cha 2 5 01 # sO-fi e p8i ?
 greg08.cha 2 5 01 ki s' e l2 p°-ti gaR-s§ la ?
 greg08.cha 2 5 01 ki s' e l2 p°-ti gaR-s§ ?
-greg08.cha 2 5 01 a s' e twa di d§k ty E dRol-m@ bj5n a-bi-je .
+greg08.cha 2 5 01 a s' e twa di d§k ty E dRol-m@ bj5 a-bi-je .
 greg08.cha 2 5 01 vuz e-tje Zo-li le p°-ti la 5 .
 greg08.cha 2 5 01 u il e t§ p5-p5 ?
 greg08.cha 2 5 01 a-t@ b5 § va k§-ti-n8e d2 R°-gaR-de le fo-to .
@@ -4633,7 +4633,7 @@ greg08.cha 2 5 01 e il fE de bo de-s5 .
 greg08.cha 2 5 01 il fo-dRE p2t Et R°v-niR @n a-RjER a-pRE 5 .
 greg08.cha 2 5 01 d a-kOR .
 greg08.cha 2 5 01 paRs k2 il fo-dRE k il e 1 p2 ply d2 pRo-po sp§-ta-ne .
-greg08.cha 2 5 01 la vu vuz Et bj5n a-my-ze s2 ZuR la 5 .
+greg08.cha 2 5 01 la vu vuz Et bj5 a-my-ze s2 ZuR la 5 .
 greg08.cha 2 5 01 wi .
 greg08.cha 2 5 01 a wi .
 greg08.cha 2 5 01 a wi .
@@ -5846,7 +5846,7 @@ greg10.cha 2 5 27 la ty l2 fE Ek-spRE mEm Z2 kRwa .
 greg10.cha 2 5 27 sa tut a fE il l2 sE sa .
 greg10.cha 2 5 27 o fE Z' E pa di b§-ZuR o REst d2 la mE-z§ mwa .
 greg10.cha 2 5 27 il vj5-dRa t2 vwaR a-pRE .
-greg10.cha 2 5 27 o s' e-tE k§-pli-ke sa Z' E pa bj5n @-t@-dy .
+greg10.cha 2 5 27 o s' e-tE k§-pli-ke sa Z' E pa bj5 @-t@-dy .
 greg10.cha 2 5 27 k Es k2 s' e-tE ?
 greg10.cha 2 5 27 la s@-dal ?
 greg10.cha 2 5 27 u et El la s@-dal ?
@@ -5921,7 +5921,7 @@ greg10.cha 2 5 27 e a-lOR k Es k il f°-zE s2 p°-tit e-le-f@ ?
 greg10.cha 2 5 27 il a te-le-fo-ne ?
 greg10.cha 2 5 27 a b5 s' e dRol-m@ bj5 sa .
 greg10.cha 2 5 27 a-vEk kwa il a te-le-fo-ne ?
-greg10.cha 2 5 27 sa s' e bj5n 1 p°-tit e-le-f@ ki te-le-fOn a-vEk 1 p°-ti te-le-fOn .
+greg10.cha 2 5 27 sa s' e bj5 1 p°-tit e-le-f@ ki te-le-fOn a-vEk 1 p°-ti te-le-fOn .
 greg10.cha 2 5 27 ko-m@ ty a fE ?
 greg10.cha 2 5 27 wi Z2 vE vwaR a-t@ fE mwa vwaR la p°-tit p5s .
 greg10.cha 2 5 27 a n§ il fo pa s2 p5-se paRs k2 sa fE mal o dwa 5 ?

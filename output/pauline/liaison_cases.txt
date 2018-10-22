@@ -51,11 +51,9 @@
 734  grandes oreilles              gR@dz o-REj                   a des grandes oreilles .
 758  ses yeux                      sez j2                        vue avec ses yeux .
 759  on enlève                     §n @-lEv                      on enlève le gilet .
-773  bien installée                bj5n 5s-ta-le                 t' es bien installée ?
 779  tout était                    tut e-tE                      tout était parti dans la couche
 780  est un                        et 1                          que c' est un bébé
 822  vas y                         vaz i                         vas y pousse .
-828  bien installée                bj5n 5s-ta-le                 t' es bien installée ?
 878  est edouard                   et e-dwaR                     où il est edouard ?
 896  tout à                        tut a                         tout à l' heure le jambon
 908  est édouard                   et e-dwaR                     où il est édouard ?
@@ -244,7 +242,6 @@
 2952 en étais                      @n e-tE                       , j' en étais sûre
 2980 vas y                         vaz i                         vas y !
 3003 on avait                      §n a-vE                       lequel qu' on avait fait
-3014 bien avant                    bj5n a-v@                     regarde les bien avant de les
 3023 un autre                      1n otR                        un autre !
 3043 est à                         et a                          mais c' est à nenuco
 3068 est embêtant                  et @-bE-t@                    c' est embêtant ça , hein
@@ -286,7 +283,6 @@
 3420 est à                         et a                          grande soeur est à côté
 3475 est une                       et yn                         c' est une belle histoire ?
 3476 un au                         1n o                          en chercher un au ?
-3512 bien en                       bj5n @                        tu tiens bien en équilibre hein
 3512 en équilibre                  @n e-ki-libR                  tiens bien en équilibre hein
 3542 beaux oiseaux                 boz wa-zo                     oh les beaux oiseaux !
 3546 beaux oiseaux                 boz wa-zo                     , les beaux oiseaux !
@@ -530,7 +526,6 @@
 6272 ton anniversaire              t§n a-ni-vER-sER              pour ton anniversaire .
 6281 est elle                      et El                         c' est elle qui allume l'
 6290 vas y                         vaz i                         vas y !
-6312 bien essuyée                  bj5n e-s8i-je                 es pas bien essuyée !
 6326 ton assiette                  t§n a-sjEt                    un peu ton assiette avant
 6328 vas y                         vaz i                         bah vas y , fais le
 6331 ton assiette                  t§n a-sjEt                    tu sauces ton assiette !
@@ -616,7 +611,6 @@
 7083 trois amis                    tRwaz a-mi                    , les trois amis partent
 7083 les assiettes                 lez a-sjEt                    , dans les assiettes .
 7086 tout aussitôt                 tut o-si-to                   elle oublie tout aussitôt les
-7089 bien appétissante             bj5n a-pe-ti-s@t              elle trouve bien appétissante la soupe
 7093 en as                         @n a                          mais tu en as jamais mangé
 7096 est assis                     et a-si                       un s' est assis sur
 7099 est assis                     et a-si                       un s' est assis sur
@@ -625,7 +619,6 @@
 7104 est assis                     et a-si                       un s' est assis sur
 7105 petit ours                    p°-tit uRs                    crie le petit ours de sa
 7124 les ours                      lez uRs                       alors les ours montent dans leur
-7125 bien entendu                  bj5n @-t@-dy                  or a bien entendu la
 7125 grand ours                    gR@t uRs                      voix du grand ours .
 7126 était un                      e-tEt 1                       que c' était un grondement
 7127 en as                         @n a                          tu en as entendu , hier
@@ -672,7 +665,6 @@
 7607 son école                     s§n e-kOl                     à son école .
 7609 son école                     s§n e-kOl                     mange à son école ,
 7619 en as                         @n a                          t' en as déjà mangé ,
-7620 bien aimé                     bj5n e-me                     t' avais bien aimé ?
 7631 ils avaient                   ilz a-vE                      moment , ils avaient voulu
 7631 ils avaient                   ilz a-vE                      , pi ils avaient .
 7632 ils avaient                   ilz a-vE                      ils avaient mangé de la viande
@@ -687,7 +679,6 @@
 7739 est à                         et a                          c' est à bébé framboise ,
 7757 est à                         et a                          ça c' est à bébé vanille
 7768 est à                         et a                          , c' est à claire
-7776 bien habillée                 bj5n a-bi-je                  elle est bien habillée la fille
 7786 quand on                      k@t §                         quand on mange du jambon ,
 7791 un énorme                     1n e-nORm                     gros , un énorme cochon
 7817 ton assiette                  t§n a-sjEt                    bah donne ton assiette !
@@ -696,8 +687,6 @@
 7835 tout à                        tut a                         en tombant tout à l'
 7862 on a                          §n a                          non , on a déjà vu
 7878 vous avez                     vuz a-ve                      vous avez goûté !
-7882 bien aimé                     bj5n e-me                     tu as bien aimé quand
-7883 bien aimé                     bj5n e-me                     tu as bien aimé quand
 7925 on entends                    §n @-t@                       tiens , on entends le chien
 7926 on entend                     §n @-t@                       on entend le chien ?
 7928 quand on                      k@t §                         l' enlèvera quand on lavera

@@ -171,6 +171,7 @@
 1244 attention à                   fais attention à toi .
 1245 es un                          t(u) es un peu trop au
 1245 trop au                        un peu trop au bord
+1248 bien au                        tu es bien au milieu
 1256 lapin aussi                    bout de lapin aussi ?
 1263 un yaourt                      as mangé un yaourt ?
 1266 pas à                         c' est pas à moi
@@ -233,6 +234,7 @@
 1705 vois il                        tu vois il y a les
 1716 continuer avec                 tu veux continuer avec maman ?
 1721 doit être                     ça doit être juste .
+1729 bien aller                     il peut bien aller ?
 1773 dort avec                      il dort avec son chapeau sur
 1777 alors on                       alors on remet ça dans la
 1797 as une                         t' as une drôle de position
@@ -534,6 +536,7 @@
 3540 gens on                        viennent les gens on peut
 3542 christian et                   peut-être appeler christian et gloria
 3543 christian et                   connais pas christian et gloria
+3544 bien ils                       eh bien ils sont chez eux
 3544 chez eux                       ils sont chez eux .
 3548 seras au                       quand tu seras au lit
 3550 vas où                        tu vas où ?
@@ -708,6 +711,7 @@
 4848 mais y                         oui , mais y en a
 4897 pas aller                      ça va pas aller .
 4903 pas aller                      ça va pas aller là .
+4904 bien ouvrir                    faut bien ouvrir .
 4906 pas enlever                    faut pas enlever les lacets .
 4912 mais oui                       mais oui , allez .
 4926 jambes un                      mets les jambes un peu écartées
@@ -930,6 +934,7 @@
 6181 pas où                        ne sais pas où il
 6196 p(u)is après                  et p(u)is après ?
 6197 p(u)is encore                  p(u)is encore ?
+6205 bien assise                    reste bien assise !
 6208 p(u)is après                  et p(u)is après ?
 6209 moulin il                      le moulin il est là haut
 6232 veux un                        tu veux un jus d' orange

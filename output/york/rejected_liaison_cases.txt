@@ -75,6 +75,7 @@
 386 non une                        non une maison en bois .
 386 maison en                      non une maison en bois .
 388 maison en                      dans la maison en bois
+391 bien à                        se croient bien à l'
 395 met à                         loup se met à souffler
 395 souffler encore                souffler , souffler encore ,
 400 cochons épouvantés           les deux cochons épouvantés s' enfuient
@@ -85,6 +86,7 @@
 430 puis il                        porte et puis il voit
 438 fais attention                 fais attention !
 439 et alors                       et alors , dis !
+450 bien entendu                   j(e) ai bien entendu , il
 454 as un                          , tu as un rhume
 454 maman aussi                    rhume , maman aussi .
 456 pas avec                       n' iras pas avec mamy
@@ -386,8 +388,10 @@
 2057 suis un                        je suis un gros bébé ,
 2058 suis encombrante               je suis encombrante , comme bébé
 2070 non il                         ah non il ne faut pas
+2072 bien entendu                   bien entendu .
 2079 fais attention                 fais attention à mes pieds !
 2079 attention à                   fais attention à mes pieds !
+2082 bien être                     tu voudrais bien être grande ,
 2085 as un                          que tu as un grand
 2092 as écrasé                    tu as écrasé quoi ?
 2095 maman aime                     que ta maman aime tant
@@ -409,6 +413,7 @@
 2184 pas un                         ne joues pas un peu
 2193 très haut                     très haut ?
 2195 très haut                     très très haut ?
+2215 bien assise                    es pas bien assise .
 2216 fais aller                     je te fais aller haut ?
 2216 aller haut                     te fais aller haut ?
 2217 très haut                     très haut ?
@@ -454,6 +459,7 @@
 2409 t il                           s' appelle t il ?
 2413 comment il                     pour voir comment il va
 2438 es une                         mais tu es une chipie
+2439 bien amusant                   c(e) est bien amusant , hein
 2440 faudrait en                    (il) faudrait en prévoir deux ou
 2440 deux ou                        en prévoir deux ou trois
 2443 faisant aller                  en le faisant aller !
@@ -580,6 +586,7 @@
 3290 et alors                       ben et alors !
 3304 envoies un                     tu m' envoies un bisou ?
 3305 envoies un                     tu m' envoies un bisou ?
+3308 bien autoritaire               tu es bien autoritaire .
 3316 dis encore                     mais tu dis encore j(e) ai
 3322 peut aller                     ça peut aller ?
 3332 pas y                          ne peux pas y toucher
@@ -628,6 +635,7 @@
 3581 ben oui                        ben oui c(e) est inquiétant .
 3584 es une                         t(u) es une grande fille ,
 3588 es une                         t(u) es une grande fille .
+3592 bien entendu                   ai pas bien entendu .
 3597 mis un                         tu avais mis un sparadrap ?
 3600 vois on                        tu vois on a dû mettre
 3600 sparadrap à                   mettre un sparadrap à léa
@@ -773,6 +781,7 @@
 4297 essuyer et                     , l' essuyer et puis
 4297 recommencer alors              et puis recommencer alors .
 4299 ben il                         ben il faut l' essuyer ,
+4306 bien expliqué                 l' avais bien expliqué .
 4309 maman en                       si leur maman en prend
 4310 promener alors                 va jamais promener alors ?
 4316 pars en                        tu pars en vacances ?
@@ -844,6 +853,8 @@
 4750 ben oui                        ben oui il faudrait le ramasser
 4754 as une                         tu as une petit poche là
 4760 mais il                        chez moi mais il est
+4770 bien assez                     en as bien assez ,
+4771 bien assez                     en a bien assez .
 4787 tiens à                       que tu tiens à la
 4808 pas envie                      n' a pas envie ,
 4809 divan alors                    sur le divan alors !
@@ -852,6 +863,7 @@
 4824 maintenant elle                maintenant elle se promène , hein
 4827 moulin à                      avec un moulin à poivre
 4829 pas un                         ) est pas un pot
+4836 bien entendu                   ah oui bien entendu .
 4838 vas éternuer                  , tu vas éternuer ,
 4841 vas éternuer                  , tu vas éternuer aussi
 4841 éternuer aussi                tu vas éternuer aussi ,
@@ -964,6 +976,7 @@
 5401 fais un                        fais un peu voir !
 5412 bientôt avoir                 on va bientôt avoir fini
 5421 dis au                         mais dis au revoir , d'
+5422 bien à                        et bien à la caméra ,
 5425 es allée                      tu es allée à l' école
 5426 fait à                        as tu fait à l'
 5432 pas être                      ne devait pas être très
@@ -984,6 +997,7 @@
 5488 comment est-ce                 anniversaire # comment est-ce que
 5496 faut un                        il faut un peu trop froid
 5510 partout alors                  en a partout alors .
+5512 bien arrangés                 on est bien arrangés .
 5530 as eu                          , t(u) as eu du
 5532 bois à                        bois à la bouteille !
 5533 mais enfin                     très poli mais enfin .
@@ -1022,6 +1036,7 @@
 5709 maman aussi                    ta maman aussi .
 5710 mais alors                     mais alors .
 5718 pas encore                     pas encore ?
+5721 bien au                        tu joues bien au ballon .
 5724 aller où                      aller où ?
 5733 pas aujourd'                   pas aujourd' hui , hein .
 5740 rien à                        as justement rien à dire
@@ -1270,6 +1285,7 @@
 6807 et elles                       et elles sont de quelles couleurs
 6816 et il                          et il y a des petits
 6816 dessinés ou                   petits bonshommes dessinés ou quoi
+6822 bien avec                      tu es bien avec madame
 6826 bon à                         fait de bon à l'
 6828 bon à                         fait de bon à ton
 6829 quand est-ce                   et quand est-ce qu' il a
@@ -1292,6 +1308,7 @@
 6886 es une                         t(u) es une coquette toi ,
 6886 hein oui                       toi , hein oui ?
 6893 hein oui                       hein oui ?
+6895 bien avec                      c(e) est bien avec les
 6901 viens avec                     viens avec le papier ici ,
 6901 papier ici                     avec le papier ici ,
 6905 prends un                      prends un scottex .
@@ -1343,6 +1360,7 @@
 7089 hein oui                       ça , hein oui .
 7097 cheveux aussi                  a les cheveux aussi longs
 7116 gâteaux à                    bien les gâteaux à la
+7118 bien ils                       eh bien ils ont de la
 7120 gâteaux aux                   , des gâteaux aux fruits
 7141 jouer avec                     tu veux jouer avec les
 7167 jouer avec                     je vais jouer avec toi
@@ -1973,6 +1991,7 @@
 13343 pas un                         ne ressemble pas un crocodile
 13349 viens ici                      viens ici , max !
 13350 viens ici                      viens ici !
+13363 bien aller                     ça va bien aller avec
 13363 aller avec                     va bien aller avec le
 13371 biscuits au                    des petits biscuits au chocolat
 13372 biscuit au                     un petit biscuit au chocolat .
@@ -3146,6 +3165,7 @@
 21809 restes avec                    , tu restes avec catherine
 21812 fait une                       ou on fait une autre galette
 21814 ouais hein                     ah ouais hein .
+21815 bien installé                 tu es bien installé , max
 21833 peux en                        là tu peux en faire une
 21838 non il                         oh non non il ne faut
 21839 donner à                      faut les donner à catherine
@@ -3708,10 +3728,12 @@
 25804 pas à                         ne ressemble pas à ça
 25807 vert et                        pas le vert et jaune
 25813 ben on                         ben on va le trouver .
+25817 bien écouter                  crocro va bien écouter en plus
 25817 écouter en                    va bien écouter en plus
 25820 après un                      ça va après un autre
 25826 ben attends                    ah ben attends !
 25830 pas après                     ) est pas après l'
+25838 bien eu                        l' as bien eu ,
 25841 peux essayer                   que je peux essayer ,
 25842 pieds à                       oups les pieds à max .
 25847 camions aussi                  autres petits camions aussi ?
@@ -3803,6 +3825,7 @@
 26480 jouer à                       veux tu jouer à autre chose
 26484 ben oui                        ben oui ben si tu lui
 26487 demandes à                    tu lui demandes à catherine
+26488 bien avoir                     j(e) aimerais bien avoir mon
 26491 chercher un                    je vais chercher un petit mouchoir
 26492 jouer à                       on peut jouer à autre chose
 26493 jouer à                       voudrais tu jouer à la pâte
@@ -4007,6 +4030,7 @@
 28002 et ici                         et ici aussi c(e) (n' )
 28014 et ici                         et ici , si on fait
 28014 fait une                       si on fait une tête
+28021 bien un                        c(e) est bien un croco gorille
 28027 sont à                        celles là sont à toi .
 28028 sont à                        celles là sont à anne #
 28028 sont à                        celles là sont à sarah
@@ -4389,6 +4413,7 @@
 30886 décoller après               peut les décoller après .
 30888 accord oui                     ah d' accord oui mais .
 30895 sont un                        oh elles sont un peu
+30899 bien au                        très très bien au milieu
 30907 puis après                    et puis après tu les mets
 30912 mets où                       tu les mets où tu
 30921 fait un                        j(e) en fait un .
@@ -4662,6 +4687,7 @@
 32474 cuisiner un                    peux lui cuisiner un petit
 32479 préparer un                   veux pas préparer un gâteau
 32489 mettait à                     on la mettait à table
+32493 bien à                        est juste bien à sa
 32495 pas envie                      ) a pas envie ?
 32507 donner à                      veux lui donner à manger
 32515 donner encore                  lui en donner encore ,
@@ -4689,6 +4715,7 @@
 32639 puis il                        d' or puis il y
 32640 met en                         qu' on met en place
 32652 ben un                         ben un manège .
+32658 bien aimé                     t(u) as bien aimé , le
 32660 avait une                      il y avait une fois
 32660 fois avec                      avait une fois avec maman
 32660 maman et                       fois avec maman et une
@@ -4806,6 +4833,7 @@
 33255 chocolat et                    par le chocolat et le
 33258 mais alors                     ah mais alors là c(e) est
 33265 sucrier alors                  dans un sucrier alors .
+33272 bien un                        y avait bien un truc
 33277 comment elles                  sinon comment elles pourraient boire le
 33278 alors i(l)                     alors i(l) y a qui ?
 33283 régaler avec                  vont se régaler avec ce
@@ -4858,6 +4886,7 @@
 33449 pas envie                      ) ai pas envie de
 33457 montrer à                     veux pas montrer à sarah
 33458 placards et                    fait des placards et tout
+33471 bien avec                      t' amuses bien avec .
 33479 ouais ouais                    ouais ouais , mais on verra
 33479 mais on                        ouais , mais on verra
 33495 ben oui                        ben oui , peut être sur
@@ -4942,6 +4971,7 @@
 33905 as offert                      amené tu as offert ton
 33924 mais ils                       ah mais ils sont à l'
 33924 sont à                        mais ils sont à l'
+33927 bien accrochés                ils sont bien accrochés ,
 33936 aller où                      habillé pour aller où ?
 33940 jamais été                   ) as jamais été au
 33949 tellement il                   crie , tellement il est
@@ -5145,6 +5175,7 @@
 34817 aller au                       plaît d' aller au zoo
 34818 veux aller                     que tu veux aller au
 34818 aller au                       tu veux aller au zoo
+34819 bien aller                     je veux bien aller au
 34819 aller au                       veux bien aller au zoo
 34820 ben on                         , eh ben on va
 34868 peut aller                     elle peut aller là , aller
@@ -5250,6 +5281,7 @@
 35400 vois un                        tu vois un cadeau ?
 35411 ben ouais                      ben ouais .
 35421 était avant                   , c(e) était avant noël
+35421 bien avant                     noël , bien avant noël
 35424 reçus à                      tu as reçus à noël
 35425 après on                      après on éteint , hein !
 35428 chanter avec                   tu peux chanter avec .
@@ -5280,6 +5312,7 @@
 35529 comment il                     comment il s' appelle ?
 35550 et où                         et où est-ce que tu cours
 35555 ton yaourt                     aller chercher ton yaourt .
+35556 bien encore                    fais de bien encore ?
 35568 et il                          et il pleure souvent ?
 35570 fait encore                    qu' il fait encore ?
 35574 perles oh                      est des perles oh là
@@ -5591,6 +5624,7 @@
 37300 chien à                       est le chien à qui
 37301 chien à                       est le chien à sandrine
 37315 fait un                        on lui fait un repas ?
+37343 bien en                        je veux bien en boire
 37344 un yaourt                      un yaourt .
 37346 ben elle                       ben elle est dedans , hein
 37347 est où                        elle est où , la cuillère
@@ -5704,6 +5738,7 @@
 38135 ben oui                        ah ben oui .
 38144 sinon euh                      faire manger sinon euh .
 38147 dois avoir                     tu dois avoir des gargouillis dans
+38151 bien excitée                  t(u) es bien excitée .
 38154 ben oui                        ah ben oui , mais ça
 38159 sinon on                       sinon on peut le refaire .
 38183 fais un                        je te fais un petit bisou
@@ -5812,6 +5847,7 @@
 38917 vas aller                      bientôt tu vas aller à
 38917 aller à                       tu vas aller à l'
 38921 aller à                       affaires pour aller à l'
+38924 bien avant                     entend parler bien avant d'
 38927 quand est-ce                   oh quand est-ce que tu vas
 38927 vas aller                      que tu vas aller à
 38927 aller à                       tu vas aller à l'
@@ -5843,6 +5879,7 @@
 38997 rien oublier                   ne faut rien oublier .
 38998 aller à                       amener pour aller à l'
 39002 et on                          et on peut même amener sa
+39006 bien aller                     j(e) aimerais bien aller à l'
 39006 aller à                       aimerais bien aller à l'
 39011 pas y                          ne veulent pas y aller
 39013 aller à                       contente d' aller à l'
@@ -5927,6 +5964,7 @@
 39307 tellement on                   en courant tellement on est
 39308 vont à                        copains qui vont à l'
 39313 peut amener                    , on peut amener .
+39317 bien amener                    on peut bien amener une petite
 39317 amener une                     peut bien amener une petite
 39324 comment est-ce                 alors comment est-ce que tu vas
 39326 aller à                       , pour aller à l'
@@ -5968,6 +6006,7 @@
 39420 chien à                       avec son chien à l'
 39422 trop eh                        ça fait trop eh .
 39423 imagines en                    tu t' imagines en plus si
+39434 bien à                        on rigole bien à l'
 39436 ben il                         ben il a vu le lapin
 39438 maintenant il                  alors maintenant il (n' ) a
 39439 avait un                       qu' il avait un peu
@@ -6064,6 +6103,7 @@
 39929 et il                          et il fait quoi , le
 39930 dirait une                     on dirait une folle .
 39932 comment il                     comment il fait ?
+39936 bien étranglée               m' as bien étranglée là
 39941 fait une                       qu' il fait une fois
 39943 doit avoir                     il doit avoir un gros gros
 39944 pas au                         m(e) étrangles pas au cou
@@ -6552,7 +6592,9 @@
 42089 as envie                       que tu as envie aussi
 42093 alors et                       alors et maintenant c(e) est l'
 42096 vois un                        , je vois un petit
+42115 bien un                        je veux bien un petit
 42122 pas assez                      ) as pas assez de
+42134 bien être                     peut très bien être son
 42139 manger où                     tu veux manger où , rémi
 42146 alors et                       alors et toi , anne ,
 42146 manges avec                    , tu manges avec le
@@ -6651,6 +6693,7 @@
 42559 t il                           , demande t il à
 42566 cherchent à                   les agents cherchent à contenir l'
 42573 pompiers arrivent              alors les pompiers arrivent .
+42575 bien attention                 , faites bien attention !
 42576 cochon est                     ce cochon est le meilleur du
 42577 cochon adoré                  est notre cochon adoré .
 42579 travaillent avec               les pompiers travaillent avec précaution .
