@@ -138,6 +138,7 @@
 685 comment elle                   comment elle fait la voiture adrien
 688 donnes à                      tu la donnes à papa ?
 689 donnes à                      tu la donnes à papa ?
+693 fait il                        en fait il l' avait dans
 694 mais il                        sa voiture mais il a
 707 dessus adrien                  la remettre dessus adrien !
 708 fait adrien                    t' as fait adrien ?
@@ -320,7 +321,9 @@
 1079 ouais ouais                    ouais ouais .
 1084 vin ouvert                     as du vin ouvert je
 1089 mais il                        de bouteille mais il paraît
+1089 paraît elle                   mais il paraît elle est
 1089 est un                         paraît elle est un peu
+1097 est on                         ça y est on a
 1097 tiens est-ce                   avocat , tiens est-ce que
 1098 essuyer un                     juste essuyer un peu la bouche
 1104 mets à                        mon chéri mets à la
@@ -333,6 +336,7 @@
 1123 fort il                        c' est fort il faut
 1133 maman oui                      maman oui !
 1139 as assez                       biberon t' as assez bu
+1144 chaud attention                c' est chaud attention !
 1146 est un                         que c' est un volant
 1151 est un                         que c' est un volant
 1154 maman elle                     ah maman elle a taché ?

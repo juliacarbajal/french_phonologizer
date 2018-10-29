@@ -631,7 +631,6 @@
 903    pour aller                    pu Ra-le                      une bouée pour aller à l'
 903    l' eau                        lo                           aller à l' eau .
 904    c' est                        se                           c' est un hérisson .
-905    les hérissons                 le ze-Ri-s§                   ça pique les hérissons !
 906    c' est                        se                           ça c' est une poule .
 907    poule et                      pu le                         , la poule et les
 910    c' est                        se                           et ça c' est le canard
@@ -786,8 +785,7 @@
 1130   c' est                        se                           ça c' est quoi ça .
 1138   l' oiseau                     lwa-zo                       bec de l' oiseau .
 1140   t(u) as                       ta                           t(u) as dit que c' était
-1140   c' était                      se-tEt                       dit que c' était un
-1140   était un                      se-tE t1                      que c' était un .
+1140   c' était                      se-tE                        dit que c' était un
 1141   c' est                        se                           non c' est pas un canard
 1141   c' est                        se                           canard , c' est un
 1148   c' est                        se                           bah oui c' est dans l'
@@ -975,8 +973,6 @@
 1380   il a                          ki la                         est-ce qu' il a dans
 1381   c' est                        se                           ça c' est quoi ?
 1382   c' est                        se                           c' est un , os .
-1383   deux os                       d2 zOs                        deux os , deux os .
-1383   deux os                       d2 zOs                        os , deux os .
 1384   il a                          i la                          tu vois il a fait
 1385   il a                          i la                          il a fait un trou le
 1385   l' os                         lOs                          va mettre l' os dedans
@@ -1078,7 +1074,7 @@
 1461   l(e) bout                     lbu                          a mangé l(e) bout là
 1462   qu' est                       ke                           bah qu' est ce tu fais
 1463   t' en                         t@                           t' en fais plusieurs en même
-1463   plusieurs en                  ply-zj9 R@                    en fais plusieurs en même
+1463   plusieurs en                  ply-zj9R z@                   en fais plusieurs en même
 1464   j(e) croyais                  SkRwa-jE                     Camille j(e) croyais qu' on faisait
 1464   qu' on                        k§                           j(e) croyais qu' on faisait
 1464   l(e) lapin                    lla-p5                       on faisait l(e) lapin moi
@@ -1317,8 +1313,7 @@
 1738   qu' est-ce                    kEs                          alors qu' est-ce qu' e(lle) fait
 1738   qu' e(lle)                    k#                           qu' est-ce qu' e(lle) fait
 1740   c' est                        se                           c' est quoi le cocon ?
-1741   c' est                        set                          ouais , c' est elle
-1741   est elle                      se tEl                        , c' est elle qui
+1741   c' est                        se                           ouais , c' est elle
 1742   qu' est-ce                    kEs                          la fin qu' est-ce qu'
 1742   qu' i(l)                      ki                           qu' est-ce qu' i(l) se
 1743   il est                        i le                          il est beau le papillon ?
@@ -1911,8 +1906,7 @@
 2562   l(e) mett(r)e                 lmEt                         faut l(e) mett(r)e dans son lit
 2564   il est                        i le                          il est où le lit ?
 2567   d(e) la                       dla                          le toit d(e) la maison
-2568   est il                        e til                         ça y est il est au
-2568   il est                        ti le                         y est il est au
+2568   il est                        i le                          y est il est au
 2569   c' est                        se                           c' est un petit .
 2570   c' est                        se                           c' est un tout petit ,
 2570   c' est                        se                           petit , c' est un
@@ -2285,8 +2279,7 @@
 3099   il a                          i la                          oui là il a fermé son
 3099   il ouvre                      i luv                         et là il ouvre son
 3099   qu' il                        kil                          parapluie parce qu' il pleut
-3100   pleut on                      pl2 t§n                       quand i(l) pleut on ouvre son
-3100   on ouvre                      t§ nuv                        i(l) pleut on ouvre son
+3100   on ouvre                      § nuv                         i(l) pleut on ouvre son
 3102   un oiseau                     1 nwa-zo                      y a un oiseau dehors
 3102   dehors ouais                  d°-O RwE                      un oiseau dehors ouais .
 3103   il a                          i la                          il a froid .

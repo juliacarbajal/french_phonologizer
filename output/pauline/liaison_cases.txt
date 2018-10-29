@@ -73,7 +73,6 @@
 1454 les abricots                  lez a-bRi-ko                  aimes pas les abricots ?
 1470 petit ours                    p°-tit uRs                    petit ours brun s' habille .
 1471 petit ours                    p°-tit uRs                    petit ours brun enlève son pyjama
-1471 brun enlève                   bR1n @-lEv                    petit ours brun enlève son pyjama
 1477 tout à                        tut a                         tu montrais tout à l' heure
 1483 petit ours                    p°-tit uRs                    faut , petit ours brun
 1502 tout habillé                  tut a-bi-je                   le voilà tout habillé .
@@ -92,10 +91,8 @@
 1539 on est                        §n e                          on est dans l' eau quand
 1539 quand on                      k@t §                         l' eau quand on prend
 1565 quand on                      k@t §                         comme ça quand on dort
-1565 dort on                       dORt §                        quand on dort on ferme
 1565 les yeux                      lez j2                        on ferme les yeux .
 1567 ses yeux                      sez j2                        il ferme ses yeux ce bébé
-1570 dort il                       dORt il                       il dort il dort le chat
 1591 on en                         §n @                          donc on en était .
 1591 en était                      @n e-tE                       donc on en était .
 1597 en aperçoive                  @n a-pER-swav                 on s' en aperçoive ils
@@ -116,11 +113,9 @@
 1845 les oreilles                  lez o-REj                     je nettoie les oreilles .
 1847 on entend                     §n @-t@                       on entend claire .
 1863 on a                          §n a                          et puis on a les cheveux
-1865 mouillés encore               mu-jez @-kOR                  un peu mouillés encore hein .
 1873 vous avez                     vuz a-ve                      vous avez trop d' z' enfants
 1900 tout à                        tut a                         le magnéto tout à l'
 1909 quand on                      k@t §                         quand on va trouver le bébé
-1913 était une                     e-tEt yn                      dis c' était une grosse
 1928 on enlève                     §n @-lEv                      on enlève juste le pyjama .
 1982 en est                        @n e                          tu t' en est servie l'
 2025 en as                         @n a                          tu en as pas mangé depuis
@@ -153,7 +148,6 @@
 2330 son assiette                  s§n a-sjEt                    on lèche son assiette quand
 2357 vas y                         vaz i                         vas y !
 2395 ses yeux                      sez j2                        fais à ses yeux ?
-2430 est il                        et il                         ça y est il a fini
 2446 en as                         @n a                          tu en as dans ton assiette
 2446 ton assiette                  t§n a-sjEt                    as dans ton assiette .
 2448 ils y                         ilz i                         ils y sont !
@@ -161,6 +155,7 @@
 2482 en as                         @n a                          tu en as de bonnes ,
 2487 on enlève                     §n @-lEv                      on enlève .
 2505 en a                          @n a                          il y en a plusieurs
+2505 plusieurs en                  ply-zj9Rz @                   en a plusieurs en route
 2512 vas y                         vaz i                         vas y !
 2515 on a                          §n a                          est qu' on a du
 2540 des enfants                   dez @-f@                      des enfants .
@@ -206,7 +201,6 @@
 3195 on a                          §n a                          ce qu' on a fait
 3248 en a                          @n a                          il y en a un pour
 3254 vous y                        vuz i                         oui , vous y allez
-3293 vingt heures                  v5t 9R                        vingt heures zéro cinq .
 3304 on y                          §n i                          allez , on y va .
 3308 on a                          §n a                          on a mis le sac à
 3329 vas y                         vaz i                         vas y !
@@ -252,7 +246,6 @@
 3890 en a                          @n a                          il y en a un
 3911 vous avez                     vuz a-ve                      avez , vous avez bien
 3919 bonnes idées                  bOnz i-de                     toujours des bonnes idées ,
-3928 est on                        et §                          ça y est on a
 3928 on a                          §n a                          y est on a les
 3934 petit échange                 p°-tit e-S@Z                  faire un petit échange ,
 4029 en attendant                  @n a-t@-d@                    un peu en attendant !
@@ -272,7 +265,6 @@
 4181 plus en                       plyz @                        il sera plus en sécurité
 4188 vas y                         vaz i                         vas y !
 4209 en a                          @n a                          y en a plus ?
-4220 deux épaules                  d2z e-pol                     deux épaules , le petit bouton
 4243 prends en                     pR@z @                        prends en un !
 4334 en a                          @n a                          y en a peut-être une autre
 4335 en a                          @n a                          si y en a une
@@ -364,7 +356,6 @@
 5589 ils ont                       ilz §                         , qu' ils ont .
 5596 vas y                         vaz i                         vas y !
 5602 elles étaient                 Elz e-tE                      elles étaient plus grosses , tu
-5642 est il                        et il                         ça y est il ressort
 5653 en as                         @n a                          mais t' en as bien mis
 5662 vas y                         vaz i                         vas y cherche !
 5676 en a                          @n a                          il y en a un
@@ -377,7 +368,6 @@
 5747 peut être                     p2t EtR                       je vais peut être couper
 5755 gros yeux                     gRoz j2                       faire les gros yeux !
 5779 quand il                      k@t il                        comme gilet quand il aura
-5779 deux ans                      d2z @                         il aura deux ans !
 5780 quand il                      k@t il                        quand il aura dix huit mois
 5780 plus exactement               plyz Eg-zak-t°-m@             huit mois plus exactement !
 5821 on a                          §n a                          heureusement qu' on a de la
@@ -390,14 +380,12 @@
 5870 on a                          §n a                          et bah on a une
 5922 en enlèves                    @n @-lEv                      t' en enlèves une , t'
 5922 en enlève                     @n @-lEv                      , t' en enlève une
-5928 deux encore                   d2z @-kOR                     veux bien deux encore .
 5932 en ai                         @n E                          , j' en ai trois
 5933 en ai                         @n E                          j' en ai besoin de deux
 5942 tout à                        tut a                         est pas tout à fait
 5943 les autres                    lez otR                       forme que les autres .
 5949 quand on                      k@t §                         fait mal quand on se
 5949 les épingles                  lez e-p5gl                    pince avec les épingles à
-5951 deux épingles                 d2z e-p5gl                    me donnes deux épingles s'
 5967 des épingles                  dez e-p5gl                    donner encore des épingles à
 6013 on a                          §n a                          pourquoi on a faim ?
 6014 on a                          §n a                          parce qu' on a besoin de
@@ -418,7 +406,6 @@
 6223 tout à                        tut a                         tout à fait !
 6240 un objet                      1n Ob-ZE                      quand même un objet ,
 6272 ton anniversaire              t§n a-ni-vER-sER              pour ton anniversaire .
-6281 est elle                      et El                         c' est elle qui allume l'
 6290 vas y                         vaz i                         vas y !
 6326 ton assiette                  t§n a-sjEt                    un peu ton assiette avant
 6328 vas y                         vaz i                         bah vas y , fais le
@@ -438,13 +425,10 @@
 6601 vont ils                      v§t il                        où vont ils donc si pressés
 6610 bon anniversaire              bOn a-ni-vER-sER              a dit bon anniversaire !
 6616 bon anniversaire              bOn a-ni-vER-sER              de partout bon anniversaire ,
-6617 joyeux anniversaire           Zwa-j2z a-ni-vER-sER          joyeux anniversaire !
 6618 ses amis                      sez a-mi                      donc pourquoi ses amis n'
 6624 on appelle                    §n a-pEl                      puis comment on appelle ça
 6628 autres amis                   otRz a-mi                     et d' autres amis aussi
 6638 très heureux                  tREz 2-R2                     un très très heureux anniversaire
-6638 heureux anniversaire          2-R2z a-ni-vER-sER            très très heureux anniversaire pour
-6656 deux ans                      d2z @                         deux ans !
 6660 en ai                         @n E                          moi j' en ai comme ça
 6675 tout à                        tut a                         pas tout à l' heure ,
 6678 on ira                        §n i-Ra                       on ira le voir à la
@@ -460,15 +444,12 @@
 6745 tout à                        tut a                         à fait tout à fait
 6795 on a                          §n a                          parce qu' on a vu
 6795 un oiseau                     1n wa-zo                      euh , un oiseau l'
-6799 était un                      e-tEt 1                       c' était un corbeau .
 6804 en a                          @n a                          il y en a un de
 6807 en a                          @n a                          y en a un de tombé
 6808 tout à                        tut a                         le ramasseras tout à l'
 6817 en as                         @n a                          t' en as pas besoin de
 6849 en a                          @n a                          y en a beaucoup !
 6885 ton ananas                    t§n a-na-na                   auras fini ton ananas .
-6899 était un                      e-tEt 1                       c' était un petit morceau qui
-6899 était un                      e-tEt 1                       que c' était un nerf
 6923 quand elle                    k@t El                        pi quand elle a commencé à
 6948 quand elle                    k@t El                        quand elle saura , elle le
 6975 quand on                      k@t §                         dérange pas quand on parle
@@ -483,11 +464,8 @@
 7032 on explique                   §n Ek-splik                   est quand on explique que
 7033 petit ours                    p°-tit uRs                    le petit ours a une petite
 7034 grand ours                    gR@t uRs                      et le grand ours a
-7059 trois ours                    tRwaz uRs                     les trois ours .
 7063 était une                     e-tEt yn                      il était une fois trois lou
-7063 trois ours                    tRwaz uRs                     lou , trois ours qui
 7063 dans une                      d@z yn                        habitaient ensemble dans une jolie
-7064 premier est                   pR°-mjeR e                    le premier est un tout petit
 7064 petit ours                    p°-tit uRs                    un tout petit ours .
 7065 un ours                       1n uRs                        deuxième est un ours moyen
 7065 grand ours                    gR@t uRs                      grand , grand ours .
@@ -496,7 +474,6 @@
 7073 grand ours                    gR@t uRs                      grand , grand ours ,
 7077 petit ours                    p°-tit uRs                    le petit ours a une petite
 7078 grand ours                    gR@t uRs                      grand , grand ours ,
-7083 trois amis                    tRwaz a-mi                    , les trois amis partent
 7083 les assiettes                 lez a-sjEt                    , dans les assiettes .
 7086 tout aussitôt                 tut o-si-to                   elle oublie tout aussitôt les
 7093 en as                         @n a                          mais tu en as jamais mangé
@@ -504,7 +481,6 @@
 7105 petit ours                    p°-tit uRs                    crie le petit ours de sa
 7124 les ours                      lez uRs                       alors les ours montent dans leur
 7125 grand ours                    gR@t uRs                      voix du grand ours .
-7126 était un                      e-tEt 1                       que c' était un grondement
 7127 en as                         @n a                          tu en as entendu , hier
 7129 quand on                      k@t §                         mais toi quand on était
 7129 on était                      §n e-tE                       toi quand on était chez
@@ -592,8 +568,6 @@
 8310 les hamsters                  lez am-stER                   ça mange les hamsters ?
 8336 ses oreilles                  sez o-REj                     regarde ses oreilles .
 8358 ton avis                      t§n a-vi                      à ton avis , qu' est-ce
-8360 peut être                     p2t EtR                       que ça peut être ?
-8362 peut être                     p2t EtR                       que ça peut être ,
 8369 un oiseau                     1n wa-zo                      non , un oiseau qui s'
 8397 les as                        lez a                         puisque tu les as regardées ,
 8404 en a                          @n a                          t' en a marre ?

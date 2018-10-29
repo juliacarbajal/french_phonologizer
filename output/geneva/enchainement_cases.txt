@@ -847,11 +847,9 @@
 1842   t(e) l'                       tl                           papa qui t(e) l' a
 1842   l' a                          tla                          qui t(e) l' a chantée
 1844   c' est                        se                           oui ça c' est en bateau
-1852   il était                      i le-tEt                      il était une bergère héron héron
-1852   était une                     le-tE tyn                     il était une bergère héron héron
+1852   il était                      i le-tE                       il était une bergère héron héron
 1852   bergère héron                 bER-ZE Re-R§                  était une bergère héron héron
-1853   il était                      i le-tEt                      il était une bergère qui gardait
-1853   était une                     le-tE tyn                     il était une bergère qui gardait
+1853   il était                      i le-tE                       il était une bergère qui gardait
 1860   c' est                        se                           ça c' est gentil Jean .
 1861   s' en                         s@                           gentil Jean s' en vient d(e)
 1861   d(e) la                       dla                          en vient d(e) la ville
@@ -901,7 +899,6 @@
 1935   c' est                        se                           c' est l' heure d' aller
 1935   l' heure                      l9R                          c' est l' heure d' aller
 1935   d' aller                      da-le                        l' heure d' aller dormir
-1936   brun attrape                  bR1 na-tRap                   petit lièvre brun attrape les longues
 1936   longues oreilles              l§g zo-REj                    attrape les longues oreilles de
 1938   l' écoute                     le-kut                       lièvre brun l' écoute vraiment
 1939   c(e) qu'                      sk                           tu sais c(e) qu' il
@@ -2348,7 +2345,7 @@
 5029   un autre                      dR1 not                       veux prendre un autre livre
 5030   n' est                        ne                           il n' est pas cassé le
 5033   on a                          § na                          sais , on a toutes
-5033   toutes ouvert                 tu tu-vER                     on a toutes ouvert les
+5033   toutes ouvert                 tut zu-vER                    on a toutes ouvert les
 5033   qu' on                        k§                           les portes qu' on pouvait
 5033   jusqu' à                      Zys ka                        pouvait ouvrir jusqu' à aujourd'hui
 5036   chaussettes et                So-sE te                      prendre les chaussettes et les
@@ -2686,7 +2683,6 @@
 5730   une orange                    y no-R@Z                      c' est une orange .
 5739   en a                          @ na                          y en a encore un ou
 5739   encore un                     @-kO R1                       en a encore un ou
-5742   bas y                         ba zi                         là bas y a la citrouille
 5743   j' ai                         ZE                           miam miam j' ai faim .
 5747   m' aider                      me-de                        tu veux m' aider ?
 5752   t' aide                       tEd                          que je t' aide ?
@@ -2891,7 +2887,6 @@
 6069   tour elle                     tu REl                        que la tour elle soit
 6070   il en                         i l@                          il en , il en reste
 6070   il en                         i l@                          en , il en reste
-6070   deux encore                   d2 z@-kOR                     en reste deux encore hm
 6072   t' en                         t@                           tu t' en vas ?
 6075   c' est                        se                           ben , c' est le
 6081   il est                        i le                          il est là ?
@@ -2981,7 +2976,6 @@
 6228   elle a                        kE la                         vrai qu' elle a l'
 6228   l' air                        lER                          elle a l' air un
 6228   air un                        lE R1                         a l' air un petit
-6228   mauvais état                  mo-vE ze-ta                   peu en mauvais état .
 6231   c' est                        se                           c' est ça que tu veux
 6232   d' orange                     do-R@Z                       un jus d' orange frais
 6233   une orange                    y no-R@Z                      une orange pressée tu veux dire

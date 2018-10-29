@@ -171,6 +171,7 @@
 1456 fruits entiers                 est les fruits entiers ?
 1463 étais en                      et tu étais en train
 1466 raconter une                   tu veux raconter une histoire ?
+1471 brun enlève                   petit ours brun enlève son pyjama
 1495 mis à                         il a mis à ses
 1499 mais il                        mais il s' est trompé de
 1501 pas encore                     tu sais pas encore , toi
@@ -190,9 +191,11 @@
 1557 quand edouard                  tu disais quand edouard jouait
 1557 jouait avec                    quand edouard jouait avec tu
 1560 moques hein                    t' en moques hein .
+1565 dort on                        quand on dort on ferme
 1567 dort en                        là qui dort en bas
 1567 bas à                         dort en bas à droite
 1568 chanson avant                  chante une chanson avant de
+1570 dort il                        il dort il dort le chat
 1576 biberon à                     ton biberon à toi il est
 1576 est où                        toi il est où ?
 1579 montres où                    tu me montres où il est
@@ -227,12 +230,14 @@
 1840 cheveux aussi                  brosse les cheveux aussi .
 1857 hein elle                      petit micro hein elle a
 1863 puis on                        et puis on a les cheveux
+1865 mouillés encore               un peu mouillés encore hein .
 1871 dos aussi                      sac à dos aussi .
 1877 lit à                         le petit lit à roulettes
 1884 passer avec                    tu veux passer avec la chaise
 1887 as installé                   t' as installé le petit bébé
 1899 montrer à                     tu vas montrer à maman où
 1899 maman où                      montrer à maman où tu
+1913 était une                     dis c' était une grosse
 1921 demander à                    pensé à demander à maman
 1921 maman avant                    demander à maman avant .
 1923 demander avant                 oui fallait demander avant que
@@ -313,6 +318,7 @@
 2407 veux un                        tu veux un des petits pots
 2415 est un                         mais c' est un vrai
 2419 pas à                         lui donnes pas à boire
+2430 est il                         ça y est il a fini
 2439 poisson hein                   cuire le poisson hein ?
 2451 disais encore                  que tu disais encore !
 2459 verts hein                     des haricots verts hein !
@@ -324,7 +330,6 @@
 2485 remet une                      qu' on remet une salopette
 2496 pas envie                      j' ai pas envie de laver
 2497 pas encore                     , mais pas encore !
-2505 plusieurs en                   en a plusieurs en route
 2526 et elle                        et elle est dans quoi la
 2570 vois il                        tu vois il pédale pas .
 2577 est où                        il est où babar ?
@@ -424,6 +429,7 @@
 3281 calin à                       un calin à maman !
 3284 mais il                        oui mais il faut que tu
 3287 donner une                     vais te donner une feuille
+3293 vingt heures                   vingt heures zéro cinq .
 3319 maman et                       de sa maman et de
 3322 main et                        montre sa main et elle
 3322 et elle                        sa main et elle fait
@@ -520,6 +526,7 @@
 3913 alors il                       alors il retourne conduire le train
 3918 met un                         qu' on met un ficelle
 3922 disais à                      que tu disais à sylvie
+3928 est on                         ça y est on a
 3937 maman x                        cou de maman x !
 3938 non on                         non on va l' accrocher là
 3963 maman est                      parce que maman est pas là
@@ -553,6 +560,7 @@
 4200 fais un                        tu lui fais un petit baiser
 4203 as enlevé                     tu l' as enlevé .
 4215 viens enlever                  viens enlever ton tee shirt !
+4220 deux épaules                  deux épaules , le petit bouton
 4243 en un                          prends en un !
 4244 non un                         non un !
 4255 est une                        , c' est une poche
@@ -742,6 +750,7 @@
 5619 est avec                       c' est avec le bout plus
 5628 rit un                         la mère rit un peu .
 5636 mettras autour                 tu le mettras autour de
+5642 est il                         ça y est il ressort
 5649 enfin isabelle                 enfin isabelle !
 5653 mis une                        as bien mis une ,
 5661 cherches une                   tu cherches une rose encore ,
@@ -753,6 +762,7 @@
 5737 sessions où                   ou trois sessions où on
 5753 est à                         c' est à sylvie ça .
 5769 fais attention                 fais attention !
+5779 deux ans                       il aura deux ans !
 5813 pas un                         pas un chausson par terre ?
 5815 pas un                         t' es pas un peu têtue
 5820 durer un                       de faire durer un peu
@@ -769,10 +779,12 @@
 5898 avait été                    et nounours avait été mouillé .
 5912 pas attraper                   tu peux pas attraper ?
 5922 enlèves une                   t' en enlèves une , t'
+5928 deux encore                    veux bien deux encore .
 5943 mais elle                      aussi , mais elle ,
 5945 fais attention                 fais attention , tu vas casser
 5945 casser ou                      tu vas casser ou bien
 5949 épingles à                   avec les épingles à linge
+5951 deux épingles                 me donnes deux épingles s'
 5955 attends un                     attends un petit peu .
 5958 est à                         c' est à qui ça ?
 5962 pas à                         c' est pas à pauline ?
@@ -800,8 +812,10 @@
 6067 alors attends                  bon alors attends !
 6082 as un                          t' as un pied de micro
 6086 jamais y                       on va jamais y arriver
+6090 fait elle                      en fait elle met du vingt
 6090 vingt et                       met du vingt et un
 6090 et un                          du vingt et un mais
+6092 fait il                        en fait il lui aurait fallu
 6092 vingt et                       fallu du vingt et un
 6092 et un                          du vingt et un *
 6097 cours un                       pi tu cours un peu
@@ -837,6 +851,7 @@
 6245 chanson à                     , une chanson à toi
 6258 cherches ou                    que tu cherches ou le
 6278 castagnettes avec              faire des castagnettes avec ta
+6281 est elle                       c' est elle qui allume l'
 6298 mains aussi                    dessus de mains aussi ,
 6303 frottes aussi                  tu frottes aussi en , en
 6312 bien essuyée                  es pas bien essuyée !
@@ -875,15 +890,18 @@
 6599 alors on                       alors on va lire , on
 6600 est étrange                   comme c' est étrange , pense
 6613 chez elle                      elle rentre chez elle ?
+6617 joyeux anniversaire            joyeux anniversaire !
 6619 pas un                         c' est pas un nounours
 6624 comment on                     et puis comment on appelle ça
 6625 un hé                         un hé ?
 6628 amis aussi                     d' autres amis aussi .
 6633 sont où                       elles sont où les framboises ?
 6638 est un                         , c' est un très
+6638 heureux anniversaire           très très heureux anniversaire pour
 6640 aurait aussi                   , y aurait aussi un
 6651 as huit                        t' as huit ans !
 6654 pas hein                       on dirait pas hein !
+6656 deux ans                       deux ans !
 6666 moins euh                      moins euh !
 6667 moins une                      moins une semaine !
 6674 les ah                         ça , les ah reuh
@@ -902,6 +920,7 @@
 6754 dirait un                      qu' on dirait un soleil
 6756 pas à                         t' arrives pas à quoi ?
 6781 dirait un                      on dirait un bateau ?
+6799 était un                      c' était un corbeau .
 6810 as une                         t' as une drôle de façon
 6819 crayons une                    remets les crayons une fois
 6859 manger aujourd'hui             vas vite manger aujourd'hui avec
@@ -909,6 +928,8 @@
 6879 lit à                         le grand lit à , à
 6880 en haut                        va dormir en haut ?
 6881 en haut                        va dormir en haut !
+6899 était un                      c' était un petit morceau qui
+6899 était un                      que c' était un nerf
 6926 pas à                         elle arrive pas à s'
 6929 alors elle                     alors elle répète .
 6935 répéter anticonstitutionnellement lui faire répéter anticonstitutionnellement aussi
@@ -930,8 +951,11 @@
 7026 fait un                        elle fait un peu une grosse
 7034 moyen ours                     le moyen ours a une moyenne
 7039 jouer avec                     tu veux jouer avec ça ?
+7059 trois ours                     les trois ours .
+7063 trois ours                     lou , trois ours qui
 7063 habitaient ensemble            ours qui habitaient ensemble dans
 7063 maison au                      jolie petite maison au milieu
+7064 premier est                    le premier est un tout petit
 7064 est un                         le premier est un tout petit
 7065 est un                         le deuxième est un ours moyen
 7065 moyen et                       un ours moyen et le
@@ -942,6 +966,7 @@
 7079 eux a                          chacun d' eux a un lit
 7082 lit et                         un moyen lit et un
 7082 et un                          moyen lit et un tout
+7083 trois amis                     , les trois amis partent
 7085 voit une                       qu' elle voit une aussi
 7088 et entre                       la porte et entre .
 7089 bien appétissante             elle trouve bien appétissante la soupe
@@ -955,6 +980,7 @@
 7104 et il                          chaise , et il a
 7125 bien entendu                   or a bien entendu la
 7126 mais elle                      mais elle a pensé que c'
+7126 était un                      que c' était un grondement
 7127 as entendu                     tu en as entendu , hier
 7130 fait écouter                  t' as fait écouter ,
 7133 et elle                        et elle se sauve bien vite
@@ -1164,6 +1190,8 @@
 8326 est à                         c' est à moi .
 8335 pas une                        c' est pas une vache
 8357 et alors                       et alors , qu' est-ce qu'
+8360 peut être                     que ça peut être ?
+8362 peut être                     que ça peut être ,
 8366 est un                         , c' est un mouton
 8366 mouton avec                    est un mouton avec de
 8367 mouton et                      un mouton et puis là ?

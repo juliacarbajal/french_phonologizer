@@ -320,8 +320,7 @@
 277    m' appelles                   ma-pEl                       moi je m' appelles Christian .
 278    t' appelles                   ta-pEl                       toi tu t' appelles Grégoire .
 281    vous avez                     vu za-ve                      titite , vous avez vu ,
-281    c' était                      se-tEt                       vu , c' était un
-281    était un                      se-tE t1                      , c' était un deux
+281    c' était                      se-tE                        vu , c' était un
 285    elle est                      E le                          elle est tombée !
 286    c' est                        se                           oui c' est moi qui l'
 286    l' ai                         lE                           moi qui l' ai fait
@@ -454,7 +453,6 @@
 459    m' agace                      ma-gas                       il m' agace ce môme parce
 459    qu' il                        kil                          môme parce qu' il a
 459    il a                          ki la                         parce qu' il a bientôt
-459    deux ans                      d2 z@                         a bientôt deux ans il
 460    c' est                        se                           jojej , c' est l' oreille
 460    l' oreille                    lo-REj                       c' est l' oreille .
 462    c' est                        se                           de demander c' est jamais
@@ -489,7 +487,6 @@
 502    mes oreilles                  me zo-REj                     où sont mes oreilles ?
 503    mes oreilles                  me zo-REj                     voilà , mes oreilles .
 504    tes oreilles                  te zo-REj                     et tes oreilles , où elles
-504    sont elles                    s§ tEl                        où elles sont elles tes
 504    tes oreilles                  te zo-REj                     sont elles tes oreilles ?
 505    les oreilles                  le zo-REj                     et les oreilles de Christian où
 505    sont elles                    s§ tEl                        Christian où sont elles ?
@@ -794,7 +791,6 @@
 1104   n' as                         na                           tu n' as pas de peine
 1104   peine à                       pE na                         pas de peine à marcher
 1107   c' est                        se                           ça c' est pas des après
-1107   des après                     de za-pRE                     est pas des après midi
 1110   il a                          i la                          là il a disparu .
 1113   l' ombre                      l§bR                         pied dans l' ombre .
 1115   vas y                         va zi                         allez , vas y .
@@ -1284,8 +1280,7 @@
 1685   on a                          § na                          on a déjà eu ejo ,
 1686   c' est                        se                           tout ça c' est des
 1687   j' ai                         ZE                           eh j' ai vu oui .
-1696   c' était                      se-tEt                       c' était un chien .
-1696   était un                      se-tE t1                      c' était un chien .
+1696   c' était                      se-tE                        c' était un chien .
 1700   c' est                        se                           ça c' est un camion jaune
 1702   on apprend                    § na-pR@                      on apprend à les reconnaître pourtant
 1708   n' est                        ne                           , Adrien n' est pas
@@ -2121,9 +2116,8 @@
 2834   c' est                        se                           c' est cassé ça .
 2835   qu' est-ce                    kEs                          qu' est-ce que c' est ?
 2835   c' est                        se                           est-ce que c' est ?
-2836   c' était                      se-tEt                       c' était un éléphant ?
-2836   était un                      se-tE t1n                     c' était un éléphant ?
-2836   un éléphant                   t1 ne-le-f@                   c' était un éléphant ?
+2836   c' était                      se-tE                        c' était un éléphant ?
+2836   un éléphant                   1 ne-le-f@                    c' était un éléphant ?
 2837   l' éléphant                   le-le-f@                     l' éléphant est cassé .
 2838   s' agissait                   sa-Zi-sE                     quoi il s' agissait avant
 2839   un éléphant                   1 ne-le-f@                    un éléphant ?
@@ -2234,7 +2228,6 @@
 3001   il est                        i le                          ah il est gentil Grégoire .
 3003   il y                          i li                          il y a longtemps que je
 3003   n' étais                      ne-tE                        que je n' étais pas
-3007   deux ans                      d2 z@                         plus de deux ans maintenant
 3009   l' avais                      la-vE                        mais je l' avais dit
 3009   juste avant                   Zys ta-v@                     avais dit juste avant aussi
 3012   qu' est-ce                    kEs                          qu' est-ce que tu as mis
@@ -2287,7 +2280,6 @@
 3104   qu' il                        kil                          c' est qu' il y
 3104   il y                          ki li                         est qu' il y a
 3108   qu' est-ce                    kEs                          qu' est-ce que ça peut être
-3108   peut être                     p2 tEtR                       que ça peut être ?
 3113   qu' on                        k§                           ah ah qu' on filme cette
 3114   est elle                      e tEl                         où est elle ?
 3115   est elle                      e tEl                         où est elle passée ?
@@ -2326,9 +2318,8 @@
 3173   des engins                    de z@-Z5                      des engins .
 3176   l' histoire                   lis-twaR                     veux raconter l' histoire des
 3176   des hélicoptères              de ze-li-kOp-tER              l' histoire des hélicoptères ?
-3178   c' était                      se-tEt                       c' était un hélicoptère à toi
-3178   était un                      se-tE t1n                     c' était un hélicoptère à toi
-3178   un hélicoptère                t1 ne-li-kOp-tER              c' était un hélicoptère à toi
+3178   c' était                      se-tE                        c' était un hélicoptère à toi
+3178   un hélicoptère                1 ne-li-kOp-tER               c' était un hélicoptère à toi
 3178   hélicoptère à                 ne-li-kOp-tE Ra               était un hélicoptère à toi
 3179   il est                        i le                          mais il est loin maintenant .
 3180   n' a                          na                           on n' a pas beaucoup de
@@ -2363,7 +2354,6 @@
 3203   nous a                        nu za                         ça ça nous a fait mourir
 3203   nous avait                    nu za-vE                      Adrien ne nous avait pas
 3204   il avait                      i la-vE                       lui il avait tout de suite
-3205   était un                      e-tE t1                       yaourt qui était un de
 3205   yaourt et                     ja-uR te                      se prononcer yaourt et pas
 3205   comme il                      kO mil                        parce que comme il était
 3205   il était                      mi le-tE                      que comme il était tout
@@ -2450,7 +2440,6 @@
 3297   l' autre                      lot                          as vue l' autre jour
 3298   l' ai                         lE                           je ne l' ai pas vue
 3298   il y                          i li                          mais lui il y a
-3298   peut être                     p2 tEt                        y a peut être pensé
 3303   l' autre                      lotR                         et l' autre aussi .
 3303   autre aussi                   lo tRo-si                     et l' autre aussi .
 3304   l' autre                      lotR                         l' autre il y en a
@@ -2724,7 +2713,6 @@
 3660   il est                        i le                          il est cassé le bonhomme ?
 3664   c' est                        se                           c' est l' enfant qui sait
 3664   l' enfant                     l@-f@                        c' est l' enfant qui sait
-3664   trois enfants                 tRwa z@-f@                    de mes trois enfants .
 3665   un autre                      1 notR                        voilà un autre enfant là .
 3665   autre enfant                  no tR@-f@                     voilà un autre enfant là .
 3666   un autre                      1 notR                        un autre enfant qui se demande
@@ -3027,8 +3015,7 @@
 3954   l' heure                      l9R                          tout à l' heure ,
 3954   tout a                        tu ta                         , dit tout a yeur
 3958   c' est                        se                           matin , c' est pas
-3958   peut être                     p2 tEtR                       matin ça peut être hier
-3958   être hier                     tE tRjER                      ça peut être hier non
+3958   être hier                     E tRjER                       ça peut être hier non
 3959   c' est                        se                           heuh c' est pas évident parce
 3959   qu' il                        kil                          chaque fois qu' il l'
 3959   l' a                          la                           qu' il l' a dit
@@ -3202,7 +3189,6 @@
 4099   grosse angoisse               gRo s@-gwas                   grosse grosse grosse angoisse qu'
 4099   qu' on                        k§n                          grosse angoisse qu' on a
 4099   on a                          k§ na                         angoisse qu' on a retrouvée
-4100   trois heures                  tRwa z9R                      à trois heures du matin il
 4100   il était                      i le-tE                       du matin il était dans
 4100   qu' il                        kil                          en criant qu' il y
 4100   il y                          ki li                         criant qu' il y avait
@@ -3243,7 +3229,6 @@
 4131   j' en                         Z@n                          paix , j' en ai
 4131   en ai                         Z@ nE                         , j' en ai marre
 4133   qu' il                        kil                          parce qu' il connaît très bien
-4134   deux ans                      d2 z@                         deux ans dit cet enfant plein
 4134   cet enfant                    sE t@-f@                      ans dit cet enfant plein
 4134   d' humour                     dy-muR                       enfant plein d' humour .
 4135   qu' il                        kil                          tu sais qu' il a un
@@ -3340,17 +3325,13 @@
 4242   j' ai                         ZE                           est trop j' ai déjà
 4243   d' où                         du                           d' où veux tu descendre ?
 4244   j' ai                         ZE                           que moi j' ai deux
-4244   deux ans                      d2 z@                         j' ai deux ans moi
 4245   c' est                        se                           c' est toi qui a deux
-4245   deux ans                      d2 z@                         qui a deux ans .
-4246   deux ans                      d2 z@                         deux ans quoi ?
 4249   c' est                        se                           c' est Adrien qui a huit
 4249   huit ans                      8i t@                         qui a huit ans .
 4250   huit ans                      8i t@                         Adrien a huit ans .
 4251   Victor a                      vik-tO Ra                     Victor a cinq ans .
 4251   cinq ans                      s5 k@                         Victor a cinq ans .
 4252   écoute écoute                 e-ku te-kut                   écoute écoute Grégoire .
-4254   deux ans                      d2 z@                         Christian a deux ans .
 4255   parles ouais                  paR lwE                       tu parles ouais jusqu' au trognon
 4255   jusqu' au                     Zys ko                        parles ouais jusqu' au trognon
 4257   qu' il                        kil                          parce qu' il compte quand il
@@ -3611,7 +3592,6 @@
 4518   c' est                        se                           ah c' est ton petit banc
 4521   il est                        i le                          il est propre jour et nuit
 4521   jour et                       Zu Re                         est propre jour et nuit
-4521   deux ans                      d2 z@                         garçon de deux ans et
 4525   Grégoire il                   gRe-gwa Ril                   savoir que Grégoire il est
 4525   il est                        Ri le                         que Grégoire il est propre
 4525   jour et                       Zu Re                         est propre jour et nuit
@@ -3649,9 +3629,8 @@
 4567   comprendre exactement         k§-pR@ dREg-zak-t°-m@         pas à comprendre exactement .
 4568   quand il                      k@ til                        quand il se voit de profil
 4568   profil il                     pRo-fi lil                    voit de profil il ne
-4568   c' était                      se-tEt                       comme si c' était un
-4568   était un                      se-tE t1n                     si c' était un autre
-4568   un autre                      t1 notR                       c' était un autre .
+4568   c' était                      se-tE                        comme si c' était un
+4568   un autre                      1 notR                        c' était un autre .
 4570   il en                         i l@n                         pas où il en est
 4570   en est                        l@ ne                         où il en est exactement
 4572   voir après                    vwa Ra-pRE                    tu vas voir après dans ce
@@ -4051,8 +4030,7 @@
 5005   rouge alors                   Ru Za-lOR                     qui était rouge alors j'
 5005   j' ai                         ZE                           rouge alors j' ai fait
 5006   t' avait                      ta-vE                        ton père t' avait dit
-5006   c' était                      se-tEt                       bien rouge c' était une
-5006   était une                     se-tE tyn                     rouge c' était une tomate
+5006   c' était                      se-tE                        bien rouge c' était une
 5008   l' ai                         lE                           alors je l' ai trouvé en
 5008   trucs absolument              tRy kap-so-ly-m@              bouffer des trucs absolument poisons
 5009   c' est                        se                           le muguet c' est absolument
@@ -4313,8 +4291,6 @@
 5279   d' Adrien                     da-dRi-j5                    livre préféré d' Adrien entre
 5279   entre un                      @ tR1n                        d' Adrien entre un an
 5279   un an                         tR1 n@                        Adrien entre un an et
-5279   deux ans                      d2 z@                         an et deux ans .
-5280   deux ans                      d2 z@                         a deux ans et demie il
 5281   t' ai                         tE                           je t' ai raconté l' histoire
 5281   l' histoire                   lis-twaR                     ai raconté l' histoire de
 5281   qu' il                        kil                          les lettres qu' il recherchait
@@ -4440,8 +4416,7 @@
 5370   c' était                      se-tE                        attends comment c' était je
 5371   l' antécédent                 l@-te-se-d@                  l' antécédent de qui , était
 5371   l' objet                      lOb-ZE                       , était l' objet de
-5373   c' était                      se-tEt                       c' était une précision très nette
-5373   était une                     se-tE tyn                     c' était une précision très nette
+5373   c' était                      se-tE                        c' était une précision très nette
 5373   pour expliquer                pu REk-spli-ke                très nette pour expliquer ce
 5373   qu' il                        kil                          expliquer ce qu' il venait
 5373   c' était                      se-tE                        faire mais c' était dans
@@ -4574,8 +4549,7 @@
 5492   il est                        i le                          il est petit ?
 5493   il est                        i le                          il est petit .
 5494   t' a                          ta                           il t' a dit que la
-5494   c' était                      se-tEt                       la baleine c' était un
-5494   était un                      se-tE t1                      baleine c' était un gros
+5494   c' était                      se-tE                        la baleine c' était un
 5494   tout à                        tu ta                         poisson hein tout à l'
 5494   l' heure                      l9R                          tout à l' heure .
 5499   ressemble un                  R°-s@ bl1                     soleil ça ressemble un peu
@@ -4632,9 +4606,8 @@
 5578   bec où                        bE ku                         et le bec où c' est
 5578   c' est                        se                           bec où c' est qu'
 5578   qu' il                        kil                          c' est qu' il est
-5578   il est                        ki let                        est qu' il est il
-5578   est il                        le til                        qu' il est il est
-5578   il est                        ti le                         il est il est devant
+5578   il est                        ki le                         est qu' il est il
+5578   il est                        i le                          il est il est devant
 5578   il est                        i le                          devant ou il est derrière
 5580   il est                        i le                          il est où ?
 5582   des oiseaux                   de zwa-zo                     le bec des oiseaux .
@@ -5039,8 +5012,7 @@
 6013   sable et                      sa ble                        sur le sable et ça
 6014   l' escalier                   lEs-ka-lje                   sur l' escalier ?
 6018   c' était                      se-tE                        qui c' était ?
-6019   c' était                      se-tEt                       c' était un monsieur .
-6019   était un                      se-tE t1                      c' était un monsieur .
+6019   c' était                      se-tE                        c' était un monsieur .
 6021   n' avais                      na-vE                        mais tu n' avais pas
 6022   elle était                    E le-tE                       elle était gentille la jeep oui
 6022   jeep oui                      dZi pwi                       gentille la jeep oui d'
@@ -5072,8 +5044,7 @@
 6035   c' est                        se                           ah c' est bien ça .
 6036   l' eau                        lo                           et l' eau elle était froide
 6036   elle était                    E le-tE                       l' eau elle était froide
-6038   elle était                    E le-tEt                      elle était un petit peu chaude
-6038   était un                      le-tE t1                      elle était un petit peu chaude
+6038   elle était                    E le-tE                       elle était un petit peu chaude
 6038   d' accord                     da-kOR                       peu chaude d' accord .
 6039   c' est                        se                           qui c' est qui s' est
 6039   s' est                        se                           est qui s' est mouillé
@@ -5109,8 +5080,7 @@
 6055   mer avec                      mE Ra-vEk                     de la mer avec toi
 6055   d' être                       dEtR                         être bien d' être au
 6055   être au                       dE tRo                        bien d' être au bord
-6056   c' était                      se-tEt                       est-ce que c' était une mer
-6056   était une                     se-tE tyn                     que c' était une mer
+6056   c' était                      se-tE                        est-ce que c' était une mer
 6056   mer où                        mE Ru                         était une mer où on
 6056   choses à                      So za                         ramasser des choses à manger
 6058   c' est                        se                           non c' est pas une mer

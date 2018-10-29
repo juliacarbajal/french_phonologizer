@@ -902,7 +902,7 @@ cam13.cha 1 9 24 sa s' e yn bwe .
 cam13.cha 1 9 24 s' e yn bwe puR a-le a l o .
 cam13.cha 1 9 24 yn bwe puR a-le a l o .
 cam13.cha 1 9 24 s' e 1 e-Ri-s§ .
-cam13.cha 1 9 24 aj sa pik lez e-Ri-s§ !
+cam13.cha 1 9 24 aj sa pik le e-Ri-s§ !
 cam13.cha 1 9 24 sa s' e yn pul .
 cam13.cha 1 9 24 kOk , l2 kOk , la pul e le pu-s5 .
 cam13.cha 1 9 24 le pu-s5 .
@@ -1137,7 +1137,7 @@ cam16.cha 1 11 05 wa-zo .
 cam16.cha 1 11 05 wa-zo .
 cam16.cha 1 11 05 a-vEk l2 bEk d2 l wa-zo .
 cam16.cha 1 11 05 l2 bEk .
-cam16.cha 1 11 05 t a di k2 s' e-tEt 1 .
+cam16.cha 1 11 05 t a di k2 s' e-tE 1 .
 cam16.cha 1 11 05 n§ s' e pa 1 ka-naR , s' e 1 siN .
 cam16.cha 1 11 05 1 siN .
 cam16.cha 1 11 05 a ty @-vi d2 fER pi-pi ?
@@ -1380,7 +1380,7 @@ cam19.cha 2 0 17 pi la s' e kwa sa ?
 cam19.cha 2 0 17 1 Sj5 , k Es k il a d@ le pat ?
 cam19.cha 2 0 17 sa s' e kwa ?
 cam19.cha 2 0 17 s' e 1 , Os .
-cam19.cha 2 0 17 d2z Os , d2z Os .
+cam19.cha 2 0 17 d2 Os , d2 Os .
 cam19.cha 2 0 17 il l2 kaS d@ la tER ty vwa il a fE 1 tRu a ty vy ?
 cam19.cha 2 0 17 il a fE 1 tRu l2 Sj5 , il va mEtR l Os d°-d@ , puR l2 ka-Se .
 cam19.cha 2 0 17 ty m Ra-k§t k Es k i fE l2 Sj5 ?
@@ -1460,7 +1460,7 @@ cam20.cha 2 1 13 s' e la ma-m@ ?
 cam20.cha 2 1 13 la ma-m@ la-p5 .
 cam20.cha 2 1 13 ki s' e # a m@-Ze l bu la ?
 cam20.cha 2 1 13 ba k e s2 ty fE ?
-cam20.cha 2 1 13 t @ fE ply-zj9R @ mEm t@ ?
+cam20.cha 2 1 13 t @ fE ply-zj9Rz @ mEm t@ ?
 cam20.cha 2 1 13 ka-mij Z kRwa-jE k § f°-zE l la-p5 mwa !
 cam20.cha 2 1 13 Z kRwa-jE k § f°-zE l2 p9zl de la-p5 .
 cam20.cha 2 1 13 n§ ty fE s8i-la .
@@ -1738,7 +1738,7 @@ cam23.cha 2 2 23 wE s' e la li-be-lyl ki pik e la S°-nij El a p2R .
 cam23.cha 2 2 23 a-lOR k Es k # fE la p°-tit S°-nij ?
 cam23.cha 2 2 23 1 ko-k§ .
 cam23.cha 2 2 23 s' e kwa l2 ko-k§ ?
-cam23.cha 2 2 23 syR la f9j wE , s' et El ki fE sa mE-z§ .
+cam23.cha 2 2 23 syR la f9j wE , s' e El ki fE sa mE-z§ .
 cam23.cha 2 2 23 e p8i a la f5 k Es k i s2 pas ?
 cam23.cha 2 2 23 il e bo l2 pa-pi-j§ ?
 cam23.cha 2 2 23 Es k il e bo l2 pa-pi-j§ ?
@@ -2565,7 +2565,7 @@ pie17.cha 1 11 23 il e u l2 li ?
 pie17.cha 1 11 23 # .
 pie17.cha 1 11 23 uvR l2 twa !
 pie17.cha 1 11 23 uvR l2 twa d la mE-z§ !
-pie17.cha 1 11 23 sa i et il e o li , il fE do-do .
+pie17.cha 1 11 23 sa i e il e o li , il fE do-do .
 pie17.cha 1 11 23 s' e 1 p°-ti .
 pie17.cha 1 11 23 s' e 1 tu p°-ti , s' e 1 tu p°-ti kwa ?
 pie17.cha 1 11 23 s' e yn alg .
@@ -3097,7 +3097,7 @@ pie22.cha 2 2 02 kwa ?
 pie22.cha 2 2 02 sa s' e , l2 pa-Rap-l8i .
 pie22.cha 2 2 02 wi .
 pie22.cha 2 2 02 wi la il a fER-me s§ pa-Rap-l8i e la il uvR s§ pa-Rap-l8i paRs k il pl2 .
-pie22.cha 2 2 02 k@ i pl2t §n uvR s§ pa-Rap-l8i .
+pie22.cha 2 2 02 k@ i pl2 §n uvR s§ pa-Rap-l8i .
 pie22.cha 2 2 02 la su-Ri ko-m@ # fE ?
 pie22.cha 2 2 02 # i a 1n wa-zo d°-OR wE .
 pie22.cha 2 2 02 il a fRwa .

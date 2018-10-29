@@ -652,7 +652,6 @@
 1470   petit ours                    p°-ti tuRs                    petit ours brun s' habille .
 1470   s' habille                    sa-bij                       ours brun s' habille .
 1471   petit ours                    p°-ti tuRs                    petit ours brun enlève son pyjama
-1471   brun enlève                   bR1 n@-lEv                    petit ours brun enlève son pyjama
 1473   chemise à                     S°-mi za                      la chemise à l' endroit ça
 1473   l' endroit                    l@-dRwa                      chemise à l' endroit ça
 1473   n' est-ce                     nEs                          serait mieux n' est-ce pas
@@ -733,12 +732,12 @@
 1560   t' en                         t@                           tu t' en moques hein .
 1565   c' est                        se                           c' est comme ça quand on
 1565   quand on                      k@ t§                         comme ça quand on dort
-1565   dort on                       dOR t§                        quand on dort on ferme
+1565   dort on                       dO R§                         quand on dort on ferme
 1565   les yeux                      le zj2                        on ferme les yeux .
 1567   ses yeux                      se zj2                        il ferme ses yeux ce bébé
 1567   dort en                       dO R@                         là qui dort en bas
 1568   chante une                    S@ tyn                        maman leur chante une chanson
-1570   dort il                       dOR til                       il dort il dort le chat
+1570   dort il                       dO Ril                        il dort il dort le chat
 1572   qu' est-ce                    kEs                          oui , qu' est-ce que tu
 1573   c' est                        se                           c' est son biberon ?
 1575   il est                        i le                          où il est le tien ?
@@ -910,7 +909,6 @@
 1859   belle avec                    bE la-vEk                     t' es belle avec ton sac
 1859   sac à                         sa ka                         avec ton sac à dos
 1863   on a                          § na                          et puis on a les cheveux
-1865   mouillés encore               mu-je z@-kOR                  un peu mouillés encore hein .
 1867   qu' est-ce                    kEs                          qu' est-ce que t' as serré
 1867   t' as                         ta                           est-ce que t' as serré
 1868   sac à                         sa ka                         ton sac à dos .
@@ -939,8 +937,7 @@
 1906   il est                        i le                          il est dans la salle le
 1909   quand on                      k@ t§                         quand on va trouver le bébé
 1911   c' est                        se                           c' est ça ?
-1913   c' était                      se-tEt                       pi dis c' était une
-1913   était une                     se-tE tyn                     dis c' était une grosse
+1913   c' était                      se-tE                        pi dis c' était une
 1914   t' as                         ta                           t' as fait pipi .
 1916   t' as                         ta                           bah oui t' as fait pipi
 1918   j' ai                         ZE                           j' ai enlevé la housse .
@@ -1244,8 +1241,7 @@
 2424   c' est                        se                           c' est mon petit dernier .
 2427   c' est                        se                           que c' est bon le biberon
 2429   c' est                        se                           c' est dur ?
-2430   est il                        e til                         ça y est il a fini
-2430   il a                          ti la                         y est il a fini
+2430   il a                          i la                          y est il a fini
 2432   c' est                        se                           c' est dur , veux tu
 2432   t' aide                       tEd                          que je t' aide ?
 2436   qu' est-ce                    kEs                          qu' est-ce qu' il y a
@@ -1290,7 +1286,7 @@
 2500   elle est                      kE le                         qu' elle est têtue !
 2505   il y                          i li                          alors , il y en a
 2505   en a                          @ na                          il y en a plusieurs
-2505   plusieurs en                  ply-zj9 R@                    en a plusieurs en route
+2505   plusieurs en                  ply-zj9R z@                   en a plusieurs en route
 2510   bonjour à                     b§-Zu Ra                      dis pas bonjour à celui
 2512   vas y                         va zi                         vas y !
 2515   c' est                        se                           oh mais c' est qu' on
@@ -1658,7 +1654,6 @@
 3291   heure il                      l9 Ril                        quelle heure il est didier ?
 3291   il est                        Ri le                         quelle heure il est didier ?
 3292   huit heures                   8i t9R                        huit heures cinq .
-3293   vingt heures                  v5 t9R                        vingt heures zéro cinq .
 3294   choisir un                    Swa-zi R1                     on va choisir un livre ?
 3298   qu' est-ce                    kEs                          qu' est-ce que tu choisis ?
 3304   on y                          § ni                          allez , on y va .
@@ -1950,8 +1945,7 @@
 3919   bonnes idées                  bOn zi-de                     toujours des bonnes idées ,
 3921   qu' est-ce                    kEs                          qu' est-ce que tu me racontes
 3922   qu' est-ce                    kEs                          qu' est-ce que tu disais à
-3928   est on                        e t§n                         ça y est on a
-3928   on a                          t§ na                         y est on a les
+3928   on a                          § na                          y est on a les
 3934   faire un                      fE R1                         on va faire un petit échange
 3934   petit échange                 p°-ti te-S@Z                  faire un petit échange ,
 3935   elle essaie                   E lE-sE                       elle essaie de l' attacher toute
@@ -2089,7 +2083,6 @@
 4204   d' accord                     da-kOR                       d' accord .
 4209   en a                          @ na                          y en a plus ?
 4217   une épaule                    y ne-pol                      une épaule .
-4220   deux épaules                  d2 ze-pol                     deux épaules , le petit bouton
 4225   sens aussi                    s@ so-si                      le bon sens aussi !
 4228   c' est                        se                           c' est maman qui tire .
 4237   t' as                         ta                           t' as le nez qui coule
@@ -2882,7 +2875,6 @@
 5630   l' enfiler                    l@-fi-le                     faut l' enfiler !
 5634   pousse et                     pu se                         , je pousse et je
 5634   l' autre                      lot                          ressors de l' autre côté
-5642   est il                        e til                         ça y est il ressort
 5642   l' autre                      lot                          ressort de l' autre côté
 5644   l' autre                      lot                          de l' autre côté du trou
 5645   il est                        i le                          il est pas gentil le fil
@@ -2960,7 +2952,6 @@
 5779   qu' il                        kil                          qu' est-ce qu' il mettra
 5779   quand il                      k@ til                        comme gilet quand il aura
 5779   il aura                       ti lo-Ra                      gilet quand il aura deux
-5779   deux ans                      d2 z@                         il aura deux ans !
 5780   quand il                      k@ til                        quand il aura dix huit mois
 5780   il aura                       ti lo-Ra                      quand il aura dix huit mois
 5780   dix huit                      di s8it                       il aura dix huit mois
@@ -3069,7 +3060,6 @@
 5922   enlève une                    n@-lE vyn                     t' en enlève une autre
 5922   une autre                     vy not                        en enlève une autre de
 5928   j' en                         Z@                           oui , j' en veux bien
-5928   deux encore                   d2 z@-kOR                     veux bien deux encore .
 5932   j' en                         Z@n                          non , j' en ai trois
 5932   en ai                         Z@ nE                         , j' en ai trois
 5933   j' en                         Z@n                          j' en ai besoin de deux
@@ -3087,7 +3077,6 @@
 5949   les épingles                  le ze-p5gl                    pince avec les épingles à
 5949   épingles à                    ze-p5 gla                     avec les épingles à linge
 5950   l' accrocher                  la-kRo-Se                    essaies de l' accrocher sur
-5951   deux épingles                 d2 ze-p5g                     me donnes deux épingles s'
 5951   s' il                         sil                          deux épingles s' il te
 5953   encore une                    @-kO Ryn                      encore une .
 5957   j' accroche                   Za-kROS                      là , j' accroche les culottes
@@ -3265,8 +3254,7 @@
 6273   d' abimer                     d#                           évite de d' abimer plus
 6278   t' arrêtes                    ta-REt                       pi t' arrêtes de faire des
 6278   castagnettes avec             kas-ta-NE ta-vEk              faire des castagnettes avec ta
-6281   c' est                        set                          c' est elle qui allume l'
-6281   est elle                      se tEl                        c' est elle qui allume l'
+6281   c' est                        se                           c' est elle qui allume l'
 6281   l' eau                        lo                           qui allume l' eau ,
 6284   t' as                         ta                           est , t' as mouillé
 6288   c' est                        se                           c' est maman !
@@ -3479,7 +3467,6 @@
 6616   petite oursonne               p°-ti tuR-sOn                 la petite oursonne entends crier de
 6616   oursonne entends              tuR-sO n@-t@                  la petite oursonne entends crier de
 6616   bon anniversaire              bO na-ni-vER-sER              de partout bon anniversaire ,
-6617   joyeux anniversaire           Zwa-j2 za-ni-vER-sER          joyeux anniversaire !
 6618   ses amis                      se za-mi                      donc pourquoi ses amis n'
 6618   n' avaient                    na-vE                        ses amis n' avaient pas
 6619   c' est                        se                           non , c' est pas un
@@ -3493,8 +3480,7 @@
 6630   elle est                      E le                          là elle est plus triste .
 6637   t' aimes                      tEm                          t' aimes bien ça ?
 6638   c' est                        se                           finalement , c' est un très
-6638   très heureux                  tRE z2-R2z                    un très très heureux anniversaire
-6638   heureux anniversaire          z2-R2 za-ni-vER-sER           très très heureux anniversaire pour
+6638   très heureux                  tRE z2-R2                     un très très heureux anniversaire
 6638   petite oursonne               p°-ti tuR-sOn                 et la petite oursonne !
 6639   petite oursonne               p°-ti tuR-sOn                 la petite oursonne !
 6640   d' anniversaire               da-ni-vER-sER                beau gâteau d' anniversaire !
@@ -3508,7 +3494,6 @@
 6650   quel âge                      kE laZ                        t' as quel âge ,
 6651   t' as                         ta                           t' as huit ans !
 6651   huit ans                      8i t@                         t' as huit ans !
-6656   deux ans                      d2 z@                         deux ans !
 6660   j' en                         Z@n                          moi j' en ai comme ça
 6660   en ai                         Z@ nE                         moi j' en ai comme ça
 6663   il a                          i la                          pi bébé il a pas d'
@@ -3605,8 +3590,7 @@
 6796   m' a                          ma                           elle m' a dit .
 6797   il est                        i le                          il est noir .
 6798   c' était                      se-tE                        pi c' était bien ça !
-6799   c' était                      se-tEt                       c' était un corbeau .
-6799   était un                      se-tE t1                      c' était un corbeau .
+6799   c' était                      se-tE                        c' était un corbeau .
 6800   c' est                        se                           corbeau , c' est vraiment
 6803   qu' est-ce                    kEs                          qu' est-ce qu' il y a
 6803   qu' il                        kil                          qu' est-ce qu' il y a
@@ -3661,10 +3645,8 @@
 6896   t' exagères                   tEg-za-ZER                   t' exagères !
 6897   elle est                      E le                          elle est très bonne !
 6898   elle est                      E le                          oui , elle est très bonne
-6899   c' était                      se-tEt                       c' était un petit morceau qui
-6899   était un                      se-tE t1                      c' était un petit morceau qui
-6899   c' était                      se-tEt                       parce que c' était un
-6899   était un                      se-tE t1                      que c' était un nerf
+6899   c' était                      se-tE                        c' était un petit morceau qui
+6899   c' était                      se-tE                        parce que c' était un
 6903   il y                          i li                          il y avait ce qu' il
 6903   qu' il                        kil                          avait ce qu' il fallait
 6904   il est                        i le                          sais , il est caché
@@ -3774,15 +3756,12 @@
 7052   encore une                    t@-kO Ryn                     du pchitt encore une fois
 7057   lise une                      li zyn                        je te lise une histoire
 7057   une histoire                  zy nis-twaR                   te lise une histoire ?
-7059   trois ours                    tRwa zuRs                     les trois ours .
 7060   lis ou                        li su                         je lis ou j' explique ?
 7060   j' explique                   ZEk-splik                    lis ou j' explique ?
 7061   qu' est-ce                    kEs                          qu' est-ce que tu préfères ?
 7063   il était                      i le-tEt                      il était une fois trois lou
 7063   était une                     le-tE tyn                     il était une fois trois lou
-7063   trois ours                    tRwa zuRs                     lou , trois ours qui
 7063   dans une                      d@ zyn                        habitaient ensemble dans une jolie
-7064   premier est                   pR°-mje Re                    le premier est un tout petit
 7064   petit ours                    p°-ti tuRs                    un tout petit ours .
 7065   deuxième est                  d2-zjE me                     le deuxième est un ours moyen
 7065   un ours                       1 nuRs                        deuxième est un ours moyen
@@ -3813,7 +3792,6 @@
 7078   grand ours                    gR@ tuRs                      grand , grand ours ,
 7079   d' eux                        d2                           chacun d' eux a un lit
 7081   pour y                        pu Ri                         un lit pour y dormir .
-7083   trois amis                    tRwa za-mi                    , les trois amis partent
 7083   les assiettes                 le za-sjEt                    , dans les assiettes .
 7084   qu' ils                       kil                          et pendant qu' ils se promènent
 7084   d' or                         dOR                          appelée boucles d' or arrive
@@ -3867,8 +3845,7 @@
 7125   or a                          dO Ra                         boucles d' or a bien
 7125   grand ours                    gR@ tuRs                      voix du grand ours .
 7126   elle a                        E la                          mais elle a pensé que c'
-7126   c' était                      se-tEt                       pensé que c' était un
-7126   était un                      se-tE t1                      que c' était un grondement
+7126   c' était                      se-tE                        pensé que c' était un
 7127   en as                         @ na                          tu en as entendu , hier
 7129   quand on                      k@ t§n                        mais toi quand on était
 7129   on était                      t§ ne-tE                      toi quand on était chez
@@ -4605,9 +4582,7 @@
 8358   qu' est-ce                    kEs                          avis , qu' est-ce que
 8358   c' est                        se                           est-ce que c' est ?
 8360   qu' est-ce                    kEs                          qu' est-ce que ça peut être
-8360   peut être                     p2 tEtR                       que ça peut être ?
 8362   qu' est-ce                    kEs                          qu' est-ce que ça peut être
-8362   peut être                     p2 tEtR                       que ça peut être ,
 8363   qu' est-ce                    kEs                          qu' est-ce qui manque là ?
 8366   c' est                        se                           non , c' est un mouton
 8369   un oiseau                     1 nwa-zo                      non , un oiseau qui s'

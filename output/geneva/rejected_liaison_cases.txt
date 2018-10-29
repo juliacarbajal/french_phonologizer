@@ -292,7 +292,9 @@
 1840 est un                         c' est un p(e)tit oiseau qui
 1840 p(e)tit oiseau                 est un p(e)tit oiseau qui
 1844 est en                         ça c' est en bateau
+1852 était une                     il était une bergère héron héron
 1852 héron héron                  une bergère héron héron petit
+1853 était une                     il était une bergère qui gardait
 1869 vois il                        tu vois il est dans son
 1872 quand y                        quand y a l' arbre qui
 1872 boules et                      a les boules et puis
@@ -314,6 +316,7 @@
 1923 nez aussi                      ont des nez aussi longs
 1926 nez est                        mais le nez est tellement long
 1931 fait un                        i(l) fait un pont .
+1936 brun attrape                   petit lièvre brun attrape les longues
 1936 brun et                        grand lièvre brun et ne
 1941 petit il                       combien son petit il l'
 1945 et il                          et il écarte très fort ses
@@ -845,7 +848,6 @@
 5016 est un                         ça c' est un petit lapin
 5027 est un                         c' est un chien avec le
 5027 chien avec                     est un chien avec le
-5033 toutes ouvert                  on a toutes ouvert les
 5033 pouvait ouvrir                 qu' on pouvait ouvrir jusqu'
 5036 chaussettes et                 prendre les chaussettes et les
 5036 amener à                      et les amener à maman
@@ -995,6 +997,7 @@
 5728 dehors encore                  en a dehors encore des
 5730 est une                        ça c' est une orange .
 5739 un ou                          a encore un ou deux
+5742 bas y                          là bas y a la citrouille
 5772 jouer avec                     tu veux jouer avec ça ?
 5775 vais ouvrir                    je vais ouvrir , marie .
 5777 vais ouvrir                    je vais ouvrir .
@@ -1056,6 +1059,7 @@
 6063 fait une                       comment on fait une tour
 6064 as essayé                     t(u) as essayé la tour ?
 6069 faut attendre                  faut attendre que la tour elle
+6070 deux encore                    en reste deux encore hm
 6084 veux aller                     tu veux aller où ?
 6084 aller où                      tu veux aller où ?
 6085 est où                        il est où le poisson ?
@@ -1090,6 +1094,7 @@
 6209 moulin il                      le moulin il est là haut
 6225 est une                        c' est une photo ?
 6227 est abîmée                   elle est abîmée la photo ?
+6228 mauvais état                  peu en mauvais état .
 6232 veux un                        tu veux un jus d' orange
 6237 chantes avec                   tu chantes avec moi ?
 6253 chaussures et                  mettre ses chaussures et elle

@@ -45,7 +45,6 @@
 835  on ouvre                      §n uvR                        blanche et on ouvre la
 854  des étoiles                   dez e-twal                    c' est des étoiles ,
 855  un ours                       1n uRs                        c' est un ours ,
-905  les hérissons                 lez e-Ri-s§                   ça pique les hérissons !
 912  un âne                        1n an                         c' est un âne .
 930  un autre                      1n otR                        un autre , prends en un
 930  prends en                     pR@z @                        autre , prends en un
@@ -56,7 +55,6 @@
 1011 vas y                         vaz i                         vas y !
 1020 vas y                         vaz i                         ouais , vas y !
 1023 un ours                       1n uRs                        y a un ours ?
-1140 était un                      e-tEt 1                       que c' était un .
 1179 un autre                      1n otR                        tu prends un autre ?
 1199 vas y                         vaz i                         vas y tu vas trouver où
 1204 vas y                         vaz i                         allez vas y mets le !
@@ -74,12 +72,11 @@
 1341 les abeilles                  lez a-bEj                     fait mal les abeilles !
 1350 les épingles                  lez e-p5gl                    tu mets les épingles dedans
 1351 les épingles                  lez e-p5gl                    tu mets les épingles dedans le
-1383 deux os                       d2z Os                        deux os , deux os .
-1383 deux os                       d2z Os                        os , deux os .
 1431 on en                         §n @                          oh ça on en a vu
 1431 en a                          @n a                          ça on en a vu
 1447 tout à                        tut a                         l(a) regardera tout à l'
 1451 vas y                         vaz i                         , allez vas y !
+1463 plusieurs en                  ply-zj9Rz @                   en fais plusieurs en même
 1517 les animaux                   lez a-ni-mo                   a tous les animaux là
 1526 un arbre                      1n aRbR                       un arbre .
 1536 vas y                         vaz i                         vas y vas y vas y
@@ -101,7 +98,6 @@
 1689 on y                          §n i                          on y va ?
 1691 un un                         1n 1                          un un .
 1720 un escargot                   1n Es-kaR-go                  un escargot , qu' est-ce qu'
-1741 est elle                      et El                         , c' est elle qui
 1755 des yeux                      dez j2                        est pas des yeux .
 1756 les yeux                      lez j2                        c' est les yeux des
 1759 quand on                      k@t §                         c' est quand on a du
@@ -181,7 +177,6 @@
 2523 les oreilles                  lez o-REj                     c' est les oreilles ,
 2526 mon ange                      m§n @Z                        est bien mon ange !
 2547 vas y                         vaz i                         , attends vas y on
-2568 est il                        et il                         ça y est il est au
 2597 des enfants                   dez @-f@                      y a des enfants ?
 2599 des enfants                   dez @-f@                      y a des enfants ?
 2601 un enfant                     1n @-f@                       t(u) es un enfant ?
@@ -217,7 +212,6 @@
 3045 en ai                         @n E                          j' en ai une .
 3047 les yeux                      lez j2                        nez , les yeux ,
 3047 petites oreilles              p°-titz o-REj                 , ses petites oreilles .
-3100 pleut on                      pl2t §                        quand i(l) pleut on ouvre son
 3100 on ouvre                      §n uvR                        i(l) pleut on ouvre son
 3102 un oiseau                     1n wa-zo                      y a un oiseau dehors
 3107 les oiseaux                   lez wa-zo                     les oiseaux ça fait cui cui

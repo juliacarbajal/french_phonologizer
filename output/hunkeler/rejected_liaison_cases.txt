@@ -213,6 +213,7 @@
 903 aller à                       bouée pour aller à l'
 904 est un                         c' est un hérisson .
 904 un hérisson                   c' est un hérisson .
+905 les hérissons                 ça pique les hérissons !
 906 est une                        ça c' est une poule .
 909 ouais i(ls)                    ouais i(ls) mangent .
 912 est un                         c' est un âne .
@@ -258,6 +259,7 @@
 1117 est un                         , c' est un chat
 1118 non un                         non un chat !
 1123 est une                        c' est une souris .
+1140 était un                      que c' était un .
 1141 pas un                         c' est pas un canard
 1141 est un                         , c' est un cygne
 1158 éléphant à                  donner l' éléphant à lucile
@@ -334,6 +336,8 @@
 1375 pas une                        c' est pas une fourmi
 1375 est une                        , c' est une araignée
 1382 est un                         c' est un , os .
+1383 deux os                        deux os , deux os .
+1383 deux os                        os , deux os .
 1384 vois il                        terre tu vois il a
 1384 fait un                        il a fait un trou
 1385 fait un                        il a fait un trou le
@@ -365,7 +369,6 @@
 1450 viens on                       viens on va s(e) mett(r)e là
 1452 allez on                       allez on fait le puzzle des
 1453 p(u)is il                      p(u)is il est dure çuilà ,
-1463 plusieurs en                   en fais plusieurs en même
 1469 fais en                        mais camille fais en un par
 1469 en un                          camille fais en un par
 1481 et une                         et une cuillère pour maman tiens
@@ -435,6 +438,7 @@
 1731 est une                        , c' est une fourmi
 1732 pas une                        c' est pas une guêpe
 1732 est une                        , c' est une fourmi
+1741 est elle                       , c' est elle qui
 1742 puis à                        et puis à la fin qu'
 1745 vas aller                      tu vas aller au dodo ?
 1745 aller au                       tu vas aller au dodo ?
@@ -618,6 +622,7 @@
 2552 pas assez                      il est pas assez mouillé
 2553 pas assez                      il est pas assez mouillé le
 2564 est où                        il est où le lit ?
+2568 est il                         ça y est il est au
 2568 est au                         est il est au lit
 2569 est un                         c' est un petit .
 2570 est un                         c' est un tout petit ,
@@ -732,6 +737,7 @@
 3070 mais enfin                     poules , mais enfin ,
 3087 nez ouais                      ouais le nez ouais , il
 3100 quand i(l)                     quand i(l) pleut on ouvre son
+3100 pleut on                       quand i(l) pleut on ouvre son
 3102 dehors ouais                   un oiseau dehors ouais .
 3105 non i(l)                       non i(l) pleut pas .
 3109 ailes aussi                    a des ailes aussi .

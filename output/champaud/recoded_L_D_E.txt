@@ -278,7 +278,7 @@ greg01.cha 1 9 18 mwa Z2 ma-pEl kRis-tj@ .
 greg01.cha 1 9 18 twa ty ta-pEl gRe-gwaR .
 greg01.cha 1 9 18 wi kRis-tj@ !
 greg01.cha 1 9 18 sa vj5-dRa a-vEk .
-greg01.cha 1 9 18 # , vu za-ve vy , se-tE t1 d2 Ru la yn mo-to .
+greg01.cha 1 9 18 # , vu za-ve vy , se-tE 1 d2 Ru la yn mo-to .
 greg01.cha 1 9 18 a wi # .
 greg01.cha 1 9 18 mER-si gRe-gwaR !
 greg01.cha 1 9 18 El va vit ?
@@ -456,7 +456,7 @@ greg01.cha 1 9 18 a il va fER kOm sa vik-tOR ?
 greg01.cha 1 9 18 E !
 greg01.cha 1 9 18 E !
 greg01.cha 1 9 18 E !
-greg01.cha 1 9 18 il ma-gas s2 mom paRs ki la bj5-to d2 z@ il di pa tu s9l .
+greg01.cha 1 9 18 il ma-gas s2 mom paRs ki la bj5-to d2 @ il di pa tu s9l .
 greg01.cha 1 9 18 # , se lo-REj .
 greg01.cha 1 9 18 wi .
 greg01.cha 1 9 18 sa fa-s§ d2 d°-m@-de se Za-mE dOn .
@@ -501,7 +501,7 @@ greg02.cha 1 9 28 E le la .
 greg02.cha 1 9 28 e me zo-REj ?
 greg02.cha 1 9 28 u s§ me zo-REj ?
 greg02.cha 1 9 28 vwa-la , me zo-REj .
-greg02.cha 1 9 28 e te zo-REj , u El s§ tEl te zo-REj ?
+greg02.cha 1 9 28 e te zo-REj , u El s§ El te zo-REj ?
 greg02.cha 1 9 28 e le zo-REj d2 kRis-tj@ u s§ tEl ?
 greg02.cha 1 9 28 se tRE bj5 .
 greg02.cha 1 9 28 se tRE bj5 .
@@ -1104,7 +1104,7 @@ greg02.cha 1 9 28 ty kRwa k2 s2 s§ le So-s§ a gRe-gwaR ?
 greg02.cha 1 9 28 ty na pa d2 pE na maR-Se kOm sa ?
 greg02.cha 1 9 28 a-t@-sj§ !
 greg02.cha 1 9 28 gRe-gwaR !
-greg02.cha 1 9 28 sa se pa de za-pRE mi-di tRist , o mw5 .
+greg02.cha 1 9 28 sa se pa de a-pRE mi-di tRist , o mw5 .
 greg02.cha 1 9 28 a n§ n§ n§ .
 greg02.cha 1 9 28 a !
 greg02.cha 1 9 28 la i la dis-pa-Ry .
@@ -1693,7 +1693,7 @@ greg03.cha 1 10 03 u ?
 greg03.cha 1 10 03 u sa ?
 greg03.cha 1 10 03 a wi .
 greg03.cha 1 10 03 wi wi .
-greg03.cha 1 10 03 se-tE t1 Sj5 .
+greg03.cha 1 10 03 se-tE 1 Sj5 .
 greg03.cha 1 10 03 ty a RE-z§ .
 greg03.cha 1 10 03 a wi .
 greg03.cha 1 10 03 yn gRos .
@@ -2833,7 +2833,7 @@ greg05.cha 2 0 05 i le t§-be la-vj§ ?
 greg05.cha 2 0 05 kEs kil fE la-vj§ ?
 greg05.cha 2 0 05 se ka-se sa .
 greg05.cha 2 0 05 kEs k2 se ?
-greg05.cha 2 0 05 se-tE t1 ne-le-f@ ?
+greg05.cha 2 0 05 se-tE 1 ne-le-f@ ?
 greg05.cha 2 0 05 le-le-f@ e ka-se .
 greg05.cha 2 0 05 Z2 n2 sE pa d2 kwa il sa-Zi-sE a-v@ .
 greg05.cha 2 0 05 1 ne-le-f@ ?
@@ -3004,7 +3004,7 @@ greg06.cha 2 1 25 i li a l§-t@ k2 Z2 ne-tE pa v°-ny .
 greg06.cha 2 1 25 a ty a gR@-di .
 greg06.cha 2 1 25 ty E 1 gR@ gRe-gwaR m5t-n@ .
 greg06.cha 2 1 25 5 !
-greg06.cha 2 1 25 ty a ply d2 d2 z@ m5t-n@ .
+greg06.cha 2 1 25 ty a ply d2 d2 @ m5t-n@ .
 greg06.cha 2 1 25 k@ Z2 v°-nE la pR°-mjER fwa .
 greg06.cha 2 1 25 wi , mE Z2 la-vE di Zys ta-v@ o-si .
 greg06.cha 2 1 25 Z2 sE pa si sa k§t bj5 .
@@ -3105,7 +3105,7 @@ greg06.cha 2 1 25 u se ki li a yn so-sis ?
 greg06.cha 2 1 25 d@ la Ry ?
 greg06.cha 2 1 25 ty sE pa .
 greg06.cha 2 1 25 2 Z2 n2 p@s pa k2 s2 swa yn so-sis .
-greg06.cha 2 1 25 kEs k2 sa p2 tEtR ?
+greg06.cha 2 1 25 kEs k2 sa p2 EtR ?
 greg06.cha 2 1 25 a-l§ vwaR .
 greg06.cha 2 1 25 § va vwaR ?
 greg06.cha 2 1 25 a-t@-sj§ o dwa .
@@ -3175,7 +3175,7 @@ greg06.cha 2 1 25 n§ n2 tu-S§ pa la o-tuR d2 la tabl .
 greg06.cha 2 1 25 ko-m@ ty di ?
 greg06.cha 2 1 25 a ty v2 Ra-k§-te lis-twaR de ze-li-kOp-tER ?
 greg06.cha 2 1 25 a wi !
-greg06.cha 2 1 25 se-tE t1 ne-li-kOp-tE Ra twa ?
+greg06.cha 2 1 25 se-tE 1 ne-li-kOp-tE Ra twa ?
 greg06.cha 2 1 25 mE i le lw5 m5t-n@ .
 greg06.cha 2 1 25 § na pa bo-ku d2 ly-mjER ty sE .
 greg06.cha 2 1 25 mE @-f5 sa fE Rj5 .
@@ -3202,7 +3202,7 @@ greg06.cha 2 1 25 n§ pa # # .
 greg06.cha 2 1 25 wi wi .
 greg06.cha 2 1 25 sa sa nu za fE mu-RiR d2 RiR paRs k2 a-dRi-j5 n2 nu za-vE pa k§-fR§-te a s2 Z@R d2 tRyk .
 greg06.cha 2 1 25 l8i i la-vE tu d2 s8it bj5 pRo-n§-se .
-greg06.cha 2 1 25 tu sof l2 ja-uRt ki e-tE t1 d2 se pR°-mje mo e ki a e-te 1 de ply l§ a s2 pRo-n§-se ja-uR te pa # paRs k2 kO mi le-tE tu p°-ti k@ ti la-vE ko-m@-se # il la gaR-de tRE l§-t@ .
+greg06.cha 2 1 25 tu sof l2 ja-uRt ki e-tE 1 d2 se pR°-mje mo e ki a e-te 1 de ply l§ a s2 pRo-n§-se ja-uR te pa # paRs k2 kO mi le-tE tu p°-ti k@ ti la-vE ko-m@-se # il la gaR-de tRE l§-t@ .
 greg06.cha 2 1 25 a-t@-sj§ gRe-gwaR !
 greg06.cha 2 1 25 wi .
 greg06.cha 2 1 25 p°-ti ko-k5 .
@@ -3295,7 +3295,7 @@ greg06.cha 2 1 25 a !
 greg06.cha 2 1 25 E le-tE pa d@ l2 sjEl ?
 greg06.cha 2 1 25 Z2 n2 lE pa vy .
 greg06.cha 2 1 25 la so-sis vo-l@t ty la vy lot ZuR !
-greg06.cha 2 1 25 Z2 n2 lE pa vy d@ l2 sjEl mE l8i i li a p2 tEt p@-se .
+greg06.cha 2 1 25 Z2 n2 lE pa vy d@ l2 sjEl mE l8i i li a p2 Et p@-se .
 greg06.cha 2 1 25 gRe-gwaR dOn le pOm d2 tER Se-Ri .
 greg06.cha 2 1 25 gRe-gwaR s2 n2 s§ pa de bal !
 greg06.cha 2 1 25 dOn le pOm d2 tER .
@@ -3661,7 +3661,7 @@ greg07.cha 2 3 01 i le ka-se l2 bo-nOm ?
 greg07.cha 2 3 01 il l8i m@k kwa ?
 greg07.cha 2 3 01 biG !
 greg07.cha 2 3 01 o la la !
-greg07.cha 2 3 01 se l@-f@ ki sE l2 mj2 Zwe o vwa-tyR d2 me tRwa z@-f@ .
+greg07.cha 2 3 01 se l@-f@ ki sE l2 mj2 Zwe o vwa-tyR d2 me tRwa @-f@ .
 greg07.cha 2 3 01 vwa-la 1 no tR@-f@ la .
 greg07.cha 2 3 01 1 no tR@-f@ ki s2 d°-m@d puR-kwa § s5-te-REs pa ply za l8i .
 greg07.cha 2 3 01 e wi m§ pov vik-tOR !
@@ -3955,7 +3955,7 @@ greg07.cha 2 3 01 m5t-n@ , s2 ma-t5 , tu ta l9R , di tu ta # , a-lOR tu sa sa f�
 greg07.cha 2 3 01 a !
 greg07.cha 2 3 01 § va sOR-tiR m5t-n@ .
 greg07.cha 2 3 01 § va fER sa m5t-n@ .
-greg07.cha 2 3 01 e s2 ma-t5 , se pa fOR-se-m@ puR s2 ma-t5 sa p2 tE tRjER n§ ?
+greg07.cha 2 3 01 e s2 ma-t5 , se pa fOR-se-m@ puR s2 ma-t5 sa p2 E tRjER n§ ?
 greg07.cha 2 3 01 2 se pa e-vi-d@ paRs k2 Sak fwa kil la di sa pu-vE maR-Se pRe-si-ze-m@ s2 ma-t5 .
 greg07.cha 2 3 01 a a .
 greg07.cha 2 3 01 mE jER , e d°-m5 , i a pa @-kOR d2 nO-tj§ si vag .
@@ -4097,7 +4097,7 @@ greg07.cha 2 3 01 a di d§k !
 greg07.cha 2 3 01 Z2 dwa diR k2 k@ ta-Ri va El-ve 1 gOs kOm sa se k2 ty t2 de-bRuj pa mal .
 greg07.cha 2 3 01 mE a-lOR s2 k2 Za-vE fE a-lOR sl8i la e-vi-da-m@ a-dRi-j5 vy la dis-po-zi-sj§ d2 la k8i-zin l8i a m§-tRe dE-RjER s§ do kOm si i a-vE 1 m§st ki a-Ri-vE paR la pORt d2 la k8i-zi ni la di o gRe-gwa R1 m§stR !
 greg07.cha 2 3 01 l2 gO sa e-te ap-so-ly-m@ tE-Ri-fje i la pl§-Ze d@ me bRa dy o d2 sa SEz d2 be-be e i la vRE-m@ y yn gRos gRos gRo s@-gwas k§ na R°-tRu-ve l2 swaR su fORm d2 koS-maR d2 yR-l°-m@ .
-greg07.cha 2 3 01 a tRwa z9R dy ma-t5 i le-tE d@ m§ li @ kRi-j@ ki li a-vE de m§stR .
+greg07.cha 2 3 01 a tRwa 9R dy ma-t5 i le-tE d@ m§ li @ kRi-j@ ki li a-vE de m§stR .
 greg07.cha 2 3 01 e p8i d°-p8i § na t8e le m§stR .
 greg07.cha 2 3 01 a mE se bj5 a-lOR !
 greg07.cha 2 3 01 § le za t8e .
@@ -4131,7 +4131,7 @@ greg07.cha 2 3 01 n§ kE le t§ n§ ?
 greg07.cha 2 3 01 ty paRl sa sa v2 diR fi-Se mwa la pE , Z@ nE maR d2 fER l2 s5Z .
 greg07.cha 2 3 01 a wi .
 greg07.cha 2 3 01 paRs kil ko-nE tRE bj5 s§ n§ .
-greg07.cha 2 3 01 d2 z@ di sE t@-f@ pl5 dy-muR .
+greg07.cha 2 3 01 d2 @ di sE t@-f@ pl5 dy-muR .
 greg07.cha 2 3 01 ty sE ki la 1 ny-muR p5s s@ RiR puR nu z@-vwa-je pROm-ne .
 greg07.cha 2 3 01 ty a pa dy l8i do-ne k@ mE myn fe-se bj5 me-S@t .
 greg07.cha 2 3 01 wi .
@@ -4241,9 +4241,9 @@ greg07.cha 2 3 01 n§ vu ma-ga-se a d°-m@-de tu l2 t@ kElk Soz .
 greg07.cha 2 3 01 paR pR5-sip vu n@ no-Re pa o-ZuR-d8i .
 greg07.cha 2 3 01 se tRo ZE de-Za Re-p§-dy n§ a vik-tOR .
 greg07.cha 2 3 01 du v2 ty de-s@dR ?
-greg07.cha 2 3 01 Es k2 mwa ZE d2 z@ mwa ?
-greg07.cha 2 3 01 se twa ki a d2 z@ .
-greg07.cha 2 3 01 d2 z@ kwa ?
+greg07.cha 2 3 01 Es k2 mwa ZE d2 @ mwa ?
+greg07.cha 2 3 01 se twa ki a d2 @ .
+greg07.cha 2 3 01 d2 @ kwa ?
 greg07.cha 2 3 01 8it .
 greg07.cha 2 3 01 8it ?
 greg07.cha 2 3 01 se a-dRi-j5 ki a 8i t@ .
@@ -4251,7 +4251,7 @@ greg07.cha 2 3 01 a-dRi-j5 a 8i t@ .
 greg07.cha 2 3 01 vik-tO Ra s5 k@ .
 greg07.cha 2 3 01 e-ku te-kut gRe-gwaR .
 greg07.cha 2 3 01 1 d2 tRwa kat s5k .
-greg07.cha 2 3 01 kRis-tj@ a d2 z@ .
+greg07.cha 2 3 01 kRis-tj@ a d2 @ .
 greg07.cha 2 3 01 ty paR lwE Zys ko tRo-N§ m§ vj2 .
 greg07.cha 2 3 01 wi sa a-lOR .
 greg07.cha 2 3 01 paRs kil k§t k@ til v2 .
@@ -4518,7 +4518,7 @@ greg08.cha 2 5 01 wi mE l2 mj2 se l2 p°-ti b@ .
 greg08.cha 2 5 01 a se t§ p°-ti b@ .
 greg08.cha 2 5 01 puR fER pi-pi .
 greg08.cha 2 5 01 a-lOR ty E gR@ m5t-n@ .
-greg08.cha 2 5 01 i le pROp Zu Re n8i s2 gaR-s§ d2 d2 z@ e kat mwa .
+greg08.cha 2 5 01 i le pROp Zu Re n8i s2 gaR-s§ d2 d2 @ e kat mwa .
 greg08.cha 2 5 01 Z2 ko-nE kEl-k1 ki dwa Et tRE k§-t@ .
 greg08.cha 2 5 01 wi wi sa Ed .
 greg08.cha 2 5 01 Z2 ko-nE kEl-k1 ki dwa Et tRE k§-t@ .
@@ -4565,7 +4565,7 @@ greg08.cha 2 5 01 il n2 t2 pus pa sl8i la ?
 greg08.cha 2 5 01 a-lO Ri a 1 pRo-blEm .
 greg08.cha 2 5 01 se tRE k§-plEks .
 greg08.cha 2 5 01 sa Za-Riv pa a k§-pR@ dREg-zak-t°-m@ .
-greg08.cha 2 5 01 k@ til s2 vwa d2 pRo-fi lil n2 s2 R°-ko-nE pa syR le fo-to u il fE kOm si se-tE t1 notR .
+greg08.cha 2 5 01 k@ til s2 vwa d2 pRo-fi lil n2 s2 R°-ko-nE pa syR le fo-to u il fE kOm si se-tE 1 notR .
 greg08.cha 2 5 01 a .
 greg08.cha 2 5 01 Z2 sE pa u i l@ ne Eg-zak-t°-m@ .
 greg08.cha 2 5 01 a .
@@ -5003,7 +5003,7 @@ greg09.cha 2 5 13 ki se ?
 greg09.cha 2 5 13 ty sE pa ?
 greg09.cha 2 5 13 a-dRi-j5 il t@ na do-ne .
 greg09.cha 2 5 13 e pi twa ty k9-jE tu s2 ki e-tE Ru Za-lOR ZE fE 1 p°-ti p2 a-t@-sj§ .
-greg09.cha 2 5 13 pi t§ pER ta-vE di k2 Z2 n2 sE ply kEl bE d2 my-gE ki e-tE myR bj5 RuZ se-tE tyn to-mat .
+greg09.cha 2 5 13 pi t§ pER ta-vE di k2 Z2 n2 sE ply kEl bE d2 my-gE ki e-tE myR bj5 RuZ se-tE yn to-mat .
 greg09.cha 2 5 13 o !
 greg09.cha 2 5 13 a-lOR Z2 lE tRu-ve @ tR5 d2 bu-fe de tRy kap-so-ly-m@ pwa-z§ .
 greg09.cha 2 5 13 o sa l2 my-gE se ap-so-ly-m@ pwa-z§ .
@@ -5276,8 +5276,8 @@ greg09.cha 2 5 13 a-vE k1 ba-to ki R°-s@b bo-ku o tj5 .
 greg09.cha 2 5 13 a § va R°-gaR-de .
 greg09.cha 2 5 13 @ ba-to .
 greg09.cha 2 5 13 a-lOR sOR sa d2 t§ bE ko-si paRs k2 Z2 v2 pa k2 le be-be se-tu fa-vEk de p°-ti bu d2 ZwE .
-greg09.cha 2 5 13 sa se-tE l2 liv pRe-fe-Re da-dRi-j5 @ tR1 n@ e d2 z@ .
-greg09.cha 2 5 13 a d2 z@ e d°-mi il vu-lE liR syR s2 livR .
+greg09.cha 2 5 13 sa se-tE l2 liv pRe-fe-Re da-dRi-j5 @ tR1 n@ e d2 @ .
+greg09.cha 2 5 13 a d2 @ e d°-mi il vu-lE liR syR s2 livR .
 greg09.cha 2 5 13 Z2 tE Ra-k§-te lis-twaR d2 te-o le lEt kil R°-SER-SE .
 greg09.cha 2 5 13 se la ki la fE .
 greg09.cha 2 5 13 ZE ka-Se sa e il ma di sa fE .
@@ -5370,7 +5370,7 @@ greg09.cha 2 5 13 a wi .
 greg09.cha 2 5 13 mE i la y-ti-li-ze 1 ki , o-si @ po-zi-sj§ 2 a-t@ ko-m@ se-tE Z2 @-f5 a-t@ .
 greg09.cha 2 5 13 l@-te-se-d@ d2 ki , e-tE lOb-ZE d2 la pRo-po-zi-sj§ pR5-si-pal dy Z@R Z2 SERS l2 Sa ki fE s°-si s°-la .
 greg09.cha 2 5 13 a wi .
-greg09.cha 2 5 13 se-tE tyn pRe-si-zj§ tRE nEt pu REk-spli-ke s2 kil v°-nE d2 fER mE se-tE d@ zyn tu tot k§s-tRyk-sj§ k2 se ki .
+greg09.cha 2 5 13 se-tE yn pRe-si-zj§ tRE nEt pu REk-spli-ke s2 kil v°-nE d2 fER mE se-tE d@ zyn tu tot k§s-tRyk-sj§ k2 se ki .
 greg09.cha 2 5 13 ko-m@ gRe-gwaR ?
 greg09.cha 2 5 13 a-vEk s§ a-t@ a-dRi-j5 .
 greg09.cha 2 5 13 a-vEk kwa il naZ ?
@@ -5491,7 +5491,7 @@ greg09.cha 2 5 13 e-fEk-tiv-m@ .
 greg09.cha 2 5 13 a-lOR sa se 1 p°-ti pwa-s§ e sa se 1 ?
 greg09.cha 2 5 13 i le p°-ti ?
 greg09.cha 2 5 13 i le p°-ti .
-greg09.cha 2 5 13 il ta di k2 la ba-lEn se-tE t1 gRo pwa-s§ 5 tu ta l9R .
+greg09.cha 2 5 13 il ta di k2 la ba-lEn se-tE 1 gRo pwa-s§ 5 tu ta l9R .
 greg09.cha 2 5 13 wi .
 greg09.cha 2 5 13 e sa ty ko-nE ?
 greg09.cha 2 5 13 5 ?
@@ -5575,7 +5575,7 @@ greg09.cha 2 5 13 wi se de pi-Z§ se de zwa-zo .
 greg09.cha 2 5 13 pa fOR-se-m@ de pi-Z§ paRs k2 sa Es k2 se de pi-Z§ se zwa-zo ki § 1 gR@ bEk la .
 greg09.cha 2 5 13 n§ se de pi-Z§ ?
 greg09.cha 2 5 13 ty kRwa ?
-greg09.cha 2 5 13 e l2 bE ku se ki le ti le d°-v@ u i le dE-RjER ?
+greg09.cha 2 5 13 e l2 bE ku se ki le i le d°-v@ u i le dE-RjER ?
 greg09.cha 2 5 13 wi ?
 greg09.cha 2 5 13 i le u ?
 greg09.cha 2 5 13 ty sE pa .
@@ -6016,7 +6016,7 @@ greg10.cha 2 5 27 mE a-lOR sa s°-kwE ?
 greg10.cha 2 5 27 e i a-vE kEl-k1 d@ sEt dZip ?
 greg10.cha 2 5 27 ty le ko-nE-sE ?
 greg10.cha 2 5 27 ki se-tE ?
-greg10.cha 2 5 27 se-tE t1 m°-sj2 .
+greg10.cha 2 5 27 se-tE 1 m°-sj2 .
 greg10.cha 2 5 27 mE il vu-lE pa e-kRa-ze kEl-k1 ?
 greg10.cha 2 5 27 a b§ mE ty na-vE pa p2R d2 la dZip .
 greg10.cha 2 5 27 E le-tE Z@-tij la dZi pwi da-kOR .
@@ -6035,7 +6035,7 @@ greg10.cha 2 5 27 ty tE be-Ne d@ la mER ?
 greg10.cha 2 5 27 a se bj5 sa .
 greg10.cha 2 5 27 e lo E le-tE fRwad ?
 greg10.cha 2 5 27 mE sa fE Rj5 .
-greg10.cha 2 5 27 E le-tE t1 p°-ti p2 Sod da-kOR .
+greg10.cha 2 5 27 E le-tE 1 p°-ti p2 Sod da-kOR .
 greg10.cha 2 5 27 ki se ki se mu-je le pje ?
 greg10.cha 2 5 27 a b5 se nOR-mal .
 greg10.cha 2 5 27 pa-pa il se mu-je le pje e a-lO Re te fRER ?
@@ -6053,7 +6053,7 @@ greg10.cha 2 5 27 e wi i le-tE a-le a-vEk ma-m@ paRs kil se-tE di la dZip va p2 
 greg10.cha 2 5 27 se-tE sa ?
 greg10.cha 2 5 27 mwa ?
 greg10.cha 2 5 27 mE mwa Ze-tE pa o bOR d2 la mE Ra-vEk twa ma-l2-R2z-m@ paRs k2 sa dwa Et bj5 dE tRo bOR d2 la mER puR s2 be-Ne .
-greg10.cha 2 5 27 Es k2 se-tE tyn mE Ru § p2 Ra-ma-se de So za m@-Ze ?
+greg10.cha 2 5 27 Es k2 se-tE yn mE Ru § p2 Ra-ma-se de So za m@-Ze ?
 greg10.cha 2 5 27 n§ .
 greg10.cha 2 5 27 n§ se pa yn mE Ru § p2 Ra-ma-se de So za m@-Ze .
 greg10.cha 2 5 27 syR lat-l@-ti ki a de kR°-vEt mE .

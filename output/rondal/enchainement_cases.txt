@@ -538,10 +538,8 @@
 883    une autre                     Ry not                        et encore une autre musique ?
 888    qu' est-ce                    kEs                          qu' est-ce que tu veux *
 892    n' derange                    n#                           n' derange pas tout encore une
-892    tout encore                   tu t@-kOR                     derange pas tout encore une
-892    encore une                    t@-kO Ryn                     pas tout encore une fois
+892    encore une                    @-kO Ryn                      pas tout encore une fois
 896    c' est                        se                           c' est pas bien penche .
-897    bon i'                        bO ni                         aha bon i' m' semblait bien
 897    m' semblait                   ms@-blE                      bon i' m' semblait bien
 898    c' est                        se                           non c' est pas comme ca
 901    en a                          @ na                          y en a assez stephane y
@@ -2011,7 +2009,6 @@
 3481   qu' est-ce                    kEs                          qu' est-ce qu' elle fait avec
 3481   qu' elle                      kEl                          qu' est-ce qu' elle fait avec
 3484   l' as                         la                           tu l' as aussi dans trois
-3484   trois enregistrements         tRwa z@R-Zis-tR°-m@           aussi dans trois enregistrements sur
 3485   l' enregistreur               l@R-Zis-tR9R                 est dans l' enregistreur ?
 3486   l' enregistreur               l@R-Zis-tR9R                 est dans l' enregistreur .
 3487   l' enregistreur               l@R-Zis-tR9R                 ouais dans l' enregistreur ah bon
@@ -2319,8 +2316,7 @@
 3956   l' eau                        lo                           met dans l' eau pour
 3957   d' dans                       dd@                          bain la d' dans .
 3959   t' es                         tE                           t' es bien trop grand maint'
-3963   il est                        i let                         mais chatchat il est il n'
-3963   est il                        le til                        chatchat il est il n'
+3963   il est                        i le                          mais chatchat il est il n'
 3963   n' aime                       nEm                          est il n' aime pas
 3964   n' prennent                   npREn                        chats i' n' prennent pas
 3965   n' vont                       nv§                          i' n' vont jamais dans l'
@@ -2617,7 +2613,6 @@
 4426   qu' on                        k§n                          maint' nant qu' on en
 4426   on en                         k§ n@n                        nant qu' on en a
 4426   en a                          n@ na                         qu' on en a mis
-4427   peut il                       p2 til                        i' peut il peut voler l'
 4427   l' avion                      la-vj§                       peut voler l' avion .
 4428   n' a                          na                           i' n' a plus besoin d'
 4428   d' essence                    de-s@s                       plus besoin d' essence .
@@ -2874,12 +2869,10 @@
 4841   l' avion                      la-vj§                       ainsi dans l' avion ?
 4842   c' est                        se                           c' est l' autre stephane *
 4842   l' autre                      lot                          c' est l' autre stephane *
-4843   fait il                       fE til                        a fait il a fait des
-4843   il a                          ti la                         a fait il a fait des
+4843   il a                          i la                          a fait il a fait des
 4844   l' autre                      lot                          l' autre stephane qui a fait
 4845   il a                          i la                          il a fait il a fait
-4845   fait il                       fE til                        il a fait il a fait
-4845   il a                          ti la                         a fait il a fait
+4845   il a                          i la                          a fait il a fait
 4848   c' est                        se                           c' est lui qui jouait avec
 4848   avec en                       a-vE k@                       qui jouait avec en tout
 4850   l' ciel                       lsjEl                        dans l' ciel oui .
@@ -3251,7 +3244,7 @@
 5512   n' sait                       nsE                          non on n' sait pas
 5517   qu' il                        kil                          ou est-ce qu' il est le
 5517   il est                        ki le                         est-ce qu' il est le
-5518   vert a                        vER ta                        le wagon vert a maman
+5518   vert a                        vE Ra                         le wagon vert a maman
 5519   n' sais                       nsE                          moi je n' sais pas
 5519   c' est                        se                           pas si c' est un
 5519   hasard ou                     a-za Ru                       est un hasard ou pas
@@ -3266,7 +3259,6 @@
 5530   stephane allons               ste-fa na-l§                  le train stephane allons .
 5544   c' est                        se                           c' est poupou qui a fait
 5545   c' etait                      se-tE                        c' etait un merveilleux enregistrement hein
-5545   merveilleux enregistrement    mER-vE-j2 z@R-Zis-tR°-m@      etait un merveilleux enregistrement hein
 5546   c' est                        se                           c' est papa et maman qui
 5547   stephane i'                   ste-fa ni                     stephane i' n' dit rien .
 5547   n' dit                        ndi                          stephane i' n' dit rien .
@@ -4303,7 +4295,6 @@
 7095   en a                          @ na                          i' y en a plus
 7098   parle un                      paR l1                        ben dis parle un peu conv'
 7102   en a                          @ na                          y en a plus que deux
-7102   deux y                        d2 zi                         plus que deux y en
 7102   en a                          @ na                          deux y en a beaucoup
 7105   n' mets                       nmE                          non tu n' mets pas ca
 7110   c' est                        se                           c' est pas un sac c'
@@ -4448,7 +4439,6 @@
 7340   t' mettais                    tmE-tE                       si tu t' mettais a terre
 7342   l' autre                      lotR                         allez mets l' autre .
 7343   s' ra                         sRa                          terre ce s' ra .
-7344   froid a                       fRwa ta                       i' fait froid a tes pieds
 7348   n' sais                       nsE                          tu n' sais pas .
 7349   n' sais                       nsE                          tu n' sais pas attacher .
 7350   tire un                       ti R1                         tire un peu * * .
@@ -4770,7 +4760,7 @@
 7888   c' est                        se                           ah c' est tres bien .
 7889   montre un                     m§ tR1                        montre un peu le blanc a
 7891   vert alors                    vE Ra-lOR                     le vert alors .
-7892   vert a                        vER ta                        montre le vert a maman .
+7892   vert a                        vE Ra                         montre le vert a maman .
 7894   c' est                        se                           ca c' est rouge .
 7897   c' est                        se                           c' est la le vert dedans
 7898   c' est                        se                           ca c' est bleu .
@@ -5215,8 +5205,7 @@
 8592   d' place                      dplas                        pas assez d' place encore
 8592   place encore                  dpla s@-kOR                   assez d' place encore pour
 8592   pour en                       pu R@                         place encore pour en mettre
-8592   mettre un                     mE tR1n                       pour en mettre un encore
-8592   un encore                     tR1 n@-kOR                    en mettre un encore ?
+8592   mettre un                     mE tR1                        pour en mettre un encore
 8594   n' fais                       nfE                          tu n' fais pas une place
 8596   l' autre                      lot                          oui l' autre doigt .
 8597   d' la                         dla                          tu prends d' la place
@@ -5322,8 +5311,7 @@
 8794   qu' y                         ki                           qu' est-ce qu' y a dedans
 8795   n' sais                       nsE                          tu n' sais pas ?
 8796   qu' est-ce                    kEs                          qu' est-ce qui en encore eu
-8796   en encore                     @ n@-kOR                      est-ce qui en encore eu
-8796   encore eu                     n@-kO Ry                      qui en encore eu un
+8796   encore eu                     @-kO Ry                       qui en encore eu un
 8796   un oeuf                       1 n9f                         encore eu un oeuf comme
 8798   un oeuf                       1 n9f                         un oeuf comme ca qu' est-ce
 8798   qu' est-ce                    kEs                          comme ca qu' est-ce qui
@@ -5838,7 +5826,6 @@
 9571   qu' est-ce                    kEs                          qu' est-ce qui va encore dans
 9571   l' ciel                       lsjEl                        encore dans l' ciel ?
 9572   l' avion                      la-vj§                       y a l' avion et encore
-9575   deux avions                   d2 za-vj§                     deux avions ?
 9579   qu' est-ce                    kEs                          qu' est-ce que c' est ?
 9579   c' est                        se                           est-ce que c' est ?
 9580   l' helicoptere                l#                           l' helicoptere .
@@ -6156,7 +6143,6 @@
 10076  en a                          @ na                          y en a beaucoup .
 10078  c' est                        se                           c' est beaucoup ca deux .
 10079  n' avancent                   na-v@s                       elles n' avancent plus m .
-10079  plus m                        ply zEm                       n' avancent plus m .
 10089  d' le                         dl2                          ferais mieux d' le laisser
 10090  qu' je                        kZ2                          tu veux qu' je l' attache
 10090  l' attache                    la-taS                       qu' je l' attache ?
@@ -6821,9 +6807,8 @@
 11089  n' s'                         ns                           on n' s' en va pas
 11089  s' en                         ns@                          on n' s' en va pas
 11090  n' sait                       nsE                          que maman n' sait pas
-11093  sort on                       sOR t§                        aujourd'hui on sort on n' y
+11093  sort on                       sO R§                         aujourd'hui on sort on n' y
 11093  n' y                          ni                           sort on n' y va
-11094  froid aujourd'hui             fRwa to-ZuR-d8i               fait trop froid aujourd'hui .
 11095  il est                        i le                          et puis il est trop tard
 11099  avec oh                       a-vE ko                       avec oh il est chez lui
 11099  il est                        i le                          avec oh il est chez lui
@@ -6905,7 +6890,6 @@
 11200  des histoires                 de zis-twaR                   vite raconter des histoires .
 11201  d' histoires                  dis-twaR                     ton liv' d' histoires tiens
 11202  les histoires                 le zis-twaR                   raconter les histoires des trois ours
-11202  trois ours                    tRwa zuRs                     histoires des trois ours .
 11207  les images                    le zi-maZ                     les images oui .
 11207  images oui                    zi-ma Zwi                     les images oui .
 11210  d' place                      dplas                        a pas d' place .
@@ -6958,8 +6942,7 @@
 11296  n' sais                       nsE                          je n' sais pas c' que
 11296  c' que                        sk2                          sais pas c' que tu
 11298  l' liv'                       l#                           r' garder l' liv' ?
-11301  cherche un                    SER S1n                       cherche un avec des histoires hein
-11301  un avec                       S1 na-vEk                     cherche un avec des histoires hein
+11301  cherche un                    SER S1                        cherche un avec des histoires hein
 11301  des histoires                 de zis-twaR                   un avec des histoires hein
 11302  c' ui~la                      s#                           rien dans c' ui~la .
 11304  n' as                         na                           tu n' as pas besoin de
@@ -6976,14 +6959,11 @@
 11340  n' est                        sne                          non c' n' est pas la
 11342  c' est                        se                           c' est un wagon .
 11347  n' joues                      nZu                          tu n' joues plus avec le
-11347  plus avec                     ply za-vEk                    n' joues plus avec le
 11348  c' est                        se                           c' est tout sorti et puis
 11348  n' joues                      nZu                          puis tu n' joues plus
-11348  plus avec                     ply za-vEk                    n' joues plus avec .
 11349  j' tu                         Sty                          j' tu as mis tout dehors
 11350  sortir et                     sOR-ti Re                     fait tout sortir et puis
 11350  n' joues                      nZu                          puis tu n' joues plus
-11350  plus avec                     ply za-vEk                    n' joues plus avec .
 11355  n' sais                       nsE                          je n' sais pas moi cheri
 11356  qu' on                        k§n                          tu veux qu' on aille faire
 11356  on aille                      k§ naj                        veux qu' on aille faire
@@ -7756,8 +7736,7 @@
 12449  n' sais                       nsE                          je n' sais pas .
 12450  qu' est-ce                    kEs                          qu' est-ce que tu veux *
 12460  cherche apres                 SER Sa-pRE                    ben cherche apres un mon tresor
-12461  deux heures                   d2 z9R                        pas pendant deux heures apres
-12461  heures apres                  z9 Ra-pRE                     pendant deux heures apres un
+12461  heures apres                  9 Ra-pRE                      pendant deux heures apres un
 12463  qu' est-ce                    kEs                          ouf qu' est-ce que c' est
 12463  c' est                        se                           est-ce que c' est ca
 12464  c' est                        se                           c' est des nouveaux animaux obtenus
@@ -8154,7 +8133,6 @@
 13018  mettre a                      mE tRa                        faut les mettre a terre
 13018  s' i'                         si                           pour voir s' i' n'
 13018  n' sont                       ns§                          s' i' n' sont pas
-13024  marcher on                    maR-Se R§                     pour marcher on met d' la
 13024  d' la                         dla                          on met d' la peinture
 13025  c' est                        se                           c' est des enveloppes .
 13025  des enveloppes                de z@-vlOp                    c' est des enveloppes .
@@ -9136,9 +9114,8 @@
 14345  n' sais                       nsE                          mais je n' sais pas
 14345  pile est                      pi le                         le la pile est encore
 14346  qu' il                        kil                          je crois qu' il est elle
-14346  il est                        ki let                        crois qu' il est elle
-14346  est elle                      le tEl                        qu' il est elle est
-14346  elle est                      tE le                         il est elle est trop
+14346  il est                        ki le                         crois qu' il est elle
+14346  elle est                      E le                          il est elle est trop
 14348  on ira                        § ni-Ra                       on ira ach' ter une pile
 14348  ter une                       tE Ryn                        ira ach' ter une pile
 14350  n' saurais                    nso-RE                       je n' saurais pas hein cheri
@@ -9845,7 +9822,6 @@
 15093  s' i'                         si                           s' i' fait chaud demain on
 15093  on ira                        § ni-Ra                       chaud demain on ira dans
 15094  n' fait                       nfE                          nant i' n' fait pas
-15094  chaud i'                      So ti                         fait pas chaud i' fait
 15095  mettre un                     mE tR1                        on doit mettre un gilet
 15095  pour aller                    pu Ra-le                      un gilet pour aller dehors
 15096  t' as                         ta                           t' as mis un gilet oui
@@ -10228,7 +10204,6 @@
 15569  avec un                       a-vE k1                       tit chien avec un beau
 15571  c' est                        se                           c' est pour stephane .
 15572  c' est                        se                           c' est mis heureux anniversaire .
-15572  heureux anniversaire          2-R2 za-ni-vER-sER            est mis heureux anniversaire .
 15573  bon anniversaire              bO na-ni-vER-sER              bon anniversaire .
 15574  faire une                     fE Ryn                        on va faire une birthday party
 15575  faire un                      fE R1                         va en faire un et
@@ -10249,9 +10224,7 @@
 15593  il aura                       ni lo-Ra                      et stephane il aura aussi un
 15600  stephane il                   ste-fa nil                    parce que stephane il aura trois
 15600  il aura                       ni lo-Ra                      que stephane il aura trois
-15600  trois ans                     tRwa z@                       il aura trois ans .
 15601  c' est                        se                           stephane c' est toi .
-15602  trois ans                     tRwa z@                       tu auras trois ans .
 15603  prochaine on                  pRo-SE n§                     la semaine prochaine on f'
 15604  on aura                       § no-Ra                       et on aura beaucoup des petits
 15604  petits enfants                p°-ti z@-f@                   beaucoup des petits enfants qui
@@ -11313,9 +11286,7 @@
 17067  stephane a                    ste-fa na                     stephane a quel age ?
 17067  quel age                      kE laZ                        stephane a quel age ?
 17069  quel age                      kE laZ                        tu as quel age ?
-17070  trois ans                     tRwa z@                       tu as trois ans .
 17072  t' as                         ta                           t' as trois ans oui .
-17072  trois ans                     tRwa z@                       t' as trois ans oui .
 17073  t' appelles                   ta-pEl                       que tu t' appelles ?
 17077  m' appelle                    ma-pEl                       moi je m' appelle stephane rondal
 17079  c' est                        se                           oui ca c' est ta maison
@@ -11600,7 +11571,6 @@
 17411  donne un                      dO n1                         donne un peu .
 17413  n' a                          na                           elle n' a pas encore remonte
 17414  n' met                        nmE                          oh on n' met pas son
-17418  froid aujourd'hui             fRwa to-ZuR-d8i               fait trop froid aujourd'hui pour
 17419  n' peut                       np2                          aujourd'hui on n' peut pas met'
 17422  t' en                         t@                           je t' en prie .
 17423  qu' il                        kil                          oh si qu' il fait trop
@@ -11689,7 +11659,6 @@
 17534  c' est                        se                           ca c' est boit et ca
 17534  c' est                        se                           et ca c' est lait
 17537  c' ui~la                      s#                           dans c' ui~la y a un
-17537  gros o                        gRo zo                        a un gros o .
 17542  montre un                     m§ tR1                        montre un peu o .
 17544  t' faire                      tfER                         tu vas t' faire mal .
 17555  l' aut'                       l#                           veux lire l' aut' mot
@@ -11700,7 +11669,6 @@
 17566  qu' est-ce                    kEs                          qu' est-ce qu' on va manger
 17566  qu' on                        k§                           qu' est-ce qu' on va manger
 17569  c' est                        se                           ca c' est des macarronis .
-17573  bas i'                        ba zi                         p' tits bas i' vont
 17575  qu' est-ce                    kEs                          qu' est-ce que t' as fait
 17575  t' as                         ta                           est-ce que t' as fait
 17578  qu' est-ce                    kEs                          qu' est-ce que c' est ca
@@ -11925,7 +11893,6 @@
 17933  d' met'                       d#                           pas besoin d' met' ca
 17935  n' joue                       nZu                          on n' joue pas avec ca
 17937  quel age                      kE laZ                        tu as quel age ?
-17938  trois ans                     tRwa z@                       trois ans .
 17939  c' est                        se                           ca c' est bien .
 17941  t' appelles                   ta-pEl                       que tu t' appelles ?
 17943  t' appelles                   ta-pEl                       que tu t' appelles ?
@@ -11937,7 +11904,6 @@
 17951  n' sais                       nsE                          ah je n' sais pas ou
 17953  pour allumer                  pu Ra-ly-me                   pour allumer .
 17956  n' fait                       nfE                          non i' n' fait pas clair
-17957  gris aujourd'hui              gRi zo-ZuR-d8i                fait tout gris aujourd'hui .
 17961  n' fait                       nfE                          i' n' fait pas du soleil
 17962  t' faire                      tfER                         tu vas t' faire mal si
 17963  faire oui                     fE Rwi                        tu voulais faire oui .
@@ -11990,7 +11956,6 @@
 18013  ils ont                       kil z§                        est-ce qu' ils ont fait
 18013  l' train                      ltR5                         maman dans l' train ?
 18016  l' moteur                     lmo-t9R                      vas avancer l' moteur ?
-18019  bon a                         bO na                         bon a tantot .
 18020  n' va                         nva                          i' n' va pas ?
 18024  n' avance                     na-v@s                       la betonneuse n' avance pas
 18025  garde un                      gaR d1                        ' garde un peu toutes les
@@ -12267,8 +12232,7 @@
 18382  il a                          ki la                         est~ce qu' il a ?
 18383  c' est                        se                           oh c' est un wagon avec
 18384  c' est                        se                           et ca c' est un encore
-18384  un encore                     1 n@-kOR                      c' est un encore un
-18384  encore un                     n@-kO R1                      est un encore un wagon
+18384  encore un                     @-kO R1                       est un encore un wagon
 18384  l' essence                    le-s@s                       avec de l' essence .
 18385  n' sais                       nsE                          celui~la je n' sais pas
 18385  c' qu'                        sk                           sais pas c' qu' i'
@@ -13657,15 +13621,9 @@
 20223  t' es                         tE                           t' es plus grand que tchitchi
 20224  elle est                      E le                          tchitchi elle est plus petite .
 20225  n' a                          na                           elle n' a que deux ans
-20225  deux ans                      d2 z@                         a que deux ans tchitchi
-20225  trois ans                     tRwa z@                       tu as trois ans .
 20226  montre un                     m§ tR1                        montre un peu .
-20227  trois ans                     tRwa z@                       tu as trois ans sur
 20228  n' a                          na                           non tchitchi n' a pas trois
-20228  trois ans                     tRwa z@                       a pas trois ans .
 20229  elle a                        E la                          elle a deux ans tchitchi .
-20229  deux ans                      d2 z@                         elle a deux ans tchitchi .
-20230  trois ans                     tRwa z@                       tu as trois ans oui
 20232  il est                        i le                          herve il est plus grand .
 20233  il a                          i la                          il a quatre ans herve .
 20233  quatre ans                    ka tR@                        il a quatre ans herve .
@@ -14279,7 +14237,6 @@
 21068  l' abimer                     l#                           tu vas l' abimer hein
 21070  qu' est                       ke                           qu' est ce oh pas c'
 21070  c' ui~la                      s#                           oh pas c' ui~la cheri
-21072  un avec                       1 na-vEk                      un avec des jouets ?
 21073  d' ssus                       d#                           la au d' ssus .
 21075  c' est                        se                           c' est ceux~la avec les jouets
 21077  c' ui~la                      s#                           jouets dans c' ui~la .
@@ -14569,7 +14526,6 @@
 21443  c' est                        se                           petit morceau~la c' est le
 21443  d' maman                      dma-m@                       le pied d' maman .
 21444  c' est                        se                           aha oui c' est vrai ca
-21451  chaud i'                      So ti                         i' fait chaud i' y a
 21457  c' t'                         st                           oui c' t' un bateau .
 21457  t' un                         st1                          oui c' t' un bateau .
 21458  c' t'                         st                           c' t' un gros bateau ca
@@ -14738,7 +14694,6 @@
 21704  ton enregistreur              t§ n@R-Zis-tR9R               il est ton enregistreur ?
 21705  l' chercher                   lSER-Se                      tu aller l' chercher ?
 21707  ton enregistreur              t§ n@R-Zis-tR9R               voila ton enregistreur ?
-21708  bon a                         bO na                         bon a tantot .
 21710  t' as                         ta                           t' as besoin d' ton porte
 21710  d' ton                        dt§                          as besoin d' ton porte
 21720  faire attention               fE Ra-t@-sj§                  ' faut faire attention de n'
@@ -15328,7 +15283,6 @@
 22501  c' est                        se                           ah ca c' est vert ?
 22502  n' a                          na                           y en n' a plus ?
 22503  en a                          @ na                          ouh y en a encore des
-22504  bon i'                        bO ni                         ohoh bon i' m' semblait bien
 22504  m' semblait                   ms@-blE                      bon i' m' semblait bien
 22508  c' est                        se                           oui ca c' est un
 22509  en a                          @ na                          si y en a encore des
@@ -15843,7 +15797,6 @@
 23260  n' a                          na                           oh on n' a rien mis
 23260  hier a                        jE Ra                         rien mis hier a l'
 23260  l' ecole                      le-kOl                       hier a l' ecole ?
-23263  un m                          1 nEm                         un m .
 23269  qu' est-ce                    kEs                          le soir qu' est-ce qu'
 23269  qu' on                        k§n                          qu' est-ce qu' on a
 23269  on a                          k§ na                         est-ce qu' on a fait
@@ -15872,10 +15825,8 @@
 23290  sonne aux                     sO no                         t' as sonne aux portes ?
 23292  c' n'                         sn                           c' n' est pas des m
 23292  n' est                        sne                          c' n' est pas des m
-23292  des m                         de zEm                        est pas des m qu'
 23292  qu' i'                        ki                           des m qu' i' faut
-23293  n' sait                       nsEt                         on n' sait elle ne sait
-23293  sait elle                     nsE tEl                       on n' sait elle ne sait
+23293  n' sait                       nsE                          on n' sait elle ne sait
 23293  qu' c'                        ks'                          pas ce qu' c' est
 23293  c' est                        kse                          ce qu' c' est ca
 23298  qu' est-ce                    kEs                          qu' est-ce qu' on faisait avec
@@ -17530,7 +17481,6 @@
 25365  qu' est-ce                    kEs                          qu' est-ce qu' on met pour
 25365  qu' on                        k§                           qu' est-ce qu' on met pour
 25368  l' chapeau                    lSa-po                       on met l' chapeau sur sa
-25369  froid a                       fRwa ta                       pas avoir froid a quoi
 25369  qu' on                        k§                           a quoi qu' on met
 25370  aux oreilles                  o zo-REj                      aux oreilles .
 25372  m' tirer                      mti-Re                       tu peux m' tirer mes bottes
@@ -17545,7 +17495,6 @@
 25383  c' est                        se                           s papa c' est pas a
 25384  c' est                        se                           c' est a papa mais c'
 25384  c' est                        se                           papa mais c' est qui
-25384  bas a                         ba za                         a les bas a ses
 25386  n' sais                       nsE                          tu n' sais pas tirer la
 25397  d' abord                      da-bOR                       tu veux d' abord les fermer
 25402  n' peut                       np2                          non on n' peut pas
@@ -17626,7 +17575,6 @@
 25488  pantoufles alors              p@-tu fla-lOR                 chercher tes pantoufles alors si
 25488  n' vas                        nva                          si tu n' vas pas
 25490  t' as                         ta                           t' as froid aux pieds et
-25490  froid a                       fRwa ta                       fait tout froid a terre
 25491  n' veux                       nv2                          je n' veux pas t' voir
 25491  t' voir                       tvwaR                        veux pas t' voir les
 25492  c' qu'                        sk                           ou c' qu' elle est ta
@@ -18533,7 +18481,6 @@
 26643  alors il                      a-lO Ril                      ah ben alors il est la
 26643  il est                        Ri le                         ben alors il est la
 26644  gros s                        gRo zEs                       le gros s si tu veux
-26644  gros est                      gRo ze                        gros le gros est la
 26645  en a                          @ na                          oui y en a un pour
 26645  robert et                     Ro-bE Re                      pour stephane robert et un
 26649  c' est                        se                           c' est trop comment ?
@@ -18866,7 +18813,6 @@
 27087  avec un                       a-vE k1n                      c' est avec un s
 27087  un s                          k1 nEs                        est avec un s comme
 27089  c' est                        se                           oh ca c' est un o
-27089  un o                          1 no                          c' est un o .
 27090  c' est                        se                           c' est pas s .
 27091  n' as                         na                           non tu n' as pas
 27091  trouve un                     tRu v1                        as pas trouve un se
@@ -20080,7 +20026,6 @@
 28411  herbes elles                  zER bElz                      alors les herbes elles i'
 28411  elles i'                      bEl zi                        les herbes elles i' vont
 28411  l' i'                         li                           vont dans l' i' vont
-28411  vont elles                    v§ tEl                        l' i' vont elles vont
 28412  qu' elle                      kEl                          ou est-ce qu' elle que l'
 28412  l' herbe                      lERb                         elle que l' herbe va
 28413  l' quoi                       lkwa                         dans l' quoi d' la vache
@@ -20291,7 +20236,6 @@
 28641  l' histoire                   lis-twaR                     c' est l' histoire de quoi
 28642  c' est                        se                           c' est l' histoire des trois
 28642  l' histoire                   lis-twaR                     c' est l' histoire des trois
-28642  trois ours                    tRwa zuRs                     histoire des trois ours que
 28642  s' appelle                    sa-pEl                       que ca s' appelle .
 28643  c' est                        se                           oh c' est une quoi ca
 28647  qu' est-ce                    kEs                          qu' est-ce que tu veux faire
@@ -20374,7 +20318,6 @@
 28738  il a                          ki la                         est-ce qu' il a fait
 28739  il a                          i la                          la il a mis ses lunettes
 28739  qu' il                        kil                          lunettes parce qu' il croit
-28739  croit il                      kRwa til                      qu' il croit il veut
 28739  c' est                        se                           croie que c' est sa
 28740  qu' il                        kil                          pour ca qu' il a mis
 28740  il a                          ki la                         ca qu' il a mis
@@ -20510,7 +20453,6 @@
 28912  qu' il                        kil                          est parce qu' il fait
 28915  n' aimes                      nEm                          tu n' aimes pas ca .
 28916  qu' i'                        ki                           danse parce qu' i' fait
-28916  chaud ainsi                   So t5-si                      i' fait chaud ainsi ?
 28919  c' est                        se                           ben c' est toi qui dis
 28925  c' est                        se                           c' est pas pour toi .
 28926  c' est                        se                           c' est pour moi alors tu
@@ -21563,12 +21505,10 @@
 30199  c' lui~la                     s#                           pas c' lui~la .
 30200  c' est                        se                           voila c' est bus .
 30203  stephane avec                 ste-fa na-vEk                 on ecrit stephane avec cette lettre~la
-30206  des o                         de zo                         cherche des o alors .
 30207  encore un                     @-kO R1                       voila encore un .
 30213  c' est                        se                           non ca c' est pas un
 30213  un l                          1 nEl                         est pas un l .
 30214  on a                          § na                          on a assez des o .
-30214  des o                         de zo                         a assez des o .
 30221  c' est                        se                           c' est pour faire snoopy qu'
 30221  qu' on                        k§n                          faire snoopy qu' on a
 30221  on a                          k§ na                         snoopy qu' on a dit
@@ -21662,8 +21602,7 @@
 30341  des a                         de za                         dans papa des a .
 30342  cherche un                    SER S1n                       cherche un a .
 30342  un a                          S1 na                         cherche un a .
-30346  encore un                     @-kO R1n                      i' faut encore un m
-30346  un m                          R1 nEm                        faut encore un m comme
+30346  encore un                     @-kO R1                       i' faut encore un m
 30349  en a                          @ na                          y en a partout des lettres
 30351  qu' c'                        ks'                          pas ce qu' c' est
 30351  c' est                        kse                          ce qu' c' est mamy
@@ -21711,7 +21650,6 @@
 30403  elle apporte                  E la-pORt                     stephane et elle apporte le
 30403  hamburger oui                 @-buR-g9 Rwi                  apporte le hamburger oui ?
 30406  ton autre                     t§ not                        ah ton autre madame .
-30407  deux autres                   d2 zotR                       deux autres madames qui vont aller
 30415  c' sont                       ss§                          ca c' sont des chiques .
 30416  c' est                        se                           ca c' est du coca .
 30418  frites un                     fRi t1                        hamburger ses frites un coca
@@ -22288,7 +22226,6 @@
 31118  lettres en                    lE tR@                        des lettres en marionnette ?
 31120  bouche il                     bu Sil                        faire la bouche il faut
 31120  j' ai                         ZE                           faut que j' ai deux
-31120  deux autres                   d2 zot                        j' ai deux autres tissus
 31120  n' ai                         nE                           et je n' ai pas
 31121  j' ai                         ZE                           j' ai oublie les tissus .
 31122  j' aille                      Zaj                          faut que j' aille rechercher
@@ -22576,8 +22513,7 @@
 31528  quelle histoire               kE lis-twaR                   c' est quelle histoire ca ?
 31529  c' est                        se                           c' est l' histoire de qui
 31529  l' histoire                   lis-twaR                     c' est l' histoire de qui
-31531  trois ours                    tRwa zuRs                     ah des trois ours oui .
-31531  ours oui                      zuR swi                       des trois ours oui .
+31531  ours oui                      uR swi                        des trois ours oui .
 31533  qu' est-ce                    kEs                          celui~la qu' est-ce que c' est
 31533  c' est                        se                           est-ce que c' est ?
 31534  c' est                        se                           non celui~la c' est l'
@@ -23004,13 +22940,9 @@
 32099  lettres avec                  lE tRa-vEk                    avec tes lettres avec tchitchi
 32109  avec un                       a-vE k1                       ou bien avec un point
 32114  montre un                     m§ tR1                        montre un peu un o .
-32114  un o                          1 no                          un peu un o .
-32116  un o                          1 no                          un o c' est pas un
 32116  c' est                        se                           un o c' est pas un
-32116  un o                          1 no                          est pas un o ca
 32117  c' est                        se                           c' est un quoi ca ?
 32118  c' est                        se                           c' est un m ca .
-32118  un m                          1 nEm                         c' est un m ca .
 32119  c' est                        se                           oui c' est .
 32121  t' as                         ta                           t' as pas joue au docteur
 32125  c' est                        se                           c' est a mamy que tu
@@ -23330,7 +23262,6 @@
 32480  donc avant                    d§ ka-v@                      dois faire donc avant de
 32482  qu' est-ce                    kEs                          qu' est-ce que tu dois faire
 32482  faire avant                   fE Ra-v@                      tu dois faire avant de
-32485  bon i'                        bO ni                         bon i' me semblait bien qu'
 32485  qu' tu                        kty                          semblait bien qu' tu oubliais
 32485  d' payer                      dpe-je                       tu oubliais d' payer .
 32486  qu' est-ce                    kEs                          qu' est-ce qu' i' s' passe
@@ -24065,7 +23996,6 @@
 33306  d' ssous                      d#                           papier en d' ssous d'
 33306  d' ses                        dse                          d' ssous d' ses pieds
 33306  d' ssous                      d#                           papier en d' ssous des
-33307  deux i'                       d2 zi                         tous les deux i' jouent
 33309  bons amis                     b§ za-mi                      comme de bons amis .
 33311  mange un                      m@ Z1                         bear mange un et * manger
 33311  l' gateau                     lga-tO                       * manger l' gateau .
@@ -24464,7 +24394,6 @@
 33701  qu' est-ce                    kEs                          qu' est-ce qu' i' y a
 33701  qu' i'                        ki                           qu' est-ce qu' i' y a
 33704  n' joue                       nZu                          non n' joue plus avec les
-33704  plus avec                     ply za-vEk                    n' joue plus avec les
 33707  j' ai                         ZE                           ben j' ai un gilet ici
 33708  c' ui~la                      s#                           tu veux c' ui~la ?
 33709  t' coucher                    tku-Se                       peux pas t' coucher a
@@ -24829,8 +24758,7 @@
 34255  c' est                        se                           ahah ca c' est mon cadeau
 34256  c' est                        se                           oh c' est un gros cadeau
 34258  c' est                        se                           que c' est gentil ca .
-34261  sous avec                     su za-vEk                     chercher des sous avec une
-34261  avec une                      za-vE kyn                     des sous avec une grue
+34261  avec une                      a-vE kyn                      des sous avec une grue
 34267  encore un                     @-kO R1                       encore un crayon qu' t' as
 34267  qu' t'                        kt                           un crayon qu' t' as
 34267  t' as                         kta                          crayon qu' t' as casse
@@ -24931,10 +24859,7 @@
 34451  c' est                        se                           non ca c' est deux ca
 34452  c' est                        se                           c' est pas tu n' as
 34452  n' as                         na                           pas tu n' as pas
-34452  deux ans                      d2 z@                         as pas deux ans .
-34453  deux ans                      d2 z@                         petit de deux ans ?
 34454  n' as                         na                           non tu n' as pas tout
-34455  trois ans                     tRwa z@                       tu as trois ans et demi
 34457  d' mi                         dmi                          trois et d' mi .
 34459  n' peux                       np2                          tu n' peux surtout pas dire
 34459  quel age                      kE laZ                        pas dire quel age tu
@@ -25576,9 +25501,8 @@
 35517  t' as                         ta                           t' as la dance ainssi aujoudd'
 35518  musique avec                  my-zi ka-vEk                  de la musique avec un
 35518  avec un                       ka-vE k1n                     la musique avec un un
-35518  un un                         k1 n1n                        musique avec un un avec
-35518  un avec                       n1 na-vEk                     avec un un avec un
-35518  avec un                       na-vE k1                      un un avec un pick
+35518  un un                         k1 n1                         musique avec un un avec
+35518  avec un                       a-vE k1                       un un avec un pick
 35518  up un                         u p1                          un pick up un tourne
 35519  elle avait                    E la-vE                       elle avait un toune disque ?
 35523  qu' est-ce                    kEs                          ahah et qu' est-ce qu' on
@@ -25718,7 +25642,6 @@
 35721  t' les                        tle                          je vais t' les montrer .
 35725  n' joue                       nZu                          on n' joue pas avec des
 35725  balles avec                   ba la-vEk                     avec des balles avec ces
-35726  sont elles                    s§ tEl                        ce sont elles sont pas grosses
 35726  grosses assez                 gRo sa-se                     sont pas grosses assez .
 35728  qu' on                        k§                           comme ca qu' on joue
 35729  c' est                        se                           c' est ca .
@@ -25817,7 +25740,6 @@
 35851  l' eau                        lo                           nir de l' eau .
 35852  s' il                         sil                          et s' il a chaud m
 35852  il a                          si la                         et s' il a chaud m
-35852  chaud m                       So tEm                        il a chaud m ?
 35853  m est                         E me                          m est ce bon ?
 35855  c' est                        se                           c' est a quel quel gout
 35857  c' est                        se                           c' est rouge .
@@ -25964,9 +25886,7 @@
 36050  il est                        i le                          derek il est plus p' tit
 36051  il est                        i le                          il est seul' ment deux derek
 36052  il est                        i le                          il est seul' ment il a
-36052  ment il                       m@ til                        est seul' ment il a
-36052  il a                          ti la                         seul' ment il a deux
-36052  deux ans                      d2 z@                         il a deux ans seul'
+36052  il a                          i la                          seul' ment il a deux
 36055  quatre ans                    ka tR@                        tu as quatre ans .
 36056  t' es                         tE                           oui toi t' es grand .
 36060  n' sais                       nsE                          ah je n' sais pas .
@@ -26490,7 +26410,6 @@
 36736  n' vas                        nva                          assez tu n' vas pas
 36737  l' enregistreur               l@R-Zis-tR9R                 parler dans l' enregistreur .
 36738  n' as                         na                           si tu n' as pas beaucoup
-36738  ras ici                       Ra zi-si                      tu rest' ras ici .
 36740  qu' on                        k§                           sais bien qu' on doit
 36740  t' enregistrer                t@R-Zis-tRe                  on doit t' enregistrer .
 36743  l' enregistreur               l@R-Zis-tR9R                 boutons de l' enregistreur ?
@@ -26535,7 +26454,6 @@
 36776  n' est                        sne                          non c' n' est pas l'
 36776  l' christmas                  lkRis-mas                    est pas l' christmas .
 36778  l' aut'                       l#                           ah l' aut' jour mais pas
-36779  nues aujourd'hui              ny zo-ZuR-d8i                 sont v' nues aujourd'hui ?
 36780  il est                        i le                          il est parti hein .
 36783  il a                          i la                          il a perdu toutes ses epines
 36784  qu' il                        kil                          ben parce qu' il etait vieux
@@ -26656,7 +26574,7 @@
 36938  n' vas                        nva                          tu n' vas pas .
 36943  t' as                         ta                           t' as pris des te .
 36944  n' est                        ne                           bien papa n' est pas
-36944  toutes s                      tu tEs                        tu prends toutes s tout
+36944  toutes s                      tut zEs                       tu prends toutes s tout
 36945  qu' apres                     ka-pRE                       ben parce qu' apres i' n'
 36945  n' en                         n@n                          apres i' n' en a
 36945  en a                          n@ na                         i' n' en a plus
@@ -26669,7 +26587,7 @@
 36949  n' etait                      ne-tE                        jour i' n' etait pas
 36950  l' aut'                       l#                           ouais l' aut' jour .
 36952  t' avais                      ta-vE                        parce que t' avais pris toutes
-36952  toutes l                      tu tEl                        avais pris toutes l tous
+36952  toutes l                      tut zEl                       avais pris toutes l tous
 36955  l' enl'                       l#                           maman va l' enl' ver
 36957  l' tiroir                     lti-RwaR                     sont dans l' tiroir stephane
 36958  d' mande                      dm@d                         ben on d' mande gentiment
@@ -26982,7 +26900,6 @@
 37359  raconte un                    Ra-k§ t1                      raconte un peu des choses a
 37359  choses a                      So za                         peu des choses a maman
 37360  raconte un                    Ra-k§ t1                      raconte un peu a maman .
-37362  plus avec                     ply za-vEk                    ne joue plus avec maint'
 37364  raconte un                    Ra-k§ t1                      raconte un peu des choses a
 37364  choses a                      So za                         peu des choses a maman
 37365  raconte a                     Ra-k§ ta                      raconte a maman c' que c'
@@ -27536,9 +27453,7 @@
 38031  l' histoire                   lis-twaR                     ai trouve l' histoire de
 38032  c' est                        se                           c' est a dire la petite
 38032  d' or                         dOR                          aux cheveux d' or de
-38035  trois ours                    tRwa zuRs                     ah des trois ours oui mon
-38035  ours oui                      zuR swi                       des trois ours oui mon
-38035  trois ours                    tRwa zuRs                     les trois trois ours .
+38035  ours oui                      uR swi                        des trois ours oui mon
 38037  l' histoire                   lis-twaR                     y a l' histoire dans un
 38037  dans un                       d@ z1                         l' histoire dans un beau
 38037  livre m                       li vREm                       un beau livre m ?
@@ -27585,8 +27500,7 @@
 38084  c' t'                         st                           oui hein c' t' un
 38084  t' un                         st1                          hein c' t' un beau
 38085  l' histoire                   lis-twaR                     avec l' histoire des trois ours
-38085  trois ours                    tRwa zuRs                     histoire des trois ours et
-38085  ours et                       zuR se                        des trois ours et puis
+38085  ours et                       uR se                         des trois ours et puis
 38085  alors un                      a-lO R1                       et puis alors un beau
 38088  n' en                         n@n                          tu n' en as qu' une
 38088  en as                         n@ na                         tu n' en as qu' une
@@ -27649,7 +27563,6 @@
 38160  qu' le                        kl2                          * pendant qu' le p'
 38160  l' histoire                   lis-twaR                     fille ecoutent l' histoire .
 38161  l' histoire                   lis-twaR                     cette histoire~la l' histoire des trois
-38161  trois ours                    tRwa zuRs                     histoire des trois ours .
 38163  quand on                      k@ t§n                        quand on aura fini d' enregistrer
 38163  on aura                       t§ no-Ra                      quand on aura fini d' enregistrer
 38163  d' enregistrer                d@R-Zis-tRe                  aura fini d' enregistrer .
@@ -27836,7 +27749,6 @@
 38380  l' rentres                    lR@tR                        tu l' rentres ?
 38381  c' est                        se                           c' est grand ?
 38388  il est                        i le                          il est gros comme ca .
-38389  ras encore                    Ra z@-kOR                     tu mang' ras encore bien toute
 38389  toute une                     tu tyn                        encore bien toute une glace
 38390  n' sais                       nsE                          m n' sais pas .
 38391  elle est                      E le                          et elle est plus grosse que
@@ -28057,7 +27969,6 @@
 38624  casse avec                    ka sa-vEk                     peu pres casse avec la
 38625  qu' est-ce                    kEs                          qu' est-ce qui fait marcher ca
 38626  qu' est-ce                    kEs                          qu' est-ce qui fait marcher cette
-38627  bon apres                     bO na-pRE                     bon apres apres quand on a
 38627  quand on                      k@ t§n                        apres apres quand on a
 38627  on a                          t§ na                         apres quand on a fini
 38627  l' enregistrement             l@R-Zis-tR°-m@               a fini l' enregistrement .
@@ -28181,8 +28092,7 @@
 38778  c' est                        se                           es assis c' est casse
 38779  n' tient                      ntj5                         ca n' tient pas .
 38782  d' la                         dla                          descends d' la .
-38784  qu' est                       ket                          et qu' est elles viennent d'
-38784  est elles                     ke tEl                        et qu' est elles viennent d'
+38784  qu' est                       ke                           et qu' est elles viennent d'
 38784  d' ou                         du                           elles viennent d' ou ces
 38785  les as                        le za                         que tu les as eues
 38790  un autre                      1 not                         un autre bureau ?
@@ -28794,7 +28704,6 @@
 39581  qu' y                         ki                           l' ecole qu' y avait
 39582  quand ils                     k@ tilz                       quand ils etaient tous les deux
 39582  ils etaient                   til ze-tE                     quand ils etaient tous les deux
-39582  deux a                        d2 za                         tous les deux a l'
 39582  l' ecole                      le-kOl                       deux a l' ecole .
 39583  stephane et                   ste-fa ne                     quand stephane et toi ye etaient
 39583  l' ecole                      le-kOl                       etaient a l' ecole ca
@@ -29452,12 +29361,10 @@
 40346  des avions                    de za-vj§                     c' est des avions qui font
 40348  c' est                        se                           c' est un bateau militaire .
 40349  t' as                         ta                           t' as l les m ce
-40349  les m                         le zEm                        as l les m ce
 40350  les avions                    le za-vj§                     s dans les avions .
 40354  encore un                     @-kO R1                       la et encore un d'
 40354  d' l'                         dl                           encore un d' l' aut'
 40354  cote aussi                    kO to-si                      l' aut' cote aussi .
-40355  deux a                        d2 za                         et encore deux a l' arriere
 40355  l' arriere                    la-RjER                      deux a l' arriere aussi
 40355  arriere aussi                 la-RjE Ro-si                  a l' arriere aussi .
 40356  en a                          @ na                          y en a encore .
@@ -30221,8 +30128,7 @@
 41359  dix heures                    di z9R                        c' est dix heures .
 41360  qu' il                        kil                          comment est-ce qu' il fait a
 41360  six heures                    si z9R                        fait a six heures ?
-41361  fait il                       fE til                        comment fait il a six heures
-41361  il a                          ti la                         comment fait il a six heures
+41361  il a                          i la                          comment fait il a six heures
 41361  six heures                    si z9R                        il a six heures ?
 41363  il a                          i la                          il a du soleil ou bien
 41365  c' est                        se                           c' est a qui * sportscar
@@ -31362,7 +31268,6 @@
 42803  n' sait                       nsE                          celui~la on n' sait rien
 42803  faire avec                    fE Ra-vEk                     sait rien faire avec .
 42804  c' est                        se                           celui~la c' est un p' tit
-42806  grand m                       gR@ tEm                       circuit plus grand m ?
 42807  qu' alors                     ka-lOR                       parce qu' alors y a pas
 42807  alors y                       ka-lO Ri                      parce qu' alors y a pas
 42807  s' asseoir                    sa-swaR                      place pour s' asseoir dans
@@ -32509,25 +32414,21 @@
 44063  d' auto                       do-to                        avait pas d' auto cette
 44064  m m                           E mEm                         m m .
 44065  c' est                        se                           c' est a luc que santaclaus
-44066  deux autos                    d2 zo-to                      as choisi deux autos .
 44067  l' bateau                     lba-to                       a eu l' bateau lel'
 44067  hovercraft et                 O-v9R-kRaf te                 bateau lel' hovercraft et une
 44067  une autre                     y notR                        hovercraft et une autre auto
 44067  autre auto                    no tRo-to                     et une autre auto .
-44068  deux autos                    d2 zo-to                      as eu deux autos .
 44072  l' as                         la                           puis tu l' as repris
 44072  t' as                         ta                           toi et t' as donne
 44072  l' autre                      lotR                         as donne l' autre a
 44072  autre a                       lo tRa                        donne l' autre a herve
 44073  m m                           E mEm                         m m .
 44074  en avait                      @ na-vE                       y en avait combien pour herve
-44079  deux autos                    d2 zo-to                      ah deux autos non non .
 44080  une auto                      y no-to                       une auto d' police et une
 44080  d' police                     dpo-lis                      une auto d' police et une
 44080  police et                     dpo-li se                     auto d' police et une
 44080  une ambulance                 y n@-by-l@s                   police et une ambulance ?
 44081  d' police                     dpo-lis                      * autos d' police pas deux
-44081  deux autos                    d2 zo-to                      deux police deux autos de
 44083  t' as                         ta                           t' as deux policiers ?
 44086  regarde un                    R°-gaR d1                     regarde un peu .
 44087  c' que                        sk2                          sais bien c' que c'
@@ -32593,7 +32494,6 @@
 44154  boite alors                   bwa ta-lOR                    dans la boite alors .
 44157  qu' est-ce                    kEs                          qu' est-ce que tu fais donc
 44159  n' joues                      nZu                          si tu n' joues plus
-44159  plus avec                     ply za-vEk                    n' joues plus avec tes
 44161  l' as                         la                           tu l' as casse ?
 44162  qu' je                        kZ2                          viens ici qu' je r' garde
 44163  d' dans                       dd@                          tes lego d' dans .
@@ -32818,7 +32718,6 @@
 44345  mettre en                     mE tR@                        peut past' mettre en haut
 44346  s' rais                       sRE                          tu s' rais tombe de trop
 44347  avec une                      a-vE kyn                      avec une petite echelle oui .
-44348  fait on                       fE t§                         puis on fait on peut
 44348  s' cogner                     sko-Ne                       on peut s' cogner la
 44348  tete aussi                    tE to-si                      cogner la tete aussi m
 44349  n' fait                       nfE                          si on n' fait pas attention
@@ -33630,7 +33529,6 @@
 45325  mettre une                    mE tRyn                       il faut mettre une brique
 45326  c' est                        se                           ca c' est comme une table
 45326  comme une                     kO myn                        c' est comme une table
-45328  deux autos                    d2 zo-to                      faut encor deux autos dessus
 45330  c' est                        se                           c' est son seche cheveux .
 45331  c' est                        se                           oui c' est juste .
 45332  c' est                        se                           ho lala c' est dur ?
@@ -33968,13 +33866,9 @@
 45767  l' auto                       lo-to                        aller dans l' auto .
 45768  petite oui                    p°-ti twi                     deviendra trop petite oui .
 45769  l' as                         la                           tu l' as eu quand tu
-45769  deux ans                      d2 z@                         tu avais deux ans l'
 45769  l' autto                      l#                           deux ans l' autto deux
-45770  deux ans                      d2 z@                         deux ans .
-45771  deux ans                      d2 z@                         birthay de deux ans .
 45772  c' etait                      se-tE                        quand c' etait ton anniversaire de
 45772  ton anniversaire              t§ na-ni-vER-sER              c' etait ton anniversaire de
-45772  deux ans                      d2 z@                         anniversaire de deux ans et
 45772  c' est                        se                           et que c' est mamy
 45772  l' a                          la                           te te l' a donnee
 45774  elle est                      E le                          elle est venue a saint paul
@@ -33984,9 +33878,8 @@
 45780  l' avait                      la-vE                        elle ne l' avait pas
 45781  l' avait                      la-vE                        elle l' avait mis a terre
 45783  terre a                       tE Ra                         a terre a terre .
-45785  on est                        § net                         on est elle est allee l'
-45785  est elle                      ne tEl                        on est elle est allee l'
-45785  elle est                      tE le                         on est elle est allee l'
+45785  on est                        § ne                          on est elle est allee l'
+45785  elle est                      E le                          on est elle est allee l'
 45785  l' acheter                    laS-te                       est allee l' acheter puis
 45785  l' a                          la                           puis elle l' a apporte
 45786  c' est                        se                           c' est tout hein .
@@ -34005,7 +33898,6 @@
 45802  c' est                        se                           jhon c' est celui qui a
 45805  j' espere                     Z#                           ho j' espere bien que non
 45806  il est                        i le                          non il est repare maitenant .
-45807  deux os                       d2 zOs                        les deux os se sont resoude
 45809  quand ils                     k@ til                        tu sais quand ils sont
 45810  plus ensemble                 ply z@-s@bl                   ne tiennent plus ensemble alors
 45810  ensemble alors                z@-s@ bla-lOR                 tiennent plus ensemble alors il
@@ -34062,8 +33954,7 @@
 45855  qu' on                        sk§                          tout c' qu' on peut manger
 45856  c' est                        se                           c' est dedans l' os .
 45856  l' os                         lOs                          est dedans l' os .
-45858  tout avec                     tu ta-vEk                     pas couper tout avec un
-45858  avec un                       ta-vE k1                      couper tout avec un couteau
+45858  avec un                       a-vE k1                       couper tout avec un couteau
 45861  les enfants                   le z@-f@                      madames ni les enfants .
 45865  c' etait                      se-tE                        c' etait pour t' expliquer que
 45865  t' expliquer                  tEk-spli-ke                  etait pour t' expliquer que
@@ -34392,8 +34283,6 @@
 46282  petite e                      p°-ti t2                      juste une petite e guerit
 46284  c' est                        se                           oui c' est ca .
 46285  c' est                        se                           ha bin c' est parce que
-46286  veut on                       v2 t§                         si on veut on fait le
-46286  veut on                       v2 t§                         si on veut on ne
 46286  l' fait                       lfE                          on ne l' fait pas
 46287  c' est                        se                           c' est .
 46289  n' suis                       ns8i                         je n' suis pas si sur
