@@ -5,8 +5,8 @@ freqADJ = {}
 with open('Lexique380.txt') as dic:
 	for line in dic:
 		aux = line.split('\t')
-		if aux[3][:3] == 'ADJ':
-			freqADJ[aux[0]] = aux[8] # Retrieve frequency of all adjectives in films
+		if (aux[3] == 'ADJ') and (aux[5] == 'p'):
+			freqADJ[aux[0]] = aux[8] # Retrieve frequency of all plural adjectives in films
 
 with open('Lexique380.txt') as dic:
 	for line in dic:
