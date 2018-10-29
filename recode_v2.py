@@ -100,16 +100,16 @@ pronunciation['r'] = 'R'
 # contexts. They were obtained from Lexique380.
 
 # Load the adjectives:
-V_adjectives = [] # All vowel-initial adjectives, for plural noun + adjective rule
+#V_adjectives = [] # All vowel-initial adjectives, for plural noun + adjective rule
 adjectives   = [] # Only adjectives finishing in a liaison consonant, to add to mandatory list
 with open('auxiliary/output_ADJ.txt') as ADJlist:
 	for line in ADJlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		if (line in dico):
-			ortho_word = dico[line]
-			first_phon = ortho_word.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
-			if (first_phon in vowels+semivowels): 
-				V_adjectives.append(line) 
+			# ortho_word = dico[line]
+			# first_phon = ortho_word.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
+			# if (first_phon in vowels+semivowels): 
+				# V_adjectives.append(line) 
 			if (line[-1] in liaison) and (dico[line][-1] != liaison[line[-1]]): 
 				adjectives.append(line)
 
@@ -144,6 +144,7 @@ with open('auxiliary/output_VER3p.txt') as VER3plist:
 	for line in VER3plist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		verbs_3p.append(line)
+
 			
 #### LIAISON EXCEPTIONS LIST ####
 # These are words that will never trigger liaison:
@@ -154,16 +155,22 @@ with open('auxiliary/h_aspire.txt') as Hlist:
 	for line in Hlist:
 		line = line.strip()
 		h_aspire.append(line)
-		
-# (2) Other words (interjections and others)
-interjections = ['oh', 'eh', 'éh', 'ah', 'hum', 'euh', 'heuh', 'ouah', 'ouf']
+
+# (2) Proper names (never applies except after sans)
+proper_names = []
+with open('auxiliary/proper_names.txt') as namesdic:
+	for line in namesdic:
+		aux = line.split()
+		if len(aux) == 2:
+			proper_names.append(aux[0])
+			
+# (3) Other words (interjections and others)
+interjections = ['oh', 'eh', 'éh', 'ah', 'hum', 'euh', 'heuh', 'ouah', 'ouf', 'hop', 'op', 'uais', 'oups']
 loanwords_with_initial_semivowels = ['whisky', 'yack', 'yaourt', 'yéti']
-names_of_letters = ['u', 'i', 'm'] # Note: these are just the ones we found in the text.
-proper_names =  #names?
+names_of_letters = ['o', 'u', 'i', 'm'] # Note: these are just the ones we found in the text.
 other_exceptions = ['et', 'ou', 'où', 'oui', 'ouais', 'apparemment', 'alors', 'attends', 'aussi', 'encore', 'avec', 'après']
 
-
-exceptions_next = h_aspire + interjections + loanwords_with_initial_semivowels + other_exceptions
+exceptions_next = h_aspire + interjections + loanwords_with_initial_semivowels + names_of_letters + proper_names + other_exceptions
 
 
 #### LIAISON CASES ####
@@ -203,7 +210,7 @@ always_except['quelques']  = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['plusieurs'] = exceptions_next
 always_except['certains']  = exceptions_next
 always_except['certaines'] = exceptions_next
-always_except['autres']    = exceptions_next + ['à', 'au']
+always_except['autres']    = exceptions_next + ['à', 'au', 'avant']
 always_except['aucun']     = exceptions_next
 # Monosyllabic adverbs:
 always_except['tout'] = exceptions_next + ['il', 'ils', 'elle', 'elles', 'on']
@@ -212,12 +219,22 @@ always_except['très'] = exceptions_next
 # Prepositions:
 always_except['aux']  = exceptions_next
 always_except['en']   = exceptions_next + ['un', 'une']
-always_except['sans'] = exceptions_next
 always_except['sous'] = exceptions_next
+always_except['sans'] = h_aspire + interjections + loanwords_with_initial_semivowels + names_of_letters + other_exceptions # We exclude proper names from these exceptions
 
 # (2) Adjectives:
+
+# Prenominal masculine adjectives:
+# Note: added additional exceptions that occurred in the text
+always_except['petit'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'à', 'au', 'aux', 'écoutez', 'écoute', 'allez', 'est']
+always_except['grand'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'à', 'au', 'aux', 'écoutez', 'écoute', 'allez', 'est']
+always_except['gros']  = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'à', 'au', 'aux', 'écoutez', 'écoute', 'allez', 'est']
+always_except['premier'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'à', 'au', 'aux', 'écoutez', 'écoute', 'allez', 'est']
+always_except['dernier'] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'à', 'au', 'aux', 'écoutez', 'écoute', 'allez', 'est']
+
+# Plural adjectives:
 for adjective in adjectives:
-	always_except[adjective] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'alors', 'à', 'au', 'aux', 'écoutez', 'écoute', 'allez', 'adrien', 'elsa', 'avec']
+	always_except[adjective] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'à', 'au', 'aux', 'écoutez', 'écoute', 'allez']
 
 # (3) Cases that apply only if followed by specific items:
 # Keys: Words that are considered to undergo mandatory liaison in specific contexts
@@ -309,7 +326,7 @@ def check_liaison(line, all_words, k) :
 			
 			# Corrections:
 			# 'tu vas y ...':
-			elif (current_word == 'vas') and (prev_word == 'tu') :
+			if (current_word == 'vas') and (prev_word == 'tu') :
 				do_liaison = False
 			# 'ça peut être':
 			elif (current_word == 'peut') and (prev_word == 'ça') and (next_word == 'être'):
@@ -321,7 +338,7 @@ def check_liaison(line, all_words, k) :
 			elif (current_word == 'faut') and ((prev_word in ['il', 'i(l)']) or (prev_word in ['me', 'te', 'lui', 'nous', 'vous', 'leur'] and next_word_2 not in punctuation + ['pour'])) :
 				do_liaison = False
 			# 'est il/elle/on' cases that are actually incorrect due to missing commas (e.g. ça y est il est parti)
-			elif (current_word in ['est', 'était']) and (prev_word == 'y' or next_word_2 in ['est', 'a', 'était']) :
+			elif (current_word in ['est', 'était']) and (prev_word in ['y', "c'"] or next_word_2 in ['est', 'a', 'était']) :
 				do_liaison = False
 			# general cases of 3rd person singular verb + il/elle/on that are incorrect due to missing commas
 			elif (current_word in verbs_3s) and ((prev_word in ['a', 'il', 'i(l)', 'elle', 'on', "quelqu'un"]) or (next_word_2 in verbs_3s + ['y', 'ne', 'a', 'va', 'dit']) or (next_word == 'on' and next_word_2 == 'se')):
@@ -355,6 +372,9 @@ def check_liaison(line, all_words, k) :
 			do_liaison = True
 		# Il était une fois:
 		elif (current_word == 'était') and (prev_word == 'il') and (next_word == 'une') and (next_word_2 == 'fois'):
+			do_liaison = True
+		# Bon après midi:
+		elif (current_word == 'bon') and (next_word == 'après') and (next_word_2 == 'midi'):
 			do_liaison = True
 		
 		# If none of the above cases apply, print in rejected cases file:
