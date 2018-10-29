@@ -156,9 +156,12 @@ with open('auxiliary/h_aspire.txt') as Hlist:
 		h_aspire.append(line)
 		
 # (2) Other words (interjections and others)
-interjections = ['oh', 'eh', 'ah', 'hum', 'euh', 'ouah', 'ouf', 'ouais', 'oui']
-loanwords_with_initial_semivowels = ['whisky', 'yaourt', 'yéti']
-other_exceptions = ['et', 'ou', 'où', 'apparemment', 'alors', 'attends', 'aussi', 'u', 'i']
+interjections = ['oh', 'eh', 'éh', 'ah', 'hum', 'euh', 'heuh', 'ouah', 'ouf']
+loanwords_with_initial_semivowels = ['whisky', 'yack', 'yaourt', 'yéti']
+names_of_letters = ['u', 'i', 'm'] # Note: these are just the ones we found in the text.
+proper_names =  #names?
+other_exceptions = ['et', 'ou', 'où', 'oui', 'ouais', 'apparemment', 'alors', 'attends', 'aussi', 'encore', 'avec', 'après']
+
 
 exceptions_next = h_aspire + interjections + loanwords_with_initial_semivowels + other_exceptions
 
@@ -168,16 +171,17 @@ exceptions_next = h_aspire + interjections + loanwords_with_initial_semivowels +
 # (1) Cases that apply always except if followed by specific exception words
 # Keys: Words that are considered to undergo mandatory liaison
 # Values: Exceptions of following words that would not trigger liaison
+# Note: some exceptions were added specifically to certain target words because we happened to find them in the text.
 always_except = {}
 # Possessive pronouns:
-always_except['mon'] = exceptions_next + ['avec']
-always_except['ton'] = exceptions_next + ['avec']
-always_except['son'] = exceptions_next + ['avec']
-always_except['mes'] = exceptions_next + ['avec']
-always_except['tes'] = exceptions_next + ['avec']
-always_except['ses'] = exceptions_next + ['avec']
-always_except['nos'] = exceptions_next + ['avec']
-always_except['vos'] = exceptions_next + ['avec']
+always_except['mon'] = exceptions_next
+always_except['ton'] = exceptions_next
+always_except['son'] = exceptions_next
+always_except['mes'] = exceptions_next
+always_except['tes'] = exceptions_next
+always_except['ses'] = exceptions_next
+always_except['nos'] = exceptions_next
+always_except['vos'] = exceptions_next
 always_except['leurs'] = exceptions_next
 # Personal pronouns:
 always_except['on']    = exceptions_next
@@ -187,10 +191,10 @@ always_except['ils']   = exceptions_next
 always_except['elles'] = exceptions_next
 # Articles:
 always_except['un']  = exceptions_next + ['à']
-always_except['les'] = exceptions_next + ['avec']
-always_except['des'] = exceptions_next + ['avec']
+always_except['les'] = exceptions_next
+always_except['des'] = exceptions_next
 # Determiners:
-always_except['ces']     = exceptions_next + ['avec']
+always_except['ces']     = exceptions_next
 always_except['quels']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['quelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
 # Indefinite adjectives:
@@ -203,30 +207,13 @@ always_except['autres']    = exceptions_next + ['à', 'au']
 always_except['aucun']     = exceptions_next
 # Monosyllabic adverbs:
 always_except['tout'] = exceptions_next + ['il', 'ils', 'elle', 'elles', 'on']
-always_except['plus'] = exceptions_next + ['après']
+always_except['plus'] = exceptions_next
 always_except['très'] = exceptions_next
 # Prepositions:
 always_except['aux']  = exceptions_next
 always_except['en']   = exceptions_next + ['un', 'une']
 always_except['sans'] = exceptions_next
 always_except['sous'] = exceptions_next
-
-# Cases removed due to optional status:
-#always_except['bien']  = exceptions_next + ['écoutez', 'écoute', 'il', 'elle', 'on', 'aussi']
-#always_except['chez'] = exceptions_next # Decision: it is optional, so remove (17/oct/2018)
-#always_except['dans'] = exceptions_next # Moved to only-before (17/oct/2018)
-#always_except['trop']  = exceptions_next # Decision: it is optional, so remove (17/oct/2018)
-#always_except['beaucoup'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
-#always_except['moins'] = exceptions_next # Decision: it rarely occurs in the right context, so remove (17/oct/2018)
-#always_except['toutes'] = exceptions_next # Decision: not mandatory, remove
-#always_except['lesquels'] = exceptions_next + ['il', 'ils', 'elle', 'elles'] # Decision: these cases (lesquels,lesquelles,auxquels, etc) rarely appear and if they do, they're not correct, so remove (17/oct/2018)
-#always_except['lesquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
-#always_except['auxquels']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
-#always_except['auxquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
-#always_except['desquels']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
-#always_except['desquelles'] = exceptions_next + ['il', 'ils', 'elle', 'elles']
-#always_except['est'] = exceptions_next + ['adrien']
-#always_except['ont'] = exceptions_next
 
 # (2) Adjectives:
 for adjective in adjectives:
@@ -243,70 +230,19 @@ for verb in verbs_3s:
 for verb in verbs_3p:
 	only_before[verb] = ['ils', 'elles']
 
-## Modal verbs in clitic groups:
-
-# only_before['est'] = ['il','elle','on']
-# only_before['fait'] = ['il','elle','on']
-# only_before['veut'] = ['il','elle','on']
-# only_before['peut'] = ['il','elle','on']
-# only_before['doit'] = ['il','elle','on']
-# only_before['sait'] = ['il','elle','on']
-# only_before['vaut'] = ['il','elle','on']
-# only_before['font']    = ['ils','elles']
-# only_before['sont']    = ['ils','elles']
-# only_before['veulent'] = ['ils','elles']
-# only_before['peuvent'] = ['ils','elles']
-# only_before['doivent'] = ['ils','elles']
-# only_before['savent']  = ['ils','elles']
-# only_before['valent']  = ['ils','elles']
-# only_before['faisait'] = ['il','elle','on']
-# only_before['voulait'] = ['il','elle','on']
-# only_before['pouvait'] = ['il','elle','on']
-# only_before['devait']  = ['il','elle','on']
-# only_before['savait']  = ['il','elle','on']
-# only_before['valait']  = ['il','elle','on']
-# only_before['faisaient'] = ['ils','elles']
-# only_before['voulaient'] = ['ils','elles']
-# only_before['pouvaient'] = ['ils','elles']
-# only_before['devaient']  = ['ils','elles']
-# only_before['savaient']  = ['ils','elles']
-# only_before['valaient']  = ['ils','elles']
-# only_before['faudrait']  = ['il','elle','on']
-# only_before['voudrait']  = ['il','elle','on']
-# only_before['pourrait']  = ['il','elle','on']
-# only_before['devrait']   = ['il','elle','on']
-# only_before['saurait']   = ['il','elle','on']
-# only_before['vaudrait']  = ['il','elle','on']
-# only_before['faudraient'] = ['ils','elles']
-# only_before['voudraient'] = ['ils','elles']
-# only_before['pourraient'] = ['ils','elles']
-# only_before['devraient']  = ['ils','elles']
-# only_before['sauraient']  = ['ils','elles']
-# only_before['vaudraient'] = ['ils','elles']
-
-## Auxiliaries in clitic groups:
-# only_before['était']  = ['il','elle','on'] #, 'un', 'une']
-# only_before['serait'] = ['il','elle','on']
-# only_before['allait'] = ['il','elle','on']
-# only_before['irait']  = ['il','elle','on']
-# only_before['avait']  = ['il', 'elle', 'on']
-# only_before['sont']     = ['ils','elles']
-# only_before['étaient']  = ['ils','elles']
-# only_before['seraient'] = ['ils','elles']
-# only_before['allaient'] = ['ils','elles']
-# only_before['iraient']  = ['ils','elles']
+# Other cases:
 only_before['vas']    = 'y'
 only_before['allez']  = 'y'
 only_before['allons'] = 'y'
 only_before['prends'] = 'en'
 only_before['prenez'] = 'en'
 only_before['prenons'] = 'en'
-# Other cases:
 only_before['comment'] = 'allez'
 only_before['quand']   = ['il', 'elle','on', 'ils','elles']
 only_before['quant']   = ['à', 'aux']
 only_before['dans']    = ['un', 'une']
 only_before['peut']    = only_before['peut'] + ['être']
+only_before['bon']    = ['anniversaire', 'état', 'endroit', 'ordre', 'appui', 'escient', 'usage', 'appétit','achat', 'ami','investissement', 'exemple', 'enregistrement', 'emplacement'] # Note: we only apply liaison to "bon" in these specific cases in which it was used as a prenominal adjective, since "bon" is most often used as an interjection, in which case it doesn't undergo liaison.
 
 #only_before['aller']   = ['à', 'au'] # Not mandatory 
 
@@ -372,11 +308,6 @@ def check_liaison(line, all_words, k) :
 			do_liaison = True
 			
 			# Corrections:
-			# Tient is mot often used as an order:
-			if (current_word == 'tient'):
-				do_liaison = False
-				if (next_word in ['i(l)', 'il', 'elle', 'on']) and (next_word_2 in punctuation):
-					do_liaison = True
 			# 'tu vas y ...':
 			elif (current_word == 'vas') and (prev_word == 'tu') :
 				do_liaison = False
@@ -389,21 +320,21 @@ def check_liaison(line, all_words, k) :
 			# 'il faut...', 'il me faut...' cases:
 			elif (current_word == 'faut') and ((prev_word in ['il', 'i(l)']) or (prev_word in ['me', 'te', 'lui', 'nous', 'vous', 'leur'] and next_word_2 not in punctuation + ['pour'])) :
 				do_liaison = False
-			# 'est il/elle/on' cases that are actually incorrect due to missing pauses (e.g. ça y est il est parti)
+			# 'est il/elle/on' cases that are actually incorrect due to missing commas (e.g. ça y est il est parti)
 			elif (current_word in ['est', 'était']) and (prev_word == 'y' or next_word_2 in ['est', 'a', 'était']) :
 				do_liaison = False
-			# general cases of 3rd person singular verb + il/elle/on that are incorrect due to missing pauses
+			# general cases of 3rd person singular verb + il/elle/on that are incorrect due to missing commas
 			elif (current_word in verbs_3s) and ((prev_word in ['a', 'il', 'i(l)', 'elle', 'on', "quelqu'un"]) or (next_word_2 in verbs_3s + ['y', 'ne', 'a', 'va', 'dit']) or (next_word == 'on' and next_word_2 == 'se')):
 				do_liaison = False
-			# general cases of 3rd person plural verb + ils/elles that are incorrect due to missing pauses
+			# general cases of 3rd person plural verb + ils/elles that are incorrect due to missing commas
 			elif (current_word in verbs_3p) and ((prev_word in ['ont', 'ils', 'elles']) or (next_word_2 in verbs_3p)):
 				do_liaison = False
 				
-			# Print 3rd person verb cases for debugging:
-			if do_liaison == True and current_word in verbs_3s+verbs_3p:
-				print >> f_liaison_verbs_3rd, ('YES   ' + current_word + '  ' + next_word).ljust(20) + '  ' + ' '.join(all_words)
-			elif do_liaison == False and current_word in verbs_3s+verbs_3p:
-				print >> f_liaison_verbs_3rd, ('NO    ' + current_word + '  ' + next_word).ljust(20) + '  ' + ' '.join(all_words)
+			# # Print 3rd person verb cases for debugging:
+			# if do_liaison == True and current_word in verbs_3s+verbs_3p:
+				# print >> f_liaison_verbs_3rd, ('YES   ' + current_word + '  ' + next_word).ljust(20) + '  ' + ' '.join(all_words)
+			# elif do_liaison == False and current_word in verbs_3s+verbs_3p:
+				# print >> f_liaison_verbs_3rd, ('NO    ' + current_word + '  ' + next_word).ljust(20) + '  ' + ' '.join(all_words)
 				
 		# Case 2: List of cases that apply always except if followed by specific items
 		elif (current_word in always_except) and (next_word not in always_except[current_word]):
