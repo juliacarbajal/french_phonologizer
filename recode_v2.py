@@ -3,6 +3,7 @@
 import re
 import os
 
+f_liaison_verbs_3rd = open('list_liaison_verbs_3rd_to_check.txt', 'w')
 root='corpora'
 dirlist = [ item for item in os.listdir(root) if os.path.isdir(os.path.join(root, item)) ]
 
@@ -131,12 +132,18 @@ with open('auxiliary/output_NOMp.txt') as NOMlist:
 
 			
 # Load 3rd person verbs:
-verbs_3rd = []
-with open('auxiliary/output_VER.txt') as VERlist:
-	for line in VERlist:
+verbs_3s = []
+with open('auxiliary/output_VER3s.txt') as VER3slist:
+	for line in VER3slist:
 		line = line.strip().decode('cp1252').encode('utf-8')
-		if (line[-1] in liaison) and (line not in ['soit', 'dit']):
-			verbs_3rd.append(line)
+		if (line not in ['soit', 'dit']):	 #if (line[-1] in liaison) and (line not in ['soit', 'dit']):
+			verbs_3s.append(line)
+
+verbs_3p = []
+with open('auxiliary/output_VER3p.txt') as VER3plist:
+	for line in VER3plist:
+		line = line.strip().decode('cp1252').encode('utf-8')
+		verbs_3p.append(line)
 			
 #### LIAISON EXCEPTIONS LIST ####
 # These are words that will never trigger liaison:
@@ -147,9 +154,13 @@ with open('auxiliary/h_aspire.txt') as Hlist:
 	for line in Hlist:
 		line = line.strip()
 		h_aspire.append(line)
+		
 # (2) Other words (interjections and others)
-exceptions_next = ['et', 'oh', 'euh', 'hum', 'oui', 'ouais', 'ouah', 'ah', 'ou', 'u', 'i', 'où', 'apparemment', 'alors', 'attends', 'whisky', 'yaourt', 'yéti', 'aussi']
-exceptions_next = exceptions_next + h_aspire
+interjections = ['oh', 'eh', 'ah', 'hum', 'euh', 'ouah', 'ouf', 'ouais', 'oui']
+loanwords_with_initial_semivowels = ['whisky', 'yaourt', 'yéti']
+other_exceptions = ['et', 'ou', 'où', 'apparemment', 'alors', 'attends', 'aussi', 'u', 'i']
+
+exceptions_next = h_aspire + interjections + loanwords_with_initial_semivowels + other_exceptions
 
 
 #### LIAISON CASES ####
@@ -226,56 +237,64 @@ for adjective in adjectives:
 # Values: List of following words that trigger liaison for each Key.
 
 only_before = {}
-# Modal verbs in clitic groups:
-for verb in verbs_3rd:
-	only_before[verb] = ['il', 'elle', 'ils', 'elles', 'on']
-only_before['fait'] = ['il','elle','on']
-only_before['veut'] = ['il','elle','on']
-only_before['peut'] = ['il','elle','on']
-only_before['doit'] = ['il','elle','on']
-only_before['sait'] = ['il','elle','on']
-only_before['vaut'] = ['il','elle','on']
-only_before['font']    = ['ils','elles']
-only_before['veulent'] = ['ils','elles']
-only_before['peuvent'] = ['ils','elles']
-only_before['doivent'] = ['ils','elles']
-only_before['savent']  = ['ils','elles']
-only_before['valent']  = ['ils','elles']
-only_before['faisait'] = ['il','elle','on']
-only_before['voulait'] = ['il','elle','on']
-only_before['pouvait'] = ['il','elle','on']
-only_before['devait']  = ['il','elle','on']
-only_before['savait']  = ['il','elle','on']
-only_before['valait']  = ['il','elle','on']
-only_before['faisaient'] = ['ils','elles']
-only_before['voulaient'] = ['ils','elles']
-only_before['pouvaient'] = ['ils','elles']
-only_before['devaient']  = ['ils','elles']
-only_before['savaient']  = ['ils','elles']
-only_before['valaient']  = ['ils','elles']
-only_before['faudrait']  = ['il','elle','on']
-only_before['voudrait']  = ['il','elle','on']
-only_before['pourrait']  = ['il','elle','on']
-only_before['devrait']   = ['il','elle','on']
-only_before['saurait']   = ['il','elle','on']
-only_before['vaudrait']  = ['il','elle','on']
-only_before['faudraient'] = ['ils','elles']
-only_before['voudraient'] = ['ils','elles']
-only_before['pourraient'] = ['ils','elles']
-only_before['devraient']  = ['ils','elles']
-only_before['sauraient']  = ['ils','elles']
-only_before['vaudraient'] = ['ils','elles']
-# Auxiliaries in clitic groups:
-only_before['était']  = ['il','elle','on', 'un', 'une']
-only_before['serait'] = ['il','elle','on']
-only_before['allait'] = ['il','elle','on']
-only_before['irait']  = ['il','elle','on']
-only_before['avait']  = ['il', 'elle', 'on']
-only_before['sont']     = ['ils','elles']
-only_before['étaient']  = ['ils','elles']
-only_before['seraient'] = ['ils','elles']
-only_before['allaient'] = ['ils','elles']
-only_before['iraient']  = ['ils','elles']
+# 3rd person verbs in clitic groups:
+for verb in verbs_3s:
+	only_before[verb] = ['il', 'elle', 'on']
+for verb in verbs_3p:
+	only_before[verb] = ['ils', 'elles']
+
+## Modal verbs in clitic groups:
+
+# only_before['est'] = ['il','elle','on']
+# only_before['fait'] = ['il','elle','on']
+# only_before['veut'] = ['il','elle','on']
+# only_before['peut'] = ['il','elle','on']
+# only_before['doit'] = ['il','elle','on']
+# only_before['sait'] = ['il','elle','on']
+# only_before['vaut'] = ['il','elle','on']
+# only_before['font']    = ['ils','elles']
+# only_before['sont']    = ['ils','elles']
+# only_before['veulent'] = ['ils','elles']
+# only_before['peuvent'] = ['ils','elles']
+# only_before['doivent'] = ['ils','elles']
+# only_before['savent']  = ['ils','elles']
+# only_before['valent']  = ['ils','elles']
+# only_before['faisait'] = ['il','elle','on']
+# only_before['voulait'] = ['il','elle','on']
+# only_before['pouvait'] = ['il','elle','on']
+# only_before['devait']  = ['il','elle','on']
+# only_before['savait']  = ['il','elle','on']
+# only_before['valait']  = ['il','elle','on']
+# only_before['faisaient'] = ['ils','elles']
+# only_before['voulaient'] = ['ils','elles']
+# only_before['pouvaient'] = ['ils','elles']
+# only_before['devaient']  = ['ils','elles']
+# only_before['savaient']  = ['ils','elles']
+# only_before['valaient']  = ['ils','elles']
+# only_before['faudrait']  = ['il','elle','on']
+# only_before['voudrait']  = ['il','elle','on']
+# only_before['pourrait']  = ['il','elle','on']
+# only_before['devrait']   = ['il','elle','on']
+# only_before['saurait']   = ['il','elle','on']
+# only_before['vaudrait']  = ['il','elle','on']
+# only_before['faudraient'] = ['ils','elles']
+# only_before['voudraient'] = ['ils','elles']
+# only_before['pourraient'] = ['ils','elles']
+# only_before['devraient']  = ['ils','elles']
+# only_before['sauraient']  = ['ils','elles']
+# only_before['vaudraient'] = ['ils','elles']
+
+## Auxiliaries in clitic groups:
+# only_before['était']  = ['il','elle','on'] #, 'un', 'une']
+# only_before['serait'] = ['il','elle','on']
+# only_before['allait'] = ['il','elle','on']
+# only_before['irait']  = ['il','elle','on']
+# only_before['avait']  = ['il', 'elle', 'on']
+# only_before['sont']     = ['ils','elles']
+# only_before['étaient']  = ['ils','elles']
+# only_before['seraient'] = ['ils','elles']
+# only_before['allaient'] = ['ils','elles']
+# only_before['iraient']  = ['ils','elles']
 only_before['vas']    = 'y'
 only_before['allez']  = 'y'
 only_before['allons'] = 'y'
@@ -351,15 +370,40 @@ def check_liaison(line, all_words, k) :
 		# Case 1: List of cases that apply only before specific items (see above)
 		if (current_word in only_before) and (next_word in only_before[current_word]) :
 			do_liaison = True
-			# Correct 'tu vas y + infinitif' cases:
-			if (current_word == 'vas') and (prev_word == 'tu') :
-				do_liaison = False 
-			# Correct 'en fait il/elle' cases, 'tout à fait', 'il fait', etc:
-			if (current_word == 'fait') and (prev_word in ['en', 'à', 'il', 'elle', 'i(l)']) :
+			
+			# Corrections:
+			# Tient is mot often used as an order:
+			if (current_word == 'tient'):
 				do_liaison = False
-			# Correct 'il faut...' cases:
-			if (current_word == 'faut') and (prev_word in ['il', 'i(l)', 'me', 'te', 'lui', 'nous', 'vous', 'leur']) :
+				if (next_word in ['i(l)', 'il', 'elle', 'on']) and (next_word_2 in punctuation):
+					do_liaison = True
+			# 'tu vas y ...':
+			elif (current_word == 'vas') and (prev_word == 'tu') :
 				do_liaison = False
+			# 'ça peut être':
+			elif (current_word == 'peut') and (prev_word == 'ça') and (next_word == 'être'):
+				do_liaison = False
+			# 'en fait', 'tout à fait', 'ça fait', etc:
+			elif (current_word == 'fait') and (prev_word in ['en', 'à', 'au', 'ça']) :
+				do_liaison = False
+			# 'il faut...', 'il me faut...' cases:
+			elif (current_word == 'faut') and ((prev_word in ['il', 'i(l)']) or (prev_word in ['me', 'te', 'lui', 'nous', 'vous', 'leur'] and next_word_2 not in punctuation + ['pour'])) :
+				do_liaison = False
+			# 'est il/elle/on' cases that are actually incorrect due to missing pauses (e.g. ça y est il est parti)
+			elif (current_word in ['est', 'était']) and (prev_word == 'y' or next_word_2 in ['est', 'a', 'était']) :
+				do_liaison = False
+			# general cases of 3rd person singular verb + il/elle/on that are incorrect due to missing pauses
+			elif (current_word in verbs_3s) and ((prev_word in ['a', 'il', 'i(l)', 'elle', 'on', "quelqu'un"]) or (next_word_2 in verbs_3s + ['y', 'ne', 'a', 'va', 'dit']) or (next_word == 'on' and next_word_2 == 'se')):
+				do_liaison = False
+			# general cases of 3rd person plural verb + ils/elles that are incorrect due to missing pauses
+			elif (current_word in verbs_3p) and ((prev_word in ['ont', 'ils', 'elles']) or (next_word_2 in verbs_3p)):
+				do_liaison = False
+				
+			# Print 3rd person verb cases for debugging:
+			if do_liaison == True and current_word in verbs_3s+verbs_3p:
+				print >> f_liaison_verbs_3rd, ('YES   ' + current_word + '  ' + next_word).ljust(20) + '  ' + ' '.join(all_words)
+			elif do_liaison == False and current_word in verbs_3s+verbs_3p:
+				print >> f_liaison_verbs_3rd, ('NO    ' + current_word + '  ' + next_word).ljust(20) + '  ' + ' '.join(all_words)
 				
 		# Case 2: List of cases that apply always except if followed by specific items
 		elif (current_word in always_except) and (next_word not in always_except[current_word]):
@@ -378,11 +422,15 @@ def check_liaison(line, all_words, k) :
 		# Plus ou moins:
 		elif (current_word == 'plus') and (next_word == 'ou') and (next_word_2 == 'moins'):
 			do_liaison = True
+		# Il était une fois:
+		elif (current_word == 'était') and (prev_word == 'il') and (next_word == 'une') and (next_word_2 == 'fois'):
+			do_liaison = True
 		
 		# If none of the above cases apply, print in rejected cases file:
-		else:
+		if do_liaison == False:
 			rejected_case = (current_word+' '+next_word).ljust(30)
 			print >> frejected, line+1, rejected_case, get_context(all_words, k)
+		
 		
 	return do_liaison
 
@@ -672,3 +720,4 @@ for corpusdir in dirlist:
 		
 	f4.close()
 	foutput4.close()
+f_liaison_verbs_3rd.close()
