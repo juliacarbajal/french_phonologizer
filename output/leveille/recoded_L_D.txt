@@ -1396,7 +1396,7 @@ phil03.cha 2 2 03 sa lez a bRy-le , n§ ?
 phil03.cha 2 2 03 e sa a f§-dy .
 phil03.cha 2 2 03 a-lOR a-pRE Z2 maR-SE , Z2 m2 di-zE mE Z2 m2 s8i ko-le kElk Soz syR la s°-mEl e p8i Z' a-Riv pa a l2 de-ko-le , e k@ Z' E vy k2 sa i e-tE syR le d2 , tu d 1 ku Z' E k§-pRi .
 phil03.cha 2 2 03 Z2 m' @n e-tE ap-so-ly-m@ pa a-pER-sy .
-phil03.cha 2 2 03 @ ply , ty s@s Rj5 paRs k2 l o-d9R El s @ va dE-RjER .
+phil03.cha 2 2 03 @ plys , ty s@s Rj5 paRs k2 l o-d9R El s @ va dE-RjER .
 phil03.cha 2 2 03 a-pRE , Z' E fE gaf .
 phil03.cha 2 2 03 s' e pa tRo gRav .
 phil03.cha 2 2 03 k Es k i a ?
@@ -2341,7 +2341,7 @@ phil05.cha 2 2 17 vaz i , fE 1 tRi-j@gl , ty va i a-Ri-ve .
 phil05.cha 2 2 17 si .
 phil05.cha 2 2 17 ty p2 pa , i @n a ki s§ tRo kuR e 1 tRo l§ .
 phil05.cha 2 2 17 vaz i , fE 1 tRi-j@gl .
-phil05.cha 2 2 17 @ fE , il a RE-z§ , la sOm de d2 e ply p°-tit k2 # .
+phil05.cha 2 2 17 @ fEt , il a RE-z§ , la sOm de d2 e ply p°-tit k2 # .
 phil05.cha 2 2 17 b5 , wi , il p2 pa .
 phil05.cha 2 2 17 sa de-pa-sRa 1 p2 , kwa , s' e tu .
 phil05.cha 2 2 17 sa sRa @-kOR ply dyR .
@@ -2360,7 +2360,7 @@ phil05.cha 2 2 17 tj5 , bRyl twa 1 p2 m§ Se-Ri .
 phil05.cha 2 2 17 Z2 t E di k2 ty a-lE t2 bRy-le 1 p2 .
 phil05.cha 2 2 17 s' e b§ , 5 , d2 s2 bRy-le 1 p2 .
 phil05.cha 2 2 17 dus-m@ , dus-m@ .
-phil05.cha 2 2 17 Z2 SER-SE , § n a pa d ot ma-njER , @ fE k@t § dOn la k8i-jER kOm sa , k2 d2 diR m@-Ze l2 So-ko-la ?
+phil05.cha 2 2 17 Z2 SER-SE , § n a pa d ot ma-njER , @ fEt k@t § dOn la k8i-jER kOm sa , k2 d2 diR m@-Ze l2 So-ko-la ?
 phil05.cha 2 2 17 n§ .
 phil05.cha 2 2 17 # Z2 m2 di-zE k o f§ § n a pa d ot ma-njER di-REkt # dOn mwa l2 So-ko-la a la k8i-jER .
 phil05.cha 2 2 17 ki a Z°-te la bu-tEj ?
@@ -2640,7 +2640,7 @@ phil05.cha 2 2 17 i a Rj5 a fER !
 phil05.cha 2 2 17 kwa ?
 phil05.cha 2 2 17 # d2 fo-to e l2 flaS a pa maR-Se .
 phil05.cha 2 2 17 i a yn pil u pa d°-d@ ?
-phil05.cha 2 2 17 b5 , si l2 pR°-mjeR a maR-Se , s' e k2 # .
+phil05.cha 2 2 17 b5 , si l2 pR°-mje a maR-Se , s' e k2 # .
 phil05.cha 2 2 17 # flaS .
 phil05.cha 2 2 17 sa , ty m' @ d°-m@d tRo .
 phil05.cha 2 2 17 ko-m@ sa maRS 1 flaS ?
@@ -4422,7 +4422,7 @@ phil09.cha 2 3 14 Op .
 phil09.cha 2 3 14 tj5 , si Z' a-lE t2 SER-Se 1 pyl .
 phil09.cha 2 3 14 puR-kwa n§ ?
 phil09.cha 2 3 14 # REs-te kOm sa ?
-phil09.cha 2 3 14 e Z2 t E fE mal a la tEt @ ply .
+phil09.cha 2 3 14 e Z2 t E fE mal a la tEt @ plys .
 phil09.cha 2 3 14 m§ dj2 .
 phil09.cha 2 3 14 m§ pov gaR-s§ .
 phil09.cha 2 3 14 ty E vRE-m@ 1 pov p°-ti Sa .
@@ -4598,7 +4598,7 @@ phil09.cha 2 3 14 # k Es k2 s' e sa ?
 phil09.cha 2 3 14 sa .
 phil09.cha 2 3 14 5 ?
 phil09.cha 2 3 14 e p8i kwa @-kOR ?
-phil09.cha 2 3 14 e k Es k §n @ fE d2 tu sa , de vwa-tyR , e de tR5 e de Raj ?
+phil09.cha 2 3 14 e k Es k §n @ fEt d2 tu sa , de vwa-tyR , e de tR5 e de Raj ?
 phil09.cha 2 3 14 l2 ka-mj§ o-si , wi .
 phil10.cha 2 3 21 wi , 1 p°-ti bu .
 phil10.cha 2 3 21 mER-si fi-lip .
@@ -4682,7 +4682,7 @@ phil10.cha 2 3 21 n§ .
 phil10.cha 2 3 21 n§ .
 phil10.cha 2 3 21 a kEl dat il vu pej ?
 phil10.cha 2 3 21 Ze-ne-Ral-m@ , pa a-v@ l2 v5 n9f u l2 tR@t .
-phil10.cha 2 3 21 d2 plyz @ ply taR .
+phil10.cha 2 3 21 d2 plyz @ plys taR .
 phil10.cha 2 3 21 mERd !
 phil10.cha 2 3 21 Z2 s8i kw5-se , Z' @n E pRi # .
 phil10.cha 2 3 21 # , s' e kOm sa .
@@ -5158,7 +5158,7 @@ phil10.cha 2 3 21 ty t E fE mal o dwa ?
 phil10.cha 2 3 21 ty a a-p8i-je tRo fOR ?
 phil10.cha 2 3 21 ma pov pys .
 phil10.cha 2 3 21 va .
-phil10.cha 2 3 21 ty a dy t2 kw5-se l2 p°-ti dwa d°-su , @ ply .
+phil10.cha 2 3 21 ty a dy t2 kw5-se l2 p°-ti dwa d°-su , @ plys .
 phil10.cha 2 3 21 vwa-la .
 phil10.cha 2 3 21 e ma pys , Z2 R@Z mwa .
 phil10.cha 2 3 21 ty E tRo p°-ti , ty a pa a-se d2 fORs , k2 v2 ty i fER ?
@@ -5442,7 +5442,7 @@ phil11.cha 2 6 13 ty vwa .
 phil11.cha 2 6 13 o # , ty va u-vRiR e ty va R°-gaR-de .
 phil11.cha 2 6 13 k Es k § di fi-lip ?
 phil11.cha 2 6 13 s' e tu ?
-phil11.cha 2 6 13 § fE pa 1 p°-ti kElk Soz @ ply ?
+phil11.cha 2 6 13 § fE pa 1 p°-ti kElk Soz @ plys ?
 phil11.cha 2 6 13 mE n§ , mE n§ # .
 phil11.cha 2 6 13 o , di d§k !
 phil11.cha 2 6 13 a-t@ , Z' @-lEv l2 skOtS ki kOl la .
@@ -5951,7 +5951,7 @@ phil12.cha 2 6 20 k Es k § fE a-vEk ?
 phil12.cha 2 6 20 a-vEk le fy-zi ?
 phil12.cha 2 6 20 wi , le la-p5 , e p8i kwa @-kOR ?
 phil12.cha 2 6 20 k Es k § fE a-vEk le ka-naR e le la-p5 a-pRE ?
-phil12.cha 2 6 20 k Es k §n @ fE de ka-naR e de la-p5 k §n a t8e ?
+phil12.cha 2 6 20 k Es k §n @ fEt de ka-naR e de la-p5 k §n a t8e ?
 phil12.cha 2 6 20 § le m@Z ?
 phil12.cha 2 6 20 e si .
 phil12.cha 2 6 20 § le fE k8iR e p8i a-pRE § le m@Z .
@@ -6567,7 +6567,7 @@ phil13.cha 2 6 27 a s' e puR pa t§-be d@ l o .
 phil13.cha 2 6 27 ko-m@ sa s a-pEl ?
 phil13.cha 2 6 27 5 ?
 phil13.cha 2 6 27 o si i @n a @-kOR d otR , va , m§t le mwa , Z2 lez E pa bj5 vy , m§t le mwa .
-phil13.cha 2 6 27 El s§ bEl @ ply se fo-to di d§k .
+phil13.cha 2 6 27 El s§ bEl @ plys se fo-to di d§k .
 phil13.cha 2 6 27 a wi ?
 phil13.cha 2 6 27 # sa s' e tREz 5-te-RE-s@ d2 R°-gaR-de de fo-to .
 phil13.cha 2 6 27 o ki s' e sa ?
@@ -7347,7 +7347,7 @@ phil14.cha 2 7 11 § vj5 .
 phil14.cha 2 7 11 a tabl .
 phil14.cha 2 7 11 s' e tRE bj5 sa .
 phil14.cha 2 7 11 si s' e-tE kOm sa Sak fwa !
-phil14.cha 2 7 11 Z2 s8i e-mER-ve-je , ty d°-vj5 d2 plyz @ ply Z@-ti .
+phil14.cha 2 7 11 Z2 s8i e-mER-ve-je , ty d°-vj5 d2 plyz @ plys Z@-ti .
 phil14.cha 2 7 11 ty a @-t@-dy s2 k il a Ra-k§-te ?
 phil14.cha 2 7 11 saZ , RE-zo-nabl !
 phil14.cha 2 7 11 il a-vE s§ pORt mo-nE e Op # .
@@ -7392,7 +7392,7 @@ phil14.cha 2 7 11 5 ?
 phil14.cha 2 7 11 le ga-to ?
 phil14.cha 2 7 11 s' e fE .
 phil14.cha 2 7 11 o-si a-vEk d2 la fa-Rin .
-phil14.cha 2 7 11 paR l2 bu-l@-Ze , il pR@ o-si d2 la fa-Rin , mE @ plyz il mE dy syk d°-d@ .
+phil14.cha 2 7 11 paR l2 bu-l@-Ze , il pR@ o-si d2 la fa-Rin , mE @ plys il mE dy syk d°-d@ .
 phil14.cha 2 7 11 puR k2 sa swa mE-j9R .
 phil14.cha 2 7 11 1 ga-to s' e mE-j9R k2 l2 p5 , wi ?
 phil14.cha 2 7 11 b§ .
@@ -7529,9 +7529,9 @@ phil14.cha 2 7 11 s' e yn sal ma-ni k2 Z' E , ty sE .
 phil14.cha 2 7 11 ty bwa vRE-m@ ?
 phil14.cha 2 7 11 a-le , @-kOR 1 ku .
 phil14.cha 2 7 11 a-le , 1 gR@ ku .
-phil14.cha 2 7 11 si-n§ , Z2 fE dy tu-Rizm puR v°-niR , o k§-tRER , Z2 ko-nE pa bj5 dy tu s2 kaR-tje , s' e tRE bo @ ply .
+phil14.cha 2 7 11 si-n§ , Z2 fE dy tu-Rizm puR v°-niR , o k§-tRER , Z2 ko-nE pa bj5 dy tu s2 kaR-tje , s' e tRE bo @ plys .
 phil14.cha 2 7 11 Z2 S@Z d2 Ry .
-phil14.cha 2 7 11 il fE bo @ ply .
+phil14.cha 2 7 11 il fE bo @ plys .
 phil14.cha 2 7 11 e p8i il i a vRE-m@ d2 tRE , tRE bEl mE-z§ , Ry # # Ry # # tu s2 kaR-tje la .
 phil14.cha 2 7 11 a-t@-sj§ , a-t@-sj§ , tj5 l2 bOl , tj5 l2 bj5 .
 phil14.cha 2 7 11 tj5 l2 bj5 a-vEk ta m5 u-vERt .
@@ -8181,7 +8181,7 @@ phil15.cha 2 7 18 s' e pa 1 Z2 .
 phil15.cha 2 7 18 ty Zu-Ra a-vEk k@ ty o-Ra m@-Ze l2 kRwa-s@ .
 phil15.cha 2 7 18 # !
 phil15.cha 2 7 18 e-kut .
-phil15.cha 2 7 18 ty fE t§ p°-tit 5-te-RE-s@ la , 5 .
+phil15.cha 2 7 18 ty fE t§ p°-ti 5-te-RE-s@ la , 5 .
 phil15.cha 2 7 18 si ty k§-ti-ny kOm sa , § va s @n a-le d2 la k8i-zin , § va t2 le-se tu s9l .
 phil15.cha 2 7 18 b5 , a-lOR m@Z vit ma pys .
 phil15.cha 2 7 18 m@Z l@t-m@ , mE m@Z .
@@ -8200,7 +8200,7 @@ phil15.cha 2 7 18 d Et gR@ .
 phil15.cha 2 7 18 a , s' e pa bj5 ?
 phil15.cha 2 7 18 § t a-mEn-Ra ply a-lOR .
 phil15.cha 2 7 18 a .
-phil15.cha 2 7 18 ty E @ tR5 d2 t @-fE-Re d2 plyz @ ply , fi-lip , ty sE .
+phil15.cha 2 7 18 ty E @ tR5 d2 t @-fE-Re d2 plyz @ plys , fi-lip , ty sE .
 phil15.cha 2 7 18 l2 m°-sj2 fE la gREv , fi-lip ?
 phil15.cha 2 7 18 l2 m°-sj2 dy ma-nEZ fE la gREv ?
 phil15.cha 2 7 18 puR-kwa § fE la gREv k@ le tRyk s§ ka-se ?
@@ -8263,7 +8263,7 @@ phil15.cha 2 7 18 1 gRo ?
 phil15.cha 2 7 18 m§t mwa a-vEk le m5 ko-m@ il e-tE gR@ .
 phil15.cha 2 7 18 kOm sa .
 phil15.cha 2 7 18 s' e-tE d@z yn bwat ?
-phil15.cha 2 7 18 e i a-vE de Ru @ ply ?
+phil15.cha 2 7 18 e i a-vE de Ru @ plys ?
 phil15.cha 2 7 18 s' e-tE puR l a-kRo-Se dE-RjER yn vwa-tyR ?
 phil15.cha 2 7 18 e ty @n a vy a # ?
 phil15.cha 2 7 18 sa s2 pRe-siz tu sa , 5 .
@@ -8493,7 +8493,7 @@ phil15.cha 2 7 18 k@t il s§ vi-v@ ?
 phil15.cha 2 7 18 k@t il s§ vi-v@ , il fER-m@ l9R buS kOm twa e mwa , # .
 phil15.cha 2 7 18 §n a-vE tu-ZuR di k il fa-lE pa k il l2 tuS .
 phil15.cha 2 7 18 wi .
-phil15.cha 2 7 18 ty sE k2 s' e Ek-stREm-m@ fRa-Zil e @ ply s' e de-gu-t@ .
+phil15.cha 2 7 18 ty sE k2 s' e Ek-stREm-m@ fRa-Zil e @ plys s' e de-gu-t@ .
 phil15.cha 2 7 18 il i a o mw5 d2 s@-ti-mEt d2 pu-sjER .
 phil15.cha 2 7 18 wi .
 phil15.cha 2 7 18 k Es k2 sa v2 diR s' e fRa-Zil ?
@@ -9251,7 +9251,7 @@ phil16.cha 2 7 25 u il s§ le p°-ti ?
 phil16.cha 2 7 25 e b5 , mE sl8i la a-vEk , o mi-lj2 .
 phil16.cha 2 7 25 ty e-kaRt lez otR , ty l2 mE .
 phil16.cha 2 7 25 mE s' e i-djo !
-phil16.cha 2 7 25 ty l8i Ek-splik k il fo mEt d2 plyz @ ply p°-ti e p8i k@t il mE l2 ply p°-ti a la f5 , ty l8i di s' e pa la .
+phil16.cha 2 7 25 ty l8i Ek-splik k il fo mEt d2 plyz @ plys p°-ti e p8i k@t il mE l2 ply p°-ti a la f5 , ty l8i di s' e pa la .
 phil16.cha 2 7 25 2 , 2 .
 phil16.cha 2 7 25 s' e la gaR ?
 phil16.cha 2 7 25 s' e l2 p§ syR l°-kEl l2 tR5 va pa-se ?
@@ -9826,7 +9826,7 @@ phil17.cha 2 8 01 puR-kwa s' e pa se-Rj2 ?
 phil17.cha 2 8 01 ko-m@ ty d°-m@d ?
 phil17.cha 2 8 01 k Es k § di ?
 phil17.cha 2 8 01 o b5 , e-kut # , Sak fwa k il va l2 diR ty l8i R@-pli la buS .
-phil17.cha 2 8 01 se t@ si # d2 plyz @ plyz a u-bli-je .
+phil17.cha 2 8 01 se t@ si # d2 plyz @ plyzs a u-bli-je .
 phil17.cha 2 8 01 @ R°-v@S k@t § n2 sa-ly pa sez e-tER-ny-m@ kOm il s2 dwa , il pRo-tEst .
 phil17.cha 2 8 01 Z2 vE d°-m@-de a # d 5-sis-te syR l2 # .
 phil17.cha 2 8 01 5 ?
@@ -10309,7 +10309,7 @@ phil17.cha 2 8 01 b5 § le mE d@ s2 s@s la .
 phil17.cha 2 8 01 El s§ pRe-vy puR Et mi d@ s2 s@s la , fi-lip .
 phil17.cha 2 8 01 d@ s2 s@s la sa tj5 ty kRwa ?
 phil17.cha 2 8 01 n§ .
-phil17.cha 2 8 01 wi mE Z2 kRwa k il v§ Ru-le , ty vwa si Z2 mE sl8i la la , kOm sa , ty vwa il t§b , la , t@-di k2 si Z2 l2 mE d@ s2 s@s la , R°-gaRd , vj5 vwaR , kOm sa , s2 p°-ti kRo-SE ki de-pas , sa kal le Ru , mE mE twa d°-bu , ty vwa Rj5 , mE twa d°-bu , ty vwa pa , la , R°-gaRd , le kRo-SE ki s§ la , le tiZ Zon , sa kal la Ru , a-lOR l2 tRak-t9R p2 pa t§-be , t@-di k2 si ty l2 mE kOm sa , la tiZ El kal Rj5 dy tu , paRs k2 le Ru El s§ tREz otz i-si , a-lOR sa pas o d°-su e s' e pa R°t-ny , t@-di k2 si ty mE kOm sa , ty vwa la tiZ , El tuS la kal e sa t§b pa .
+phil17.cha 2 8 01 wi mE Z2 kRwa k il v§ Ru-le , ty vwa si Z2 mE sl8i la la , kOm sa , ty vwa il t§b , la , t@-di k2 si Z2 l2 mE d@ s2 s@s la , R°-gaRd , vj5 vwaR , kOm sa , s2 p°-ti kRo-SE ki de-pas , sa kal le Ru , mE mE twa d°-bu , ty vwa Rj5 , mE twa d°-bu , ty vwa pa , la , R°-gaRd , le kRo-SE ki s§ la , le tiZ Zon , sa kal la Ru , a-lOR l2 tRak-t9R p2 pa t§-be , t@-di k2 si ty l2 mE kOm sa , la tiZ El kal Rj5 dy tu , paRs k2 le Ru El s§ tREz ot i-si , a-lOR sa pas o d°-su e s' e pa R°t-ny , t@-di k2 si ty mE kOm sa , ty vwa la tiZ , El tuS la kal e sa t§b pa .
 phil17.cha 2 8 01 t a k§-pRi ?
 phil17.cha 2 8 01 sa m' e-tOn-RE .
 phil17.cha 2 8 01 mE l8i l2 ma-S5 Zon a sa plas , kOm sa .
@@ -10363,7 +10363,7 @@ phil18.cha 2 8 08 e ?
 phil18.cha 2 8 08 k Es k il f§ ?
 phil18.cha 2 8 08 e de RuZ .
 phil18.cha 2 8 08 kElz a-ni-mo ?
-phil18.cha 2 8 08 de RuZz i a o-si .
+phil18.cha 2 8 08 de RuZ i a o-si .
 phil18.cha 2 8 08 kElz a-ni-mo i a d@ s2 tR5 ?
 phil18.cha 2 8 08 k Es k § fE a-vEk le lE-go ?
 phil18.cha 2 8 08 ty paRl tu fOR o-si # , twa , paRs k2 kOm sa Z' o-RE o-si # , e fi-lip .
@@ -11052,7 +11052,7 @@ phil19.cha 2 8 15 # sa sRE pa ply-to 1 mOR-so d e-ky-R9j ?
 phil19.cha 2 8 15 ty t2 sRE pa 1 p2 tR§-pe ?
 phil19.cha 2 8 15 ty kRwa pa k2 sl8i la .
 phil19.cha 2 8 15 ty t E tR§-pe .
-phil19.cha 2 8 15 @ plyz ilz § la mEm fORm .
+phil19.cha 2 8 15 @ plys ilz § la mEm fORm .
 phil19.cha 2 8 15 sl8i la il a pa d2 pat , R°-gaRd .
 phil19.cha 2 8 15 ilz § la mEm fORm .
 phil19.cha 2 8 15 sl8i la # .
@@ -11287,7 +11287,7 @@ phil19.cha 2 8 15 a-le , di mwa k§-bj5 .
 phil19.cha 2 8 15 wi , s' e sa , di l2 .
 phil19.cha 2 8 15 n§ .
 phil19.cha 2 8 15 k§-bj5 il t @ fo-dRE o to-tal ?
-phil19.cha 2 8 15 il t @ fo-dRE yn @ ply .
+phil19.cha 2 8 15 il t @ fo-dRE yn @ plys .
 phil19.cha 2 8 15 sa t2 f°-RE k§-bj5 o to-tal d2 m5 ?
 phil19.cha 2 8 15 paR-fE ma pys .
 phil19.cha 2 8 15 e s2 l a-di-sj§ u e s2 , l2 de-k§t ?
@@ -11779,7 +11779,7 @@ phil20.cha 2 8 22 vj5 1 p2 @-kOR m' Ek-spli-ke sEt is-twaR d2 p°-tit te-le-vi-z
 phil20.cha 2 8 22 wi , il m' a di k il a-vE e-te d@ , k il a-vE pRi l2 me-tRo , l2 tR5 , e il a-vE e-te d@z 1n @-dRwa u i a-vE de p°-tit te-le-vi-zj§ .
 phil20.cha 2 8 22 s' e sa ?
 phil20.cha 2 8 22 twa ty e-tE pa d°-d@ ?
-phil20.cha 2 8 22 e lez otRz ilz e-tE d°-d@ ?
+phil20.cha 2 8 22 e lez otR ilz e-tE d°-d@ ?
 phil20.cha 2 8 22 a-lOR u Es k2 ty E a-le a-vEk # ?
 phil20.cha 2 8 22 5 ?
 phil20.cha 2 8 22 u E ty a-le a-vEk # , fi-lip ?
@@ -11931,7 +11931,7 @@ phil20.cha 2 8 22 wi , mE l2 pa-kE il tj5 pa , a si il tj5 dRwa , tu Zyst .
 phil20.cha 2 8 22 ty kRwa ?
 phil20.cha 2 8 22 # t @ poR-te @ So-ko-la .
 phil20.cha 2 8 22 paRs k2 sEl la p2-tEt s' e pa tRE tRE b§ puR twa .
-phil20.cha 2 8 22 ta ma-m@ , El t @ fE fy-me d2 se si-ga-REt ?
+phil20.cha 2 8 22 ta ma-m@ , El t @ fEt fy-me d2 se si-ga-REt ?
 phil20.cha 2 8 22 Z2 kRwa k El a RE-z§ .
 phil20.cha 2 8 22 k Es k2 s' e ?
 phil20.cha 2 8 22 b§ , # .
@@ -12134,7 +12134,7 @@ phil20.cha 2 8 22 ko-m@ § l2 fE sa ?
 phil20.cha 2 8 22 § l2 , wi , @-f5 si § v2 , wi , i a de mul .
 phil20.cha 2 8 22 § l2 kul d@ de mul ki s2 de-tR8iz a-pRE , n§ , s' e pa sa ?
 phil20.cha 2 8 22 n§ , n§ , Z2 kRwa pa .
-phil20.cha 2 8 22 Z2 kRwa k i a 1 mul , @ fE # .
+phil20.cha 2 8 22 Z2 kRwa k i a 1 mul , @ fEt # .
 phil20.cha 2 8 22 l2 mul Ek-ste-Rj9R # .
 phil20.cha 2 8 22 n§ , n§ t a 1 mul 5-te-Rj9R , n§ , El s§ ko-le paR mwa-tje se bu-tEj .
 phil20.cha 2 8 22 sEl la ?
@@ -12259,7 +12259,7 @@ phil20.cha 2 8 22 s' e sl8i k2 ty a aS-te l2 ZuR dy de-zastR ?
 phil20.cha 2 8 22 s' e sa , s' e sl8i k2 Z' E aS-te l2 ZuR dy de-zastR .
 phil20.cha 2 8 22 o , Ek-skyz mwa , m§ mi-nu .
 phil20.cha 2 8 22 Z2 s8i dis-tREt .
-phil20.cha 2 8 22 l2 ZuR dy de-zastR , @ m2 bE-s@ k§tR 1 , 1 de # Z2 m2 s8i a-kRo-Se a yn bwat me-ta-lik # sa m' a @-vwa-je k§t l2 myR , a-lOR Z2 m2 s8i tOR-dy l2 pus , k@ Z2 m2 s8i R°l-ve , Z' E @-t@-dy skRatS , Z' a-vE de-Si-Re m§ p@-ta-l§ , a-lOR Z2 m2 s8i Ra-bi-je , @ ply Z' e-tE a-le Z' e-tE a-le mEtR 1 pyl , e-S@-Ze 1 pyl k§tR 1 S°-mi-zje , ty vwa o la-bo , paRs k il f°-zE tRo So , a-lOR Z' E R°-mi m§ pyl , Z2 s8i a-le d@z 1 ma-ga-z5 aS-te 1 p@-ta-l§ e k@ Z2 l E e-sE-je Z2 m2 s8i @-f§-se .
+phil20.cha 2 8 22 l2 ZuR dy de-zastR , @ m2 bE-s@ k§tR 1 , 1 de # Z2 m2 s8i a-kRo-Se a yn bwat me-ta-lik # sa m' a @-vwa-je k§t l2 myR , a-lOR Z2 m2 s8i tOR-dy l2 pus , k@ Z2 m2 s8i R°l-ve , Z' E @-t@-dy skRatS , Z' a-vE de-Si-Re m§ p@-ta-l§ , a-lOR Z2 m2 s8i Ra-bi-je , @ plys Z' e-tE a-le Z' e-tE a-le mEtR 1 pyl , e-S@-Ze 1 pyl k§tR 1 S°-mi-zje , ty vwa o la-bo , paRs k il f°-zE tRo So , a-lOR Z' E R°-mi m§ pyl , Z2 s8i a-le d@z 1 ma-ga-z5 aS-te 1 p@-ta-l§ e k@ Z2 l E e-sE-je Z2 m2 s8i @-f§-se .
 phil20.cha 2 8 22 o si Z' E s@-ti , Z' E s@-ti , El R@-tRE bj5 # Z' E sOR-ti l2 pje , El e-tE vaS-m@ @-f§-se , 5 , il a fa-ly k2 Z2 tiR tRE fOR # .
 phil20.cha 2 8 22 # yn a-ky-my-la-sj§ e-to-n@t .
 phil20.cha 2 8 22 fi-lip .
@@ -14065,7 +14065,7 @@ phil23.cha 2 10 03 Z' E de-Z9-ne .
 phil23.cha 2 10 03 n§ , d2 tut ma-njER Z' E de-Z9-ne .
 phil23.cha 2 10 03 § p2 paR-ta-Ze sa @-f5 .
 phil23.cha 2 10 03 n§ , Z' E de-Z9-ne paRs k2 Z2 s8i v°-ny taR , a-lOR Z' E de-Z9-ne .
-phil23.cha 2 10 03 e @ ply Z' E pa vy .
+phil23.cha 2 10 03 e @ plys Z' E pa vy .
 phil23.cha 2 10 03 El a dy p@-se k2 kat s' e-tE tRo , 5 ?
 phil23.cha 2 10 03 vwa-la .
 phil23.cha 2 10 03 mad-lEn El t2 l2 dOn .
@@ -14181,7 +14181,7 @@ phil23.cha 2 10 03 ki f§ la my-zik .
 phil23.cha 2 10 03 mE n§ s' e le lam , l2 de-ku-paZ dy plas-tik bl@ k il i a @ o .
 phil23.cha 2 10 03 a n§ , Z2 t a-syR .
 phil23.cha 2 10 03 il d°-vRE i a-vwaR yn lam me-ta-lik d@ Sak tRyk OR il n i @n a k yn , d2 , tRwa , katR .
-phil23.cha 2 10 03 i @n a Za-mE @ ply .
+phil23.cha 2 10 03 i @n a Za-mE @ plys .
 phil23.cha 2 10 03 o wi , p2-tEtR .
 phil23.cha 2 10 03 l2 s°-ku pa kOm sa , bRy-tal .
 phil23.cha 2 10 03 vwa-la .
@@ -15143,7 +15143,7 @@ phil24.cha 2 10 17 wi # .
 phil24.cha 2 10 17 sa fE tRwa , e sl8i la ?
 phil24.cha 2 10 17 sa fE k§-bj5 ?
 phil24.cha 2 10 17 mE n§ , tRwa s' e-tE sl8i la , a-vEk sl8i sa fE k§-bj5 ?
-phil24.cha 2 10 17 i @n a-vE de-Za tRwa e i @n a 1n @ ply .
+phil24.cha 2 10 17 i @n a-vE de-Za tRwa e i @n a 1n @ plys .
 phil24.cha 2 10 17 sa fE k§-bj5 ?
 phil24.cha 2 10 17 1 , d2 , tRwa , k§-bj5 ?
 phil24.cha 2 10 17 mE n§ , R°-gaRd , 1 , d2 , tRwa , e sa ?
@@ -15278,11 +15278,11 @@ phil24.cha 2 10 17 ty p@s a t§ byl-t5 , maRk .
 phil24.cha 2 10 17 a kwa Z2 p@s @ s2 mo-m@ # .
 phil24.cha 2 10 17 o Z2 sE pa .
 phil24.cha 2 10 17 s' e de-g2-las .
-phil24.cha 2 10 17 pR°-mjeR Ok-tOb swa-s@t duz , pil .
+phil24.cha 2 10 17 pR°-mje Ok-tOb swa-s@t duz , pil .
 phil24.cha 2 10 17 kwa ?
 phil24.cha 2 10 17 k2 Z2 sot d e-Sl§ .
 phil24.cha 2 10 17 e a-lOR ?
-phil24.cha 2 10 17 s' e l2 pR°-mjeR Ok-tOb swa-s@t duz pil # mEt d2 # .
+phil24.cha 2 10 17 s' e l2 pR°-mje Ok-tOb swa-s@t duz pil # mEt d2 # .
 phil24.cha 2 10 17 e a-lOR ?
 phil24.cha 2 10 17 b5 a-lOR Z2 sE pa s il v§ m2 k§-te # u pa .
 phil24.cha 2 10 17 pa mwa-j5 d2 l2 sa-vwaR , s' e l2 pw5 li-mit .
@@ -15372,7 +15372,7 @@ phil24.cha 2 10 17 mE u e l2 s°-g§ a-lOR ?
 phil24.cha 2 10 17 wi .
 phil24.cha 2 10 17 e l2 pR°-mje a-lOR ?
 phil24.cha 2 10 17 i @n a k§-bj5 Se ma-mi ?
-phil24.cha 2 10 17 e si t @n a 1 Se ma-mi e 1n i-si , sa fE k§-bj5 ?
+phil24.cha 2 10 17 e si t @n a 1 Se ma-mi e 1 i-si , sa fE k§-bj5 ?
 phil24.cha 2 10 17 a b5 sa fE pa tRwa , a-lOR .
 phil24.cha 2 10 17 b§ , e b5 Z2 vE a-Re-te la .
 phil24.cha 2 10 17 d a-kOR , Z2 vE t2 fER e-ku-te 1 p°-ti p2 , kOm ty a e-te tRE Z@-ti o-ZuR-d8i .
@@ -15839,7 +15839,7 @@ phil25.cha 2 11 0 ty fE s@-bl@ d a-vwaR l2 o-kE .
 phil25.cha 2 11 0 fE vwaR , fE vwaR , Es k2 ty a l2 o-kE ?
 phil25.cha 2 11 0 n§ , t a pa l2 o-kE .
 phil25.cha 2 11 0 s' e mwa ki l E .
-phil25.cha 2 11 0 vwa-la , s' e sa l2 o-kE , bj5 k2 l2 sj5 swa bo-ku ply dis-kRE , @ fE .
+phil25.cha 2 11 0 vwa-la , s' e sa l2 o-kE , bj5 k2 l2 sj5 swa bo-ku ply dis-kRE , @ fEt .
 phil25.cha 2 11 0 § vwa Zyst le su-bR°-so d Es-to-ma , mE § n @-t@ pa d2 bR8i .
 phil25.cha 2 11 0 tj5 .
 phil25.cha 2 11 0 k Es k § di ?
@@ -16116,7 +16116,7 @@ phil25.cha 2 11 0 a-lOR k Es k2 s' e sa ?
 phil25.cha 2 11 0 il fo-dRE p2-tEt pa-se 1 ku d2 fil a # .
 phil25.cha 2 11 0 wi , k Es k il va fER a-vEk s§n e-pe ?
 phil25.cha 2 11 0 e k Es k i a @-kOR ?
-phil25.cha 2 11 0 si i a-vE kEl-k1n il sRE as-fik-sje la .
+phil25.cha 2 11 0 si i a-vE kEl-k1 il sRE as-fik-sje la .
 phil25.cha 2 11 0 n§ # .
 phil25.cha 2 11 0 5 ?
 phil25.cha 2 11 0 k Es k i a @-kOR ?
@@ -16276,7 +16276,7 @@ phil25.cha 2 11 0 o m§ dj2 , ty kRwa ?
 phil25.cha 2 11 0 o wi .
 phil25.cha 2 11 0 e b5 §n a-vE mal R°-gaR-de , fi-lip .
 phil25.cha 2 11 0 si § sE pa R°-ko-nEt le mu-t§ .
-phil25.cha 2 11 0 R°-gaRd , il a 1 my-zo d an , il a 1n 9j d an , e @ ply s' e e-kRi d°-su .
+phil25.cha 2 11 0 R°-gaRd , il a 1 my-zo d an , il a 1n 9j d an , e @ plys s' e e-kRi d°-su .
 phil25.cha 2 11 0 o !
 phil25.cha 2 11 0 mE Z2 l a-vE vy a-pRE k2 s' e-tE e-kRi .
 phil25.cha 2 11 0 e b5 di d§k !
@@ -17775,7 +17775,7 @@ phil28.cha 3 0 06 ty l8i Ek-splik s2 k i a d°-sy .
 phil28.cha 3 0 06 vwa-j§ .
 phil28.cha 3 0 06 a kwa sa sER le Ro-bo ?
 phil28.cha 3 0 06 u Es k il a 1 mo-t9R ?
-phil28.cha 3 0 06 e k Es k il @ fE d2 s§ mo-t9R ?
+phil28.cha 3 0 06 e k Es k il @ fEt d2 s§ mo-t9R ?
 phil28.cha 3 0 06 il l2 lEs d@ sa tEt ?
 phil28.cha 3 0 06 e k Es k il fE l2 Ro-bo ?
 phil28.cha 3 0 06 Es k2 s' e 1 vRE m°-sj2 ?
@@ -18900,7 +18900,7 @@ phil29.cha 3 0 20 e b5 fi-lip !
 phil29.cha 3 0 20 b5 wi , mE de-pES twa # vj5 nu vwaR .
 phil29.cha 3 0 20 b5 de-pES twa , d2 le pRe-pa-Re .
 phil29.cha 3 0 20 sa a yn o-d9R de-g2-las s2 pRo-d8i puR mEt syR le So-syR .
-phil29.cha 3 0 20 @ ply , sa taS d yn ma-njER Re-py-N@t .
+phil29.cha 3 0 20 @ plys , sa taS d yn ma-njER Re-py-N@t .
 phil29.cha 3 0 20 kOm sa fE d2 la va-p9R , sa va s2 fu-Re d@ tu le pOR , d@ tu le kw5 .
 phil29.cha 3 0 20 s' e vRE-m@ kRa-s2 .
 phil29.cha 3 0 20 Z2 sE pa a-vEk kwa sa s @-lEv .
@@ -19148,7 +19148,7 @@ phil30.cha 3 2 03 tj5 , ty l2 v2 l2 RuZ ?
 phil30.cha 3 2 03 tj5 , ty vwa ?
 phil30.cha 3 2 03 Z2 pu-RE l2 liR d@ ta S@b m§ ZuR-nal ?
 phil30.cha 3 2 03 El e 1 p2 p°-tit ta S@bR , ty sE .
-phil30.cha 3 2 03 @ ply , § n i vwa pa gR@ Soz , 5 .
+phil30.cha 3 2 03 @ plys , § n i vwa pa gR@ Soz , 5 .
 phil30.cha 3 2 03 o si .
 phil30.cha 3 2 03 @-f5 , p2-tEt vu !
 phil30.cha 3 2 03 di d§k !
@@ -19896,7 +19896,7 @@ phil31.cha 3 2 15 il paRl kOm nu ?
 phil31.cha 3 2 15 Es k2 ty t2 su-vj5 ko-m@ il diz yn mE-z§ @n @-gl2-tER ?
 phil31.cha 3 2 15 n§ ?
 phil31.cha 3 2 15 a awz .
-phil31.cha 3 2 15 o , si @ ply ty l8i a-pR@ a-vEk t§n ak-s@ , n§ , # , paR pi-tje , 5 !
+phil31.cha 3 2 15 o , si @ plys ty l8i a-pR@ a-vEk t§n ak-s@ , n§ , # , paR pi-tje , 5 !
 phil31.cha 3 2 15 Z2 vwa pa ko-m@ Z2 pu-RE fER o-tR°-m@ .
 phil31.cha 3 2 15 e b5 Zys-t°-m@ .
 phil31.cha 3 2 15 paRs k il paRl pa kOm nu .
@@ -20186,7 +20186,7 @@ phil31.cha 3 2 15 s' e pa le f9j k2 t a fE a-vEk 1 p5-so ?
 phil31.cha 3 2 15 a wi , il a ko-lo-Re o-si .
 phil31.cha 3 2 15 a wi .
 phil31.cha 3 2 15 mE k Es k2 s' e k2 se p°-ti gR5 ?
-phil31.cha 3 2 15 k Es k2 s' e @ fE ?
+phil31.cha 3 2 15 k Es k2 s' e @ fEt ?
 phil31.cha 3 2 15 ty t2 su-vj5 pa d2 s2 k2 vuz a-ve y-ti-li-ze ?
 phil31.cha 3 2 15 ko-m@ ty lez a fE t°-niR la d°-sy ?
 phil31.cha 3 2 15 e p8i kwa d otR ?
@@ -20796,7 +20796,7 @@ phil32.cha 3 2 29 ty a 1 nu-vo liv syR la vil ?
 phil32.cha 3 2 29 Z2 k§-pR@ Rj5 a s2 k2 ty di , mE Rj5 .
 phil32.cha 3 2 29 Z2 s8i tRo ma-l2-R2z .
 phil32.cha 3 2 29 n§ , ma pys , s' e pa Z@-ti d2 paR-le kOm sa , ty sE .
-phil32.cha 3 2 29 e @ ply , s' e pa dRol , s' e pa 5-te-RE-s@ .
+phil32.cha 3 2 29 e @ plys , s' e pa dRol , s' e pa 5-te-RE-s@ .
 phil32.cha 3 2 29 o t a 1 tRE Zo-li p°-ti Sj5 syR ta sER-vjEt .
 phil32.cha 3 2 29 fi-ni vit , puR k § p8is a-le vwaR l2 livR .
 phil32.cha 3 2 29 a !
@@ -20991,7 +20991,7 @@ phil32.cha 3 2 29 ty sE liR a-lOR m5t-n@ .
 phil32.cha 3 2 29 a-lOR k Es k § v@ d@ s2 ma-ga-z5 ?
 phil32.cha 3 2 29 wi .
 phil32.cha 3 2 29 puR kwa fER ?
-phil32.cha 3 2 29 k Es k §n @ fE de ti-sy ?
+phil32.cha 3 2 29 k Es k §n @ fEt de ti-sy ?
 phil32.cha 3 2 29 5 ?
 phil32.cha 3 2 29 e la , s' e kwa ?
 phil32.cha 3 2 29 wi , s' e vRE .
@@ -21788,7 +21788,7 @@ phil33.cha 3 3 12 il dwav s2 diR b§-ZuR , s@ dut , bj5 po-li-m@ .
 phil33.cha 3 3 12 b§-ZuR , b§-ZuR .
 phil33.cha 3 3 12 b§-ZuR ma-dam la SEvR .
 phil33.cha 3 3 12 b§-ZuR m°-sj2 l2 Sa-mwa .
-phil33.cha 3 3 12 k2 fEt vuz i-si ma-dam la SEvR ?
+phil33.cha 3 3 12 k2 fEt vu i-si ma-dam la SEvR ?
 phil33.cha 3 3 12 Z2 m2 pRo-mEn .
 phil33.cha 3 3 12 Z2 m2 s8i e-Sa-pe d2 Se m°-sj2 # .
 phil33.cha 3 3 12 ty tuRn ?
@@ -21933,7 +21933,7 @@ phil33.cha 3 3 12 wi .
 phil33.cha 3 3 12 s' e sl8i , s' e sl8i ki REst tu-ZuR @ ba e ki fE pa-se le pERS la , ki le dOn o Z@ .
 phil33.cha 3 3 12 ty vwa , l8i , il a pa d2 ba-t§ , il a pa d2 ski , s' e l8i ki s o-kyp d2 sEt ma-Sin .
 phil33.cha 3 3 12 b5 la , ty vwa bj5 k il a pa d2 ba-t§ d@ le m5 .
-phil33.cha 3 3 12 R°-gaRd , lez otRz ilz § tus d2 ba-t§ # .
+phil33.cha 3 3 12 R°-gaRd , lez otR ilz § tus d2 ba-t§ # .
 phil33.cha 3 3 12 il s o-kyp d2 la ma-Sin .
 phil33.cha 3 3 12 b5 § # § REst a ko-te , § vwa si El maRS , si i a de Z@ ki t§b § lez Ed a s2 Ra-ma-se , § le fE R°-paR-tiR , vwa-la .
 phil33.cha 3 3 12 b§ .

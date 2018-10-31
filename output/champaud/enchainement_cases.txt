@@ -53,7 +53,8 @@
 34     qu' il                        kil                          où est-ce qu' il va le
 34     petit éléphant                p°-ti te-le-f@                va le petit éléphant ?
 35     l' éléphant                   le-le-f@                     tête de l' éléphant .
-36     il est                        i le                          en fait il est compliqué ce
+36     fait il                       fE til                        en fait il est compliqué ce
+36     il est                        ti le                         en fait il est compliqué ce
 36     qu' il                        kil                          puzzle parce qu' il y
 36     il y                          ki li                         parce qu' il y a
 36     l' image                      li-maZ                       le , l' image .
@@ -791,6 +792,7 @@
 1104   n' as                         na                           tu n' as pas de peine
 1104   peine à                       pE na                         pas de peine à marcher
 1107   c' est                        se                           ça c' est pas des après
+1107   des après                     de za-pRE                     est pas des après midi
 1110   il a                          i la                          là il a disparu .
 1113   l' ombre                      l§bR                         pied dans l' ombre .
 1115   vas y                         va zi                         allez , vas y .
@@ -1497,6 +1499,7 @@
 1984   il a                          Ri la                         l' heure il a dit
 1985   j' ai                         ZE                           moi , j' ai cru qu'
 1985   qu' il                        kil                          ai cru qu' il voulait
+1985   fait il                       fE til                        et en fait il voulait
 1986   c' était                      se-tE                        disait , c' était &eje
 1987   il a                          i la                          là il a dit ision un
 1988   qu' est-ce                    kEs                          qu' est-ce que c' est ça
@@ -2985,6 +2988,7 @@
 3927   c' est                        se                           c' est des fausses questions ça
 3929   d' abord                      da-bOR                       d' abord Christian tu sais un
 3929   c' est                        se                           un truc c' est que
+3929   fait à                        fE ta                         correspond en fait à une
 3931   qu' il                        kil                          parce qu' il a une toute
 3931   il a                          ki la                         parce qu' il a une toute
 3932   c' est                        se                           c' est pas une phobie mais
@@ -3448,7 +3452,8 @@
 4386   toute autre                   tu tot                        d' une toute autre façon
 4389   qu' est-ce                    kEs                          alors qu' est-ce que c' est
 4389   c' est                        se                           est-ce que c' est ça
-4392   il est                        i le                          en fait il est trop
+4392   fait il                       fE til                        là en fait il est
+4392   il est                        ti le                         en fait il est trop
 4393   c' est                        se                           oui c' est un retour de
 4394   qu' on                        k§                           a longtemps qu' on s'
 4394   s' était                      se-tE                        qu' on s' était pas
@@ -3749,7 +3754,6 @@
 4694   n' arrivait                   na-Ri-vE                     on n' arrivait plus à avoir
 4694   plus à                        ply za                        n' arrivait plus à avoir
 4694   contact il                    k§-tak til                    avoir le contact il nous
-4694   plus il                       ply zil                       nous regardait plus il ne
 4694   c' est                        se                           que hurler c' est .
 4695   il hurlait                    i lyR-lE                      ramener sinon il hurlait moi
 4695   j' étais                      Ze-tE                        hurlait moi j' étais presque
@@ -3980,8 +3984,6 @@
 4946   t' a                          ta                           ben il t' a répondu non
 4947   j' aurai                      Zo-RE                        mais non j' aurai dû
 4950   qu' il                        kil                          tout ce qu' il veut
-4951   plus il                       ply zil                       le laisses plus il plus
-4951   plus il                       ply zil                       plus il plus il .
 4954   j' ai                         ZE                           moi j' ai fait ça pour
 4958   faire attention               fE Ra-t@-sj§                  il faut faire attention .
 4959   les habits                    le za-bi                      ça déchire les habits .
@@ -5113,8 +5115,8 @@
 6082   regarde alors                 R°-gaR da-lOR                 regarde alors moi je viens ici
 6083   d' accord                     da-kOR                       d' accord .
 6084   n' est                        ne                           la chaise n' est pas
-6085   plus il                       ply zil                       si en plus il a
-6085   il a                          zi la                         en plus il a raison
+6085   plus il                       ply sil                       si en plus il a
+6085   il a                          si la                         en plus il a raison
 6086   c' est                        se                           c' est des chaises que j'
 6086   j' ai                         ZE                           chaises que j' ai ramenées
 6088   qu' elle                      kEl                          disons qu' elle est un peu

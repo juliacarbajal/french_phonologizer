@@ -257,7 +257,6 @@
 1069 livres à                      voir les livres à l'
 1083 vas abîmer                    , tu vas abîmer le
 1103 chaussons à                   sont les chaussons à grégoire
-1107 des après                     est pas des après midi
 1131 dort un                        on dort un petit peu ?
 1138 est important                  oh c' est important * .
 1140 liaison avec                   en liaison avec la poussée dentaire
@@ -1192,6 +1191,7 @@
 4685 fait un                        tu avais fait un cauchemar
 4693 mais il                        pas dit mais il a
 4693 fait une                       il a fait une de
+4694 plus il                        nous regardait plus il ne
 4695 sinon il                       le ramener sinon il hurlait
 4695 pas où                        je savais pas où et
 4695 et en                          pas où et en fait
@@ -1271,6 +1271,8 @@
 4933 fait aussi                     est-ce qui fait aussi ?
 4946 ben il                         ben il t' a répondu non
 4951 après on                      après on reviendra mais plus tu
+4951 plus il                        le laisses plus il plus
+4951 plus il                        plus il plus il .
 4962 montrer à                     avais voulu montrer à mon
 4962 comment on                     mon fils comment on glissait
 4962 glissait et                    comment on glissait et pis
@@ -1717,6 +1719,7 @@
 6079 vas être                      mais tu vas être un
 6082 viens ici                      moi je viens ici et
 6082 viens ici                      toi tu viens ici .
+6085 plus il                        si en plus il a
 6087 attends attends                attends attends grégoire .
 6088 est un                         qu' elle est un peu
 6096 mais oui                       mais oui .

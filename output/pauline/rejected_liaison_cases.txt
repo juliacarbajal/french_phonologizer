@@ -949,7 +949,6 @@
 7016 pas à                         la racontes pas à nounours
 7020 racontes à                    tu racontes à nounours ?
 7026 fait un                        elle fait un peu une grosse
-7034 moyen ours                     le moyen ours a une moyenne
 7039 jouer avec                     tu veux jouer avec ça ?
 7059 trois ours                     les trois ours .
 7063 trois ours                     lou , trois ours qui
@@ -960,6 +959,7 @@
 7065 est un                         le deuxième est un ours moyen
 7065 moyen et                       un ours moyen et le
 7065 est un                         le troisième est un grand
+7066 premier a                      le premier a une toute petite
 7070 eux a                          chacun d' eux a une assiette
 7075 eux a                          chacun d' eux a une chaise
 7078 moyen a                        l' ours moyen a une moyenne

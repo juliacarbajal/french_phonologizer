@@ -109,34 +109,58 @@ pronunciation['r'] = 'R'
 # These lists contain all words in certain grammatical categories, necessary
 # for checking certain liaison contexts. They were obtained from Lexique380.
 
-# Load the adjectives:
+V_initial_pronouns = ['il', 'elle', 'on', 'ils', 'elles']
+
+# Load the plural adjectives:
 # Only adjectives finishing in a liaison consonant
-adjectives   = [] 
+plural_adjectives   = [] 
 with open('auxiliary/output_ADJ.txt') as ADJlist:
 	for line in ADJlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		if (line in dico):
 			if (line[-1] in liaison) and (dico[line][-1] != liaison[line[-1]]): 
-				adjectives.append(line)
+				plural_adjectives.append(line)
+plural_adjectives.append('gros') # Adding "gros"" which is not otherwise included (in Lexique it is not marked neither as s nor p)
+
+# Prenominal singular adjectives that may undergo liaison:
+singular_adjectives = ['petit','grand','gros','premier','dernier','certain','moyen','prochain','sain','lointain','ancien','vain','vilain','divin']
+
 
 # Load the plural nouns:
-plural_nouns = [] # Nouns finishing in liaison consonant
-V_nouns = [] # Vowel-initial nouns
-C_nouns = [] # Consonant-initial nouns
+V_nouns_singular = [] # Vowel-initial singular nouns
+V_nouns_plural   = [] # Vowel-initial plural nouns
+C_nouns_singular = [] # Consonant-initial nouns
+C_nouns_plural = [] # Consonant-initial nouns
+
 with open('auxiliary/output_NOMp.txt') as NOMlist:
 	for line in NOMlist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		if (line in dico):
-			ortho_word = dico[line]
-			first_phon = ortho_word.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
-			if (first_phon in vowels+semivowels): 
-				V_nouns.append(line) 
-			if (first_phon in consonants):
-				C_nouns.append(line)
-			if (line[-1] in liaison) and (line != 'trucs'):
-				plural_nouns.append(line)
+			phono_word = dico[line]
+			first_phon = phono_word.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
+			if (first_phon in vowels+semivowels) and line != 'haut': 
+				V_nouns_plural.append(line) 
+			elif (first_phon in consonants):
+				C_nouns_plural.append(line)
+# Adding some words that were not marked in Lexique as plural nouns but appeared in the corpus:
+V_nouns_plural = V_nouns_plural + ['ours', 'avions']
 
-			
+with open('auxiliary/output_NOMs.txt') as NOMlist:
+	for line in NOMlist:
+		line = line.strip().decode('cp1252').encode('utf-8')
+		if (line in dico):
+			phono_word = dico[line]
+			first_phon = phono_word.replace('§', '4').replace('°', '6')[0] # Replacing special characters (see note in PHONEMES section)
+			if (first_phon in vowels+semivowels): 
+				V_nouns_singular.append(line)
+			elif (first_phon in consonants):
+				C_nouns_singular.append(line)
+# Adding some words that were not marked in Lexique as singular nouns but appeared in the corpus:
+V_nouns_singular = V_nouns_singular + ['aimant', 'africain', 'indien', 'enclos']
+
+V_nouns = V_nouns_singular + V_nouns_plural
+C_nouns = C_nouns_singular + C_nouns_plural
+
 # Load 3rd person verbs:
 verbs_3s = []
 with open('auxiliary/output_VER3s.txt') as VER3slist:
@@ -176,7 +200,7 @@ with open('auxiliary/proper_names.txt') as namesdic:
 interjections                     = ['oh', 'eh', 'éh', 'ah', 'hum', 'euh', 'heuh', 'ouah', 'ouf', 'hop', 'op', 'uais', 'oups']
 loanwords_with_initial_semivowels = ['whisky', 'yack', 'yaourt', 'yéti']
 names_of_letters                  = ['o', 'u', 'i', 'm'] # Note: these are just the ones that occurred in the corpus.
-other_exceptions                  = ['et', 'ou', 'où', 'oui', 'ouais', 'apparemment', 'alors', 'attends', 'aussi', 'encore', 'avec'] #, 'après']
+other_exceptions                  = ['et', 'ou', 'où', 'oui', 'ouais', 'apparemment', 'alors', 'attends', 'aussi', 'encore', 'avec', 'ici'] #, 'après']
 
 exceptions_next = h_aspire + interjections + loanwords_with_initial_semivowels + names_of_letters + proper_names + other_exceptions
 
@@ -190,18 +214,18 @@ exceptions_next = h_aspire + interjections + loanwords_with_initial_semivowels +
 always_except = {}
 
 # Articles:
-always_except['des'] = exceptions_next
-always_except['les'] = exceptions_next
-always_except['un']  = exceptions_next + ['à']
+always_except['des'] = exceptions_next + V_initial_pronouns
+always_except['les'] = exceptions_next + V_initial_pronouns
+always_except['un']  = exceptions_next + V_initial_pronouns + ['à']
 
 # Personal and indefinite pronouns:
-always_except['ils']       = exceptions_next
-always_except['elles']     = exceptions_next
-always_except['on']        = exceptions_next
-always_except['nous']      = exceptions_next + ['à', 'on'] + ['il', 'ils', 'elle', 'elles']
-always_except['vous']      = exceptions_next + ['il', 'ils', 'elle', 'elles']
-always_except["quelqu'un"] = exceptions_next + ['y', 'est', 'a']
-always_except['autres']    = exceptions_next + ['à', 'au', 'avant']
+always_except['ils']       = exceptions_next + V_initial_pronouns
+always_except['elles']     = exceptions_next + V_initial_pronouns
+always_except['on']        = exceptions_next + V_initial_pronouns
+always_except['nous']      = exceptions_next + V_initial_pronouns + ['à']
+always_except['vous']      = exceptions_next + V_initial_pronouns
+always_except["quelqu'un"] = exceptions_next + V_initial_pronouns + ['y', 'est', 'a']
+always_except['autres']    = exceptions_next + V_initial_pronouns + ['à', 'au', 'avant']
 
 # Possessive pronouns:
 always_except['mon']  = exceptions_next
@@ -222,9 +246,9 @@ always_except['sans'] = h_aspire + interjections + loanwords_with_initial_semivo
 # Note: We exclude proper names from the exceptions for "sans"
 
 # Adverbs:
-always_except['tout'] = exceptions_next + ['il', 'ils', 'elle', 'elles', 'on']
-always_except['plus'] = exceptions_next
-always_except['très'] = exceptions_next
+always_except['tout'] = exceptions_next + V_initial_pronouns
+always_except['plus'] = exceptions_next + V_initial_pronouns
+always_except['très'] = exceptions_next + V_initial_pronouns
 
 # Numbers:
 # Note: liaison does not occur before the names of the months
@@ -246,33 +270,6 @@ always_except['ces']       = exceptions_next
 always_except['quels']     = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['quelles']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
 
-# Prenominal masculine adjectives:
-# Note: added additional exceptions that occurred in the text
-other_exceptions_for_adjectives = ['il', 'elle', 'on', 'un', 'une', 'en', 'à', 'au', 'aux', 'écoutez', 'écoute', 'allez', 'est', 'a']
-always_except['petit']    = exceptions_next + other_exceptions_for_adjectives
-always_except['grand']    = exceptions_next + other_exceptions_for_adjectives
-always_except['gros']     = exceptions_next + other_exceptions_for_adjectives
-always_except['premier']  = exceptions_next + other_exceptions_for_adjectives
-always_except['dernier']  = exceptions_next + other_exceptions_for_adjectives
-always_except['certain']  = exceptions_next + other_exceptions_for_adjectives
-always_except['moyen']    = exceptions_next + other_exceptions_for_adjectives
-always_except['humain']   = exceptions_next + other_exceptions_for_adjectives
-always_except['prochain'] = exceptions_next + other_exceptions_for_adjectives
-always_except['sain']     = exceptions_next + other_exceptions_for_adjectives
-always_except['lointain'] = exceptions_next + other_exceptions_for_adjectives
-#always_except['plein']    = exceptions_next + other_exceptions_for_adjectives # Never used as a prenominal adjective in the corpus, including it causes false alarms
-always_except['ancien']   = exceptions_next + other_exceptions_for_adjectives
-always_except['vain']     = exceptions_next + other_exceptions_for_adjectives
-always_except['vilain']   = exceptions_next + other_exceptions_for_adjectives
-always_except['divin']    = exceptions_next + other_exceptions_for_adjectives
-#always_except['fin']      = exceptions_next + other_exceptions_for_adjectives # Never used as a prenominal adjective, including it causes false alarms
-
-# Plural prenominal adjectives:
-# Note: the list of exceptions rules out the postnominal ones that occurred in the corpus (checking in Lexique whether the preceding word 
-# is a noun is possible but would slow down the script considerably)
-for adjective in adjectives:
-	always_except[adjective] = exceptions_next + ['il', 'elle', 'on', 'un', 'une', 'en', 'à', 'au', 'aux', 'écoutez', 'écoute', 'allez']
-
 # (2) Cases that apply only if followed by specific items:
 # Keys: Words that are considered to undergo mandatory liaison in specific contexts
 # Values: List of following words that trigger liaison for each Key.
@@ -284,6 +281,16 @@ for verb in verbs_3s:
 for verb in verbs_3p:
 	only_before[verb] = ['ils', 'elles']
 
+# Prenominal adjectives:
+for adjective in singular_adjectives:
+	only_before[adjective] = V_nouns_singular
+	
+for adjective in plural_adjectives:
+	if adjective in singular_adjectives:
+		only_before[adjective] = only_before[adjective] + V_nouns_plural
+	else:
+		only_before[adjective] = V_nouns_plural
+		
 # Other cases:
 only_before['vas']     = 'y'
 only_before['allez']   = 'y'
@@ -306,6 +313,7 @@ only_before['bon']     = ['anniversaire', 'état', 'endroit', 'ordre', 'appui', 
 # Examples: the word "était" in "il était une fois", or the word "plus" in "plus ou moins".
 # As this cannot be written into a simple dictionary, hese cases are written directly in the check_liaison function (see FUNCTIONS section below).
 
+#### OTHER DETAILS
 ## Denasalization cases:
 denasalization = {}
 denasalization['bon']      = 'bOn'
@@ -354,7 +362,7 @@ def check_liaison(line, all_words, k) :
 		prev_word    = '#'
 		if (k>0) :
 			prev_word   = all_words[k-1]
-
+				
 		# Case (1): List of cases that apply always except if followed by specific items (see LIAISON EXCEPTIONS)
 		if (current_word in always_except) and (next_word not in always_except[current_word]):
 			do_liaison = True
@@ -393,6 +401,9 @@ def check_liaison(line, all_words, k) :
 				do_liaison = False
 			# any instances of après that are not part of après-midi:
 			elif (next_word == 'après') and (next_word_2 != 'midi'):
+				do_liaison = False
+			# reject nouns that are in h_aspire list (added during the prenominal adjectives definition)
+			elif (next_word in h_aspire):
 				do_liaison = False
 		
 		# Case (3): Cases with special contexts:
@@ -599,9 +610,18 @@ for corpusdir in dirlist:
 					elif (word in special_numbers) and (lastphon == 's') and (words[i+1] in C_nouns):
 						newwords[i] = newwords[i][:-1]
 						
-					# Correct alternative pronunciation of tous (with or without silent consonant):
+					# Correct alternative pronunciation of tous (in the dictionary it is transcribed as [tus]):
 					if (word == 'tous') and (next_word in ['les', 'des', 'ces', 'nos', 'vos', 'ses', 'tes', 'ceux']):
 						newwords[i] = newwords[i][:-1]
+					
+					# Correct pronunciation of fait and plus in "en fait" and "en plus":
+					if (i>0):
+						prev_word = words[i-1]
+					if (word == 'fait') and (prev_word == 'en'):
+						newwords[i] = newwords[i] + 't'
+					elif (word == 'plus') and (prev_word == 'en'):
+						newwords[i] = newwords[i] + 's'
+						
 				else:
 					# Word not found in dictionary:
 					newwords.append('#')

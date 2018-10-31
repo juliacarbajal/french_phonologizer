@@ -3144,9 +3144,11 @@
 6082   t' as                         ta                           t' as un pied de micro
 6085   l' autre                      lot                          essayer l' autre quand même .
 6089   c' est                        se                           ça , c' est du vingt
+6090   fait elle                     fE tEl                        en fait elle met du vingt
 6090   c' est                        se                           mais comme c' est bien
 6090   il y                          i li                          , là il y a
 6091   les autres                    le zotR                       mais les autres , elles sont
+6092   fait il                       fE til                        en fait il lui aurait fallu
 6094   t' as                         ta                           bien , t' as les
 6097   cours un                      ku R1                         pi tu cours un peu
 6099   c' est                        se                           que c' est dur !
@@ -3742,7 +3744,8 @@
 7033   petit ours                    p°-ti tuRs                    le petit ours a une petite
 7033   ours a                        tuR sa                        le petit ours a une petite
 7033   petite assiette               p°-ti ta-sjEt                 a une petite assiette .
-7034   ours a                        uR sa                         le moyen ours a une moyenne
+7034   moyen ours                    mwa-jE nuRs                   le moyen ours a une moyenne
+7034   ours a                        nuR sa                        le moyen ours a une moyenne
 7034   moyenne assiette              mwa-jE na-sjEt                a une moyenne assiette ,
 7034   grand ours                    gR@ tuRs                      et le grand ours a
 7034   ours a                        tuR sa                        le grand ours a une
@@ -3767,7 +3770,6 @@
 7065   un ours                       1 nuRs                        deuxième est un ours moyen
 7065   troisième est                 tRwa-zjE me                   et le troisième est un
 7065   grand ours                    gR@ tuRs                      grand , grand ours .
-7066   premier a                     pR°-mje Ra                    le premier a une toute petite
 7067   deuxième a                    d2-zjE ma                     le deuxième a une voix moyenne
 7067   moyenne et                    mwa-jE ne                     une voix moyenne et le
 7069   troisième a                   tRwa-zjE ma                   et le troisième a une grosse
@@ -4493,7 +4495,8 @@
 8233   elle a                        E la                          elle a des cornes , il
 8233   il a                          i la                          cornes , il a des
 8233   l' escargot                   lEs-kaR-go                   cornes , l' escargot .
-8236   un autre                      1 notR                        en fait un autre ,
+8236   fait un                       fE t1n                        que en fait un autre
+8236   un autre                      t1 notR                       en fait un autre ,
 8238   qu' est-ce                    kEs                          pi qu' est-ce que t' as
 8238   t' as                         ta                           est-ce que t' as trouvé
 8238   plage encore                  pla Z@-kOR                    sur la plage encore ?

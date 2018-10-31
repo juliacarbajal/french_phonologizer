@@ -880,7 +880,7 @@ leonard-02-1_10_24.cha 1 10 24 Z2 n2 t2 vwa ply .
 leonard-02-1_10_24.cha 1 10 24 u i le le-o-naR .
 leonard-02-1_10_24.cha 1 10 24 a ku-ku !
 leonard-02-1_10_24.cha 1 10 24 mE se tR@s-pa-R@ .
-leonard-02-1_10_24.cha 1 10 24 @ fE Z2 t2 vwa pa Ri-si .
+leonard-02-1_10_24.cha 1 10 24 @ fEt Z2 t2 vwa pa Ri-si .
 leonard-02-1_10_24.cha 1 10 24 ku-ku Z2 t2 vwa .
 leonard-02-1_10_24.cha 1 10 24 se de ly-nEt ?
 leonard-02-1_10_24.cha 1 10 24 o , l2 mask !
@@ -1086,7 +1086,7 @@ leonard-02-1_10_24.cha 1 10 24 ty m§t pa syR la tabl .
 leonard-02-1_10_24.cha 1 10 24 ty pRo-fit pa k2 se flo-R@s .
 leonard-02-1_10_24.cha 1 10 24 mE n§ paRs k2 ma-m@ E le pa da-kOR puR k2 ty m§t syR la tabl .
 leonard-02-1_10_24.cha 1 10 24 n§ .
-leonard-02-1_10_24.cha 1 10 24 flo-R@s n§ ply zEl ne pa da-kOR .
+leonard-02-1_10_24.cha 1 10 24 flo-R@s n§ ply El ne pa da-kOR .
 leonard-02-1_10_24.cha 1 10 24 pER-sOn ne da-kOR .
 leonard-02-1_10_24.cha 1 10 24 le-o-naR !
 leonard-02-1_10_24.cha 1 10 24 le-o-na Ra-REt !
@@ -1208,7 +1208,7 @@ leonard-03-1_11_15.cha 1 11 15 puR-kwa ty k§t pa-se sa o ka-tORz Z8i-jE a # ?
 leonard-03-1_11_15.cha 1 11 15 o gR@ Ra-b5 d2 pa-Ri .
 leonard-03-1_11_15.cha 1 11 15 o gR@ REks ty va fE Ryn pRo-ZEk-sj§ spe-sjal d°-v@ tut la fa-mij .
 leonard-03-1_11_15.cha 1 11 15 se pa nu se le-o-naR da-bOR .
-leonard-03-1_11_15.cha 1 11 15 i le d2 ply z@ ply bo le-o-naR .
+leonard-03-1_11_15.cha 1 11 15 i le d2 ply z@ plys bo le-o-naR .
 leonard-03-1_11_15.cha 1 11 15 o se Z@-ti .
 leonard-03-1_11_15.cha 1 11 15 se vRE .
 leonard-03-1_11_15.cha 1 11 15 il m@Z tEl-m@ ka-SE Ra la kRES ty k§-pR@ kil fo .
@@ -1222,9 +1222,9 @@ leonard-03-1_11_15.cha 1 11 15 ty m@ .
 leonard-03-1_11_15.cha 1 11 15 tj5 .
 leonard-03-1_11_15.cha 1 11 15 1 p2 d2 py-Re .
 leonard-03-1_11_15.cha 1 11 15 n§ !
-leonard-03-1_11_15.cha 1 11 15 ta-vE pa fi-ni d2 ma-Se @ ply .
+leonard-03-1_11_15.cha 1 11 15 ta-vE pa fi-ni d2 ma-Se @ plys .
 leonard-03-1_11_15.cha 1 11 15 a wi .
-leonard-03-1_11_15.cha 1 11 15 Z2 t2 tREt d2 m@-t9R mE @ fE n§ .
+leonard-03-1_11_15.cha 1 11 15 Z2 t2 tREt d2 m@-t9R mE @ fEt n§ .
 leonard-03-1_11_15.cha 1 11 15 o la la la .
 leonard-03-1_11_15.cha 1 11 15 o la la la la la la .
 leonard-03-1_11_15.cha 1 11 15 vwa-la tuRn twa paR la .
@@ -1252,10 +1252,10 @@ leonard-03-1_11_15.cha 1 11 15 e i li a-vE le-o-naR ?
 leonard-03-1_11_15.cha 1 11 15 il la vy S@-te Z2 di de kOn-Ri .
 leonard-03-1_11_15.cha 1 11 15 mE il la de-Za vy S@-te d@ sa vi ?
 leonard-03-1_11_15.cha 1 11 15 wi mE pa syR sEn .
-leonard-03-1_11_15.cha 1 11 15 e @ fE k@ til paRl .
-leonard-03-1_11_15.cha 1 11 15 ZE di wi paRs k@ fE la fo-to u # fE l2 klun .
+leonard-03-1_11_15.cha 1 11 15 e @ fEt k@ til paRl .
+leonard-03-1_11_15.cha 1 11 15 ZE di wi paRs k@ fEt la fo-to u # fE l2 klun .
 leonard-03-1_11_15.cha 1 11 15 se yn fo-to d2 spEk-takl .
-leonard-03-1_11_15.cha 1 11 15 d§k se puR sa k2 ZE di wi @ fE .
+leonard-03-1_11_15.cha 1 11 15 d§k se puR sa k2 ZE di wi @ fEt .
 leonard-03-1_11_15.cha 1 11 15 mE se-tE n§ la vRE Re-p§s .
 leonard-03-1_11_15.cha 1 11 15 9m la i a 1 pRo-blEm d2 ba-tRi i a e-kRi .
 leonard-03-1_11_15.cha 1 11 15 a wE ?
@@ -1498,7 +1498,7 @@ leonard-03-1_11_15.cha 1 11 15 a-lOR Ra-k§t mwa .
 leonard-03-1_11_15.cha 1 11 15 Ra-k§t mwa sEt k8i-zin .
 leonard-03-1_11_15.cha 1 11 15 o la la tE dRol-m@ ka-Se se bj5 # .
 leonard-03-1_11_15.cha 1 11 15 la ku-ku .
-leonard-03-1_11_15.cha 1 11 15 se yn vRE staR s2 mE k@ fE .
+leonard-03-1_11_15.cha 1 11 15 se yn vRE staR s2 mE k@ fEt .
 leonard-03-1_11_15.cha 1 11 15 kEs k2 ty fE ?
 leonard-03-1_11_15.cha 1 11 15 ty R°-gaRd la kEs ki s2 pas .
 leonard-03-1_11_15.cha 1 11 15 tE o pi-kE le-o-naR ?
@@ -1772,7 +1772,7 @@ leonard-04-2_00_08.cha 2 00 08 ty v2 k2 Z2 l8i @ fas # ?
 leonard-04-2_00_08.cha 2 00 08 Sp2 l8i @ fER .
 leonard-04-2_00_08.cha 2 00 08 n§ ZvE le fER paRs k2 twa sa t2 fE pa b§ puR ta po .
 leonard-04-2_00_08.cha 2 00 08 ko-m@ ty sE ty ma @-t@-dy l2 diR ?
-leonard-04-2_00_08.cha 2 00 08 n§ se vRE sa mti R@ fE .
+leonard-04-2_00_08.cha 2 00 08 n§ se vRE sa mti R@ fEt .
 leonard-04-2_00_08.cha 2 00 08 wi St2 film le-o-naR .
 leonard-04-2_00_08.cha 2 00 08 mE fo pa k2 ty fas .
 leonard-04-2_00_08.cha 2 00 08 fo pa k2 ty fas de ze-kla-bu-syR .
@@ -2347,7 +2347,7 @@ leonard-04-2_00_08.cha 2 00 08 ty l8i fE yn fe-se ?
 leonard-04-2_00_08.cha 2 00 08 e la p°-tit fij ?
 leonard-04-2_00_08.cha 2 00 08 kEs k2 ty l8i fE a la p°-tit fij ?
 leonard-04-2_00_08.cha 2 00 08 El pl9R .
-leonard-04-2_00_08.cha 2 00 08 a la p°-tit fij n§ ply zE le pa bEl ?
+leonard-04-2_00_08.cha 2 00 08 a la p°-tit fij n§ ply E le pa bEl ?
 leonard-04-2_00_08.cha 2 00 08 kOm sa i a pa dZa-lu .
 leonard-04-2_00_08.cha 2 00 08 e b5 se l2 p°-ti gaR-s§ ki de-sin syR l2 myR .
 leonard-04-2_00_08.cha 2 00 08 se 1 ko-k5 .
@@ -2380,7 +2380,7 @@ leonard-04-2_00_08.cha 2 00 08 sa fE bo-ku 5 ?
 leonard-04-2_00_08.cha 2 00 08 la duS kpik le zj2 .
 leonard-04-2_00_08.cha 2 00 08 Z2 tE di de-Za !
 leonard-04-2_00_08.cha 2 00 08 la duS ki pik le zj2 d2 la p°-tit fij .
-leonard-04-2_00_08.cha 2 00 08 ki se @ fE se sa k2 ty d°-m@d ?
+leonard-04-2_00_08.cha 2 00 08 ki se @ fEt se sa k2 ty d°-m@d ?
 leonard-04-2_00_08.cha 2 00 08 pa kEs k2 se .
 leonard-04-2_00_08.cha 2 00 08 se l2 p°-ti gaR-s§ # .
 leonard-04-2_00_08.cha 2 00 08 se s§ Sj5 # .
@@ -2550,7 +2550,7 @@ leonard-05-2_00_26.cha 2 00 26 mE il ze-tE tus mE-j9R le z1 k2 le zotR .
 leonard-05-2_00_26.cha 2 00 26 se bi-zaR k2 le Z@ ta-pORt dy So-ko-la k@ 1 n@-f@ nE .
 leonard-05-2_00_26.cha 2 00 26 ty p2 pa sa-vwaR l2 n§b d2 So-ko-la k§ na y .
 leonard-05-2_00_26.cha 2 00 26 mwa Z2 sE pa Za-mEn-RE 1 tRyk puR l@-f@ .
-leonard-05-2_00_26.cha 2 00 26 e b5 si ty v2 il zam-nE 1 tRyk puR le-o-na Re de So-ko-la @ ply .
+leonard-05-2_00_26.cha 2 00 26 e b5 si ty v2 il zam-nE 1 tRyk puR le-o-na Re de So-ko-la @ plys .
 leonard-05-2_00_26.cha 2 00 26 puR vu .
 leonard-05-2_00_26.cha 2 00 26 puR nu .
 leonard-05-2_00_26.cha 2 00 26 puR vu fe-li-si-te .
@@ -2592,7 +2592,7 @@ leonard-05-2_00_26.cha 2 00 26 Za-dOR !
 leonard-05-2_00_26.cha 2 00 26 ZEm bj5 le t°-ny d2 mE-z§ Z2 kRwa .
 leonard-05-2_00_26.cha 2 00 26 wE @ Ze-ne-Ral Z2 sOR d1 tRyk .
 leonard-05-2_00_26.cha 2 00 26 se puR sa k2 Z2 s8i a-bi-je e tu .
-leonard-05-2_00_26.cha 2 00 26 a se puR sa k2 tE tu-Zu R@ RO be tu sa @ fE .
+leonard-05-2_00_26.cha 2 00 26 a se puR sa k2 tE tu-Zu R@ RO be tu sa @ fEt .
 leonard-05-2_00_26.cha 2 00 26 se paRs k2 ta-Riv d2 SE pa kwa yn k§-fe-R@s .
 leonard-05-2_00_26.cha 2 00 26 se puR la-pa-R@s .
 leonard-05-2_00_26.cha 2 00 26 wE Eg-zak-t°-m@ .
@@ -3250,7 +3250,7 @@ leonard-06-2_01_27.cha 2 01 27 # l2 s5Z .
 leonard-06-2_01_27.cha 2 01 27 wE .
 leonard-06-2_01_27.cha 2 01 27 # ty-ty .
 leonard-06-2_01_27.cha 2 01 27 wE ty-ty se l2 n§ dy be-be ko-S§ .
-leonard-06-2_01_27.cha 2 01 27 d2 la pu-pe @ fE .
+leonard-06-2_01_27.cha 2 01 27 d2 la pu-pe @ fEt .
 leonard-06-2_01_27.cha 2 01 27 se bo-ku ply z5-te-RE-s@ d2 ti-Re le p°-ti bu !
 leonard-06-2_01_27.cha 2 01 27 le-o-naR .
 leonard-06-2_01_27.cha 2 01 27 Es k2 ta Ra-k§-te a ta-ta # k§ na-vE fE yn Ra-djo .
@@ -3854,7 +3854,7 @@ leonard-06-2_01_27.cha 2 01 27 il t2 tRuv pa si vi-l5 pa si bo k2 sa .
 leonard-06-2_01_27.cha 2 01 27 n§ i a y d2 la-mu Ro de-by @t nu mE m5t-n@ , se ply k2 d2 l5-di-fe-R@s .
 leonard-06-2_01_27.cha 2 01 27 ty sE ki le vo-laZ 5 .
 leonard-06-2_01_27.cha 2 01 27 a wi tRE vo-laZ .
-leonard-06-2_01_27.cha 2 01 27 tE de-sy @ fE .
+leonard-06-2_01_27.cha 2 01 27 tE de-sy @ fEt .
 leonard-06-2_01_27.cha 2 01 27 mwa Z2 s8i de-sy .
 leonard-06-2_01_27.cha 2 01 27 le-o-naR di a # kE le vi-l5 pa bo Z2 t@ sy-pli .
 leonard-06-2_01_27.cha 2 01 27 El va fE Ryn de-pRe-sj§ nER-v2z .
@@ -3904,7 +3904,7 @@ leonard-06-2_01_27.cha 2 01 27 pe-pe # pa-pi # l§kl # il l§ tus .
 leonard-06-2_01_27.cha 2 01 27 se bo .
 leonard-06-2_01_27.cha 2 01 27 se pa mal mE il gRo-si d2 Ze-ne-Ra-sj§ @ Ze-ne-Ra-sj§ .
 leonard-06-2_01_27.cha 2 01 27 a ty v2 diR k2 k@ t§ na swa-s@t s5 k@ se .
-leonard-06-2_01_27.cha 2 01 27 n§ Z2 v2 diR k2 sl8i de Ze-ne-Ra-sj§ pRe-se-d@t ze mw5 5-pOR-t@ k2 l2 sj5 .
+leonard-06-2_01_27.cha 2 01 27 n§ Z2 v2 diR k2 sl8i de Ze-ne-Ra-sj§ pRe-se-d@ te mw5 5-pOR-t@ k2 l2 sj5 .
 leonard-06-2_01_27.cha 2 01 27 a da-kOR .
 leonard-06-2_01_27.cha 2 01 27 l2 sj5 e 1 de ply bo .
 leonard-06-2_01_27.cha 2 01 27 wE da-kOR .
@@ -4604,11 +4604,11 @@ leonard-07-2_03_00.cha 2 03 00 la l°-s§ .
 leonard-07-2_03_00.cha 2 03 00 se dRol paRs kEl ma d°-m@-de ko-m@ a-lE le-o-naR .
 leonard-07-2_03_00.cha 2 03 00 wE .
 leonard-07-2_03_00.cha 2 03 00 e Z2 m2 di-zE k2 se dRol kEl s2 Ra-pEl k2 Z2 ko-nE le-o-naR k@ mEm paRs k§ n@ na vag-m@ paR-le .
-leonard-07-2_03_00.cha 2 03 00 e @ fE E la k§-f§-dy le-o-na Re fi-lip .
+leonard-07-2_03_00.cha 2 03 00 e @ fE tE la k§-f§-dy le-o-na Re fi-lip .
 leonard-07-2_03_00.cha 2 03 00 a wE ?
 leonard-07-2_03_00.cha 2 03 00 paRs k2 la fwa da-v@ fi-li pe-tE v°-ny m2 SER-Se .
 leonard-07-2_03_00.cha 2 03 00 e p8i El ko-m@-sE a m2 diR se m§ ko-p5 e tu sa a-lOR Z2 k§-pR°-nE pa .
-leonard-07-2_03_00.cha 2 03 00 e @ fE E la dy k§-f§d paRs k2 SE pa kwa .
+leonard-07-2_03_00.cha 2 03 00 e @ fE tE la dy k§-f§d paRs k2 SE pa kwa .
 leonard-07-2_03_00.cha 2 03 00 t§ ko-p5 s§ ko-p5 a El s§ ko-p5 se le-o-naR .
 leonard-07-2_03_00.cha 2 03 00 wE @-f5 se 1 p2 tu me-l@-Ze .
 leonard-07-2_03_00.cha 2 03 00 a mE o mE sa maRS pa la .
@@ -4907,7 +4907,7 @@ leonard-07-2_03_00.cha 2 03 00 e di a t@ tEl-za ki i a a la mE-z§ .
 leonard-07-2_03_00.cha 2 03 00 n§ i le pa paR-ti gi-jom .
 leonard-07-2_03_00.cha 2 03 00 n§ .
 leonard-07-2_03_00.cha 2 03 00 n§ i a Zyst gi-jo me i a a-li-ja ki film # .
-leonard-07-2_03_00.cha 2 03 00 d§ k@ fE # .
+leonard-07-2_03_00.cha 2 03 00 d§ k@ fEt # .
 leonard-07-2_03_00.cha 2 03 00 n§ i a pa d2 te .
 leonard-07-2_03_00.cha 2 03 00 i a pa tu-ZuR dy te .
 leonard-07-2_03_00.cha 2 03 00 ty v2 dy te ?
@@ -5371,7 +5371,7 @@ leonard-08-2_03_26.cha 2 03 26 se pa bj5 .
 leonard-08-2_03_26.cha 2 03 26 Z2 vE t2 sOR-tiR dy b5 si ty kRi .
 leonard-08-2_03_26.cha 2 03 26 ty a-REt 5 !
 leonard-08-2_03_26.cha 2 03 26 ty v2 sOR-tiR dy b5 .
-leonard-08-2_03_26.cha 2 03 26 se sa k2 ty v2 @ fE ?
+leonard-08-2_03_26.cha 2 03 26 se sa k2 ty v2 @ fEt ?
 leonard-08-2_03_26.cha 2 03 26 mERd .
 leonard-08-2_03_26.cha 2 03 26 mo-vE kal-kyl .
 leonard-08-2_03_26.cha 2 03 26 a-t@ t@ t@ .
@@ -5835,7 +5835,7 @@ leonard-09-2_04_25.cha 2 04 25 se ki l2 dOk-t9R ?
 leonard-09-2_04_25.cha 2 04 25 a wi sa se vRE pe-pe al-dO se l2 dOk-t9R .
 leonard-09-2_04_25.cha 2 04 25 ko-m@ sa se pa sa ?
 leonard-09-2_04_25.cha 2 04 25 wi mE i a pa d2 So-syR RuZ .
-leonard-09-2_04_25.cha 2 04 25 wE le zotR zEl s§ Zon , ty vwa ?
+leonard-09-2_04_25.cha 2 04 25 wE le zo tREl s§ Zon , ty vwa ?
 leonard-09-2_04_25.cha 2 04 25 ki Es k2 se k2 sa ?
 leonard-09-2_04_25.cha 2 04 25 kEs k2 se ?
 leonard-09-2_04_25.cha 2 04 25 ty lko-nE ?
@@ -6068,14 +6068,14 @@ leonard-09-2_04_25.cha 2 04 25 to-RE pa vy 1 mE ka-vEk d2 tRE gR@ pje k§ na-pEl
 leonard-09-2_04_25.cha 2 04 25 e l8i i di puR de-ko-ne puR RiR paRs kil vwa k2 le Z@ i diz # i di zi le paR-ti paR la .
 leonard-09-2_04_25.cha 2 04 25 o !
 leonard-09-2_04_25.cha 2 04 25 i le pa paR-ti se l8i ki di o Sa-s9R ZE vy Z2 lE vy la-bo-mi-na blOm de nE Zi le paR-ti paR la .
-leonard-09-2_04_25.cha 2 04 25 mE @ fE se pa vRE se 1 m@-s§Z .
+leonard-09-2_04_25.cha 2 04 25 mE @ fEt se pa vRE se 1 m@-s§Z .
 leonard-09-2_04_25.cha 2 04 25 b5 paRs kil v2 s2 v@-Ze de Sa-s9R .
 leonard-09-2_04_25.cha 2 04 25 i la pER-dy s§ fy-zi wi e lo tRi la pER-dy o-si s§ fy-zi .
 leonard-09-2_04_25.cha 2 04 25 e il t§ be i a de mOR-so d2 pjER ki t§ bo-si .
 leonard-09-2_04_25.cha 2 04 25 e vwa-la .
 leonard-09-2_04_25.cha 2 04 25 @-s8it la d2-zjEm fwa a-vEk le zot Sa-s9R .
 leonard-09-2_04_25.cha 2 04 25 @-s8it l8i mEm v2 so-te paRs ki le de-zEs-pe-Re .
-leonard-09-2_04_25.cha 2 04 25 i le pa k§-t@ paRs kil p@s kil le za t8e e @ fE il sa-pER-swa kil le za pa t8e d§k tu te bj5 ki fi-ni bj5 .
+leonard-09-2_04_25.cha 2 04 25 i le pa k§-t@ paRs kil p@s kil le za t8e e @ fE til sa-pER-swa kil le za pa t8e d§k tu te bj5 ki fi-ni bj5 .
 leonard-09-2_04_25.cha 2 04 25 e vwa-la .
 leonard-09-2_04_25.cha 2 04 25 a te swE .
 leonard-09-2_04_25.cha 2 04 25 ma-m@ El paR la-vEk # o te-le-fOn .
@@ -6586,7 +6586,7 @@ leonard-10-2_06_07.cha 2 06 07 tE da-kOR ?
 leonard-10-2_06_07.cha 2 06 07 n§ se pa ko-m@ ty kRi se ko-m@ ty paRl .
 leonard-10-2_06_07.cha 2 06 07 t@-ta-tiv di-mi-ta-sj§ dyn su-Ri .
 leonard-10-2_06_07.cha 2 06 07 a-se Re-y-si da-j9R .
-leonard-10-2_06_07.cha 2 06 07 mE la sa fE @ ply 2 y n9R k§ Zu .
+leonard-10-2_06_07.cha 2 06 07 mE la sa fE @ ply s2 y n9R k§ Zu .
 leonard-10-2_06_07.cha 2 06 07 e il paRl Sa-Ra-bja le tRwa kaR dy t@ .
 leonard-10-2_06_07.cha 2 06 07 kEs k2 ty v2 ?
 leonard-10-2_06_07.cha 2 06 07 kEl p°-ti li ?
@@ -6941,7 +6941,7 @@ leonard-10-2_06_07.cha 2 06 07 dOn le za pa-pa le ly-nEt .
 leonard-10-2_06_07.cha 2 06 07 S8i bE la-vEk le ly-nEt ?
 leonard-10-2_06_07.cha 2 06 07 e la ty vwa pa-pa ?
 leonard-10-2_06_07.cha 2 06 07 n§ il vwa Rj5 la .
-leonard-10-2_06_07.cha 2 06 07 mE kOm mwa Zi vwa Rj5 n§ ply z§ ne mal ba-Re .
+leonard-10-2_06_07.cha 2 06 07 mE kOm mwa Zi vwa Rj5 n§ ply § ne mal ba-Re .
 leonard-10-2_06_07.cha 2 06 07 ty l2 vwa la ?
 leonard-10-2_06_07.cha 2 06 07 la a-t@ .
 leonard-10-2_06_07.cha 2 06 07 ty v2 l8i R@d le ly-nEt ?
@@ -7065,8 +7065,8 @@ leonard-10-2_06_07.cha 2 06 07 a n§ se 1 ka-Re .
 leonard-10-2_06_07.cha 2 06 07 l2 tRyk d2 mi zo pw5 i a pa 1 R§ ?
 leonard-10-2_06_07.cha 2 06 07 n§ .
 leonard-10-2_06_07.cha 2 06 07 @-f5 § vwa 1 pti R§ Ru Z@ ba puR m§-tRe k2 sa maRS .
-leonard-10-2_06_07.cha 2 06 07 @ fE i le pa si 5-te-li-Z@ k§ kRwa .
-leonard-10-2_06_07.cha 2 06 07 @ ply zi le dal-to-nj5 # k2 .
+leonard-10-2_06_07.cha 2 06 07 @ fE ti le pa si 5-te-li-Z@ k§ kRwa .
+leonard-10-2_06_07.cha 2 06 07 @ ply si le dal-to-nj5 # k2 .
 leonard-10-2_06_07.cha 2 06 07 wE .
 leonard-10-2_06_07.cha 2 06 07 ty vwa # # d@ la ka-me-Ra ?
 leonard-10-2_06_07.cha 2 06 07 tE dwe 5 .
@@ -7372,7 +7372,7 @@ leonard-10-2_06_07.cha 2 06 07 vwa-la .
 leonard-10-2_06_07.cha 2 06 07 o n§ .
 leonard-10-2_06_07.cha 2 06 07 § de-sin pa syR l2 mi-RwaR paRs k2 se @ ti-sy dE-RjER .
 leonard-10-2_06_07.cha 2 06 07 se pa @ pa-pje .
-leonard-10-2_06_07.cha 2 06 07 e @ ply se pa fE puR de-si-ne .
+leonard-10-2_06_07.cha 2 06 07 e @ plys se pa fE puR de-si-ne .
 leonard-10-2_06_07.cha 2 06 07 fo e-t5d lo fRwad la le-o-naR 5 .
 leonard-10-2_06_07.cha 2 06 07 a b5 si .
 leonard-10-2_06_07.cha 2 06 07 a b5 si .
@@ -7534,7 +7534,7 @@ leonard-11-2_07_25.cha 2 07 25 a se § .
 leonard-11-2_07_25.cha 2 07 25 o paR-d§ .
 leonard-11-2_07_25.cha 2 07 25 mERd SkRwa-jE .
 leonard-11-2_07_25.cha 2 07 25 si ta-Ri va nu vwaR .
-leonard-11-2_07_25.cha 2 07 25 SkRwa k2 ply zi le o bOR d2 la tab mj2 se .
+leonard-11-2_07_25.cha 2 07 25 SkRwa k2 ply i le o bOR d2 la tab mj2 se .
 leonard-11-2_07_25.cha 2 07 25 la se b§ .
 leonard-11-2_07_25.cha 2 07 25 ZE ko-m@-se a fER sa a-vEk le a-vEk sER-tEn si-t8a-sj§ u § ne fiks .
 leonard-11-2_07_25.cha 2 07 25 mE le-o-naR se tRE RaR ki swa .
@@ -7578,7 +7578,7 @@ leonard-11-2_07_25.cha 2 07 25 ty vwa Z2 m2 s8i tR§-pe .
 leonard-11-2_07_25.cha 2 07 25 se gRo pe-pER ta RE-z§ .
 leonard-11-2_07_25.cha 2 07 25 Z2 s8i nyl .
 leonard-11-2_07_25.cha 2 07 25 Z2 ko-nE pa lis-twaR .
-leonard-11-2_07_25.cha 2 07 25 @ fE ty la sE vaS-m@ mj2 k2 mwa .
+leonard-11-2_07_25.cha 2 07 25 @ fEt ty la sE vaS-m@ mj2 k2 mwa .
 leonard-11-2_07_25.cha 2 07 25 gRos # ?
 leonard-11-2_07_25.cha 2 07 25 a wE .
 leonard-11-2_07_25.cha 2 07 25 e kEs kEl fE ?
@@ -8049,7 +8049,7 @@ leonard-12-2_11_03.cha 2 11 03 wi .
 leonard-12-2_11_03.cha 2 11 03 b5 2 Z2 vu-lE t2 d°-m@-de s2 k2 ta-vE fE a le-kOl .
 leonard-12-2_11_03.cha 2 11 03 i la vRE-m@ pa b°-zw5 da-le s2 fa-ti-ge a fE R1 film d@t .
 leonard-12-2_11_03.cha 2 11 03 5 il la a la mE-z§ .
-leonard-12-2_11_03.cha 2 11 03 i le @ # @ ply .
+leonard-12-2_11_03.cha 2 11 03 i le @ # @ plys .
 leonard-12-2_11_03.cha 2 11 03 Z2 m2 d°-m@d sil fE de-Za fRwa la ba .
 leonard-12-2_11_03.cha 2 11 03 a-t@ le-o-naR paRs k2 Z2 vE t2 .
 leonard-12-2_11_03.cha 2 11 03 vj5 Z2 vE tEk-spli-ke 1 tRyk .
@@ -8064,7 +8064,7 @@ leonard-12-2_11_03.cha 2 11 03 e se kwa s2 stil 5 .
 leonard-12-2_11_03.cha 2 11 03 b5 wi .
 leonard-12-2_11_03.cha 2 11 03 se bR@-Se se stil Ri-go-lo .
 leonard-12-2_11_03.cha 2 11 03 a-lOR Z2 tEk-splik .
-leonard-12-2_11_03.cha 2 11 03 a-li-ja @ fE .
+leonard-12-2_11_03.cha 2 11 03 a-li-ja @ fEt .
 leonard-12-2_11_03.cha 2 11 03 El va e-kRi R1 gRo liv syR le z@-f@ ki paR le ki paRl pa .
 leonard-12-2_11_03.cha 2 11 03 e a-lO REl le za @R-Zis-tRe e twa o-si El ta @R-Zis-tRe .
 leonard-12-2_11_03.cha 2 11 03 E la @R-Zis-tRe # .
@@ -8190,7 +8190,7 @@ leonard-12-2_11_03.cha 2 11 03 se 1 kRi d2 Zwa .
 leonard-12-2_11_03.cha 2 11 03 fo fE R@ na-RjER .
 leonard-12-2_11_03.cha 2 11 03 @ na-RjER .
 leonard-12-2_11_03.cha 2 11 03 e m5t-n@ laS .
-leonard-12-2_11_03.cha 2 11 03 b5 se syR k2 si @ ply ty la pus .
+leonard-12-2_11_03.cha 2 11 03 b5 se syR k2 si @ plys ty la pus .
 leonard-12-2_11_03.cha 2 11 03 bRa-vo !
 leonard-12-2_11_03.cha 2 11 03 o !
 leonard-12-2_11_03.cha 2 11 03 k2 ty kuR vit !
@@ -8241,7 +8241,7 @@ leonard-12-2_11_03.cha 2 11 03 o la la !
 leonard-12-2_11_03.cha 2 11 03 kEs kE le ply bEl k2 la mjEn !
 leonard-12-2_11_03.cha 2 11 03 b5 paRs k2 se tRE l@ l9R ty vwa .
 leonard-12-2_11_03.cha 2 11 03 fo a-t@d puR k2 sa tuRn .
-leonard-12-2_11_03.cha 2 11 03 R°-gaRd la mjEn n§ ply zEl tuRn pa .
+leonard-12-2_11_03.cha 2 11 03 R°-gaRd la mjEn n§ ply El tuRn pa .
 leonard-12-2_11_03.cha 2 11 03 i le kE l9R ?
 leonard-12-2_11_03.cha 2 11 03 ka-R@ te d°-mi .
 leonard-12-2_11_03.cha 2 11 03 pa ply taR .
@@ -8304,7 +8304,7 @@ leonard-12-2_11_03.cha 2 11 03 e vu tR@-pe Rj5 d°-d@ a-lOR .
 leonard-12-2_11_03.cha 2 11 03 vu m@-Ze kOm sa .
 leonard-12-2_11_03.cha 2 11 03 wE .
 leonard-12-2_11_03.cha 2 11 03 e se sy-pER b§ da-j9R .
-leonard-12-2_11_03.cha 2 11 03 @ fE se dRol d2 vwaR ko-m@ se di-fe-R@ paR-tu .
+leonard-12-2_11_03.cha 2 11 03 @ fEt se dRol d2 vwaR ko-m@ se di-fe-R@ paR-tu .
 leonard-12-2_11_03.cha 2 11 03 e vu m@-Ze dy , dy p5 o mjEl , @-f5 dy ga-to o mjEl ?
 leonard-12-2_11_03.cha 2 11 03 a-pRE m@-Ze mE .
 leonard-12-2_11_03.cha 2 11 03 a-t@ il s§ # te pa-R@ ?
@@ -8382,7 +8382,7 @@ leonard-12-2_11_03.cha 2 11 03 ko-m@ ty paR-lE k@ te-tE p°-ti ?
 leonard-12-2_11_03.cha 2 11 03 ty t2 su-vj5 .
 leonard-12-2_11_03.cha 2 11 03 @-kOR R°-fE l2 , ko-m@ ty paR-lE .
 leonard-12-2_11_03.cha 2 11 03 e ko-m@ ty di-zE le mo ?
-leonard-12-2_11_03.cha 2 11 03 e @ fE se-tE kwa ?
+leonard-12-2_11_03.cha 2 11 03 e @ fEt se-tE kwa ?
 leonard-12-2_11_03.cha 2 11 03 wE .
 leonard-12-2_11_03.cha 2 11 03 e kEs k2 ty di-zE @-kOR ?
 leonard-12-2_11_03.cha 2 11 03 e se-tE kwa ta .
@@ -8390,7 +8390,7 @@ leonard-12-2_11_03.cha 2 11 03 a !
 leonard-12-2_11_03.cha 2 11 03 m5t-n@ ty paRl bo-ku mj2 a-lOR .
 leonard-12-2_11_03.cha 2 11 03 a !
 leonard-12-2_11_03.cha 2 11 03 wE !
-leonard-12-2_11_03.cha 2 11 03 e @ fE se-tE kwa ?
+leonard-12-2_11_03.cha 2 11 03 e @ fEt se-tE kwa ?
 leonard-12-2_11_03.cha 2 11 03 a da-kOR .
 leonard-12-2_11_03.cha 2 11 03 e wi .
 leonard-12-2_11_03.cha 2 11 03 a b5 m5t-n@ ty paRl tRE bj5 a-lOR .
@@ -8537,7 +8537,7 @@ leonard-12-2_11_03.cha 2 11 03 mE § p2 a-v@-se puR vwaR dotR zi-maZ .
 leonard-12-2_11_03.cha 2 11 03 wi § p2 a-v@-se 1 p2 .
 leonard-12-2_11_03.cha 2 11 03 § p2 vwa Rot Soz si ty v2 .
 leonard-12-2_11_03.cha 2 11 03 o sa va vit .
-leonard-12-2_11_03.cha 2 11 03 @ fE se bo-ku ply fa-sil d2 tRa-va-je syR l2 ma-Ne-tos-kOp .
+leonard-12-2_11_03.cha 2 11 03 @ fEt se bo-ku ply fa-sil d2 tRa-va-je syR l2 ma-Ne-tos-kOp .
 leonard-12-2_11_03.cha 2 11 03 i a pl5 da-ly-zj§ d@ le film .
 leonard-12-2_11_03.cha 2 11 03 @t l2 Z@-b§ , la so-sis .
 leonard-12-2_11_03.cha 2 11 03 i a 1 not fil ma-pRE u il paRl d2 la pRi-jER .
@@ -8674,7 +8674,7 @@ leonard-12-2_11_03.cha 2 11 03 i a le va-k@ sa-pRE .
 leonard-12-2_11_03.cha 2 11 03 Es k2 ZE l2 dRwa d2 l2 mE tRa-li-ja ?
 leonard-12-2_11_03.cha 2 11 03 wE .
 leonard-12-2_11_03.cha 2 11 03 se vRE ?
-leonard-12-2_11_03.cha 2 11 03 @ ply zil Risk d2 , il Risk d2 paR-le p@-d@ 5 .
+leonard-12-2_11_03.cha 2 11 03 @ ply sil Risk d2 , il Risk d2 paR-le p@-d@ 5 .
 leonard-12-2_11_03.cha 2 11 03 kEs ki a d@ l2 v@t d2 ma-m@ ?
 leonard-12-2_11_03.cha 2 11 03 e se tu ?
 leonard-12-2_11_03.cha 2 11 03 e p8i kwa dotR ?
@@ -8729,7 +8729,7 @@ leonard-12-2_11_03.cha 2 11 03 i le d@ m§ v@ tRa-lO R§ p2 pa l@-t@d mEm sil pa
 leonard-12-2_11_03.cha 2 11 03 e p8i le be-be i sav pa paR-le .
 leonard-12-2_11_03.cha 2 11 03 ta bj5 vy twa k@ te-tE p°-ti .
 leonard-12-2_11_03.cha 2 11 03 ty sa-vE fER ty di-zE m2 kOm sa .
-leonard-12-2_11_03.cha 2 11 03 ty di-zE ta e @ fE se-tE tabl .
+leonard-12-2_11_03.cha 2 11 03 ty di-zE ta e @ fEt se-tE tabl .
 leonard-12-2_11_03.cha 2 11 03 e b5 1 p°-ti be-be il sE mEm pa fER ta .
 leonard-12-2_11_03.cha 2 11 03 il mE l§-t@ a sa-vwaR fER sa .
 leonard-12-2_11_03.cha 2 11 03 o de-by il fE # !
@@ -8750,7 +8750,7 @@ leonard-12-2_11_03.cha 2 11 03 mE sa se # .
 leonard-12-2_11_03.cha 2 11 03 Z2 kRwa-jE k2 ty vu-lE le tRwa p°-ti ko-S§ .
 leonard-12-2_11_03.cha 2 11 03 o b5 ta S@-Ze da-vi .
 leonard-12-2_11_03.cha 2 11 03 o !
-leonard-12-2_11_03.cha 2 11 03 a-lOR kEs k2 ty v2 @ fE § k§-pR@ Rj5 .
+leonard-12-2_11_03.cha 2 11 03 a-lOR kEs k2 ty v2 @ fE t§ k§-pR@ Rj5 .
 leonard-12-2_11_03.cha 2 11 03 ty te-tE tR§-pe ?
 leonard-12-2_11_03.cha 2 11 03 n§ !
 leonard-12-2_11_03.cha 2 11 03 wi !
@@ -8908,7 +8908,7 @@ leonard-13-2_11_30.cha 2 11 30 ty di-zE bo-ku d2 blag k@ te-tE p°-ti a-lOR .
 leonard-13-2_11_30.cha 2 11 30 m5t-n@ ty va a-vwaR tRwa @ a-lO REs k2 ty va @-kOR diR de blag ?
 leonard-13-2_11_30.cha 2 11 30 fi-ni .
 leonard-13-2_11_30.cha 2 11 30 k@ t§ ne gR@ § fE pa d2 blag ?
-leonard-13-2_11_30.cha 2 11 30 e ma-m@ a-lO RE l@ fE pa ?
+leonard-13-2_11_30.cha 2 11 30 e ma-m@ a-lO RE l@ fEt pa ?
 leonard-13-2_11_30.cha 2 11 30 e ma-m@ ?
 leonard-13-2_11_30.cha 2 11 30 se ki # ?
 leonard-13-2_11_30.cha 2 11 30 a-lO Ri se tR§-pe a-lOR .
@@ -8928,7 +8928,7 @@ leonard-13-2_11_30.cha 2 11 30 e ty v2 pa ta-swaR .
 leonard-13-2_11_30.cha 2 11 30 se fa-ti-g@ Z2 tRuv .
 leonard-13-2_11_30.cha 2 11 30 t@ fE pa ZE la-bi-tyd .
 leonard-13-2_11_30.cha 2 11 30 il fo k2 Z2 tRuv .
-leonard-13-2_11_30.cha 2 11 30 la @ fE sil REs-tE a de-si-ne y n9R Z2 pu-RE l2 po-ze .
+leonard-13-2_11_30.cha 2 11 30 la @ fEt sil REs-tE a de-si-ne y n9R Z2 pu-RE l2 po-ze .
 leonard-13-2_11_30.cha 2 11 30 mE 2 da-bi-ty dil kuR d@ tu le s@s .
 leonard-13-2_11_30.cha 2 11 30 wi .
 leonard-13-2_11_30.cha 2 11 30 e a-lOR ty la ly ?
@@ -8937,7 +8937,7 @@ leonard-13-2_11_30.cha 2 11 30 mwa Z2 m@ Ra-pEl ply .
 leonard-13-2_11_30.cha 2 11 30 ty t@ Ra-pEl bj5 ?
 leonard-13-2_11_30.cha 2 11 30 a wi si ty m@Z ty Risk pa d2 m2 Ra-k§-te lis-twaR .
 leonard-13-2_11_30.cha 2 11 30 Z2 k§-pR@ Rj5 .
-leonard-13-2_11_30.cha 2 11 30 tE d2 ply z@ ply bo le-o-naR .
+leonard-13-2_11_30.cha 2 11 30 tE d2 ply z@ plys bo le-o-naR .
 leonard-13-2_11_30.cha 2 11 30 d@ a-Ri-ko , d@ dZa ke l2 a-Ri-ko ma-Zik ?
 leonard-13-2_11_30.cha 2 11 30 a wE Z2 m2 Ra-plE pa dy tu d2 tu sa 5 .
 leonard-13-2_11_30.cha 2 11 30 b5 ty sE Z2 lE ly i a tRE l§-t@ a-lOR ZE tu tu-bli-je .
@@ -8956,7 +8956,7 @@ leonard-13-2_11_30.cha 2 11 30 b5 bj5 syR ki le Z@-ti .
 leonard-13-2_11_30.cha 2 11 30 b5 wi .
 leonard-13-2_11_30.cha 2 11 30 paRs k2 se-tE puR pa ki t§b .
 leonard-13-2_11_30.cha 2 11 30 e Es k2 ty t2 su-vj5 ko-m@ El sa-plE la fij ki S@t .
-leonard-13-2_11_30.cha 2 11 30 @ fE se yn .
+leonard-13-2_11_30.cha 2 11 30 @ fEt se yn .
 leonard-13-2_11_30.cha 2 11 30 y naRp .
 leonard-13-2_11_30.cha 2 11 30 a !
 leonard-13-2_11_30.cha 2 11 30 se la aRp ma-Zik .
@@ -9163,7 +9163,7 @@ leonard-13-2_11_30.cha 2 11 30 i a d2 a-t°-lje a-t°-lje p5-ty Ra-t°-lje # .
 leonard-13-2_11_30.cha 2 11 30 # !
 leonard-13-2_11_30.cha 2 11 30 2-R2z-m@ ki li a yn gR@d tabl .
 leonard-13-2_11_30.cha 2 11 30 SE pa ko-m@ sa maRS .
-leonard-13-2_11_30.cha 2 11 30 @ fE i a-vE pl5 d2 ka-do a-vEk de mi-kE de .
+leonard-13-2_11_30.cha 2 11 30 @ fE ti a-vE pl5 d2 ka-do a-vEk de mi-kE de .
 leonard-13-2_11_30.cha 2 11 30 de m§st pRe-is-to-Rik .
 leonard-13-2_11_30.cha 2 11 30 Z2 m2 s8i di k2 j @ na-vE maR .
 leonard-13-2_11_30.cha 2 11 30 b5 i fo le-Se le-o-naR .
@@ -9357,7 +9357,7 @@ leonard-13-2_11_30.cha 2 11 30 se ki ?
 leonard-13-2_11_30.cha 2 11 30 wE .
 leonard-13-2_11_30.cha 2 11 30 vwa-la se puR t§ na-ni-vER-sER .
 leonard-13-2_11_30.cha 2 11 30 a se i a l§-t@ a-lOR .
-leonard-13-2_11_30.cha 2 11 30 n§ se d°-m5 @ fE mE § la fe-te .
+leonard-13-2_11_30.cha 2 11 30 n§ se d°-m5 @ fEt mE § la fe-te .
 leonard-13-2_11_30.cha 2 11 30 a wE i a de # e tu .
 leonard-13-2_11_30.cha 2 11 30 ty va pl2-Re a-li-ja Z2 sE pa sil fo k2 ty REst .
 leonard-13-2_11_30.cha 2 11 30 se tRist ?
@@ -9510,7 +9510,7 @@ leonard-13-2_11_30.cha 2 11 30 b5 ty l8i mE 1 b@-daZ syR la m5 ?
 leonard-13-2_11_30.cha 2 11 30 se puR kwa fER ?
 leonard-13-2_11_30.cha 2 11 30 se puR ge-RiR ?
 leonard-13-2_11_30.cha 2 11 30 5 le-o-naR se puR kwa fER sa ?
-leonard-13-2_11_30.cha 2 11 30 Z2 m2 s@s d2 ply z@ ply mal dOk-t9R .
+leonard-13-2_11_30.cha 2 11 30 Z2 m2 s@s d2 ply z@ plys mal dOk-t9R .
 leonard-13-2_11_30.cha 2 11 30 sa va swa-Ne s§ # ty kRwa d2 fER sa ?
 leonard-13-2_11_30.cha 2 11 30 il fo mEt d2 la po-mad syR l# .
 leonard-13-2_11_30.cha 2 11 30 a b§ !
@@ -9651,7 +9651,7 @@ leonard-14-3_02_25.cha 3 02 25 # .
 leonard-14-3_02_25.cha 3 02 25 a wi la ly-mjER ki f°-zE kOm l2 ZuR .
 leonard-14-3_02_25.cha 3 02 25 kOm si se-tE l2 ZuR .
 leonard-14-3_02_25.cha 3 02 25 wE .
-leonard-14-3_02_25.cha 3 02 25 @ fE i la fi-ni l2 tuR-na Ze la i le @ tR5 d2 m§-te le vRE z5-fOR-ma-sj§ .
+leonard-14-3_02_25.cha 3 02 25 @ fE ti la fi-ni l2 tuR-na Ze la i le @ tR5 d2 m§-te le vRE z5-fOR-ma-sj§ .
 leonard-14-3_02_25.cha 3 02 25 o mE i le tu-ZuR ka-se s2 tRyk !
 leonard-14-3_02_25.cha 3 02 25 e s2 fil mil va pa-se d@ le gR@ siR-k8i ?
 leonard-14-3_02_25.cha 3 02 25 wE wE i le dis-tRi-b8e paR .
@@ -9704,7 +9704,7 @@ leonard-14-3_02_25.cha 3 02 25 Es k2 ty sE fE R1 na ?
 leonard-14-3_02_25.cha 3 02 25 a b5 wi .
 leonard-14-3_02_25.cha 3 02 25 wi o-si wi sa p2-tEt pl5 d2 Soz .
 leonard-14-3_02_25.cha 3 02 25 e Es k2 ty sE fE R1 na .
-leonard-14-3_02_25.cha 3 02 25 a-vEk s2 p°-ti tRyk la @ ply .
+leonard-14-3_02_25.cha 3 02 25 a-vEk s2 p°-ti tRyk la @ plys .
 leonard-14-3_02_25.cha 3 02 25 Z2 film t§ na k@ mEm ty E Ze-njal le-o-naR .
 leonard-14-3_02_25.cha 3 02 25 l2 a d2 le-o-naR .
 leonard-14-3_02_25.cha 3 02 25 e Es k2 ty sE fE R1 i ?
@@ -9717,10 +9717,10 @@ leonard-14-3_02_25.cha 3 02 25 1 pti pw5 .
 leonard-14-3_02_25.cha 3 02 25 a wi .
 leonard-14-3_02_25.cha 3 02 25 a sa fE mw5 d2 bR8i kOm sa se mj2 .
 leonard-14-3_02_25.cha 3 02 25 mwa Z2 pRe-fER .
-leonard-14-3_02_25.cha 3 02 25 e @ fE Z2 kRwa k2 t@ k2 l@-f@ ne pa la puR mwa se pa 1 n@-f@ .
+leonard-14-3_02_25.cha 3 02 25 e @ fEt Z2 kRwa k2 t@ k2 l@-f@ ne pa la puR mwa se pa 1 n@-f@ .
 leonard-14-3_02_25.cha 3 02 25 se y ni-de d@-f@ u se .
 leonard-14-3_02_25.cha 3 02 25 d§k ty pRe-fER gaR-de li-de .
-leonard-14-3_02_25.cha 3 02 25 @ ply si ty v2 se pa 2 .
+leonard-14-3_02_25.cha 3 02 25 @ plys si ty v2 se pa 2 .
 leonard-14-3_02_25.cha 3 02 25 ZE pa yn R°-la-sj§ d2 pER-sO na pER-sO na-vEk sEt pER-sOn paRs kE le pa @-kOR d@ l2 m§d de pER-sOn .
 leonard-14-3_02_25.cha 3 02 25 e l2 fE d2 sa-vwaR si se yn fij u 1 gaR-s§ sa m2 pa-RE E tR1 ne-le-m@ tEl-m@ pRe-si .
 leonard-14-3_02_25.cha 3 02 25 paR Ra-pO Ra tu s2 ki e R°-la-sjo-nEl .
@@ -9735,10 +9735,10 @@ leonard-14-3_02_25.cha 3 02 25 e vu za-ve tRu-ve d2 pRe-n§ ?
 leonard-14-3_02_25.cha 3 02 25 ty Ri-gO l§ na mEm pa ko-m@-se a SER-Se .
 leonard-14-3_02_25.cha 3 02 25 se t2 di Ra kEl pw5 se pa , @-kOR , yn pER-sOn .
 leonard-14-3_02_25.cha 3 02 25 a-lO Ril fo 1 p°-ti ba-t§ sy-ple-m@-tER .
-leonard-14-3_02_25.cha 3 02 25 1 gR@ ta kOm sa a !
+leonard-14-3_02_25.cha 3 02 25 1 gR@ a kOm sa a !
 leonard-14-3_02_25.cha 3 02 25 e le-o-na Ril poz de kEs-tj§ syR la-kuS-m@ tu sa ?
 leonard-14-3_02_25.cha 3 02 25 wE .
-leonard-14-3_02_25.cha 3 02 25 se 1 gR@ ta .
+leonard-14-3_02_25.cha 3 02 25 se 1 gR@ a .
 leonard-14-3_02_25.cha 3 02 25 a wE i le tRE laRZ .
 leonard-14-3_02_25.cha 3 02 25 tRE laRZ .
 leonard-14-3_02_25.cha 3 02 25 e si ty fE kOm sa R°-gaRd .
@@ -9893,7 +9893,7 @@ leonard-14-3_02_25.cha 3 02 25 tj5 § vwa ki se ki a-Ri v§ va fil-me .
 leonard-14-3_02_25.cha 3 02 25 o E la pa fi-ni s§ p°-ti de-Z9-ne .
 leonard-14-3_02_25.cha 3 02 25 E la mEm pa pRi s§ gu-te .
 leonard-14-3_02_25.cha 3 02 25 Z2 vj5 d2 ko-m@-se .
-leonard-14-3_02_25.cha 3 02 25 @ fE ZE pRi 1 ka-fe @ R@-tR@ .
+leonard-14-3_02_25.cha 3 02 25 @ fEt ZE pRi 1 ka-fe @ R@-tR@ .
 leonard-14-3_02_25.cha 3 02 25 da-j9R Z2 fE d2 la ta-ki-kaR-di d°-p8i Z2 s8i kOm sa .
 leonard-14-3_02_25.cha 3 02 25 a !
 leonard-14-3_02_25.cha 3 02 25 sa fE d2 le-fE !
@@ -10119,7 +10119,7 @@ leonard-14-3_02_25.cha 3 02 25 9m !
 leonard-14-3_02_25.cha 3 02 25 # !
 leonard-14-3_02_25.cha 3 02 25 a ta R°-tRu-ve l2 mo .
 leonard-14-3_02_25.cha 3 02 25 1 sk°-lEt d@ l2 pla-kaR .
-leonard-14-3_02_25.cha 3 02 25 @ ply ta R°-tRu-ve tut lEk-spRE-sj§ .
+leonard-14-3_02_25.cha 3 02 25 @ plys ta R°-tRu-ve tut lEk-spRE-sj§ .
 leonard-14-3_02_25.cha 3 02 25 u !
 leonard-14-3_02_25.cha 3 02 25 mE ty E 5-te-li-Z@ twa !
 leonard-14-3_02_25.cha 3 02 25 le-o-na Ri a .
@@ -10185,7 +10185,7 @@ leonard-14-3_02_25.cha 3 02 25 o ty ma aS-te dy p5 k§-plE se vaS-m@ s5-pa .
 leonard-14-3_02_25.cha 3 02 25 wi paRs k2 i a-vE yn k2 e-nOR ma la bu-l@-ZRi .
 leonard-14-3_02_25.cha 3 02 25 e kOm Ze-tE d@ l2 tRyk # .
 leonard-14-3_02_25.cha 3 02 25 mE ta bj5 fE se b§ sa .
-leonard-14-3_02_25.cha 3 02 25 i le b§ Zys ko v5 d2 Z@-vje @ ply .
+leonard-14-3_02_25.cha 3 02 25 i le b§ Zys ko v5 d2 Z@-vje @ plys .
 leonard-14-3_02_25.cha 3 02 25 ZEs-pER k2 Z2 sRE Se mwa !
 leonard-14-3_02_25.cha 3 02 25 ma pOS ?
 leonard-14-3_02_25.cha 3 02 25 E le la .
@@ -10255,7 +10255,7 @@ leonard-14-3_02_25.cha 3 02 25 a b5 El lo-RE e-kRi d2 tut fa-s§ .
 leonard-14-3_02_25.cha 3 02 25 d§ kEl pREt d2 laR-Z@ a se pa-R@ .
 leonard-14-3_02_25.cha 3 02 25 d§ kEl v2 maS-te yn vwa-tyR .
 leonard-14-3_02_25.cha 3 02 25 d§ kE lEd s§ fRE Ra .
-leonard-14-3_02_25.cha 3 02 25 se sa @ fE .
+leonard-14-3_02_25.cha 3 02 25 se sa @ fEt .
 leonard-14-3_02_25.cha 3 02 25 o ZEm bj5 sa , l2 kOd baR .
 leonard-14-3_02_25.cha 3 02 25 u !
 leonard-14-3_02_25.cha 3 02 25 wau !
@@ -11050,7 +11050,7 @@ madeleine-02-1_00_05.cha 1 00 05 se tE-Ribl .
 madeleine-02-1_00_05.cha 1 00 05 e wi !
 madeleine-02-1_00_05.cha 1 00 05 i-mOR-ta-li-ze mad-lEn .
 madeleine-02-1_00_05.cha 1 00 05 o la la la , la !
-madeleine-02-1_00_05.cha 1 00 05 a Z2 kRwa ki @ na @ ply ply k2 da-bi-tyd .
+madeleine-02-1_00_05.cha 1 00 05 a Z2 kRwa ki @ na @ plys ply k2 da-bi-tyd .
 madeleine-02-1_00_05.cha 1 00 05 5 se puR la ka-me-Ra 5 ?
 madeleine-02-1_00_05.cha 1 00 05 a !
 madeleine-02-1_00_05.cha 1 00 05 pl5 le m5 5 .
@@ -11128,7 +11128,7 @@ madeleine-03-1_01_10.cha 1 01 10 va zi .
 madeleine-03-1_01_10.cha 1 01 10 va zi # .
 madeleine-03-1_01_10.cha 1 01 10 fERm la buS # s@-tiR .
 madeleine-03-1_01_10.cha 1 01 10 ty m@Z le fl9R mad-lEn ?
-madeleine-03-1_01_10.cha 1 01 10 mE @ fE El le m@Z pa .
+madeleine-03-1_01_10.cha 1 01 10 mE @ fE tEl le m@Z pa .
 madeleine-03-1_01_10.cha 1 01 10 ty le s@ sa-vEk la buS .
 madeleine-03-1_01_10.cha 1 01 10 El s@ a-vEk l2 ne e la buS .
 madeleine-03-1_01_10.cha 1 01 10 sEl si SkRwa kEl s@t pa gR@ Soz mE § p2 e-se-je .
@@ -11146,7 +11146,7 @@ madeleine-03-1_01_10.cha 1 01 10 a e a-lOR ?
 madeleine-03-1_01_10.cha 1 01 10 va zi .
 madeleine-03-1_01_10.cha 1 01 10 sa s@ b§ ?
 madeleine-03-1_01_10.cha 1 01 10 El s@ b§ # ?
-madeleine-03-1_01_10.cha 1 01 10 a le zotR zEl ze-tE ply gRos mE El s@-tE mw5 b§ .
+madeleine-03-1_01_10.cha 1 01 10 a le zo tREl ze-tE ply gRos mE El s@-tE mw5 b§ .
 madeleine-03-1_01_10.cha 1 01 10 9m !
 madeleine-03-1_01_10.cha 1 01 10 E l@-bom .
 madeleine-03-1_01_10.cha 1 01 10 kEs k2 se ksa ?
@@ -11376,10 +11376,10 @@ madeleine-03-1_01_10.cha 1 01 10 E la de-Za dOR-mi mad-lEn la ?
 madeleine-03-1_01_10.cha 1 01 10 E la fE sa sjEst ?
 madeleine-03-1_01_10.cha 1 01 10 ko-m@ ?
 madeleine-03-1_01_10.cha 1 01 10 E la fE sa sjEst mad-lEn ?
-madeleine-03-1_01_10.cha 1 01 10 wi mE E l@ fE de pa l§g dy tu t@ fE .
+madeleine-03-1_01_10.cha 1 01 10 wi mE E l@ fEt de pa l§g dy tu t@ fEt .
 madeleine-03-1_01_10.cha 1 01 10 a # .
 madeleine-03-1_01_10.cha 1 01 10 E la pa dOR-mi dy ma-t5 .
-madeleine-03-1_01_10.cha 1 01 10 e E la dy El dO Ry n9 Re ka R@ fE .
+madeleine-03-1_01_10.cha 1 01 10 e E la dy El dO Ry n9 Re ka R@ fEt .
 madeleine-03-1_01_10.cha 1 01 10 mE ZE l5-pRe-sj§ k2 k@ se a-vEk la nu-nu El dO R1 p2 ply l2 ma-t5 .
 madeleine-03-1_01_10.cha 1 01 10 se k2 la § ne a-le fER de kuRs .
 madeleine-03-1_01_10.cha 1 01 10 e El pRe-fER R°-gaR-de ski spas !
@@ -11553,7 +11553,7 @@ madeleine-03-1_01_10.cha 1 01 10 e l2 tj5 il te-le-fOn ?
 madeleine-03-1_01_10.cha 1 01 10 ko-m@ i le l2 tj5 ?
 madeleine-03-1_01_10.cha 1 01 10 a ZEs-pER kta 1 b§ fOR-fE !
 madeleine-03-1_01_10.cha 1 01 10 ty sE Zl8i E do-ne 1 # puR se z1 n@ .
-madeleine-03-1_01_10.cha 1 01 10 e @ fE il R°-s@b pa dy tu ta # @ vRE .
+madeleine-03-1_01_10.cha 1 01 10 e @ fE til R°-s@b pa dy tu ta # @ vRE .
 madeleine-03-1_01_10.cha 1 01 10 wE .
 madeleine-03-1_01_10.cha 1 01 10 d§k sl8i la il maRS ply dy tu .
 madeleine-03-1_01_10.cha 1 01 10 e El pRe-fER .
@@ -11648,7 +11648,7 @@ madeleine-03-1_01_10.cha 1 01 10 kEs ki a la d@ l2 pti kw5 ?
 madeleine-03-1_01_10.cha 1 01 10 a ba i a lfil !
 madeleine-03-1_01_10.cha 1 01 10 wE .
 madeleine-03-1_01_10.cha 1 01 10 e lot se la l@p fo pa ti-Re n§ ply .
-madeleine-03-1_01_10.cha 1 01 10 e a-lOR la ty sE skEl m2 Re-kla m@ fE ?
+madeleine-03-1_01_10.cha 1 01 10 e a-lOR la ty sE skEl m2 Re-kla m@ fEt ?
 madeleine-03-1_01_10.cha 1 01 10 n§ .
 madeleine-03-1_01_10.cha 1 01 10 e b5 mwa Z2 sE .
 madeleine-03-1_01_10.cha 1 01 10 di mwa .
@@ -11894,7 +11894,7 @@ madeleine-03-1_01_10.cha 1 01 10 kEs kEl fE ma-Ri ?
 madeleine-03-1_01_10.cha 1 01 10 E le tut fa-ne sEl la mad-lEn .
 madeleine-03-1_01_10.cha 1 01 10 E le 1 p2 tut fa-ne .
 madeleine-03-1_01_10.cha 1 01 10 sEl la ty kRwa kE le mj2 ?
-madeleine-03-1_01_10.cha 1 01 10 mE se la pl8i ki le za tut za-bi-me .
+madeleine-03-1_01_10.cha 1 01 10 mE se la pl8i ki le za tu ta-bi-me .
 madeleine-03-1_01_10.cha 1 01 10 a-t@ l2 pRo-blEm se ksa pik le Roz .
 madeleine-03-1_01_10.cha 1 01 10 R°-gaRd la ba i @ na de bEl .
 madeleine-03-1_01_10.cha 1 01 10 El s@t tRE b§ o-si .
@@ -12225,7 +12225,7 @@ madeleine-04-1_02_14.cha 1 02 14 Op la !
 madeleine-04-1_02_14.cha 1 02 14 @-kOR ?
 madeleine-04-1_02_14.cha 1 02 14 wi .
 madeleine-04-1_02_14.cha 1 02 14 kEs k2 ty fE ?
-madeleine-04-1_02_14.cha 1 02 14 yn sORt d2 pa-ja s@ fE .
+madeleine-04-1_02_14.cha 1 02 14 yn sORt d2 pa-ja s@ fEt .
 madeleine-04-1_02_14.cha 1 02 14 mE wi le vid se bo-ku mw5 k§-fOR-tabl .
 madeleine-04-1_02_14.cha 1 02 14 ty kRwa kEl v2 fER la ga-li-pEt !
 madeleine-04-1_02_14.cha 1 02 14 a ba wi Z2 kRwa kse a-se klER !
@@ -12556,7 +12556,7 @@ madeleine-04-1_02_14.cha 1 02 14 § va e-se-je a-vE k1 pti s8i s2 pl5 tj5 e-sEj 
 madeleine-04-1_02_14.cha 1 02 14 se bj5 puR maR-tin 5 .
 madeleine-04-1_02_14.cha 1 02 14 R°-gaRd .
 madeleine-04-1_02_14.cha 1 02 14 St2 fE fER de Soz k2 .
-madeleine-04-1_02_14.cha 1 02 14 wE @ fE 5 k@ t§ na f5 !
+madeleine-04-1_02_14.cha 1 02 14 wE @ fEt 5 k@ t§ na f5 !
 madeleine-04-1_02_14.cha 1 02 14 § pR@ la tEk-ni ke-fi-kas !
 madeleine-04-1_02_14.cha 1 02 14 sa va k@ mEm ply vit !
 madeleine-04-1_02_14.cha 1 02 14 9m 9m .
@@ -12697,7 +12697,7 @@ madeleine-05-1_02_28.cha 1 02 28 sa va ?
 madeleine-05-1_02_28.cha 1 02 28 uf la maRS bj5 !
 madeleine-05-1_02_28.cha 1 02 28 o ta vy kO mEl fE bj5 a-t@-sj§ !
 madeleine-05-1_02_28.cha 1 02 28 wi , wi , wi !
-madeleine-05-1_02_28.cha 1 02 28 e @ fE i a yn Soz ki l5-te-REs !
+madeleine-05-1_02_28.cha 1 02 28 e @ fE ti a yn Soz ki l5-te-REs !
 madeleine-05-1_02_28.cha 1 02 28 Sp2 , Sp2 la s8ivR ?
 madeleine-05-1_02_28.cha 1 02 28 b5 bj5 syR !
 madeleine-05-1_02_28.cha 1 02 28 # !
@@ -12766,7 +12766,7 @@ madeleine-05-1_02_28.cha 1 02 28 u # a-t@-sj§ paRs k2 se mu-je ZE a-Ro-ze .
 madeleine-05-1_02_28.cha 1 02 28 u ma mi uj aj aj !
 madeleine-05-1_02_28.cha 1 02 28 a-le vwa-la .
 madeleine-05-1_02_28.cha 1 02 28 ty Ra-fRe-Si te pje mad-lEn ?
-madeleine-05-1_02_28.cha 1 02 28 il va pa tEl-m@ lw5 @ fE ?
+madeleine-05-1_02_28.cha 1 02 28 il va pa tEl-m@ lw5 @ fEt ?
 madeleine-05-1_02_28.cha 1 02 28 2 n§ , n§ mE Z2 sE pa tRo u il va .
 madeleine-05-1_02_28.cha 1 02 28 Zla-vE # , Zla-vE Za-mE vy !
 madeleine-05-1_02_28.cha 1 02 28 n§ , n§ , n§ sa mad-lEn fo pa ka-se l2 n5 d2 ZaR-d5 a fR@-swaz .
@@ -12816,7 +12816,7 @@ madeleine-05-1_02_28.cha 1 02 28 paR-d§ ZvE # sa la .
 madeleine-05-1_02_28.cha 1 02 28 kEs k2 ty fE mad-lEn ?
 madeleine-05-1_02_28.cha 1 02 28 ta b°-zw5 dyn m5 ?
 madeleine-05-1_02_28.cha 1 02 28 e ma-Ri El dOR ?
-madeleine-05-1_02_28.cha 1 02 28 @ fE El paRl pa bo-ku # k2 .
+madeleine-05-1_02_28.cha 1 02 28 @ fE tEl paRl pa bo-ku # k2 .
 madeleine-05-1_02_28.cha 1 02 28 Z2 t2 vwa pa .
 madeleine-05-1_02_28.cha 1 02 28 o u e tEl mad-lEn ?
 madeleine-05-1_02_28.cha 1 02 28 o !
@@ -12917,7 +12917,7 @@ madeleine-05-1_02_28.cha 1 02 28 se yn dam ?
 madeleine-05-1_02_28.cha 1 02 28 a wi se yn dam .
 madeleine-05-1_02_28.cha 1 02 28 e-kut fR@S-m@ !
 madeleine-05-1_02_28.cha 1 02 28 se m§ # dy my-ze de zaR pR°-mje .
-madeleine-05-1_02_28.cha 1 02 28 sa vj5 d2 lw5 @ ply !
+madeleine-05-1_02_28.cha 1 02 28 sa vj5 d2 lw5 @ plys !
 madeleine-05-1_02_28.cha 1 02 28 kEs kEl fE sEt dam ?
 madeleine-05-1_02_28.cha 1 02 28 ba tE a-si z1 p2 kO mEl .
 madeleine-05-1_02_28.cha 1 02 28 El pOR t2 .
@@ -13027,7 +13027,7 @@ madeleine-05-1_02_28.cha 1 02 28 ko-kin va !
 madeleine-05-1_02_28.cha 1 02 28 a se lm°-sj2 ki va tRa-va-je la mad-lEn .
 madeleine-05-1_02_28.cha 1 02 28 El v2 paR-ti-si-pe a-vEk sa p5-tyR 5 .
 madeleine-05-1_02_28.cha 1 02 28 wE .
-madeleine-05-1_02_28.cha 1 02 28 ty vwa # i a 1 t8i-jo @ ply la .
+madeleine-05-1_02_28.cha 1 02 28 ty vwa # i a 1 t8i-jo @ plys la .
 madeleine-05-1_02_28.cha 1 02 28 d@ la S°-mi-ne .
 madeleine-05-1_02_28.cha 1 02 28 a wE .
 madeleine-05-1_02_28.cha 1 02 28 a-v@ se-tE pla .
@@ -13103,7 +13103,7 @@ madeleine-05-1_02_28.cha 1 02 28 se y nOp-se-sj§ .
 madeleine-05-1_02_28.cha 1 02 28 a pa de-Za e fo fE R1 p2 ply d2 nOt !
 madeleine-05-1_02_28.cha 1 02 28 a n§ , n§ , n§ !
 madeleine-05-1_02_28.cha 1 02 28 wi da-bOR Zwe dla my-zik !
-madeleine-05-1_02_28.cha 1 02 28 @ fE Z2 kRwa ki a la-tRE d2 la my-zi ke l2 fE d2 s2 Ra-pRo-Se !
+madeleine-05-1_02_28.cha 1 02 28 @ fEt Z2 kRwa ki a la-tRE d2 la my-zi ke l2 fE d2 s2 Ra-pRo-Se !
 madeleine-05-1_02_28.cha 1 02 28 d2 la suR s2 !
 madeleine-05-1_02_28.cha 1 02 28 n§ 1 sa sy-fi .
 madeleine-05-1_02_28.cha 1 02 28 1 sa sy-fi .
@@ -13117,7 +13117,7 @@ madeleine-05-1_02_28.cha 1 02 28 mE wi E le t§-be d@ lEs-ka-lje .
 madeleine-05-1_02_28.cha 1 02 28 ZE de-va-le lEs-ka-lje .
 madeleine-05-1_02_28.cha 1 02 28 n§ sa va .
 madeleine-05-1_02_28.cha 1 02 28 n§ pa lkOk-sis ?
-madeleine-05-1_02_28.cha 1 02 28 n§ , n§ ZE tu pRi d@ lpwa-NE @ fE .
+madeleine-05-1_02_28.cha 1 02 28 n§ , n§ ZE tu pRi d@ lpwa-NE @ fEt .
 madeleine-05-1_02_28.cha 1 02 28 a da-kOR .
 madeleine-05-1_02_28.cha 1 02 28 mad-lEn ?
 madeleine-05-1_02_28.cha 1 02 28 n§ ty p2 pa a-le paR la ma Se-Ri .
@@ -13243,9 +13243,9 @@ madeleine-06-1_03_18.cha 1 03 18 ZE f5 , ZE f5 .
 madeleine-06-1_03_18.cha 1 03 18 ma-m@ .
 madeleine-06-1_03_18.cha 1 03 18 o a-lOR ty v2 do-ne a ki a ma-m@ ?
 madeleine-06-1_03_18.cha 1 03 18 o k2 sa fE de byl .
-madeleine-06-1_03_18.cha 1 03 18 @ ply , # .
+madeleine-06-1_03_18.cha 1 03 18 @ plys , # .
 madeleine-06-1_03_18.cha 1 03 18 twa tE 1 kOs-to puR poR-te tu sa .
-madeleine-06-1_03_18.cha 1 03 18 @ ply se luR !
+madeleine-06-1_03_18.cha 1 03 18 @ plys se luR !
 madeleine-06-1_03_18.cha 1 03 18 R°-gaR d@ !
 madeleine-06-1_03_18.cha 1 03 18 ta vy !
 madeleine-06-1_03_18.cha 1 03 18 o se luR sa .
@@ -14163,7 +14163,7 @@ madeleine-06-1_03_18.cha 1 03 18 mad-lEn , mad-lEn , mad-lEn .
 madeleine-06-1_03_18.cha 1 03 18 da-kOR .
 madeleine-06-1_03_18.cha 1 03 18 e twa .
 madeleine-06-1_03_18.cha 1 03 18 da-kOR .
-madeleine-06-1_03_18.cha 1 03 18 da-kOR b5 nu § va k§-te @ fE .
+madeleine-06-1_03_18.cha 1 03 18 da-kOR b5 nu § va k§-te @ fEt .
 madeleine-06-1_03_18.cha 1 03 18 se pa b§ .
 madeleine-06-1_03_18.cha 1 03 18 fERm la pORt .
 madeleine-06-1_03_18.cha 1 03 18 § fERm pa § lEs kOm sa da-kOR .
@@ -14500,7 +14500,7 @@ madeleine-07-1_04_18.cha 1 04 18 se # m .
 madeleine-07-1_04_18.cha 1 04 18 # , # .
 madeleine-07-1_04_18.cha 1 04 18 a .
 madeleine-07-1_04_18.cha 1 04 18 a-lOR se lis-twaR d1 pulp .
-madeleine-07-1_04_18.cha 1 04 18 R°-gaRd se # e # @ fE .
+madeleine-07-1_04_18.cha 1 04 18 R°-gaRd se # e # @ fEt .
 madeleine-07-1_04_18.cha 1 04 18 b§-ZuR Z2 s8i # l2 pulp .
 madeleine-07-1_04_18.cha 1 04 18 R°-gaR di la pl5 d2 bRa .
 madeleine-07-1_04_18.cha 1 04 18 R°-gaR di a 1 pwa-s§ # .
@@ -14535,7 +14535,7 @@ madeleine-07-1_04_18.cha 1 04 18 se So ?
 madeleine-07-1_04_18.cha 1 04 18 u se So .
 madeleine-07-1_04_18.cha 1 04 18 up-la .
 madeleine-07-1_04_18.cha 1 04 18 # u po i a d2 lo ki sOR .
-madeleine-07-1_04_18.cha 1 04 18 @ ply se 1 vRE .
+madeleine-07-1_04_18.cha 1 04 18 @ plys se 1 vRE .
 madeleine-07-1_04_18.cha 1 04 18 da-j9 Ril fo l2 mEt da ko-te paRs k2 si-n§ .
 madeleine-07-1_04_18.cha 1 04 18 il va bRy-le l2 p@-ta-l§ .
 madeleine-07-1_04_18.cha 1 04 18 wE .
@@ -14893,7 +14893,7 @@ madeleine-08-1_06_04.cha 1 06 04 wi .
 madeleine-08-1_06_04.cha 1 06 04 se yn ko-kin tE yn ko-kin .
 madeleine-08-1_06_04.cha 1 06 04 se ki la ko-kin se ki la ko-pin ?
 madeleine-08-1_06_04.cha 1 06 04 O-dil .
-madeleine-08-1_06_04.cha 1 06 04 @ fE se yn klas se 2 1 se 2 d2 sE ta-ne .
+madeleine-08-1_06_04.cha 1 06 04 @ fEt se yn klas se 2 1 se 2 d2 sE ta-ne .
 madeleine-08-1_06_04.cha 1 06 04 e 2 dub ni-vo .
 madeleine-08-1_06_04.cha 1 06 04 a b§ ?
 madeleine-08-1_06_04.cha 1 06 04 wi .
@@ -14956,7 +14956,7 @@ madeleine-08-1_06_04.cha 1 06 04 a .
 madeleine-08-1_06_04.cha 1 06 04 a n§ , n§ , n§ , n§ Z2 v2 pa k2 ty tmEt syR s2 ka-na-pe .
 madeleine-08-1_06_04.cha 1 06 04 # fE Ot Soz .
 madeleine-08-1_06_04.cha 1 06 04 n§ pa syR l2 ka-na-pe n§ , n§ , n§ , n§ , pa syR l2 ka-na-pe .
-madeleine-08-1_06_04.cha 1 06 04 se pa Ze-njal n§ ply z@ fE .
+madeleine-08-1_06_04.cha 1 06 04 se pa Ze-njal n§ ply z@ fEt .
 madeleine-08-1_06_04.cha 1 06 04 la se bj5 , R°-gaRd , mE t§ bi-bR§ la .
 madeleine-08-1_06_04.cha 1 06 04 mE ty la pa by t§ lE !
 madeleine-08-1_06_04.cha 1 06 04 i fo l2 bwaR .
@@ -15799,7 +15799,7 @@ madeleine-09-1_07_15.cha 1 07 15 ty la-vE tu ta l9R .
 madeleine-09-1_07_15.cha 1 07 15 a i le la !
 madeleine-09-1_07_15.cha 1 07 15 o , sa se 1 gRo z9f !
 madeleine-09-1_07_15.cha 1 07 15 se pa n5-pORt kE l9f !
-madeleine-09-1_07_15.cha 1 07 15 e @ ply .
+madeleine-09-1_07_15.cha 1 07 15 e @ plys .
 madeleine-09-1_07_15.cha 1 07 15 o paR-d§ .
 madeleine-09-1_07_15.cha 1 07 15 u la la la la , tu sa ?
 madeleine-09-1_07_15.cha 1 07 15 se 1 ku-to ?
@@ -16023,7 +16023,7 @@ madeleine-09-1_07_15.cha 1 07 15 sa i e .
 madeleine-09-1_07_15.cha 1 07 15 E le fER-me .
 madeleine-09-1_07_15.cha 1 07 15 El fE tu a-vEk la m5 goS .
 madeleine-09-1_07_15.cha 1 07 15 El fE .
-madeleine-09-1_07_15.cha 1 07 15 El fE pl5 dSo z@ fE .
+madeleine-09-1_07_15.cha 1 07 15 El fE pl5 dSo z@ fEt .
 madeleine-09-1_07_15.cha 1 07 15 mEm pu R2 , de-si-ne .
 madeleine-09-1_07_15.cha 1 07 15 se vRE ?
 madeleine-09-1_07_15.cha 1 07 15 E la t@-d@ sa pR@d la m5 goS .
@@ -17122,7 +17122,7 @@ madeleine-10-1_09_03.cha 1 09 03 wi El R@t d@ lot mE-z§ .
 madeleine-10-1_09_03.cha 1 09 03 o !
 madeleine-10-1_09_03.cha 1 09 03 e kEs ki fE lf@-tom ?
 madeleine-10-1_09_03.cha 1 09 03 il s2 kaS d@ lp8i .
-madeleine-10-1_09_03.cha 1 09 03 e le pu lE-sE d2 lpuR-s8iv mE u s2 s§ le pul ki § p2 R@ fE .
+madeleine-10-1_09_03.cha 1 09 03 e le pu lE-sE d2 lpuR-s8iv mE u s2 s§ le pul ki § p2 R@ fEt .
 madeleine-10-1_09_03.cha 1 09 03 5 ?
 madeleine-10-1_09_03.cha 1 09 03 o .
 madeleine-10-1_09_03.cha 1 09 03 se kwa sa mad-lEn ?
@@ -17398,7 +17398,7 @@ madeleine-11-1_10_07.cha 1 10 07 o u ZE p2R dy .
 madeleine-11-1_10_07.cha 1 10 07 u dy ti gRi m2 fE p2R , p2R , p2R .
 madeleine-11-1_10_07.cha 1 10 07 pu fi pER se zo-REj .
 madeleine-11-1_10_07.cha 1 10 07 El z§ lER tut dus se zo-REj d2 tigR .
-madeleine-11-1_10_07.cha 1 10 07 e @ fE jER ma-Ri a-vE mi sa .
+madeleine-11-1_10_07.cha 1 10 07 e @ fE tjER ma-Ri a-vE mi sa .
 madeleine-11-1_10_07.cha 1 10 07 e E le , E le R@-tRe pa R2 .
 madeleine-11-1_10_07.cha 1 10 07 paR la pORt la , e l2 t@ k2 ZuvR .
 madeleine-11-1_10_07.cha 1 10 07 E le-tE ty vwa d@ la 1 p2 d@ la pe-n§ bRi le-tE taR .
@@ -17573,7 +17573,7 @@ madeleine-11-1_10_07.cha 1 10 07 El pOR-tE yn mi-nERv .
 madeleine-11-1_10_07.cha 1 10 07 puR-kwa ?
 madeleine-11-1_10_07.cha 1 10 07 E la E le mal t§-be @ f°-z@ dy so daR-s§ a la Zim-nas-tik .
 madeleine-11-1_10_07.cha 1 10 07 u la !
-madeleine-11-1_10_07.cha 1 10 07 @ fE o lj2 dR°-t§-be syR l2 S°-val daR-s§ E le R°-t§-be dlot ko-te @ stOR-d@ lku .
+madeleine-11-1_10_07.cha 1 10 07 @ fE to lj2 dR°-t§-be syR l2 S°-val daR-s§ E le R°-t§-be dlot ko-te @ stOR-d@ lku .
 madeleine-11-1_10_07.cha 1 10 07 E la ma lo ku ?
 madeleine-11-1_10_07.cha 1 10 07 a koz d2 .
 madeleine-11-1_10_07.cha 1 10 07 a koz d2 la Zim-nas-tik ?
@@ -17768,7 +17768,7 @@ madeleine-11-1_10_07.cha 1 10 07 o ty E la ma-Ri b§-ZuR !
 madeleine-11-1_10_07.cha 1 10 07 ko-m@ va ty ?
 madeleine-11-1_10_07.cha 1 10 07 tRE bj5 .
 madeleine-11-1_10_07.cha 1 10 07 e wi tE @ va-k@s twa o-si .
-madeleine-11-1_10_07.cha 1 10 07 El d°-vE E tRa la Zi me p8i @ fE sa va mj2 ta Z@b ?
+madeleine-11-1_10_07.cha 1 10 07 El d°-vE E tRa la Zi me p8i @ fEt sa va mj2 ta Z@b ?
 madeleine-11-1_10_07.cha 1 10 07 o v@tR ?
 madeleine-11-1_10_07.cha 1 10 07 ty ma mi dy sykR ?
 madeleine-11-1_10_07.cha 1 10 07 o mER-si bo-ku .
@@ -18335,7 +18335,7 @@ madeleine-12-1_11_13.cha 1 11 13 b§-ZuR mad-lEn .
 madeleine-12-1_11_13.cha 1 11 13 El vu-dRE t2 m§-tRe se livR .
 madeleine-12-1_11_13.cha 1 11 13 ty v2 m2 m§-tRe te livR ?
 madeleine-12-1_11_13.cha 1 11 13 se s§ pRo-gRam .
-madeleine-12-1_11_13.cha 1 11 13 § ne tus , tRE z@-Ry-me zi-si .
+madeleine-12-1_11_13.cha 1 11 13 § ne tus , tRE z@-Ry-me i-si .
 madeleine-12-1_11_13.cha 1 11 13 a b§ vu zEt tus tRE z@-Ry-me ?
 madeleine-12-1_11_13.cha 1 11 13 tE @-Ry-me o-si mad-lEn ?
 madeleine-12-1_11_13.cha 1 11 13 n§ ?
@@ -18479,7 +18479,7 @@ madeleine-12-1_11_13.cha 1 11 13 a b§ ?
 madeleine-12-1_11_13.cha 1 11 13 l2 # di a se fRER d2 R°-tuR-ne vi ta la mE-z§ p8i il R°-ti-Ra se bOt d2 sEt lj2 a lO gRe le mi .
 madeleine-12-1_11_13.cha 1 11 13 ty vwa ?
 madeleine-12-1_11_13.cha 1 11 13 # kil se @-dOR-mi # ki le-tE fa-ti-ge .
-madeleine-12-1_11_13.cha 1 11 13 l2 # pR@ le bOt d2 lO gRe kOm s2 s§ de bOt ma-Zi ke b5 @ fE El v§ o-si o # .
+madeleine-12-1_11_13.cha 1 11 13 l2 # pR@ le bOt d2 lO gRe kOm s2 s§ de bOt ma-Zi ke b5 @ fE tEl v§ o-si o # .
 madeleine-12-1_11_13.cha 1 11 13 e El s§ tEl-m@ ma-Zik kEl pER-mEt da-le tRE vit d2 so-te e d2 # .
 madeleine-12-1_11_13.cha 1 11 13 wi .
 madeleine-12-1_11_13.cha 1 11 13 e i , il R°-tuR na la mE-z§ d2 lOgR .
@@ -18500,15 +18500,15 @@ madeleine-12-1_11_13.cha 1 11 13 a ?
 madeleine-12-1_11_13.cha 1 11 13 ty sE ?
 madeleine-12-1_11_13.cha 1 11 13 n§ .
 madeleine-12-1_11_13.cha 1 11 13 ZlE a-pRi d@ lmy-ze dla pOst .
-madeleine-12-1_11_13.cha 1 11 13 paRs k@ fE se-tE le pOs-ti-j§ .
+madeleine-12-1_11_13.cha 1 11 13 paRs k@ fEt se-tE le pOs-ti-j§ .
 madeleine-12-1_11_13.cha 1 11 13 o de-by d2 la pOst de Re-zo pOs-to .
 madeleine-12-1_11_13.cha 1 11 13 ki .
-madeleine-12-1_11_13.cha 1 11 13 e @ fE i a-vE sEt lj2 @t Sak R°-lE d2 pOst .
+madeleine-12-1_11_13.cha 1 11 13 e @ fE ti a-vE sEt lj2 @t Sak R°-lE d2 pOst .
 madeleine-12-1_11_13.cha 1 11 13 e .
 madeleine-12-1_11_13.cha 1 11 13 2 le pOs-ti-j§ a-vE de ze-nORm bOt mE 2 tRE , tRE so-lid k§ pu-vE mEm ki REs-tE a-kRo-Se o S°-val .
-madeleine-12-1_11_13.cha 1 11 13 e @ fE # sgli-sE d@ se bOt .
+madeleine-12-1_11_13.cha 1 11 13 e @ fEt # sgli-sE d@ se bOt .
 madeleine-12-1_11_13.cha 1 11 13 2 pu Ra-le d2 , d2 pOs t@ pOst .
-madeleine-12-1_11_13.cha 1 11 13 e , e @ fE se-tE yn m°-zyR d2 se-ky-Ri-te si # t§-bE b5 # e-tE pRo-te-Ze paR l9R bOt d2 sEt lj2 .
+madeleine-12-1_11_13.cha 1 11 13 e , e @ fEt se-tE yn m°-zyR d2 se-ky-Ri-te si # t§-bE b5 # e-tE pRo-te-Ze paR l9R bOt d2 sEt lj2 .
 madeleine-12-1_11_13.cha 1 11 13 d§k se-tE s2 s§ de bO t2 ko-lo-sal .
 madeleine-12-1_11_13.cha 1 11 13 mE il sa-Zi pa dmaR-Se a-vEk !
 madeleine-12-1_11_13.cha 1 11 13 9m .
@@ -18572,15 +18572,15 @@ madeleine-12-1_11_13.cha 1 11 13 i a k§-bj5 duRs ?
 madeleine-12-1_11_13.cha 1 11 13 1 d2 tRwa .
 madeleine-12-1_11_13.cha 1 11 13 # # # .
 madeleine-12-1_11_13.cha 1 11 13 e l2 gRo zuRs di tu d2 s8it mE kEl k1 na tu-Se a ma gR@d SEz !
-madeleine-12-1_11_13.cha 1 11 13 e l2 mwa-j5 uRs dyn mwa-jEn vwa kEl k1 na de-R@-Ze ma mwa-jEn SEz .
+madeleine-12-1_11_13.cha 1 11 13 e l2 mwa-jE nuRs dyn mwa-jEn vwa kEl k1 na de-R@-Ze ma mwa-jEn SEz .
 madeleine-12-1_11_13.cha 1 11 13 e l2 p°-ti tuRs dyn tut p°-tit vwa kEl k1 se a-si d@ ma tut p°-tit SEz .
 madeleine-12-1_11_13.cha 1 11 13 e la ?
 madeleine-12-1_11_13.cha 1 11 13 l2 gR@ tuRs R°-gaR-da s§ bO le di kEl k1 na R°-gaR-de ma sup .
-madeleine-12-1_11_13.cha 1 11 13 e l2 mwa-j5 uRs kEl k1 na gu-te a ma sup .
+madeleine-12-1_11_13.cha 1 11 13 e l2 mwa-jE nuRs kEl k1 na gu-te a ma sup .
 madeleine-12-1_11_13.cha 1 11 13 e l2 tu p°-ti tuRs R°-gaR-da s§ bO le s2 mi a pl2-Re 9m kEl k1 na m@-Ze ma sup .
 madeleine-12-1_11_13.cha 1 11 13 @ tRE z@ ko-lER le tRwa uRs s2 mi Ra SER-Se paR-tu .
 madeleine-12-1_11_13.cha 1 11 13 l2 gR@ tuRs R°-gaR-da s§ gR@ li e di kEl k1 na tu-Se a m§ gR@ li .
-madeleine-12-1_11_13.cha 1 11 13 e l2 mwa-j5 uRs kEl k1 ne m§-te syR m§ mwa-j5 li .
+madeleine-12-1_11_13.cha 1 11 13 e l2 mwa-jE nuRs kEl k1 ne m§-te syR m§ mwa-j5 li .
 madeleine-12-1_11_13.cha 1 11 13 e l2 tu p°-ti tuRs kRi-ja d2 sa tut p°-tit vwa o vwa-je i li a yn tut p°-tit fij d@ m§ tu p°-ti li .
 madeleine-12-1_11_13.cha 1 11 13 se ki sEt p°-tit fij ?
 madeleine-12-1_11_13.cha 1 11 13 ba wi .
@@ -18589,7 +18589,7 @@ madeleine-12-1_11_13.cha 1 11 13 e El vi le tRwa uRs d°-v@ El .
 madeleine-12-1_11_13.cha 1 11 13 d1 b§ El so-ta a ba dy li e d1 b§ paR la f°-nEtR .
 madeleine-12-1_11_13.cha 1 11 13 le tRwa uRs ki ne-tE pa d2 me-S@ uRs ne-se-jER pa d2 la Ra-tRa-pe .
 madeleine-12-1_11_13.cha 1 11 13 l2 gR@ tuRs l8i kRi-ja d2 sa gR@d vwa vwa-la s2 ki a-Riv k@ t§ ne-kut pa sa ma-m@ .
-madeleine-12-1_11_13.cha 1 11 13 e l2 mwa-j5 uRs d2 sa mwa-jEn vwa ty a u-bli-je t§ bu-kE d2 Za-s5t # !
+madeleine-12-1_11_13.cha 1 11 13 e l2 mwa-jE nuRs d2 sa mwa-jEn vwa ty a u-bli-je t§ bu-kE d2 Za-s5t # !
 madeleine-12-1_11_13.cha 1 11 13 e l2 p°-ti tuRs d2 sa tut p°-tit vwa y la bO ni-de d2 se-kRi-je o-si .
 madeleine-12-1_11_13.cha 1 11 13 pR@ l2 tu p°-ti S°-m5 a dRwat p°-tit fij puR sOR-tiR dy bwa .
 madeleine-12-1_11_13.cha 1 11 13 # pRi l2 tu p°-ti S°-m5 a dRwa te il k§-d8i-zE bj5 vi tOR dy bwa .
@@ -18610,7 +18610,7 @@ madeleine-12-1_11_13.cha 1 11 13 kEs k2 se k2 sa ?
 madeleine-12-1_11_13.cha 1 11 13 kEs k2 se sa ?
 madeleine-12-1_11_13.cha 1 11 13 mad-lEn ?
 madeleine-12-1_11_13.cha 1 11 13 o ba n§ se pa 1 S°-val sa .
-madeleine-12-1_11_13.cha 1 11 13 @ ply zi le pa bl2 .
+madeleine-12-1_11_13.cha 1 11 13 @ ply si le pa bl2 .
 madeleine-12-1_11_13.cha 1 11 13 kEs k2 se sa se yn vaS .
 madeleine-12-1_11_13.cha 1 11 13 l2 S°-val bl2 .
 madeleine-12-1_11_13.cha 1 11 13 a l2 vwa-la u !
@@ -18911,7 +18911,7 @@ madeleine-12-1_11_13.cha 1 11 13 ty dOn l2 du-du a # puR kEl s2 k§-sOl ?
 madeleine-12-1_11_13.cha 1 11 13 a-lOR la gR@d bEt gRiz s@ fy syR se gR@d pat gRi ze El kRo-ka 1 mER l1 # e tRwa my-za-REN .
 madeleine-12-1_11_13.cha 1 11 13 ki pR°-nE l2 fRE o bOR d2 l9R tRu .
 madeleine-12-1_11_13.cha 1 11 13 R°-gaRd .
-madeleine-12-1_11_13.cha 1 11 13 @ p2 d2 t@ l2 lu R°d-v5 fO Re bo mE il n2 t8E m5t-n@ k2 # i la-vE f5 , e Za-mE ply zil n2 m@-Za d2 p°-ti t@-f@ .
+madeleine-12-1_11_13.cha 1 11 13 @ p2 d2 t@ l2 lu R°d-v5 fO Re bo mE il n2 t8E m5t-n@ k2 # i la-vE f5 , e Za-mE ply il n2 m@-Za d2 p°-ti t@-f@ .
 madeleine-12-1_11_13.cha 1 11 13 e si § na-lE fER l2 de-Z9-ne mad-lEn ?
 madeleine-12-1_11_13.cha 1 11 13 § va fER k8iR le bRo-ko-li ?
 madeleine-12-1_11_13.cha 1 11 13 o ty v2 tu-ZuR de pat twa !
@@ -19042,17 +19042,17 @@ madeleine-12-1_11_13.cha 1 11 13 ti a-Riv ?
 madeleine-12-1_11_13.cha 1 11 13 ty ml2 dOn ?
 madeleine-12-1_11_13.cha 1 11 13 e ko-m@ ty va m@-Ze t§ Z@-b§ ?
 madeleine-12-1_11_13.cha 1 11 13 si ty na ply dfuR-SEt ?
-madeleine-12-1_11_13.cha 1 11 13 @ fE se kEl .
+madeleine-12-1_11_13.cha 1 11 13 @ fEt se kEl .
 madeleine-12-1_11_13.cha 1 11 13 k@ tEl di tEd sa v2 diR mEd .
 madeleine-12-1_11_13.cha 1 11 13 a .
 madeleine-12-1_11_13.cha 1 11 13 k2 ty mEd .
 madeleine-12-1_11_13.cha 1 11 13 ty v2 k2 Z2 tEd !
 madeleine-12-1_11_13.cha 1 11 13 Za-vE pa k§-pRi mad-lEn .
-madeleine-12-1_11_13.cha 1 11 13 e @ fE l2 .
+madeleine-12-1_11_13.cha 1 11 13 e @ fEt l2 .
 madeleine-12-1_11_13.cha 1 11 13 SkRwa-jE kty vu-lE k2 Zm@Z t§ Z@-b§ .
 madeleine-12-1_11_13.cha 1 11 13 o ty tde-bRuj tRE bj5 .
 madeleine-12-1_11_13.cha 1 11 13 ty v2 k2 StEd ?
-madeleine-12-1_11_13.cha 1 11 13 tE mi za k§-tRi-by-sj§ d2 ply z@ ply !
+madeleine-12-1_11_13.cha 1 11 13 tE mi za k§-tRi-by-sj§ d2 ply z@ plys !
 madeleine-12-1_11_13.cha 1 11 13 a-t@ ZvE a-vwa R1 p2 dmal .
 madeleine-12-1_11_13.cha 1 11 13 1 nEg-zER-sis d2 ko-OR-di-na-sj§ !
 madeleine-12-1_11_13.cha 1 11 13 d2 la m5 goS .
@@ -19376,14 +19376,14 @@ madeleine-13-2_01_02.cha 2 01 02 a-t@ ty p2 pa i a-Ri-ve !
 madeleine-13-2_01_02.cha 2 01 02 @ !
 madeleine-13-2_01_02.cha 2 01 02 b§ ty E syR k2 se pa le z2 ?
 madeleine-13-2_01_02.cha 2 01 02 se kRa-ke .
-madeleine-13-2_01_02.cha 2 01 02 si se le z2 @ ply , m5s .
+madeleine-13-2_01_02.cha 2 01 02 si se le z2 @ plys , m5s .
 madeleine-13-2_01_02.cha 2 01 02 si se le z2 .
 madeleine-13-2_01_02.cha 2 01 02 se pa gRav .
 madeleine-13-2_01_02.cha 2 01 02 ZEs-pER dpa ka-se le z2 !
 madeleine-13-2_01_02.cha 2 01 02 § va vwaR , § va vwaR !
 madeleine-13-2_01_02.cha 2 01 02 si-n§ va fa-lwaR fE Ry nom-lEt !
 madeleine-13-2_01_02.cha 2 01 02 wi .
-madeleine-13-2_01_02.cha 2 01 02 mE l2 , sa ke-tE de-Za a mwa-tje kRa-ke @ fE .
+madeleine-13-2_01_02.cha 2 01 02 mE l2 , sa ke-tE de-Za a mwa-tje kRa-ke @ fEt .
 madeleine-13-2_01_02.cha 2 01 02 wi .
 madeleine-13-2_01_02.cha 2 01 02 wi ty p2 de-Si-Re .
 madeleine-13-2_01_02.cha 2 01 02 se l2 pa-pje .
@@ -19575,7 +19575,7 @@ madeleine-13-2_01_02.cha 2 01 02 ty fE dy ka-fe .
 madeleine-13-2_01_02.cha 2 01 02 sa Sof ?
 madeleine-13-2_01_02.cha 2 01 02 i t2 fo dy sy kRu pa ?
 madeleine-13-2_01_02.cha 2 01 02 1 pti p2 sil t2 plE .
-madeleine-13-2_01_02.cha 2 01 02 # Zo-RE p2-tEt b°-zw5 d1 p2 d2 ly-mjE R@ ply .
+madeleine-13-2_01_02.cha 2 01 02 # Zo-RE p2-tEt b°-zw5 d1 p2 d2 ly-mjE R@ plys .
 madeleine-13-2_01_02.cha 2 01 02 Z2 sE pa si s2 k2 sa va do-ne paRs k2 , mER-si .
 madeleine-13-2_01_02.cha 2 01 02 a wi , wi il fE pa bo dy tu .
 madeleine-13-2_01_02.cha 2 01 02 wi il fE s§bR .
@@ -19604,7 +19604,7 @@ madeleine-13-2_01_02.cha 2 01 02 a .
 madeleine-13-2_01_02.cha 2 01 02 ta vy i a-vE 1 lj§ d°-sy .
 madeleine-13-2_01_02.cha 2 01 02 b§ ty l2 mE d@ la pu-bEl ?
 madeleine-13-2_01_02.cha 2 01 02 d2 la k8i-zin da-kOR .
-madeleine-13-2_01_02.cha 2 01 02 @ fE se-tE # .
+madeleine-13-2_01_02.cha 2 01 02 @ fEt se-tE # .
 madeleine-13-2_01_02.cha 2 01 02 s§ n@-vi dmE tRa la pu-bEl kE le t§-be d@ lEs-ka-lje .
 madeleine-13-2_01_02.cha 2 01 02 a wi ?
 madeleine-13-2_01_02.cha 2 01 02 Zl8i a-vE ku-pe se z§gl .
@@ -19685,7 +19685,7 @@ madeleine-13-2_01_02.cha 2 01 02 a-lOR .
 madeleine-13-2_01_02.cha 2 01 02 § paR-taZ ?
 madeleine-13-2_01_02.cha 2 01 02 tj5 .
 madeleine-13-2_01_02.cha 2 01 02 1 n1 d2 d2 tRwa tRwa kat kat s5k s5k sis sis sEt sEt .
-madeleine-13-2_01_02.cha 2 01 02 pi le zotR z§ va diR kse la pjOS .
+madeleine-13-2_01_02.cha 2 01 02 pi le zo tR§ va diR kse la pjOS .
 madeleine-13-2_01_02.cha 2 01 02 E la Zwe a-vEk ma-Ri de-Za .
 madeleine-13-2_01_02.cha 2 01 02 sEt kaRt Sa-k1 ?
 madeleine-13-2_01_02.cha 2 01 02 SE pa .
@@ -20299,7 +20299,7 @@ madeleine-14-2_02_06.cha 2 02 06 a sEl la El maRS bj5 .
 madeleine-14-2_02_06.cha 2 02 06 mER-si bo-ku .
 madeleine-14-2_02_06.cha 2 02 06 ty d°-vRE su-fle # .
 madeleine-14-2_02_06.cha 2 02 06 wi .
-madeleine-14-2_02_06.cha 2 02 06 e le zotR zEl tuRn ?
+madeleine-14-2_02_06.cha 2 02 06 e le zo tREl tuRn ?
 madeleine-14-2_02_06.cha 2 02 06 pa mal .
 madeleine-14-2_02_06.cha 2 02 06 e si ty suf d°-sy ?
 madeleine-14-2_02_06.cha 2 02 06 bj5 !
@@ -20413,7 +20413,7 @@ madeleine-14-2_02_06.cha 2 02 06 n§ ?
 madeleine-14-2_02_06.cha 2 02 06 bRa-vo .
 madeleine-14-2_02_06.cha 2 02 06 a R°-gaR du Es ki a dy bl@ ?
 madeleine-14-2_02_06.cha 2 02 06 tRE bj5 !
-madeleine-14-2_02_06.cha 2 02 06 l2 sjE le bl@ @ fE .
+madeleine-14-2_02_06.cha 2 02 06 l2 sjE le bl@ @ fEt .
 madeleine-14-2_02_06.cha 2 02 06 l2 sjE le bl@ .
 madeleine-14-2_02_06.cha 2 02 06 a n§ !
 madeleine-14-2_02_06.cha 2 02 06 sa se # .
@@ -20495,7 +20495,7 @@ madeleine-14-2_02_06.cha 2 02 06 ty v2 k§ naj l2 SER-Se ?
 madeleine-14-2_02_06.cha 2 02 06 se lis-twaR d2 ki ?
 madeleine-14-2_02_06.cha 2 02 06 se t§ nis-twaR ?
 madeleine-14-2_02_06.cha 2 02 06 Es k2 se vRE-m@ t§ nis-twaR ?
-madeleine-14-2_02_06.cha 2 02 06 tj5 , § va a-le la ba @ fE § ne bj5 syR s2 li .
+madeleine-14-2_02_06.cha 2 02 06 tj5 , § va a-le la ba @ fE t§ ne bj5 syR s2 li .
 madeleine-14-2_02_06.cha 2 02 06 s2 livR # fE @-kOR .
 madeleine-14-2_02_06.cha 2 02 06 a-pRE § fi-ni-Ra lZ2 .
 madeleine-14-2_02_06.cha 2 02 06 se lis-twaR d2 .
@@ -20712,7 +20712,7 @@ madeleine-14-2_02_06.cha 2 02 06 u la la .
 madeleine-14-2_02_06.cha 2 02 06 tj5 § p2 mEt sa .
 madeleine-14-2_02_06.cha 2 02 06 l2 S°-val ty kRwa ki la m§-te lEs-ka-lje .
 madeleine-14-2_02_06.cha 2 02 06 SkRwa kse 1 p2 di-fi-sil puR le # .
-madeleine-14-2_02_06.cha 2 02 06 wi @ fE nO tREs-ka-lje i la 1 pRo-blEm .
+madeleine-14-2_02_06.cha 2 02 06 wi @ fEt nO tREs-ka-lje i la 1 pRo-blEm .
 madeleine-14-2_02_06.cha 2 02 06 i la-bu-ti nyl paR .
 madeleine-14-2_02_06.cha 2 02 06 se kO m1 pjEZ # .
 madeleine-14-2_02_06.cha 2 02 06 tj5 la ta 1 pti m°-sj2 up !
@@ -20828,7 +20828,7 @@ madeleine-14-2_02_06.cha 2 02 06 Es k2 ty v2 yn fl9R puR t§ ZaR-d5 ?
 madeleine-14-2_02_06.cha 2 02 06 syR la ma-m@ kwa ?
 madeleine-14-2_02_06.cha 2 02 06 ty l8i mE yn fl9R syR l2 syR l2 do ?
 madeleine-14-2_02_06.cha 2 02 06 # .
-madeleine-14-2_02_06.cha 2 02 06 SE pa si sa tj5 @ ply .
+madeleine-14-2_02_06.cha 2 02 06 SE pa si sa tj5 @ plys .
 madeleine-14-2_02_06.cha 2 02 06 n§ .
 madeleine-14-2_02_06.cha 2 02 06 p2-tE tRwi .
 madeleine-14-2_02_06.cha 2 02 06 u ki se sa ?
@@ -20868,13 +20868,13 @@ madeleine-14-2_02_06.cha 2 02 06 de fuR-mi vo-l@t ?
 madeleine-14-2_02_06.cha 2 02 06 wi .
 madeleine-14-2_02_06.cha 2 02 06 wi , wi wi .
 madeleine-14-2_02_06.cha 2 02 06 se a-fR2 vu z@ na-ve o-si ?
-madeleine-14-2_02_06.cha 2 02 06 mE @ fE se pa si a-fR2 ksa .
-madeleine-14-2_02_06.cha 2 02 06 paRs k2 s2 s§ de zEl sORt tut tu d1 ku El # e El s@-vOl .
+madeleine-14-2_02_06.cha 2 02 06 mE @ fEt se pa si a-fR2 ksa .
+madeleine-14-2_02_06.cha 2 02 06 paRs k2 s2 s§ de El sORt tut tu d1 ku El # e El s@-vOl .
 madeleine-14-2_02_06.cha 2 02 06 e El paRt .
 madeleine-14-2_02_06.cha 2 02 06 El paRt ?
 madeleine-14-2_02_06.cha 2 02 06 wi .
 madeleine-14-2_02_06.cha 2 02 06 El REst pa la .
-madeleine-14-2_02_06.cha 2 02 06 se # , se 5-pRe-sjo-n@ k@ tEl sORt tut z@-s@bl .
+madeleine-14-2_02_06.cha 2 02 06 se # , se 5-pRe-sjo-n@ k@ tEl sORt tu t@-s@bl .
 madeleine-14-2_02_06.cha 2 02 06 # a Z2 de-tEst sa mwa .
 madeleine-14-2_02_06.cha 2 02 06 i a de # ba fo fER l2 me-naZ .
 madeleine-14-2_02_06.cha 2 02 06 n§ , n§ , n§ l2 de-fE pa , l2 de-fE pa sa va lka-se .
@@ -21395,7 +21395,7 @@ madeleine-15-2_03_05.cha 2 03 05 wE va zi E-sE d2 lfER twa .
 madeleine-15-2_03_05.cha 2 03 05 tRE bj5 !
 madeleine-15-2_03_05.cha 2 03 05 wE .
 madeleine-15-2_03_05.cha 2 03 05 a se pa fa-si la mEt tu s9l .
-madeleine-15-2_03_05.cha 2 03 05 e Z2 p@ s@ ply mad-lEn k2 sa dwa Et d°-v@ la pOS .
+madeleine-15-2_03_05.cha 2 03 05 e Z2 p@ s@ plys mad-lEn k2 sa dwa Et d°-v@ la pOS .
 madeleine-15-2_03_05.cha 2 03 05 puR mEt le p5-so e tu sa ty vwa .
 madeleine-15-2_03_05.cha 2 03 05 d§k le d2 m5 .
 madeleine-15-2_03_05.cha 2 03 05 va zi mE ta m5 la vwa-la .
@@ -22067,7 +22067,7 @@ madeleine-16-2_04_15.cha 2 04 15 n§ la paZ da-pRE sa se Zyst l2 titR .
 madeleine-16-2_04_15.cha 2 04 15 u .
 madeleine-16-2_04_15.cha 2 04 15 vwa-la i-si da-kOR .
 madeleine-16-2_04_15.cha 2 04 15 a wi se de Ri-do .
-madeleine-16-2_04_15.cha 2 04 15 @ ply se la mEm ku-l9R k2 te Ri-do .
+madeleine-16-2_04_15.cha 2 04 15 @ plys se la mEm ku-l9R k2 te Ri-do .
 madeleine-16-2_04_15.cha 2 04 15 Roz .
 madeleine-16-2_04_15.cha 2 04 15 tRis-t°-m@ ?
 madeleine-16-2_04_15.cha 2 04 15 puR-kwa i le tRist ?
@@ -22245,7 +22245,7 @@ madeleine-16-2_04_15.cha 2 04 15 § mE d2 lo da-bOR n§ ?
 madeleine-16-2_04_15.cha 2 04 15 puR fER So-fe lRi ?
 madeleine-16-2_04_15.cha 2 04 15 a ?
 madeleine-16-2_04_15.cha 2 04 15 i tfo yn ka-sROl .
-madeleine-16-2_04_15.cha 2 04 15 fo yn ka-sROl fo la bwat d2 Ri fo d2 lo fo dy sEl fo fo pl5 dSo z@ fE .
+madeleine-16-2_04_15.cha 2 04 15 fo yn ka-sROl fo la bwat d2 Ri fo d2 lo fo dy sEl fo fo pl5 dSo z@ fEt .
 madeleine-16-2_04_15.cha 2 04 15 a sy-pER !
 madeleine-16-2_04_15.cha 2 04 15 a ty R°-pa sa-vEk las-pi-Ra-t9R !
 madeleine-16-2_04_15.cha 2 04 15 tj5 se o-Ri-Zi-nal .
@@ -22296,7 +22296,7 @@ madeleine-16-2_04_15.cha 2 04 15 5 ?
 madeleine-16-2_04_15.cha 2 04 15 sa Z2 sE pa si ta de k8i-jER .
 madeleine-16-2_04_15.cha 2 04 15 i ms@b k2 ta-vE de k8i-jE Ra-vEk l2 sER-vi sa ka-fe .
 madeleine-16-2_04_15.cha 2 04 15 a !
-madeleine-16-2_04_15.cha 2 04 15 @ fE E le-tE d@ lpla-kaR .
+madeleine-16-2_04_15.cha 2 04 15 @ fE tE le-tE d@ lpla-kaR .
 madeleine-16-2_04_15.cha 2 04 15 ty va fER kwa d@ ta mE-z§ ?
 madeleine-16-2_04_15.cha 2 04 15 a !
 madeleine-16-2_04_15.cha 2 04 15 diG diG d§g .
@@ -22413,7 +22413,7 @@ madeleine-16-2_04_15.cha 2 04 15 R°-gaRd ty vwa fo mEtR .
 madeleine-16-2_04_15.cha 2 04 15 l2 pti , la p°-ti t@-kOS kOm sa vwa-la vER l2 o .
 madeleine-16-2_04_15.cha 2 04 15 vwa-la .
 madeleine-16-2_04_15.cha 2 04 15 tj5 R°-gaRd .
-madeleine-16-2_04_15.cha 2 04 15 @ fE ma tas se 1 ti-RwaR .
+madeleine-16-2_04_15.cha 2 04 15 @ fEt ma tas se 1 ti-RwaR .
 madeleine-16-2_04_15.cha 2 04 15 Op , u Es k§ p2 la mEtR , la .
 madeleine-16-2_04_15.cha 2 04 15 ty vwa ?
 madeleine-16-2_04_15.cha 2 04 15 vwa-la .
@@ -23496,7 +23496,7 @@ madeleine-17-2_05_12.cha 2 05 12 aj !
 madeleine-17-2_05_12.cha 2 05 12 a .
 madeleine-17-2_05_12.cha 2 05 12 a-pEl .
 madeleine-17-2_05_12.cha 2 05 12 a b§ i le @ # ?
-madeleine-17-2_05_12.cha 2 05 12 se vRE @ ply .
+madeleine-17-2_05_12.cha 2 05 12 se vRE @ plys .
 madeleine-17-2_05_12.cha 2 05 12 i le @ # pa-pa ?
 madeleine-17-2_05_12.cha 2 05 12 se pa l2 b§ ny-me-Ro a-lOR .
 madeleine-17-2_05_12.cha 2 05 12 ty te-le-fO na ki la mad-lEn ?
@@ -23699,7 +23699,7 @@ madeleine-17-2_05_12.cha 2 05 12 a-lOR m5t-n@ se l2 tuR d2 # .
 madeleine-17-2_05_12.cha 2 05 12 ki p2 mEt swa .
 madeleine-17-2_05_12.cha 2 05 12 swa 1 pE-Ro-kE swa 1 ni-po-po-tam .
 madeleine-17-2_05_12.cha 2 05 12 ta d2 e-le-f@ ?
-madeleine-17-2_05_12.cha 2 05 12 e @ fE k@ i s§ @ du bl§ le mE kOm sa @ l§ .
+madeleine-17-2_05_12.cha 2 05 12 e @ fEt k@ i s§ @ du bl§ le mE kOm sa @ l§ .
 madeleine-17-2_05_12.cha 2 05 12 s2 la # § le mE , § le mE la kOm sa .
 madeleine-17-2_05_12.cha 2 05 12 o-kE .
 madeleine-17-2_05_12.cha 2 05 12 Op !
@@ -24166,7 +24166,7 @@ madeleine-18-2_06_10.cha 2 06 10 a-REt sa l8i fE ma lo zo-REj !
 madeleine-18-2_06_10.cha 2 06 10 tj5 ty l2 pR@ .
 madeleine-18-2_06_10.cha 2 06 10 a-REt !
 madeleine-18-2_06_10.cha 2 06 10 mE se pa vRE !
-madeleine-18-2_06_10.cha 2 06 10 @ ply maR-ti ne @ tR5 di-mOR-ta-li-ze .
+madeleine-18-2_06_10.cha 2 06 10 @ plys maR-ti ne @ tR5 di-mOR-ta-li-ze .
 madeleine-18-2_06_10.cha 2 06 10 Es k2 ty a .
 madeleine-18-2_06_10.cha 2 06 10 # l2 tREt-m@ k2 ty # a t§ pti fRER .
 madeleine-18-2_06_10.cha 2 06 10 § # sa d@ di z@ .
@@ -24432,7 +24432,7 @@ madeleine-18-2_06_10.cha 2 06 10 e lot Zu Ra le-kOl ty ma di kta-vE m@-Ze de fR8
 madeleine-18-2_06_10.cha 2 06 10 wi .
 madeleine-18-2_06_10.cha 2 06 10 e le nwa o-si s§ de fR8i do-tOn .
 madeleine-18-2_06_10.cha 2 06 10 ty t2 Ra-pEl k@ t§ na Ra-ma-se de nwa ?
-madeleine-18-2_06_10.cha 2 06 10 wa d2 ply z@ ply Ra-pid !
+madeleine-18-2_06_10.cha 2 06 10 wa d2 ply z@ plys Ra-pid !
 madeleine-18-2_06_10.cha 2 06 10 pa mal bRa-vo !
 madeleine-18-2_06_10.cha 2 06 10 a-le ty @ fE 1 notR ?
 madeleine-18-2_06_10.cha 2 06 10 sl8i ki e vER pa REg-z@pl .
@@ -24553,14 +24553,14 @@ madeleine-19-2_07_07.cha 2 07 07 tj5 vu za-ve ka vu mEt syR lta-pi .
 madeleine-19-2_07_07.cha 2 07 07 sa t2 va syR l2 ta-pi mad-lEn ?
 madeleine-19-2_07_07.cha 2 07 07 a ko-te d2 # .
 madeleine-19-2_07_07.cha 2 07 07 wi .
-madeleine-19-2_07_07.cha 2 07 07 se a tu l2 m§ d@ fE .
+madeleine-19-2_07_07.cha 2 07 07 se a tu l2 m§ d@ fEt .
 madeleine-19-2_07_07.cha 2 07 07 § la aS-te k@ ma-Ri e-tE tut p°-tit .
 madeleine-19-2_07_07.cha 2 07 07 a wE ?
 madeleine-19-2_07_07.cha 2 07 07 mwa Z2 lE aS-te puR m§ na-ni-vER-sER Z2 kRwa .
 madeleine-19-2_07_07.cha 2 07 07 kEs k2 ta aS-te a t§ na-ni-vER-sER ?
 madeleine-19-2_07_07.cha 2 07 07 sa .
 madeleine-19-2_07_07.cha 2 07 07 sa ?
-madeleine-19-2_07_07.cha 2 07 07 a wi n§ mE Z2 paR-lE de ta-pi @ fE .
+madeleine-19-2_07_07.cha 2 07 07 a wi n§ mE Z2 paR-lE de ta-pi @ fEt .
 madeleine-19-2_07_07.cha 2 07 07 a .
 madeleine-19-2_07_07.cha 2 07 07 5 .
 madeleine-19-2_07_07.cha 2 07 07 kOm sa # .
@@ -24592,7 +24592,7 @@ madeleine-19-2_07_07.cha 2 07 07 kOm sa se ply mwa-l2 .
 madeleine-19-2_07_07.cha 2 07 07 mE ko-m@ § mE sa ?
 madeleine-19-2_07_07.cha 2 07 07 kOm sa ?
 madeleine-19-2_07_07.cha 2 07 07 wi .
-madeleine-19-2_07_07.cha 2 07 07 b5 da-bi-ty d§ l2 lEs la @ fE .
+madeleine-19-2_07_07.cha 2 07 07 b5 da-bi-ty d§ l2 lEs la @ fEt .
 madeleine-19-2_07_07.cha 2 07 07 § l2 lEs d@ s§ n@-plas-m@ .
 madeleine-19-2_07_07.cha 2 07 07 a wi .
 madeleine-19-2_07_07.cha 2 07 07 kOm sa l2 pa-pje glis pa tRo .
@@ -24606,7 +24606,7 @@ madeleine-19-2_07_07.cha 2 07 07 ty fE kEl ku-l9R twa ?
 madeleine-19-2_07_07.cha 2 07 07 vwa-la .
 madeleine-19-2_07_07.cha 2 07 07 ty v2 fER kEl ku-l9R mad-lEn ?
 madeleine-19-2_07_07.cha 2 07 07 da-kOR .
-madeleine-19-2_07_07.cha 2 07 07 wi mE le RuZ zi s§ de-Za fE .
+madeleine-19-2_07_07.cha 2 07 07 wi mE le Ru Zi s§ de-Za fE .
 madeleine-19-2_07_07.cha 2 07 07 i a ply d2 RuZ .
 madeleine-19-2_07_07.cha 2 07 07 mwa ZvE fER le vER .
 madeleine-19-2_07_07.cha 2 07 07 tj5 de vER .
@@ -24692,7 +24692,7 @@ madeleine-19-2_07_07.cha 2 07 07 i le-tE a # ?
 madeleine-19-2_07_07.cha 2 07 07 a # .
 madeleine-19-2_07_07.cha 2 07 07 Se gR@ pE Re gR@ mER ?
 madeleine-19-2_07_07.cha 2 07 07 # o-kE # .
-madeleine-19-2_07_07.cha 2 07 07 il tj5 @ ply .
+madeleine-19-2_07_07.cha 2 07 07 il tj5 @ plys .
 madeleine-19-2_07_07.cha 2 07 07 a ZE kRy kse-tE .
 madeleine-19-2_07_07.cha 2 07 07 ta vy ?
 madeleine-19-2_07_07.cha 2 07 07 wE di d§k !
@@ -24724,7 +24724,7 @@ madeleine-19-2_07_07.cha 2 07 07 a ?
 madeleine-19-2_07_07.cha 2 07 07 la i a mE se ply di-fi-sil .
 madeleine-19-2_07_07.cha 2 07 07 a b§ ?
 madeleine-19-2_07_07.cha 2 07 07 wi ?
-madeleine-19-2_07_07.cha 2 07 07 § n@ fE 1 no tRa-lOR .
+madeleine-19-2_07_07.cha 2 07 07 § n@ fE t1 no tRa-lOR .
 madeleine-19-2_07_07.cha 2 07 07 da-kOR .
 madeleine-19-2_07_07.cha 2 07 07 R°-gaRd # va # la f9j dy pti Sj5 .
 madeleine-19-2_07_07.cha 2 07 07 e puR-kwa ty a Swa-zi s8i la mad-lEn ?
@@ -24866,7 +24866,7 @@ madeleine-19-2_07_07.cha 2 07 07 1 d2 tRwa kat s5k .
 madeleine-19-2_07_07.cha 2 07 07 a n§ se katR .
 madeleine-19-2_07_07.cha 2 07 07 a wi va zi .
 madeleine-19-2_07_07.cha 2 07 07 1 @-kO Ri-si la .
-madeleine-19-2_07_07.cha 2 07 07 e wE mE sa @ fE s5k .
+madeleine-19-2_07_07.cha 2 07 07 e wE mE sa @ fEt s5k .
 madeleine-19-2_07_07.cha 2 07 07 sa p2 fE R1 ply gR@ .
 madeleine-19-2_07_07.cha 2 07 07 a wi 1 ply gR@ .
 madeleine-19-2_07_07.cha 2 07 07 il s§ pa fOR-se-m@ d2 la mEm taj .
@@ -24958,7 +24958,7 @@ madeleine-19-2_07_07.cha 2 07 07 bRa-vo !
 madeleine-19-2_07_07.cha 2 07 07 vwa-la .
 madeleine-19-2_07_07.cha 2 07 07 o se Zo-li .
 madeleine-19-2_07_07.cha 2 07 07 wE !
-madeleine-19-2_07_07.cha 2 07 07 wi @ ply gR@ .
+madeleine-19-2_07_07.cha 2 07 07 wi @ plys gR@ .
 madeleine-19-2_07_07.cha 2 07 07 9m .
 madeleine-19-2_07_07.cha 2 07 07 ty pu-RE fE R1 pti S@ d2 ma-is .
 madeleine-19-2_07_07.cha 2 07 07 a wi 1 S@ d2 ma-i s@ Zon .
@@ -24981,7 +24981,7 @@ madeleine-19-2_07_07.cha 2 07 07 l2 ka-Re vER ?
 madeleine-19-2_07_07.cha 2 07 07 i le la .
 madeleine-19-2_07_07.cha 2 07 07 a ba i le la .
 madeleine-19-2_07_07.cha 2 07 07 mE n§ Z2 , Z2 l2 fE kOm l8i .
-madeleine-19-2_07_07.cha 2 07 07 @ ply gR@ .
+madeleine-19-2_07_07.cha 2 07 07 @ plys gR@ .
 madeleine-19-2_07_07.cha 2 07 07 a .
 madeleine-19-2_07_07.cha 2 07 07 1 S@ d2 ma-is .
 madeleine-19-2_07_07.cha 2 07 07 @ gRo !
@@ -25607,12 +25607,12 @@ madeleine-19-2_07_07.cha 2 07 07 e l2 ze-Ro ?
 madeleine-19-2_07_07.cha 2 07 07 l2 ze-Ro , i le kOm sa .
 madeleine-19-2_07_07.cha 2 07 07 se kO m1 o l2 ze-Ro .
 madeleine-19-2_07_07.cha 2 07 07 1 pti R§ .
-madeleine-19-2_07_07.cha 2 07 07 mE @ fE la di-fe-R@ s@tR .
+madeleine-19-2_07_07.cha 2 07 07 mE @ fEt la di-fe-R@ s@tR .
 madeleine-19-2_07_07.cha 2 07 07 e ba vwa-la ty sE fER le ze-Ro .
-madeleine-19-2_07_07.cha 2 07 07 @ fE la di-fe-R@ s@t l2 o e l2 ze-Ro .
+madeleine-19-2_07_07.cha 2 07 07 @ fEt la di-fe-R@ s@t l2 o e l2 ze-Ro .
 madeleine-19-2_07_07.cha 2 07 07 bRa-vo tj5 # St2 fE l2 1 .
 madeleine-19-2_07_07.cha 2 07 07 se .
-madeleine-19-2_07_07.cha 2 07 07 l2 1 ni le kOm sa .
+madeleine-19-2_07_07.cha 2 07 07 l2 1 i le kOm sa .
 madeleine-19-2_07_07.cha 2 07 07 a-vEk l2 , l2 la di-fe-R@ sa-vEk l2 ze-Ro e l2 o .
 madeleine-19-2_07_07.cha 2 07 07 a Z2 sE se pa la mEm .
 madeleine-19-2_07_07.cha 2 07 07 se pa la mEm Soz .
@@ -25634,7 +25634,7 @@ madeleine-19-2_07_07.cha 2 07 07 t§ ze-Ro mE l2 ze-Ro @ ti-sy a ko-te puR vwaR 
 madeleine-19-2_07_07.cha 2 07 07 e ba wi ta vy ta fE 1 bo ze-Ro .
 madeleine-19-2_07_07.cha 2 07 07 # se 1 ze-Ro .
 madeleine-19-2_07_07.cha 2 07 07 ba wi fo k2 ty lRa-kROS .
-madeleine-19-2_07_07.cha 2 07 07 e l2 1 ni le u ?
+madeleine-19-2_07_07.cha 2 07 07 e l2 1 i le u ?
 madeleine-19-2_07_07.cha 2 07 07 a i le i-si .
 madeleine-19-2_07_07.cha 2 07 07 # sl8i la !
 madeleine-19-2_07_07.cha 2 07 07 vwa-la .
@@ -25732,7 +25732,7 @@ madeleine-20-2_08_05.cha 2 08 05 a wi ki swa bo !
 madeleine-20-2_08_05.cha 2 08 05 Op la .
 madeleine-20-2_08_05.cha 2 08 05 wi ?
 madeleine-20-2_08_05.cha 2 08 05 a wi .
-madeleine-20-2_08_05.cha 2 08 05 wi @ fE se ply-to yn Ryz dy Sa .
+madeleine-20-2_08_05.cha 2 08 05 wi @ fEt se ply-to yn Ryz dy Sa .
 madeleine-20-2_08_05.cha 2 08 05 se l2 Sa ki a # .
 madeleine-20-2_08_05.cha 2 08 05 se-tE 1 fil mu yn pjEs d2 te-atR ?
 madeleine-20-2_08_05.cha 2 08 05 se-tE , se-tE 1 film ?
@@ -25844,7 +25844,7 @@ madeleine-20-2_08_05.cha 2 08 05 ba wi mE § na-vE di k§ na-lE fER de pti ga-to
 madeleine-20-2_08_05.cha 2 08 05 a-le vj5 a-vEk mwa .
 madeleine-20-2_08_05.cha 2 08 05 vj5 mad-lEn .
 madeleine-20-2_08_05.cha 2 08 05 mE sa p2-tE tR1 Z2 d2 fER de ga-to .
-madeleine-20-2_08_05.cha 2 08 05 a-pRE @ ply z§ p2 le m@-Ze .
+madeleine-20-2_08_05.cha 2 08 05 a-pRE @ ply s§ p2 le m@-Ze .
 madeleine-20-2_08_05.cha 2 08 05 se bj5-to no-El mad-lEn .
 madeleine-20-2_08_05.cha 2 08 05 ty Em no-El mad-lEn ?
 madeleine-20-2_08_05.cha 2 08 05 mad-lEn ?
@@ -26145,7 +26145,7 @@ madeleine-20-2_08_05.cha 2 08 05 a b§ ?
 madeleine-20-2_08_05.cha 2 08 05 ba wi .
 madeleine-20-2_08_05.cha 2 08 05 e a-lO Ra-pRE il fo .
 madeleine-20-2_08_05.cha 2 08 05 a wE .
-madeleine-20-2_08_05.cha 2 08 05 @ fE se 1 pti p2 kOm # .
+madeleine-20-2_08_05.cha 2 08 05 @ fEt se 1 pti p2 kOm # .
 madeleine-20-2_08_05.cha 2 08 05 ty p2 fE Ra-pa-RE tR2 1 n9f .
 madeleine-20-2_08_05.cha 2 08 05 SE pa ski fo fE Ra-vEk sa 5 .
 madeleine-20-2_08_05.cha 2 08 05 a !
@@ -26216,7 +26216,7 @@ madeleine-20-2_08_05.cha 2 08 05 pa @-kOR .
 madeleine-20-2_08_05.cha 2 08 05 a , a , a , a !
 madeleine-20-2_08_05.cha 2 08 05 wi , wi ZE tRu-ve .
 madeleine-20-2_08_05.cha 2 08 05 SkRwa kZE tRu-ve .
-madeleine-20-2_08_05.cha 2 08 05 SkRwa kse sa @ fE .
+madeleine-20-2_08_05.cha 2 08 05 SkRwa kse sa @ fEt .
 madeleine-20-2_08_05.cha 2 08 05 a-lO R§ fE kOm sa .
 madeleine-20-2_08_05.cha 2 08 05 @-f5 a-vEk l2 l9f .
 madeleine-20-2_08_05.cha 2 08 05 R°-gaRd mad-lEn .
@@ -26440,10 +26440,10 @@ madeleine-20-2_08_05.cha 2 08 05 StRuv kEl d°-vj5 dyR la .
 madeleine-20-2_08_05.cha 2 08 05 il dwa , il dwa .
 madeleine-20-2_08_05.cha 2 08 05 il dwa a-vwa R@-vi d1 bi-bR§ .
 madeleine-20-2_08_05.cha 2 08 05 SkRwa 5 , a-t@ , t@ .
-madeleine-20-2_08_05.cha 2 08 05 ty vwa se kOm la pa ta mod-le @ fE .
+madeleine-20-2_08_05.cha 2 08 05 ty vwa se kOm la pa ta mod-le @ fEt .
 madeleine-20-2_08_05.cha 2 08 05 ty v2 l8i do-ne l2 bi-bR§ # ?
 madeleine-20-2_08_05.cha 2 08 05 wi El s2 El d°-vj5 El s2 # .
-madeleine-20-2_08_05.cha 2 08 05 se yn pat sa-ble @ fE ?
+madeleine-20-2_08_05.cha 2 08 05 se yn pat sa-ble @ fEt ?
 madeleine-20-2_08_05.cha 2 08 05 n§ ?
 madeleine-20-2_08_05.cha 2 08 05 ba SkRwa wE .
 madeleine-20-2_08_05.cha 2 08 05 mE s@ bi-kaR-bo-nat .
@@ -27013,7 +27013,7 @@ madeleine-21-2_09_16.cha 2 09 16 5 mad-lEn ?
 madeleine-21-2_09_16.cha 2 09 16 tE syR kse de zo-bER-Zin ?
 madeleine-21-2_09_16.cha 2 09 16 § di-RE de pRyn .
 madeleine-21-2_09_16.cha 2 09 16 sa a la mEm ku-l9R k2 le zo-bER-Zin mE se pa la mEm fORm .
-madeleine-21-2_09_16.cha 2 09 16 @ fE se kwa ?
+madeleine-21-2_09_16.cha 2 09 16 @ fEt se kwa ?
 madeleine-21-2_09_16.cha 2 09 16 SkRwa k2 s2 s§ de pRyn .
 madeleine-21-2_09_16.cha 2 09 16 # .
 madeleine-21-2_09_16.cha 2 09 16 ba wi .
@@ -27086,7 +27086,7 @@ madeleine-21-2_09_16.cha 2 09 16 # ?
 madeleine-21-2_09_16.cha 2 09 16 a .
 madeleine-21-2_09_16.cha 2 09 16 a-t@ St2 mE ta ba-REt .
 madeleine-21-2_09_16.cha 2 09 16 e Es k2 ty sE le R°-ko-nEt l°-kE le l°-kEl ?
-madeleine-21-2_09_16.cha 2 09 16 il s§ pa-REj @ fE .
+madeleine-21-2_09_16.cha 2 09 16 il s§ pa-REj @ fEt .
 madeleine-21-2_09_16.cha 2 09 16 a ba wi .
 madeleine-21-2_09_16.cha 2 09 16 e sl8i ki e mu-je a-paR-tj5 a # .
 madeleine-21-2_09_16.cha 2 09 16 fa-sil .
@@ -27225,7 +27225,7 @@ madeleine-21-2_09_16.cha 2 09 16 ba wi .
 madeleine-21-2_09_16.cha 2 09 16 sa se lsak d2 vwa-jaZ d2 te pu-pe ?
 madeleine-21-2_09_16.cha 2 09 16 wE .
 madeleine-21-2_09_16.cha 2 09 16 5-pRe-sjo-n@ .
-madeleine-21-2_09_16.cha 2 09 16 @ fE SaR-lOt ki e-tE la SER pu-pe d2 ma-Ri a-vE pl5 da-bi .
+madeleine-21-2_09_16.cha 2 09 16 @ fEt SaR-lOt ki e-tE la SER pu-pe d2 ma-Ri a-vE pl5 da-bi .
 madeleine-21-2_09_16.cha 2 09 16 e dy ku § na o-fE Ra mad-lE nyn pu-pe dy mEm ga-ba-Ri .
 madeleine-21-2_09_16.cha 2 09 16 ki sa-pEl sO-fi , dy ku El z§ yn mal ko-myn .
 madeleine-21-2_09_16.cha 2 09 16 sa se sO-fi e ba di d§ kE la , E la vRE-m@ b°-zw5 dE tRa-bi-je .
@@ -27265,7 +27265,7 @@ madeleine-21-2_09_16.cha 2 09 16 ty a RE-z§ .
 madeleine-21-2_09_16.cha 2 09 16 se kla sa-lo-pEt ty vwa vo mj2 la mEtR .
 madeleine-21-2_09_16.cha 2 09 16 1 pti p2 ply o .
 madeleine-21-2_09_16.cha 2 09 16 kOm sa ty vwa le bR°-tEl tjE no ze-pol .
-madeleine-21-2_09_16.cha 2 09 16 @ fE se ply-to 1 SORt sa-lo-pEt .
+madeleine-21-2_09_16.cha 2 09 16 @ fEt se ply-to 1 SORt sa-lo-pEt .
 madeleine-21-2_09_16.cha 2 09 16 a .
 madeleine-21-2_09_16.cha 2 09 16 ty pRe-fER l8i mEt kwa a-lOR .
 madeleine-21-2_09_16.cha 2 09 16 o .
@@ -27474,7 +27474,7 @@ madeleine-21-2_09_16.cha 2 09 16 ty vwa sa fE yn b@d .
 madeleine-21-2_09_16.cha 2 09 16 va zi .
 madeleine-21-2_09_16.cha 2 09 16 bj5 !
 madeleine-21-2_09_16.cha 2 09 16 wE !
-madeleine-21-2_09_16.cha 2 09 16 wE se Re-gy-lje @ ply !
+madeleine-21-2_09_16.cha 2 09 16 wE se Re-gy-lje @ plys !
 madeleine-21-2_09_16.cha 2 09 16 a !
 madeleine-21-2_09_16.cha 2 09 16 a-t@ la l2 pa-pje se 1 p2 , pli-je va zi .
 madeleine-21-2_09_16.cha 2 09 16 ply gR@ .
@@ -28093,7 +28093,7 @@ madeleine-22-2_10_20.cha 2 10 20 ki ?
 madeleine-22-2_10_20.cha 2 10 20 vu vu-le pa kEl Zu a-vEk vu ?
 madeleine-22-2_10_20.cha 2 10 20 mE E lEl v2 # .
 madeleine-22-2_10_20.cha 2 10 20 a-le , a-le , a-le vu za-le Zwe tu s@-s@bl .
-madeleine-22-2_10_20.cha 2 10 20 @ ply se te ZwE .
+madeleine-22-2_10_20.cha 2 10 20 @ plys se te ZwE .
 madeleine-22-2_10_20.cha 2 10 20 vj5 mad-lEn .
 madeleine-22-2_10_20.cha 2 10 20 # se .
 madeleine-22-2_10_20.cha 2 10 20 9m se te ZwE a-lOR va l9R m§-tRe ko-m@ kil fo il fo Zwe .
@@ -28899,7 +28899,7 @@ madeleine-23-2_11_19.cha 2 11 19 e wi .
 madeleine-23-2_11_19.cha 2 11 19 5 sa mOR sa i !
 madeleine-23-2_11_19.cha 2 11 19 a si ty l8i mE la tE ta l@-vER .
 madeleine-23-2_11_19.cha 2 11 19 Op !
-madeleine-23-2_11_19.cha 2 11 19 mER-si @ fE se m§-te .
+madeleine-23-2_11_19.cha 2 11 19 mER-si @ fEt se m§-te .
 madeleine-23-2_11_19.cha 2 11 19 se vRE k2 se pa mal sa tj5 bj5 .
 madeleine-23-2_11_19.cha 2 11 19 il z§ de bOn buj se za-ni-mo .
 madeleine-23-2_11_19.cha 2 11 19 # a-ni-mal !
@@ -29055,7 +29055,7 @@ madeleine-23-2_11_19.cha 2 11 19 mE El s§ pa tut mi z@-kOR .
 madeleine-23-2_11_19.cha 2 11 19 ZEs-pER k§ n@ na pa pER-dy .
 madeleine-23-2_11_19.cha 2 11 19 9m .
 madeleine-23-2_11_19.cha 2 11 19 mwa Z@ mE yn nwaR .
-madeleine-23-2_11_19.cha 2 11 19 i @ na tRwa d2 Sak ku-l9 R@ fE .
+madeleine-23-2_11_19.cha 2 11 19 i @ na tRwa d2 Sak ku-l9 R@ fEt .
 madeleine-23-2_11_19.cha 2 11 19 aj ZE l5-pRe-sj§ ki l@ m@ kyn .
 madeleine-23-2_11_19.cha 2 11 19 i l@ m@ kyn mE i @ na-vE yn ki tRE-nE a 1 mo-m@ .
 madeleine-23-2_11_19.cha 2 11 19 a-t@ Z2 vE R°-gaR-de si Z2 la vwa pa syR t§ ne-ta-ZER .
@@ -29082,7 +29082,7 @@ madeleine-23-2_11_19.cha 2 11 19 a ba vwa-la .
 madeleine-23-2_11_19.cha 2 11 19 o twa tE pa k§-t@ twa .
 madeleine-23-2_11_19.cha 2 11 19 a ba wi mE § la-vE pa vy .
 madeleine-23-2_11_19.cha 2 11 19 a ba a-lOR tu va bj5 .
-madeleine-23-2_11_19.cha 2 11 19 le de ko-lo-Re za-n§s la ku-l9R de S°-nij a de-pla-se e le de dak-sj§ le muv-m@ a fER .
+madeleine-23-2_11_19.cha 2 11 19 le de ko-lo-Re a-n§s la ku-l9R de S°-nij a de-pla-se e le de dak-sj§ le muv-m@ a fER .
 madeleine-23-2_11_19.cha 2 11 19 yn flE S@ di-REk-sj§ dyn S°-nij R°-tiR la S°-nij d1 sEg-m@ .
 madeleine-23-2_11_19.cha 2 11 19 1 t@ fu !
 madeleine-23-2_11_19.cha 2 11 19 § va ptEt pa fER tu tyn paR-ti 5 !
@@ -29203,7 +29203,7 @@ madeleine-23-2_11_19.cha 2 11 19 § le tRiS ?
 madeleine-23-2_11_19.cha 2 11 19 e kEs k2 sa v2 diR ?
 madeleine-23-2_11_19.cha 2 11 19 a !
 madeleine-23-2_11_19.cha 2 11 19 ta ga-Ne !
-madeleine-23-2_11_19.cha 2 11 19 @ fE ty a pa ga-Ne .
+madeleine-23-2_11_19.cha 2 11 19 @ fEt ty a pa ga-Ne .
 madeleine-23-2_11_19.cha 2 11 19 se sa k@ t§ tRiS !
 madeleine-23-2_11_19.cha 2 11 19 le sjEn .
 madeleine-23-2_11_19.cha 2 11 19 se fi-ni ?
@@ -29541,7 +29541,7 @@ madeleine-24-3_00_28.cha 3 00 28 § va mEt dy bl@ o-si .
 madeleine-24-3_00_28.cha 3 00 28 tE luR ty sE .
 madeleine-24-3_00_28.cha 3 00 28 wE .
 madeleine-24-3_00_28.cha 3 00 28 o se l9R dy R°-pa puR # .
-madeleine-24-3_00_28.cha 3 00 28 wE se # 1 Ri t@ fE s2 Z2 2 .
+madeleine-24-3_00_28.cha 3 00 28 wE se # 1 Ri t@ fEt s2 Z2 2 .
 madeleine-24-3_00_28.cha 3 00 28 a-vEk # .
 madeleine-24-3_00_28.cha 3 00 28 wi dE k# a-Riv .
 madeleine-24-3_00_28.cha 3 00 28 2 wE .
@@ -29691,7 +29691,7 @@ madeleine-24-3_00_28.cha 3 00 28 puf !
 madeleine-24-3_00_28.cha 3 00 28 wE !
 madeleine-24-3_00_28.cha 3 00 28 va la Ra-tRa-pe la .
 madeleine-24-3_00_28.cha 3 00 28 # # .
-madeleine-24-3_00_28.cha 3 00 28 ty la a-Re-te a-vEk te m5 @ ply !
+madeleine-24-3_00_28.cha 3 00 28 ty la a-Re-te a-vEk te m5 @ plys !
 madeleine-24-3_00_28.cha 3 00 28 # .
 madeleine-24-3_00_28.cha 3 00 28 a !
 madeleine-24-3_00_28.cha 3 00 28 # El fE # !
@@ -29865,7 +29865,7 @@ madeleine-24-3_00_28.cha 3 00 28 la i le @ na-v@ .
 madeleine-24-3_00_28.cha 3 00 28 i le vRE-m@ i le Ze-njal sE te-le-f@ .
 madeleine-24-3_00_28.cha 3 00 28 wE .
 madeleine-24-3_00_28.cha 3 00 28 i p2 bu-Ze le zo-REj e la k2 ?
-madeleine-24-3_00_28.cha 3 00 28 a e @ ply le pat .
+madeleine-24-3_00_28.cha 3 00 28 a e @ plys le pat .
 madeleine-24-3_00_28.cha 3 00 28 wi d§k vu pu-ve le fER maR-Se .
 madeleine-24-3_00_28.cha 3 00 28 vu pu-ve fE Ryn .
 madeleine-24-3_00_28.cha 3 00 28 il fE yn poz .
@@ -29957,7 +29957,7 @@ madeleine-24-3_00_28.cha 3 00 28 e vwa-si !
 madeleine-24-3_00_28.cha 3 00 28 sEt fwa i le a-bi-je d1 spEktR .
 madeleine-24-3_00_28.cha 3 00 28 l2 spEktR .
 madeleine-24-3_00_28.cha 3 00 28 5 # .
-madeleine-24-3_00_28.cha 3 00 28 R°-gaRd mad-lE na la plas dy pa-Rap-l8i @ fE se-tE pa puR l2 pa-Rap-l8i se-tE puR l2 spEktR .
+madeleine-24-3_00_28.cha 3 00 28 R°-gaRd mad-lE na la plas dy pa-Rap-l8i @ fEt se-tE pa puR l2 pa-Rap-l8i se-tE puR l2 spEktR .
 madeleine-24-3_00_28.cha 3 00 28 s§ spEktR .
 madeleine-24-3_00_28.cha 3 00 28 kOm sa .
 madeleine-24-3_00_28.cha 3 00 28 mE Z2 sE .
@@ -30150,7 +30150,7 @@ madeleine-24-3_00_28.cha 3 00 28 n§ pa la tR§p .
 madeleine-24-3_00_28.cha 3 00 28 a bRa-vo !
 madeleine-24-3_00_28.cha 3 00 28 a ta Re-y-si !
 madeleine-24-3_00_28.cha 3 00 28 te mEm la m§ tRe ply gR@ k1 , # !
-madeleine-24-3_00_28.cha 3 00 28 se bj5 paRs kil s§ p°-ti zi s§ bo .
+madeleine-24-3_00_28.cha 3 00 28 se bj5 paRs kil s§ p°-ti i s§ bo .
 madeleine-24-3_00_28.cha 3 00 28 # s§ tu mi-N§ se # la .
 madeleine-24-3_00_28.cha 3 00 28 syR sa tE twi .
 madeleine-24-3_00_28.cha 3 00 28 5 a wi wi .
@@ -30168,11 +30168,11 @@ madeleine-24-3_00_28.cha 3 00 28 wE .
 madeleine-24-3_00_28.cha 3 00 28 2 mwa S8i pa @-kOR pRE .
 madeleine-24-3_00_28.cha 3 00 28 E-sE d2 lfER m§-te syR l2 ta-bu-RE la .
 madeleine-24-3_00_28.cha 3 00 28 syR lEs-pEs d2 ta-bu-RE .
-madeleine-24-3_00_28.cha 3 00 28 a paRs k2 @ fE s2 s§ le Z2 dy siRk .
+madeleine-24-3_00_28.cha 3 00 28 a paRs k2 @ fEt s2 s§ le Z2 dy siRk .
 madeleine-24-3_00_28.cha 3 00 28 b5 wi !
 madeleine-24-3_00_28.cha 3 00 28 R°-gaRd la .
 madeleine-24-3_00_28.cha 3 00 28 i a sa o-si .
-madeleine-24-3_00_28.cha 3 00 28 wi s2 s§ le Z2 dy siR k@ fE mE .
+madeleine-24-3_00_28.cha 3 00 28 wi s2 s§ le Z2 dy siR k@ fEt mE .
 madeleine-24-3_00_28.cha 3 00 28 ty vwa sa .
 madeleine-24-3_00_28.cha 3 00 28 i p2 , i p2 m§-te kOm sa syR l2 .
 madeleine-24-3_00_28.cha 3 00 28 R°-gaRd # .
@@ -30185,7 +30185,7 @@ madeleine-24-3_00_28.cha 3 00 28 a b§ ?
 madeleine-24-3_00_28.cha 3 00 28 wE .
 madeleine-24-3_00_28.cha 3 00 28 ZvE e-se-je .
 madeleine-24-3_00_28.cha 3 00 28 a wi i p2 o-si 2 Ru-le syR l2 .
-madeleine-24-3_00_28.cha 3 00 28 d2 ply z@ ply fOR !
+madeleine-24-3_00_28.cha 3 00 28 d2 ply z@ plys fOR !
 madeleine-24-3_00_28.cha 3 00 28 bR .
 madeleine-24-3_00_28.cha 3 00 28 bR .
 madeleine-24-3_00_28.cha 3 00 28 § va vwaR .
@@ -30943,7 +30943,7 @@ madeleine-25-3_03_02.cha 3 03 02 o ba a-lOR !
 madeleine-25-3_03_02.cha 3 03 02 sa va pa dy tu !
 madeleine-25-3_03_02.cha 3 03 02 la ma-m@ o-tRyS !
 madeleine-25-3_03_02.cha 3 03 02 a se b§ !
-madeleine-25-3_03_02.cha 3 03 02 2 @ ply Z2 la vwa .
+madeleine-25-3_03_02.cha 3 03 02 2 @ plys Z2 la vwa .
 madeleine-25-3_03_02.cha 3 03 02 E le syR l2 d°-sy .
 madeleine-25-3_03_02.cha 3 03 02 wE .
 madeleine-25-3_03_02.cha 3 03 02 vwa-la !
@@ -31411,7 +31411,7 @@ madeleine-26-3_06_08.cha 3 06 08 El l2 ko-nE paR k9R !
 madeleine-26-3_06_08.cha 3 06 08 ty lko-nE paR k9R ?
 madeleine-26-3_06_08.cha 3 06 08 ko-m@ sa sfE ?
 madeleine-26-3_06_08.cha 3 06 08 a !
-madeleine-26-3_06_08.cha 3 06 08 e p8i @ ply vu fEt de de-s5 ?
+madeleine-26-3_06_08.cha 3 06 08 e p8i @ plys vu fEt de de-s5 ?
 madeleine-26-3_06_08.cha 3 06 08 n§ , 5 vu , vu fa-bRi-ke le de-s5 dy livR ?
 madeleine-26-3_06_08.cha 3 06 08 SkRwa ki fa-bRi k1 li vR2 .
 madeleine-26-3_06_08.cha 3 06 08 Ra-k§-t@ sE tis-twaR .
@@ -31725,14 +31725,14 @@ madeleine-26-3_06_08.cha 3 06 08 i a d2 # !
 madeleine-26-3_06_08.cha 3 06 08 d2 # !
 madeleine-26-3_06_08.cha 3 06 08 ba tu ta l9R ta paR-le d# # !
 madeleine-26-3_06_08.cha 3 06 08 n§ ?
-madeleine-26-3_06_08.cha 3 06 08 e le zotR zEl sa-pEl ko-m@ ?
+madeleine-26-3_06_08.cha 3 06 08 e le zo tREl sa-pEl ko-m@ ?
 madeleine-26-3_06_08.cha 3 06 08 le # ko-pin !
 madeleine-26-3_06_08.cha 3 06 08 e i a # ?
 madeleine-26-3_06_08.cha 3 06 08 # , # .
 madeleine-26-3_06_08.cha 3 06 08 9m .
 madeleine-26-3_06_08.cha 3 06 08 b§ !
 madeleine-26-3_06_08.cha 3 06 08 a wi !
-madeleine-26-3_06_08.cha 3 06 08 e kOm # p°-tit fij Z@-tij zi a ki ?
+madeleine-26-3_06_08.cha 3 06 08 e kOm # p°-tit fij Z@-tij i a ki ?
 madeleine-26-3_06_08.cha 3 06 08 ni-na , n§ , pa ni-na ?
 madeleine-26-3_06_08.cha 3 06 08 ko-m@ # sa-pEl ?
 madeleine-26-3_06_08.cha 3 06 08 # !
@@ -32147,7 +32147,7 @@ theophile-06-1_00_09.cha 1 00 09 se puR twa .
 theophile-06-1_00_09.cha 1 00 09 ty luv pa ?
 theophile-06-1_00_09.cha 1 00 09 tj5 R°-gaRd .
 theophile-06-1_00_09.cha 1 00 09 Op .
-theophile-06-1_00_09.cha 1 00 09 R°-gaRd t# le fi-sE l@ ply sa tfRa 1 kOR-d§ d2 ka-do @ 1 .
+theophile-06-1_00_09.cha 1 00 09 R°-gaRd t# le fi-sE l@ plys sa tfRa 1 kOR-d§ d2 ka-do @ 1 .
 theophile-06-1_00_09.cha 1 00 09 Op !
 theophile-06-1_00_09.cha 1 00 09 va zi pR@ sa .
 theophile-06-1_00_09.cha 1 00 09 ty llEs de-Si-Re l2 pa-pje .
@@ -32270,7 +32270,7 @@ theophile-06-1_00_09.cha 1 00 09 ttE ku-pe .
 theophile-06-1_00_09.cha 1 00 09 wE Sak fwa a-vEk s2 ku-to .
 theophile-06-1_00_09.cha 1 00 09 a-lOR la a d2 mi-li-mEtR # o-RE e-te nyl !
 theophile-06-1_00_09.cha 1 00 09 se kEl m5 ?
-theophile-06-1_00_09.cha 1 00 09 go S@ ply za Sak fwa .
+theophile-06-1_00_09.cha 1 00 09 go S@ plyz sa Sak fwa .
 theophile-06-1_00_09.cha 1 00 09 o .
 theophile-06-1_00_09.cha 1 00 09 i le sy-pER mE il kup tRo bj5 kwa .
 theophile-06-1_00_09.cha 1 00 09 kOm le le-gym s§ y-mid sa glis .
@@ -32473,7 +32473,7 @@ theophile-06-1_00_09.cha 1 00 09 # .
 theophile-06-1_00_09.cha 1 00 09 i la e-ku-te l2 de-by e a-pRE i la dy paR-tiR .
 theophile-06-1_00_09.cha 1 00 09 mE se ma-m@ ki Zu !
 theophile-06-1_00_09.cha 1 00 09 i la-vE d2 la fjEv s2 ZuR la .
-theophile-06-1_00_09.cha 1 00 09 wE i la-vE pl5 d2 fjEv l2 pov ZlE @m-ne e @ fE Z2 m2 s8i R@-dy k§t l2 swaR ki la-vE tR@t n9f .
+theophile-06-1_00_09.cha 1 00 09 wE i la-vE pl5 d2 fjEv l2 pov ZlE @m-ne e @ fEt Z2 m2 s8i R@-dy k§t l2 swaR ki la-vE tR@t n9f .
 theophile-06-1_00_09.cha 1 00 09 o .
 theophile-06-1_00_09.cha 1 00 09 # 5-po-sib mE b§ .
 theophile-06-1_00_09.cha 1 00 09 o la gRos bwat .
@@ -32603,7 +32603,7 @@ theophile-06-1_00_09.cha 1 00 09 # ty v2 Zwe # .
 theophile-06-1_00_09.cha 1 00 09 ZE y ma ZuR-ne e-kut .
 theophile-06-1_00_09.cha 1 00 09 ZE e-ku-te me # sma-t5 .
 theophile-06-1_00_09.cha 1 00 09 a-lOR se-tE bj5 .
-theophile-06-1_00_09.cha 1 00 09 ba e-ku t2 a-pRE d2 @ Za-vE p2R mE @ fE se pa mal k@ mEm .
+theophile-06-1_00_09.cha 1 00 09 ba e-ku t2 a-pRE d2 @ Za-vE p2R mE @ fEt se pa mal k@ mEm .
 theophile-06-1_00_09.cha 1 00 09 # paRs k2 Z2 Zu mE se pa sa va .
 theophile-06-1_00_09.cha 1 00 09 ba te-ku-tRa .
 theophile-06-1_00_09.cha 1 00 09 ZvE fE Re-ku-te a ma-m@ .
@@ -32672,7 +32672,7 @@ theophile-06-1_00_09.cha 1 00 09 fa-sil 5 .
 theophile-06-1_00_09.cha 1 00 09 il m@Z pa @-kOR l2 swaR ?
 theophile-06-1_00_09.cha 1 00 09 si .
 theophile-06-1_00_09.cha 1 00 09 si ty l8i fE gu-te 1 p2 d2 tu s2 k§ m@Z mE @ , mE k@ mEm l2 lE tu-ZuR .
-theophile-06-1_00_09.cha 1 00 09 d2 tu wE a-pRE @ ply .
+theophile-06-1_00_09.cha 1 00 09 d2 tu wE a-pRE @ plys .
 theophile-06-1_00_09.cha 1 00 09 vwa-la .
 theophile-06-1_00_09.cha 1 00 09 kEs k§ l8i dOn la ?
 theophile-06-1_00_09.cha 1 00 09 ba il pR@-dRa d2 la Ra-ta-tuj .
@@ -32701,7 +32701,7 @@ theophile-06-1_00_09.cha 1 00 09 mE i le sOR-ti , d@ l2 ko-mERs ?
 theophile-06-1_00_09.cha 1 00 09 n§ n§ , pa @-kOR fo k2 ZdOn m§ .
 theophile-06-1_00_09.cha 1 00 09 se puR kil sORt kwa .
 theophile-06-1_00_09.cha 1 00 09 o wi mE fo k2 ty e-ku ta-t@-tiv-m@ a-lOR .
-theophile-06-1_00_09.cha 1 00 09 wE mE ZE de-Za e-ku-te # # mE se fR@-swa ki vu-lE le-ku-te @ fE .
+theophile-06-1_00_09.cha 1 00 09 wE mE ZE de-Za e-ku-te # # mE se fR@-swa ki vu-lE le-ku-te @ fEt .
 theophile-06-1_00_09.cha 1 00 09 wi mE se Zyst puR .
 theophile-06-1_00_09.cha 1 00 09 da-kOR .
 theophile-06-1_00_09.cha 1 00 09 se puR sa kmwa Za-vE S@-Ze a-vEk l2 tRi-jo mE .
@@ -32755,7 +32755,7 @@ theophile-06-1_00_09.cha 1 00 09 mjam .
 theophile-06-1_00_09.cha 1 00 09 # .
 theophile-06-1_00_09.cha 1 00 09 Za-vE R°-gaR-de # p8i k@ ZE vy tut le kEs-tj§ Zm2 s8i di se tRo to .
 theophile-06-1_00_09.cha 1 00 09 wE .
-theophile-06-1_00_09.cha 1 00 09 mE @ fE l2 de-by Z2 p2 .
+theophile-06-1_00_09.cha 1 00 09 mE @ fEt l2 de-by Z2 p2 .
 theophile-06-1_00_09.cha 1 00 09 da-kOR .
 theophile-06-1_00_09.cha 1 00 09 paRs k2 la i a pl5 d2 tRyk se s@ fwa tRo to .
 theophile-06-1_00_09.cha 1 00 09 a-lOR s2 kEs-tjo-nER .
@@ -32775,7 +32775,7 @@ theophile-06-1_00_09.cha 1 00 09 mE se k2 de n§ kwa .
 theophile-06-1_00_09.cha 1 00 09 wi mE se pa gRav .
 theophile-06-1_00_09.cha 1 00 09 se pa gRav ?
 theophile-06-1_00_09.cha 1 00 09 n§ .
-theophile-06-1_00_09.cha 1 00 09 paRs k2 d2 pti a pti i a d2 ply z@ ply d2 wi .
+theophile-06-1_00_09.cha 1 00 09 paRs k2 d2 pti a pti i a d2 ply z@ plys d2 wi .
 theophile-06-1_00_09.cha 1 00 09 d§k Z2 R@-pli k@ mEm mEm si se pa .
 theophile-06-1_00_09.cha 1 00 09 ty R@-pli .
 theophile-06-1_00_09.cha 1 00 09 b§ .
@@ -32890,7 +32890,7 @@ theophile-07-1_01_14.cha 1 01 14 wE .
 theophile-07-1_01_14.cha 1 01 14 ty l8i a mi a l@-vER s§ ?
 theophile-07-1_01_14.cha 1 01 14 wE .
 theophile-07-1_01_14.cha 1 01 14 wi mE se pa ply mal .
-theophile-07-1_01_14.cha 1 01 14 @ fE se ply pROS dy ku se vRE kse mj2 se ma-R@ .
+theophile-07-1_01_14.cha 1 01 14 @ fEt se ply pROS dy ku se vRE kse mj2 se ma-R@ .
 theophile-07-1_01_14.cha 1 01 14 b5 se pROS dy ku paRs k2 ZE vy kvu za-vje fE 1 tRu paRs ki le-tE tRo .
 theophile-07-1_01_14.cha 1 01 14 ki se ki a e-sE-je d2 fE R1 tRu ?
 theophile-07-1_01_14.cha 1 01 14 ba SE pa .
@@ -33041,7 +33041,7 @@ theophile-07-1_01_14.cha 1 01 14 # .
 theophile-07-1_01_14.cha 1 01 14 # .
 theophile-07-1_01_14.cha 1 01 14 l2 so-lEj i a l2 so-lEj .
 theophile-07-1_01_14.cha 1 01 14 i la e-te Z@-ti i la pa pl9-Re k@ vu zEt paR-ti .
-theophile-07-1_01_14.cha 1 01 14 wE # b5 wi @ fE # .
+theophile-07-1_01_14.cha 1 01 14 wE # b5 wi @ fEt # .
 theophile-07-1_01_14.cha 1 01 14 § ne a-le Ra-ma-se le # d2 p5 .
 theophile-07-1_01_14.cha 1 01 14 d§ ki le-tE bj5 # .
 theophile-07-1_01_14.cha 1 01 14 wE i la Rj5 di , i la Rj5 di .
@@ -33424,7 +33424,7 @@ theophile-07-1_01_14.cha 1 01 14 i le kap-ti-ve paR le pl@t 5 .
 theophile-07-1_01_14.cha 1 01 14 wE sa l5-te-REs ply k2 le ba-l§ .
 theophile-07-1_01_14.cha 1 01 14 wE il pRe-fER .
 theophile-07-1_01_14.cha 1 01 14 Za-Riv pa a l8i Ek-spli-ke kil fo le ka-Re-se pa le de-Si-Re .
-theophile-07-1_01_14.cha 1 01 14 @ ply m5t-n@ kOm k@ ti la R°-mi d°-d@ § l8i a di se-tE bj5 a-lO Ril kRwa m5t-n@ k2 # il la de-Si Re kil la R°-mE d°-d@ se bj5 .
+theophile-07-1_01_14.cha 1 01 14 @ plys m5t-n@ kOm k@ ti la R°-mi d°-d@ § l8i a di se-tE bj5 a-lO Ril kRwa m5t-n@ k2 # il la de-Si Re kil la R°-mE d°-d@ se bj5 .
 theophile-07-1_01_14.cha 1 01 14 d§k la se k§-pli-ke .
 theophile-07-1_01_14.cha 1 01 14 9m 5 te-o-fil .
 theophile-07-1_01_14.cha 1 01 14 se kwa sa .
@@ -34673,10 +34673,10 @@ theophile-09-1_03_02.cha 1 03 02 se b§ , se b§ , se b§ .
 theophile-09-1_03_02.cha 1 03 02 e si Z2 kRo-kE s2 dwa la ki m§tR .
 theophile-09-1_03_02.cha 1 03 02 il Zu a bOR-do ?
 theophile-09-1_03_02.cha 1 03 02 wE il Zu d°-m5 a ko-te dbOR-do .
-theophile-09-1_03_02.cha 1 03 02 i le a-Ri-ve la vEj puR Re-pe-te mE @ fE i a pa tu l2 m§d ki e-tE a-Ri-ve d§ kil z@ n§ pRo-fi-te puR fE R1 R°-pa .
+theophile-09-1_03_02.cha 1 03 02 i le a-Ri-ve la vEj puR Re-pe-te mE @ fE ti a pa tu l2 m§d ki e-tE a-Ri-ve d§ kil z@ n§ pRo-fi-te puR fE R1 R°-pa .
 theophile-09-1_03_02.cha 1 03 02 il Zu kwa ?
-theophile-09-1_03_02.cha 1 03 02 SE pa sk kil Zu il , il fE 1 pRo-gRa ma-vEk ply-zj9R d@ zy n2 yn , mE-z§ d2 @ fE da-k9j d2 , d2 , d2 Z@ ty vwa .
-theophile-09-1_03_02.cha 1 03 02 se v5 e my-zi k@ fE .
+theophile-09-1_03_02.cha 1 03 02 SE pa sk kil Zu il , il fE 1 pRo-gRa ma-vEk ply-zj9R d@ zy n2 yn , mE-z§ d2 @ fEt da-k9j d2 , d2 , d2 Z@ ty vwa .
+theophile-09-1_03_02.cha 1 03 02 se v5 e my-zi k@ fEt .
 theophile-09-1_03_02.cha 1 03 02 d§ kil z§ 1 k§-sE Re p8i i a de-gys-ta-sj§ 2 .
 theophile-09-1_03_02.cha 1 03 02 Sp@s k2 se 1 pRo-gRam d2 my-zik d2 S@bR .
 theophile-09-1_03_02.cha 1 03 02 paRs ki la-t@-dE le zot ki e-tE pa a-Ri-ve d§ k2 .
@@ -34704,7 +34704,7 @@ theophile-09-1_03_02.cha 1 03 02 vwa-la .
 theophile-09-1_03_02.cha 1 03 02 u la !
 theophile-09-1_03_02.cha 1 03 02 t@ v2 @-kOR .
 theophile-09-1_03_02.cha 1 03 02 # de le-gym .
-theophile-09-1_03_02.cha 1 03 02 il s§ fRwa zil z§ vit # .
+theophile-09-1_03_02.cha 1 03 02 il s§ fRwa il z§ vit # .
 theophile-09-1_03_02.cha 1 03 02 ZE mi kat mi-nyt mE § p2 R°-mEtR .
 theophile-09-1_03_02.cha 1 03 02 Z2 vE SER-Se l2 ja-uRt te-o-fil .
 theophile-09-1_03_02.cha 1 03 02 ZmE tut le S@s d2 m§ ko-te R°-pa ko-pj2 v5 RuZ .
@@ -34967,7 +34967,7 @@ theophile-11-1_05_05.cha 1 05 05 § ne l2 8it ?
 theophile-11-1_05_05.cha 1 05 05 i le d@ s§ dis , i le d@ s§ dis sE-tjEm mwa .
 theophile-11-1_05_05.cha 1 05 05 l2 8it ?
 theophile-11-1_05_05.cha 1 05 05 dis sEt mwa sEz mwa e kElk di-z§ .
-theophile-11-1_05_05.cha 1 05 05 wE paRs k2 @ fE i lo-Ra .
+theophile-11-1_05_05.cha 1 05 05 wE paRs k2 @ fE ti lo-Ra .
 theophile-11-1_05_05.cha 1 05 05 se @ Z@-vje ki lo-Ra 1 n@ e d°-mi .
 theophile-11-1_05_05.cha 1 05 05 da-kOR .
 theophile-11-1_05_05.cha 1 05 05 Z8i-jE .
@@ -35046,7 +35046,7 @@ theophile-11-1_05_05.cha 1 05 05 d@ la Z@b ?
 theophile-11-1_05_05.cha 1 05 05 n§ se la .
 theophile-11-1_05_05.cha 1 05 05 se la # .
 theophile-11-1_05_05.cha 1 05 05 se la Zyst la ty vwa se # se s2 mys kli-si la .
-theophile-11-1_05_05.cha 1 05 05 @ fE .
+theophile-11-1_05_05.cha 1 05 05 @ fEt .
 theophile-11-1_05_05.cha 1 05 05 a !
 theophile-11-1_05_05.cha 1 05 05 a a a a !
 theophile-11-1_05_05.cha 1 05 05 ba pR@ 1 # !
@@ -35197,7 +35197,7 @@ theophile-11-1_05_05.cha 1 05 05 b§ § sE kE le la m5t-n@ .
 theophile-11-1_05_05.cha 1 05 05 fo pa pERd la kle 5 .
 theophile-11-1_05_05.cha 1 05 05 i l@ na pER-dy yn ?
 theophile-11-1_05_05.cha 1 05 05 se la kle d2 kwa ?
-theophile-11-1_05_05.cha 1 05 05 se la mE m@ fE .
+theophile-11-1_05_05.cha 1 05 05 se la mE m@ fEt .
 theophile-11-1_05_05.cha 1 05 05 e ZE fE fE R1 dubl .
 theophile-11-1_05_05.cha 1 05 05 mE d2 kwa ?
 theophile-11-1_05_05.cha 1 05 05 d2 la mE-z§ .
@@ -35380,7 +35380,7 @@ theophile-11-1_05_05.cha 1 05 05 @ Ze-ne-Ral Z2 s8i pa .
 theophile-11-1_05_05.cha 1 05 05 u dy # d2 l# .
 theophile-11-1_05_05.cha 1 05 05 wE 1 tRy k1 p2 ply 2 .
 theophile-11-1_05_05.cha 1 05 05 pR@ d2 l# .
-theophile-11-1_05_05.cha 1 05 05 se mal pla-se @ fE .
+theophile-11-1_05_05.cha 1 05 05 se mal pla-se @ fEt .
 theophile-11-1_05_05.cha 1 05 05 ty , t@ na b°-zw5 dsER-tEn # puR fER tu le .
 theophile-11-1_05_05.cha 1 05 05 o k2 tE bo .
 theophile-11-1_05_05.cha 1 05 05 te-o-fil ty vj5 .
@@ -35417,7 +35417,7 @@ theophile-11-1_05_05.cha 1 05 05 mwa Z2 p2 pa l2 poR-te mwa .
 theophile-11-1_05_05.cha 1 05 05 se 5-po-sibl .
 theophile-11-1_05_05.cha 1 05 05 a # # .
 theophile-11-1_05_05.cha 1 05 05 o !
-theophile-11-1_05_05.cha 1 05 05 @ fE l2 b5 Z2 v2 bj5 k2 ty l2 fas fR@-swa .
+theophile-11-1_05_05.cha 1 05 05 @ fEt l2 b5 Z2 v2 bj5 k2 ty l2 fas fR@-swa .
 theophile-11-1_05_05.cha 1 05 05 wE .
 theophile-11-1_05_05.cha 1 05 05 # as-pi-Rin # Rj5 kd2 fER sa sa va Et lo-R9R .
 theophile-11-1_05_05.cha 1 05 05 ty m2 tuRn la be-Sa-mEl ?
@@ -35619,7 +35619,7 @@ theophile-11-1_05_05.cha 1 05 05 a-t@ Z2 t2 mE sa .
 theophile-11-1_05_05.cha 1 05 05 vwa-la .
 theophile-11-1_05_05.cha 1 05 05 ZE Ra-Zu-te 1 p2 dfa-Rin paRs kE le-tE tut li-kid .
 theophile-11-1_05_05.cha 1 05 05 ku-ku te-o-fil .
-theophile-11-1_05_05.cha 1 05 05 n§ mE sa , sa @ , @ R°f-Rwa-di-s@ @ fE sa s2 dyR-si .
+theophile-11-1_05_05.cha 1 05 05 n§ mE sa , sa @ , @ R°f-Rwa-di-s@ @ fEt sa s2 dyR-si .
 theophile-11-1_05_05.cha 1 05 05 R°-gaRd .
 theophile-11-1_05_05.cha 1 05 05 wE .
 theophile-11-1_05_05.cha 1 05 05 # paRs k2 la se vRE-m@ tRE li-kid .
@@ -35755,7 +35755,7 @@ theophile-11-1_05_05.cha 1 05 05 k§-s@-tRa-sj§ tRwa s°-g§d .
 theophile-11-1_05_05.cha 1 05 05 o .
 theophile-11-1_05_05.cha 1 05 05 R°-gaRd .
 theophile-11-1_05_05.cha 1 05 05 Em .
-theophile-11-1_05_05.cha 1 05 05 SE pa si i le tRE myR puR s2 tRy k@ fE .
+theophile-11-1_05_05.cha 1 05 05 SE pa si i le tRE myR puR s2 tRy k@ fEt .
 theophile-11-1_05_05.cha 1 05 05 si ty l8i pas la vis .
 theophile-11-1_05_05.cha 1 05 05 il va l2 fER .
 theophile-11-1_05_05.cha 1 05 05 l2 tuR-n°-vis .
@@ -35971,7 +35971,7 @@ theophile-11-1_05_05.cha 1 05 05 se fu kOm sa fa-tig s2 Z@R d2 tRyk .
 theophile-11-1_05_05.cha 1 05 05 la Z2 l2 s@s .
 theophile-11-1_05_05.cha 1 05 05 a ba sa t2 .
 theophile-11-1_05_05.cha 1 05 05 p8i kOm tut la ZuR-ne ZE ly-te !
-theophile-11-1_05_05.cha 1 05 05 @ fE !
+theophile-11-1_05_05.cha 1 05 05 @ fEt !
 theophile-11-1_05_05.cha 1 05 05 sa t2 R8in .
 theophile-11-1_05_05.cha 1 05 05 Z2 m2 s@s mE vi-de .
 theophile-11-1_05_05.cha 1 05 05 a sa .
@@ -36023,7 +36023,7 @@ theophile-12-1_06_08.cha 1 06 08 se kwa sa ?
 theophile-12-1_06_08.cha 1 06 08 9m ?
 theophile-12-1_06_08.cha 1 06 08 se vRE ki la u-bli-je s§ liv la ba .
 theophile-12-1_06_08.cha 1 06 08 § na-vE 2 1 sy-pER livR .
-theophile-12-1_06_08.cha 1 06 08 # a # la s8it d2 # mE @ ply k§-pli-ke .
+theophile-12-1_06_08.cha 1 06 08 # a # la s8it d2 # mE @ plys k§-pli-ke .
 theophile-12-1_06_08.cha 1 06 08 a .
 theophile-12-1_06_08.cha 1 06 08 e i le REs-te a vo-vER .
 theophile-12-1_06_08.cha 1 06 08 9m .
@@ -36061,12 +36061,12 @@ theophile-12-1_06_08.cha 1 06 08 5 ?
 theophile-12-1_06_08.cha 1 06 08 5-pe-kabl .
 theophile-12-1_06_08.cha 1 06 08 a wE n§ i la .
 theophile-12-1_06_08.cha 1 06 08 n§ i la pa bu-Ze .
-theophile-12-1_06_08.cha 1 06 08 Ze-tE e-to-ne @ fE sa l8i plE-zE bj5 .
+theophile-12-1_06_08.cha 1 06 08 Ze-tE e-to-ne @ fEt sa l8i plE-zE bj5 .
 theophile-12-1_06_08.cha 1 06 08 ptEt pas k2 kOm Zla-vE de-Za 1 p2 fE .
 theophile-12-1_06_08.cha 1 06 08 mE ZlE tRu-ve bo-ku ply kal ma-vE kEl ka-vEk mwa 5 .
 theophile-12-1_06_08.cha 1 06 08 9m .
 theophile-12-1_06_08.cha 1 06 08 la i le-tE 5-tRi-ge .
-theophile-12-1_06_08.cha 1 06 08 wi se l2 mi-RwaR ki l8i a ply @ fE .
+theophile-12-1_06_08.cha 1 06 08 wi se l2 mi-RwaR ki l8i a ply @ fEt .
 theophile-12-1_06_08.cha 1 06 08 i svwa-jE d@ l2 mi-RwaR d§ k2 .
 theophile-12-1_06_08.cha 1 06 08 5 te-o-fil .
 theophile-12-1_06_08.cha 1 06 08 li-li .
@@ -36757,7 +36757,7 @@ theophile-12-1_06_08.cha 1 06 08 vwa-la .
 theophile-12-1_06_08.cha 1 06 08 e vwa-la .
 theophile-12-1_06_08.cha 1 06 08 ta vy ?
 theophile-12-1_06_08.cha 1 06 08 ta vy te-o-fil ?
-theophile-12-1_06_08.cha 1 06 08 El s§ tut za-ly-me .
+theophile-12-1_06_08.cha 1 06 08 El s§ tu ta-ly-me .
 theophile-12-1_06_08.cha 1 06 08 9m ty p2 ti-Re .
 theophile-12-1_06_08.cha 1 06 08 wi .
 theophile-12-1_06_08.cha 1 06 08 o , o i a 1 bu-S§ la ki tREn .
@@ -36765,7 +36765,7 @@ theophile-12-1_06_08.cha 1 06 08 ke sty v2 ?
 theophile-12-1_06_08.cha 1 06 08 i va pa a-vwaR tRo So l2 p°-ti tuRs la fR@-swa ?
 theophile-12-1_06_08.cha 1 06 08 n§ se b§ .
 theophile-12-1_06_08.cha 1 06 08 sa Sof pa 5 .
-theophile-12-1_06_08.cha 1 06 08 @ fE il fE tEl-m@ So d°-OR .
+theophile-12-1_06_08.cha 1 06 08 @ fE til fE tEl-m@ So d°-OR .
 theophile-12-1_06_08.cha 1 06 08 ty ml2 # ?
 theophile-12-1_06_08.cha 1 06 08 § p2 pa mEt la Ra-djo # k2 i a l2 disk .
 theophile-12-1_06_08.cha 1 06 08 # .
@@ -37164,7 +37164,7 @@ theophile-12-1_06_08.cha 1 06 08 ty m@ Z1 p2 dpwa-Ro te-o-fil ?
 theophile-12-1_06_08.cha 1 06 08 ty pR@ de pwa-Ro ?
 theophile-12-1_06_08.cha 1 06 08 # pRi 1 p2 bo-ku d@ la buS d1 ku la .
 theophile-12-1_06_08.cha 1 06 08 9m .
-theophile-12-1_06_08.cha 1 06 08 # i maRS pa @ fE .
+theophile-12-1_06_08.cha 1 06 08 # i maRS pa @ fEt .
 theophile-12-1_06_08.cha 1 06 08 SE pa ski fE .
 theophile-12-1_06_08.cha 1 06 08 o .
 theophile-12-1_06_08.cha 1 06 08 te-o-fil fi-ni sk2 ta d@ la buS de-Za .
@@ -38060,7 +38060,7 @@ theophile-13-1_07_01.cha 1 07 01 ke s2 ty v2 ?
 theophile-13-1_07_01.cha 1 07 01 ty va a-v@-se ty va a-v@-se .
 theophile-13-1_07_01.cha 1 07 01 a .
 theophile-13-1_07_01.cha 1 07 01 Op !
-theophile-13-1_07_01.cha 1 07 01 o ZvE mEt tu le z2 @ fE # k2 kO m§ ne , § ne tRwa .
+theophile-13-1_07_01.cha 1 07 01 o ZvE mEt tu le z2 @ fEt # k2 kO m§ ne , § ne tRwa .
 theophile-13-1_07_01.cha 1 07 01 a-t@-sj§ .
 theophile-13-1_07_01.cha 1 07 01 ty ta-kROS ?
 theophile-13-1_07_01.cha 1 07 01 1 d2 tRwa .
@@ -38204,11 +38204,11 @@ theophile-13-1_07_01.cha 1 07 01 a-lOR sa .
 theophile-13-1_07_01.cha 1 07 01 9m .
 theophile-13-1_07_01.cha 1 07 01 wE .
 theophile-13-1_07_01.cha 1 07 01 s , ski .
-theophile-13-1_07_01.cha 1 07 01 @ fE l2 tu se d2 de-se-je d2 pa pl@-te .
+theophile-13-1_07_01.cha 1 07 01 @ fEt l2 tu se d2 de-se-je d2 pa pl@-te .
 theophile-13-1_07_01.cha 1 07 01 ty vwa la ta ty pl@t # .
 theophile-13-1_07_01.cha 1 07 01 wE wE .
 theophile-13-1_07_01.cha 1 07 01 Za-Ri-vE pa a mEt d2 ko-te .
-theophile-13-1_07_01.cha 1 07 01 @ fE i fo bj5 pR@d la # .
+theophile-13-1_07_01.cha 1 07 01 @ fE ti fo bj5 pR@d la # .
 theophile-13-1_07_01.cha 1 07 01 d§k ty pR@ lply l§ .
 theophile-13-1_07_01.cha 1 07 01 9m .
 theophile-13-1_07_01.cha 1 07 01 ty , ty k§-s@t k2 syR s8i la e t , ty SOp bj5 la # .
@@ -38274,7 +38274,7 @@ theophile-13-1_07_01.cha 1 07 01 a-vEk l2 sy-pER v5 .
 theophile-13-1_07_01.cha 1 07 01 Rwa-jal .
 theophile-13-1_07_01.cha 1 07 01 sa ma R°-k5-ke d2 me , si z9R d2 so-mEj .
 theophile-13-1_07_01.cha 1 07 01 a se-tE bo-ku la .
-theophile-13-1_07_01.cha 1 07 01 fo a-vwaR la-bi-ty d@ fE .
+theophile-13-1_07_01.cha 1 07 01 fo a-vwaR la-bi-ty d@ fEt .
 theophile-13-1_07_01.cha 1 07 01 ty pR@ l2 Ritm .
 theophile-13-1_07_01.cha 1 07 01 d2 kwa ?
 theophile-13-1_07_01.cha 1 07 01 si z9R d2 so-mEj e kat ka-fe paR ZuR .
@@ -38340,7 +38340,7 @@ theophile-13-1_07_01.cha 1 07 01 ba wi i @ na d°-d@ .
 theophile-13-1_07_01.cha 1 07 01 ty p2 gu-te .
 theophile-13-1_07_01.cha 1 07 01 a-le b§ # .
 theophile-13-1_07_01.cha 1 07 01 9m .
-theophile-13-1_07_01.cha 1 07 01 ZE 1 p2 le kRo la @ fE .
+theophile-13-1_07_01.cha 1 07 01 ZE 1 p2 le kRo la @ fEt .
 theophile-13-1_07_01.cha 1 07 01 E le bOn 5 .
 theophile-13-1_07_01.cha 1 07 01 a .
 theophile-13-1_07_01.cha 1 07 01 Em .
@@ -38361,7 +38361,7 @@ theophile-13-1_07_01.cha 1 07 01 # k2 Zm2 s8i di 2 se pER-sis-t@ .
 theophile-13-1_07_01.cha 1 07 01 a wi pa mal .
 theophile-13-1_07_01.cha 1 07 01 tj5 te-o-fil .
 theophile-13-1_07_01.cha 1 07 01 # .
-theophile-13-1_07_01.cha 1 07 01 ba @ fE sa l8i fE fER ka-ka .
+theophile-13-1_07_01.cha 1 07 01 ba @ fEt sa l8i fE fER ka-ka .
 theophile-13-1_07_01.cha 1 07 01 # # # .
 theophile-13-1_07_01.cha 1 07 01 wE mE se @-bE-t@ # k2 dy ku i paR .
 theophile-13-1_07_01.cha 1 07 01 wE .
@@ -38391,7 +38391,7 @@ theophile-13-1_07_01.cha 1 07 01 ta y t§ # di-m@S ma-t5 ?
 theophile-13-1_07_01.cha 1 07 01 wE .
 theophile-13-1_07_01.cha 1 07 01 ZE fE a-vEk # e il z§ ak-sEp-te l2 ku dy badZ ?
 theophile-13-1_07_01.cha 1 07 01 b5 n§ .
-theophile-13-1_07_01.cha 1 07 01 n§ il z§ pa ak-sEp-te mE ZE # a de , a de pti Z9 n@ fE .
+theophile-13-1_07_01.cha 1 07 01 n§ il z§ pa ak-sEp-te mE ZE # a de , a de pti Z9 n@ fEt .
 theophile-13-1_07_01.cha 1 07 01 § se 5-kRys-te § na fE 1 dubl .
 theophile-13-1_07_01.cha 1 07 01 s5-pa .
 theophile-13-1_07_01.cha 1 07 01 wE .
@@ -38462,7 +38462,7 @@ theophile-13-1_07_01.cha 1 07 01 a-lOR Zl8i E fE ku-le dlo sa a-lE .
 theophile-13-1_07_01.cha 1 07 01 s5 k9R .
 theophile-13-1_07_01.cha 1 07 01 Op .
 theophile-13-1_07_01.cha 1 07 01 e la ZlE mi d@ lo ZlE mi ZlE # .
-theophile-13-1_07_01.cha 1 07 01 e i la-vE dla fjE vR@ fE .
+theophile-13-1_07_01.cha 1 07 01 e i la-vE dla fjE vR@ fEt .
 theophile-13-1_07_01.cha 1 07 01 a m5s .
 theophile-13-1_07_01.cha 1 07 01 se ma-R@ ki fas de ptit pik kOm sa .
 theophile-13-1_07_01.cha 1 07 01 mE se 1 vi-Rys 5 .
@@ -38605,9 +38605,9 @@ theophile-13-1_07_01.cha 1 07 01 ka-ka .
 theophile-13-1_07_01.cha 1 07 01 ka-ka .
 theophile-13-1_07_01.cha 1 07 01 e wi i a dy ka-ka .
 theophile-13-1_07_01.cha 1 07 01 u la la .
-theophile-13-1_07_01.cha 1 07 01 d2 ply z@ ply le-Ze .
+theophile-13-1_07_01.cha 1 07 01 d2 ply z@ plys le-Ze .
 theophile-13-1_07_01.cha 1 07 01 vwa-la .
-theophile-13-1_07_01.cha 1 07 01 d2 ply z@ ply le-Ze .
+theophile-13-1_07_01.cha 1 07 01 d2 ply z@ plys le-Ze .
 theophile-13-1_07_01.cha 1 07 01 bum .
 theophile-13-1_07_01.cha 1 07 01 a .
 theophile-13-1_07_01.cha 1 07 01 ka-ka .
@@ -38768,7 +38768,7 @@ theophile-14-1_08_08.cha 1 08 08 e vwa-la Eg-zak-t°-m@ ta tu k§-pRi , k§-pRi 
 theophile-14-1_08_08.cha 1 08 08 e wi .
 theophile-14-1_08_08.cha 1 08 08 wE mE , mE fo l# paRs k2 si-n§ i p2 pa fil-me e ke s2 # ty fE a a !
 theophile-14-1_08_08.cha 1 08 08 a u la !
-theophile-14-1_08_08.cha 1 08 08 ty v2 pa k2 Z2 t2 fil m@ fE .
+theophile-14-1_08_08.cha 1 08 08 ty v2 pa k2 Z2 t2 fil m@ fEt .
 theophile-14-1_08_08.cha 1 08 08 a-RjER pa-pa-Rad-zi !
 theophile-14-1_08_08.cha 1 08 08 wi .
 theophile-14-1_08_08.cha 1 08 08 § le R°-mE la .
@@ -39140,7 +39140,7 @@ theophile-14-1_08_08.cha 1 08 08 a la sup !
 theophile-14-1_08_08.cha 1 08 08 se b§ ?
 theophile-14-1_08_08.cha 1 08 08 9m .
 theophile-14-1_08_08.cha 1 08 08 se # !
-theophile-14-1_08_08.cha 1 08 08 § la ly k@ mEm dis mi-nyt l2 livR 5 s2 ma-t5 .
+theophile-14-1_08_08.cha 1 08 08 § la ly k@ mEm di mi-nyt l2 livR 5 s2 ma-t5 .
 theophile-14-1_08_08.cha 1 08 08 9m .
 theophile-14-1_08_08.cha 1 08 08 se bj5 .
 theophile-14-1_08_08.cha 1 08 08 dus-m@ te-o-fil .
@@ -39278,7 +39278,7 @@ theophile-14-1_08_08.cha 1 08 08 wE e p8i l2 mj5 syR-tu .
 theophile-14-1_08_08.cha 1 08 08 wE .
 theophile-14-1_08_08.cha 1 08 08 f5 di-REkt f5 S8i a-le lvwaR # .
 theophile-14-1_08_08.cha 1 08 08 se vRE !
-theophile-14-1_08_08.cha 1 08 08 @ fE il pRo-po z1 tRy k2 y nEs-pEs d2 f§k-sj§ d2 # 2 .
+theophile-14-1_08_08.cha 1 08 08 @ fE til pRo-po z1 tRy k2 y nEs-pEs d2 f§k-sj§ d2 # 2 .
 theophile-14-1_08_08.cha 1 08 08 1 p2 2 , 1 p2 bi-za-Ro-id .
 theophile-14-1_08_08.cha 1 08 08 se # de f5 de , filtR .
 theophile-14-1_08_08.cha 1 08 08 9m 9m .
@@ -39286,7 +39286,7 @@ theophile-14-1_08_08.cha 1 08 08 il s2 pas de zEk-spe-Rj@s fi-zik pa Ri-si .
 theophile-14-1_08_08.cha 1 08 08 9m .
 theophile-14-1_08_08.cha 1 08 08 n§ te-o-fil se kRa-kRa la .
 theophile-14-1_08_08.cha 1 08 08 9m p2 tEtR .
-theophile-14-1_08_08.cha 1 08 08 vwa-la i v2 @ fE me-l@-Ze pa te le-gym SkRwa .
+theophile-14-1_08_08.cha 1 08 08 vwa-la i v2 @ fEt me-l@-Ze pa te le-gym SkRwa .
 theophile-14-1_08_08.cha 1 08 08 9m .
 theophile-14-1_08_08.cha 1 08 08 se sa te-o-fil ?
 theophile-14-1_08_08.cha 1 08 08 j @ na ply la .
@@ -39327,14 +39327,14 @@ theophile-14-1_08_08.cha 1 08 08 mE d@ lk@ # .
 theophile-14-1_08_08.cha 1 08 08 se l2 Z@R d2 , d2 , d2 # ma-nad-Ze mE ko-te # ko-te f§ # katR .
 theophile-14-1_08_08.cha 1 08 08 se mj2 sa ?
 theophile-14-1_08_08.cha 1 08 08 d§k ty R°-pRe-z@ t1 fuR-ni-s9R mE d@ l2 m§d .
-theophile-14-1_08_08.cha 1 08 08 d§k # @ fE se-tE , se-tE se a-vEk # # ki R°-pRe-z@t l2 fuR-ni-s9R d@ l2 m§d .
+theophile-14-1_08_08.cha 1 08 08 d§k # @ fEt se-tE , se-tE se a-vEk # # ki R°-pRe-z@t l2 fuR-ni-s9R d@ l2 m§d .
 theophile-14-1_08_08.cha 1 08 08 i le-tE Ra-ta-Se di-REk-t°-m@ vja # .
 theophile-14-1_08_08.cha 1 08 08 se k2 SpiZ pa .
 theophile-14-1_08_08.cha 1 08 08 b5 o lj2 dEt REs-p§-sab d1 d2 k§-po-z@ yn fa-mij d2 k§-po-z@ .
 theophile-14-1_08_08.cha 1 08 08 wE .
 theophile-14-1_08_08.cha 1 08 08 tE REs-p§-sab d1 fa-bRi-k@ .
 theophile-14-1_08_08.cha 1 08 08 9m a wi da-kOR .
-theophile-14-1_08_08.cha 1 08 08 e ty E 2 l2 R°-pRe-z@-t@ @ fE ty # , ty # .
+theophile-14-1_08_08.cha 1 08 08 e ty E 2 l2 R°-pRe-z@-t@ @ fEt ty # , ty # .
 theophile-14-1_08_08.cha 1 08 08 puR tu # d@ l2 m§d ?
 theophile-14-1_08_08.cha 1 08 08 wE .
 theophile-14-1_08_08.cha 1 08 08 ty # s2 fa-bRi-k@ d@ tRwa ka tR@ d@ lm§d .
@@ -39343,7 +39343,7 @@ theophile-14-1_08_08.cha 1 08 08 ty l2 # pa ty l# ?
 theophile-14-1_08_08.cha 1 08 08 b5 paRs k2 tE pa , # REs-p§-sab d@ l2 s@ su 2 u se syR-tu l2 .
 theophile-14-1_08_08.cha 1 08 08 f5 syR le t@-d@s s2 sa # # ki sRE REs-p§-sa bl2 de # e # mE @-f5 ty paR-ti-sip ty l2 .
 theophile-14-1_08_08.cha 1 08 08 ty syR-vEj tu ski spas .
-theophile-14-1_08_08.cha 1 08 08 ty l2 # kwa ty lR°-pRe-z@ t@ fE .
+theophile-14-1_08_08.cha 1 08 08 ty l2 # kwa ty lR°-pRe-z@ t@ fEt .
 theophile-14-1_08_08.cha 1 08 08 # d@ lOt s@s .
 theophile-14-1_08_08.cha 1 08 08 te-o-fil se bj5 mE tuRn l2 , tuRn l2 .
 theophile-14-1_08_08.cha 1 08 08 ty sE kOm sa .
@@ -39391,7 +39391,7 @@ theophile-14-1_08_08.cha 1 08 08 u la 9m .
 theophile-14-1_08_08.cha 1 08 08 si ty l8i dO n1 p°-ti s8i sil va .
 theophile-14-1_08_08.cha 1 08 08 ta vy tu s2 k2 ty a mi paR-tu .
 theophile-14-1_08_08.cha 1 08 08 5 ko-k5 !
-theophile-14-1_08_08.cha 1 08 08 wE i la @-vi d2 Zwe @ fE .
+theophile-14-1_08_08.cha 1 08 08 wE i la @-vi d2 Zwe @ fEt .
 theophile-14-1_08_08.cha 1 08 08 i la sy-pE R@-vi d2 Zwe .
 theophile-14-1_08_08.cha 1 08 08 kEs k2 ty fE ?
 theophile-14-1_08_08.cha 1 08 08 kEs k2 ty v2 te-o-fil ?
@@ -39807,7 +39807,7 @@ theophile-15-1_09_06.cha 1 09 06 ko-m@ ty di sa pik .
 theophile-15-1_09_06.cha 1 09 06 pik , pik .
 theophile-15-1_09_06.cha 1 09 06 pik , pik .
 theophile-15-1_09_06.cha 1 09 06 il va Et bo gR@ l8i .
-theophile-15-1_09_06.cha 1 09 06 o e le zotR zEl s§ sES , sES , sES .
+theophile-15-1_09_06.cha 1 09 06 o e le zo tREl s§ sES , sES , sES .
 theophile-15-1_09_06.cha 1 09 06 ty va SER-Se t§ ba-l§ te-o-fil ?
 theophile-15-1_09_06.cha 1 09 06 i le d@ la S@bR .
 theophile-15-1_09_06.cha 1 09 06 ty va l2 SER-Se ?
@@ -39874,7 +39874,7 @@ theophile-15-1_09_06.cha 1 09 06 e wi se ka-se sa .
 theophile-15-1_09_06.cha 1 09 06 § va fE Ryn se-@s f5 a-vRil po ZaR-di-naZ .
 theophile-15-1_09_06.cha 1 09 06 § va @ SER-Se de nu-vo .
 theophile-15-1_09_06.cha 1 09 06 e wi il fo le ko-le .
-theophile-15-1_09_06.cha 1 09 06 @ ply ZE aS-te d2 la kO le ZE tu-ZuR pa fE .
+theophile-15-1_09_06.cha 1 09 06 @ plys ZE aS-te d2 la kO le ZE tu-ZuR pa fE .
 theophile-15-1_09_06.cha 1 09 06 wE .
 theophile-15-1_09_06.cha 1 09 06 kOm sa .
 theophile-15-1_09_06.cha 1 09 06 ta vy ?
@@ -40012,7 +40012,7 @@ theophile-15-1_09_06.cha 1 09 06 o wi i a dy skOtS .
 theophile-15-1_09_06.cha 1 09 06 i a dy skOtS .
 theophile-15-1_09_06.cha 1 09 06 fo k2 ty d°-m@ da li-li s2 k2 se .
 theophile-15-1_09_06.cha 1 09 06 ba se a o-li-vje .
-theophile-15-1_09_06.cha 1 09 06 u se a vu , se a vu z@ fE .
+theophile-15-1_09_06.cha 1 09 06 u se a vu , se a vu z@ fEt .
 theophile-15-1_09_06.cha 1 09 06 d°-m@d .
 theophile-15-1_09_06.cha 1 09 06 se a vu .
 theophile-15-1_09_06.cha 1 09 06 a b§ .
@@ -40244,7 +40244,7 @@ theophile-15-1_09_06.cha 1 09 06 o # Z2 m2 pRo-mEn syR le bE-NwaR .
 theophile-15-1_09_06.cha 1 09 06 i i .
 theophile-15-1_09_06.cha 1 09 06 il fo ma-tRa-pe .
 theophile-15-1_09_06.cha 1 09 06 Z2 s8i tRE ko-kin .
-theophile-15-1_09_06.cha 1 09 06 @ ply Z2 fE de so pum .
+theophile-15-1_09_06.cha 1 09 06 @ plys Z2 fE de so pum .
 theophile-15-1_09_06.cha 1 09 06 a-t@-sj§ Op !
 theophile-15-1_09_06.cha 1 09 06 9m 9m # !
 theophile-15-1_09_06.cha 1 09 06 a !
@@ -40835,9 +40835,9 @@ theophile-16-1_10_00.cha 1 10 00 il m2 la Re-gle .
 theophile-16-1_10_00.cha 1 10 00 il ma fE 1 # .
 theophile-16-1_10_00.cha 1 10 00 wE .
 theophile-16-1_10_00.cha 1 10 00 1 bo S°-va-lE d@ le-l@ kil ma o-fER da-j9R s5-pa .
-theophile-16-1_10_00.cha 1 10 00 @ fE il ma o-fER le kORd .
+theophile-16-1_10_00.cha 1 10 00 @ fE til ma o-fER le kORd .
 theophile-16-1_10_00.cha 1 10 00 a-lOR ZE di Z2 v2 pa .
-theophile-16-1_10_00.cha 1 10 00 il ma o-fER le kORd le ply SE R@ ply .
+theophile-16-1_10_00.cha 1 10 00 il ma o-fER le kORd le ply SE R@ plys .
 theophile-16-1_10_00.cha 1 10 00 9m .
 theophile-16-1_10_00.cha 1 10 00 Z2 le za-dO Re Z2 le mE-tE pa paRs k2 se vRE-m@ .
 theophile-16-1_10_00.cha 1 10 00 mE a-lOR se dyn bo-te .
@@ -40848,7 +40848,7 @@ theophile-16-1_10_00.cha 1 10 00 # a-bi-t8e a sa .
 theophile-16-1_10_00.cha 1 10 00 n§ la-v@-taZ si ty v2 .
 theophile-16-1_10_00.cha 1 10 00 d2 tut fa-s§ a m§ na-vi ty ti R°-tRuv paRs ko lj2 k2 sa dyR tRwa mwa sa dyR sis mwa .
 theophile-16-1_10_00.cha 1 10 00 9m .
-theophile-16-1_10_00.cha 1 10 00 d§k le zotR zEl s§ .
+theophile-16-1_10_00.cha 1 10 00 d§k le zo tREl s§ .
 theophile-16-1_10_00.cha 1 10 00 mE se pa l2 mEm s§ 5 .
 theophile-16-1_10_00.cha 1 10 00 9m .
 theophile-16-1_10_00.cha 1 10 00 se 1 t5bR , sa se vRE-m@ .
@@ -41536,7 +41536,7 @@ theophile-16-1_10_00.cha 1 10 00 tj5 .
 theophile-16-1_10_00.cha 1 10 00 a .
 theophile-16-1_10_00.cha 1 10 00 a sEt vwa-ty Ra-lO Ro la la .
 theophile-16-1_10_00.cha 1 10 00 sa va mj2 la .
-theophile-16-1_10_00.cha 1 10 00 ta f5 d2 vwa-ty R@ fE .
+theophile-16-1_10_00.cha 1 10 00 ta f5 d2 vwa-ty R@ fEt .
 theophile-16-1_10_00.cha 1 10 00 va zi .
 theophile-16-1_10_00.cha 1 10 00 e a-vEk le # si-n§ ty va t§-be da-kOR ?
 theophile-16-1_10_00.cha 1 10 00 a-le .
@@ -42163,7 +42163,7 @@ theophile-17-1_11_07.cha 1 11 07 § va pa fER dy ZaR-di-naZ m5t-n@ .
 theophile-17-1_11_07.cha 1 11 07 te-o-fil .
 theophile-17-1_11_07.cha 1 11 07 tE 5k-Rwa-jab twa .
 theophile-17-1_11_07.cha 1 11 07 tE 5k-Rwa-jabl .
-theophile-17-1_11_07.cha 1 11 07 wi mE il fo l2 ku-vERk puR lo @ ply .
+theophile-17-1_11_07.cha 1 11 07 wi mE il fo l2 ku-vERk puR lo @ plys .
 theophile-17-1_11_07.cha 1 11 07 u Es ki le l2 ku-vERkl ?
 theophile-17-1_11_07.cha 1 11 07 i le la .
 theophile-17-1_11_07.cha 1 11 07 § va SER-Se .
@@ -42401,7 +42401,7 @@ theophile-17-1_11_07.cha 1 11 07 wE .
 theophile-17-1_11_07.cha 1 11 07 se b§ me-l@-Ze ?
 theophile-17-1_11_07.cha 1 11 07 tj5 i @ na la ta vy ?
 theophile-17-1_11_07.cha 1 11 07 wE .
-theophile-17-1_11_07.cha 1 11 07 @ ply sa fE l§-t@ ki l@ na pa m@-Ze .
+theophile-17-1_11_07.cha 1 11 07 @ plys sa fE l§-t@ ki l@ na pa m@-Ze .
 theophile-17-1_11_07.cha 1 11 07 9m .
 theophile-17-1_11_07.cha 1 11 07 mEm si se le-te , 9m .
 theophile-17-1_11_07.cha 1 11 07 # fuR-SEt .
@@ -42445,7 +42445,7 @@ theophile-17-1_11_07.cha 1 11 07 vu z@ vu-le ?
 theophile-17-1_11_07.cha 1 11 07 n§ mER-si .
 theophile-17-1_11_07.cha 1 11 07 a-pRE .
 theophile-17-1_11_07.cha 1 11 07 a-pRE ?
-theophile-17-1_11_07.cha 1 11 07 p2 tE tRyn gu t@ fE wE 9m .
+theophile-17-1_11_07.cha 1 11 07 p2 tE tRyn gu t@ fE twE 9m .
 theophile-17-1_11_07.cha 1 11 07 tE op-sER-ve la .
 theophile-17-1_11_07.cha 1 11 07 n§ , n§ , n§ .
 theophile-17-1_11_07.cha 1 11 07 se pa la-Ro-z9 Ra-Ro-ze se l# op-sER-ve .
@@ -42512,7 +42512,7 @@ theophile-17-1_11_07.cha 1 11 07 il fo l2 m@-Ze a-pRE 5 a-pRE te-o-fil .
 theophile-17-1_11_07.cha 1 11 07 m@Z 5 k@ mEm .
 theophile-17-1_11_07.cha 1 11 07 sa fo k§ m@Z mEm si sa a 1 gu daj .
 theophile-17-1_11_07.cha 1 11 07 b§ Z2 l2 m@Z si il fo .
-theophile-17-1_11_07.cha 1 11 07 mwa ZE m@-Ze tu ta l9 R@ fE Se # .
+theophile-17-1_11_07.cha 1 11 07 mwa ZE m@-Ze tu ta l9 R@ fEt Se # .
 theophile-17-1_11_07.cha 1 11 07 a wi se vRE ta de-Za m@-Ze twa .
 theophile-17-1_11_07.cha 1 11 07 § na fi-ni le pa te pi ZE m@-Ze yn sa-lad .
 theophile-17-1_11_07.cha 1 11 07 a wE .
@@ -42673,7 +42673,7 @@ theophile-17-1_11_07.cha 1 11 07 ZE fi-ni la sup mE la fu .
 theophile-17-1_11_07.cha 1 11 07 taR-ti na la sup sa va pa Et bo .
 theophile-17-1_11_07.cha 1 11 07 fo la do-ne o pi-Z§ .
 theophile-17-1_11_07.cha 1 11 07 wE Z2 gaRd tu l2 p5 mE .
-theophile-17-1_11_07.cha 1 11 07 Z2 l2 dO no S°-vo @ fE .
+theophile-17-1_11_07.cha 1 11 07 Z2 l2 dO no S°-vo @ fEt .
 theophile-17-1_11_07.cha 1 11 07 tu l2 .
 theophile-17-1_11_07.cha 1 11 07 paR-fwa l2 p5 dyR Z2 la-mE no ZaR-d5 da-kli-ma-ta-sj§ .
 theophile-17-1_11_07.cha 1 11 07 wa .
@@ -42872,7 +42872,7 @@ theophile-18-1_11_25.cha 1 11 25 se kwa la # ?
 theophile-18-1_11_25.cha 1 11 25 se la , la fuR-SEt .
 theophile-18-1_11_25.cha 1 11 25 se fuR-SE tu ku-pe .
 theophile-18-1_11_25.cha 1 11 25 a !
-theophile-18-1_11_25.cha 1 11 25 se le ku-vE R@ fE .
+theophile-18-1_11_25.cha 1 11 25 se le ku-vE R@ fEt .
 theophile-18-1_11_25.cha 1 11 25 il fo-dRE l8i ku-pe la paRs k2 .
 theophile-18-1_11_25.cha 1 11 25 e # sa # .
 theophile-18-1_11_25.cha 1 11 25 paRs k2 il # .
@@ -43228,7 +43228,7 @@ theophile-18-1_11_25.cha 1 11 25 @t d2 fR@-sE .
 theophile-18-1_11_25.cha 1 11 25 a !
 theophile-18-1_11_25.cha 1 11 25 a m5s !
 theophile-18-1_11_25.cha 1 11 25 § na y de-Za § n@ na sOR-ti 1 de-Za .
-theophile-18-1_11_25.cha 1 11 25 de-Za k2 no S@s s§ mE gR@ na-l@ Zys ko bu si @ ply zi i a 1 ni # !
+theophile-18-1_11_25.cha 1 11 25 de-Za k2 no S@s s§ mE gR@ na-l@ Zys ko bu si @ plyz si i a 1 ni # !
 theophile-18-1_11_25.cha 1 11 25 # ?
 theophile-18-1_11_25.cha 1 11 25 n§ mE Zdi-zE pa sa .
 theophile-18-1_11_25.cha 1 11 25 Zdi-zE k2 i i a bo-ku d2 mat S@t fR@-sE .
@@ -43349,7 +43349,7 @@ theophile-18-1_11_25.cha 1 11 25 se s§ du-du kwa .
 theophile-18-1_11_25.cha 1 11 25 mE d°-p8i k@ ?
 theophile-18-1_11_25.cha 1 11 25 d°-p8i 2 , l§-t@ 5 !
 theophile-18-1_11_25.cha 1 11 25 o ZlE SkRwa pa la-vwaR vy .
-theophile-18-1_11_25.cha 1 11 25 mE se ply se dER-nje t@ kil la d2 ply z@ ply .
+theophile-18-1_11_25.cha 1 11 25 mE se ply se dER-nje t@ kil la d2 ply z@ plys .
 theophile-18-1_11_25.cha 1 11 25 sa fE , syR-tu 1 mwa e d°-mi il l2 kit ply la .
 theophile-18-1_11_25.cha 1 11 25 m5t-n@ il l@-mEn Se la nu-nu , d°-p8i 2 di ZuR .
 theophile-18-1_11_25.cha 1 11 25 i # pa sa ?
@@ -43440,7 +43440,7 @@ theophile-18-1_11_25.cha 1 11 25 i i a ma-me d2 # e ma-mi d2 nis .
 theophile-18-1_11_25.cha 1 11 25 il va a-le vwaR s§ pa-pe .
 theophile-18-1_11_25.cha 1 11 25 b§ i va pa vwaR gR@ pa-pu mE .
 theophile-18-1_11_25.cha 1 11 25 i le u gR@ pa-pu ?
-theophile-18-1_11_25.cha 1 11 25 a # f5 il paR , 2 il pa R@ Z8i-jE Zyst , Zys t@ fE o mo-m@ u mwa Za-Ri va s5 # # .
+theophile-18-1_11_25.cha 1 11 25 a # f5 il paR , 2 il pa R@ Z8i-jE Zyst , Zys t@ fE to mo-m@ u mwa Za-Ri va s5 # # .
 theophile-18-1_11_25.cha 1 11 25 u Es ki va ?
 theophile-18-1_11_25.cha 1 11 25 Z# ply 2 .
 theophile-18-1_11_25.cha 1 11 25 i R°-paR kwa .
@@ -43452,7 +43452,7 @@ theophile-18-1_11_25.cha 1 11 25 tu s2 ki e R§ ?
 theophile-18-1_11_25.cha 1 11 25 se de p°-ti pwa .
 theophile-18-1_11_25.cha 1 11 25 p°-ti pwa .
 theophile-18-1_11_25.cha 1 11 25 i l@ na pa m@-Ze su-v@ d2 pti pwa 5 !
-theophile-18-1_11_25.cha 1 11 25 Z@ fE Za-mE @ fE !
+theophile-18-1_11_25.cha 1 11 25 Z@ fEt Za-mE @ fEt !
 theophile-18-1_11_25.cha 1 11 25 tEm bj5 te-o-fil le p°-ti pwa ?
 theophile-18-1_11_25.cha 1 11 25 o o !
 theophile-18-1_11_25.cha 1 11 25 t@-t@ ?
@@ -43483,13 +43483,13 @@ theophile-18-1_11_25.cha 1 11 25 mwa Z2 s@s k2 ZvE fER # .
 theophile-18-1_11_25.cha 1 11 25 vu , vu za-le fER tut la Rut d1 ku la ?
 theophile-18-1_11_25.cha 1 11 25 wE .
 theophile-18-1_11_25.cha 1 11 25 wE .
-theophile-18-1_11_25.cha 1 11 25 se pa , se pa tRE l§ @ fE 5 .
+theophile-18-1_11_25.cha 1 11 25 se pa , se pa tRE l§ @ fEt 5 .
 theophile-18-1_11_25.cha 1 11 25 § na tut la ZuR-ne .
 theophile-18-1_11_25.cha 1 11 25 § fE tRwa fwa d2 9R .
 theophile-18-1_11_25.cha 1 11 25 tRwa fwa d2 9R .
 theophile-18-1_11_25.cha 1 11 25 e y n9R # .
 theophile-18-1_11_25.cha 1 11 25 pa d@ la-sjEt te-o-fil .
-theophile-18-1_11_25.cha 1 11 25 @ fE se , se sE t9 R@ tu .
+theophile-18-1_11_25.cha 1 11 25 @ fEt se , se sE t9 R@ tu .
 theophile-18-1_11_25.cha 1 11 25 SkRwa-jE kse-tE ply ba mwa .
 theophile-18-1_11_25.cha 1 11 25 ba se 2 § k§t kwa ?
 theophile-18-1_11_25.cha 1 11 25 se ka tR9 Re d°-mi Zys ka # SkRwa .
@@ -43533,7 +43533,7 @@ theophile-18-1_11_25.cha 1 11 25 kEs ki i a ?
 theophile-18-1_11_25.cha 1 11 25 mwa SkRwa kZ vE ka-Re-m@ mku-Se sy-pER to .
 theophile-18-1_11_25.cha 1 11 25 e m2 l°-ve to .
 theophile-18-1_11_25.cha 1 11 25 9m .
-theophile-18-1_11_25.cha 1 11 25 @ ply kOm sa , d°-m5 Sfi-ni d2 se-Se .
+theophile-18-1_11_25.cha 1 11 25 @ plys kOm sa , d°-m5 Sfi-ni d2 se-Se .
 theophile-18-1_11_25.cha 1 11 25 # ta pa d2 stREs ta pa d2 k§-tR5t .
 theophile-18-1_11_25.cha 1 11 25 9m .
 theophile-18-1_11_25.cha 1 11 25 mE b§ .
@@ -43777,7 +43777,7 @@ theophile-19-2_00_20.cha 2 00 20 i a le vwa-tyR ty sE d2 .
 theophile-19-2_00_20.cha 2 00 20 i a-vE sEl si § la-vE am-ne mE i a-vE le gR@d vwa-tyR , d@ l2 ZaR-d5 .
 theophile-19-2_00_20.cha 2 00 20 d§ ki mE la kle i mE l2 k§-tak ti tuRn l2 vo-l@ 2 .
 theophile-19-2_00_20.cha 2 00 20 a i la-dOR !
-theophile-19-2_00_20.cha 2 00 20 @ ply zi sde-bRuj bj5 kwa ty l8i lEs l2 vo-l@ .
+theophile-19-2_00_20.cha 2 00 20 @ plyz si sde-bRuj bj5 kwa ty l8i lEs l2 vo-l@ .
 theophile-19-2_00_20.cha 2 00 20 ty R°-ko-nE la vwa-tyR d2 ma-dam # !
 theophile-19-2_00_20.cha 2 00 20 e-te !
 theophile-19-2_00_20.cha 2 00 20 ta vy E le RuZ !
@@ -44119,7 +44119,7 @@ theophile-19-2_00_20.cha 2 00 20 te-o-fil le gR@ .
 theophile-19-2_00_20.cha 2 00 20 te-o-fi le-kut mwa !
 theophile-19-2_00_20.cha 2 00 20 le gR@ # , se d@-ZR2 .
 theophile-19-2_00_20.cha 2 00 20 ty p2 t2 ku-pe a-vEk .
-theophile-19-2_00_20.cha 2 00 20 @ ply ty ku-pE la pOR te tu se pa bj5 .
+theophile-19-2_00_20.cha 2 00 20 @ plys ty ku-pE la pOR te tu se pa bj5 .
 theophile-19-2_00_20.cha 2 00 20 te-o-fil d°-p8i k2 StE Re-ky-pe-Re ta-REt pa dpl2-Re !
 theophile-19-2_00_20.cha 2 00 20 se pa kul sa !
 theophile-19-2_00_20.cha 2 00 20 a-le a-le , a-le .
@@ -44516,7 +44516,7 @@ theophile-20-2_02_08.cha 2 02 08 ty sE k2 ma p°-tit fij El sa-pEl ko-l§b .
 theophile-20-2_02_08.cha 2 02 08 El sa-pEl # ki v2 diR ko-l§b .
 theophile-20-2_02_08.cha 2 02 08 a wi .
 theophile-20-2_02_08.cha 2 02 08 s§ , s§ pa-pe la am-ne , s§ pa-pe la am-ne la ba puR m@-Ze de ta-pas .
-theophile-20-2_02_08.cha 2 02 08 paRs k@ fE i le fu d2 pul pe d2 tRyk kOm sa te-o-fil .
+theophile-20-2_02_08.cha 2 02 08 paRs k@ fE ti le fu d2 pul pe d2 tRyk kOm sa te-o-fil .
 theophile-20-2_02_08.cha 2 02 08 a-lO Ril la am-ne Ek-spRE i le-tE o z@ Zil l8i a # de vwa-tyR .
 theophile-20-2_02_08.cha 2 02 08 @-f5 b§ il se bj5 fE ga-te paR pa-pi e # .
 theophile-20-2_02_08.cha 2 02 08 sy-pER !
@@ -44541,7 +44541,7 @@ theophile-20-2_02_08.cha 2 02 08 dy .
 theophile-20-2_02_08.cha 2 02 08 ko-ki-nu .
 theophile-20-2_02_08.cha 2 02 08 ke k2 ty lEm s2 p5 5 .
 theophile-20-2_02_08.cha 2 02 08 il lEm bj5 5 .
-theophile-20-2_02_08.cha 2 02 08 St lEs paR-le d2 mi-ny t@ ply ty fE mj2 ty @-tREn mj2 l2 dja-lOg .
+theophile-20-2_02_08.cha 2 02 08 St lEs paR-le d2 mi-ny t@ plys ty fE mj2 ty @-tREn mj2 l2 dja-lOg .
 theophile-20-2_02_08.cha 2 02 08 se bj5 d2 m@-Ze d°-OR kOm sa ty fE pa d2 mjEt d°-d@ .
 theophile-20-2_02_08.cha 2 02 08 se ply pRa-tik .
 theophile-20-2_02_08.cha 2 02 08 si-n§ # d°-m@-de a m@-Ze mwa .
@@ -44580,7 +44580,7 @@ theophile-20-2_02_08.cha 2 02 08 2 l2 Z2-di , kEs k2 t2 ko-m@ sa maRS puR vu l2 
 theophile-20-2_02_08.cha 2 02 08 a s5 k9R .
 theophile-20-2_02_08.cha 2 02 08 da-kO Ra-lOR Z2 nO ta paR-ti d2 s5 k9R 5 o-ke .
 theophile-20-2_02_08.cha 2 02 08 kEs k2 ty v2 ?
-theophile-20-2_02_08.cha 2 02 08 a-lOR kOm sa @ fE ZvE a-ple la paRs k2 il mm@ k@-kO Ry ne-lEv .
+theophile-20-2_02_08.cha 2 02 08 a-lOR kOm sa @ fEt ZvE a-ple la paRs k2 il mm@ k@-kO Ry ne-lEv .
 theophile-20-2_02_08.cha 2 02 08 e p8i @ f§k-sj§ d2 sa swa § fE l2 mER-kR°-di di s8i t9R swa maR-di swa l2 Z2-di .
 theophile-20-2_02_08.cha 2 02 08 wE .
 theophile-20-2_02_08.cha 2 02 08 e si-n§ paR-d§ se m§ fis .
@@ -44618,10 +44618,10 @@ theophile-20-2_02_08.cha 2 02 08 i le d2 k@ ?
 theophile-20-2_02_08.cha 2 02 08 pR°-mje maRs .
 theophile-20-2_02_08.cha 2 02 08 la se pRe-vy puR l2 sis maRs ty vwa mE b§ sa p2 EtR .
 theophile-20-2_02_08.cha 2 02 08 b§ ba .
-theophile-20-2_02_08.cha 2 02 08 e d§k SpR@-dRE @ fE Sp@s Z2 ma-RE-tRE o va-k@s d2 fe-vRi-je mwa si Z2 tj5 bj5 .
+theophile-20-2_02_08.cha 2 02 08 e d§k SpR@-dRE @ fEt Sp@s Z2 ma-RE-tRE o va-k@s d2 fe-vRi-je mwa si Z2 tj5 bj5 .
 theophile-20-2_02_08.cha 2 02 08 e kO m§ p2 le pR@d kO m§ v2 m5t-n@ .
 theophile-20-2_02_08.cha 2 02 08 e paR k§t Z2 R°-ko-m@-sRE ply to @ mE .
-theophile-20-2_02_08.cha 2 02 08 ski e bj5 paRs k2 @ fE i a pl5 d2 va-k@s .
+theophile-20-2_02_08.cha 2 02 08 ski e bj5 paRs k2 @ fE ti a pl5 d2 va-k@s .
 theophile-20-2_02_08.cha 2 02 08 ta le va-k@s d2 fe-vRi-je ta le va-k@s da-vRil .
 theophile-20-2_02_08.cha 2 02 08 wE mE se pa bj5 puR twa .
 theophile-20-2_02_08.cha 2 02 08 mE si se sy-pER paRs k2 Z2 pRe-fER pa tRo lu-pe mwa ty vwa d2 kuR .
@@ -44873,7 +44873,7 @@ theophile-20-2_02_08.cha 2 02 08 do-maZ k@ Z@-sEN Z@ nE tu-Zu R1 d@ m§ sak .
 theophile-20-2_02_08.cha 2 02 08 p8i la kOm Z@-sEN pa .
 theophile-20-2_02_08.cha 2 02 08 o la la ty fE 1 so-lEj la .
 theophile-20-2_02_08.cha 2 02 08 tu la o , tu la o ?
-theophile-20-2_02_08.cha 2 02 08 wE @ ply zil maRS pa tRE bj5 .
+theophile-20-2_02_08.cha 2 02 08 wE @ ply sil maRS pa tRE bj5 .
 theophile-20-2_02_08.cha 2 02 08 § fE 1 so-lEj u la la .
 theophile-20-2_02_08.cha 2 02 08 1 no tRwi i @ na 1 notR .
 theophile-20-2_02_08.cha 2 02 08 sa se s§ mo fa-vo-Ri 1 notR .
@@ -44905,7 +44905,7 @@ theophile-20-2_02_08.cha 2 02 08 mE # # Z2 vE e-se-je d2 fER ply to k@ Z2 p2 .
 theophile-20-2_02_08.cha 2 02 08 se kEl ZuR t§ n@-sEN-m@ l2 Z2-di e kwa dotR ?
 theophile-20-2_02_08.cha 2 02 08 mER-kR°-di Z2-di e 1 tu p°-ti p2 maR-di mE l2 maR-di Z2 # @ sORt d2 R@-tRe to Zys-t°-m@ .
 theophile-20-2_02_08.cha 2 02 08 p8i ty va a-vwaR tu tyn pe-RjO da la mE-z§ la @ fe-vRi-je .
-theophile-20-2_02_08.cha 2 02 08 wi @ ply Zo-RE ply d2 kuR .
+theophile-20-2_02_08.cha 2 02 08 wi @ plys Zo-RE ply d2 kuR .
 theophile-20-2_02_08.cha 2 02 08 d§k sa s2 # sy-pER .
 theophile-20-2_02_08.cha 2 02 08 wE se .
 theophile-20-2_02_08.cha 2 02 08 ta pa fE ka-ka te-o-fil ?
@@ -45043,7 +45043,7 @@ theophile-20-2_02_08.cha 2 02 08 i a y n1 na-t°-lje d2 .
 theophile-20-2_02_08.cha 2 02 08 Spa kEs ki f§ de # .
 theophile-20-2_02_08.cha 2 02 08 i a y 1 na-t°-lje d2 Z2 sE pa kEs ki f§ de za-s@-blaZ k§-po-zi-sj§ El ma di il s2 Re-gal .
 theophile-20-2_02_08.cha 2 02 08 il REst ty vwa d2 9R .
-theophile-20-2_02_08.cha 2 02 08 il p9v fER pl5 da-s@-bla Z@ fE i la-dOR sa .
+theophile-20-2_02_08.cha 2 02 08 il p9v fER pl5 da-s@-bla Z@ fE ti la-dOR sa .
 theophile-20-2_02_08.cha 2 02 08 a-lO Ri le tu k§-t@ .
 theophile-20-2_02_08.cha 2 02 08 il z§ yn sal do o-si .
 theophile-20-2_02_08.cha 2 02 08 a-vEk de dZEt do ty vwa il le mE t@ ma-jo e tu .
@@ -45193,7 +45193,7 @@ theophile-20-2_02_08.cha 2 02 08 a-t@ mE ko-m@ El s2 tj5 .
 theophile-20-2_02_08.cha 2 02 08 ba .
 theophile-20-2_02_08.cha 2 02 08 o o .
 theophile-20-2_02_08.cha 2 02 08 a sa i e .
-theophile-20-2_02_08.cha 2 02 08 a-t@ mE @ fE ZE k§-pRi .
+theophile-20-2_02_08.cha 2 02 08 a-t@ mE @ fEt ZE k§-pRi .
 theophile-20-2_02_08.cha 2 02 08 El tuR nEl va d@ l2 tRu e kO mEl kO l1 p2 .
 theophile-20-2_02_08.cha 2 02 08 o la la .
 theophile-20-2_02_08.cha 2 02 08 Z2 sE pa si Z2 vE i a-Ri-ve .
@@ -45622,7 +45622,7 @@ theophile-21-2_03_01.cha 2 03 01 i la fE 2 , pa ta # .
 theophile-21-2_03_01.cha 2 03 01 p8i se , se s2 Z2 la SE ply ko-m@ il sa-pEl .
 theophile-21-2_03_01.cha 2 03 01 a-lO Ra-t@ # fE sa .
 theophile-21-2_03_01.cha 2 03 01 di d§k ta pRi 1 sa-kRe bu StE do-ne 1 gRo bu d2 p5 5 .
-theophile-21-2_03_01.cha 2 03 01 e p8i a-lO R@ ply zi a @ d2 d§k se tRE 2 .
+theophile-21-2_03_01.cha 2 03 01 e p8i a-lO R@ plyz si a @ d2 d§k se tRE 2 .
 theophile-21-2_03_01.cha 2 03 01 mE i la-dOR 5 se vRE-m@ l2 Ri-t8El .
 theophile-21-2_03_01.cha 2 03 01 wE .
 theophile-21-2_03_01.cha 2 03 01 se vRE kil m@Z ply bo-ku a-pRE !
@@ -45687,7 +45687,7 @@ theophile-21-2_03_01.cha 2 03 01 o la fo kSpREn me tRyk Zle zE u-bli-je la .
 theophile-21-2_03_01.cha 2 03 01 o la e dy ku sa va ta t°-ny lku ?
 theophile-21-2_03_01.cha 2 03 01 wE # , sa va !
 theophile-21-2_03_01.cha 2 03 01 tu ds8it ty # .
-theophile-21-2_03_01.cha 2 03 01 b5 # @ fE Rj5 a vwaR !
+theophile-21-2_03_01.cha 2 03 01 b5 # @ fEt Rj5 a vwaR !
 theophile-21-2_03_01.cha 2 03 01 # ta 1 pRo-blEm d2 .
 theophile-21-2_03_01.cha 2 03 01 i la So-pe i la y maR-di mER-kR°-di yn gRi p5-tEs-ti-na l1 tRyk kOm sa d2 fo-li mE sa la k§-plEt-m@ .
 theophile-21-2_03_01.cha 2 03 01 mE l8i o-si .
@@ -45704,7 +45704,7 @@ theophile-21-2_03_01.cha 2 03 01 # mER-kR°-di pa-REj .
 theophile-21-2_03_01.cha 2 03 01 u la a-t@-sj§ te-o-fi li a pl5 d2 Soz la d°-d@ .
 theophile-21-2_03_01.cha 2 03 01 d§k se-tE p2 tEt la buf d2 # .
 theophile-21-2_03_01.cha 2 03 01 ty p2 mEt la ly-mjER ?
-theophile-21-2_03_01.cha 2 03 01 a n§ mE se pa la bu f@ fE se , 2 se 1 tRyk ki e d@ lER se 1 vi-Rys .
+theophile-21-2_03_01.cha 2 03 01 a n§ mE se pa la bu f@ fEt se , 2 se 1 tRyk ki e d@ lER se 1 vi-Rys .
 theophile-21-2_03_01.cha 2 03 01 se 1 vi-Rys 5 i a de vi-Ry s@ s2 mo-m@ .
 theophile-21-2_03_01.cha 2 03 01 paRs k2 mwa ZE , ZE m@-Ze o d@ z1 REs-to baR d2 la Ry # e Z2 sE k2 se 1 pla ki e-tE k2 ZE pa a-pRe-sje 2 syR l2 , syR l2 mo-m@ .
 theophile-21-2_03_01.cha 2 03 01 a sa sa p2 a-Ri-ve o-si .
@@ -45721,7 +45721,7 @@ theophile-21-2_03_01.cha 2 03 01 wE se twa ki a am-ne sa la ?
 theophile-21-2_03_01.cha 2 03 01 di-m@ S§ fRa 1 ga-to .
 theophile-21-2_03_01.cha 2 03 01 5 ty sE sa § se puR fER le ga-to sa .
 theophile-21-2_03_01.cha 2 03 01 ty sE fER le ga-to ?
-theophile-21-2_03_01.cha 2 03 01 n§ mE Zys-t°-m@ ZE di k§ n@ # 1 nil # a fE yn fwa a-vEk # .
+theophile-21-2_03_01.cha 2 03 01 n§ mE Zys-t°-m@ ZE di k§ n@ # 1 il # a fE yn fwa a-vEk # .
 theophile-21-2_03_01.cha 2 03 01 a !
 theophile-21-2_03_01.cha 2 03 01 i la-vE bj5 e-me .
 theophile-21-2_03_01.cha 2 03 01 d§ k2 .
@@ -45811,7 +45811,7 @@ theophile-21-2_03_01.cha 2 03 01 p8i ZE o-R9R d2 sa ZE fE ZE e-te o-bli-Ze d2 m�
 theophile-21-2_03_01.cha 2 03 01 wE .
 theophile-21-2_03_01.cha 2 03 01 # mE li-mit ty sE k@ tE k@ ty sE ply kwa fER .
 theophile-21-2_03_01.cha 2 03 01 i te-nERv kwa .
-theophile-21-2_03_01.cha 2 03 01 dy ku Zm2 s8i a-siz li-mit pl2-Re Ze-tE kR°-ve @ ply !
+theophile-21-2_03_01.cha 2 03 01 dy ku Zm2 s8i a-siz li-mit pl2-Re Ze-tE kR°-ve @ plys !
 theophile-21-2_03_01.cha 2 03 01 b5 te-o-fil .
 theophile-21-2_03_01.cha 2 03 01 e a-pRE ni-kE le la ba l2 ZaR-d5 mE i la fE yn kRi zil vu-lE pa i a-le .
 theophile-21-2_03_01.cha 2 03 01 il ma Za-mE fE sa a s2 pw5 .
@@ -45829,7 +45829,7 @@ theophile-21-2_03_01.cha 2 03 01 Z2 sE pa il # pa paR-tiR .
 theophile-21-2_03_01.cha 2 03 01 puR-kwa ty fE de zis-twaR te-o-fil ?
 theophile-21-2_03_01.cha 2 03 01 puR-t@ § na pRi l2 t@ ti-ma-Zin mwa Z2 vu-lE paR-ti Ra § z9R mw5 l2 ka R§ ne paR-ti a # .
 theophile-21-2_03_01.cha 2 03 01 ti-ma-Zin si § ne-tE pRe-se ?
-theophile-21-2_03_01.cha 2 03 01 mE wi la mE SkRwa ki s@-tE @ fE kOm Ze-tE tRE ku lil s@-tE k§ ne-tE k2 se-tE 1 p2 va-k@s s2 ma-t5 e @ na bj5 pRo-fi-te 5 .
+theophile-21-2_03_01.cha 2 03 01 mE wi la mE SkRwa ki s@-tE @ fEt kOm Ze-tE tRE ku lil s@-tE k§ ne-tE k2 se-tE 1 p2 va-k@s s2 ma-t5 e @ na bj5 pRo-fi-te 5 .
 theophile-21-2_03_01.cha 2 03 01 5 te-o-fil .
 theophile-21-2_03_01.cha 2 03 01 @ f5 si se puR fER d2 la lyt dE k§ l@-mEn .
 theophile-21-2_03_01.cha 2 03 01 e p8i mwa Sp2 pa i la yn fORs ty vwa se 2 .
@@ -45856,9 +45856,9 @@ theophile-21-2_03_01.cha 2 03 01 aj aj aj aj aj !
 theophile-21-2_03_01.cha 2 03 01 # sa va R@-tRe le tRwa do-Rad ?
 theophile-21-2_03_01.cha 2 03 01 a wE El s§ gRos .
 theophile-21-2_03_01.cha 2 03 01 9m , ty v2 m@-Ze ?
-theophile-21-2_03_01.cha 2 03 01 El ma do-ne de m§s tR@ fE Z2 Re-a-liz paRs k2 # do-Rad Z2 sE pa si El v§ R@-tRe .
+theophile-21-2_03_01.cha 2 03 01 El ma do-ne de m§s tR@ fEt Z2 Re-a-liz paRs k2 # do-Rad Z2 sE pa si El v§ R@-tRe .
 theophile-21-2_03_01.cha 2 03 01 sa fE bo-ku d@ l2 mEm pla la .
-theophile-21-2_03_01.cha 2 03 01 Sp2 @ mEt d2 @ fE .
+theophile-21-2_03_01.cha 2 03 01 Sp2 @ mEt d2 @ fEt .
 theophile-21-2_03_01.cha 2 03 01 e Es k2 d2 pla o fuR sa maRS ?
 theophile-21-2_03_01.cha 2 03 01 wE @ sE-R@ sa d°-vRE a-le .
 theophile-21-2_03_01.cha 2 03 01 El s§ bEl 5 .
@@ -45893,7 +45893,7 @@ theophile-21-2_03_01.cha 2 03 01 9m dy gRa-t5 dy # !
 theophile-21-2_03_01.cha 2 03 01 kwa ?
 theophile-21-2_03_01.cha 2 03 01 kEs ki la ?
 theophile-21-2_03_01.cha 2 03 01 kEs k2 ta ?
-theophile-21-2_03_01.cha 2 03 01 ty v2 Zwe a la pOR t@ fE !
+theophile-21-2_03_01.cha 2 03 01 ty v2 Zwe a la pOR t@ fEt !
 theophile-21-2_03_01.cha 2 03 01 wE .
 theophile-21-2_03_01.cha 2 03 01 wE # , lEs # , # k2 , l2 fRi-go fo pa ki REs tu-vER .
 theophile-21-2_03_01.cha 2 03 01 e Zu pa o gRo bRa a-vEk mwa te-o-fil .
@@ -46058,7 +46058,7 @@ theophile-21-2_03_01.cha 2 03 01 se bj5 mE fo 1 sa-kRe 2 , sa-kRe mu-li-nE d2 pw
 theophile-21-2_03_01.cha 2 03 01 e wi !
 theophile-21-2_03_01.cha 2 03 01 # k2 ko-m@ ty va fER puR le-Se le pla k@ ty va fER le ga-to ?
 theophile-21-2_03_01.cha 2 03 01 fo Ra-kle 5 ?
-theophile-21-2_03_01.cha 2 03 01 ZvE ptEt fER sa @ fE di-m@S ZvE l8i m§-tRe .
+theophile-21-2_03_01.cha 2 03 01 ZvE ptEt fER sa @ fEt di-m@S ZvE l8i m§-tRe .
 theophile-21-2_03_01.cha 2 03 01 a ty va l8i m§-tRe !
 theophile-21-2_03_01.cha 2 03 01 ty l8i fE a-vE kyn p°-tit k8i-jER pa a-vEk le dwa kOm sa il pR@ la-bi-tyd .
 theophile-21-2_03_01.cha 2 03 01 fo k§ fas de kREp tj5 .
@@ -46175,7 +46175,7 @@ theophile-21-2_03_01.cha 2 03 01 wi # .
 theophile-21-2_03_01.cha 2 03 01 El ma di @ mEm t@ .
 theophile-21-2_03_01.cha 2 03 01 a b§ ?
 theophile-21-2_03_01.cha 2 03 01 mwa SfE tu-ZuR le le-gy m1 p2 a-v@ .
-theophile-21-2_03_01.cha 2 03 01 mwa Sf°-RE le le-gy ma-v@ paRs k2 la @ ply .
+theophile-21-2_03_01.cha 2 03 01 mwa Sf°-RE le le-gy ma-v@ paRs k2 la @ plys .
 theophile-21-2_03_01.cha 2 03 01 b§ a-lOR ZvE fER So-fe l2 fuR .
 theophile-21-2_03_01.cha 2 03 01 si il s§ pa # .
 theophile-21-2_03_01.cha 2 03 01 sa va Et kRo-k@ kwa .
@@ -46186,7 +46186,7 @@ theophile-21-2_03_01.cha 2 03 01 ZmE-tRE l2 f§ d2 le-gy mwE .
 theophile-21-2_03_01.cha 2 03 01 se gas-tRo-no-mik 5 tu sa te-o-fil .
 theophile-21-2_03_01.cha 2 03 01 ski l5-te-REs se lu-vER-tyR d2 la bwat d2 vaS ki Ri .
 theophile-21-2_03_01.cha 2 03 01 sa me-tOn pa se kOm le , # i la-dO Ru-vRiR le # .
-theophile-21-2_03_01.cha 2 03 01 # sde-bRuj vaS-m@ bj5 @ ply .
+theophile-21-2_03_01.cha 2 03 01 # sde-bRuj vaS-m@ bj5 @ plys .
 theophile-21-2_03_01.cha 2 03 01 kEs k§ fE a-vEk s2 plas-tik ?
 theophile-21-2_03_01.cha 2 03 01 i le paR-ti bum !
 theophile-21-2_03_01.cha 2 03 01 b§ a-lOR sa fE l§-t@ kZE pa pRa-ti-ke 5 !
@@ -46391,7 +46391,7 @@ theophile-21-2_03_01.cha 2 03 01 se k@ t§ ta pRo-SEn # ?
 theophile-21-2_03_01.cha 2 03 01 2 l# l2 v5 2 d2 .
 theophile-21-2_03_01.cha 2 03 01 yn # l2 dis sEt .
 theophile-21-2_03_01.cha 2 03 01 t@ pi ZE pa Re-y-si a Z2 R°-vj5-dRE l8i m§-tRe mE paRs k2 l8i il slE va pEn d2 fo-li e Z2 v2 ap-so-ly-m@ kil swa la a-lOR .
-theophile-21-2_03_01.cha 2 03 01 mE Z2 R°-vj5-dRE l8i m§-te @ ply ma Zi-ne-ko E le sy-pER dy Ra , a a-vwa Ra-lOR Z2 m2 s8i di Z2 vE pa la .
+theophile-21-2_03_01.cha 2 03 01 mE Z2 R°-vj5-dRE l8i m§-te @ plys ma Zi-ne-ko E le sy-pER dy Ra , a a-vwa Ra-lOR Z2 m2 s8i di Z2 vE pa la .
 theophile-21-2_03_01.cha 2 03 01 a kw5-se .
 theophile-21-2_03_01.cha 2 03 01 Z2 vE pa le-se pa-se sa .
 theophile-21-2_03_01.cha 2 03 01 s9l-m@ Z@ na-vE y na-v@ mE s@ fR@-swaz .
@@ -46400,7 +46400,7 @@ theophile-21-2_03_01.cha 2 03 01 se vRE-m@ a-gRe-ab sEt pRe-z@s de fl9R .
 theophile-21-2_03_01.cha 2 03 01 a wi ZE b°-zw5 la syR-tu k@ til fE pa bo .
 theophile-21-2_03_01.cha 2 03 01 il f°-zE gRi s2 # # se-tE o-Ri bla le de-by d2 ty sE s2 .
 theophile-21-2_03_01.cha 2 03 01 l2 # # dER-nje ?
-theophile-21-2_03_01.cha 2 03 01 n§ l1-di , l1-di maR-di e a-lO R@ ply se-tE @-bj@ si la-vE la gRip ty vwa i le-tE klu-e il f°-zE .
+theophile-21-2_03_01.cha 2 03 01 n§ l1-di , l1-di maR-di e a-lO R@ plys se-tE @-bj@ si la-vE la gRip ty vwa i le-tE klu-e il f°-zE .
 theophile-21-2_03_01.cha 2 03 01 il f°-zE gRi luR Zm2 s8i di u § va e-ge-je tu sa .
 theophile-21-2_03_01.cha 2 03 01 la fl9R te-Ra-pi .
 theophile-21-2_03_01.cha 2 03 01 a wi Eg-zak-t°-m@ .
@@ -46413,7 +46413,7 @@ theophile-21-2_03_01.cha 2 03 01 wi mE mwa ski i a a-vEk le fl9R se k2 Za-Riv pa
 theophile-21-2_03_01.cha 2 03 01 wi mE mwa El # k5z Zu Ra-vEk l2 maR-Se .
 theophile-21-2_03_01.cha 2 03 01 e puR-t@ il fo si Re-zi-Ne .
 theophile-21-2_03_01.cha 2 03 01 kO mEl s§ .
-theophile-21-2_03_01.cha 2 03 01 paRs kEl s§ de-Za mOR t@ fE .
+theophile-21-2_03_01.cha 2 03 01 paRs kEl s§ de-Za mOR t@ fEt .
 theophile-21-2_03_01.cha 2 03 01 mE b§ kO mEl m9R d2 tut ma-njER .
 theophile-21-2_03_01.cha 2 03 01 # mEm syR l2 .
 theophile-21-2_03_01.cha 2 03 01 wE Zi a-Riv mj2 a-vEk le fl9R Zys-t°-m@ le pl@t d2 tut fa-s§ El viv l§-t@ e le fl9 REl m9 Ro-si .
@@ -46998,7 +46998,7 @@ theophile-22-2_04_05.cha 2 04 05 bRa-vo !
 theophile-22-2_04_05.cha 2 04 05 @-kOR ?
 theophile-22-2_04_05.cha 2 04 05 a-t@ a n§ o la da-kOR .
 theophile-22-2_04_05.cha 2 04 05 a-le va zi @-kOR se twa .
-theophile-22-2_04_05.cha 2 04 05 o di d§ kEl d°-vj5 d2 ply z@ ply gRos .
+theophile-22-2_04_05.cha 2 04 05 o di d§ kEl d°-vj5 d2 ply z@ plys gRos .
 theophile-22-2_04_05.cha 2 04 05 wE sy-pER .
 theophile-22-2_04_05.cha 2 04 05 wi !
 theophile-22-2_04_05.cha 2 04 05 sy-pER te-o-fil .
@@ -47233,7 +47233,7 @@ theophile-22-2_04_05.cha 2 04 05 o # syR mwa o !
 theophile-22-2_04_05.cha 2 04 05 te-o-fil syR ma-m@ u .
 theophile-22-2_04_05.cha 2 04 05 # !
 theophile-22-2_04_05.cha 2 04 05 a-t@-sj§ a-vEk l2 ku-to k@ mEm 5 .
-theophile-22-2_04_05.cha 2 04 05 ga-li-pE ta-t@-sj§ tj5 poz le z§ poz sa la Zyst la .
+theophile-22-2_04_05.cha 2 04 05 ga-li-pE ta-t@-sj§ tj5 poz le § poz sa la Zyst la .
 theophile-22-2_04_05.cha 2 04 05 Zle mE Zyst la .
 theophile-22-2_04_05.cha 2 04 05 wE mE § p2 pa fER d2 ga-li-pE ta-vEk .
 theophile-22-2_04_05.cha 2 04 05 si-n§ § va s2 ku-pe .
@@ -47647,7 +47647,7 @@ theophile-23-2_04_29.cha 2 04 29 § s2 de-za-bij te-o-fil ?
 theophile-23-2_04_29.cha 2 04 29 5 Sp@s ki a t§-t§ ki va pa taR-de a a-Ri-ve .
 theophile-23-2_04_29.cha 2 04 29 o i a t§-t§ s2 swaR ?
 theophile-23-2_04_29.cha 2 04 29 wE il vj5 tu le di-m@S l1-di .
-theophile-23-2_04_29.cha 2 04 29 paRs ki le ty sE i le dZaz-ma n@ fE e la i le R@-tRe d@ lsi kl2 pRo-fE-sjo-nEl la d2 , d2 dZa za # .
+theophile-23-2_04_29.cha 2 04 29 paRs ki le ty sE i le dZaz-ma n@ fE te la i le R@-tRe d@ lsi kl2 pRo-fE-sjo-nEl la d2 , d2 dZa za # .
 theophile-23-2_04_29.cha 2 04 29 d§k kOm sa il s2 pER-fEk-sjO na-vE ki a 1 sy-pER pROf .
 theophile-23-2_04_29.cha 2 04 29 e d§ kil , e wi t§ t§-t§ !
 theophile-23-2_04_29.cha 2 04 29 d§k m5t-n@ il vj5 Sak s°-mE ni la kuR l2 l1-di .
@@ -48152,7 +48152,7 @@ theophile-23-2_04_29.cha 2 04 29 El s§ d°-d@ n§ ?
 theophile-23-2_04_29.cha 2 04 29 i li a de pjEs .
 theophile-23-2_04_29.cha 2 04 29 Es k2 ta mi le tRwa pjEs d°-d@ ?
 theophile-23-2_04_29.cha 2 04 29 n§ i @ na yn .
-theophile-23-2_04_29.cha 2 04 29 yn d@ lo e le zotR zEl s§ u ?
+theophile-23-2_04_29.cha 2 04 29 yn d@ lo e le zo tREl s§ u ?
 theophile-23-2_04_29.cha 2 04 29 a ba El s§ ply la El s§ u le zotR ?
 theophile-23-2_04_29.cha 2 04 29 El s§ u le zot te-o-fil ?
 theophile-23-2_04_29.cha 2 04 29 la i @ na y ne le d2 otR ?
@@ -48245,7 +48245,7 @@ theophile-23-2_04_29.cha 2 04 29 pl5 d2 So za m@-Ze la .
 theophile-23-2_04_29.cha 2 04 29 ba .
 theophile-23-2_04_29.cha 2 04 29 pa tRo sE to ty sE 5 ko-k5 .
 theophile-23-2_04_29.cha 2 04 29 n§ , n§ , n§ pa tRo sE to .
-theophile-23-2_04_29.cha 2 04 29 ko-k5 ty l2 sE @ ply .
+theophile-23-2_04_29.cha 2 04 29 ko-k5 ty l2 sE @ plys .
 theophile-23-2_04_29.cha 2 04 29 wi se b§ mE se sE to la k2 ty p2 .
 theophile-23-2_04_29.cha 2 04 29 sEl la .
 theophile-23-2_04_29.cha 2 04 29 sEl la ty p2 R°-gaRd .
@@ -48352,7 +48352,7 @@ theophile-23-2_04_29.cha 2 04 29 i le u , i le u , i le u o .
 theophile-23-2_04_29.cha 2 04 29 il s2 kaS su l2 le-za Ri le a-le diR b§-Zu Ro le-zaR .
 theophile-23-2_04_29.cha 2 04 29 b§-ZuR p°-ti le-zaR .
 theophile-23-2_04_29.cha 2 04 29 a Z2 vE # vER te-o-fil # sa i e Z2 s8i R°v-ny syR l2 ne .
-theophile-23-2_04_29.cha 2 04 29 o la la i l@ fE de vwa-ja Zi l@ fE .
+theophile-23-2_04_29.cha 2 04 29 o la la i l@ fEt de vwa-ja Zi l@ fEt .
 theophile-23-2_04_29.cha 2 04 29 u Es ki le a-le .
 theophile-23-2_04_29.cha 2 04 29 tu t@ o d2 la tuR d2 la Zi-Ra fo o .
 theophile-23-2_04_29.cha 2 04 29 o Z2 m2 poz syR l2 pje .
@@ -48488,7 +48488,7 @@ theophile-23-2_04_29.cha 2 04 29 St2 # .
 theophile-23-2_04_29.cha 2 04 29 a a a .
 theophile-23-2_04_29.cha 2 04 29 § di-RE k2 sa s@ la taRt n§ # ?
 theophile-23-2_04_29.cha 2 04 29 n§ E la fE se le .
-theophile-23-2_04_29.cha 2 04 29 Sak fwa @ fE Zi lil R°-vj5 a-vE k1 pti pla k2 fE 2 # .
+theophile-23-2_04_29.cha 2 04 29 Sak fwa @ fEt Zi lil R°-vj5 a-vE k1 pti pla k2 fE 2 # .
 theophile-23-2_04_29.cha 2 04 29 a da-kOR .
 theophile-23-2_04_29.cha 2 04 29 d§k Sak s°-mE n§ na dRwa a 1 pti pla mE-z§ e la se de z@-di v2 o Z@-b§ Z2 kRwa .
 theophile-23-2_04_29.cha 2 04 29 ku-ku , Z2 vE ta-tRa-pe la , la ROb d2 S@bR .
@@ -48573,7 +48573,7 @@ theophile-24-2_06_03.cha 2 06 03 mwa Z2 vu-lE t2 do-ne l2 b5 o-si mE E le ka-se 
 theophile-24-2_06_03.cha 2 06 03 ty vwa ?
 theophile-24-2_06_03.cha 2 06 03 e wi Z2 sE mE § va fE ROt So z@ na-t@-d@ l2 b5 .
 theophile-24-2_06_03.cha 2 06 03 § va Zwe 5 ?
-theophile-24-2_06_03.cha 2 06 03 a wi o la la Z2 t2 lEs pje ny @ ply o .
+theophile-24-2_06_03.cha 2 06 03 a wi o la la Z2 t2 lEs pje ny @ ply so .
 theophile-24-2_06_03.cha 2 06 03 vj5 , vj5 la .
 theophile-24-2_06_03.cha 2 06 03 a ba wi Zvu-lE .
 theophile-24-2_06_03.cha 2 06 03 tj5 Z2 vE t2 ku-pe le z§ gl@ na-t@-d@ .
@@ -48613,7 +48613,7 @@ theophile-24-2_06_03.cha 2 06 03 § s@ k§ ne de-p@-d@ E le pa ty vwa puR-t@ se 
 theophile-24-2_06_03.cha 2 06 03 E le pa fjabl .
 theophile-24-2_06_03.cha 2 06 03 mE § na y .
 theophile-24-2_06_03.cha 2 06 03 k@ tEl maRS bj5 El maRS tRE bj5 e tRE .
-theophile-24-2_06_03.cha 2 06 03 @ fE E le tRE s@-sib ty sE 1 p2 tRE ze-lEk-tRo-ni ke dy ku .
+theophile-24-2_06_03.cha 2 06 03 @ fE tE le tRE s@-sib ty sE 1 p2 tRE ze-lEk-tRo-ni ke dy ku .
 theophile-24-2_06_03.cha 2 06 03 te-o-fil vj5 vwaR .
 theophile-24-2_06_03.cha 2 06 03 te-o-fil ?
 theophile-24-2_06_03.cha 2 06 03 kEs kEl fE ta vwa-tyR ?
@@ -48832,7 +48832,7 @@ theophile-24-2_06_03.cha 2 06 03 o la la la la ZE # 1 # ko-k5 !
 theophile-24-2_06_03.cha 2 06 03 o n§ fo pa kty lpORt .
 theophile-24-2_06_03.cha 2 06 03 a-t@-sj§ # .
 theophile-24-2_06_03.cha 2 06 03 wE .
-theophile-24-2_06_03.cha 2 06 03 @ ply fo kmo-bliZ mE ZE dy mal .
+theophile-24-2_06_03.cha 2 06 03 @ plys fo kmo-bliZ mE ZE dy mal .
 theophile-24-2_06_03.cha 2 06 03 n§ # il mo-bliZ Z2 l2 pORt ply z@ m§-t@ le zEs-ka-lje ty vwa .
 theophile-24-2_06_03.cha 2 06 03 sa i la k§-pRi .
 theophile-24-2_06_03.cha 2 06 03 vwa-la puf syR la tER .
@@ -49278,14 +49278,14 @@ theophile-24-2_06_03.cha 2 06 03 ta fRwa la ?
 theophile-24-2_06_03.cha 2 06 03 sa va E lEl , e pa de-Re-gle la So-djER la ?
 theophile-24-2_06_03.cha 2 06 03 n§ .
 theophile-24-2_06_03.cha 2 06 03 n§ se @ ba kil fE ply So .
-theophile-24-2_06_03.cha 2 06 03 n§ paR si a Zyst syR l2 Ra-dja-t9 R@ fE .
+theophile-24-2_06_03.cha 2 06 03 n§ paR si a Zyst syR l2 Ra-dja-t9 R@ fEt .
 theophile-24-2_06_03.cha 2 06 03 a wE .
 theophile-24-2_06_03.cha 2 06 03 § va , § va l8i mEt la # .
 theophile-24-2_06_03.cha 2 06 03 i a le pa te la Ra-ta-tuj .
 theophile-24-2_06_03.cha 2 06 03 Op .
 theophile-24-2_06_03.cha 2 06 03 tj5 ma-m@ El v2 , El v2 kty mEt la ROb d2 S@bR .
 theophile-24-2_06_03.cha 2 06 03 § n2 k§-pR@ Rj5 .
-theophile-24-2_06_03.cha 2 06 03 si , si , si il pR@ sa vwa-ty R@ fE .
+theophile-24-2_06_03.cha 2 06 03 si , si , si il pR@ sa vwa-ty R@ fEt .
 theophile-24-2_06_03.cha 2 06 03 puR l5s-t@ se 1 p2 sup .
 theophile-24-2_06_03.cha 2 06 03 bum .
 theophile-24-2_06_03.cha 2 06 03 # sa fE 1 p2 a-me-Ri-k5 ki paRl fR@-sE ty sE .
@@ -49326,10 +49326,10 @@ theophile-24-2_06_03.cha 2 06 03 i le t§-be a lo !
 theophile-24-2_06_03.cha 2 06 03 d@ la mER .
 theophile-24-2_06_03.cha 2 06 03 o l2 lu # .
 theophile-24-2_06_03.cha 2 06 03 # .
-theophile-24-2_06_03.cha 2 06 03 se d2 ply z@ ply fe-ROs .
+theophile-24-2_06_03.cha 2 06 03 se d2 ply z@ plys fe-ROs .
 theophile-24-2_06_03.cha 2 06 03 # .
 theophile-24-2_06_03.cha 2 06 03 o ty gRif !
-theophile-24-2_06_03.cha 2 06 03 @ ply syR-tu k2 sa a pa e-te ku-pe # te-o-fil .
+theophile-24-2_06_03.cha 2 06 03 @ plys syR-tu k2 sa a pa e-te ku-pe # te-o-fil .
 theophile-24-2_06_03.cha 2 06 03 wE l2 lu se 5-pRe-sjo-n@ 5 .
 theophile-24-2_06_03.cha 2 06 03 d2 lo pe-ti-j@t sa va ?
 theophile-24-2_06_03.cha 2 06 03 n§ d2 lo dy Ro-bi-nE .
@@ -49473,7 +49473,7 @@ theophile-24-2_06_03.cha 2 06 03 la tu te fOR-me tu va bj5 5-pe-kabl .
 theophile-24-2_06_03.cha 2 06 03 se l2 de-vlOp-m@ pyl-mo-nER .
 theophile-24-2_06_03.cha 2 06 03 mE fo pa kty pORt te-o-fil .
 theophile-24-2_06_03.cha 2 06 03 n§ Zl2 fE ply , Zl2 fE ply .
-theophile-24-2_06_03.cha 2 06 03 El m2 la di la Zi-ne-ko paRs k2 de-Za i le ba @ ply la .
+theophile-24-2_06_03.cha 2 06 03 El m2 la di la Zi-ne-ko paRs k2 de-Za i le ba @ plys la .
 theophile-24-2_06_03.cha 2 06 03 d§ k2 .
 theophile-24-2_06_03.cha 2 06 03 paRs k2 si-n§ ty va d°-vwaR fi-ni Ra-l§-Ze .
 theophile-24-2_06_03.cha 2 06 03 wE Eg-zak-t°-m@ .
@@ -49752,7 +49752,7 @@ theophile-25-2_07_04.cha 2 07 04 a wi !
 theophile-25-2_07_04.cha 2 07 04 E le paR-ti la mus ?
 theophile-25-2_07_04.cha 2 07 04 la mu sE le paR-ti ?
 theophile-25-2_07_04.cha 2 07 04 mE se Zo-li # !
-theophile-25-2_07_04.cha 2 07 04 se fR@-swa # a tRu-ve e Z2 tRuv sa tRE Zo-li @ fE Zi a-vE pa p@-se .
+theophile-25-2_07_04.cha 2 07 04 se fR@-swa # a tRu-ve e Z2 tRuv sa tRE Zo-li @ fEt Zi a-vE pa p@-se .
 theophile-25-2_07_04.cha 2 07 04 mE wi se l2 pRo-d8i sa !
 theophile-25-2_07_04.cha 2 07 04 ty v2 k2 St2 l2 mEt ?
 theophile-25-2_07_04.cha 2 07 04 se twa ki fE ?
@@ -49914,7 +49914,7 @@ theophile-25-2_07_04.cha 2 07 04 b§ sa Z2 vE Z°-te !
 theophile-25-2_07_04.cha 2 07 04 ta tRu-ve yn d2 me # ?
 theophile-25-2_07_04.cha 2 07 04 5 ?
 theophile-25-2_07_04.cha 2 07 04 # n§ mE puR l8i !
-theophile-25-2_07_04.cha 2 07 04 n§ n§ se vj2 @ fE # !
+theophile-25-2_07_04.cha 2 07 04 n§ n§ se vj2 @ fEt # !
 theophile-25-2_07_04.cha 2 07 04 a wi , wi , wi , wi , wi !
 theophile-25-2_07_04.cha 2 07 04 b5 wi # .
 theophile-25-2_07_04.cha 2 07 04 mE i le-tE tu k§-t@ # .
@@ -49970,7 +49970,7 @@ theophile-25-2_07_04.cha 2 07 04 sa a lER So 5 .
 theophile-25-2_07_04.cha 2 07 04 n§ ski e So s2 k§ na paRs k2 ZE y de z5-fOR-ma-sj§ k§-fi-d@-sjEl .
 theophile-25-2_07_04.cha 2 07 04 se k2 il v§ .
 theophile-25-2_07_04.cha 2 07 04 ZE pa dy tu sa-vo-ne 5 !
-theophile-25-2_07_04.cha 2 07 04 @ fE .
+theophile-25-2_07_04.cha 2 07 04 @ fEt .
 theophile-25-2_07_04.cha 2 07 04 b5 i le pl5 d2 sa-v§ .
 theophile-25-2_07_04.cha 2 07 04 i le pl5 d2 sa-v§ paRs ki l@ na mi paR-tu i la sa-vo-ne la vwa-tyR .
 theophile-25-2_07_04.cha 2 07 04 sa va a b§ b5 sa va a-lOR Zyst la tEt s2 sRE bj5 d2 l8i la-ve la tEt .
@@ -50081,9 +50081,9 @@ theophile-25-2_07_04.cha 2 07 04 El m# sa se Ze-nja l@ di mi-nyt se pRE # .
 theophile-25-2_07_04.cha 2 07 04 wE .
 theophile-25-2_07_04.cha 2 07 04 ty le fE a la pwa la mwa Zle fE o fuR .
 theophile-25-2_07_04.cha 2 07 04 e mwa # Zle fE a Zle f°-zE a la ko-kOt .
-theophile-25-2_07_04.cha 2 07 04 se Ze-njal s§ tRy k@ di mi-ny t@ ply sa a dy gu .
+theophile-25-2_07_04.cha 2 07 04 se Ze-njal s§ tRy k@ di mi-ny t@ plys sa a dy gu .
 theophile-25-2_07_04.cha 2 07 04 a a la pwa le sa k8i @ di mi-nyt .
-theophile-25-2_07_04.cha 2 07 04 e wi mE fo le ku-pe f5 @ fE .
+theophile-25-2_07_04.cha 2 07 04 e wi mE fo le ku-pe f5 @ fEt .
 theophile-25-2_07_04.cha 2 07 04 a da-kOR ty le fE ty le kup kO m1 not le-gym .
 theophile-25-2_07_04.cha 2 07 04 wE .
 theophile-25-2_07_04.cha 2 07 04 vwa-la Zle ku p@ tus p°-ti e E la RE-z§ se tRE f5 .
@@ -50098,7 +50098,7 @@ theophile-25-2_07_04.cha 2 07 04 9m .
 theophile-25-2_07_04.cha 2 07 04 la SkRwa ksa a ply d2 gu .
 theophile-25-2_07_04.cha 2 07 04 e il pRe-fER .
 theophile-25-2_07_04.cha 2 07 04 ta pa b°-zw5 d2 ta ti-ti .
-theophile-25-2_07_04.cha 2 07 04 E le la o @ ply la ty sE i @ na pa te-o-fil .
+theophile-25-2_07_04.cha 2 07 04 E le la o @ plys la ty sE i @ na pa te-o-fil .
 theophile-25-2_07_04.cha 2 07 04 e ty v2 pa m@-Ze te-o-fil ?
 theophile-25-2_07_04.cha 2 07 04 El kwa ?
 theophile-25-2_07_04.cha 2 07 04 El pl9R ?
@@ -50115,7 +50115,7 @@ theophile-25-2_07_04.cha 2 07 04 ta te-tin bl2 .
 theophile-25-2_07_04.cha 2 07 04 # ki la e-te 2 .
 theophile-25-2_07_04.cha 2 07 04 # i pa-RE kE la pa-se yn sy-pER ZuR-ne .
 theophile-25-2_07_04.cha 2 07 04 wE .
-theophile-25-2_07_04.cha 2 07 04 d§ ki a ka-vEk nu z@ fE ki le pe-nibl .
+theophile-25-2_07_04.cha 2 07 04 d§ ki a ka-vEk nu z@ fEt ki le pe-nibl .
 theophile-25-2_07_04.cha 2 07 04 a mE l2 ma-t5 mwa i le-tE a-do-Rab la .
 theophile-25-2_07_04.cha 2 07 04 se vRE !
 theophile-25-2_07_04.cha 2 07 04 i ma Ra-k§-te f5 si i la pa vu-ly s2 de-gi-ze .
@@ -50147,10 +50147,10 @@ theophile-25-2_07_04.cha 2 07 04 se de nu-vo So-s§ .
 theophile-25-2_07_04.cha 2 07 04 5 ?
 theophile-25-2_07_04.cha 2 07 04 puR twa .
 theophile-25-2_07_04.cha 2 07 04 o kEs k# s§ bo !
-theophile-25-2_07_04.cha 2 07 04 o la la la , la , a Re-jy R@ ply !
+theophile-25-2_07_04.cha 2 07 04 o la la la , la , a Re-jy R@ plys !
 theophile-25-2_07_04.cha 2 07 04 a Re-jyR !
 theophile-25-2_07_04.cha 2 07 04 a !
-theophile-25-2_07_04.cha 2 07 04 sa-ly # se # mER-si puR t§ me-sa Ze Sta-pEl paRs k2 Z2 n2 l2 s@s pa tRo dv°-ni Ro k§-sER la ZuR-ne fi-nal-m@ @ fE Zm2 s@s bj5 la ZuR-ne mE l2 swaR # Z2 s@s k2 sa pEz bj5 e .
+theophile-25-2_07_04.cha 2 07 04 sa-ly # se # mER-si puR t§ me-sa Ze Sta-pEl paRs k2 Z2 n2 l2 s@s pa tRo dv°-ni Ro k§-sER la ZuR-ne fi-nal-m@ @ fEt Zm2 s@s bj5 la ZuR-ne mE l2 swaR # Z2 s@s k2 sa pEz bj5 e .
 theophile-25-2_07_04.cha 2 07 04 2 sa dwa Et b§ .
 theophile-25-2_07_04.cha 2 07 04 @ tu ka Sp@s fO Ra twa .
 theophile-25-2_07_04.cha 2 07 04 1 de-s5 b5 tu ta l9R .
@@ -50173,8 +50173,8 @@ theophile-25-2_07_04.cha 2 07 04 wE pa tRo n§ ply mE .
 theophile-25-2_07_04.cha 2 07 04 ZE dy b9R syR ma m§tR .
 theophile-25-2_07_04.cha 2 07 04 Za-vE y n@-vi d2 , d2 vj@d la paRs k2 ZE fE le pRiz d2 s@ tsE puR pRe-pa-Re la-nEs-te-zi .
 theophile-25-2_07_04.cha 2 07 04 ty m@k d2 fER ?
-theophile-25-2_07_04.cha 2 07 04 Zo y 1 ku d2 p§ p@ , @ # la b§ b5 @ ply Za-vE pa a-Re-te le tRwa dER-nje ZuR .
-theophile-25-2_07_04.cha 2 07 04 tsE Zm2 s8i a-l§-Ze e Za-Ri-vE pa e @ fE Za-vE pa so-mEj .
+theophile-25-2_07_04.cha 2 07 04 Zo y 1 ku d2 p§ p@ , @ # la b§ b5 @ plys Za-vE pa a-Re-te le tRwa dER-nje ZuR .
+theophile-25-2_07_04.cha 2 07 04 tsE Zm2 s8i a-l§-Ze e Za-Ri-vE pa e @ fEt Za-vE pa so-mEj .
 theophile-25-2_07_04.cha 2 07 04 ZE s@-ti kZe-tE .
 theophile-25-2_07_04.cha 2 07 04 ZE pRi de fR8i de ba-na ne tu .
 theophile-25-2_07_04.cha 2 07 04 e ZE y y n@-vi d2 .
@@ -50242,11 +50242,11 @@ theophile-25-2_07_04.cha 2 07 04 n§ a 1 p°-ti p2 !
 theophile-25-2_07_04.cha 2 07 04 e wi ta RE-z§ .
 theophile-25-2_07_04.cha 2 07 04 e wi ta RE-z§ !
 theophile-25-2_07_04.cha 2 07 04 b5 wi mE te-o-fil ty sE si ty ZEt le za-fE R2 .
-theophile-25-2_07_04.cha 2 07 04 ty lE-mE bj5 s2 bO l@ ply .
+theophile-25-2_07_04.cha 2 07 04 ty lE-mE bj5 s2 bO l@ plys .
 theophile-25-2_07_04.cha 2 07 04 b5 wi i le t§-be !
 theophile-25-2_07_04.cha 2 07 04 9m ?
 theophile-25-2_07_04.cha 2 07 04 se pa gRav mE b§ fo mj2 e-vi-te kwa !
-theophile-25-2_07_04.cha 2 07 04 @ ply tEm pa 5 k@ t§ kas .
+theophile-25-2_07_04.cha 2 07 04 @ plys tEm pa 5 k@ t§ kas .
 theophile-25-2_07_04.cha 2 07 04 ta vy ?
 theophile-25-2_07_04.cha 2 07 04 § va t2 mEt kElk z@-div # ty v2 .
 theophile-25-2_07_04.cha 2 07 04 wi tj5 da-j9 R§ va le sOR-tiR si-n§ sa va Et tRo So !
@@ -50407,7 +50407,7 @@ theophile-25-2_07_04.cha 2 07 04 sa va Et fRwa no stEk .
 theophile-25-2_07_04.cha 2 07 04 wE .
 theophile-25-2_07_04.cha 2 07 04 Op la !
 theophile-25-2_07_04.cha 2 07 04 i a-vE yn sy-pE R2 .
-theophile-25-2_07_04.cha 2 07 04 de ve de di s2-Ro 1 no-fE Re tu Z@ nE pRo-fi-te paRs k2 se tEl-m@ se vi t2 .
+theophile-25-2_07_04.cha 2 07 04 de ve de di z2-Ro 1 no-fE Re tu Z@ nE pRo-fi-te paRs k2 se tEl-m@ se vi t2 .
 theophile-25-2_07_04.cha 2 07 04 se t§ film !
 theophile-25-2_07_04.cha 2 07 04 tE syR paRs k2 # o-RE e-te bj5 d2 mEt taR-z@ n§ # lde-by d2 lis-twaR la ?
 theophile-25-2_07_04.cha 2 07 04 § na lt@ 5 .
@@ -50469,7 +50469,7 @@ theophile-26-2_07_28.cha 2 07 28 Z2 kRwa kil fo # ?
 theophile-26-2_07_28.cha 2 07 28 te-o-fil !
 theophile-26-2_07_28.cha 2 07 28 n§ !
 theophile-26-2_07_28.cha 2 07 28 ty n2 ZEt pa !
-theophile-26-2_07_28.cha 2 07 28 n§ # k@ fE SkRwa ki n2 fE pa Ek-spRE d2 la Z°-te .
+theophile-26-2_07_28.cha 2 07 28 n§ # k@ fEt SkRwa ki n2 fE pa Ek-spRE d2 la Z°-te .
 theophile-26-2_07_28.cha 2 07 28 paRs k2 .
 theophile-26-2_07_28.cha 2 07 28 kOm sa i a l5-pak te dy ku i .
 theophile-26-2_07_28.cha 2 07 28 wE mE b§ .
@@ -51071,7 +51071,7 @@ theophile-26-2_07_28.cha 2 07 28 wE il fo tRu-ve lu-vER-tyR pf .
 theophile-26-2_07_28.cha 2 07 28 la gRos tEt !
 theophile-26-2_07_28.cha 2 07 28 # nu la pa @-kOR mi !
 theophile-26-2_07_28.cha 2 07 28 u wi # wi , vwa-la !
-theophile-26-2_07_28.cha 2 07 28 se # d@ l2 ka-na-pe # @ fE .
+theophile-26-2_07_28.cha 2 07 28 se # d@ l2 ka-na-pe # @ fEt .
 theophile-26-2_07_28.cha 2 07 28 wE ty pR@ t§ b5 te-o-fil ty m# te ZwE ?
 theophile-26-2_07_28.cha 2 07 28 wi ta ma-m@ E le la a-le vj5 !
 theophile-26-2_07_28.cha 2 07 28 ty de-za-bij e mwa Z2 .
@@ -51255,7 +51255,7 @@ theophile-26-2_07_28.cha 2 07 28 le-pe ty la tR@p d@ lo ?
 theophile-26-2_07_28.cha 2 07 28 sa pa sa-muR .
 theophile-26-2_07_28.cha 2 07 28 kEs k2 ty fE te-o-fil ?
 theophile-26-2_07_28.cha 2 07 28 # le-pe El pR@ s§ b5 d@ lgo-dE ?
-theophile-26-2_07_28.cha 2 07 28 se kO myn pl@ t@ fE .
+theophile-26-2_07_28.cha 2 07 28 se kO myn pl@ t@ fEt .
 theophile-26-2_07_28.cha 2 07 28 se yn pl@t le-pe ty kRwa ?
 theophile-26-2_07_28.cha 2 07 28 wi se yn pl@ te a-pRE sa pus ?
 theophile-26-2_07_28.cha 2 07 28 pu !
@@ -51995,7 +51995,7 @@ theophile-26-2_07_28.cha 2 07 28 o wi ZlE a-ple El d°-vRE t# tu ds8it .
 theophile-26-2_07_28.cha 2 07 28 sy-pER !
 theophile-26-2_07_28.cha 2 07 28 o !
 theophile-26-2_07_28.cha 2 07 28 tu sa s# ply fa-sil !
-theophile-26-2_07_28.cha 2 07 28 d# fa-s§ E lo-RE # mE Zm@ fE # .
+theophile-26-2_07_28.cha 2 07 28 d# fa-s§ E lo-RE # mE Zm@ fEt # .
 theophile-26-2_07_28.cha 2 07 28 mE se pa de k§-fe-ti t§ ne-pe .
 theophile-26-2_07_28.cha 2 07 28 a la vwa-la !
 theophile-26-2_07_28.cha 2 07 28 b§-ZuR pa-pu !
@@ -52006,7 +52006,7 @@ theophile-26-2_07_28.cha 2 07 28 a i le Re-y-si 5 !
 theophile-26-2_07_28.cha 2 07 28 5 .
 theophile-26-2_07_28.cha 2 07 28 Re-y-si 5 ?
 theophile-26-2_07_28.cha 2 07 28 # sa !
-theophile-26-2_07_28.cha 2 07 28 ply zE l@ fE ply zil s§ bo !
+theophile-26-2_07_28.cha 2 07 28 ply E l@ fEt ply il s§ bo !
 theophile-26-2_07_28.cha 2 07 28 i le mi-mi 5 !
 theophile-26-2_07_28.cha 2 07 28 a-le @-kO R8i tu dis !
 theophile-26-2_07_28.cha 2 07 28 a n§ , a n§ i le pa ply bo !
@@ -52024,7 +52024,7 @@ theophile-26-2_07_28.cha 2 07 28 a i le Ek-si-te i le Ek-si-te !
 theophile-26-2_07_28.cha 2 07 28 a i la la pES 5 # # , # , # , sa !
 theophile-26-2_07_28.cha 2 07 28 tE k§-t@ d2 vwaR gR@ pa-pu 5 !
 theophile-26-2_07_28.cha 2 07 28 la ka-sE te fi-ni ?
-theophile-26-2_07_28.cha 2 07 28 Z@ sE Rj5 mE SkRwa @ ply SkRwa # .
+theophile-26-2_07_28.cha 2 07 28 Z@ sE Rj5 mE SkRwa @ plys SkRwa # .
 theophile-26-2_07_28.cha 2 07 28 i lEm k@ i i a dy m§d .
 theophile-26-2_07_28.cha 2 07 28 il sRa , il sRa so-sjabl 5 !
 theophile-26-2_07_28.cha 2 07 28 # o-t@ .
@@ -52238,7 +52238,7 @@ theophile-27-2_09_07.cha 2 09 07 a se Rwa-jal !
 theophile-27-2_09_07.cha 2 09 07 sa-ly fR@-swa .
 theophile-27-2_09_07.cha 2 09 07 sa-ly .
 theophile-27-2_09_07.cha 2 09 07 dER-nje bu !
-theophile-27-2_09_07.cha 2 09 07 a mE i la tu R°-pRi @ fE mE m@ ba kwa !
+theophile-27-2_09_07.cha 2 09 07 a mE i la tu R°-pRi @ fEt mE m@ ba kwa !
 theophile-27-2_09_07.cha 2 09 07 wE .
 theophile-27-2_09_07.cha 2 09 07 # i la pa tu-Se o o i la # tu l2 ba !
 theophile-27-2_09_07.cha 2 09 07 a kEl bo-n9R !
@@ -52267,7 +52267,7 @@ theophile-27-2_09_07.cha 2 09 07 twa !
 theophile-27-2_09_07.cha 2 09 07 i la le m5 a-vE k1 p2 d2 Z@-b§ d°-sy 5 !
 theophile-27-2_09_07.cha 2 09 07 mE t@ na m@-Ze pl5 !
 theophile-27-2_09_07.cha 2 09 07 mE .
-theophile-27-2_09_07.cha 2 09 07 a mE se vRE k2 se l9R d2 m@-Ze @ fE !
+theophile-27-2_09_07.cha 2 09 07 a mE se vRE k2 se l9R d2 m@-Ze @ fEt !
 theophile-27-2_09_07.cha 2 09 07 il fo @ le-se @-kO R1 pti p2 i @ na ply a-pRE !
 theophile-27-2_09_07.cha 2 09 07 b§ ?
 theophile-27-2_09_07.cha 2 09 07 StE do-ne le-ki-va-l@ dyn tR@S !
@@ -52326,8 +52326,8 @@ theophile-27-2_09_07.cha 2 09 07 t@ t@ , t@ .
 theophile-27-2_09_07.cha 2 09 07 Rwa-jal ko-m@ i la fE sa 5 .
 theophile-27-2_09_07.cha 2 09 07 a wE .
 theophile-27-2_09_07.cha 2 09 07 sa a lER so-lid 5 !
-theophile-27-2_09_07.cha 2 09 07 n§ p8i sa , sa se pa 9R-te se p8i i a pa § p2 fER tut le k§-bi-nE-z§ @ fE .
-theophile-27-2_09_07.cha 2 09 07 wi @ ply so fil ma di i a k@ mEm la pl5t la ba .
+theophile-27-2_09_07.cha 2 09 07 n§ p8i sa , sa se pa 9R-te se p8i i a pa § p2 fER tut le k§-bi-nE-z§ @ fEt .
+theophile-27-2_09_07.cha 2 09 07 wi @ plys so fil ma di i a k@ mEm la pl5t la ba .
 theophile-27-2_09_07.cha 2 09 07 u sa ?
 theophile-27-2_09_07.cha 2 09 07 d§ k2 .
 theophile-27-2_09_07.cha 2 09 07 o tu to bu .
@@ -52341,7 +52341,7 @@ theophile-27-2_09_07.cha 2 09 07 a .
 theophile-27-2_09_07.cha 2 09 07 a-lOR se pa tE-Rib paRs k2 k@ ta-lym la l@p tsE a-lOR ZE di a # # va pa-se d°-m5 .
 theophile-27-2_09_07.cha 2 09 07 wE .
 theophile-27-2_09_07.cha 2 09 07 a b5 wE se .
-theophile-27-2_09_07.cha 2 09 07 e @ fE kOm sa il va a-pOR-te 1 p°-ti .
+theophile-27-2_09_07.cha 2 09 07 e @ fEt kOm sa il va a-pOR-te 1 p°-ti .
 theophile-27-2_09_07.cha 2 09 07 kEs k2 ta Z°-te ?
 theophile-27-2_09_07.cha 2 09 07 dy Z@-b§ ?
 theophile-27-2_09_07.cha 2 09 07 n§ sa va .
@@ -52463,7 +52463,7 @@ theophile-27-2_09_07.cha 2 09 07 ty v2 1 bOl ?
 theophile-27-2_09_07.cha 2 09 07 si tE tu-ZuR da-kOR puR l2 pl@ 2 .
 theophile-27-2_09_07.cha 2 09 07 da-kOR .
 theophile-27-2_09_07.cha 2 09 07 da-kOR .
-theophile-27-2_09_07.cha 2 09 07 @ fE # .
+theophile-27-2_09_07.cha 2 09 07 @ fEt # .
 theophile-27-2_09_07.cha 2 09 07 kEs k2 ta .
 theophile-27-2_09_07.cha 2 09 07 se kw5-se ?
 theophile-27-2_09_07.cha 2 09 07 se la bE-NwaR l2 bak ki e kw5-se ?
@@ -52496,7 +52496,7 @@ theophile-27-2_09_07.cha 2 09 07 te-o-fil n§ n§ , n§ , n§ , n§ , n§ !
 theophile-27-2_09_07.cha 2 09 07 n§ i le @ tR5 d2 vi-de la bE-NwaR d@ la sal d2 b5 .
 theophile-27-2_09_07.cha 2 09 07 puR-kwa ty fE sa ?
 theophile-27-2_09_07.cha 2 09 07 o la la mE se yn ka-tas-tROf sa te-o-fil !
-theophile-27-2_09_07.cha 2 09 07 n§ mE ZE pa k§-pRi puR-kwa @ fE il dwa i a-vwa R1 s@s puR l8i mE .
+theophile-27-2_09_07.cha 2 09 07 n§ mE ZE pa k§-pRi puR-kwa @ fE til dwa i a-vwa R1 s@s puR l8i mE .
 theophile-27-2_09_07.cha 2 09 07 # sa sy-fi la sa sy-fi la !
 theophile-27-2_09_07.cha 2 09 07 n§ n§ , n§ , n§ , a-REt sa o o o o o !
 theophile-27-2_09_07.cha 2 09 07 vwa-la § va l8i Ek-spli-ke fo l8i Ek-spli-ke paRs kil sE pa # .
@@ -52529,7 +52529,7 @@ theophile-27-2_09_07.cha 2 09 07 da-kOR te-o-fil .
 theophile-27-2_09_07.cha 2 09 07 wi ty va pR@d t§ b5 d2 mi-nyt .
 theophile-27-2_09_07.cha 2 09 07 kwa ?
 theophile-27-2_09_07.cha 2 09 07 mE il v2 pR@d s§ b5 mE tap pa pa-pa te-o-fil !
-theophile-27-2_09_07.cha 2 09 07 # ZnE-twa te tRy ke ty va pa m2 ta-pe @ ply .
+theophile-27-2_09_07.cha 2 09 07 # ZnE-twa te tRy ke ty va pa m2 ta-pe @ plys .
 theophile-27-2_09_07.cha 2 09 07 te-o-fi la-REt ty va tde-za-bi-je pa-pa il va tde-za-bi-je !
 theophile-27-2_09_07.cha 2 09 07 da-kOR ?
 theophile-27-2_09_07.cha 2 09 07 n§ mE ZvE pa lde-za-bi-je # , tRwa 9 Ra-v@ !
@@ -53015,7 +53015,7 @@ theophile-28-2_10_01.cha 2 10 01 wE mE ta vy R°-gaRd !
 theophile-28-2_10_01.cha 2 10 01 § di-RE ki la swa f@-kOR .
 theophile-28-2_10_01.cha 2 10 01 mE se le , se le fl9R .
 theophile-28-2_10_01.cha 2 10 01 a ty kRwa ?
-theophile-28-2_10_01.cha 2 10 01 se le fl9R ki pE z@ fE .
+theophile-28-2_10_01.cha 2 10 01 se le fl9R ki pE z@ fEt .
 theophile-28-2_10_01.cha 2 10 01 a !
 theophile-28-2_10_01.cha 2 10 01 a m§ na-vi 5 !
 theophile-28-2_10_01.cha 2 10 01 se ZE l5-pRe-sj§ kil fE So mE se twa ki vwa .
@@ -53290,7 +53290,7 @@ theophile-28-2_10_01.cha 2 10 01 se , se l9R la il fo sa-bi-je a-pRE il fo Et pR
 theophile-28-2_10_01.cha 2 10 01 yn mi-nyt .
 theophile-28-2_10_01.cha 2 10 01 da-kOR ?
 theophile-28-2_10_01.cha 2 10 01 yn mi-nyt .
-theophile-28-2_10_01.cha 2 10 01 @ ply ty fE , ty fE 1 Z2 i-djo la il fo pa bwaR lo dy b5 .
+theophile-28-2_10_01.cha 2 10 01 @ plys ty fE , ty fE 1 Z2 i-djo la il fo pa bwaR lo dy b5 .
 theophile-28-2_10_01.cha 2 10 01 wi e se pRe-si-ze-m@ sk2 St2 di dpa fER .
 theophile-28-2_10_01.cha 2 10 01 se b§ ?
 theophile-28-2_10_01.cha 2 10 01 a-le .
@@ -53381,7 +53381,7 @@ theophile-28-2_10_01.cha 2 10 01 a n§ mE t5-kjEt pa .
 theophile-28-2_10_01.cha 2 10 01 ty fE 1 ka-l5 a t§-t§ .
 theophile-28-2_10_01.cha 2 10 01 o ka-li-nu .
 theophile-28-2_10_01.cha 2 10 01 o !
-theophile-28-2_10_01.cha 2 10 01 ty s@s b§ @ ply .
+theophile-28-2_10_01.cha 2 10 01 ty s@s b§ @ plys .
 theophile-28-2_10_01.cha 2 10 01 sa i e .
 theophile-28-2_10_01.cha 2 10 01 se fi-ni .
 theophile-28-2_10_01.cha 2 10 01 sa i e .
@@ -53389,7 +53389,7 @@ theophile-28-2_10_01.cha 2 10 01 se bREf .
 theophile-28-2_10_01.cha 2 10 01 o-kE a tu d2 s8i twE tSa-o .
 theophile-28-2_10_01.cha 2 10 01 ty m§t bi-d§ ?
 theophile-28-2_10_01.cha 2 10 01 a i a dy m§d s2 swaR 5 !
-theophile-28-2_10_01.cha 2 10 01 Za-vE u-bli-je kty v°-nE @ fE .
+theophile-28-2_10_01.cha 2 10 01 Za-vE u-bli-je kty v°-nE @ fEt .
 theophile-28-2_10_01.cha 2 10 01 a wE da-kOR .
 theophile-28-2_10_01.cha 2 10 01 sa f°-zE , sa f°-zE de-Za k5z ZuR ?
 theophile-28-2_10_01.cha 2 10 01 a wE , wE , wE .
@@ -53480,7 +53480,7 @@ theophile-28-2_10_01.cha 2 10 01 ty la fE vo-le l§-t@ .
 theophile-28-2_10_01.cha 2 10 01 wE ZE mE l2 pRo-blEm se i le , i le 1 p2 bu-zi-je paRs k2 ZE dy ma la lk§-tRo-le .
 theophile-28-2_10_01.cha 2 10 01 a .
 theophile-28-2_10_01.cha 2 10 01 la sa i e ZE tRu-ve ltRyk 5 .
-theophile-28-2_10_01.cha 2 10 01 fo bj5 sta-bi-li-ze @ fE .
+theophile-28-2_10_01.cha 2 10 01 fo bj5 sta-bi-li-ze @ fEt .
 theophile-28-2_10_01.cha 2 10 01 a .
 theophile-28-2_10_01.cha 2 10 01 ty la-tRap ?
 theophile-28-2_10_01.cha 2 10 01 tuR d2 ma-nEZ .
@@ -54241,7 +54241,7 @@ theophile-29-2_10_28.cha 2 10 28 Zl8i E di k2 la tE Ra-vE tuR-ne d§ k2 .
 theophile-29-2_10_28.cha 2 10 28 sa il sE m5t-n@ # .
 theophile-29-2_10_28.cha 2 10 28 # l2 so-lEj i s2 kuS .
 theophile-29-2_10_28.cha 2 10 28 l2 so-lEj i s2 kuS mE § n2 sE tu-ZuR pa puR-kwa .
-theophile-29-2_10_28.cha 2 10 28 e Z2 nE-twa a-lO Re @ ply n2 m@-pES pa d2 ne-twa-je 5 ?
+theophile-29-2_10_28.cha 2 10 28 e Z2 nE-twa a-lO Re @ plys n2 m@-pES pa d2 ne-twa-je 5 ?
 theophile-29-2_10_28.cha 2 10 28 ta 1 p2 so-mEj twa .
 theophile-29-2_10_28.cha 2 10 28 Z2 kRwa k2 Z2 vE le bRy-le se tRyk la paRs k2 .
 theophile-29-2_10_28.cha 2 10 28 ty va le bRy-le ?
@@ -54714,7 +54714,7 @@ theophile-30-2_11_28.cha 2 11 28 ty fE a-t@-sj§ 5 ?
 theophile-30-2_11_28.cha 2 11 28 o la la la la !
 theophile-30-2_11_28.cha 2 11 28 vwa-la ta e-te saZ s2 swaR .
 theophile-30-2_11_28.cha 2 11 28 dy ku e b5 § va pa la-ve le S°-v2 se pa gRav .
-theophile-30-2_11_28.cha 2 11 28 @ ply 2 # .
+theophile-30-2_11_28.cha 2 11 28 @ ply s2 # .
 theophile-30-2_11_28.cha 2 11 28 § sE pa ski i a dmj2 !
 theophile-30-2_11_28.cha 2 11 28 o !
 theophile-30-2_11_28.cha 2 11 28 vwa-la .
@@ -54746,7 +54746,7 @@ theophile-30-2_11_28.cha 2 11 28 sa va mj2 a-pRE 5 !
 theophile-30-2_11_28.cha 2 11 28 # tj5 !
 theophile-30-2_11_28.cha 2 11 28 a i e , sa i e , sa i e a ty vu-lE # twa !
 theophile-30-2_11_28.cha 2 11 28 mE t@ na k§-bj5 dly-nEt ?
-theophile-30-2_11_28.cha 2 11 28 se sa @ fE !
+theophile-30-2_11_28.cha 2 11 28 se sa @ fEt !
 theophile-30-2_11_28.cha 2 11 28 ty vu-lE Zwe !
 theophile-30-2_11_28.cha 2 11 28 § lEv l2 ku !
 theophile-30-2_11_28.cha 2 11 28 a-t@ , a-t@ paRs k2 si-n§ sa s@ pa b§ la .
@@ -55010,7 +55010,7 @@ theophile-30-2_11_28.cha 2 11 28 se yn gR@d ko-ki na-lOR 5 ?
 theophile-30-2_11_28.cha 2 11 28 se mwa ki E fE la be-tiz ?
 theophile-30-2_11_28.cha 2 11 28 a !
 theophile-30-2_11_28.cha 2 11 28 tE syR d2 sa twa ?
-theophile-30-2_11_28.cha 2 11 28 @ fE se-tE , se-tE yn blag ?
+theophile-30-2_11_28.cha 2 11 28 @ fEt se-tE , se-tE yn blag ?
 theophile-30-2_11_28.cha 2 11 28 5 ?
 theophile-30-2_11_28.cha 2 11 28 aj !
 theophile-30-2_11_28.cha 2 11 28 tE syR kse pa twa ki a fE la blag ?
@@ -55467,7 +55467,7 @@ theophile-30-2_11_28.cha 2 11 28 wi # Z2 mde-pES la su pE le pRE t§ va pR@ dRyn
 theophile-30-2_11_28.cha 2 11 28 mE wi # .
 theophile-30-2_11_28.cha 2 11 28 wi # !
 theophile-30-2_11_28.cha 2 11 28 t@-sj§ !
-theophile-30-2_11_28.cha 2 11 28 vwa-la l2 p°-ti tEl .
+theophile-30-2_11_28.cha 2 11 28 vwa-la l2 p°-ti El .
 theophile-30-2_11_28.cha 2 11 28 a-le !
 theophile-30-2_11_28.cha 2 11 28 § va m@-Ze !
 theophile-30-2_11_28.cha 2 11 28 wi # sa i e !
@@ -55524,7 +55524,7 @@ theophile-30-2_11_28.cha 2 11 28 ty m2 m§t te-o-fil ?
 theophile-30-2_11_28.cha 2 11 28 u la la !
 theophile-30-2_11_28.cha 2 11 28 i le bo !
 theophile-30-2_11_28.cha 2 11 28 ty m2 m§t l2 livR ?
-theophile-30-2_11_28.cha 2 11 28 i a d2 p°-ti ka-do @ ply 5 ?
+theophile-30-2_11_28.cha 2 11 28 i a d2 p°-ti ka-do @ plys 5 ?
 theophile-30-2_11_28.cha 2 11 28 e ta pa tu R°-gaR-de !
 theophile-30-2_11_28.cha 2 11 28 paRs k2 ta tRwa @ i a tRwa ka-do !
 theophile-30-2_11_28.cha 2 11 28 paRs k2 ty va bj5-to a-vwaR tRwa @ !
@@ -55656,7 +55656,7 @@ theophile-32-3_03_02.cha 3 03 02 a b5 i a k@ mEm # k@ mEm .
 theophile-32-3_03_02.cha 3 03 02 t@ v2 o-si ?
 theophile-32-3_03_02.cha 3 03 02 sEl la El pik pa .
 theophile-32-3_03_02.cha 3 03 02 mE se d2 lo kOm lEm li-li .
-theophile-32-3_03_02.cha 3 03 02 sEl la n§ ply zEl pik pa .
+theophile-32-3_03_02.cha 3 03 02 sEl la n§ ply El pik pa .
 theophile-32-3_03_02.cha 3 03 02 ty v2 kZ t# d2 lo ki pik .
 theophile-32-3_03_02.cha 3 03 02 sa se puR li-li .
 theophile-32-3_03_02.cha 3 03 02 twa a-t@ vj5 ZvE t@ do-ne sa se-tE pu Ro-li-vje .
@@ -56038,7 +56038,7 @@ theophile-32-3_03_02.cha 3 03 02 si tu te pRE # .
 theophile-32-3_03_02.cha 3 03 02 t@-sj§ a-vEk te So-syR te-o-fil 5 !
 theophile-32-3_03_02.cha 3 03 02 ty v2 kZ t@-lEv te So-syR ?
 theophile-32-3_03_02.cha 3 03 02 @-lEv te So-sy Ra-lOR .
-theophile-32-3_03_02.cha 3 03 02 @ ply kOm sa § va ko-m@-se a s2 de-za-bi-je puR l2 b5 .
+theophile-32-3_03_02.cha 3 03 02 @ plys kOm sa § va ko-m@-se a s2 de-za-bi-je puR l2 b5 .
 theophile-32-3_03_02.cha 3 03 02 b5 s5k mi-nyt syR l2 ku-s5 e a-pRE 1 b5 .
 theophile-32-3_03_02.cha 3 03 02 wi .
 theophile-32-3_03_02.cha 3 03 02 i la la sy-pER tEk-nik m5t-n@ # .
@@ -56359,7 +56359,7 @@ theophile-32-3_03_02.cha 3 03 02 § pR@ kyn duS la 5 te-o-fil da-kOR ?
 theophile-32-3_03_02.cha 3 03 02 pu Ra-le m@-Ze 5 .
 theophile-32-3_03_02.cha 3 03 02 ty t2 mE d°-bu ?
 theophile-32-3_03_02.cha 3 03 02 te-o-fil .
-theophile-32-3_03_02.cha 3 03 02 se pa tRE So @ ply .
+theophile-32-3_03_02.cha 3 03 02 se pa tRE So @ plys .
 theophile-32-3_03_02.cha 3 03 02 # ZvE d°-m@-de a pa-pa si , si § na la-ve le S°-v2 jER paRs k2 kO m§ p2 pa tu l2 t@ .
 theophile-32-3_03_02.cha 3 03 02 fR@-swa ?
 theophile-32-3_03_02.cha 3 03 02 wi ?

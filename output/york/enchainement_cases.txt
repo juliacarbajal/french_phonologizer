@@ -422,7 +422,6 @@
 649    tout au                       tu to                         elle va tout au dessus .
 650    l' autre                      lot                          dans l' autre sens .
 655    il y                          i li                          il y a encore des fleurs
-655    bleues ici                    bl2 zi-si                     des fleurs bleues ici .
 656    des algues                    de zalg                       des algues .
 663    m' y                          mi                           je ne m' y connais pas
 664    sirène ici                    si-RE ni-si                   la petite sirène ici .
@@ -1969,7 +1968,7 @@
 3225   n' as                         na                           que tu n' as pas
 3225   l' eau                        lo                           Là dans l' eau froide
 3227   j(e) ai                       ZE                           j(e) ai les mains très chaudes
-3227   chaudes évidemment            Sod ze-vi-da-m@               mains très chaudes évidemment .
+3227   chaudes évidemment            So de-vi-da-m@                mains très chaudes évidemment .
 3233   j(e) ai                       ZE                           oui j(e) ai froid aux pieds
 3234   j(e) (n'                      Z#                           non j(e) (n' ) ai pas
 3237   qu' elle                      kEl                          tant qu' elle n' aura pas
@@ -3288,7 +3287,6 @@
 5387   c(e) (n'                      s#                           c(e) (n' ) est pas beau
 5392   couleurs alors                ku-l9 Ra-lOR                  toutes les couleurs alors ,
 5393   pour être                     pu REt                        pour être beaux ils sont beaux
-5393   beaux ils                     bo zil                        pour être beaux ils sont beaux
 5395   qu' il                        kil                          est-ce qu' il y aura encore
 5395   il y                          ki li                         est-ce qu' il y aura encore
 5395   peinture à                    p5-ty Ra                      de la peinture à doigts
@@ -3700,7 +3698,7 @@
 6002   c(e) est                      se                           maintenant c(e) est rempli de mousse
 6004   l' autre                      lot                          prends l' autre bouteille , Léa
 6004   boire aux                     bwa Ro                        donner à boire aux plantes
-6005   plus elle                     ply zEl                       en plus elle n' est pas
+6005   plus elle                     ply sEl                       en plus elle n' est pas
 6005   n' est                        ne                           plus elle n' est pas
 6006   petits ânes                   p°-ti zan                     part les petits ânes il
 6006   ânes il                       za nil                        les petits ânes il (n'
@@ -5174,7 +5172,6 @@
 8427   l' album                      lal-bOm                      l' album à QUI ?
 8427   album à                       lal-bO ma                     l' album à QUI ?
 8429   en a                          @ na                          i(l) y en a un ici
-8429   un ici                        1 ni-si                       en a un ici .
 8431   il est                        i le                          il est là , l' album
 8431   l' album                      lal-bOm                      là , l' album à
 8431   album à                       lal-bO ma                     , l' album à Max
@@ -5856,8 +5853,8 @@
 9873   t(u) es                       tE                           t(u) es assis dessus .
 9874   il y                          i li                          il y en a d' autres
 9874   en a                          @ na                          il y en a d' autres
-9874   d' autres                     dotRz                        en a d' autres ici
-9874   autres ici                    dotR zi-si                    a d' autres ici *
+9874   d' autres                     dotR                         en a d' autres ici
+9874   autres ici                    do tRi-si                     a d' autres ici *
 9880   il est                        i le                          il est coquin .
 9882   l' eau                        lo                           est dans l' eau .
 9883   l' eau                        lo                           est dans l' eau maintenant
@@ -9907,7 +9904,6 @@
 17491  elle est                      E le                          oh elle est gentille , la
 17494  mette où                      mE tu                         Catherine LE mette où ,
 17499  c(e) est                      se                           c(e) est parti .
-17502  gros ici                      gRo zi-si                     le gros ici là ?
 17505  l' autre                      lot                          va de l' autre bord
 17510  en avoir                      @ na-vwaR                     peux TU en avoir un
 17510  avoir un                      na-vwa R1                     TU en avoir un ,
@@ -10099,7 +10095,6 @@
 17960  c(e) est                      se                           c(e) est plus facile quand on
 17960  quand on                      k@ t§                         plus facile quand on fait
 17962  par un                        pa R1                         , un par un .
-17964  LES ici                       le zi-si                      mets LES ici !
 17965  t' aider                      te-de                        Catherine va t' aider .
 17966  s' appelle                    sa-pEl                       comment il s' appelle , lui
 17988  il est                        i le                          il est un peu plus difficile
@@ -10279,7 +10274,6 @@
 18345  il y                          i li                          il y en a de toutes
 18345  en a                          @ na                          il y en a de toutes
 18347  il y                          i li                          il y a un gros ici
-18347  gros ici                      gRo zi-si                     a un gros ici ouh
 18350  il est                        i le                          oui il est cassé .
 18352  l' autre                      lotR                         parce que l' autre est
 18352  autre est                     lo tRe                        que l' autre est brisé
@@ -10746,9 +10740,9 @@
 19458  il est                        i le                          il est TU guéri maintenant ?
 19459  qu' on                        k§                           ou qu' on LE laisse là
 19467  il y                          i li                          il y a plein de bonhommes
-19467  bonhommes ici                 bo-nOm zi-si                  plein de bonhommes ici .
+19467  bonhommes ici                 bo-nO mi-si                   plein de bonhommes ici .
 19468  j(e) (n'                      Z#                           moi , j(e) (n' ) ai
-19470  bonhommes ici                 bo-nOm zi-si                  avec tes bonhommes ici .
+19470  bonhommes ici                 bo-nO mi-si                   avec tes bonhommes ici .
 19479  les autos                     le zo-to                      ah les autos .
 19480  d' autres                     dotRz                        je vois d' autres autos
 19480  autres autos                  dotR zo-to                    vois d' autres autos ?
@@ -11293,7 +11287,8 @@
 20360  t(u) es                       tE                           t(u) es bon , hein .
 20365  L' aimes                      lEm                          tu L' aimes beaucoup , ce
 20372  on en                         § n@                          puis on en fait un autre
-20372  un autre                      1 notR                        en fait un autre ?
+20372  fait un                       fE t1n                        on en fait un autre
+20372  un autre                      t1 notR                       en fait un autre ?
 20376  QU' est-ce                    kEs                          TE dire QU' est-ce qu'
 20376  qu' il                        kil                          QU' est-ce qu' il y
 20376  il y                          ki li                         est-ce qu' il y a
@@ -11348,7 +11343,6 @@
 20482  c(e) est                      se                           ouaf ouaf c(e) est Ernest .
 20484  j(e) en                       Z@n                          Ernest , j(e) en ai trouvé
 20484  en ai                         Z@ nE                         , j(e) en ai trouvé
-20484  un ici                        1 ni-si                       ai trouvé un ici ,
 20486  c(e) est                      se                           ça , c(e) est sa
 20487  qu' il                        kil                          je pense qu' il faudrait trouver
 20488  c(e) (n'                      s#                           non ben c(e) (n' )
@@ -11379,7 +11373,6 @@
 20551  t(u) es                       tE                           t(u) es capable toute seul ?
 20554  il y                          i li                          il y en a un ici
 20554  en a                          @ na                          il y en a un ici
-20554  un ici                        1 ni-si                       en a un ici .
 20556  il y                          i li                          il y en a beaucoup ,
 20556  en a                          @ na                          il y en a beaucoup ,
 20560  c(e) est                      se                           c(e) est de la réglisse ,
@@ -12689,7 +12682,7 @@
 23072  c(e) est                      se                           ouh c(e) est difficile .
 23075  t' appelles                   ta-pEl                       vite tu t' appelles Max
 23077  comme une                     kO myn                        ça fait comme une moto .
-23081  bonhommes ici                 bo-nOm zi-si                  donc tes bonhommes ici !
+23081  bonhommes ici                 bo-nO mi-si                   donc tes bonhommes ici !
 23082  c(e) est                      se                           c(e) est pour quoi faire ,
 23083  c(e) est                      se                           ah c(e) est pour le château
 23085  c(e) est                      se                           ça , c(e) est fragile ?
@@ -12718,7 +12711,7 @@
 23152  c(e) est                      se                           c(e) est gentil , ça .
 23153  c(e) est                      se                           merci , c(e) est gentil .
 23160  faire un                      fE R1                         de faire un serpent ?
-23161  bonhommes ici                 bo-nOm zi-si                  un des bonhommes ici .
+23161  bonhommes ici                 bo-nO mi-si                   un des bonhommes ici .
 23164  pâte à                        pa ta                         de la pâte à modeler
 23168  L' écraser                    le-kRa-ze                    vais toute L' écraser ?
 23171  toute être                    tu tEtR                       il va toute être écrasé
@@ -12945,8 +12938,8 @@
 23542  l' histoire                   lis-twaR                     c(e) est l' histoire .
 23544  c(e) est                      se                           c(e) est la même histoire que
 23544  même histoire                 mE mis-twaR                   est la même histoire que
-23545  les autres                    le zotRz                      ah ben les autres ils *
-23545  autres ils                    zotR zil                      ben les autres ils *
+23545  les autres                    le zotR                       ah ben les autres ils *
+23545  autres ils                    zo tRil                       ben les autres ils *
 23546  il y                          i li                          il y a plein de ,
 23548  il y                          i li                          il y a Cendrillon , Blanche
 23549  c(e) est                      se                           là , c(e) est *
@@ -13273,7 +13266,6 @@
 24092  c(e) est                      se                           mais c(e) est correct , ça
 24102  c(e) est                      se                           c(e) est correct maintenant , hein
 24103  t(u) es                       tE                           t(u) es chanceux , toi .
-24108  plus ici                      ply zi-si                     ) est plus ici .
 24109  QU' est-ce                    kEs                          dire , QU' est-ce que
 24109  c(e) est                      se                           est-ce que c(e) est .
 24111  l' envers                     l@-vER                       à l' envers ?
@@ -13335,7 +13327,7 @@
 24209  ton oeil                      t§ n9j                        mets ton oeil là !
 24214  c(e) est                      se                           mais c(e) est correct .
 24216  LES a                         le za                         on ne LES a pas
-24216  bonhommes ici                 bo-nOm zi-si                  , les bonhommes ici .
+24216  bonhommes ici                 bo-nO mi-si                   , les bonhommes ici .
 24218  c(e) est                      se                           c(e) est TU ton tour ?
 24219  l' envers                     l@-vER                       mets à l' envers comme
 24222  c(e) est                      se                           c(e) est encore comme lui ?
@@ -14490,7 +14482,6 @@
 26366  elle était                    E le-tE                       elle était cachée .
 26370  il y                          i li                          ben il y en a un
 26370  en a                          @ na                          il y en a un
-26370  un ici                        1 ni-si                       un , un ici mais
 26372  c(e) (n'                      s#                           c(e) (n' ) est pas grave
 26373  il a                          i la                          bonhomme , il a des
 26378  il est                        i le                          il est où , le tunnel
@@ -15791,6 +15782,7 @@
 28808  écritures aussi               ze-kRi-ty Ro-si               a des écritures aussi .
 28814  elle a                        E la                          elle a défait donc il faut
 28814  donc il                       d§ kil                        a défait donc il faut
+28815  fait on                       fE t§                         en fait on LES met à
 28816  page ils                      pa Zilz                       à chaque page ils ont une
 28816  ils ont                       Zil z§                        chaque page ils ont une
 28817  d' accord                     da-kOR                       ah d' accord * .
@@ -16266,7 +16258,8 @@
 29663  vas y                         va zi                         tiens , vas y alors !
 29665  c(e) est                      se                           eh ben c(e) est celui de
 29666  il en                         i l@                          il en fait un autre .
-29666  un autre                      1 notR                        en fait un autre .
+29666  fait un                       fE t1n                        il en fait un autre .
+29666  un autre                      t1 notR                       en fait un autre .
 29668  alors à                       a-lO Ra                       ben alors à QUI il est
 29668  il est                        i le                          à QUI il est ?
 29669  c(e) est                      se                           ça , c(e) est Gaëtan qui
@@ -17091,6 +17084,7 @@
 30919  les oreilles                  le zo-REj                     pas sur les oreilles !
 30920  tes yeux                      te zj2                        sont , tes yeux ?
 30921  j(e) en                       Z@                           moi , j(e) en fait un
+30921  fait un                       fE t1                         j(e) en fait un .
 30928  son oeil                      s§ n9j                        un peu son oeil pa(r)ce
 30929  l' autre                      lotR                         allez , l' autre oeil ?
 30929  autre oeil                    lo tR9j                       , l' autre oeil ?
@@ -17576,6 +17570,7 @@
 31687  d' eau                        do                           la carafe d' eau ,
 31687  les assiettes                 le za-sjEt                    eau , les assiettes .
 31688  les assiettes                 le za-sjEt                    oui , les assiettes .
+31689  fait il                       fE til                        en fait il amème tout ça
 31691  il amène                      i la-mEn                      il amène tout ça p(u)is après
 31692  elle a                        E la                          plateau , elle a du
 31694  c' est                        se                           ce matin c' est .
@@ -21218,6 +21213,7 @@
 36833  j(e) espère                   ZEs-pER                      fait , j(e) espère ?
 36836  c(e) est                      se                           c(e) est un crocodile gentil .
 36837  c(e) est                      se                           oui , c(e) est des câlins
+36839  fait il                       fE til                        en fait il ne LE mange
 36843  il était                      i le-tE                       Sarah , il était gentil
 36845  c(e) est                      se                           c(e) est le Coco d' Anne
 36845  d' Anne                       d#                           le Coco d' Anne qui
@@ -21890,6 +21886,7 @@
 38094  défaire à                     de-fE Ra                      pas LE défaire à chaque
 38094  qu' elle                      kEl                          chaque fois qu' elle en
 38094  elle en                       kE l@                         fois qu' elle en fait
+38094  fait une                      fE tyn                        elle en fait une .
 38096  c(e) (n'                      s#                           c(e) (n' ) est pas gentil
 38097  qu' on                        k§                           , est-ce qu' on défait
 38098  c(e) (n'                      s#                           non , c(e) (n' )
@@ -22131,6 +22128,7 @@
 38490  L' a                          la                           on ne L' a pas
 38491  qu' il                        kil                          parce qu' il ne fallait pas
 38493  d' accord                     da-kOR                       d' accord .
+38498  plus avec                     ply sa-vEk                    en plus avec des coups de
 38503  il y                          i li                          il y en a un là
 38503  en a                          @ na                          il y en a un là
 38504  vas y                         va zi                         ben vas y , attrape LE
@@ -22140,7 +22138,6 @@
 38508  il est                        i le                          il est parti au soleil maintenant
 38509  il y                          i li                          et il y en a un
 38509  en a                          @ na                          il y en a un
-38509  un ici                        1 ni-si                       en a un ici .
 38514  faire une                     fE Ryn                        on peut faire une petite comme
 38515  c(e) est                      se                           c(e) est joli aussi , deux
 38521  vas y                         va zi                         ben vas y !
@@ -23353,7 +23350,6 @@
 40193  qu' il                        kil                          je crois qu' il y
 40193  il y                          ki li                         crois qu' il y en
 40193  en a                          @ na                          il y en a un
-40193  un ici                        1 ni-si                       en a un ici .
 40194  l' autre                      lot                          et l' autre de l' autre
 40194  l' autre                      lot                          autre de l' autre de
 40194  l' autre                      lot                          autre de l' autre côté
@@ -23979,8 +23975,8 @@
 41067  aux enfants                   Ro z@-f@                      faisaient peur aux enfants ou
 41068  peur à                        p2 Ra                         ils faisaient peur à les
 41068  les enfants                   le z@-f@                      peur à les enfants .
-41072  plus il                       ply zil                       en plus il est assez grand
-41072  il est                        zi le                         en plus il est assez grand
+41072  plus il                       ply sil                       en plus il est assez grand
+41072  il est                        si le                         en plus il est assez grand
 41072  qu' ils                       kilz                         grand pour qu' ils aillent
 41072  ils aillent                   kil zaj                       pour qu' ils aillent tous
 41080  ils ont                       il z§                         patatras , ils ont tout débaroulé
@@ -24084,8 +24080,7 @@
 41239  les enfants                   le z@-f@                      chaises et les enfants ,
 41239  ils iront                     il zi-R§                      enfants , ils iront sur
 41240  c(e) (n'                      s#                           oui , c(e) (n' )
-41249  petits ensemble               p°-ti z@-s@bl                 tous les petits ensemble alors
-41249  ensemble alors                z@-s@ bla-lOR                 les petits ensemble alors .
+41249  ensemble alors                @-s@ bla-lOR                  les petits ensemble alors .
 41250  alors on                      a-lO R§n                      bon , alors on enlève la
 41250  on enlève                     R§ n@-lEv                     , alors on enlève la
 41252  il y                          i li                          tiens , il y a quatre
@@ -24710,8 +24705,7 @@
 42151  qu' il                        kil                          QU' est-ce qu' il y a
 42151  il y                          ki li                         est-ce qu' il y a
 42152  il y                          i li                          eh mais il y a des
-42152  des il                        de zil                        y a des il y
-42152  il y                          zi li                         a des il y a
+42152  il y                          i li                          a des il y a
 42152  une assiette                  y na-sjEt                     y a une assiette pour
 42153  il y                          i li                          il y en a plusieurs là
 42153  en a                          @ na                          il y en a plusieurs là

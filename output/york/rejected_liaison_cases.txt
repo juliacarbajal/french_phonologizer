@@ -138,6 +138,7 @@
 645 t elle                         où va t elle ?
 648 est elle                       c(e) est elle va au dessus
 653 haut est                       partie du haut est faite
+655 bleues ici                     des fleurs bleues ici .
 668 toujours une                   ça a toujours une queue
 668 hein oui                       poisson , hein oui ?
 674 peut y                         il ne peut y avoir
@@ -648,6 +649,7 @@
 3222 enlèverais un                 , j(e) enlèverais un peu
 3223 déborder à                   ça va déborder à la
 3225 froid aux                      pas trop froid aux pieds
+3227 chaudes évidemment            mains très chaudes évidemment .
 3231 réponds à                    réponds à mamy !
 3233 froid aux                      j(e) ai froid aux pieds
 3234 froid aux                      ai pas froid aux pieds
@@ -1104,6 +1106,7 @@
 5382 peintures à                   que des peintures à l'
 5388 vont être                     tes doigts vont être beaux ?
 5392 couleurs alors                 toutes les couleurs alors ,
+5393 beaux ils                      pour être beaux ils sont beaux
 5396 pas être                      ne va pas être sur
 5401 fais un                        fais un peu voir !
 5412 bientôt avoir                 on va bientôt avoir fini
@@ -1251,6 +1254,7 @@
 5997 pas eu                         n' a pas eu de
 6003 ben oui                        eh ben oui , tu peux
 6004 donner à                      , pour donner à boire
+6005 plus elle                      en plus elle n' est pas
 6006 ânes il                       les petits ânes il (n'
 6012 mais on                        mais on ne pourra même plus
 6013 dehors et                      renfermeras parrain dehors et pas
@@ -1710,6 +1714,7 @@
 8415 partout où                    on saute partout où i(l)
 8428 ben i(l)                       ben i(l) est ici * .
 8428 est ici                        ben i(l) est ici * .
+8429 un ici                         en a un ici .
 8462 ben on                         ben on va le voir .
 8470 est arrivé                    i(l) est arrivé , le petit
 8484 maman ici                      c(e) est maman ici .
@@ -1883,6 +1888,7 @@
 9870 graines aux                    des petites graines aux petits
 9871 poussins à                    les petits poussins à côté
 9873 es assis                       t(u) es assis dessus .
+9874 autres ici                     a d' autres ici *
 9882 lapin est                      * lapin est dans l' eau
 9883 lapin est                      , le lapin est dans
 9890 ben oui                        ah ben oui , tu peux
@@ -3048,6 +3054,7 @@
 17490 fait apparaître               il a fait apparaître des boules
 17492 ben à                         ben à quoi tu veux jouer
 17496 veux où                       tu le veux où ,
+17502 gros ici                       le gros ici là ?
 17504 viens ici                      viens ici , max !
 17507 pas avoir                      ne peut pas avoir de
 17514 est à                         , c(e) est à toi
@@ -3128,6 +3135,7 @@
 17932 plus haut                      plus haut ?
 17933 plus haut                      plus haut , max ?
 17936 plus haut                      plus haut ?
+17964 les ici                        mets les ici !
 17966 comment il                     comment il s' appelle , lui
 17988 est un                         il est un peu plus difficile
 18000 ben oui                        ah ben oui c(e) est ernest
@@ -3177,6 +3185,7 @@
 18325 j'suis allée                  j'suis allée chez ma maman .
 18336 montrer à                     veux les montrer à maman
 18342 est un                         , c(e) est un petit
+18347 gros ici                       a un gros ici ouh
 18352 vas en                         tu vas en prendre parce que
 18354 est une                        , c(e) est une roche
 18356 non il                         non il (n' ) est pas
@@ -3363,7 +3372,9 @@
 19443 faut aller                     il faut aller le chercher avec
 19443 chercher avec                  aller le chercher avec l'
 19446 amener à                      va l' amener à l'
+19467 bonhommes ici                  plein de bonhommes ici .
 19470 jouer avec                     on va jouer avec tes bonhommes
+19470 bonhommes ici                  avec tes bonhommes ici .
 19477 jouer aux                      va aller jouer aux bonhommes
 19482 et ici                         et ici .
 19487 ouais on                       ouais on peut prendre la bicyclette
@@ -3550,6 +3561,7 @@
 20469 mettait ensemble               on les mettait ensemble ?
 20470 ben on                         ok ben on met les crocroc
 20476 orteils avec                   les orteils avec les orteils .
+20484 un ici                         ai trouvé un ici ,
 20493 non il                         non il ne va pas là
 20498 ben oui                        ben oui c(e) est lui .
 20499 ben oui                        ben oui t(u) avais raison .
@@ -3558,6 +3570,7 @@
 20519 ben alors                      oh ben alors .
 20527 dépêcher à                  faut se dépêcher à le
 20543 bon on                         bon on demande des fessées ,
+20554 un ici                         en a un ici .
 20563 veux aller                     tu veux aller chercher l' autre
 20570 viens ici                      ben viens ici !
 20590 prends elle                    , je prends elle ?
@@ -3931,6 +3944,7 @@
 23063 vais essayer                   mhm je vais essayer .
 23078 jouer à                       veux tu jouer à ça ?
 23080 jouer à                       veux pas jouer à ça
+23081 bonhommes ici                  donc tes bonhommes ici !
 23087 jouer à                       veux tu jouer à ça
 23092 ben oui                        ben oui je * à les
 23095 maman est                      séchée , maman est partie
@@ -3942,6 +3956,7 @@
 23145 comment on                     puis ensuite comment on fait
 23149 est une                        c(e) est une belle galette .
 23150 mien aussi                     le mien aussi ?
+23161 bonhommes ici                  un des bonhommes ici .
 23163 doigt ici                      met mon doigt ici .
 23164 puis ensuite                   et puis ensuite je met de
 23166 dedans aussi                   ah là dedans aussi .
@@ -4016,6 +4031,7 @@
 23520 mais il                        ouais , mais il y en
 23521 est à                         , c(e) est à toi
 23523 ben oui                        ben oui .
+23545 autres ils                     ben les autres ils *
 23550 gars aussi                     du petit gars aussi ,
 23560 ben oui                        ah ben oui .
 23562 puis il                        et puis il y a willy
@@ -4119,10 +4135,12 @@
 24084 est un                         c(e) est un petit lapin .
 24097 peut utiliser                  si elmo peut utiliser ça ,
 24097 peut utiliser                  , max peut utiliser ça
+24108 plus ici                       ) est plus ici .
 24127 comment il                     sais pas comment il s'
 24150 essuyer avec                   peux les essuyer avec ça
 24155 viens ici                      viens ici !
 24168 viens ici                      viens ici !
+24216 bonhommes ici                  , les bonhommes ici .
 24217 as oublié                     , tu as oublié ?
 24219 mets à                        tu te mets à l' envers
 24222 est encore                     c(e) est encore comme lui ?
@@ -4489,6 +4507,7 @@
 26362 deux ici                       en a deux ici .
 26364 ben oui                        ah ben oui .
 26370 ben il                         ben il y en a un
+26370 un ici                         un , un ici mais
 26371 ben il                         ben il rentre dedans mais il
 26371 mais il                        rentre dedans mais il va
 26374 ben on                         ben on va le mettre là
@@ -6835,6 +6854,7 @@
 38498 plus avec                      en plus avec des coups de
 38500 tien et                        fais le tien et moi
 38509 et il                          et il y en a un
+38509 un ici                         en a un ici .
 38511 ben il                         ben il manque quelque chose ,hein
 38513 sinon on                       sinon on peut en faire deux
 38513 peut en                        sinon on peut en faire deux
@@ -7273,6 +7293,7 @@
 40181 mets où                       tu le mets où ?
 40190 camembert ou                   préfères le camembert ou le
 40192 mais oui                       mais oui , je t' attends
+40193 un ici                         en a un ici .
 40195 après on                      après on a deux bouteilles de
 40202 et ensuite                     et ensuite j(e) ai deux pots
 40203 et un                          de fraises et un pot
@@ -7497,6 +7518,7 @@
 41061 disait au                      elle disait au secours , au
 41067 enfants ou                     peur aux enfants ou ils
 41070 toboggan encore                fait du toboggan encore ,
+41072 plus il                        en plus il est assez grand
 41072 est assez                      plus il est assez grand
 41072 trois à                       tous les trois à la
 41082 allez allez                    allez allez , on se dépêche
@@ -7534,6 +7556,7 @@
 41230 ben attends                    ah ben attends !
 41234 papas avec                     pas les papas avec les
 41238 pas assez                      y a pas assez de
+41249 petits ensemble                tous les petits ensemble alors
 41250 alors on                       bon , alors on enlève la
 41261 ben ouais                      ben ouais , c(e) est bien
 41267 ben oui                        ben oui .
@@ -7774,6 +7797,7 @@
 42146 manges avec                    , tu manges avec le
 42148 manger avec                    peut pas manger avec nous
 42152 mais il                        eh mais il y a des
+42152 des il                         y a des il y
 42168 donnes à                      tu me donnes à boire ?
 42170 donnes à                      tu me donnes à manger aussi
 42170 manger aussi                   donnes à manger aussi ,

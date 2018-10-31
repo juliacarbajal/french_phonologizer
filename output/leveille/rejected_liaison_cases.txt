@@ -494,6 +494,7 @@
 2609 mois au                        pendant un mois au maximum
 2639 rien à                        y a rien à faire !
 2641 photos et                      * deux photos et le flash
+2643 premier a                      si le premier a marché
 2650 doit être                     non ça doit être le ,
 2650 doit y                         , il doit y avoir
 2654 non y                          non y en a plus ,
@@ -1724,6 +1725,7 @@
 7390 coins et                       plein de coins et de
 7395 prend aussi                    , il prend aussi de
 7395 mais en                        farine , mais en plus
+7395 plus il                        mais en plus il met
 7402 est un                         c' est un mur tu crois
 7407 mais on                        planche , mais on enlève
 7410 est un                         c' est un arbre , c'
@@ -1952,6 +1954,7 @@
 8179 joueras avec                   tu joueras avec quand tu l'
 8180 pas un                         c' est pas un jeu .
 8181 joueras avec                   tu joueras avec quand tu auras
+8184 petit intéressant             fais ton petit intéressant là
 8189 pas aller                      tu pourras pas aller au manège
 8189 aller au                       pourras pas aller au manège
 8191 ben alors                      ben alors faut pas être bébé
@@ -2541,6 +2544,7 @@
 10308 ben on                         ben on les met dans ce
 10312 vois il                        , tu vois il tombe
 10312 roues elles                    que les roues elles sont
+10312 hautes ici                     sont très hautes ici ,
 10312 dessous et                     passe au dessous et c'
 10321 est arrêté                   il s' est arrêté ?
 10324 pas arrêté                   s' était pas arrêté ?
@@ -2549,6 +2553,7 @@
 10331 pas au                         il freinait pas au feu
 10338 fait une                       , on fait une petite
 10358 regarder avec                  peux le regarder avec clara
+10366 rouges y                       des rouges y a aussi .
 10367 animaux y                      quels animaux y a dans ce
 10368 fait avec                      qu' on fait avec les
 10369 fort aussi                     parles tout fort aussi clara
@@ -2715,6 +2720,7 @@
 11050 est un                         que c' est un morceau
 11051 plutôt un                     serait pas plutôt un morceau
 11052 pas un                         te serais pas un peu
+11055 plus ils                       en plus ils ont la même
 11059 doit être                     ça doit être ça l' astuce
 11064 sautes avec                    tu sautes avec quoi ?
 11065 sautes avec                    tu sautes avec les plantes ?
@@ -2938,6 +2944,7 @@
 11779 et il                          train , et il avait
 11779 avait été                    et il avait été dans
 11779 endroit où                    dans un endroit où y
+11782 autres ils                     et les autres ils étaient dedans
 11783 alors où                      alors où est-ce que tu es
 11783 es allé                       que tu es allé avec
 11786 et avec                        et avec liliane ?
@@ -3876,7 +3883,9 @@
 15272 pas une                        c' est pas une gare
 15275 toujours un                    c' est toujours un hangar
 15275 un hangar                      est toujours un hangar .
+15281 premier octobre                premier octobre soixante douze , pile
 15284 et alors                       et alors ?
+15285 premier octobre                est le premier octobre soixante
 15286 et alors                       et alors ?
 15287 ben alors                      ben alors je sais pas s'
 15289 deux octobre                   nomment le deux octobre ,
@@ -3915,6 +3924,7 @@
 15373 premier alors                  et le premier alors ?
 15375 as un                          t' en as un chez
 15375 et un                          chez mamie et un ici
+15375 un ici                         mamie et un ici ,
 15377 vais arrêter                  ben je vais arrêter là
 15378 écouter un                    te faire écouter un petit
 15378 as été                       comme tu as été très
@@ -4106,6 +4116,7 @@
 16109 froid ou                       entre le froid ou l'
 16111 faudrait aussi                 * il faudrait aussi vérifier
 16116 passer un                      faudrait peut-être passer un coup
+16119 quelqu'un il                   y avait quelqu'un il serait
 16119 serait asphyxié               quelqu'un il serait asphyxié là
 16130 chapeaux en                    faire les chapeaux en papier
 16151 et alors                       et alors , qu' est-ce qui
@@ -5498,6 +5509,7 @@
 21764 mais où                       mais où est-ce qu' elle veut
 21764 veut aller                     qu' elle veut aller ?
 21769 alors elle                     alors elle s' en va dans
+21791 vous ici                       que faites vous ici madame la
 21793 suis échappée                je me suis échappée de chez
 21814 pas été                      elle aurait pas été mangée par
 21815 ben alors                      ben alors elle aurait mieux fait
@@ -5531,6 +5543,7 @@
 21930 après ils                     et puis après ils peuvent
 21933 toujours en                    qui reste toujours en bas
 21933 bas et                         toujours en bas et qui
+21936 autres ils                     , les autres ils ont
 21938 ben on                         ben on * on reste à
 21938 tombent on                     gens qui tombent on les
 21940 et après                      et après ?

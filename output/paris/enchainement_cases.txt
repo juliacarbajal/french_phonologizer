@@ -595,7 +595,6 @@
 1086   c' est                        se                           pas que c' est Florence
 1087   elle est                      E le                          que maman elle est pas
 1087   d' accord                     da-kOR                       est pas d' accord pour
-1089   plus elle                     ply zEl                       Florence non plus elle n' est
 1089   n' est                        ne                           plus elle n' est pas
 1089   d' accord                     da-kOR                       est pas d' accord .
 1090   n' est                        ne                           personne n' est d' accord .
@@ -1404,8 +1403,7 @@
 2341   l' a                          la                           elle l' a pas vraiment perdu
 2345   qu' est-ce                    kEs                          petite fille qu' est-ce que
 2348   qu' est-ce                    kEs                          qu' est-ce que tu lui fais
-2350   plus elle                     ply zEl                       fille non plus elle est
-2350   elle est                      zE le                         non plus elle est pas
+2350   elle est                      E le                          non plus elle est pas
 2351   d' jaloux                     dZa-lu                       a pas d' jaloux .
 2352   c' est                        se                           et ben c' est le petit
 2353   c' est                        se                           c' est un coquin .
@@ -2469,7 +2467,7 @@
 3906   on a                          t§ na                         que quand on a soixante
 3906   cinq ans                      s5 k@                         a soixante cinq ans c'
 3906   c' est                        se                           cinq ans c' est .
-3907   précédentes est               pRe-se-d@t ze                 des générations précédentes est moins
+3907   précédentes est               pRe-se-d@ te                  des générations précédentes est moins
 3908   d' accord                     da-kOR                       ah d' accord .
 3910   d' accord                     da-kOR                       ouais d' accord .
 3911   quand il                      k@ til                        on verra quand il grandira
@@ -2927,12 +2925,14 @@
 4606   qu' on                        k§n                          même parce qu' on en
 4606   on en                         k§ n@n                        parce qu' on en a
 4606   en a                          n@ na                         qu' on en a vaguement
-4607   elle a                        E la                          en fait elle a confondu
+4607   fait elle                     fE tEl                        et en fait elle a confondu
+4607   elle a                        tE la                         en fait elle a confondu
 4607   Léonard et                    le-o-na Re                    a confondu Léonard et Philippe
 4609   d' avant                      da-v@                        la fois d' avant Philippe
 4609   Philippe était                fi-li pe-tE                   d' avant Philippe était venu
 4610   c' est                        se                           me dire c' est mon
-4611   elle a                        E la                          en fait elle a dû
+4611   fait elle                     fE tEl                        et en fait elle a dû
+4611   elle a                        tE la                         en fait elle a dû
 4612   c' est                        se                           son copain c' est Léonard
 4613   c' est                        se                           ouais enfin c' est un peu
 4616   c' est                        se                           c' est pas beau .
@@ -3700,8 +3700,8 @@
 5835   c' est                        se                           oui ça c' est vrai
 5835   c' est                        se                           pépé Aldo c' est le
 5836   c' est                        se                           comment ça c' est pas ça
-5838   les autres                    le zotRz                      ouais les autres elles sont jaunes
-5838   autres elles                  zotR zEl                      ouais les autres elles sont jaunes
+5838   les autres                    le zotR                       ouais les autres elles sont jaunes
+5838   autres elles                  zo tREl                       ouais les autres elles sont jaunes
 5839   c' est                        se                           est-ce que c' est que
 5840   qu' est-ce                    kEs                          qu' est-ce que c' est ?
 5840   c' est                        se                           est-ce que c' est ?
@@ -3942,6 +3942,7 @@
 6078   qu' il                        kil                          content parce qu' il pense
 6078   qu' il                        kil                          il pense qu' il les
 6078   les a                         le za                         qu' il les a tués
+6078   fait il                       fE til                        et en fait il s'
 6078   s' aperçoit                   sa-pER-swa                   fait il s' aperçoit qu'
 6078   qu' il                        kil                          s' aperçoit qu' il les
 6078   les a                         le za                         qu' il les a pas
@@ -4331,6 +4332,7 @@
 6587   d' imitation                  di-mi-ta-sj§                 tentative d' imitation d' une souris
 6587   d' une                        dyn                          d' imitation d' une souris
 6588   d' ailleurs                   da-j9R                       assez réussie d' ailleurs .
+6589   plus euh                      ply s2                        fait en plus euh une
 6589   une heure                     y n9R                         plus euh une heure qu'
 6589   qu' on                        k§                           une heure qu' on joue
 6591   qu' est-ce                    kEs                          qu' est-ce que tu veux ?
@@ -4566,8 +4568,7 @@
 6940   les à                         le za                         donne les à papa les lunettes
 6941   belle avec                    bE la-vEk                     j'suis belle avec les lunettes ?
 6944   j' y                          Zi                           comme moi j' y vois
-6944   plus on                       ply z§n                       rien non plus on est
-6944   on est                        z§ ne                         non plus on est mal
+6944   on est                        § ne                          non plus on est mal
 6948   très attention                tRE za-t@-sj§                 tu fais très attention .
 6949   lunettes elles                ly-nE tEl                     rendre mes lunettes elles sont
 6952   c' est                        se                           c' est tout noir .
@@ -4678,10 +4679,11 @@
 7064   c' est                        se                           ah non c' est un carré
 7065   mise au                       mi zo                         truc de mise au point
 7067   rouge en                      Ru Z@                         p(e)tit rond rouge en bas
-7068   il est                        i le                          en fait il est pas si
+7068   fait il                       fE til                        en fait il est pas si
+7068   il est                        ti le                         en fait il est pas si
 7068   qu' on                        k§                           si intelligent qu' on croit
-7069   plus il                       ply zil                       en plus il est daltonien pa(r)ce
-7069   il est                        zi le                         en plus il est daltonien pa(r)ce
+7069   plus il                       ply sil                       en plus il est daltonien pa(r)ce
+7069   il est                        si le                         en plus il est daltonien pa(r)ce
 7072   t' es                         tE                           t' es doué hein .
 7073   m' étonnerait                 me-tOn-RE                    ça m' étonnerait .
 7074   c' est                        se                           c' est qui Vérona Fouillou ?
@@ -5063,8 +5065,7 @@
 7536   t' arrives                    ta-Riv                       si t' arrives à nous voir
 7536   arrives à                     ta-Ri va                      si t' arrives à nous voir
 7537   j' crois                      SkRwa                        j' crois que plus il est
-7537   plus il                       ply zil                       crois que plus il est
-7537   il est                        zi le                         que plus il est au
+7537   il est                        i le                          que plus il est au
 7537   c' est                        se                           table mieux c' est .
 7538   c' est                        se                           là c' est bon .
 7539   j' ai                         ZE                           j' ai commencé à faire ça
@@ -5630,7 +5631,6 @@
 8241   elle est                      kE le                         est-ce qu' elle est plus
 8242   c' est                        se                           parce que c' est très
 8242   l' heure                      l9R                          très lent l' heure tu
-8244   plus elle                     ply zEl                       mienne non plus elle tourne
 8245   il est                        i le                          il est quelle heure ?
 8245   quelle heure                  kE l9R                        il est quelle heure ?
 8246   quarante et                   ka-R@ te                      quarante et demi .
@@ -5993,7 +5993,7 @@
 8674   j' ai                         ZE                           est-ce que j' ai le droit
 8674   mettre Aliyah                 mE tRa-li-ja                  de le mettre Aliyah ?
 8676   c' est                        se                           c' est vrai ?
-8677   plus il                       ply zil                       en plus il risque de ,
+8677   plus il                       ply sil                       en plus il risque de ,
 8678   qu' est-ce                    kEs                          qu' est-ce qu' y a dans
 8678   qu' y                         ki                           qu' est-ce qu' y a dans
 8679   c' est                        se                           et c' est tout ?
@@ -6047,6 +6047,7 @@
 8751   t' as                         ta                           oh ben t' as changé d'
 8751   d' avis                       da-vi                        as changé d' avis .
 8753   qu' est-ce                    kEs                          alors qu' est-ce que tu veux
+8753   fait on                       fE t§                         veux en fait on comprend
 8754   t' étais                      te-tE                        tu t' étais trompé ?
 8759   c' est                        se                           c' est pas Basile c' est
 8759   c' est                        se                           pas Basile c' est du
@@ -6370,6 +6371,7 @@
 9162   peinture atelier              p5-ty Ra-t°-lje               ateliers atelier peinture atelier gommettes
 9164   qu' il                        kil                          heureusement qu' il y a une
 9164   il y                          ki li                         heureusement qu' il y a une
+9166   fait y                        fE ti                         en fait y avait plein de
 9168   en avait                      @ na-vE                       que y' en avait marre
 9170   c' est                        se                           c' est vachement bien les gommettes
 9170   j' adore                      Za-dOR                       gommettes moi j' adore .
@@ -6756,7 +6758,8 @@
 9649   cour où                       ku Ru                         dans la cour où il fait
 9649   film y                        fil mi                        fait le film y a
 9652   c' était                      se-tE                        comme si c' était le jour
-9654   il a                          i la                          en fait il a fini le
+9654   fait il                       fE til                        en fait il a fini le
+9654   il a                          ti la                         en fait il a fini le
 9654   tournage et                   tuR-na Ze                     fini le tournage et là
 9654   il est                        i le                          et là il est en
 9654   vraies informations           vRE z5-fOR-ma-sj§             monter les vraies informations .
@@ -6859,11 +6862,9 @@
 9736   dire à                        di Ra                         est te dire à quel
 9736   c' est                        se                           quel point c' est pas
 9737   alors il                      a-lO Ril                      alors il faut un petit bâton
-9738   grand a                       gR@ ta                        un grand a comme ça a
 9739   Léonard il                    le-o-na Ril                   et Léonard il pose des questions
 9739   l' accouchement               la-kuS-m@                    questions sur l' accouchement tout
 9741   c' est                        se                           c' est un grand a .
-9741   grand a                       gR@ ta                        est un grand a .
 9742   il est                        i le                          ah ouais il est très large
 9745   c' est                        se                           comme ça c' est un
 9746   faire un                      fE R1n                        tu sais faire un l
@@ -7877,6 +7878,7 @@
 11125  encore une                    S@-kO Ryn                     on cherche encore une fleur
 11127  vas y                         va zi                         vas y .
 11128  vas y                         va zi                         vas y * .
+11131  fait elle                     fE tEl                        mais en fait elle les mange
 11132  sens avec                     s@ sa-vEk                     tu les sens avec la bouche
 11134  j(e) crois                    SkRwa                        celles ci j(e) crois qu' elles
 11134  qu' elles                     kEl                          j(e) crois qu' elles sentent
@@ -7894,9 +7896,9 @@
 11144  comme elle                    kO mEl                        as vu comme elle est
 11144  elle est                      mE le                         vu comme elle est belle
 11146  vas y                         va zi                         vas y .
-11149  les autres                    le zotRz                      ah les autres elles étaient plus
-11149  autres elles                  zotR zElz                     ah les autres elles étaient plus
-11149  elles étaient                 zEl ze-tE                     les autres elles étaient plus
+11149  les autres                    le zotR                       ah les autres elles étaient plus
+11149  autres elles                  zo tRElz                      ah les autres elles étaient plus
+11149  elles étaient                 tREl ze-tE                    les autres elles étaient plus
 11151  elle embaume                  E l@-bom                      elle embaume .
 11152  qu' est-ce                    kEs                          qu' est-ce que c' est qu(e)
 11152  c' est                        se                           est-ce que c' est qu(e)
@@ -8223,6 +8225,7 @@
 11555  j(e) lui                      Zl8i                         tu sais j(e) lui ai donné
 11555  ses un                        se z1n                        Fisher-Price pour ses un an
 11555  un an                         z1 n@                         pour ses un an .
+11556  fait il                       fE til                        et en fait il ressemble pas
 11556  tout à                        tu ta                         pas du tout à *
 11560  téléphones à                  te-le-fO na                   tu téléphones à qui Madeleine ?
 11561  c' est                        se                           c' est fou hein * !
@@ -8519,7 +8522,7 @@
 11896  elle est                      kE le                         crois qu' elle est mieux
 11897  c' est                        se                           mais c' est la pluie qui
 11897  les a                         le za                         pluie qui les a toutes
-11897  toutes abîmées                tut za-bi-me                  les a toutes abîmées .
+11897  toutes abîmées                tu ta-bi-me                   les a toutes abîmées .
 11898  c' est                        se                           le problème c' est qu(e)
 11898  qu(e) ça                      ksa                          c' est qu(e) ça pique
 11899  en a                          @ na                          bas y en a des
@@ -8999,6 +9002,7 @@
 12692  elle est                      E le                          elle est là .
 12698  t(u) as                       ta                           oh t(u) as vu comme elle
 12698  comme elle                    kO mEl                        as vu comme elle fait
+12700  fait y                        fE ti                         et en fait y a une
 12700  l' intéresse                  l5-te-REs                    chose qui l' intéresse !
 12701  j(e) peux                     Sp2                          j(e) peux , j(e) peux la
 12701  j(e) peux                     Sp2                          peux , j(e) peux la
@@ -9075,6 +9079,7 @@
 12816  qu' est-ce                    kEs                          qu' est-ce que tu fais Madeleine
 12817  t(u) as                       ta                           t(u) as besoin d' une main
 12817  d' une                        dyn                          as besoin d' une main
+12819  fait elle                     fE tEl                        en fait elle parle pas beaucoup
 12821  est elle                      e tEl                         oh où est elle Madeleine ?
 12823  est elle                      e tEl                         où est elle Madeleine ?
 12830  d(e) feuille                  df9j                         p(e)tit bout d(e) feuille ?
@@ -11945,6 +11950,7 @@
 17400  elles ont                     El z§                         elles ont l' air toutes douces
 17400  l' air                        lER                          elles ont l' air toutes douces
 17400  ces oreilles                  se zo-REj                     toutes douces ces oreilles de
+17401  fait hier                     fE tjER                       et en fait hier Marie avait
 17402  elle est                      E le                          et elle est , elle est
 17402  elle est                      E le                          est , elle est rentrée
 17402  par euh                       pa R2                         est rentrée par euh .
@@ -12083,6 +12089,7 @@
 17574  elle a                        E la                          elle a elle est mal tombée
 17574  elle est                      E le                          elle a elle est mal tombée
 17574  d' arçon                      daR-s§                       du saut d' arçon à
+17576  fait au                       fE to                         en fait au lieu d(e) retomber
 17576  d(e) retomber                 dR°-t§-be                    au lieu d(e) retomber sur
 17576  d' arçon                      daR-s§                       le cheval d' arçon elle
 17576  elle est                      E le                          d' arçon elle est retombée
@@ -12586,8 +12593,7 @@
 18333  t' as                         ta                           t' as ton , capuchon .
 18337  c' est                        se                           c' est son programme .
 18338  on est                        § ne                          on est tous , très enrhumés
-18338  très enrhumés                 tRE z@-Ry-mez                 tous , très enrhumés ici
-18338  enrhumés ici                  z@-Ry-me zi-si                , très enrhumés ici .
+18338  très enrhumés                 tRE z@-Ry-me                  tous , très enrhumés ici
 18339  vous êtes                     vu zEt                        ah bon vous êtes tous très
 18339  très enrhumés                 tRE z@-Ry-me                  êtes tous très enrhumés ?
 18340  t(u) es                       tE                           t(u) es enrhumée aussi Madeleine ?
@@ -12727,6 +12733,7 @@
 18482  l' ogre                       lOgR                         bottes de l' ogre et
 18482  ogre et                       lO gRe                        de l' ogre et comme
 18482  magiques et                   ma-Zi ke                      des bottes magiques et ben
+18482  fait elles                    fE tEl                        ben en fait elles vont
 18483  qu' elles                     kEl                          tellement magiques qu' elles permettent
 18483  d' aller                      da-le                        elles permettent d' aller très
 18485  retourne à                    R°-tuR na                     , il retourne à la
@@ -12758,6 +12765,7 @@
 18502  d(e) la                       dla                          l(e) musée d(e) la Poste
 18503  qu' en                        k@                           parce qu' en fait c' était
 18503  c' était                      se-tE                        en fait c' était les
+18506  fait y                        fE ti                         et en fait y avait sept
 18508  des énormes                   de ze-nORm                    postillons avaient des énormes bottes
 18508  qu' on                        k§                           très solides qu' on pouvait
 18509  s(e) glissaient               sgli-sE                      fait i(l)s s(e) glissaient dans
@@ -12855,6 +12863,7 @@
 18574  gros ours                     gRo zuRs                      et le gros ours dit tout
 18574  quelqu' un                    kEl k1n                       suite mais quelqu' un a
 18574  un a                          k1 na                         mais quelqu' un a touché
+18575  moyen ours                    mwa-jE nuRs                   et le moyen ours d' une
 18575  d' une                        dyn                          moyen ours d' une moyenne
 18575  quelqu' un                    kEl k1n                       moyenne voix quelqu' un a
 18575  un a                          k1 na                         voix quelqu' un a dérangé
@@ -12866,6 +12875,7 @@
 18578  bol et                        bO le                         regarda son bol et dit
 18578  quelqu' un                    kEl k1n                       et dit quelqu' un a
 18578  un a                          k1 na                         dit quelqu' un a regardé
+18579  moyen ours                    mwa-jE nuRs                   et le moyen ours quelqu' un
 18579  quelqu' un                    kEl k1n                       moyen ours quelqu' un a
 18579  un a                          k1 na                         ours quelqu' un a goûté
 18580  petit ours                    p°-ti tuRs                    le tout petit ours regarda
@@ -12877,6 +12887,7 @@
 18582  grand ours                    gR@ tuRs                      le grand ours regarda son grand
 18582  quelqu' un                    kEl k1n                       et dit quelqu' un a
 18582  un a                          k1 na                         dit quelqu' un a touché
+18583  moyen ours                    mwa-jE nuRs                   et le moyen ours quelqu' un
 18583  quelqu' un                    kEl k1n                       moyen ours quelqu' un est
 18583  un est                        k1 ne                         ours quelqu' un est monté
 18584  petit ours                    p°-ti tuRs                    le tout petit ours cria
@@ -12889,6 +12900,7 @@
 18591  grand ours                    gR@ tuRs                      le grand ours lui cria de
 18591  quand on                      k@ t§                         qui arrive quand on n'
 18591  n' écoute                     ne-kut                       quand on n' écoute pas
+18592  moyen ours                    mwa-jE nuRs                   et le moyen ours de sa
 18593  petit ours                    p°-ti tuRs                    et le petit ours de sa
 18593  bonne idée                    bO ni-de                      eut la bonne idée de
 18593  s' écrier                     se-kRi-je                    idée de s' écrier aussi
@@ -12916,8 +12928,8 @@
 18610  qu' est-ce                    kEs                          qu' est-ce que c' est ça
 18610  c' est                        se                           est-ce que c' est ça
 18612  c' est                        se                           bah non c' est pas
-18613  plus il                       ply zil                       en plus il est pas bleu
-18613  il est                        zi le                         en plus il est pas bleu
+18613  plus il                       ply sil                       en plus il est pas bleu
+18613  il est                        si le                         en plus il est pas bleu
 18614  qu' est-ce                    kEs                          qu' est-ce que c' est ça
 18614  c' est                        se                           est-ce que c' est ça
 18614  c' est                        se                           est ça c' est une
@@ -13208,7 +13220,6 @@
 18911  merle un                      mER l1                        croqua un merle un lap(e)reau
 18914  fort et                       fO Re                         loup redevint fort et beau
 18914  il avait                      i la-vE                       que lorsqu' il avait faim
-18914  plus il                       ply zil                       et jamais plus il ne
 18914  petit enfant                  p°-ti t@-f@                   mangea de petit enfant .
 18915  on allait                     § na-lE                       et si on allait faire le
 18918  une autre                     y notR                        , tiens une autre !
@@ -13790,8 +13801,8 @@
 19682  j' y                          Zi                           moi j' y ai jamais joué
 19683  l' école                      le-kOl                       kermesse de l' école .
 19687  un un                         1 n1                          un un deux deux trois trois
-19688  les autres                    le zotRz                      p(u)is les autres on va dire
-19688  autres on                     zotR z§                       p(u)is les autres on va dire
+19688  les autres                    le zotR                       p(u)is les autres on va dire
+19688  autres on                     zo tR§                        p(u)is les autres on va dire
 19688  qu(e) c'                      ks'                          va dire qu(e) c' est
 19688  c' est                        kse                          dire qu(e) c' est la
 19689  elle a                        E la                          elle a joué avec Marie déjà
@@ -14257,8 +14268,8 @@
 20287  c' est                        se                           c' est du vent ?
 20288  c' est                        se                           c' est des p(e)tits moulins ?
 20292  c' est                        se                           ah c' est gentil .
-20302  les autres                    le zotRz                      et les autres elles tournent ?
-20302  autres elles                  zotR zEl                      et les autres elles tournent ?
+20302  les autres                    le zotR                       et les autres elles tournent ?
+20302  autres elles                  zo tREl                       et les autres elles tournent ?
 20306  j' ai                         ZE                           j' ai pas mis de sucre
 20307  c' est                        se                           c' est pas grave .
 20309  qu' est-ce                    kEs                          qu' est-ce que c' est ce
@@ -14364,7 +14375,8 @@
 20496  ton histoire                  t§ nis-twaR                   c' est ton histoire ?
 20497  c' est                        se                           est-ce que c' est vraiment ton
 20497  ton histoire                  t§ nis-twaR                   est vraiment ton histoire ?
-20498  on est                        § ne                          en fait on est bien
+20498  fait on                       fE t§n                        bas en fait on est
+20498  on est                        t§ ne                         en fait on est bien
 20500  l(e) jeu                      lZ2                          on finira l(e) jeu .
 20501  c' est                        se                           c' est l' histoire de .
 20501  l' histoire                   lis-twaR                     c' est l' histoire de .
@@ -14683,13 +14695,12 @@
 20870  en avez                       z@ na-ve                      affreux vous en avez aussi
 20871  c' est                        se                           en fait c' est pas
 20871  qu(e) ça                      ksa                          si affreux qu(e) ça .
-20872  des elles                     de zEl                        ce sont des elles sortent
 20872  d' un                         d1                           toutes tout d' un coup
 20872  s' envolent                   s@-vOl                       et elles s' envolent .
 20877  c' est                        se                           c' est imp(ressionnant) , c' est
 20877  c' est                        se                           imp(ressionnant) , c' est impressionnant
 20877  quand elles                   k@ tEl                        est impressionnant quand elles sortent
-20877  toutes ensemble               tut z@-s@bl                   elles sortent toutes ensemble .
+20877  toutes ensemble               tu t@-s@bl                    elles sortent toutes ensemble .
 20880  l(e) casser                   lka-se                       ça va l(e) casser .
 20881  l(e) ménage                   lme-naZ                      tu fais l(e) ménage dans
 20883  c' est                        se                           c' est ton .
@@ -15778,7 +15789,8 @@
 22297  t' avais                      ta-vE                        semble que t' avais des
 22297  cuillères avec                k8i-jE Ra-vEk                 avais des cuillères avec le
 22297  service à                     sER-vi sa                     avec le service à café
-22299  elle était                    E le-tE                       en fait elle était dans l(e)
+22299  fait elle                     fE tEl                        en fait elle était dans l(e)
+22299  elle était                    tE le-tE                      en fait elle était dans l(e)
 22299  l(e) placard                  lpla-kaR                     était dans l(e) placard .
 22303  j' ai                         ZE                           j' ai compris .
 22306  cloches oui                   klO Swi                       sonner les cloches oui .
@@ -17211,7 +17223,7 @@
 24595  habitude on                   da-bi-ty d§                   ben d' habitude on le laisse
 24596  son emplacement               s§ n@-plas-m@                 laisse dans son emplacement .
 24608  d' accord                     da-kOR                       d' accord .
-24609  rouges i(ls)                  RuZ zi                        mais les rouges i(ls) sont
+24609  rouges i(ls)                  Ru Zi                         mais les rouges i(ls) sont
 24611  j(e) vais                     ZvE                          moi j(e) vais faire les verts
 24614  l(e) bleu                     lbl2                         voilà l(e) bleu .
 24615  d' accord                     da-kOR                       ah d' accord .
@@ -17278,7 +17290,8 @@
 24718  j' avais                      Za-vE                        j' avais pas vu .
 24724  c' est                        se                           a mais c' est plus
 24727  on en                         § n@                          on en fait un autre alors
-24727  un autre                      1 notR                        en fait un autre alors
+24727  fait un                       fE t1n                        on en fait un autre alors
+24727  un autre                      t1 notR                       en fait un autre alors
 24727  autre alors                   no tRa-lOR                    fait un autre alors .
 24728  d' accord                     da-kOR                       d' accord .
 24731  d' idée                       di-de                        tu changes d' idée ?
@@ -17805,8 +17818,7 @@
 25612  différence entre              di-fe-R@ s@t                  fait la différence entre le
 25613  j(e) te                       St2                          tiens r(e)garde j(e) te fais
 25614  c' est                        se                           c' est .
-25615  un il                         1 nil                         le un il est comme ça
-25615  il est                        ni le                         le un il est comme ça
+25615  il est                        i le                          le un il est comme ça
 25616  différence avec               di-fe-R@ sa-vEk               le la différence avec le
 25617  c' est                        se                           je sais c' est pas
 25618  c' est                        se                           c' est pas la même chose
@@ -17821,8 +17833,7 @@
 25634  t(u) as                       ta                           as vu t(u) as fait
 25635  c' est                        se                           * c' est un zéro .
 25636  l(e) raccroches               lRa-kROS                     que tu l(e) raccroches .
-25637  un il                         1 nil                         et le un il est où
-25637  il est                        ni le                         le un il est où
+25637  il est                        i le                          le un il est où
 25638  il est                        i le                          ah il est ici .
 25641  c' est                        se                           là c' est le un .
 25642  montres à                     m§ tRa                        et tu montres à , à
@@ -17996,7 +18007,7 @@
 25843  qu' on                        k§n                          avait dit qu' on allait
 25843  on allait                     k§ na-lE                      dit qu' on allait faire
 25846  peut-être un                  p2-tE tR1                     mais ça peut-être un jeu de
-25847  plus on                       ply z§                        après en plus on peut les
+25847  plus on                       ply s§                        après en plus on peut les
 25848  c' est                        se                           c' est bientôt Noël Madeleine .
 25855  c' est                        se                           trouves que c' est pas
 25856  c' est                        se                           c' est aussi jouer aussi .
@@ -20148,7 +20159,6 @@
 29077  l' as                         la                           tu l' as trouvée ?
 29082  t(u) es                       tE                           oh toi t(u) es pas content
 29083  l' avait                      la-vE                        mais on l' avait pas
-29085  colorés annoncent             ko-lo-Re za-n§s               les dés colorés annoncent la couleur
 29085  d' action                     dak-sj§                      les dés d' action les
 29086  flèche en                     flE S@                        une flèche en direction d' une
 29086  d' une                        dyn                          en direction d' une chenille
@@ -20949,7 +20959,6 @@
 30152  qu' un                        k1                           plus grand qu' un ,
 30153  c' est                        se                           c' est bien parce qu' ils
 30153  qu' ils                       kil                          bien parce qu' ils sont
-30153  petits i(ls)                  p°-ti zi                      ils sont petits i(ls) sont
 30155  tête oui                      tE twi                        sur sa tête oui .
 30160  j(e) l'                       Zl                           non moi j(e) l' ai mise
 30160  l' ai                         ZlE                          moi j(e) l' ai mise
@@ -22055,10 +22064,9 @@
 31726  l' heure                      l9R                          tout à l' heure t(u)
 31726  t(u) as                       ta                           l' heure t(u) as parlé
 31726  d(e) Clara                    d#                           as parlé d(e) Clara *
-31728  les autres                    le zotRz                      et les autres elles s' appellent
-31728  autres elles                  zotR zEl                      et les autres elles s' appellent
+31728  les autres                    le zotR                       et les autres elles s' appellent
+31728  autres elles                  zo tREl                       et les autres elles s' appellent
 31728  s' appellent                  sa-pEl                       autres elles s' appellent comment
-31735  gentilles y                   Z@-tij zi                     petites filles gentilles y a
 31737  s' appelle                    sa-pEl                       comment e(lle) s' appelle ?
 31739  c' est                        se                           c' est ta copine Lina ?
 31741  c' est                        se                           c' est une fille Noée .
@@ -22485,7 +22493,7 @@
 32269  t' es                         ttE                          t(u) t' es coupé .
 32272  c' est                        se                           c' est quelle main ?
 32273  gauche en                     go S@                         gauche en plus à chaque fois
-32273  plus à                        ply za                        gauche en plus à chaque fois
+32273  plus à                        plyz sa                       gauche en plus à chaque fois
 32275  il est                        i le                          il est super mais il coupe
 32280  j(e) vais                     ZvE                          ben j(e) vais mettre un disque
 32280  mettre un                     mE tR1                        j(e) vais mettre un disque
@@ -24018,6 +24026,7 @@
 34672  c' est                        se                           bon , c' est bon
 34675  d(e) Bordeaux                 dbOR-do                      à côté d(e) Bordeaux .
 34676  il est                        i le                          il est arrivé la veille pour
+34676  fait y                        fE ti                         mais en fait y a
 34676  donc ils                      d§ kilz                       était arrivé donc ils en
 34676  ils en                        kil z@n                       arrivé donc ils en ont
 34676  en ont                        z@ n§                         donc ils en ont profité
@@ -24060,8 +24069,7 @@
 34698  qu(e) t(u)                    kt                           fait longtemps qu(e) t(u) as
 34698  t(u) as                       kta                          longtemps qu(e) t(u) as pas
 34705  t(u) en                       t@                           t(u) en veux encore .
-34707  froids ils                    fRwa zilz                     il sont froids ils ont vite
-34707  ils ont                       zil z§                        sont froids ils ont vite
+34707  ils ont                       il z§                         sont froids ils ont vite
 34708  j' ai                         ZE                           j' ai mis quatre minutes mais
 34710  j(e) mets                     ZmE                          j(e) mets toutes les chances de
 34713  faire une                     fE Ryn                        pour faire une bonne prestation .
@@ -24216,7 +24224,8 @@
 34966  on est                        § ne                          on est le huit ?
 34967  il est                        i le                          il est dans son dix ,
 34967  il est                        i le                          dix , il est dans
-34970  il aura                       i lo-Ra                       en fait il aura .
+34970  fait il                       fE til                        que en fait il aura
+34970  il aura                       ti lo-Ra                      en fait il aura .
 34971  c' est                        se                           c' est en janvier qu' il
 34971  qu' il                        kil                          en janvier qu' il aura
 34971  il aura                       ki lo-Ra                      janvier qu' il aura un
@@ -25330,11 +25339,12 @@
 36755  j' allume                     Za-lym                       j' allume .
 36758  t(u) as                       ta                           t(u) as vu ?
 36759  t(u) as                       ta                           t(u) as vu Théophile ?
-36760  toutes allumées               tut za-ly-me                  elles sont toutes allumées .
+36760  toutes allumées               tu ta-ly-me                   elles sont toutes allumées .
 36764  qu' est                       ke                           qu' est c(e) tu veux ?
 36764  c(e) tu                       sty                          qu' est c(e) tu veux ?
 36765  petit ours                    p°-ti tuRs                    chaud le petit ours là
 36766  c' est                        se                           non c' est bon .
+36768  fait il                       fE til                        en fait il fait tellement chaud
 36769  m(e) le                       ml2                          tu m(e) le confies ?
 36781  l' accord                     la-kOR                       dans l' accord .
 36787  qu' i(l)                      ki                           dès qu' i(l) y a un
@@ -25961,6 +25971,7 @@
 38207  d' essayer                    de-se-je                     est de d' essayer de
 38208  t(u) as                       ta                           vois là t(u) as tu
 38210  j' arrivais                   Za-Ri-vE                     j' arrivais pas à mettre de
+38211  fait i(l)                     fE ti                         en fait i(l) faut bien prendre
 38212  l(e) plus                     lply                         tu prends l(e) plus long
 38215  c' est                        se                           ouais c' est ça qu(e) j'
 38215  qu(e) j'                      kZ'                          est ça qu(e) j' ai
@@ -26748,6 +26759,7 @@
 39275  il a                          i la                          il a reçu le message de
 39279  l(e) voir                     lvwaR                        j'suis allé l(e) voir *
 39280  c' est                        se                           c' est vrai !
+39281  fait il                       fE til                        en fait il propose un truc
 39281  propose un                    pRo-po z1                     fait il propose un truc
 39281  truc euh                      tRy k2                        propose un truc euh une
 39281  une espèce                    y nEs-pEs                     truc euh une espèce de
@@ -27092,8 +27104,8 @@
 39804  qu' est-ce                    kEs                          qu' est-ce que t' as vu
 39804  t' as                         ta                           est-ce que t' as vu
 39805  t' as                         ta                           t' as vu quelque chose .
-39810  les autres                    le zotRz                      ho et les autres elles sont
-39810  autres elles                  zotR zEl                      et les autres elles sont
+39810  les autres                    le zotR                       ho et les autres elles sont
+39810  autres elles                  zo tREl                       et les autres elles sont
 39812  il est                        i le                          il est dans la chambre .
 39817  l' as                         la                           tu l' as trouvé ?
 39818  l' as                         la                           tu l' as pas trouvé ?
@@ -27653,6 +27665,7 @@
 40837  qu' il                        kil                          l' élan qu' il m'
 40837  m' a                          ma                           qu' il m' a offert
 40837  d' ailleurs                   da-j9R                       a offert d' ailleurs sympa
+40838  fait il                       fE til                        en fait il m' a offert
 40838  m' a                          ma                           fait il m' a offert
 40839  j' ai                         ZE                           alors j' ai dit je veux
 40840  m' a                          ma                           il m' a offert les cordes
@@ -27669,8 +27682,8 @@
 40849  mon avis                      m§ na-vi                      façon à mon avis tu
 40849  t' y                          ti                           avis tu t' y retrouves
 40849  qu' au                        ko                           retrouves parce qu' au lieu
-40851  les autres                    le zotRz                      donc les autres elles sont .
-40851  autres elles                  zotR zEl                      donc les autres elles sont .
+40851  les autres                    le zotR                       donc les autres elles sont .
+40851  autres elles                  zo tREl                       donc les autres elles sont .
 40852  c' est                        se                           mais c' est pas le même
 40854  c' est                        se                           c' est un timbre , ça
 40854  c' est                        se                           , ça c' est vraiment
@@ -28614,6 +28627,7 @@
 42448  peut être                     p2 tEtR                       peut être une goutte en fait
 42448  être une                      tE tRyn                       peut être une goutte en fait
 42448  goutte en                     gu t@                         être une goutte en fait
+42448  fait ouais                    fE twE                        goutte en fait ouais hum
 42449  t(u) es                       tE                           t(u) es observé là .
 42451  c' est                        se                           c' est pas l' arroseur arrosé
 42451  l' arroseur                   la-Ro-z9R                    est pas l' arroseur arrosé
@@ -29261,7 +29275,7 @@
 43231  maigres en                    mE gR@n                       chances sont maigres en allant
 43231  en allant                     gR@ na-l@                     sont maigres en allant jusqu'
 43231  jusqu' au                     Zys ko                        en allant jusqu' au bout
-43231  plus i(l)                     ply zi                        si en plus i(l) y
+43231  plus i(l)                     plyz si                       si en plus i(l) y
 43231  un i(l)                       1 ni                          y a un i(l) *
 43233  j(e) disais                   Zdi-zE                       non mais j(e) disais pas ça
 43234  j(e) disais                   Zdi-zE                       j(e) disais que i(l) y a
@@ -29392,6 +29406,7 @@
 43442  il est                        i le                          il est où grand papou ?
 43443  part en                       pa R@                         euh il part en juillet
 43443  juste en                      Zys t@                        juste , juste en fait
+43443  fait au                       fE to                         juste en fait au moment
 43443  j' arrive                     Za-Riv                       où moi j' arrive à
 43443  arrive à                      Za-Ri va                      moi j' arrive à Saint
 43444  qu' i(l)                      ki                           où est-ce qu' i(l) va ?
@@ -29614,7 +29629,7 @@
 43778  donc i(l)                     d§ ki                         donc i(l) met la clé i(l)
 43778  contact i(l)                  k§-tak ti                     met le contact i(l) tourne
 43779  il adore                      i la-dOR                      ah il adore !
-43780  plus i(l)                     ply zi                        en plus i(l) s(e) débrouille bien
+43780  plus i(l)                     plyz si                       en plus i(l) s(e) débrouille bien
 43780  s(e) débrouille               sde-bRuj                     plus i(l) s(e) débrouille bien
 43783  t(u) as                       ta                           t(u) as vu elle est rouge
 43783  elle est                      E le                          as vu elle est rouge
@@ -30110,7 +30125,8 @@
 44518  l' a                          la                           son papé l' a amené
 44518  l' a                          la                           son papé l' a amené
 44519  qu' en                        k@                           parce qu' en fait il est
-44519  il est                        i le                          en fait il est fou
+44519  fait il                       fE til                        qu' en fait il est
+44519  il est                        ti le                         en fait il est fou
 44519  poulpe et                     pul pe                        fou de poulpe et de
 44520  alors il                      a-lO Ril                      alors il l' a amené exprès
 44520  l' a                          la                           alors il l' a amené exprès
@@ -30211,6 +30227,7 @@
 44622  comme on                      kO m§                         les prendre comme on veut
 44624  c(e) qu'                      sk                           c(e) qu' y est bien parce
 44624  qu' y                         ski                          c(e) qu' y est bien parce
+44624  fait y                        fE ti                         que en fait y a
 44625  t' as                         ta                           t' as les vacances de février
 44625  t' as                         ta                           de février t' as les
 44625  d' avril                      da-vRil                      les vacances d' avril .
@@ -30448,7 +30465,7 @@
 44872  en ai                         Z@ nE                         enseigne j' en ai toujours
 44872  toujours un                   tu-Zu R1                      en ai toujours un dans
 44873  j' enseigne                   Z@-sEN                       là comme j' enseigne pas
-44876  plus il                       ply zil                       ouais en plus il marche pas
+44876  plus il                       ply sil                       ouais en plus il marche pas
 44878  un autre                      1 notR                        un autre oui y en a
 44878  autre oui                     no tRwi                       un autre oui y en a
 44878  en a                          @ na                          oui y en a un
@@ -30634,7 +30651,8 @@
 45044  m' a                          ma                           compositions elle m' a dit
 45046  d' assemblage                 da-s@-blaZ                   faire plein d' assemblage en
 45046  assemblage en                 da-s@-bla Z@                  plein d' assemblage en fait
-45046  il adore                      i la-dOR                      en fait il adore ça
+45046  fait il                       fE til                        assemblage en fait il adore
+45046  il adore                      ti la-dOR                     en fait il adore ça
 45047  alors il                      a-lO Ril                      alors il est tout content .
 45047  il est                        Ri le                         alors il est tout content .
 45048  ils ont                       il z§                         ils ont une salle d' eau
@@ -31028,7 +31046,7 @@
 45624  j' t'                         St                           sacré bout j' t' ai
 45624  t' ai                         StE                          bout j' t' ai donné
 45625  alors en                      a-lO R@                       et puis alors en plus y
-45625  plus y                        ply zi                        alors en plus y a
+45625  plus y                        plyz si                       alors en plus y a
 45625  c' est                        se                           deux donc c' est très
 45626  il adore                      i la-dOR                      mais il adore hein c' est
 45626  c' est                        se                           adore hein c' est vraiment
@@ -31118,7 +31136,6 @@
 45724  j' ai                         ZE                           mais justement j' ai dit
 45724  qu' on                        k§n                          ai dit qu' on en
 45724  on en                         k§ n@                         dit qu' on en f(e)rait
-45724  un il                         1 nil                         en f(e)rait un il (en)
 45726  il avait                      i la-vE                       il avait bien aimé .
 45727  donc euh                      d§ k2                         donc euh .
 45728  faire une                     fE Ryn                        tu vas faire une bêtise
@@ -32326,7 +32343,6 @@
 47226  heure on                      l9 R§                         à l' heure on va
 47228  on y                          § ni                          ouais mais on y va .
 47236  galipette attention           ga-li-pE ta-t@-sj§            galipette attention tiens pose les on
-47236  les on                        le z§                         tiens pose les on pose
 47237  j(e) les                      Zle                          j(e) les mets juste là .
 47238  galipette avec                ga-li-pE ta-vEk               faire de galipette avec .
 47244  j' ai                         ZE                           attends mais j' ai peur avec
@@ -32614,6 +32630,7 @@
 47650  il est                        ki le                         parce qu' il est tu sais
 47650  il est                        i le                          tu sais il est jazzman
 47650  jazzman en                    dZaz-ma n@                    il est jazzman en fait
+47650  fait et                       fE te                         jazzman en fait et là
 47650  il est                        i le                          et là il est rentré
 47650  l(e) cycle                    lsikl                        rentré dans l(e) cycle euh
 47650  cycle euh                     lsi kl2                       dans l(e) cycle euh professionnel
@@ -33017,8 +33034,8 @@
 48153  t' as                         ta                           est-ce que t' as mis les
 48154  en a                          @ na                          non y en a une .
 48155  l' eau                        lo                           une dans l' eau et les
-48155  les autres                    le zotRz                      eau et les autres elles
-48155  autres elles                  zotR zEl                      et les autres elles sont
+48155  les autres                    le zotR                       eau et les autres elles
+48155  autres elles                  zo tREl                       et les autres elles sont
 48156  les autres                    le zotR                       sont où les autres ?
 48157  les autres                    le zot                        sont où les autres Théophile
 48158  en a                          @ na                          là y en a une et
@@ -33462,6 +33479,7 @@
 48574  faire aut(re)                 fE ROt                        on va faire aut(re) chose
 48574  chose en                      So z@n                        faire aut(re) chose en attendant
 48574  en attendant                  z@ na-t@-d@                   aut(re) chose en attendant le
+48576  plus oh                       ply so                        nus en plus oh .
 48578  j(e) voulais                  Zvu-lE                       bah oui j(e) voulais .
 48579  les ongles                    le z§gl                       te couper les ongles en
 48579  ongles en                     z§ gl@n                       couper les ongles en attendant
@@ -33498,7 +33516,8 @@
 48613  elle est                      E le                          elle est pas fiable .
 48614  on a                          § na                          mais on a eu .
 48615  quand elle                    k@ tEl                        quand elle marche bien elle marche
-48616  elle est                      E le                          en fait elle est très sensible
+48616  fait elle                     fE tEl                        en fait elle est très sensible
+48616  elle est                      tE le                         en fait elle est très sensible
 48616  très électronique             tRE ze-lEk-tRo-nik            un peu très électronique et
 48616  électronique et               ze-lEk-tRo-ni ke              peu très électronique et du
 48619  qu' est-ce                    kEs                          qu' est-ce qu' elle fait ta
@@ -34987,7 +35006,7 @@
 50405  jungle avec                   Z1 gla-vEk                    de la jungle avec des
 50405  des ours                      de zuRs                       des tigres des ours .
 50409  super euh                     sy-pE R2                      avait une super euh .
-50410  dix euro                      di s2-Ro                      V D dix euro un
+50410  dix euro                      di z2-Ro                      V D dix euro un
 50410  un offert                     1 no-fER                      dix euro un offert et
 50410  offert et                     no-fE Re                      euro un offert et tout
 50410  j' en                         Z@n                          et tout j' en ai
@@ -36242,9 +36261,7 @@
 51999  ton épée                      t§ ne-pe                      des confettis ton épée .
 52004  t(u) as                       ta                           * t(u) as vu le .
 52005  il est                        i le                          ah il est réussi hein !
-52009  plus elle                     ply zEl                       plus elle en fait plus ils
-52009  elle en                       zE l@                         plus elle en fait plus ils
-52009  plus ils                      ply zil                       en fait plus ils sont
+52009  elle en                       E l@                          plus elle en fait plus ils
 52010  il est                        i le                          il est mimi hein !
 52011  encore huit                   @-kO R8it                     allez encore huit ou dix !
 52011  huit ou                       R8i tu                        allez encore huit ou dix !
@@ -36728,6 +36745,7 @@
 52496  il est                        i le                          non il est en train de
 52498  c' est                        se                           là mais c' est une
 52499  j' ai                         ZE                           non mais j' ai pas compris
+52499  fait il                       fE til                        pourquoi en fait il doit
 52499  avoir un                      a-vwa R1                      doit y avoir un sens
 52502  qu' il                        kil                          expliquer parce qu' il sait
 52503  l' eau                        lo                           mettre de l' eau partout
@@ -38361,6 +38379,7 @@
 54710  c' est                        se                           c' est pas un hibou ça
 54715  t(u) as                       ta                           voilà t(u) as été sage ce
 54716  c' est                        se                           les cheveux c' est pas
+54717  plus euh                      ply s2                        en plus euh * .
 54718  c(e) qu'                      sk                           sait pas c(e) qu' i(l)
 54718  qu' i(l)                      ski                          pas c(e) qu' i(l) y
 54718  d(e) mieux                    dmj2                         y a d(e) mieux !
@@ -39009,7 +39028,6 @@
 55466  elle est                      pE le                         la soupe elle est prête
 55466  prête on                      pRE t§                        elle est prête on va
 55466  prendre une                   pR@ dRyn                      on va prendre une p(e)tite
-55470  petit l                       p°-ti tEl                     voilà le petit l .
 55476  j(e) vais                     ZvE                          attends , j(e) vais t(e)
 55476  t(e) donner                   tdo-ne                       j(e) vais t(e) donner que(l)qu(e)
 55476  l' am(e)ner                   l#                           tu va l' am(e)ner en
@@ -39169,7 +39187,6 @@
 55658  c' est                        se                           mais c' est de l' eau
 55658  l' eau                        lo                           est de l' eau comme
 55658  l' aime                       lEm                          eau comme l' aime Lili
-55659  plus elle                     ply zEl                       là non plus elle pique
 55660  qu(e) j(e)                    kZ                           tu veux qu(e) j(e) t(e) *
 55660  t(e) *                        t#                           qu(e) j(e) t(e) * de
 55660  l' eau                        lo                           * de l' eau qui
