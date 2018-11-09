@@ -9,7 +9,7 @@ age_min_input = '0y0m' # Eventually make this input user-defined
 age_max_input = '2y0m'
 
 # Define which transcription to load (orthographic or phonological):
-phono_transcript = True # True for phonological transcription, False for orthographic transcription
+phono_transcript = False # True for phonological transcription, False for orthographic transcription
 if phono_transcript:
 	folder = 'output'
 	filename = '/recoded_L_D_E.txt'  #'/recoded_L_D_S_E.txt' # Note: specify here which version of the phonologized corpus to use.
@@ -22,14 +22,16 @@ else:
 # Print fileID and age?
 printInfo = True
 if printInfo:
-	printInfoTag = '_withFileInfo'
+	printInfoTag = ''
 else:
 	printInfoTag = '_noFileInfo'
 
-# Print in lower-case?
-lowerCase = False
+# Print in lower-case? (IMPORTANT: lower-case cannot be used in phonological transcriptions as capital letters may mean different phonemes)
+lowerCase = False # Select True or False
+if phono_transcript:
+	lowerCase = False
 
-# Remove parentheses? (Symbolises unpronounced parts of words)
+# Remove parentheses? (They mark unpronounced parts of words)
 removeParentheses = False
 if removeParentheses:
 	removeParenthesesTag = '_noParnths'
