@@ -182,7 +182,7 @@ for corpusdir in dirlist:
 						# Print:
 						if (continue_line == 1):
 							continue_line, processed_lines = print_line(newline, processed_lines, f)
-						elif (continue_line == 0) and (newline != '.') and (newline != '* .') and (newline != '?') and (newline != '!'):
+						elif (continue_line == 0) and (newline != '.') and (newline != '# .') and (newline != '?') and (newline != '!'):
 							print >> f, file+' '+child_age+' ',
 							continue_line, processed_lines = print_line(newline, processed_lines, f)
 
