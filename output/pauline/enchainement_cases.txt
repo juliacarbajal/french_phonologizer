@@ -495,7 +495,7 @@
 1117   s' allonger                   sa-l§-Ze                     on va s' allonger .
 1118   c' est                        se                           c' est bien ça hein ?
 1120   c' était                      se-tE                        non c' était pas vrai .
-1121   c' était                      se-tE                        c' était * .
+1121   c' était                      se-tE                        c' était # .
 1135   qu' est-ce                    kEs                          qu' est-ce qu' il y a
 1135   qu' il                        kil                          qu' est-ce qu' il y a
 1135   il y                          ki li                         est-ce qu' il y a
@@ -1645,7 +1645,7 @@
 3263   il est                        i le                          il est là sur le .
 3264   l' entrée                     l@-tRe                       sac dans l' entrée .
 3266   s' enculotte                  s#                           claire s' enculotte .
-3267   pauline a                     po-li na                      pauline a toujours * .
+3267   pauline a                     po-li na                      pauline a toujours # .
 3272   c' est                        se                           non , c' est pas des
 3277   t' es                         tE                           tu t' es cognée ?
 3279   mal où                        ma lu                         tu as mal où ?
@@ -2094,7 +2094,7 @@
 4255   c' est                        se                           oui , c' est une poche
 4255   poche à                       pO Sa                         est une poche à droite
 4255   droite aussi                  dRwa to-si                    poche à droite aussi .
-4259   l' autre                      lot                          l' autre poche , bah *
+4259   l' autre                      lot                          l' autre poche , bah #
 4264   c' est                        se                           non , c' est pas
 4265   t' as                         ta                           t' as pas mis dans la
 4265   t' as                         ta                           poche , t' as mis
@@ -2792,7 +2792,7 @@
 5524   en a                          @ na                          , y en a combien
 5527   t' en                         t@n                          t' en oublies pas un petit
 5527   en oublies                    t@ nu-bli                     t' en oublies pas un petit
-5535   des automatismes              de zo-to-ma-tizm              * des automatismes .
+5535   des automatismes              de zo-to-ma-tizm              # des automatismes .
 5536   quand elle                    k@ tEl                        quand elle entend sept .
 5536   elle entend                   tE l@-t@                      quand elle entend sept .
 5537   on avait                      § na-vE                       on avait l' impression qu' elle
@@ -3374,7 +3374,7 @@
 6490   les a                         le za                         papa qui les a .
 6491   elle en                       E l@n                         elle en a craché trois quatre
 6491   en a                          l@ na                         elle en a craché trois quatre
-6492   elle est                      E le                          comme ça elle est *
+6492   elle est                      E le                          comme ça elle est #
 6494   qu' est-ce                    kEs                          pi qu' est-ce que t' as
 6494   t' as                         ta                           est-ce que t' as mangé
 6499   l' as                         la                           tu me l' as déjà
@@ -3669,8 +3669,8 @@
 6926   s' en                         s@                           pas à s' en décoller
 6926   l' énerve                     le-nERv                      , ça l' énerve ,
 6929   alors elle                    a-lO REl                      alors elle répète .
-6935   il essaie                     i lE-sE                       * il essaie de lui faire
-6937   elle y                        E li                          * elle y arrive ?
+6935   il essaie                     i lE-sE                       # il essaie de lui faire
+6937   elle y                        E li                          # elle y arrive ?
 6939   elle y                        E li                          elle y arrive pas .
 6940   t' arrives                    ta-Riv                       hein t' arrives pas à répéter
 6941   elle aurait                   E lo-RE                       claire , elle aurait du

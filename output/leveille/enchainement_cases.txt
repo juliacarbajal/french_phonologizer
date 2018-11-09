@@ -7,7 +7,7 @@
 14     tourne un                     tuR n1                        coffre , tourne un petit
 14     coffre et                     kO fRe                        devant le coffre et tu
 17     petite aiguille               p°-ti te-g8ij                 vois la petite aiguille rouge
-18     l' aiguille                   le-g8ij                      bouge , l' aiguille *
+18     l' aiguille                   le-g8ij                      bouge , l' aiguille #
 21     l' abîmer                     la-bi-me                     finir par l' abîmer ,
 21     c' est                        se                           hein , c' est intéressant
 21     cet engin                     sE t@-Z5                      est intéressant cet engin ?
@@ -50,7 +50,7 @@
 78     c' est                        se                           c' est celle là la petite
 79     elle est                      E le                          où elle est la petite ?
 80     elle est                      E le                          elle est tombée ?
-81     qu' est-ce                    kEs                          * qu' est-ce que ça veut
+81     qu' est-ce                    kEs                          # qu' est-ce que ça veut
 84     c' est                        se                           c' est toi le bébé sage
 88     qu' est-ce                    kEs                          qu' est-ce qu' il faut pas
 88     qu' il                        kil                          qu' est-ce qu' il faut pas
@@ -246,8 +246,8 @@
 340    d' accord                     da-kOR                       mais , d' accord ,
 341    l' oreille                    lo-REj                       pas dans l' oreille ,
 345    il est                        i le                          , où il est ?
-346    qu' est-ce                    kEs                          qu' est-ce qu' il fait *
-346    qu' il                        kil                          qu' est-ce qu' il fait *
+346    qu' est-ce                    kEs                          qu' est-ce qu' il fait #
+346    qu' il                        kil                          qu' est-ce qu' il fait #
 350    c' est                        se                           c' est fermé .
 354    c' est                        se                           ah , c' est fermé .
 356    petite aiguille               p°-ti te-g8ij                 devant la petite aiguille .
@@ -402,7 +402,7 @@
 602    t' a                          ta                           elle t' a même pas dit
 603    c' est                        se                           c' est pas bien .
 605    plus être                     ply zEt                       il doit plus être chaud
-606    il est                        i le                          il est froid * ?
+606    il est                        i le                          il est froid # ?
 607    l' amener                     lam-ne                       tu veux l' amener ?
 608    voiture on                    vwa-ty R§                     dans la voiture on va
 610    l' école                      le-kOl                       pas à l' école .
@@ -427,7 +427,7 @@
 654    c' est                        se                           c' est bon ?
 657    c' est                        se                           le café c' est pas pour
 664    vous en                       vu z@                         vous en voulez une ?
-667    qu' est-ce                    kEs                          * qu' est-ce que tu as
+667    qu' est-ce                    kEs                          # qu' est-ce que tu as
 668    il est                        i le                          il est bien petit ce collier
 671    d' autre                      dotR                         , qui d' autre encore
 671    autre encore                  do tR@-kOR                    qui d' autre encore ?
@@ -441,7 +441,7 @@
 688    c' est                        se                           parce que c' est sale
 689    c' est                        se                           non , c' est un trou
 701    s' il                         sil                          cuillères , s' il te
-703    en a                          @ na                          * y en a d' autres
+703    en a                          @ na                          # y en a d' autres
 703    d' autres                     dot                          en a d' autres par
 707    voiture et                    vwa-ty Re                     et une voiture et tu
 711    l' as                         la                           tu l' as demandé ?
@@ -563,7 +563,7 @@
 899    l' école                      le-kOl                       tortue à l' école ?
 901    il a                          i la                          il a dit la tortue va
 901    l' école                      le-kOl                       va à l' école ?
-903    commence à                    ko-m@ sa                      ça commence à * maintenant ,
+903    commence à                    ko-m@ sa                      ça commence à # maintenant ,
 905    qu' est-ce                    kEs                          non , qu' est-ce qui va
 905    l' école                      le-kOl                       va à l' école ?
 907    cette école                   sE te-kOl                     filles dans cette école ,
@@ -600,9 +600,9 @@
 940    l' annulaire                  la-ny-lER                    l' annulaire .
 942    j' ai                         ZE                           non , j' ai pas ma
 943    l' ai                         lE                           mais je l' ai pas ,
-944    en as                         @ na                          * tu en as pas besoin
+944    en as                         @ na                          # tu en as pas besoin
 945    elle est                      E le                          pas où elle est ,
-945    elle est                      E le                          pas où elle est *
+945    elle est                      E le                          pas où elle est #
 946    mon oeil                      m§ n9j                        pas , mon oeil !
 948    c' est                        se                           non , c' est sacré
 950    elle est                      E le                          non , elle est pas
@@ -659,7 +659,7 @@
 1005   c' est                        se                           c' est dans les deux sens
 1006   t' appelles                   ta-pEl                       comment tu t' appelles ?
 1007   s' appelle                    sa-pEl                       comment elle s' appelle ?
-1008   c' est                        se                           * c' est curieux , ça
+1008   c' est                        se                           # c' est curieux , ça
 1008   jusqu' à                      Zys ka                        va pas jusqu' à maman
 1011   c' est                        se                           merci , c' est pour moi
 1012   c' est                        se                           écrire , c' est pas
@@ -768,7 +768,7 @@
 1175   qu' est-ce                    kEs                          qu' est-ce qu' y a là
 1175   qu' y                         ki                           qu' est-ce qu' y a là
 1180   c' est                        se                           et ça c' est quoi là
-1182   c' est                        se                           c' est des marrons * .
+1182   c' est                        se                           c' est des marrons # .
 1183   qu' ils                       kil                          ce qu' ils sont mal faits
 1184   c' est                        se                           père , c' est une
 1188   qu' est-ce                    kEs                          qu' est-ce qu' il fait le
@@ -810,7 +810,7 @@
 1235   l' eau                        lo                           avec de l' eau et
 1235   bocal y                       bo-ka li                      dans le bocal y a
 1236   t' as                         ta                           t' as vu ?
-1237   il essaye                     i le-sEj                      il essaye de mesurer * .
+1237   il essaye                     i le-sEj                      il essaye de mesurer # .
 1238   portes en                     pOR t@                        portes en plusieurs , Philippe ,
 1238   portes en                     pOR t@                        Philippe , portes en beaucoup
 1241   qu' est-ce                    kEs                          qu' est-ce qu' y a dedans
@@ -821,7 +821,7 @@
 1246   encore une                    @-kO Ryn                      et encore une chèvre .
 1248   il y                          i li                          combien il y en a ?
 1248   en a                          @ na                          il y en a ?
-1253   avec un                       a-vE k1                       avec un chien * .
+1253   avec un                       a-vE k1                       avec un chien # .
 1256   qu' est-ce                    kEs                          qu' est-ce que c' est ça
 1256   c' est                        se                           est-ce que c' est ça
 1258   d' autre                      dotR                         et qui d' autre ?
@@ -835,13 +835,13 @@
 1263   c' est                        se                           est-ce que c' est ça
 1271   vaches et                     va Se                         les vaches et les moutons autour
 1271   l' intéresse                  l5-te-REs                    ça ne l' intéresse pas
-1272   l' intéresse                  l5-te-REs                    * l' intéresse pas .
+1272   l' intéresse                  l5-te-REs                    # l' intéresse pas .
 1273   c' est                        se                           c' est des moutons .
 1274   cuire à                       k8i Ra                        faire cuire à manger ?
 1275   cuire à                       k8i Ra                        leur fait cuire à manger
 1276   il est                        i le                          il est gentil .
 1277   c' est                        se                           c' est toujours le même ?
-1278   l' a                          la                           * on l' a déjà lu
+1278   l' a                          la                           # on l' a déjà lu
 1279   l' a                          la                           on l' a déjà regardé celui
 1280   fatigues un                   fa-ti g1                      tu me fatigues un peu .
 1282   il est                        i le                          il est plus gros que ta
@@ -861,7 +861,7 @@
 1298   s' il                         sil                          les bras s' il te
 1301   il est                        i le                          voilà , il est là
 1302   c' est                        se                           c' est pas la peine de
-1304   nous allons                   nu za-l§                      * et nous allons voir si
+1304   nous allons                   nu za-l§                      # et nous allons voir si
 1305   c' est                        se                           c' est dur pour faire rentrer
 1306   c' est                        se                           c' est pas là qu' il
 1306   qu' il                        kil                          pas là qu' il faut
@@ -973,9 +973,9 @@
 1456   qu' est-ce                    kEs                          donne , qu' est-ce que
 1457   c' est                        se                           attention , c' est chaud ,
 1459   c' est                        se                           oui , c' est ça ,
-1461   t' as                         ta                           oui * t' as pas fait
-1467   t' en                         t@n                          t' en as une * ,
-1467   en as                         t@ na                         t' en as une * ,
+1461   t' as                         ta                           oui # t' as pas fait
+1467   t' en                         t@n                          t' en as une # ,
+1467   en as                         t@ na                         t' en as une # ,
 1468   l' autre                      lotR                         l' autre , l' autre ,
 1468   l' autre                      lotR                         autre , l' autre ,
 1468   l' autre                      lotR                         autre , l' autre .
@@ -1001,10 +1001,10 @@
 1505   t' as                         ta                           est-ce que t' as vu
 1510   j' ai                         ZE                           mais sinon j' ai mal
 1510   mal au                        ma lo                         j' ai mal au bras
-1512   laisse un                     lE s1                         * on laisse un peu refroidir
+1512   laisse un                     lE s1                         # on laisse un peu refroidir
 1512   j' ai                         ZE                           , moi j' ai mal
 1512   mal au                        ma lo                         j' ai mal au bras
-1515   qu' il                        kil                          * qu' il se réveille .
+1515   qu' il                        kil                          # qu' il se réveille .
 1516   n' arriveras                  na-Ri-vRa                    tu n' arriveras pas à la
 1517   c' est                        se                           camion , c' est pas
 1519   c' est                        se                           un camion c' est pas fait
@@ -1063,8 +1063,8 @@
 1585   les enlever                   le z@l-ve                     peut pas les enlever .
 1586   il a                          i la                          oui , il a des pneus
 1589   t' es                         tE                           t' es pas réveillé , ma
-1592   il a                          i la                          * il a tourné la tète
-1593   m' a                          ma                           * il m' a dit Ginette
+1592   il a                          i la                          # il a tourné la tète
+1593   m' a                          ma                           # il m' a dit Ginette
 1599   s' y                          si                           , ils s' y prennent
 1600   ils y                         il zi                         ils y mettent un petit peu
 1600   mettent un                    mE t1                         ils y mettent un petit peu
@@ -1082,7 +1082,7 @@
 1612   qu' est-ce                    kEs                          qu' est-ce que tu mets dans
 1617   j' en                         Z@n                          j' en ai mis aussi sur
 1617   en ai                         Z@ nE                         j' en ai mis aussi sur
-1619   j' ai                         ZE                           * j' ai lavé ma robe
+1619   j' ai                         ZE                           # j' ai lavé ma robe
 1619   robe en                       RO b@                         lavé ma robe en daim
 1621   j' ai                         ZE                           j' ai lavé ma robe ,
 1621   jupe en                       Zy p@                         , ma jupe en daim
@@ -1105,7 +1105,7 @@
 1640   c' est                        se                           c' est la serviette qui est
 1641   quand on                      k@ t§                         quand on comprend pas et que
 1644   c' est                        se                           c' est la serviette qui est
-1647   un embouteillage              1 n@-bu-tE-jaZ                * un embouteillage .
+1647   un embouteillage              1 n@-bu-tE-jaZ                # un embouteillage .
 1648   l' autre                      lot                          l' autre jour , à cinq
 1648   cinq heures                   s5 k9R                        , à cinq heures du
 1648   en a                          @ na                          , y en a qui
@@ -1126,8 +1126,8 @@
 1678   un énorme                     1 ne-nORm                     y avait un énorme chien couché
 1679   il a                          i la                          et il a refusé de descendre
 1679   table afin                    ta bla-f5                     descendre de table afin de
-1681   d' habitude                   da-bi-tyd                    * d' habitude il descend et
-1681   habitude il                   da-bi-ty dil                  * d' habitude il descend et
+1681   d' habitude                   da-bi-tyd                    # d' habitude il descend et
+1681   habitude il                   da-bi-ty dil                  # d' habitude il descend et
 1682   il est                        i le                          là , il est resté assis
 1687   t' essuie                     tE-s8i                       que je t' essuie ,
 1689   il est                        i le                          il est pieds nus .
@@ -1153,7 +1153,7 @@
 1720   qu' il                        kil                          pile , qu' il s'
 1720   s' est                        se                           qu' il s' est mis
 1720   cinq heures                   s5 k9R                        pleuvoir , cinq heures moins
-1721   tendance à                    t@-d@ sa                      * tendance à la dispersion .
+1721   tendance à                    t@-d@ sa                      # tendance à la dispersion .
 1723   il est                        i le                          oh , il est très bien
 1723   c' est                        se                           ça , c' est pas
 1728   vas y                         va zi                         vas y .
@@ -1161,12 +1161,12 @@
 1730   tout à                        tu ta                         tout à fait ?
 1731   c' est                        se                           c' est pas évident , non
 1732   j' ai                         ZE                           j' ai vu des morceaux épars
-1733   des aiguilles                 de ze-g8ij                    * des aiguilles rouges .
+1733   des aiguilles                 de ze-g8ij                    # des aiguilles rouges .
 1734   elle est                      E le                          elle est jolie ta montre .
 1738   faire un                      fE R1                         va lui faire un baiser .
 1741   j' ai                         ZE                           j' ai pas vu hier soir
 1742   j' ai                         ZE                           moi „ j' ai serré
-1745   l' ai                         lE                           * je l' ai * .
+1745   l' ai                         lE                           # je l' ai # .
 1748   qu' est-ce                    kEs                          qu' est-ce que je peux faire
 1752   j' essaie                     ZE-sE                        veux que j' essaie ?
 1754   c' est                        se                           , mais c' est pas
@@ -1174,8 +1174,8 @@
 1763   qu' est-ce                    kEs                          qu' est-ce qu' il fait le
 1763   qu' il                        kil                          qu' est-ce qu' il fait le
 1765   qu' est                       ke                           toi , qu' est ce
-1770   qu' est                       ke                           * qu' est ce tu cherches
-1773   venir avec                    v°-ni Ra-vEk                  je vais venir avec *
+1770   qu' est                       ke                           # qu' est ce tu cherches
+1773   venir avec                    v°-ni Ra-vEk                  je vais venir avec #
 1773   vas y                         va zi                         allez , vas y .
 1774   qu' est-ce                    kEs                          qu' est-ce que tu portes ?
 1778   qu' est-ce                    kEs                          qu' est-ce que tu fais ?
@@ -1204,7 +1204,7 @@
 1812   s' il                         sil                          corbeille , s' il te
 1819   il est                        i le                          non , il est taillé celui
 1819   il écrit                      i le-kRi                      là , il écrit .
-1822   il écrit                      i le-kRi                      * il écrit celui là ,
+1822   il écrit                      i le-kRi                      # il écrit celui là ,
 1823   les ai                        le zE                         je les ai tous taillés ,
 1823   ils écrivent                  il ze-kRiv                    écoute , ils écrivent tous
 1824   c' est                        se                           c' est pas la peine de
@@ -1229,7 +1229,7 @@
 1863   j' ai                         ZE                           Janou , j' ai envie
 1863   t' horrifier                  to-Ri-fje                    envie de t' horrifier un
 1871   c' était                      se-tE                        si c' était pour m' horrifier
-1871   m' horrifier                  mo-Ri-fje                    était pour m' horrifier *
+1871   m' horrifier                  mo-Ri-fje                    était pour m' horrifier #
 1872   qu' est-ce                    kEs                          qu' est-ce qu' elle fait ta
 1872   qu' elle                      kEl                          qu' est-ce qu' elle fait ta
 1874   qu' est-ce                    kEs                          qu' est-ce qu' elle fait ta
@@ -1242,7 +1242,7 @@
 1882   faire une                     fE Ryn                        elle sait faire une moto
 1890   c' est                        se                           sais , c' est très
 1900   c' est                        se                           c' est moi qui suis chargé
-1900   téléphone et                  te-le-fO ne                   trouver le téléphone et *
+1900   téléphone et                  te-le-fO ne                   trouver le téléphone et #
 1902   passe un                      pa s1                         que je passe un coup
 1902   fil à                         fi la                         coup de fil à maman
 1906   s' il                         sil                          Rogalski , s' il vous
@@ -1343,7 +1343,7 @@
 2099   c' est                        se                           c' est pas bon , hein
 2101   les yeux                      le zj2                        ça pique les yeux .
 2102   m' embêtes                    m@-bEt                       , tu m' embêtes ,
-2107   c' est                        se                           c' est fermé * .
+2107   c' est                        se                           c' est fermé # .
 2112   c' est                        se                           qui c' est qui est un
 2113   c' est                        se                           c' est vrai ?
 2121   l' avion                      la-vj§                       tout seul l' avion ?
@@ -1424,7 +1424,7 @@
 2217   c' est                        se                           est-ce que c' est ça
 2218   c' est                        se                           non , c' est un tra
 2223   en as                         @ na                          , tu en as mangé
-2225   reste assis                   REs ta-si                     voilà * reste assis , reste
+2225   reste assis                   REs ta-si                     voilà # reste assis , reste
 2225   reste assis                   REs ta-si                     assis , reste assis ,
 2225   reste assis                   REs ta-si                     assis , reste assis ,
 2227   s' il                         sil                          assieds toi s' il te
@@ -1451,7 +1451,7 @@
 2242   dame et                       da me                         faisaient la dame et le
 2248   d' autre                      dotR                         y avait d' autre au
 2248   autre au                      do tRo                        avait d' autre au cinéma
-2249   on aurait                     § no-RE                       * on aurait pu apprendre ,
+2249   on aurait                     § no-RE                       # on aurait pu apprendre ,
 2251   s' en                         s@                           , il s' en fout
 2252   il est                        i le                          il est en train de regarder
 2252   qu' y                         ki                           regarder ce qu' y a
@@ -1464,7 +1464,7 @@
 2261   en a                          @ na                          y en a pas , je
 2261   t' ai                         tE                           , je t' ai dit
 2262   en a                          @ na                          y en a plein là haut
-2263   les ai                        le zE                         je les ai lavées * ah
+2263   les ai                        le zE                         je les ai lavées # ah
 2267   qu' est-ce                    kEs                          qu' est-ce que tu comptes faire
 2268   c' est                        se                           non , c' est pas
 2269   c' est                        se                           c' est pas un bouchon ,
@@ -1496,7 +1496,7 @@
 2303   s' en                         s@                           elle s' en va .
 2305   qu' est-ce                    kEs                          qu' est-ce qu' il lui est
 2305   qu' il                        kil                          qu' est-ce qu' il lui est
-2306   qu' est-ce                    kEs                          qu' est-ce qui est arrivé *
+2306   qu' est-ce                    kEs                          qu' est-ce qui est arrivé #
 2307   qu' est-ce                    kEs                          qu' est-ce qu' y avait dans
 2307   qu' y                         ki                           qu' est-ce qu' y avait dans
 2308   qu' est-ce                    kEs                          qu' est-ce qu' y avait dans
@@ -1541,7 +1541,7 @@
 2344   il a                          i la                          fait , il a raison
 2346   c' est                        se                           quoi , c' est tout
 2348   t' auras                      to-Ra                        trois , t' auras du
-2353   d' intellectuels              d5-te-lEk-t8El               * conversation d' intellectuels !
+2353   d' intellectuels              d5-te-lEk-t8El               # conversation d' intellectuels !
 2356   il est                        i le                          il est trop chaud .
 2358   il est                        i le                          il est trop chaud .
 2360   t' ai                         tE                           je t' ai dit que tu
@@ -1557,7 +1557,7 @@
 2373   l' histoire                   lis-twaR                     nous raconter l' histoire du
 2378   t' avais                      ta-vE                        t' avais qu' à pas fourrer
 2378   qu' à                         ka                           t' avais qu' à pas fourrer
-2379   donne une                     dO nyn                        on lui donne une * .
+2379   donne une                     dO nyn                        on lui donne une # .
 2380   il a                          i la                          ben il a fourré sa main
 2380   m' a                          ma                           , il m' a donné
 2381   qu' est-ce                    kEs                          qu' est-ce qu' y a ?
@@ -1573,7 +1573,7 @@
 2399   l' envers                     l@-vER                       renversée à l' envers sur
 2405   elle était                    E le-tE                       elle était à l' envers la
 2405   l' envers                     l@-vER                       était à l' envers la
-2409   les yeux                      le zj2                        * les yeux au loin ,
+2409   les yeux                      le zj2                        # les yeux au loin ,
 2410   voiture à                     vwa-ty Ra                     dans la voiture à l'
 2410   l' envers                     l@-vER                       voiture à l' envers ?
 2412   qu' est-ce                    kEs                          qu' est-ce qu' y a ,
@@ -1583,8 +1583,8 @@
 2415   qu' est                       ke                           qu' est ce tu veux ?
 2416   qu' est                       ke                           qu' est ce tu veux ?
 2417   qu' est-ce                    kEs                          qu' est-ce que tu veux ?
-2420   m' admirer                    mad-mi-Re                    il veut m' admirer * .
-2422   m' en                         m@                           * laisse m' en un bout
+2420   m' admirer                    mad-mi-Re                    il veut m' admirer # .
+2422   m' en                         m@                           # laisse m' en un bout
 2423   marc il                       maR kil                       Philippe , marc il mangerait
 2423   tout entier                   tu t@-tje                     mon croissant tout entier si
 2426   hier il                       jE Ril                        hier il nous a bien fait
@@ -1599,15 +1599,15 @@
 2434   machine à                     ma-Si na                      a une machine à calculer
 2435   s' approche                   sa-pROS                      , il s' approche et
 2435   approche et                   sa-pRO Se                     il s' approche et puis
-2436   s' est                        se                           on s' est regardés avec *
-2436   alors on                      a-lO R§n                      avec * alors on a
-2436   on a                          R§ na                         * alors on a supposé
+2436   s' est                        se                           on s' est regardés avec #
+2436   alors on                      a-lO R§n                      avec # alors on a
+2436   on a                          R§ na                         # alors on a supposé
 2436   quelqu'un avait               kEl-k1 na-vE                  supposé que quelqu'un avait dû
 2439   l' entraînement               l@-tREn-m@                   , avec l' entraînement auquel
 2441   l' hexagone                   lEg-za-gon                   jeu de l' hexagone .
 2442   en apprend                    @ na-pR@                      il lui en apprend !
 2445   c' est                        se                           tomber , c' est foutu
-2446   les hexagones                 le zEg-za-gon                 * les hexagones * .
+2446   les hexagones                 le zEg-za-gon                 # les hexagones # .
 2448   d' une                        dyn                          le nom d' une terre
 2448   d' une                        dyn                          très compliqué d' une terre
 2448   jour y                        Zu Ri                         et un jour y a
@@ -1653,12 +1653,12 @@
 2493   elle a                        E la                          pourquoi elle a acheté ça ?
 2494   c' est                        se                           c' est pas elle qui l'
 2494   l' a                          la                           elle qui l' a acheté
-2495   c' est                        se                           c' est fou * tiroir ,
+2495   c' est                        se                           c' est fou # tiroir ,
 2496   il écrit                      i le-kRi                      il écrit bien celui là ?
 2504   t' as                         ta                           t' as fini de manger ,
 2506   n' a                          na                           , ça n' a aucune
 2506   aucune importance             o-ky n5-pOR-t@s               n' a aucune importance .
-2513   vas y                         va zi                         ben , vas y * .
+2513   vas y                         va zi                         ben , vas y # .
 2515   qu' est-ce                    kEs                          qu' est-ce que tu fais là
 2517   qu' est-ce                    kEs                          qu' est-ce que c' est ça
 2517   c' est                        se                           est-ce que c' est ça
@@ -1678,7 +1678,7 @@
 2532   mal au                        ma lo                         te faire mal au nez
 2533   exagères un                   Eg-za-ZE R1                   tu exagères un peu là .
 2536   il a                          i la                          mais là il a un
-2539   montre à                      m§ tRa                        croyais * montre à Madeleine
+2539   montre à                      m§ tRa                        croyais # montre à Madeleine
 2543   moite aujourd'hui             mwa to-ZuR-d8i                faire très moite aujourd'hui .
 2549   il est                        i le                          oui , il est là .
 2555   l' appareil                   la-pa-REj                    où est l' appareil photo
@@ -1706,9 +1706,9 @@
 2586   qu' on                        k§                           qu' on va voir Guy .
 2590   une idée                      y ni-de                       tu as une idée de l'
 2590   l' ordre                      lORd                         idée de l' ordre de
-2590   on a                          § na                          grandeur dont on a *
+2590   on a                          § na                          grandeur dont on a #
 2590   cet appareil                  sE ta-pa-REj                  prix de cet appareil ?
-2596   c' est                        se                           c' est pas une * du
+2596   c' est                        se                           c' est pas une # du
 2596   c' est                        se                           tout , c' est un
 2596   un excellent                  1 nek-sE-l@                   c' est un excellent appareil
 2602   t' es                         tE                           pour grimper t' es doué
@@ -1759,7 +1759,7 @@
 2670   il est                        i le                          oh , il est bien .
 2672   qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 2674   qu' est-ce                    kEs                          alors , qu' est-ce qui
-2675   c' est                        se                           * c' est vraiment un gros
+2675   c' est                        se                           # c' est vraiment un gros
 2676   qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 2679   qu' on                        k§                           tu veux qu' on joue
 2681   qu' est-ce                    kEs                          qu' est-ce que c' est ça
@@ -1840,7 +1840,7 @@
 2762   appelle un                    sa-pE l1                      ça s' appelle un truc
 2765   on appelle                    § na-pEl                      comment on appelle ça ?
 2766   on appelle                    § na-pEl                      , comment on appelle ça
-2767   une étiquette                 y ne-ti-kEt                   * une étiquette .
+2767   une étiquette                 y ne-ti-kEt                   # une étiquette .
 2769   qu' y                         ki                           je crois qu' y a encore
 2769   d' autres                     dot                          a encore d' autres choses
 2770   qu' est-ce                    kEs                          qu' est-ce qu' y a dans
@@ -1991,7 +1991,7 @@
 2944   qu' on                        k§                           boit , qu' on boit
 2948   quand on                      k@ t§                         mange mieux quand on boit
 2949   quand on                      k@ t§                         mange mieux quand on boit
-2951   c' est                        se                           oui * c' est du
+2951   c' est                        se                           oui # c' est du
 2951   n' a                          na                           , ça n' a rien
 2951   voir avec                     vwa Ra-vEk                    rien à voir avec ce
 2951   qu' on                        k§                           avec ce qu' on te
@@ -2001,7 +2001,7 @@
 2954   c' est                        se                           est , c' est bien
 2960   d' où                         du                           d' où est-ce que ça vient
 2962   j' ai                         ZE                           pas , j' ai l'
-2962   l' impression                 l5-pRe-sj§                   j' ai l' impression *
+2962   l' impression                 l5-pRe-sj§                   j' ai l' impression #
 2965   c' est                        se                           pas , c' est jouer
 2970   qu' est-ce                    kEs                          qu' est-ce qu' on dit ?
 2970   qu' on                        k§                           qu' est-ce qu' on dit ?
@@ -2023,7 +2023,7 @@
 3009   hier avec                     jE Ra-vEk                     as fait hier avec une
 3009   avec une                      Ra-vE kyn                     fait hier avec une pipe
 3010   t' a                          ta                           ton papa t' a grondé .
-3012   j' ai                         ZE                           * moi j' ai touché la
+3012   j' ai                         ZE                           # moi j' ai touché la
 3013   j' ai                         ZE                           alors justement j' ai ri .
 3014   c' est                        se                           c' est pas malin .
 3015   l' as                         la                           tu l' as fumée la pipe
@@ -2036,7 +2036,7 @@
 3024   c' est                        se                           qui c' est qui va l'
 3024   l' enlever                    l@l-ve                       qui va l' enlever la
 3025   c' est                        se                           c' est maman .
-3028   son expérience                s§ nEk-spe-Rj@s               parce que son expérience lui *
+3028   son expérience                s§ nEk-spe-Rj@s               parce que son expérience lui #
 3029   j' ai                         ZE                           labo , j' ai récupéré
 3029   parleur et                    paR-l9 Re                     du haut parleur et le
 3029   d' heure                      d9R                          un quart d' heure ,
@@ -2056,12 +2056,12 @@
 3047   il est                        i le                          il est trop petit le chausson
 3048   qu' est-ce                    kEs                          qu' est-ce qui est trop grand
 3049   c' est                        se                           non , c' est le pied
-3050   en a                          @ na                          * y en a un des
+3050   en a                          @ na                          # y en a un des
 3050   l' autre                      lotR                         grand pour l' autre .
 3052   c' est                        se                           c' est très difficile comme relation
-3053   qu' on                        k§                           me semble qu' on *
+3053   qu' on                        k§                           me semble qu' on #
 3053   des illusions                 de zi-ly-zj§                  me fais des illusions ,
-3054   des illusions                 de zi-ly-zj§                  * des illusions , oui .
+3054   des illusions                 de zi-ly-zj§                  # des illusions , oui .
 3060   en as                         @ na                          tu en as déjà eu ce
 3061   t' en                         t@                           on t' en donnera à croquer
 3061   tout à                        tu ta                         à croquer tout à l'
@@ -2147,8 +2147,8 @@
 3164   t' as                         ta                           oui , t' as un feu
 3165   t' as                         ta                           , mais t' as un
 3166   qu' on                        k§                           comment est-ce qu' on transcrit ce
-3168   cherches une                  SER Syn                       * tu cherches une bande dessinée
-3172   l' a                          la                           * me l' a demandé et
+3168   cherches une                  SER Syn                       # tu cherches une bande dessinée
+3172   l' a                          la                           # me l' a demandé et
 3172   l' ai                         lE                           et je l' ai pas
 3175   en a                          @ na                          , y en a qu'
 3175   qu' une                       kyn                          en a qu' une ,
@@ -2168,20 +2168,20 @@
 3187   n' est                        ne                           il n' est pas là ,
 3187   quand il                      k@ til                        donneras une quand il sera
 3189   c' est                        se                           merci , c' est gentil .
-3191   qu' une                       kyn                          * qu' une à la fois
-3191   une à                         ky na                         * qu' une à la fois
+3191   qu' une                       kyn                          # qu' une à la fois
+3191   une à                         ky na                         # qu' une à la fois
 3193   j' ai                         ZE                           oui , j' ai pas
-3194   j' ai                         ZE                           j' ai cherché et puis *
+3194   j' ai                         ZE                           j' ai cherché et puis #
 3196   l' autre                      lotR                         et l' autre ?
 3198   l' autre                      lotR                         mets l' autre .
 3199   c' est                        se                           c' est de l' eau ,
 3199   l' eau                        lo                           est de l' eau ,
-3201   l' autre                      lot                          * l' autre jour , il
+3201   l' autre                      lot                          # l' autre jour , il
 3201   il a                          i la                          jour , il a bu
 3202   qu' est-ce                    kEs                          qu' est-ce qu' il a fait
 3202   qu' il                        kil                          qu' est-ce qu' il a fait
 3202   il a                          ki la                         est-ce qu' il a fait
-3203   il a                          i la                          il a fait * .
+3203   il a                          i la                          il a fait # .
 3205   l' a                          la                           il l' a refait le lendemain
 3207   il avait                      i la-vE                       le lendemain il avait du
 3208   dans un                       d@ z1                         du calva dans un verre
@@ -2237,7 +2237,7 @@
 3257   mémoire avec                  me-mwa Ra-vEk                 a une mémoire avec les
 3257   qu' ont                       k§                           les trucs qu' ont fait
 3257   les adultes                   le za-dylt                    ont fait les adultes !
-3258   six heures                    si z9R                        * à six heures du matin
+3258   six heures                    si z9R                        # à six heures du matin
 3264   il est                        i le                          il est devenu monsieur , maintenant
 3265   vas y                         va zi                         tiens , vas y , mets
 3266   c' est                        se                           oh , c' est parce que
@@ -2261,14 +2261,14 @@
 3281   il a                          ki la                         dire qu' il a l'
 3281   l' air                        lER                          il a l' air en
 3281   air en                        lE R@                         a l' air en pleine
-3282   cet espèce                    sE tEs-pEs                    * cet espèce de sagouin qui
+3282   cet espèce                    sE tEs-pEs                    # cet espèce de sagouin qui
 3282   s' est                        se                           sagouin qui s' est mis
 3282   l' autre                      lot                          vingt huit l' autre nuit
 3283   qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 3285   nous expliquais               nu zEk-spli-kE                si tu nous expliquais ce que
-3289   il est                        i le                          * il est cassé en deux
+3289   il est                        i le                          # il est cassé en deux
 3290   il est                        i le                          il est en deux morceaux ;
-3292   j' emporte                    Z@-pORt                      * j' emporte quelque chose à
+3292   j' emporte                    Z@-pORt                      # j' emporte quelque chose à
 3292   chose à                       So za                         emporte quelque chose à manger
 3297   qu' est-ce                    kEs                          qu' est-ce que c' est ça
 3297   c' est                        se                           est-ce que c' est ça
@@ -2294,7 +2294,7 @@
 3327   c' est                        se                           c' est du feu qui sort
 3328   c' est                        se                           c' est pas de la fumée
 3329   il est                        i le                          il est à qui le briquet
-3332   il en                         i l@n                         * papa il en a un
+3332   il en                         i l@n                         # papa il en a un
 3332   en a                          l@ na                         papa il en a un
 3332   il est                        i le                          ça ; il est noir
 3333   couleur il                    ku-l9 Ril                     de quelle couleur il est
@@ -2309,7 +2309,7 @@
 3344   c' est                        se                           qui c' est qui va courir
 3346   c' est                        se                           c' est du croissant , pas
 3348   qu' est-ce                    kEs                          qu' est-ce que tu as fait
-3350   il est                        i le                          , où il est *
+3350   il est                        i le                          , où il est #
 3353   donne une                     dO nyn                        je te donne une fessée
 3355   qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 3357   qu' est-ce                    kEs                          qu' est-ce que c' est ?
@@ -2377,7 +2377,7 @@
 3476   l' ai                         lE                           je l' ai rangée .
 3479   montre à                      m§ tRa                        bien , montre à Madeleine
 3480   montre à                      m§ tRa                        montre à Madeleine .
-3481   c' est                        se                           * qui c' est sur toutes
+3481   c' est                        se                           # qui c' est sur toutes
 3484   m' expliques                  mEk-splik                    tu m' expliques qui c' est
 3484   c' est                        se                           expliques qui c' est ;
 3484   c' est                        se                           moi qui c' est .
@@ -2393,7 +2393,7 @@
 3494   qu' est-ce                    kEs                          oui , qu' est-ce qu' il
 3494   qu' il                        kil                          qu' est-ce qu' il faisait
 3494   pelle et                      pE le                         avec la pelle et le
-3495   quand il                      k@ til                        * pas quand il y a
+3495   quand il                      k@ til                        # pas quand il y a
 3495   il y                          ti li                         pas quand il y a
 3495   quand il                      k@ til                        , pas quand il y
 3495   il y                          ti li                         pas quand il y a
@@ -2421,7 +2421,7 @@
 3505   l' envers                     l@-vER                       Philippe à l' envers ;
 3505   il y                          i li                          envers ; il y a
 3505   n' a                          na                           mais on n' a pas
-3507   qu' est-ce                    kEs                          * qu' est-ce qu' y a
+3507   qu' est-ce                    kEs                          # qu' est-ce qu' y a
 3507   qu' y                         ki                           qu' est-ce qu' y a
 3510   j' ai                         ZE                           j' ai enlevé celui qu' il
 3510   qu' il                        kil                          enlevé celui qu' il fallait
@@ -2606,7 +2606,7 @@
 3763   arrives à                     ta-Ri va                      t' arrives à le ramasser ?
 3765   c' est                        se                           c' est une petite étiquette .
 3765   petite étiquette              p°-ti te-ti-kEt               est une petite étiquette .
-3766   petite étiquette              p°-ti te-ti-kEt               * la petite étiquette elle tient
+3766   petite étiquette              p°-ti te-ti-kEt               # la petite étiquette elle tient
 3766   étiquette elle                te-ti-kE tEl                  la petite étiquette elle tient
 3768   c' est                        se                           c' est pas une trompe ça
 3768   c' est                        se                           chéri , c' est un
@@ -2680,7 +2680,7 @@
 3869   qu' y                         ki                           qu' est-ce qu' y a ?
 3872   t' habille                    ta-bij                       je t' habille , je vais
 3873   ménage après                  me-na Za-pRE                  feras le ménage après .
-3875   t' as                         ta                           t' as commencé de faire *
+3875   t' as                         ta                           t' as commencé de faire #
 3877   s' appelle                    sa-pEl                       comment ça s' appelle ?
 3878   c' est                        se                           c' est pour quoi faire ?
 3880   t' auras                      to-Ra                        te , t' auras très
@@ -2721,7 +2721,7 @@
 3904   quand on                      k@ t§                         Philippe , quand on fait un
 3904   c' est                        se                           caprice , c' est ,
 3904   c' est                        se                           est , c' est ,
-3904   très efficace                 tRE ze-fi-kas                 , * très efficace .
+3904   très efficace                 tRE ze-fi-kas                 , # très efficace .
 3905   t' as                         ta                           t' as fini , oui ?
 3906   c' est                        se                           c' est celui là que tu
 3909   croque un                     kRO k1                        croque un bout , croque un
@@ -2781,9 +2781,9 @@
 3984   c' est                        se                           c' est toi qui l' as
 3984   l' as                         la                           toi qui l' as accroché
 3985   c' est                        se                           c' est lui ?
-3986   commence à                    ko-m@ sa                      il commence à savoir * .
+3986   commence à                    ko-m@ sa                      il commence à savoir # .
 3987   commence à                    ko-m@ sa                      il commence à savoir l' accrocher
-3987   l' accrocher                  la-kRo-Se                    à savoir l' accrocher *
+3987   l' accrocher                  la-kRo-Se                    à savoir l' accrocher #
 3988   l' a                          la                           là il l' a accroché
 3990   c' est                        se                           oui , c' est fini pour
 3990   pour aujourd'hui              pu Ro-ZuR-d8i                 est fini pour aujourd'hui l'
@@ -2795,7 +2795,7 @@
 4001   qu' est-ce                    kEs                          qu' est-ce que t' as vu
 4001   t' as                         ta                           est-ce que t' as vu
 4002   c' est                        se                           c' est loin ça , hein
-4003   l' a                          la                           * on l' a emmené à
+4003   l' a                          la                           # on l' a emmené à
 4005   c' est                        se                           c' est ça , non ?
 4008   il y                          i li                          il y avait des drapeaux .
 4009   belles autos                  bEl zo-to                     des belles autos ?
@@ -2854,7 +2854,7 @@
 4070   j' arrive                     Za-Riv                       , quand j' arrive ,
 4070   j' ouvre                      Zuv                          , quand j' ouvre la
 4070   c' est                        se                           porte , c' est jamais
-4070   c' est                        se                           * , c' est toujours
+4070   c' est                        se                           # , c' est toujours
 4071   qu' il                        kil                          peut-être parce qu' il sait simplement
 4071   j' arrive                     Za-Riv                       simplement que j' arrive en
 4071   arrive en                     Za-Ri v@                      que j' arrive en général
@@ -2873,8 +2873,8 @@
 4088   l' argent                     laR-Z@                       donne de l' argent ,
 4088   pour elle                     pu REl                        à manger pour elle ce
 4089   en a                          @ na                          mais y en a pour
-4091   qu' elle                      kEl                          * qu' elle prenne quelque chose
-4091   Philippe aussi                fi-li po-si                   chose pour Philippe aussi *
+4091   qu' elle                      kEl                          # qu' elle prenne quelque chose
+4091   Philippe aussi                fi-li po-si                   chose pour Philippe aussi #
 4095   s' il                         sil                          bruit , s' il te
 4097   c' est                        se                           non , c' est pas un
 4097   mal aux                       ma loz                        ça fait mal aux oreilles
@@ -2884,7 +2884,7 @@
 4098   aux oreilles                  lo zo-REj                     fasses mal aux oreilles .
 4100   qu' est                       ke                           qu' est ce tu fais ?
 4101   chaise est                    SE ze                         de la chaise est par
-4103   t' as                         ta                           * t' as rien compris .
+4103   t' as                         ta                           # t' as rien compris .
 4106   t' es                         tE                           ben , t' es gonflé
 4107   c' est                        se                           c' est ce que j' allais
 4107   j' allais                     Za-lE                        ce que j' allais dire
@@ -2906,7 +2906,7 @@
 4116   qu' est-ce                    kEs                          qu' est-ce qu' elles font ?
 4116   qu' elles                     kEl                          qu' est-ce qu' elles font ?
 4118   ton école                     t§ ne-kOl                     feu dans ton école ,
-4119   confondre avec                k§-f§ dRa-vEk                 il doit confondre avec *
+4119   confondre avec                k§-f§ dRa-vEk                 il doit confondre avec #
 4121   qu' est-ce                    kEs                          alors , qu' est-ce qui se
 4121   passe au                      pa so                         qui se passe au clair
 4122   t' ai                         tE                           , je t' ai dit
@@ -2916,7 +2916,7 @@
 4127   c' est                        se                           c' est parce que tu sais
 4129   seul oeil                     s9 l9j                        un seul oeil .
 4133   d' école                      de-kOl                       a pas d' école .
-4134   t' es                         tE                           * t' es un peu inquiet
+4134   t' es                         tE                           # t' es un peu inquiet
 4136   s' appelle                    sa-pEl                       comment ça s' appelle ça ?
 4137   s' appelle                    sa-pEl                       comment ça s' appelle ça ?
 4140   qu' est-ce                    kEs                          qu' est-ce que c' est ça
@@ -3009,7 +3009,7 @@
 4239   qu' est                       ke                           qu' est ce tu viens faire
 4240   qu' est                       ke                           qu' est ce tu viens faire
 4241   qu' est-ce                    kEs                          monté , qu' est-ce que
-4245   qu' est                       ke                           * mais qu' est ce tu
+4245   qu' est                       ke                           # mais qu' est ce tu
 4246   penches en                    p@ S@n                        tu te penches en avant
 4246   en avant                      S@ na-v@                      te penches en avant ,
 4249   cuillères elles               k8i-jE REl                    les cuillères elles sont là bas
@@ -3029,7 +3029,7 @@
 4280   il y                          ki li                         est-ce qu' il y a
 4281   l' eau                        lo                           de l' eau qui sort par
 4282   l' eau                        lo                           as vu l' eau qui
-4283   s' élargit                    se-laR-Zi                    * ça s' élargit .
+4283   s' élargit                    se-laR-Zi                    # ça s' élargit .
 4284   c' est                        se                           c' est vrai que sur les
 4284   il y                          i li                          les bateaux il y a
 4284   l' eau                        lo                           a de l' eau qui
@@ -3041,7 +3041,7 @@
 4290   tout à                        tu ta                         tout à l' heure , quand
 4290   l' heure                      l9R                          tout à l' heure , quand
 4290   t' auras                      to-Ra                        , quand t' auras mangé
-4290   t' auras                      to-Ra                        * quand t' auras fini
+4290   t' auras                      to-Ra                        # quand t' auras fini
 4292   c' est                        se                           non , c' est là .
 4296   l' ai                         lE                           que je l' ai arrêté
 4296   il est                        i le                          route , il est pas
@@ -3150,7 +3150,7 @@
 4425   mal à                         ma la                         ai fait mal à la
 4425   tète en                       tE t@                         à la tète en plus
 4432   regarde un                    R°-gaR d1                     bien , regarde un peu
-4434   boîte entière                 bwa t@-tjER                   porter la boîte entière *
+4434   boîte entière                 bwa t@-tjER                   porter la boîte entière #
 4439   d' eau                        do                           un peu d' eau ?
 4451   gros élastique                gRo ze-las-tik                a un gros élastique ,
 4451   s' appelle                    sa-pEl                       , ça s' appelle un
@@ -3166,7 +3166,7 @@
 4454   des ennuis                    de z@-n8i                     il arrive des ennuis .
 4455   l' as                         la                           tu l' as pas encore vue
 4457   c' est                        se                           c' est ça .
-4460   c' est                        se                           * non c' est pas ce
+4460   c' est                        se                           # non c' est pas ce
 4460   d' ailleurs                   da-j9R                       tu faisais d' ailleurs .
 4466   c' est                        se                           hein , c' est pointu
 4467   c' est                        se                           c' est pas fait pour y
@@ -3223,18 +3223,18 @@
 4560   c' est                        se                           là c' est son cou .
 4561   qu' il                        kil                          où est-ce qu' il est ton
 4561   il est                        ki le                         est-ce qu' il est ton
-4564   il est                        i le                          il est plein * .
+4564   il est                        i le                          il est plein # .
 4567   petit avion                   p°-ti ta-vj§                  est le petit avion taille
 4568   c' est                        se                           c' est toi qui l' as
 4568   l' as                         la                           toi qui l' as quelque
 4568   petit avion                   p°-ti ta-vj§                  part le petit avion taille
 4569   j' ai                         ZE                           non , j' ai pas mangé
 4569   j' ai                         ZE                           mangé mais j' ai tiré
-4570   il était                      i le-tE                       crayon puisqu' il était *
+4570   il était                      i le-tE                       crayon puisqu' il était #
 4576   c' est                        se                           c' est pas de la terre
 4576   c' est                        se                           terre , c' est des
 4582   t' achètera                   ta-SE-tRa                    on t' achètera des crayons de
-4583   c' est                        se                           c' est du bois * un
+4583   c' est                        se                           c' est du bois # un
 4584   c' est                        se                           écoute , c' est pas
 4585   c' est                        se                           dès que c' est fait ,
 4587   j' aimerais                   ZEm-RE                       j' aimerais bien qu' il traîne
@@ -3246,7 +3246,7 @@
 4596   c' est                        se                           c' est un trait avec un
 4596   avec un                       a-vE k1n                      un trait avec un autre
 4596   un autre                      k1 not                        trait avec un autre crayon
-4597   qu' est-ce                    kEs                          * qu' est-ce que c' est
+4597   qu' est-ce                    kEs                          # qu' est-ce que c' est
 4597   c' est                        se                           est-ce que c' est ça
 4601   qu' est-ce                    kEs                          et qu' est-ce qu' on en
 4601   qu' on                        k§n                          qu' est-ce qu' on en
@@ -3537,8 +3537,8 @@
 5007   il a                          i la                          il a dit un juron ,
 5007   alors il                      a-lO Ril                      juron , alors il a
 5007   il a                          Ri la                         , alors il a eu
-5008   c' est                        se                           c' est pas bien * un
-5010   t' attends                    ta-t@                        * je t' attends * à
+5008   c' est                        se                           c' est pas bien # un
+5010   t' attends                    ta-t@                        # je t' attends # à
 5010   halle aux                     a lo                          à la halle aux vins
 5011   l' adresse                    la-dREs                      prends l' adresse .
 5012   d' accord                     da-kOR                       d' accord , oui , oui
@@ -3722,7 +3722,7 @@
 5247   des enfants                   de z@-f@                      des enfants qui jouaient .
 5248   boules et                     bu le                         jouaient aux boules et des
 5248   des enfants                   de z@-f@                      boules et des enfants qui
-5250   raconte un                    Ra-k§ t1                      * raconte un peu * .
+5250   raconte un                    Ra-k§ t1                      # raconte un peu # .
 5251   c' était                      se-tE                        est-ce que c' était dans les
 5252   c' est                        se                           Porquerolles , c' est dans les
 5253   d' autre                      dot                          mieux parler d' autre chose
@@ -3750,7 +3750,7 @@
 5277   elle est                      kE le                         est-ce qu' elle est à l'
 5277   l' école                      le-kOl                       est à l' école Isabelle
 5277   école Isabelle                le-kO li-za-bEl               à l' école Isabelle ?
-5279   elle est                      E le                          * elle est à l' école
+5279   elle est                      E le                          # elle est à l' école
 5279   l' école                      le-kOl                       est à l' école ?
 5281   c' est                        se                           c' est pas Isabelle ?
 5282   qu' il                        kil                          où est-ce qu' il est
@@ -3819,7 +3819,7 @@
 5360   qu' est-ce                    kEs                          qu' est-ce qu' elle faisait la
 5360   qu' elle                      kEl                          qu' est-ce qu' elle faisait la
 5361   n' en                         n@                           on n' en saura pas plus
-5362   t' en                         t@                           , va t' en *
+5362   t' en                         t@                           , va t' en #
 5363   l' as                         la                           que tu l' as dit
 5364   il avait                      i la-vE                       il avait que des voiles le
 5365   il avait                      i la-vE                       il avait rien d' autre ?
@@ -3990,7 +3990,7 @@
 5591   c' est                        se                           c' est bien ça .
 5597   c' est                        se                           non , c' est un
 5598   j' ai                         ZE                           bien que j' ai perdu
-5598   l' adresse                    la-dREs                      ai perdu l' adresse *
+5598   l' adresse                    la-dREs                      ai perdu l' adresse #
 5599   c' est                        se                           c' est plus solide .
 5600   ces outils                    se zu-ti                      ces outils sont magnifiques , vraiment
 5602   t' enlever                    t@l-ve                       je vais t' enlever ton
@@ -4006,7 +4006,7 @@
 5607   ces outils                    se zu-ti                      voiture avec ces outils ?
 5608   ils étaient                   il ze-tE                      ils étaient dans la boîte ,
 5611   il est                        i le                          il est gros ce petit ventre
-5612   c' était                      se-tE                        c' était près de Dieppe *
+5612   c' était                      se-tE                        c' était près de Dieppe #
 5615   des uniformes                 de zy-ni-fORm                 motos et des uniformes .
 5618   n' as                         na                           tu n' as plus peur des
 5619   c' est                        se                           c' est bien .
@@ -4186,7 +4186,7 @@
 5838   il est                        i le                          et où il est maintenant ce
 5839   il est                        i le                          où il est le gros bonhomme
 5840   il est                        i le                          il est parti .
-5841   on a                          § na                          on a * du gros bonhomme
+5841   on a                          § na                          on a # du gros bonhomme
 5841   les enfants                   le z@-f@                      qui mange les enfants ?
 5842   il est                        i le                          et où il est maintenant ,
 5846   l' a                          la                           on l' a démonté .
@@ -4261,7 +4261,7 @@
 5920   c' est                        se                           c' est trop difficile à refaire
 5920   difficile à                   di-fi-si la                   est trop difficile à refaire
 5921   c' est                        se                           c' est un sagouin ton marc
-5922   c' est                        se                           c' est trop chaud ça *
+5922   c' est                        se                           c' est trop chaud ça #
 5924   c' est                        se                           c' est un peu chaud Philippe
 5926   souffle un                    su fl1                        souffle un peu , souffle un
 5926   souffle un                    su fl1                        peu , souffle un petit
@@ -4491,7 +4491,7 @@
 6147   qu' est                       ke                           oui , qu' est ce tu
 6148   truc à                        tRy ka                        moi le truc à essuyer
 6148   il est                        i le                          essuyer , il est en
-6149   il est                        i le                          il est dégueulasse * .
+6149   il est                        i le                          il est dégueulasse # .
 6153   qu' est-ce                    kEs                          qu' est-ce que tu as fait
 6157   c' était                      se-tE                        quels jouets c' était ?
 6158   qu' est-ce                    kEs                          quoi , qu' est-ce que c'
@@ -4539,7 +4539,7 @@
 6196   c' est                        se                           c' est des animaux qui mangent
 6196   des animaux                   de za-ni-mo                   c' est des animaux qui mangent
 6201   maîtresse il                  mE-tRE sil                    à la maîtresse il lui parle
-6205   qu' il                        kil                          * avant qu' il y ait
+6205   qu' il                        kil                          # avant qu' il y ait
 6205   il y                          ki li                         avant qu' il y ait
 6207   l' autre                      lot                          passer dans l' autre pièce
 6213   ils étaient                   il ze-tE                      les crayons ils étaient là
@@ -4673,7 +4673,7 @@
 6401   qu' il                        kil                          pastrouille , qu' il remue
 6401   qu' il                        kil                          tout , qu' il remue
 6401   qu' il                        kil                          boue , qu' il remue
-6402   c' est                        se                           * c' est avec des trémas
+6402   c' est                        se                           # c' est avec des trémas
 6406   halle aux                     a lo                          à la halle aux vins .
 6407   halle aux                     a lo                          à la halle aux vins .
 6408   t' emmènerai                  t@-mEn-RE                    soir je t' emmènerai en
@@ -4751,8 +4751,8 @@
 6515   l' ai                         lE                           je l' ai trouvée , tiens
 6517   il est                        i le                          où il est l' autre ?
 6517   l' autre                      lotR                         il est l' autre ?
-6518   il est                        i le                          il est dessous * oh il
-6518   il est                        i le                          * oh il est là
+6518   il est                        i le                          il est dessous # oh il
+6518   il est                        i le                          # oh il est là
 6519   c' est                        se                           c' est joli comme travail .
 6521   il était                      i le-tE                       fait ça il était vraiment
 6521   d' astuces                    das-tys                      vraiment plein d' astuces ,
@@ -4798,7 +4798,7 @@
 6569   d' autres                     dotR                         a encore d' autres ,
 6569   les ai                        le zE                         , je les ai pas
 6570   belles en                     bE l@                         elles sont belles en plus ces
-6572   c' est                        se                           * ça c' est très intéressant
+6572   c' est                        se                           # ça c' est très intéressant
 6572   très intéressant              tRE z5-te-RE-s@               c' est très intéressant de
 6573   c' est                        se                           oh qui c' est ça ?
 6574   c' est                        se                           qui c' est ?
@@ -4823,7 +4823,7 @@
 6613   j' y                          Zi                           veuilles que j' y aille
 6614   j' y                          Zi                           veux que j' y aille
 6620   belle interrogation           bE l5-tE-Ro-ga-sj§            quelle belle interrogation !
-6625   tout à                        tu ta                         * tout à l' heure en
+6625   tout à                        tu ta                         # tout à l' heure en
 6625   l' heure                      l9R                          tout à l' heure en
 6625   heure en                      l9 R@                         à l' heure en revenant
 6629   l' école                      le-kOl                       aller à l' école ,
@@ -4882,7 +4882,7 @@
 6694   d' ailleurs                   da-j9R                       non , d' ailleurs elle
 6694   ailleurs elle                 da-j9 REl                     , d' ailleurs elle sait
 6694   quand il                      k@ til                        sait jamais quand il sait
-6695   elle a                        E la                          elle a toujours * .
+6695   elle a                        E la                          elle a toujours # .
 6698   commentaires aujourd'hui      ko-m@-tE Ro-ZuR-d8i           que de commentaires aujourd'hui !
 6700   qu' est-ce                    kEs                          qu' est-ce que c' est qu'
 6700   c' est                        se                           est-ce que c' est qu'
@@ -4900,7 +4900,7 @@
 6709   c' est                        se                           alors c' est à qui ?
 6710   c' est                        se                           mais si c' est à mamie
 6712   c' est                        se                           c' est moi .
-6713   c' est                        se                           c' est ma main et *
+6713   c' est                        se                           c' est ma main et #
 6715   c' est                        se                           oh c' est joli .
 6716   m' a                          ma                           une fille m' a fait acheter
 6716   père en                       pE R@                         par son père en rentrant
@@ -4957,7 +4957,7 @@
 6788   ils habitent                  il za-bit                     ils habitent plus au même endroit
 6788   plus au                       ply zo                        ils habitent plus au même endroit
 6788   même endroit                  mE m@-dRwa                    plus au même endroit .
-6789   c' est                        se                           où * c' est ça
+6789   c' est                        se                           où # c' est ça
 6791   c' était                      se-tE                        c' était un garage là où
 6792   ils ont                       il z§                         tu sais ils ont changé de
 6793   il y                          i li                          maison où il y a
@@ -5001,7 +5001,7 @@
 6851   qu' elles                     kElz                         qu' est-ce qu' elles ont de
 6851   elles ont                     kEl z§                        est-ce qu' elles ont de
 6853   en a                          @ na                          y en a une qui est
-6856   il a                          i la                          il a fondu poussin * .
+6856   il a                          i la                          il a fondu poussin # .
 6857   faire un                      fE R1                         tu vas faire un trou
 6859   il est                        i le                          y est il est fondu
 6859   en a                          @ na                          , y en a plus
@@ -5027,7 +5027,7 @@
 6876   sucre il                      sy kRil                       le sucre il est caché derrière
 6876   il est                        kRi le                        le sucre il est caché derrière
 6877   il y                          i li                          , mais il y est
-6880   c' est                        se                           c' est * .
+6880   c' est                        se                           c' est # .
 6881   c' est                        se                           c' est bien .
 6882   j' étais                      Ze-tE                        j' étais en train d' admirer
 6882   d' admirer                    dad-mi-Re                    en train d' admirer .
@@ -5256,7 +5256,7 @@
 7182   on en                         § n@n                         béh maintenant on en a
 7182   en a                          n@ na                         maintenant on en a deux
 7183   j' ai                         ZE                           malheureusement , j' ai perdu tous
-7183   les autres                    le zotR                       perdu tous les autres *
+7183   les autres                    le zotR                       perdu tous les autres #
 7184   tout à                        tu ta                         pas tout à fait deux crocodiles
 7185   on a                          § na                          on a deux queues en tout
 7185   on a                          § na                          cas , on a deux
@@ -5294,7 +5294,7 @@
 7246   qu' est-ce                    kEs                          qu' est-ce que tu fais ?
 7248   il en                         i l@n                         il en a déjà fait un
 7248   en a                          l@ na                         il en a déjà fait un
-7251   il était                      i le-tE                       * il était ravi .
+7251   il était                      i le-tE                       # il était ravi .
 7253   il est                        i le                          où il est le toit ?
 7254   elle a                        E la                          mais elle a que des fenêtres
 7255   elle en                       E l@n                         oui , elle en a même
@@ -5367,7 +5367,7 @@
 7327   qu' est-ce                    kEs                          oui , qu' est-ce qu' elle
 7327   qu' elle                      kEl                          qu' est-ce qu' elle chante
 7328   qu' il                        kil                          sais ce qu' il fait
-7329   l' électrophone               le-lEk-tRo-fOn               quand l' électrophone * son disque
+7329   l' électrophone               le-lEk-tRo-fOn               quand l' électrophone # son disque
 7329   il installe                   i l5s-tal                     disque , il installe le
 7329   il installe                   i l5s-tal                     rond , il installe le
 7329   il oublie                     i lu-bli                      et puis il oublie qu'
@@ -5414,7 +5414,7 @@
 7353   il avait                      i la-vE                       il avait son porte monnaie et
 7354   n' y                          ni                           il n' y a pas de
 7356   seul aujourd'hui              s9 lo-ZuR-d8i                 manges tout seul aujourd'hui ?
-7357   c' est                        se                           c' est un peu chaud *
+7357   c' est                        se                           c' est un peu chaud #
 7358   chose en                      So z@n                        donne quelque chose en attendant
 7358   en attendant                  z@ na-t@-d@                   quelque chose en attendant .
 7359   en as                         @ na                          tu lui en as donné
@@ -5423,7 +5423,7 @@
 7363   d' ailleurs                   da-j9R                       les , d' ailleurs je
 7366   c' est                        se                           c' est un dessin .
 7367   c' est                        se                           c' est le nom .
-7368   c' est                        se                           * c' est un petit dessin
+7368   c' est                        se                           # c' est un petit dessin
 7371   c' est                        se                           qui c' est qui t' a
 7371   t' a                          ta                           est qui t' a gardé
 7371   l' école                      le-kOl                       pas à l' école ?
@@ -5435,7 +5435,7 @@
 7379   j' en                         Z@n                          est , j' en ai
 7379   en ai                         Z@ nE                         , j' en ai mis
 7380   c' est                        se                           c' est tout ce qui reste
-7383   c' est                        se                           * c' est pas possible ,
+7383   c' est                        se                           # c' est pas possible ,
 7383   j' ai                         ZE                           enfin , j' ai acheté
 7383   beurre y                      b9 Ri                         acheté le beurre y a
 7384   j' en                         Z@n                          , si j' en ai
@@ -5466,7 +5466,7 @@
 7399   qu' il                        kil                          est parce qu' il y
 7399   il y                          ki li                         parce qu' il y a
 7402   c' est                        se                           c' est un mur tu crois
-7403   l' a                          la                           * on l' a posé sur
+7403   l' a                          la                           # on l' a posé sur
 7404   sur une                       sy Ryn                        sur une planche dans le four
 7405   sur une                       sy Ryn                        non pas sur une planche .
 7406   sur une                       sy Ryn                        le poser sur une planche
@@ -5633,7 +5633,7 @@
 7598   l' air                        lER                          as pas l' air encore
 7598   air encore                    lE R@-kOR                     pas l' air encore parfaitement
 7603   c' est                        se                           sais , c' est pas
-7603   c' est                        se                           moi * c' est toi
+7603   c' est                        se                           moi # c' est toi
 7605   l' espère                     lEs-pER                      , je l' espère du
 7607   c' est                        se                           c' est qu' ici on fait
 7607   qu' ici                       ki-si                        c' est qu' ici on fait
@@ -5693,7 +5693,7 @@
 7658   il est                        i le                          il est pas sur la bonne
 7659   l' arrêter                    la-Re-te                     hier pour l' arrêter de
 7659   il a                          i la                          de jouer il a bougé
-7659   dix huit                      di s8it                       * soixante dix huit tours
+7659   dix huit                      di s8it                       # soixante dix huit tours
 7660   qu' est-ce                    kEs                          qu' est-ce que c' est ça
 7660   c' est                        se                           est-ce que c' est ça
 7661   qu' est-ce                    kEs                          qu' est-ce que c' est cette
@@ -5730,7 +5730,7 @@
 7688   pastis hier                   pas-ti sjER                   acheté le pastis hier .
 7692   Philippe aujourd'hui          fi-li po-ZuR-d8i              sortira avec Philippe aujourd'hui ?
 7696   j' ai                         ZE                           tout moi j' ai rien
-7697   courses avec                  kuR sa-vEk                    * les courses avec lui .
+7697   courses avec                  kuR sa-vEk                    # les courses avec lui .
 7702   il a                          i la                          il a pas voulu lui téléphoner
 7704   m' a                          ma                           il m' a tout de suite
 7705   mal à                         ma la                         est pas mal à trois
@@ -5827,7 +5827,7 @@
 7838   par exemple                   pa REg-z@pl                   par exemple oui .
 7838   exemple oui                   REg-z@ plwi                   par exemple oui .
 7839   voiture et                    vwa-ty Re                     papa en voiture et le
-7839   il est                        i le                          que Michel il est *
+7839   il est                        i le                          que Michel il est #
 7839   large et                      laR Ze                        tu voies large et que
 7843   d' accord                     da-kOR                       d' accord .
 7844   alors il                      a-lO Ril                      ben alors il faut que je
@@ -5840,7 +5840,7 @@
 7857   qu' est-ce                    kEs                          qu' est-ce qu' il y a
 7857   qu' il                        kil                          qu' est-ce qu' il y a
 7857   il y                          ki li                         est-ce qu' il y a
-7859   sept heures                   sE t9R                        * à sept heures et
+7859   sept heures                   sE t9R                        # à sept heures et
 7859   heures et                     t9 Re                         à sept heures et demie
 7859   jusqu' à                      Zys ka                        demie , jusqu' à sept
 7859   sept et                       sE te                         jusqu' à sept et demie
@@ -5975,8 +5975,8 @@
 8058   quatre heures                 ka tR9R                       réveille à quatre heures et
 8058   heures et                     tR9 Re                        à quatre heures et demie
 8058   il est                        i le                          , évidemment il est un
-8058   l' amener                     lam-ne                       tard pour l' amener *
-8058   alors il                      a-lO Ril                      chaud * alors il se
+8058   l' amener                     lam-ne                       tard pour l' amener #
+8058   alors il                      a-lO Ril                      chaud # alors il se
 8059   m' a                          ma                           , il m' a dit
 8059   qu' il                        kil                          a dit qu' il était
 8059   il était                      ki le-tE                      dit qu' il était allé
@@ -6147,11 +6147,11 @@
 8288   elle est                      E le                          elle est trop grosse , tu
 8290   couleur elle                  ku-l9 REl                     quelle couleur elle est celle voiture
 8290   elle est                      RE le                         quelle couleur elle est celle voiture
-8294   l' a                          la                           on l' a perdue * .
+8294   l' a                          la                           on l' a perdue # .
 8295   qu' elle                      kEl                          je crois qu' elle est
 8295   elle est                      kE le                         crois qu' elle est jaune
 8296   elle est                      E le                          moto , elle est perdue
-8297   elle est                      E le                          elle est à Langogne * .
+8297   elle est                      E le                          elle est à Langogne # .
 8300   qu' elle                      kEl                          tu crois qu' elle y serait
 8300   elle y                        kE li                         crois qu' elle y serait
 8302   qu' est-ce                    kEs                          qu' est-ce qui se passe si
@@ -6405,7 +6405,7 @@
 8582   c' est                        se                           c' est quoi ce verre .
 8583   c' est                        se                           ben , c' est le verre
 8586   j' ai                         ZE                           j' ai payé des dettes ,
-8589   c' est                        se                           * c' est plus cher que
+8589   c' est                        se                           # c' est plus cher que
 8593   il est                        i le                          , mais il est pas
 8593   qu' il                        kil                          pas sûr qu' il vienne
 8594   qu' est                       ke                           qu' est ce tu veux ,
@@ -6487,7 +6487,7 @@
 8678   il y                          i li                          et puis il y en a
 8678   en a                          @ na                          il y en a un
 8678   un autre                      1 notR                        en a un autre ,
-8679   alors il                      a-lO Ril                      alors il faut la * avec
+8679   alors il                      a-lO Ril                      alors il faut la # avec
 8679   qu' il                        kil                          précaution parce qu' il reste
 8679   reste un                      REs t1                        qu' il reste un troisième
 8679   encore à                      @-kO Ra                       troisième pied encore à casser
@@ -6507,7 +6507,7 @@
 8703   j' aurai                      Zo-RE                        quand j' aurai remis celle là
 8703   elle aura                     E lo-Ra                       là , elle aura encore
 8704   elle a                        E la                          elle a trois roues là ,
-8705   elle a                        E la                          quand * elle a aussi
+8705   elle a                        E la                          quand # elle a aussi
 8707   qu' elle                      kEl                          semble plutôt qu' elle en
 8707   elle en                       kE l@n                        plutôt qu' elle en a
 8707   en a                          l@ na                         qu' elle en a quatre
@@ -6616,7 +6616,7 @@
 8828   c' est                        se                           c' est qui ce bébé .
 8831   qu' est-ce                    kEs                          qu' est-ce qu' il fout là
 8831   qu' il                        kil                          qu' est-ce qu' il fout là
-8832   cet endroit                   sE t@-dRwa                    * à cet endroit ?
+8832   cet endroit                   sE t@-dRwa                    # à cet endroit ?
 8835   c' est                        se                           si c' est dans le hamac
 8836   on a                          § na                          oui , on a compris
 8836   on a                          § na                          compris , on a compris
@@ -6628,7 +6628,7 @@
 8841   qu' elle                      kEl                          je crois qu' elle en
 8841   elle en                       kE l@n                        crois qu' elle en a
 8841   en a                          l@ na                         qu' elle en a quatre
-8843   c' est                        se                           c' est à * tout ça
+8843   c' est                        se                           c' est à # tout ça
 8844   c' est                        se                           ça c' est à Porquerolles .
 8845   on est                        § ne                          non , on est à côté
 8846   venir attraper                v°-ni Ra-tRa-pe               main pour venir attraper marc
@@ -6790,8 +6790,8 @@
 9069   arrives à                     a-Ri va                       , tu arrives à l'
 9069   l' attraper                   la-tRa-pe                    arrives à l' attraper ?
 9070   s' est                        se                           il s' est pas sauvé ?
-9071   encore un                     @-kO R1                       encore un petit bateau * .
-9072   il est                        i le                          il est trop gros * .
+9071   encore un                     @-kO R1                       encore un petit bateau # .
+9072   il est                        i le                          il est trop gros # .
 9074   écoute il                     e-ku til                      écoute il est capable de les
 9074   il est                        ti le                         écoute il est capable de les
 9077   un imbécile                   1 n5-be-sil                   tu es un imbécile .
@@ -6807,13 +6807,13 @@
 9097   j' avais                      Za-vE                        non , j' avais du café
 9101   qu' il                        kil                          je crois qu' il commence à
 9101   commence à                    ko-m@ sa                      qu' il commence à piger
-9104   c' est                        se                           c' est * du stimuli réponses
+9104   c' est                        se                           c' est # du stimuli réponses
 9110   t' a                          ta                           il t' a eue .
 9112   t' as                         ta                           toi , t' as bu
 9115   c' est                        se                           c' est extraordinaire cette réponse oui
 9115   réponse oui                   Re-p§ swi                     extraordinaire cette réponse oui dans
 9116   il a                          i la                          il a raison .
-9118   il y                          i li                          * il y a une manière
+9118   il y                          i li                          # il y a une manière
 9119   quand on                      k@ t§                         quand on me dit au téléphone
 9124   c' est                        se                           c' est un jeu .
 9126   s' amuse                      sa-myz                       , on s' amuse là
@@ -7014,7 +7014,7 @@
 9318   principe il                   pR5-si pil                    en principe il y a toujours
 9318   il y                          pi li                         en principe il y a toujours
 9320   onze heures                   § z9R                         avant onze heures .
-9321   onze heures                   § z9R                         * avant onze heures .
+9321   onze heures                   § z9R                         # avant onze heures .
 9322   onze heures                   § z9R                         mais avant onze heures c'
 9322   c' est                        se                           onze heures c' est foutu
 9322   l' école                      le-kOl                       cause de l' école .
@@ -7044,7 +7044,7 @@
 9361   c' est                        se                           c' est fragile .
 9367   qu' est-ce                    kEs                          qu' est-ce que tu vas en
 9367   s' il                         sil                          Philippe , s' il te
-9369   vous en                       vu z@                         * chocolat vous en creviez
+9369   vous en                       vu z@                         # chocolat vous en creviez
 9370   c' est                        se                           non c' est du chocolat .
 9372   donnes en                     dO n@                         donnes en un autre à Madeleine
 9372   un autre                      1 notR                        donnes en un autre à Madeleine
@@ -7053,7 +7053,7 @@
 9376   t' as                         ta                           t' as vu y a une
 9377   j' aime                       ZEm                          non j' aime bien ça mais
 9377   l' ai                         lE                           là je l' ai pas
-9377   j' en                         Z@                           pas * j' en mange
+9377   j' en                         Z@                           pas # j' en mange
 9378   t' as                         ta                           disques , t' as vu
 9378   c' est                        se                           chocolat , c' est une
 9378   c' est                        se                           disques , c' est une
@@ -7265,7 +7265,7 @@
 9584   onze octobre                  § zOk-tOb                     le onze octobre je suis allé
 9586   qu' un                        k1                           reste plus qu' un billet
 9589   l' argent                     laR-Z@                       donner de l' argent à
-9589   avec un                       a-vE k1                       madame * avec un billet
+9589   avec un                       a-vE k1                       madame # avec un billet
 9592   c' est                        se                           non c' est insoluble .
 9593   j' en                         Z@n                          voir si j' en ai
 9593   en ai                         Z@ nE                         si j' en ai dans
@@ -7281,11 +7281,11 @@
 9616   en espérant                   @ nEs-pe-R@                   en espérant que ta bonté irait
 9616   n' y                          ni                           , je n' y croyais
 9617   en a                          @ na                          , y en a plus
-9618   en a                          @ na                          * y en a plus
+9618   en a                          @ na                          # y en a plus
 9619   on en                         § n@                          oui , on en rachètera .
 9620   l' ouvres                     luvR                         , tu l' ouvres ?
 9621   c' est                        se                           c' est toi le spécialiste .
-9627   m' habiller                   ma-bi-je                     je vais m' habiller *
+9627   m' habiller                   ma-bi-je                     je vais m' habiller #
 9628   c' est                        se                           c' est pas des drôles de
 9628   c' est                        se                           croissants , c' est pas
 9629   s' appelle                    sa-pEl                       comment ça s' appelle ?
@@ -7370,8 +7370,8 @@
 9745   qu' est-ce                    kEs                          noir , qu' est-ce qu'
 9745   qu' il                        kil                          qu' est-ce qu' il y
 9745   il y                          ki li                         est-ce qu' il y avait
-9755   prends en                     pR@ z@                        prends en un autre * .
-9755   un autre                      1 notR                        prends en un autre * .
+9755   prends en                     pR@ z@                        prends en un autre # .
+9755   un autre                      1 notR                        prends en un autre # .
 9761   c' est                        se                           c' est son problème , hein
 9762   vous avez                     vu za-ve                      comment vous avez fait pour avoir
 9762   pour avoir                    pu Ra-vwaR                    avez fait pour avoir une
@@ -7382,11 +7382,11 @@
 9765   on a                          R§ na                         réveillait alors on a pris
 9766   j' en                         Z@n                          parce que j' en ai
 9766   en ai                         Z@ nE                         que j' en ai mis
-9767   c' est                        se                           * c' est une sorte de
+9767   c' est                        se                           # c' est une sorte de
 9767   dévisse et                    de-vi se                      on la dévisse et dessous
 9767   c' est                        se                           , ben c' est la
 9768   j' ai                         ZE                           parce que j' ai deux
-9769   c' est                        se                           truc * c' est encore
+9769   c' est                        se                           truc # c' est encore
 9769   facile à                      fa-si la                      est encore facile à entourer
 9770   l' ai                         lE                           maintenant je l' ai un
 9770   c' est                        se                           , mais c' est quand
@@ -7417,7 +7417,7 @@
 9804   s' appelle                    sa-pEl                       ça s' appelle comment ?
 9805   qu' est-ce                    kEs                          qu' est-ce qu' y a ?
 9805   qu' y                         ki                           qu' est-ce qu' y a ?
-9806   j' ai                         ZE                           * j' ai appelé ça une
+9806   j' ai                         ZE                           # j' ai appelé ça une
 9807   qu' est-ce                    kEs                          qu' est-ce qu' y a ?
 9807   qu' y                         ki                           qu' est-ce qu' y a ?
 9811   m' as                         ma                           enfin tu m' as compris .
@@ -7442,7 +7442,7 @@
 9827   qu' est-ce                    kEs                          qu' est-ce qu' on dit ?
 9827   qu' on                        k§                           qu' est-ce qu' on dit ?
 9828   qu' il                        kil                          chaque fois qu' il va
-9829   plus en                       ply z@                        * de plus en plus
+9829   plus en                       ply z@                        # de plus en plus
 9829   plus à                        plyz sa                       plus en plus à oublier
 9830   quand on                      k@ t§                         en revanche quand on ne salue
 9830   ses éternuements              se ze-tER-ny-m@               salue pas ses éternuements comme
@@ -7475,8 +7475,8 @@
 9862   caves où                      ka vu                         dans les caves où il
 9862   il y                          i li                          caves où il y a
 9866   d' accord                     da-kOR                       d' accord .
-9868   c' est                        se                           comme c' est l' ascenseur *
-9868   l' ascenseur                  la-s@-s9R                    c' est l' ascenseur *
+9868   c' est                        se                           comme c' est l' ascenseur #
+9868   l' ascenseur                  la-s@-s9R                    c' est l' ascenseur #
 9869   les apostrophes               le za-pos-tROf                les apostrophes c' est vraiment dur
 9869   c' est                        se                           les apostrophes c' est vraiment dur
 9869   dur à                         dy Ra                         est vraiment dur à rentrer
@@ -7486,7 +7486,7 @@
 9875   l' as                         la                           , tu l' as pas
 9877   qu' on                        k§                           as dit qu' on risquait
 9880   qu' est-ce                    kEs                          qu' est-ce que tu fais ?
-9886   m' entendait                  m@-t@-dE                     * m' entendait dire ça ?
+9886   m' entendait                  m@-t@-dE                     # m' entendait dire ça ?
 9887   c' est                        se                           c' est vrai ?
 9889   fesses au                     fE so                         laisses tes fesses au frais
 9889   mal au                        ma lo                         encore plus mal au ventre
@@ -7522,7 +7522,7 @@
 9931   c' est                        se                           est-ce que c' est ?
 9932   c' est                        se                           ah c' est du pansement ça
 9933   c' est                        se                           le pansement c' est du tissu
-9934   c' est                        se                           eh ben c' est pas *
+9934   c' est                        se                           eh ben c' est pas #
 9935   c' est                        se                           c' est de la peau de
 9936   c' est                        se                           c' est ça , fais des
 9937   c' est                        se                           non c' est pas un vrai
@@ -7532,7 +7532,7 @@
 9943   c' est                        se                           c' est difficile à expliquer ,
 9943   difficile à                   di-fi-si la                   c' est difficile à expliquer ,
 9949   c' est                        se                           c' est à manger ça ?
-9952   prendre une                   pR@ dRyn                      * prendre une timbale en plastique
+9952   prendre une                   pR@ dRyn                      # prendre une timbale en plastique
 9952   timbale en                    t5-ba l@                      prendre une timbale en plastique
 9952   n' importe                    n5-pORt                      plastique , n' importe quoi
 9952   dans un                       d@ z1                         le chocolat dans un verre
@@ -7551,7 +7551,7 @@
 9974   qu' il                        kil                          qu' est-ce qu' il y
 9974   il y                          ki li                         est-ce qu' il y a
 9979   c' est                        se                           c' est bon le pistolet ?
-9981   même un                       mE m1                         * quand même un peu de
+9981   même un                       mE m1                         # quand même un peu de
 9983   il est                        i le                          oh il est pas tout à
 9983   tout à                        tu ta                         est pas tout à fait
 9985   l' alligator                  la-li-ga-tOR                 et l' alligator aussi .
@@ -7725,7 +7725,7 @@
 10191  remettre au                   R°-mE tRo                     pour le remettre au lit
 10192  c' est                        se                           c' est lui qui l' a
 10192  l' a                          la                           lui qui l' a enlevé
-10193  c' est                        se                           non c' est moi * .
+10193  c' est                        se                           non c' est moi # .
 10194  m' a                          ma                           , il m' a demandé
 10196  c' est                        se                           c' est marrant , hein ?
 10197  c' est                        se                           puis après c' est fini
@@ -7858,8 +7858,8 @@
 10348  m' étais                      me-tE                        alors je m' étais trompée .
 10353  marc il                       maR kil                       tiens , marc il m' a
 10353  m' a                          ma                           marc il m' a posé
-10354  d' Hector                     d#                           la femme d' Hector *
-10354  l' antiquité                  l@-ti-ki-te                  Hector * l' antiquité ,
+10354  d' Hector                     d#                           la femme d' Hector #
+10354  l' antiquité                  l@-ti-ki-te                  Hector # l' antiquité ,
 10356  c' est                        se                           c' est la chanson de Brassens
 10363  qu' est-ce                    kEs                          qu' est-ce qu' ils font ?
 10363  qu' ils                       kil                          qu' est-ce qu' ils font ?
@@ -8106,8 +8106,8 @@
 10645  les essuieras                 le zE-s8i-Ra                  tu les essuieras après , mange
 10645  d' abord                      da-bOR                       , mange d' abord ,
 10645  t' essuieras                  tE-s8i-Ra                    , tu t' essuieras les
-10647  quand il                      k@ til                        * quand il était petit .
-10647  il était                      ti le-tE                      * quand il était petit .
+10647  quand il                      k@ til                        # quand il était petit .
+10647  il était                      ti le-tE                      # quand il était petit .
 10649  t' es                         tE                           t' es pas très sympa .
 10651  elle a                        E la                          elle a déjeuné tu sais déjà
 10653  elle a                        E la                          comme toi elle a pris
@@ -8232,7 +8232,7 @@
 10848  t' es                         tE                           t' es pas un peu grande
 10849  il est                        i le                          oh il est solide .
 10850  c' est                        se                           Philippe , c' est pas
-10855  il a                          i la                          va , il a *
+10855  il a                          i la                          va , il a #
 10856  qu' est-ce                    kEs                          qu' est-ce qu' elle a dans
 10856  qu' elle                      kEl                          qu' est-ce qu' elle a dans
 10856  elle a                        kE la                         est-ce qu' elle a dans
@@ -8372,7 +8372,7 @@
 11055  ils ont                       sil z§                        en plus ils ont la même
 11056  il a                          i la                          celui là il a pas de
 11057  ils ont                       il z§                         ils ont la même forme .
-11059  l' astuce                     las-tys                      être ça l' astuce *
+11059  l' astuce                     las-tys                      être ça l' astuce #
 11060  qu' est-ce                    kEs                          qu' est-ce que c' est ça
 11060  c' est                        se                           est-ce que c' est ça
 11064  sautes avec                   so ta-vEk                     tu sautes avec quoi ?
@@ -8437,14 +8437,14 @@
 11147  quelle heure                  kE l9R                        quelle heure est il ?
 11147  heure est                     l9 Ret                        quelle heure est il ?
 11147  est il                        Re til                        quelle heure est il ?
-11150  il est                        i le                          * il est encore chaud ce
+11150  il est                        i le                          # il est encore chaud ce
 11154  j' espère                     ZEs-pER                      j' espère que tu vas imiter
 11154  marc encore                   maR k@-kOR                    vas imiter marc encore plus
 11157  c' est                        se                           oui , c' est vrai
 11158  c' est                        se                           le jeudi c' est pas moi
 11159  j' ai                         ZE                           j' ai vu le petit garçon
 11160  il est                        i le                          où il est ?
-11162  il a                          i la                          de * il a une
+11162  il a                          i la                          de # il a une
 11163  qu' il                        kil                          tu crois qu' il est grand
 11163  il est                        ki le                         crois qu' il est grand
 11163  qu' il                        kil                          grand ou qu' il est
@@ -8457,7 +8457,7 @@
 11165  c' est                        se                           non , c' est pas
 11167  c' est                        se                           c' est difficile à interpréter .
 11167  difficile à                   di-fi-si la                   c' est difficile à interpréter .
-11169  il a                          i la                          non * il a des livres
+11169  il a                          i la                          non # il a des livres
 11169  il a                          i la                          livres , il a une
 11170  il est                        i le                          il est grand alors il a
 11170  alors il                      a-lO Ril                      est grand alors il a
@@ -8472,7 +8472,7 @@
 11175  quelqu'un au                  kEl-k1 no                     y a quelqu'un au secrétariat qui
 11177  t' en                         t@                           que je t' en remette
 11178  t' en                         t@                           je t' en remettrai poussin .
-11180  en a                          @ na                          * y en a un deuxième
+11180  en a                          @ na                          # y en a un deuxième
 11180  deuxième aujourd'hui          d2-zjE mo-ZuR-d8i             a un deuxième aujourd'hui .
 11181  s' il                         sil                          la table s' il te
 11182  d' arrivé                     da-Ri-ve                     a quelqu'un d' arrivé ?
@@ -8523,7 +8523,7 @@
 11236  il y                          ki li                         ce qu' il y avait
 11237  il y                          i li                          il y avait une écorchure sous
 11237  une écorchure                 y ne-kOR-SyR                  y avait une écorchure sous
-11237  l' ongle                      l§gl                         écorchure sous l' ongle *
+11237  l' ongle                      l§gl                         écorchure sous l' ongle #
 11240  il était                      i le-tE                       comment il était Philippe , ce
 11241  il était                      i le-tE                       il était habillé dans son lit
 11244  s' est                        se                           il s' est foutu à poil
@@ -8538,15 +8538,15 @@
 11257  c' est                        se                           c' est rien , c' est
 11257  c' est                        se                           rien , c' est rien
 11259  cuillère aussi                k8i-jE Ro-si                  enlever la cuillère aussi pour
-11261  cette expérience              sE tEk-spe-Rj@s               tu feras cette expérience * je
+11261  cette expérience              sE tEk-spe-Rj@s               tu feras cette expérience # je
 11264  j' ai                         ZE                           mais j' ai fini moi .
 11266  qu' est-ce                    kEs                          qu' est-ce qui va finir le
 11267  t' ai                         tE                           je t' ai pas mangé ton
 11268  c' est                        se                           c' est moi qui vais finir
 11269  c' est                        se                           c' est le tien de chocolat
 11271  j' ai                         ZE                           moi j' ai mon café .
-11275  s' il                         sil                          s' il avait pas traîné *
-11275  il avait                      si la-vE                      s' il avait pas traîné *
+11275  s' il                         sil                          s' il avait pas traîné #
+11275  il avait                      si la-vE                      s' il avait pas traîné #
 11279  l' école                      le-kOl                       ça à l' école avec
 11279  école avec                    le-kO la-vEk                  à l' école avec les
 11279  les enfants                   le z@-f@                      école avec les enfants ?
@@ -8619,10 +8619,10 @@
 11382  m' as                         ma                           pourquoi tu m' as pris ma
 11384  m' as                         ma                           pourquoi tu m' as pris ma
 11386  il est                        i le                          ben où il est marc
-11387  hier on                       jE R§n                        hier on a eu * le
-11387  on a                          R§ na                         hier on a eu * le
+11387  hier on                       jE R§n                        hier on a eu # le
+11387  on a                          R§ na                         hier on a eu # le
 11387  l' institut                   l5s-ti-ty                    congrès de l' institut de
-11387  l' orientation                lo-Rj@-ta-sj§                , * l' orientation un
+11387  l' orientation                lo-Rj@-ta-sj§                , # l' orientation un
 11387  un a                          1 na                          l' orientation un a eu
 11387  l' orientation                lo-Rj@-ta-sj§                voix , l' orientation trois
 11387  en a                          @ na                          orientation trois en a eu
@@ -8639,7 +8639,7 @@
 11401  qu' est-ce                    kEs                          qu' est-ce qui lui a pris
 11403  c' est                        se                           crois que c' est un
 11404  c' est                        se                           c' est un poltron ?
-11405  c' est                        se                           c' est toi le poltron *
+11405  c' est                        se                           c' est toi le poltron #
 11406  c' est                        se                           tout seul c' est tout
 11409  il est                        i le                          il est pressé , il est
 11409  il est                        i le                          pressé , il est en
@@ -8680,7 +8680,7 @@
 11450  il est                        ki le                         parce qu' il est dans l'
 11450  l' ombre                      l§bR                         est dans l' ombre ,
 11450  il est                        i le                          ombre , il est pas
-11451  l' ombre                      l§bR                         * dans l' ombre * .
+11451  l' ombre                      l§bR                         # dans l' ombre # .
 11452  l' arbre                      laRbR                        oui , l' arbre aussi
 11452  arbre aussi                   laR bRo-si                    , l' arbre aussi il
 11452  il est                        i le                          arbre aussi il est dans
@@ -9045,7 +9045,7 @@
 11872  j' ai                         ZE                           j' ai fait une bêtise ?
 11874  elle a                        E la                          elle a cassé un meuble ?
 11876  elle y                        E li                          non , elle y est
-11880  brosse à                      bRO sa                        * brosse à dents .
+11880  brosse à                      bRO sa                        # brosse à dents .
 11885  c' est                        se                           mais comme c' est bien de
 11886  c' est                        se                           c' est bien .
 11888  c' est                        se                           mais c' est très bien ça
@@ -9055,9 +9055,9 @@
 11896  l' eau                        lo                           avale pas l' eau qui
 11903  qu' est-ce                    kEs                          qu' est-ce que t' as fait
 11903  t' as                         ta                           est-ce que t' as fait
-11904  l' école                      le-kOl                       * à l' école , *
-11904  quand elle                    k@ tEl                        , * quand elle arrivera
-11904  elle arrivera                 tE la-Ri-vRa                  * quand elle arrivera on
+11904  l' école                      le-kOl                       # à l' école , #
+11904  quand elle                    k@ tEl                        , # quand elle arrivera
+11904  elle arrivera                 tE la-Ri-vRa                  # quand elle arrivera on
 11904  suite au                      s8i to                        tout de suite au parc
 11905  m' a                          ma                           mais elle m' a dit
 11908  qu' est                       ke                           qu' est ce t' as fait
@@ -9074,7 +9074,7 @@
 11921  m' a                          ma                           il m' a peut-être fait une
 11925  n' est                        ne                           si personne n' est gentil ,
 11929  qu' elles                     kEl                          tu veux qu' elles tombent
-11932  t' en                         t@                           * t' en porter en chocolat
+11932  t' en                         t@                           # t' en porter en chocolat
 11933  c' est                        se                           là peut-être c' est pas
 11934  t' en                         t@                           , elle t' en fait
 11935  qu' elle                      kEl                          je crois qu' elle a raison
@@ -9096,7 +9096,7 @@
 11951  Philippe a                    fi-li pa                      lui dire Philippe a déjà
 11954  c' est                        se                           c' est toi qui l' as
 11954  l' as                         la                           toi qui l' as pris
-11954  c' est                        se                           * ou c' est moi
+11954  c' est                        se                           # ou c' est moi
 11955  tout à                        tu ta                         tout à l' heure , s'
 11955  l' heure                      l9R                          tout à l' heure , s'
 11955  s' il                         sil                          heure , s' il te
@@ -9125,19 +9125,19 @@
 11979  amusent avec                  sa-my za-vEk                  qui s' amusent avec les
 11981  les enfants                   le z@-f@                      les enfants , je sais pas
 11982  s' appelle                    sa-pEl                       le jardin s' appelle le parc
-11984  c' est                        se                           c' est prêt * .
+11984  c' est                        se                           c' est prêt # .
 11985  c' est                        se                           c' est prêt ?
 11992  j' arrive                     Za-Riv                       j' arrive pas à m' habiller
 11992  m' habiller                   ma-bi-je                     pas à m' habiller ce
 11994  il est                        i le                          il est beau ce chemisier .
-11997  l' ai                         lE                           oui je l' ai porté *
+11997  l' ai                         lE                           oui je l' ai porté #
 11999  t' expliquer                  tEk-spli-ke                  sais pas t' expliquer .
 12002  c' est                        se                           c' est prêt .
 12009  l' ai                         lE                           je te l' ai dit
 12013  en a                          @ na                          y en a déjà pas mal
 12014  t' en                         t@                           t' en veux encore un peu
 12014  encore un                     @-kO R1                       en veux encore un peu
-12015  goutte alors                  gu ta-lOR                     * une goutte alors .
+12015  goutte alors                  gu ta-lOR                     # une goutte alors .
 12016  c' est                        se                           c' est ton joli bol avec
 12016  bol avec                      bO la-vEk                     ton joli bol avec des
 12018  n' en                         n@n                          on n' en a pas de
@@ -9191,7 +9191,7 @@
 12090  t' es                         tE                           t' es un grand gentil garçon
 12091  c' est                        se                           preuve , c' est que
 12091  t' ai                         tE                           que je t' ai amené
-12092  c' est                        se                           * c' est plus agréable .
+12092  c' est                        se                           # c' est plus agréable .
 12092  plus agréable                 ply za-gRe-abl                c' est plus agréable .
 12097  c' est                        se                           celui là c' est fait
 12098  c' est                        se                           c' est fait avec des groseilles
@@ -9225,7 +9225,7 @@
 12135  détruisent après              de-tR8i za-pRE                qui se détruisent après ,
 12135  c' est                        se                           non , c' est pas
 12137  qu' y                         ki                           je crois qu' y a un
-12138  moule extérieur               mu lEk-ste-Rj9R               le moule extérieur * .
+12138  moule extérieur               mu lEk-ste-Rj9R               le moule extérieur # .
 12139  t' as                         ta                           , non t' as un
 12139  moule intérieur               mu l5-te-Rj9R                 as un moule intérieur ,
 12143  rassembles après              Ra-s@ bla-pRE                 tu les rassembles après .
@@ -9267,7 +9267,7 @@
 12173  c' est                        se                           c' est pour ça que tu
 12173  pour une                      pu Ryn                        si tard pour une réunion
 12174  s' est                        se                           ben elle s' est terminée tard
-12175  vous avez                     vu za-ve                      * que vous avez bu votre
+12175  vous avez                     vu za-ve                      # que vous avez bu votre
 12176  qu' on                        k§n                          du fait qu' on a
 12176  on a                          k§ na                         fait qu' on a arrosé
 12177  c' était                      se-tE                        c' était du champagne ?
@@ -9298,7 +9298,7 @@
 12203  on essaiera                   R§ nE-sE-Ra                   un jour on essaiera de
 12203  dans une                      d@ zyn                        qui travaille dans une fabrique
 12203  fabrique et                   fa-bRi ke                     dans une fabrique et qui
-12204  tartine avec                  taR-ti na-vEk                 * une tartine avec de la
+12204  tartine avec                  taR-ti na-vEk                 # une tartine avec de la
 12205  l' autre                      lot                          , dans l' autre sens
 12207  c' est                        se                           c' est pas ce que je
 12208  j' ai                         ZE                           dis , j' ai donné
@@ -9321,12 +9321,12 @@
 12225  très enregistrable            tRE z@R-Zis-tRabl             est pas très enregistrable .
 12226  c' est                        se                           et ça c' est un aussi
 12229  il a                          i la                          il a failli se faire ,
-12231  un article                    1 naR-tik                     * un article qui est pas
+12231  un article                    1 naR-tik                     # un article qui est pas
 12231  mathématiques et              ma-te-ma-ti ke                sur les mathématiques et l'
 12231  l' école                      le-kOl                       mathématiques et l' école primaire
 12234  c' est                        se                           mont c' est comme montagne ,
 12235  un article                    1 naR-tik                     y a un article qui est
-12235  d' ailleurs                   da-j9R                       mauvais * d' ailleurs j'
+12235  d' ailleurs                   da-j9R                       mauvais # d' ailleurs j'
 12235  j' ai                         ZE                           d' ailleurs j' ai l'
 12235  l' impression                 l5-pRe-sj§                   j' ai l' impression que
 12235  l' auteur                     lo-t9R                       impression que l' auteur est
@@ -9338,7 +9338,7 @@
 12239  qu' est-ce                    kEs                          oui , qu' est-ce qu' il
 12239  qu' il                        kil                          qu' est-ce qu' il a
 12239  il a                          ki la                         est-ce qu' il a ton
-12242  c' est                        se                           c' est vrai * son croissant
+12242  c' est                        se                           c' est vrai # son croissant
 12244  beurre il                     b9 Ril                        croissants au beurre il aime
 12244  il aime                       Ri lEm                        au beurre il aime mieux
 12247  il y                          i li                          il y est pas tombé ,
@@ -9353,7 +9353,7 @@
 12259  c' est                        se                           ça , c' est celui
 12259  j' ai                         ZE                           celui que j' ai acheté
 12262  contre un                     k§ tR1                        me baissant contre un ,
-12262  m' a                          ma                           * ça m' a envoyée
+12262  m' a                          ma                           # ça m' a envoyée
 12262  j' ai                         ZE                           relevée , j' ai entendu
 12262  j' avais                      Za-vE                        scratch , j' avais déchiré
 12262  j' étais                      Ze-tE                        en plus j' étais allée
@@ -9366,10 +9366,10 @@
 12262  l' ai                         lE                           quand je l' ai essayé
 12263  j' ai                         ZE                           oh si j' ai senti ,
 12263  j' ai                         ZE                           senti , j' ai senti
-12263  j' ai                         ZE                           bien * j' ai sorti
+12263  j' ai                         ZE                           bien # j' ai sorti
 12263  elle était                    E le-tE                       pied , elle était vachement
 12263  il a                          i la                          hein , il a fallu
-12264  une accumulation              y na-ky-my-la-sj§             * une accumulation étonnante .
+12264  une accumulation              y na-ky-my-la-sj§             # une accumulation étonnante .
 12267  m' est                        me                           métro ça m' est arrivé
 12272  j' étais                      Ze-tE                        j' étais à côté , alors
 12272  portière et                   pOR-tjE Re                    ouvre la portière et je
@@ -9443,7 +9443,7 @@
 12343  couleur ils                   ku-l9 Ril                     de quelle couleur ils sont ?
 12345  des arbres                    de zaRbR                      tu vois des arbres ,
 12346  des arbres                    de zaRb                       des arbres qui poussent pas ?
-12348  t' en                         t@                           , * t' en prends
+12348  t' en                         t@                           , # t' en prends
 12350  qu' on                        k§n                          ton chocolat qu' on émigre
 12350  on émigre                     k§ ne-migR                    chocolat qu' on émigre ?
 12351  t' en                         t@                           t' en veux plus ?
@@ -9520,7 +9520,7 @@
 12440  il a                          i la                          il a bien de la chance
 12442  elle a                        E la                          ta maman elle a des
 12450  c' est                        se                           c' est exprès .
-12452  pour acheter                  pu RaS-te                     à Ginette pour acheter *
+12452  pour acheter                  pu RaS-te                     à Ginette pour acheter #
 12453  elle a                        E la                          maman , elle a bien travaillé
 12454  l' aider                      le-de                        vais pas l' aider parce
 12454  désordre encore               de-zOR dR@-kOR                plus de désordre encore .
@@ -9639,7 +9639,7 @@
 12615  t' as                         ta                           est ce t' as fait
 12616  qu' est                       ke                           qu' est ce t' as fait
 12616  t' as                         ta                           est ce t' as fait
-12620  c' est                        se                           c' est quoi * .
+12620  c' est                        se                           c' est quoi # .
 12622  qu' est                       ke                           qu' est ce t' as fait
 12622  t' as                         ta                           est ce t' as fait
 12630  c' est                        se                           c' est curieux .
@@ -9813,7 +9813,7 @@
 12886  c' est                        se                           oui , c' est lourd
 12887  qu' est                       ke                           qu' est ce tu fais ,
 12887  qu' est                       ke                           fais , qu' est ce
-12888  part et                       pa Re                         pas quelque part et *
+12888  part et                       pa Re                         pas quelque part et #
 12889  c' est                        se                           Philippe , c' est pas
 12894  m' habiller                   ma-bi-je                     je vais m' habiller .
 12896  qu' est-ce                    kEs                          ah qu' est-ce que c' est
@@ -9847,7 +9847,7 @@
 12942  comme il                      kO mil                        remets le comme il faut
 12942  l' abîmer                     la-bi-me                     tu vas l' abîmer .
 12946  elle est                      E le                          forcément , elle est pas assez
-12952  elle a                        E la                          elle a dû tomber * .
+12952  elle a                        E la                          elle a dû tomber # .
 12954  c' est                        se                           c' est Ginette tu crois qui
 12956  s' y                          si                           deux ils s' y sont
 12959  pour apprendre                pu Ra-pR@dR                   es bon pour apprendre à
@@ -9864,9 +9864,9 @@
 12969  fragile et                    fRa-Zi le                     un peu fragile et que
 12969  s' est                        se                           que ça s' est cassé
 12976  c' est                        se                           regarde , c' est coincé
-12977  t' as                         ta                           * t' as vu ?
+12977  t' as                         ta                           # t' as vu ?
 12978  petite hélice                 p°-ti te-lis                  tourner la petite hélice .
-12980  t' as                         ta                           * t' as pas besoin d'
+12980  t' as                         ta                           # t' as pas besoin d'
 12980  d' arrêter                    da-Re-te                     pas besoin d' arrêter des
 12984  remettre en                   R°-mE tR@                     pour le remettre en marche
 12985  c' est                        se                           ça aussi c' est un beau
@@ -9971,7 +9971,7 @@
 13102  c' est                        se                           pommade , c' est pas
 13102  les autres                    le zotR                       plaisant pour les autres ,
 13102  c' est                        se                           , mais c' est tout
-13102  qu' une                       kyn                          * parce qu' une fois
+13102  qu' une                       kyn                          # parce qu' une fois
 13102  l' éruption                   le-Ryp-sj§                   fois que l' éruption est
 13102  c' est                        se                           contagieux , c' est avant
 13103  on a                          § na                          on a toutes les veines .
@@ -10030,7 +10030,7 @@
 13155  il y                          ki li                         mieux qu' il y ait
 13155  contact avec                  k§-tak ta-vEk                 ait aucun contact avec sa
 13157  prendre un                    pR@ dR1                       quand même prendre un pantalon
-13159  qu' elle                      kEl                          faut pas qu' elle * .
+13159  qu' elle                      kEl                          faut pas qu' elle # .
 13160  d' accord                     da-kOR                       bon d' accord , mais lui
 13163  c' est                        se                           ce matin c' est encore
 13163  qu' hier                      kjER                         encore pire qu' hier ,
@@ -10045,7 +10045,7 @@
 13173  j' ai                         ZE                           sac , j' ai perdu
 13173  j' ai                         ZE                           tète , j' ai oublié
 13176  voyage avec                   vwa-ja Za-vEk                 oui on voyage avec sa
-13176  j' espère                     ZEs-pER                      , oui j' espère *
+13176  j' espère                     ZEs-pER                      , oui j' espère #
 13178  tout à                        tu ta                         tu passes tout à l'
 13178  l' heure                      l9R                          tout à l' heure ,
 13179  d' accord                     da-kOR                       d' accord .
@@ -10101,7 +10101,7 @@
 13267  d' abord                      da-bOR                       toujours identifier d' abord pour
 13267  qu' ils                       kilz                         savoir ce qu' ils ont
 13267  ils ont                       kil z§                        ce qu' ils ont eu
-13268  c' est                        se                           si c' est la rubéole *
+13268  c' est                        se                           si c' est la rubéole #
 13271  c' est                        se                           alors , c' est là
 13271  qu' il                        kil                          est là qu' il faut
 13272  des enfants                   de z@-f@                      te fait des enfants merveilleux
@@ -10117,7 +10117,7 @@
 13292  pour être                     pu REt                        un médicament pour être guéri pour
 13292  pour aller                    pu Ra-le                      être guéri pour aller voir
 13294  c' est                        se                           c' est pas un vrai médicament
-13295  l' air                        lER                          a pas l' air *
+13295  l' air                        lER                          a pas l' air #
 13296  c' est                        se                           pourquoi c' est pas un vrai
 13299  d' habitude                   da-bi-tyd                    , comme d' habitude .
 13301  n' oublie                     nu-bli                       on n' oublie pas ses obligations
@@ -10129,7 +10129,7 @@
 13315  qu' est                       ke                           qu' est ce tu as fait
 13316  les as                        le za                         tu les as accrochées ?
 13317  les as                        le za                         tu les as accrochées ?
-13324  en a                          @ na                          * y en a un
+13324  en a                          @ na                          # y en a un
 13325  l' auras                      lo-Ra                        , tu l' auras à
 13326  qu' on                        k§                           Madeleine ce qu' on peut
 13326  faire avec                    fE Ra-vEk                     on peut faire avec ?
@@ -10137,7 +10137,7 @@
 13331  j' ai                         ZE                           j' ai l' impression que c'
 13331  l' impression                 l5-pRe-sj§                   j' ai l' impression que c'
 13331  c' est                        se                           impression que c' est une
-13336  l' autre                      lot                          et l' autre morceau * .
+13336  l' autre                      lot                          et l' autre morceau # .
 13337  quand il                      k@ til                        goût , quand il n'
 13337  n' y                          ni                           quand il n' y pense
 13339  d' orange                     do-R@Z                       de jus d' orange pour
@@ -10161,7 +10161,7 @@
 13357  c' est                        se                           Pécheux , c' est un monsieur
 13357  s' appelle                    sa-pEl                       monsieur qui s' appelle Michel
 13358  t' as                         ta                           tu sais t' as pas intérêt
-13358  il a                          i la                          , * il a pas
+13358  il a                          i la                          , # il a pas
 13361  nous empêcher                 nu z@-pe-Se                   va pas nous empêcher de
 13363  m' étonnerait                 me-tOn-RE                    ça m' étonnerait , tu vois
 13364  qu' il                        kil                          je pense qu' il sera
@@ -10218,17 +10218,17 @@
 13422  qu' est-ce                    kEs                          qu' est-ce qui t' arrive ma
 13422  t' arrive                     ta-Riv                       est-ce qui t' arrive ma
 13423  qu' est-ce                    kEs                          qu' est-ce qui se passe ?
-13424  coqueluche en                 kO-kly S@                     * la coqueluche en même temps
+13424  coqueluche en                 kO-kly S@                     # la coqueluche en même temps
 13425  d' histoire                   dis-twaR                     pas d' histoire .
-13428  avec une                      a-vE kyn                      avec une otite * je sais
-13428  une otite                     ky no-tit                     avec une otite * je sais
-13429  coqueluche aussi              kO-kly So-si                  * coqueluche aussi ?
+13428  avec une                      a-vE kyn                      avec une otite # je sais
+13428  une otite                     ky no-tit                     avec une otite # je sais
+13429  coqueluche aussi              kO-kly So-si                  # coqueluche aussi ?
 13432  j' ai                         ZE                           oui , j' ai vu ,
 13432  il a                          i la                          petit trou il a mis
 13437  qu' est-ce                    kEs                          qu' est-ce qu' il faut attendre
 13437  qu' il                        kil                          qu' est-ce qu' il faut attendre
 13438  quelle heure                  kE l9R                        reviens à quelle heure ?
-13440  c' est                        se                           * c' est tout ce que
+13440  c' est                        se                           # c' est tout ce que
 13440  j' ai                         ZE                           ce que j' ai à
 13444  c' est                        se                           oui , c' est vrai ,
 13444  j' achète                     Za-SEt                       vrai , j' achète de
@@ -10291,7 +10291,7 @@
 13499  qu' est                       ke                           qu' est ce tu fais ?
 13501  j' ai                         ZE                           ce que j' ai fait
 13502  j' arrive                     Za-Riv                       j' arrive pas à monter si
-13506  s' aggrave                    sa-gRav                      ça s' aggrave , Philippe *
+13506  s' aggrave                    sa-gRav                      ça s' aggrave , Philippe #
 13509  qu' est-ce                    kEs                          qu' est-ce qui mange les marionnettes
 13512  un appartement                1 na-paR-t°-m@                mamie avait un appartement ici
 13513  s' occuper                    so-ky-pe                     mamie venait s' occuper de
@@ -10356,7 +10356,7 @@
 13595  l' hôpital                    lo-pi-tal                    est à l' hôpital .
 13597  elle est                      E le                          si , elle est chez
 13599  on est                        § ne                          que maintenant on est le
-13600  vésicule est                  ve-zi-ky le                   la petite vésicule est *
+13600  vésicule est                  ve-zi-ky le                   la petite vésicule est #
 13604  c' était                      se-tE                        c' était vraiment la varicelle ?
 13608  c' est                        se                           c' est peut-être une varicelle mitigée
 13608  peut-être une                 p2-tE tRyn                    c' est peut-être une varicelle mitigée
@@ -10412,7 +10412,7 @@
 13681  en aille                      s@ naj                        elle s' en aille ?
 13684  qu' est-ce                    kEs                          qu' est-ce que tu as fait
 13684  nous un                       nu z1                         , raconte nous un peu
-13685  qu' est-ce                    kEs                          * qu' est-ce que tu faisais
+13685  qu' est-ce                    kEs                          # qu' est-ce que tu faisais
 13687  c' est                        se                           c' est vrai qu' il faudrait
 13687  qu' il                        kil                          est vrai qu' il faudrait
 13687  j' aille                      Zaj                          faudrait que j' aille chercher
@@ -10626,7 +10626,7 @@
 13965  c' est                        se                           quoi , c' est ça
 13969  il en                         i l@n                         combien il en a ?
 13969  en a                          l@ na                         combien il en a ?
-13974  c' est                        se                           c' est une séance * .
+13974  c' est                        se                           c' est une séance # .
 13975  ressort en                    R°-sO R@                      il le ressort en forme
 13980  il y                          i li                          il y est allé .
 13981  c' est                        se                           , béh c' est prêt
@@ -10706,11 +10706,11 @@
 14056  un esprit                     1 nEs-pRi                     a pas un esprit trop
 14060  il a                          i la                          il a jamais eu l' esprit
 14060  l' esprit                     lEs-pRi                      jamais eu l' esprit très
-14060  on a                          § na                          pas , on a *
+14060  on a                          § na                          pas , on a #
 14060  qu' il                        kil                          il sait qu' il y
 14060  il y                          ki li                         sait qu' il y a
 14060  choses à                      So za                         tas de choses à respecter
-14062  c' était                      se-tE                        * c' était pour Madeleine .
+14062  c' était                      se-tE                        # c' était pour Madeleine .
 14063  j' en                         Z@                           non , j' en veux pas
 14064  j' ai                         ZE                           j' ai déjeuné .
 14065  j' ai                         ZE                           toute manière j' ai déjeuné
@@ -10728,7 +10728,7 @@
 14086  docteur avec                  dOk-t9 Ra-vEk                 chez le docteur avec le
 14087  t' a                          ta                           et qui t' a amené ?
 14088  t' a                          ta                           qui t' a amené en voiture
-14091  c' est                        se                           c' est parfaitement * mais ça
+14091  c' est                        se                           c' est parfaitement # mais ça
 14092  qu' est-ce                    kEs                          et qu' est-ce que tu lui
 14093  qu' est-ce                    kEs                          qu' est-ce qu' il t' a
 14093  qu' il                        kil                          qu' est-ce qu' il t' a
@@ -10740,7 +10740,7 @@
 14096  docteur alors                 dOk-t9 Ra-lOR                 fait le docteur alors ?
 14097  t' a                          ta                           il t' a regardé ?
 14099  l' as                         la                           tu l' as pas vu le
-14100  il a                          i la                          il a fait une croix *
+14100  il a                          i la                          il a fait une croix #
 14101  il est                        i le                          il est gentil ce docteur ,
 14102  il est                        i le                          il est grand ?
 14105  s' appelle                    sa-pEl                       comment il s' appelle ?
@@ -10839,8 +10839,8 @@
 14197  autres ont                    zotR z§                       que les autres ont l'
 14197  l' air                        lER                          autres ont l' air aussi
 14197  air aussi                     lE Ro-si                      ont l' air aussi d'
-14197  d' être                       dEtR                         air aussi d' être *
-14197  c' est                        se                           être * c' est du
+14197  d' être                       dEtR                         air aussi d' être #
+14197  c' est                        se                           être # c' est du
 14198  c' est                        se                           c' est du plastique .
 14199  c' est                        se                           du bruit c' est quand
 14200  c' est                        se                           si , c' est un petit
@@ -11026,7 +11026,7 @@
 14387  ville avec                    vi la-vEk                     dans une ville avec plein
 14389  seul arbre                    s9 laRbR                      pas un seul arbre ?
 14392  encore un                     @-kO R1                       tiens , encore un peu ?
-14394  on ira                        § ni-Ra                       croissant et on ira *
+14394  on ira                        § ni-Ra                       croissant et on ira #
 14395  c' était                      se-tE                        c' était symbolique .
 14397  qu' il                        kil                          une chose qu' il faut
 14399  t' ai                         tE                           , je t' ai donné
@@ -11139,7 +11139,7 @@
 14545  t' amène                      ta-mEn                       qu' elle t' amène chez
 14546  qu' il                        kil                          lui dit qu' il faut
 14546  m' en                         m@                           , je m' en sors
-14550  les affaires                  le za-fER                     eh * les affaires de Madeleine
+14550  les affaires                  le za-fER                     eh # les affaires de Madeleine
 14551  t' aimes                      tEm                          pourquoi t' aimes pas aller chez
 14553  n' aimes                      nEm                          et tu n' aimes pas regarder
 14554  l' éteint                     le-t5                        si on l' éteint ça
@@ -11428,7 +11428,7 @@
 14821  c' est                        se                           c' est la fin ?
 14822  c' est                        se                           c' est maman qui a mal
 14823  c' est                        se                           c' est des petits bouts de
-14823  c' est                        se                           chocolat * c' est des
+14823  c' est                        se                           chocolat # c' est des
 14825  couvrir et                    ku-vRi Re                     , les couvrir et les
 14826  beurres un                    b9 R1                         tu lui beurres un croissant
 14827  il en                         i l@n                         il en a pas entamé un
@@ -11439,7 +11439,7 @@
 14833  l' a                          la                           qui te l' a donné
 14837  t' as                         ta                           points , t' as vu
 14839  j' ai                         ZE                           Nescafé alors j' ai pris
-14839  en attendant                  @ na-t@-d@                    un petit en attendant *
+14839  en attendant                  @ na-t@-d@                    un petit en attendant #
 14840  passe à                       pa sa                         qui se passe à l'
 14840  l' école                      le-kOl                       passe à l' école ces
 14842  qu' est-ce                    kEs                          qu' est-ce qu' on fait dans
@@ -11494,7 +11494,7 @@
 14925  recevoir un                   R°s-vwa R1                    je vais recevoir un coup
 14925  j' ai                         ZE                           tous , j' ai oublié
 14925  mettre un                     mE tR1                        oublié de mettre un bulletin
-14926  c' est                        se                           c' est idiot * .
+14926  c' est                        se                           c' est idiot # .
 14928  alors il                      a-lO Ril                      alors il faut que je .
 14929  qu' y                         ki                           ben parce qu' y a
 14930  d' autre                      dot                          d' autre part c' est absurde
@@ -11535,7 +11535,7 @@
 14978  l' un                         l1                           aussi loin l' un que
 14978  l' autre                      lotR                         un que l' autre ,
 14979  c' est                        se                           mais c' est plus facile d'
-14979  d' accès                      dak-sE                       plus facile d' accès *
+14979  d' accès                      dak-sE                       plus facile d' accès #
 14980  c' est                        se                           parce que c' est le
 14981  faire un                      fE R1                         faire un peu de , de
 14983  par anticipation              pa R@-ti-si-pa-sj§            je vis par anticipation .
@@ -11713,15 +11713,15 @@
 15226  qu' est-ce                    kEs                          Janou , qu' est-ce qu' il
 15226  qu' il                        kil                          qu' est-ce qu' il fait
 15227  d' accord                     da-kOR                       bon , d' accord .
-15228  t' arrives                    ta-Riv                       * t' arrives à te rhabiller
-15228  arrives à                     ta-Ri va                      * t' arrives à te rhabiller
+15228  t' arrives                    ta-Riv                       # t' arrives à te rhabiller
+15228  arrives à                     ta-Ri va                      # t' arrives à te rhabiller
 15229  c' est                        se                           c' est dur ?
 15230  t' aide                       tEd                          je t' aide un peu ?
 15230  aide un                       tE d1                         je t' aide un peu ?
-15233  cet endroit                   sE t@-dRwa                    que dans cet endroit *
+15233  cet endroit                   sE t@-dRwa                    que dans cet endroit #
 15236  c' est                        se                           qui c' est tous les deux
 15239  Madeleine aussi               mad-lE no-si                  allais voir Madeleine aussi un
-15240  Madeleine elle                mad-lE nEl                    Madeleine elle voudrait bien que *
+15240  Madeleine elle                mad-lE nEl                    Madeleine elle voudrait bien que #
 15244  petit écureuil                p°-ti te-ky-R9j               un petit écureuil qui rit .
 15245  qu' il                        kil                          tu sais qu' il rit
 15248  c' est                        se                           , ça c' est vrai
@@ -11804,7 +11804,7 @@
 15344  l' aiguille                   le-g8ij                      enlève l' aiguille , Janou ,
 15346  l' as                         la                           où tu l' as mis ?
 15347  c' est                        se                           c' est tout ce qui restait
-15348  c' est                        se                           effectivement c' est * je vais
+15348  c' est                        se                           effectivement c' est # je vais
 15350  j' ai                         ZE                           j' ai une petite culotte pour
 15351  j' avais                      Za-vE                        j' avais oublié complètement .
 15355  qu' il                        kil                          à Ginette qu' il faut
@@ -12046,7 +12046,7 @@
 15638  c' est                        se                           c' est splendide !
 15642  il était                      i le-tE                       demandais où il était passé
 15642  il était                      i le-tE                       et ben il était passé
-15643  regardes ailleurs             R°-gaR da-j9R                 * tu regardes ailleurs , c'
+15643  regardes ailleurs             R°-gaR da-j9R                 # tu regardes ailleurs , c'
 15643  c' est                        se                           ailleurs , c' est tout
 15646  elle est                      E le                          pas où elle est .
 15648  elle est                      E le                          elle est rentrée de sa poubelle
@@ -12054,7 +12054,7 @@
 15659  vas y                         va zi                         allez , vas y .
 15664  qu' on                        k§                           tu veux qu' on te
 15670  s' il                         sil                          maman , s' il te
-15671  elle est                      E le                          pas où elle est *
+15671  elle est                      E le                          pas où elle est #
 15672  jettes un                     ZE t1                         tu jettes un coup d' oeil
 15672  d' oeil                       d9j                          un coup d' oeil .
 15673  qu' est-ce                    kEs                          qu' est-ce que tu vas faire
@@ -12179,8 +12179,8 @@
 15830  cours à                       ku Ra                         que tu cours à travers
 15830  t' attrape                    ta-tRap                      que je t' attrape pas
 15831  faire attraper                fE Ra-tRa-pe                  pas se faire attraper ,
-15832  t' as                         ta                           alors , t' as * sens
-15832  sens interdit                 s@ s5-tER-di                  as * sens interdit *
+15832  t' as                         ta                           alors , t' as # sens
+15832  sens interdit                 s@ s5-tER-di                  as # sens interdit #
 15835  t' as                         ta                           non , t' as pas le
 15837  c' est                        se                           c' est pas pareil .
 15838  d' avoir                      da-vwaR                      fais semblant d' avoir le
@@ -12317,8 +12317,8 @@
 15986  avec un                       a-vE k1n                      avec un arc et une flèche
 15986  un arc                        k1 naRk                       avec un arc et une flèche
 15986  arc et                        naR ke                        avec un arc et une flèche
-15987  ils essayent                  il ze-sej                     ils essayent de * mais ils
-15987  ils y                         il zi                         * mais ils y arrivent
+15987  ils essayent                  il ze-sej                     ils essayent de # mais ils
+15987  ils y                         il zi                         # mais ils y arrivent
 15988  qu' il                        kil                          même regarder qu' il voie
 15991  c' est                        se                           c' est quoi un truc ?
 15993  il est                        i le                          celui là il est pas très
@@ -12390,8 +12390,8 @@
 16062  il est                        ki le                         est-ce qu' il est le
 16065  son arbre                     s§ naRbR                      accroché sur son arbre ,
 16066  pour aller                    pu Ra-le                      va faire pour aller dans
-16069  qu' est-ce                    kEs                          qu' est-ce qu' il * pour
-16069  qu' il                        kil                          qu' est-ce qu' il * pour
+16069  qu' est-ce                    kEs                          qu' est-ce qu' il # pour
+16069  qu' il                        kil                          qu' est-ce qu' il # pour
 16075  c' est                        se                           bien que c' est tout
 16076  d' haricots                   da-Ri-ko                     une poche d' haricots verts
 16078  qu' est-ce                    kEs                          qu' est-ce que c' est ça
@@ -12422,18 +12422,18 @@
 16101  c' est                        se                           c' est atroce .
 16102  d' oeil                       d9j                          un coup d' oeil ici
 16102  voir un                       vwa R1n                       , viens voir un instant
-16102  un instant                    R1 n5s-t@                     viens voir un instant *
+16102  un instant                    R1 n5s-t@                     viens voir un instant #
 16109  c' est                        se                           le problème c' est que
 16109  on a                          § na                          ou bien on a le
 16109  l' asphyxie                   las-fik-si                   froid ou l' asphyxie .
 16110  n' a                          na                           dedans ça n' a aucune
 16110  aucune importance             o-ky n5-pOR-t@s               n' a aucune importance .
-16111  on arrive                     § na-Riv                      si on arrive * il faudrait
+16111  on arrive                     § na-Riv                      si on arrive # il faudrait
 16113  qu' est-ce                    kEs                          qu' est-ce que c' est ça
 16113  c' est                        se                           est-ce que c' est ça
 16115  qu' est-ce                    kEs                          alors qu' est-ce que c' est
 16115  c' est                        se                           est-ce que c' est ça
-16116  fil à                         fi la                         coup de fil à *
+16116  fil à                         fi la                         coup de fil à #
 16117  qu' est-ce                    kEs                          oui , qu' est-ce qu' il
 16117  qu' il                        kil                          qu' est-ce qu' il va
 16117  faire avec                    fE Ra-vEk                     il va faire avec son
@@ -12442,7 +12442,7 @@
 16118  qu' y                         ki                           qu' est-ce qu' y a
 16122  qu' est-ce                    kEs                          qu' est-ce qu' y a encore
 16122  qu' y                         ki                           qu' est-ce qu' y a encore
-16124  c' est                        se                           c' est tout * .
+16124  c' est                        se                           c' est tout # .
 16125  qu' est-ce                    kEs                          ça qu' est-ce que c' est
 16125  c' est                        se                           est-ce que c' est ?
 16126  c' est                        se                           , mais c' est très
@@ -12485,9 +12485,9 @@
 16197  qu' est-ce                    kEs                          qu' est-ce que tu vas faire
 16197  faire aujourd'hui             fE Ro-ZuR-d8i                 tu vas faire aujourd'hui ?
 16199  c' est                        se                           c' est quoi ?
-16200  qu' est-ce                    kEs                          * qu' est-ce que tu veux
+16200  qu' est-ce                    kEs                          # qu' est-ce que tu veux
 16200  j' en                         Z@                           veux que j' en fasse
-16201  petit ahuri                   p°-ti ta-y-Ri                 * mon petit ahuri .
+16201  petit ahuri                   p°-ti ta-y-Ri                 # mon petit ahuri .
 16204  c' est                        se                           c' est les cartons qu' on
 16204  qu' on                        k§                           les cartons qu' on met
 16205  j' arrive                     Za-Riv                       j' arrive .
@@ -13016,7 +13016,7 @@
 16876  qu' est                       ke                           qu' est ce t' as fait
 16876  t' as                         ta                           est ce t' as fait
 16880  c' est                        se                           ben c' est les quatre roues
-16882  vous intéresserait            vu z5-te-RE-sRE               * qui vous intéresserait ?
+16882  vous intéresserait            vu z5-te-RE-sRE               # qui vous intéresserait ?
 16883  j' ai                         ZE                           j' ai pas d' idée .
 16883  d' idée                       di-de                        ai pas d' idée .
 16886  c' est                        se                           évidemment , c' est vrai
@@ -13238,7 +13238,7 @@
 17198  c' était                      se-tE                        alors c' était , y a
 17199  traverses elles               tRa-vER sEl                   , les traverses elles tournent
 17199  tout à                        tu ta                         tournent pas tout à fait
-17199  il a                          i la                          fait * il a quand
+17199  il a                          i la                          fait # il a quand
 17200  c' est                        se                           oui , c' est vrai
 17201  c' est                        se                           c' est marrant , je savais
 17202  qu' est-ce                    kEs                          qu' est-ce que tu es en
@@ -13260,7 +13260,7 @@
 17227  l' ai                         lE                           je te l' ai pas
 17229  suffire un                    sy-fi R1                      va pas suffire un petit
 17236  huit heures                   8i t9R                        réveiller à huit heures moins
-17237  jusqu' à                      Zys ka                        * jusqu' à neuf heures et
+17237  jusqu' à                      Zys ka                        # jusqu' à neuf heures et
 17237  neuf heures                   n9 f9R                        jusqu' à neuf heures et
 17237  heures et                     f9 Re                         à neuf heures et quart
 17239  qu' est                       ke                           hein , qu' est ce
@@ -13599,7 +13599,7 @@
 17716  l' a                          la                           papa qui l' a fait
 17719  il a                          i la                          il a fait la couleur avant
 17719  couleur avant                 ku-l9 Ra-v@                   fait la couleur avant de
-17720  c' est                        se                           * c' est pas malin .
+17720  c' est                        se                           # c' est pas malin .
 17721  s' est                        se                           qui s' est trompé ?
 17723  les oreilles                  le zo-REj                     et les oreilles .
 17724  petites oreilles              p°-tit zo-REj                 pas les petites oreilles ?
@@ -13624,10 +13624,10 @@
 17749  il a                          i la                          il a rattrapé une rhinopharyngite .
 17750  qu' on                        k§n                          dès qu' on arrête les antibiotiques
 17750  on arrête                     k§ na-REt                     dès qu' on arrête les antibiotiques
-17750  les antibiotiques             le z@-ti-bjo-tik              on arrête les antibiotiques *
-17750  qu' il                        kil                          * dès qu' il revient
+17750  les antibiotiques             le z@-ti-bjo-tik              on arrête les antibiotiques #
+17750  qu' il                        kil                          # dès qu' il revient
 17750  l' école                      le-kOl                       revient à l' école ,
-17751  qu' il                        kil                          * ce qu' il nous a
+17751  qu' il                        kil                          # ce qu' il nous a
 17751  nous a                        nu za                         qu' il nous a dit
 17758  venir avec                    v°-ni Ra-vEk                  qui allait venir avec Madeleine
 17761  c' est                        se                           c' est pas de veine qu'
@@ -13702,7 +13702,7 @@
 17837  il est                        i le                          croissant , il est resté
 17838  l' école                      le-kOl                       revenu à l' école ou
 17838  école ou                      le-kO lu                      à l' école ou pas
-17840  l' école                      le-kOl                       allé a l' école *
+17840  l' école                      le-kOl                       allé a l' école #
 17841  qu' est-ce                    kEs                          qu' est-ce que tu y fais
 17841  l' école                      le-kOl                       maintenant à l' école ?
 17843  alors on                      a-lO R§                       Philippe , alors on comprend
@@ -13722,26 +13722,26 @@
 17857  c' est                        se                           c' est vrai ?
 17858  vous avez                     vu za-ve                      vous avez pas le droit de
 17859  qu' est-ce                    kEs                          alors qu' est-ce que vous faites
-17862  il est                        i le                          * il est juste à point
+17862  il est                        i le                          # il est juste à point
 17862  juste à                       Zys ta                        il est juste à point
 17862  il est                        i le                          chocolat , il est pas
 17865  n' alliez                     na-lje                       , vous n' alliez pas
 17866  vous y                        vu zi                         depuis quand vous y allez ?
 17870  vous attendez                 vu za-t@-de                   et puis vous attendez ?
 17882  qu' est-ce                    kEs                          et qu' est-ce que tu feras
-17886  c' est                        se                           ça c' est plus chaud *
+17886  c' est                        se                           ça c' est plus chaud #
 17888  l' as                         la                           , tu l' as pas
 17891  c' est                        se                           ben c' est tout ce qu'
 17891  qu' il                        kil                          tout ce qu' il faut
 17894  t' as                         ta                           t' as une petite chambre ?
-17899  j' ai                         ZE                           * j' ai les ongles d'
+17899  j' ai                         ZE                           # j' ai les ongles d'
 17899  les ongles                    le z§g                        j' ai les ongles d'
 17899  d' une                        dyn                          les ongles d' une longueur
 17899  longueur et                   l§-g9 Re                      d' une longueur et d'
 17899  d' une                        dyn                          longueur et d' une crasse
-17900  c' est                        se                           * c' est intéressant ça .
+17900  c' est                        se                           # c' est intéressant ça .
 17901  j' ai                         ZE                           pas comment j' ai fait
-17902  l' imprimerie                 l5-pRim-Ri                   * à l' imprimerie .
+17902  l' imprimerie                 l5-pRim-Ri                   # à l' imprimerie .
 17903  c' est                        se                           c' est pas impossible .
 17904  qu' il                        kil                          , pour qu' il tienne
 17904  tienne il                     tjE nil                       qu' il tienne il faut
@@ -13790,7 +13790,7 @@
 17986  en a                          @ na                          y en a presque plus .
 17987  plus intéressantes            ply z5-te-RE-s@t              des choses plus intéressantes et
 17987  intéressantes et              z5-te-RE-s@ te                choses plus intéressantes et moins
-17990  qu' est-ce                    kEs                          * qu' est-ce que je pourrais
+17990  qu' est-ce                    kEs                          # qu' est-ce que je pourrais
 17996  j' espère                     ZEs-pER                      j' espère que ce soir tu
 18000  en école                      @ ne-kOl                      suis refournie en école de
 18002  qu' on                        k§                           , parce qu' on l'
@@ -13799,7 +13799,7 @@
 18004  en as                         t@ na                         que t' en as fait
 18007  s' appelle                    sa-pEl                       comment elle s' appelle ?
 18009  c' est                        se                           ce que c' est lourd
-18012  t' as                         ta                           écoute , t' as *
+18012  t' as                         ta                           écoute , t' as #
 18013  t' en                         t@                           que tu t' en souviens
 18014  elle est                      E le                          elle est très jolie .
 18015  c' est                        se                           Robert c' est un monsieur à
@@ -14055,7 +14055,7 @@
 18382  t' attend                     ta-t@                        on t' attend ici .
 18386  t' as                         ta                           papa , t' as un
 18386  un annuaire                   1 na-n8ER                     t' as un annuaire ,
-18386  c' est                        se                           hein * c' est dans
+18386  c' est                        se                           hein # c' est dans
 18386  l' annuaire                   la-n8ER                      est dans l' annuaire ,
 18386  t' assure                     ta-syR                       , je t' assure .
 18387  t' as                         ta                           oh t' as pas cherché .
@@ -14159,7 +14159,7 @@
 18530  c' est                        se                           c' est pas en faisant l'
 18530  l' idiot                      li-djo                       en faisant l' idiot que
 18530  cour à                        ku Ra                         feras la cour à Madeleine
-18532  on est                        § ne                          sales * on est en
+18532  on est                        § ne                          sales # on est en
 18533  c' est                        se                           qui c' est qui a eu
 18533  un an                         1 n@                          a eu un an pendant
 18534  c' est                        se                           qui c' est qui a eu
@@ -14203,7 +14203,7 @@
 18595  c' est                        se                           ah , c' est le fou
 18596  c' est                        se                           c' est moi qui te l'
 18596  l' avais                      la-vE                        qui te l' avais dit
-18598  c' est                        se                           que * c' est tout
+18598  c' est                        se                           que # c' est tout
 18599  c' était                      se-tE                        pas que c' était le
 18602  qu' est-ce                    kEs                          qu' est-ce qui est pas une
 18602  bonne idée                    bO ni-de                      pas une bonne idée ?
@@ -14276,7 +14276,7 @@
 18694  d' ailleurs                   da-j9R                       grand , d' ailleurs ,
 18697  qu' il                        kil                          tu crois qu' il est content
 18697  il est                        ki le                         crois qu' il est content
-18698  s' appelle                    sa-pEl                       chien il s' appelle *
+18698  s' appelle                    sa-pEl                       chien il s' appelle #
 18699  qu' est-ce                    kEs                          oh qu' est-ce qui lui est
 18700  c' est                        se                           ben c' est ses genoux ,
 18700  elle a                        E la                          regarde , elle a un
@@ -14389,7 +14389,7 @@
 18818  c' est                        se                           les étoiles c' est pour
 18818  qu' il                        kil                          pour montrer qu' il s'
 18818  s' est                        se                           qu' il s' est fait
-18819  monte à                       m§ ta                         * monte à l' échelle .
+18819  monte à                       m§ ta                         # monte à l' échelle .
 18819  l' échelle                    le-SEl                       monte à l' échelle .
 18820  elle est                      E le                          elle est cassée son échelle ?
 18820  son échelle                   s§ ne-SEl                     est cassée son échelle ?
@@ -14444,7 +14444,7 @@
 18889  en a                          @ na                          combien y en a là maintenant
 18890  m' en                         m@n                          , tu m' en as
 18890  en as                         m@ na                         tu m' en as donné
-18890  en a                          @ na                          * y en a plus
+18890  en a                          @ na                          # y en a plus
 18891  m' en                         m@                           tu vas m' en chercher encore
 18892  c' est                        se                           c' est une invention de génie
 18892  une invention                 y n5-v@-sj§                   c' est une invention de génie
@@ -14472,8 +14472,8 @@
 18925  t' as                         ta                           ce que t' as fait
 18930  en a                          @ na                          si y en a .
 18934  c' est                        se                           c' est tout , les autres
-18934  les autres                    le zotR                       tout , les autres *
-18934  c' est                        se                           autres * c' est trop
+18934  les autres                    le zotR                       tout , les autres #
+18934  c' est                        se                           autres # c' est trop
 18938  pour agrafer                  pu Ra-gRa-fe                  pour agrafer .
 18939  c' est                        se                           est-ce que c' est ce
 18940  l' as                         la                           si tu l' as défait .
@@ -14498,7 +14498,7 @@
 18968  qu' est-ce                    kEs                          qu' est-ce qu' y a de
 18968  qu' y                         ki                           qu' est-ce qu' y a de
 18968  l' autre                      lot                          a de l' autre côté
-18969  c' est                        se                           * c' est un mot sans
+18969  c' est                        se                           # c' est un mot sans
 18970  cerise un                     s°-Ri z1                      a écrit cerise un et
 18973  c' est                        se                           c' est pas écrit d' une
 18973  d' une                        dyn                          pas écrit d' une façon
@@ -14923,7 +14923,7 @@
 19561  avoir un                      da-vwa R1                     rêvait d' avoir un gyroscope
 19563  qu' y                         ki                           ben parce qu' y a pas
 19566  qu' il                        kil                          vois ce qu' il fait
-19567  c' est                        se                           * c' est drôle , hein
+19567  c' est                        se                           # c' est drôle , hein
 19572  n' a                          na                           ça n' a pas d' importance
 19572  d' importance                 d5-pOR-t@s                   a pas d' importance ,
 19573  n' importe                    n5-pORt                      dans n' importe quel sens ça
@@ -15067,8 +15067,8 @@
 19788  qu' il                        kil                          aider parce qu' il faudrait
 19788  qu' on                        k§                           il faudrait qu' on puisse
 19788  l' enlever                    l@l-ve                       on puisse l' enlever .
-19791  c' est                        se                           ça c' est bête , *
-19791  m' aider                      me-de                        * viens m' aider à
+19791  c' est                        se                           ça c' est bête , #
+19791  m' aider                      me-de                        # viens m' aider à
 19791  l' enlever                    l@l-ve                       aider à l' enlever .
 19792  l' enlever                    l@l-ve                       arrivée à l' enlever .
 19793  il est                        i le                          il est bon ce croissant ?
@@ -15099,9 +15099,9 @@
 19843  qu' il                        kil                          qu' est-ce qu' il a fait
 19843  il a                          ki la                         est-ce qu' il a fait
 19844  être à                        E tRa                         je devais être à dix
-19844  dix heures                    di z9R                        être à dix heures *
+19844  dix heures                    di z9R                        être à dix heures #
 19846  être à                        E tRa                         je devais être à dix
-19846  dix heures                    di z9R                        être à dix heures *
+19846  dix heures                    di z9R                        être à dix heures #
 19848  qu' est-ce                    kEs                          qu' est-ce que tu regardes sous
 19849  j' ai                         ZE                           quand j' ai dit à Gérard
 19849  m' a                          ma                           , il m' a dit
@@ -15113,7 +15113,7 @@
 19858  thèse y                       tE zi                         de seconde thèse y a
 19858  plus eu                       ply zy                        y a plus eu un
 19861  c' est                        se                           c' est vieux ça .
-19864  d' abord                      da-bOR                       là * d' abord c'
+19864  d' abord                      da-bOR                       là # d' abord c'
 19864  c' est                        se                           d' abord c' est la
 19864  thèse et                      tE ze                         la deuxième thèse et puis
 19864  thèse a                       tE za                         la deuxième thèse a été
@@ -15154,7 +15154,7 @@
 19903  leur ont                      l9 R§                         leurs parents leur ont appris
 19904  m' entraîne                   m@-tREn                      que je m' entraîne pour
 19906  il est                        i le                          celui là il est tout neuf
-19907  comme interprète              kO m5-tER-pREt                * comme interprète , hein *
+19907  comme interprète              kO m5-tER-pREt                # comme interprète , hein #
 19908  mon argent                    m§ naR-Z@                     aller mettre mon argent à
 19908  d' épargne                    de-paRN                      la caisse d' épargne .
 19909  t' autorise                   to-to-Riz                    samedi je t' autorise à aller
@@ -15190,7 +15190,7 @@
 19938  des ennuis                    de z@-n8i                     d' avoir des ennuis .
 19939  mettre une                    mE tRyn                       attends pour mettre une chaîne
 19939  chaîne à                      SE na                         mettre une chaîne à ton
-19941  casque et                     kas ke                        * le casque et la chaîne
+19941  casque et                     kas ke                        # le casque et la chaîne
 19942  l' enchaînent                 l@-SEn                       , qui l' enchaînent sur
 19944  j' ai                         ZE                           vraiment que j' ai attrapé
 19948  manifestes en                 ma-ni-fEs t@                  si tu manifestes en plein soleil
@@ -15321,7 +15321,7 @@
 20118  c' est                        se                           puce , c' est mon
 20119  qu' est-ce                    kEs                          qu' est-ce que j' avais autour
 20119  j' avais                      Za-vE                        est-ce que j' avais autour
-20120  j' avais                      Za-vE                        * j' avais un plâtre ,
+20120  j' avais                      Za-vE                        # j' avais un plâtre ,
 20121  qu' il                        kil                          comment est-ce qu' il avait
 20121  il avait                      ki la-vE                      est-ce qu' il avait son
 20122  il était                      i le-tE                       comment il était son bras à
@@ -15452,7 +15452,7 @@
 20268  l' as                         la                           , tu l' as bien
 20270  qu' il                        kil                          je crois qu' il marche
 20271  arrête un                     a-RE t1                       attends , arrête un petit peu
-20278  m' a                          ma                           * on m' a dit que
+20278  m' a                          ma                           # on m' a dit que
 20278  j' étais                      Ze-tE                        dit que j' étais idiot
 20278  des autres                    de zot                        la valeur des autres candidats
 20279  qu' est-ce                    kEs                          , alors qu' est-ce que
@@ -15816,10 +15816,10 @@
 20728  les ours                      le zuRs                       pierre entre les ours et
 20728  ours et                       zuR se                        entre les ours et nous
 20729  mur en                        my R@                         un grand mur en pierre .
-20730  qu' on                        k§                           * ce qu' on peut caresser
+20730  qu' on                        k§                           # ce qu' on peut caresser
 20730  c' est                        se                           caresser , c' est les
-20731  ils adorent                   il za-dOR                     ils adorent être caressés * .
-20731  adorent être                  za-dO REt                     ils adorent être caressés * .
+20731  ils adorent                   il za-dOR                     ils adorent être caressés # .
+20731  adorent être                  za-dO REt                     ils adorent être caressés # .
 20732  c' est                        se                           mais c' est effroyablement dangereux .
 20735  quand on                      k@ t§n                        tiens , quand on était aux
 20735  on était                      t§ ne-tE                      , quand on était aux
@@ -15828,7 +15828,7 @@
 20735  type est                      ti pe                         , un type est mort
 20735  l' aprés                      l#                           est mort l' aprés midi
 20743  il est                        i le                          et il est allé les voir
-20744  on en                         § n@                          on en voit comme ça *
+20744  on en                         § n@                          on en voit comme ça #
 20744  t' en                         t@                           bon quand t' en voit
 20744  c' est                        se                           voit un c' est évidemment
 20744  l' attraction                 la-tRak-sj§                  est évidemment l' attraction ,
@@ -15883,7 +15883,7 @@
 20800  t' as                         ta                           oh t' as un très joli
 20801  qu' on                        k§                           , pour qu' on puisse
 20801  puisse aller                  p8i sa-le                     qu' on puisse aller voir
-20804  c' est                        se                           * c' est pas drôle .
+20804  c' est                        se                           # c' est pas drôle .
 20805  m' insulte                    m5-sylt                      il m' insulte .
 20806  d' avoir                      da-vwaR                      le soupçonne d' avoir compris
 20811  j' ai                         ZE                           ma tète j' ai fait
@@ -16105,7 +16105,7 @@
 21130  c' est                        se                           qui c' est Nicole ?
 21132  qu' elle                      kEl                          où est-ce qu' elle est en
 21132  elle est                      kE le                         est-ce qu' elle est en
-21134  t' en                         t@                           * tu t' en souviens .
+21134  t' en                         t@                           # tu t' en souviens .
 21135  en Angleterre                 @ n@-gl2-tER                  en Angleterre .
 21136  m' as                         ma                           et tu m' as pas parlé
 21136  l' école                      le-kOl                       copains à l' école .
@@ -16201,8 +16201,8 @@
 21252  autre encore                  do tR@-kOR                    ont d' autre encore de
 21253  il a                          i la                          il a vraiment l' air réjoui
 21253  l' air                        lER                          a vraiment l' air réjoui
-21254  il en                         i l@n                         * il en avait un y
-21254  en avait                      l@ na-vE                      * il en avait un y
+21254  il en                         i l@n                         # il en avait un y
+21254  en avait                      l@ na-vE                      # il en avait un y
 21254  un y                          1 ni                          en avait un y a
 21257  elle est                      E le                          elle est en quoi celle là
 21258  elle est                      E le                          en quoi elle est , Philippe
@@ -16326,8 +16326,8 @@
 21422  qu' elle                      kEl                          qu' est-ce qu' elle a dit
 21422  elle a                        kE la                         est-ce qu' elle a dit
 21423  qu' est-ce                    kEs                          oh qu' est-ce que je raconte
-21424  j' ai                         ZE                           j' ai pas d' allumettes *
-21424  d' allumettes                 da-ly-mEt                    ai pas d' allumettes *
+21424  j' ai                         ZE                           j' ai pas d' allumettes #
+21424  d' allumettes                 da-ly-mEt                    ai pas d' allumettes #
 21424  des allumettes                de za-ly-mEt                  vais chercher des allumettes .
 21425  n' importe                    n5-pORt                      pas allumer n' importe quoi
 21427  qu' il                        kil                          alors qu' il a un allume
@@ -16338,7 +16338,7 @@
 21429  avoir une                     da-vwa Ryn                    peine d' avoir une timbale
 21435  elle est                      E le                          elle est en verre ta timbale
 21440  j' ai                         ZE                           est-ce que j' ai mis
-21442  vas y                         va zi                         * vas y .
+21442  vas y                         va zi                         # vas y .
 21445  pars en                       pa R@                         que tu pars en vacances
 21447  pars en                       pa R@                         que tu pars en vacances
 21449  l' idiot                      li-djo                       fais pas l' idiot comme ça
@@ -16388,7 +16388,7 @@
 21490  c' est                        se                           c' est vrai que son expérience
 21490  son expérience                s§ nEk-spe-Rj@s               vrai que son expérience étant
 21490  expérience étant              nEk-spe-Rj@ se-t@             que son expérience étant limitée
-21492  des autres                    de zot                        * des autres films .
+21492  des autres                    de zot                        # des autres films .
 21493  c' est                        se                           bien maintenant c' est un
 21493  un autre                      1 not                         c' est un autre film
 21494  c' est                        se                           c' est plus les Aristochats ,
@@ -16408,7 +16408,7 @@
 21501  il a                          ki la                         pas qu' il a fallu
 21502  il avait                      i la-vE                       il avait vraiment peur que tu
 21502  l' emmènes                    l@-mEn                       que tu l' emmènes pas
-21505  soir où                       swa Ru                        * hier soir où est-ce qu'
+21505  soir où                       swa Ru                        # hier soir où est-ce qu'
 21505  qu' on                        k§n                          où est-ce qu' on est
 21505  on est                        k§ ne                         est-ce qu' on est allés
 21506  qu' on                        k§n                          où est-ce qu' on est allés
@@ -16427,7 +16427,7 @@
 21521  t' es                         tE                           t' es trop bête , Philippe
 21522  c' est                        se                           des mains c' est fait
 21522  c' est                        se                           des dents c' est fait
-21523  c' est                        se                           * c' est notre présence ,
+21523  c' est                        se                           # c' est notre présence ,
 21524  un âge                        1 naZ                         y a un âge bête ,
 21524  cet âge                       sE taZ                        , à cet âge .
 21526  en aura                       @ no-Ra                       y en aura d' autres aussi
@@ -16489,7 +16489,7 @@
 21590  c' est                        se                           glace , c' est des
 21591  en as                         @ na                          tu en as fait déjà ?
 21592  comme il                      kO mil                        mais réponds comme il faut ,
-21593  l' envoies                    l@-vwa                       * tu l' envoies là bas
+21593  l' envoies                    l@-vwa                       # tu l' envoies là bas
 21593  qu' on                        k§                           que tant qu' on sera
 21594  qu' est                       ke                           qu' est ce tu fais ?
 21600  on a                          § na                          on a vraiment l' impression qu'
@@ -16773,7 +16773,7 @@
 21936  autres ils                    zo tRilz                      , les autres ils ont
 21936  ils ont                       tRil z§                       les autres ils ont tous
 21937  s' occupe                     so-kyp                       il s' occupe de la machine
-21938  reste à                       REs ta                        * on reste à côté
+21938  reste à                       REs ta                        # on reste à côté
 21938  tombent on                    t§ b§                         gens qui tombent on les
 21938  les aide                      le zEd                        tombent on les aide à
 21938  aide à                        zE da                         on les aide à se

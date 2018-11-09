@@ -115,7 +115,7 @@
 2413 chambre de                    S@b d2                        pas la chambre de Grégoire
 2414 chambre d'                    S@b d                         la chambre d' Adrien oui .
 2422 ouvre pas                     uv pa                         on n' ouvre pas .
-2586 mettre des                    mEt de                        * mettre des chaussures .
+2586 mettre des                    mEt de                        # mettre des chaussures .
 2620 mettre là                     mEt la                        pas le mettre là .
 2692 ouvre pas                     uv pa                         on n' ouvre pas la porte
 2694 autre côté                    ot ko-te                      de l' autre côté .

@@ -43,7 +43,7 @@
 622  vas y                         vaz i                         vas y , tourne .
 640  les autres                    lez otR                       laisse les autres dedans .
 664  vous en                       vuz @                         vous en voulez une ?
-703  en a                          @n a                          * y en a d' autres
+703  en a                          @n a                          # y en a d' autres
 756  tout à                        tut a                         y viendras tout à l'
 756  tout à                        tut a                         heure , tout à l'
 768  petit animal                  p°-tit a-ni-mal               est ce petit animal ?
@@ -55,7 +55,7 @@
 887  elles étaient                 Elz e-tE                      elles étaient grosses , hein ,
 916  un escalier                   1n Es-ka-lje                  plutôt à un escalier qu'
 917  des efforts                   dez e-fOR                     on fait des efforts , mais
-944  en as                         @n a                          * tu en as pas besoin
+944  en as                         @n a                          # tu en as pas besoin
 946  mon oeil                      m§n 9j                        pas , mon oeil !
 955  on est                        §n e                          bien , on est bien
 979  des ennuis                    dez @-n8i                     vas avoir des ennuis avec
@@ -75,7 +75,7 @@
 1248 en a                          @n a                          il y en a ?
 1288 en a                          @n a                          y en a pas deux ,
 1288 en a                          @n a                          , y en a .
-1304 nous allons                   nuz a-l§                      * et nous allons voir si
+1304 nous allons                   nuz a-l§                      # et nous allons voir si
 1319 en ai                         @n E                          , j' en ai besoin
 1343 quand on                      k@t §                         toute seule quand on a
 1343 on a                          §n a                          seule quand on a tourné
@@ -92,7 +92,7 @@
 1410 les as                        lez a                         tu les as tous ramassés les
 1416 les as                        lez a                         tu les as tous ramassés ,
 1443 un autre                      1n otR                        en faut un autre ,
-1467 en as                         @n a                          t' en as une * ,
+1467 en as                         @n a                          t' en as une # ,
 1483 en attendant                  @n a-t@-d@                    de croissant en attendant .
 1496 en attendant                  @n a-t@-d@                    de croissant en attendant que
 1498 en attendant                  @n a-t@-d@                    tiens , en attendant que ça
@@ -108,14 +108,14 @@
 1600 ils y                         ilz i                         ils y mettent un petit peu
 1617 en ai                         @n E                          j' en ai mis aussi sur
 1641 quand on                      k@t §                         quand on comprend pas et que
-1647 un embouteillage              1n @-bu-tE-jaZ                * un embouteillage .
+1647 un embouteillage              1n @-bu-tE-jaZ                # un embouteillage .
 1648 en a                          @n a                          , y en a qui
 1652 on est                        §n e                          est-ce qu' on est allés
 1655 on est                        §n e                          on est allés dans les ro
 1678 un énorme                     1n e-nORm                     y avait un énorme chien couché
 1728 vas y                         vaz i                         vas y .
 1730 tout à                        tut a                         tout à fait ?
-1733 des aiguilles                 dez e-g8ij                    * des aiguilles rouges .
+1733 des aiguilles                 dez e-g8ij                    # des aiguilles rouges .
 1773 vas y                         vaz i                         allez , vas y .
 1780 les apporter                  lez a-pOR-te                  elle va les apporter , philippe
 1780 les apporter                  lez a-pOR-te                  elle va les apporter .
@@ -147,10 +147,10 @@
 2186 un héh                        1n e                          un héh .
 2214 en a                          @n a                          y en a un qu' il
 2223 en as                         @n a                          , tu en as mangé
-2249 on aurait                     §n o-RE                       * on aurait pu apprendre ,
+2249 on aurait                     §n o-RE                       # on aurait pu apprendre ,
 2261 en a                          @n a                          y en a pas , je
 2262 en a                          @n a                          y en a plein là haut
-2263 les ai                        lez E                         je les ai lavées * ah
+2263 les ai                        lez E                         je les ai lavées # ah
 2289 on est                        §n e                          on est allés voir la mer
 2309 quand il                      k@t il                        quand il est sorti , qu'
 2318 on a                          §n a                          est-ce qu' on a ramassé
@@ -162,24 +162,24 @@
 2343 vas y                         vaz i                         vas y , fais un triangle
 2363 quand on                      k@t §                         en fait quand on donne
 2393 on a                          §n a                          on a vu aussi une voiture
-2409 les yeux                      lez j2                        * les yeux au loin ,
+2409 les yeux                      lez j2                        # les yeux au loin ,
 2423 tout entier                   tut @-tje                     mon croissant tout entier si
 2426 nous a                        nuz a                         hier il nous a bien fait
-2436 on a                          §n a                          * alors on a supposé
+2436 on a                          §n a                          # alors on a supposé
 2436 quelqu'un avait               kEl-k1n a-vE                  supposé que quelqu'un avait dû
 2442 en apprend                    @n a-pR@                      il lui en apprend !
-2446 les hexagones                 lez Eg-za-gon                 * les hexagones * .
+2446 les hexagones                 lez Eg-za-gon                 # les hexagones # .
 2452 en est                        @n e                          il m' en est resté un
 2482 quand on                      k@t §                         magnétophone que quand on entend
 2482 on entend                     §n @-t@                       que quand on entend .
 2489 en a                          @n a                          qu' elle en a un
-2513 vas y                         vaz i                         ben , vas y * .
+2513 vas y                         vaz i                         ben , vas y # .
 2520 quand on                      k@t §                         se débarbouiller quand on a
 2520 on a                          §n a                          débarbouiller quand on a mangé
 2530 on appelle                    §n a-pEl                      ce qu' on appelle répartir
 2569 un autre                      1n otR                        c' est un autre problème
 2582 tout à                        tut a                         va aller tout à l'
-2590 on a                          §n a                          grandeur dont on a *
+2590 on a                          §n a                          grandeur dont on a #
 2596 un excellent                  1n ek-sE-l@                   c' est un excellent appareil
 2616 très élégant                  tREz e-le-g@                  tu es très élégant , philippe
 2627 tout à                        tut a                         , comme tout à l'
@@ -210,12 +210,12 @@
 2930 en a                          @n a                          il y en a une qui
 2948 quand on                      k@t §                         mange mieux quand on boit
 2949 quand on                      k@t §                         mange mieux quand on boit
-3028 son expérience                s§n Ek-spe-Rj@s               parce que son expérience lui *
+3028 son expérience                s§n Ek-spe-Rj@s               parce que son expérience lui #
 3034 on est                        §n e                          confortable , on est bien
 3039 ils ont                       ilz §                         est-ce qu' ils ont les
-3050 en a                          @n a                          * y en a un des
+3050 en a                          @n a                          # y en a un des
 3053 des illusions                 dez i-ly-zj§                  me fais des illusions ,
-3054 des illusions                 dez i-ly-zj§                  * des illusions , oui .
+3054 des illusions                 dez i-ly-zj§                  # des illusions , oui .
 3060 en as                         @n a                          tu en as déjà eu ce
 3061 tout à                        tut a                         à croquer tout à l'
 3079 un autre                      1n otR                        en chercher un autre .
@@ -235,7 +235,7 @@
 3251 on était                      §n e-tE                       est-ce qu' on était la
 3252 on était                      §n e-tE                       est-ce qu' on était avec
 3257 les adultes                   lez a-dylt                    ont fait les adultes !
-3258 six heures                    siz 9R                        * à six heures du matin
+3258 six heures                    siz 9R                        # à six heures du matin
 3265 vas y                         vaz i                         tiens , vas y , mets
 3285 nous expliquais               nuz Ek-spli-kE                si tu nous expliquais ce que
 3315 en a                          @n a                          il y en a un
@@ -252,7 +252,7 @@
 3440 vas y                         vaz i                         tiens , vas y , mets
 3444 les autres                    lez otR                       a poussé les autres ,
 3466 en a                          @n a                          il y en a d' autres
-3495 quand il                      k@t il                        * pas quand il y a
+3495 quand il                      k@t il                        # pas quand il y a
 3495 quand il                      k@t il                        , pas quand il y
 3497 on habite                     §n a-bit                      marqué où on habite ,
 3563 les enfants                   lez @-f@                      ils faisaient les enfants ?
@@ -276,7 +276,7 @@
 3836 ils ont                       ilz §                         petits garçons ils ont le
 3836 les allumettes                lez a-ly-mEt                  jouer avec les allumettes ?
 3904 quand on                      k@t §                         philippe , quand on fait un
-3904 très efficace                 tREz e-fi-kas                 , * très efficace .
+3904 très efficace                 tREz e-fi-kas                 , # très efficace .
 3926 en as                         @n a                          , t' en as eu
 3928 en as                         @n a                          , t' en as eu
 3928 en as                         @n a                          , t' en as eu
@@ -423,7 +423,7 @@
 5808 quand il                      k@t il                        et puis quand il revenait
 5833 les enfants                   lez @-f@                      il mangeait les enfants ?
 5837 les enfants                   lez @-f@                      mangeait pas les enfants .
-5841 on a                          §n a                          on a * du gros bonhomme
+5841 on a                          §n a                          on a # du gros bonhomme
 5841 les enfants                   lez @-f@                      qui mange les enfants ?
 5850 quand ils                     k@t il                        et quand ils ont six à
 5850 ils ont                       ilz §                         et quand ils ont six à
@@ -510,7 +510,7 @@
 6569 les ai                        lez E                         , je les ai pas
 6572 très intéressant              tREz 5-te-RE-s@               c' est très intéressant de
 6596 petits enfants                p°-tiz @-f@                   est les petits enfants avec
-6625 tout à                        tut a                         * tout à l' heure en
+6625 tout à                        tut a                         # tout à l' heure en
 6631 en a                          @n a                          on n' en a plus .
 6639 un abrégé                     1n a-bRe-Ze                   c' est un abrégé de gros
 6643 petit enfant                  p°-tit @-f@                   ce petit enfant .
@@ -564,7 +564,7 @@
 7180 quand il                      k@t il                        et quand il est déshabillé qu'
 7182 on en                         §n @                          béh maintenant on en a
 7182 en a                          @n a                          maintenant on en a deux
-7183 les autres                    lez otR                       perdu tous les autres *
+7183 les autres                    lez otR                       perdu tous les autres #
 7184 tout à                        tut a                         pas tout à fait deux crocodiles
 7185 on a                          §n a                          on a deux queues en tout
 7185 on a                          §n a                          cas , on a deux
@@ -804,7 +804,7 @@
 9311 un autre                      1n otR                        ai vu un autre qui
 9328 tout avoir                    tut a-vwaR                    peut pas tout avoir dans
 9332 dans un                       d@z 1                         la concierge dans un paquet
-9369 vous en                       vuz @                         * chocolat vous en creviez
+9369 vous en                       vuz @                         # chocolat vous en creviez
 9372 un autre                      1n otR                        donnes en un autre à madeleine
 9387 ils envoient                  ilz @-vwa                     le , ils envoient le courrier
 9391 ils envoient                  ilz @-vwa                     veut dire ils envoient le
@@ -827,7 +827,7 @@
 9607 aux yeux                      oz j2                         fait mal aux yeux ?
 9616 en espérant                   @n Es-pe-R@                   en espérant que ta bonté irait
 9617 en a                          @n a                          , y en a plus
-9618 en a                          @n a                          * y en a plus
+9618 en a                          @n a                          # y en a plus
 9619 on en                         §n @                          oui , on en rachètera .
 9677 très ordonné                  tREz OR-do-ne                 tu es très ordonné .
 9680 quand il                      k@t il                        quand il y a ce panneau
@@ -841,8 +841,8 @@
 9717 son enfant                    s§n @-f@                      son enfant .
 9729 en a                          @n a                          , y en a plus
 9744 quelles autres                kElz otR                      quelles autres couleurs ?
-9755 prends en                     pR@z @                        prends en un autre * .
-9755 un autre                      1n otR                        prends en un autre * .
+9755 prends en                     pR@z @                        prends en un autre # .
+9755 un autre                      1n otR                        prends en un autre # .
 9762 vous avez                     vuz a-ve                      comment vous avez fait pour avoir
 9763 on a                          §n a                          on a mis un bout de
 9765 on a                          §n a                          réveillait alors on a pris
@@ -852,7 +852,7 @@
 9792 vous épargnerai               vuz e-paR-N°-RE               je vous épargnerai ça .
 9822 on essaie                     §n E-sE                       on essaie de le casser et
 9822 on y                          §n i                          et si on y arrive
-9829 plus en                       plyz @                        * de plus en plus
+9829 plus en                       plyz @                        # de plus en plus
 9829 plus à                        plyz a                        plus en plus à oublier
 9830 quand on                      k@t §                         en revanche quand on ne salue
 9830 ses éternuements              sez e-tER-ny-m@               salue pas ses éternuements comme
@@ -921,7 +921,7 @@
 10605en oublie                     @n u-bli                      et qui en oublie de
 10637vas y                         vaz i                         allez , vas y , continue
 10645les essuieras                 lez E-s8i-Ra                  tu les essuieras après , mange
-10647quand il                      k@t il                        * quand il était petit .
+10647quand il                      k@t il                        # quand il était petit .
 10721en as                         @n a                          t' en as vu des maisons
 10726dans une                      d@z yn                        es rentré dans une caravane
 10747on est                        §n e                          était comment on est fabriqué
@@ -959,7 +959,7 @@
 11165ton avis                      t§n a-vi                      , à ton avis quel
 11172en a                          @n a                          y en a , mais il
 11175quelqu'un au                  kEl-k1n o                     y a quelqu'un au secrétariat qui
-11180en a                          @n a                          * y en a un deuxième
+11180en a                          @n a                          # y en a un deuxième
 11183dix heures                    diz 9R                        arriverai vers dix heures et
 11183dix heures                    diz 9R                        demie , dix heures enfin
 11201vous avez                     vuz a-ve                      vous avez chanté .
@@ -977,7 +977,7 @@
 11342dans un                       d@z 1                         ira voir dans un endroit
 11342un endroit                    1n @-dRwa                     voir dans un endroit où
 11360plus un                       plyz 1                        tu es plus un bébé
-11387on a                          §n a                          hier on a eu * le
+11387on a                          §n a                          hier on a eu # le
 11387un a                          1n a                          l' orientation un a eu
 11387en a                          @n a                          orientation trois en a eu
 11436des oiseaux                   dez wa-zo                     veut tuer des oiseaux ?
@@ -1020,7 +1020,7 @@
 11853tout est                      tut e                         tout est trempé .
 11864les yeux                      lez j2                        , ferme les yeux .
 11865les yeux                      lez j2                        ferme les yeux , tu me
-11904quand elle                    k@t El                        , * quand elle arrivera
+11904quand elle                    k@t El                        , # quand elle arrivera
 11915quand elle                    k@t El                        quand elle va se balader avec
 11939quand il                      k@t il                        au pied quand il s'
 11951quand on                      k@t §                         surpris , quand on va
@@ -1051,7 +1051,7 @@
 12145quand il                      k@t il                        et puis quand il a
 12158plus être                     plyz EtR                      ça doit plus être compliqué maintenant
 12171on a                          §n a                          hier , on a fêté
-12175vous avez                     vuz a-ve                      * que vous avez bu votre
+12175vous avez                     vuz a-ve                      # que vous avez bu votre
 12176on a                          §n a                          fait qu' on a arrosé
 12181des apéritifs                 dez a-pe-Ri-tif               y avait des apéritifs ,
 12188les a                         lez a                         ginette qui les a rangés
@@ -1063,7 +1063,7 @@
 12203dans une                      d@z yn                        qui travaille dans une fabrique
 12211en a                          @n a                          , y en a par
 12225très enregistrable            tREz @R-Zis-tRabl             est pas très enregistrable .
-12231un article                    1n aR-tikl                    * un article qui est pas
+12231un article                    1n aR-tikl                    # un article qui est pas
 12235un article                    1n aR-tikl                    y a un article qui est
 12254sans un                       s@z 1                         si longtemps sans un sou
 12262dans un                       d@z 1                         suis allée dans un magasin
@@ -1152,7 +1152,7 @@
 13302on a                          §n a                          vrai , on a eu
 13316les as                        lez a                         tu les as accrochées ?
 13317les as                        lez a                         tu les as accrochées ?
-13324en a                          @n a                          * y en a un
+13324en a                          @n a                          # y en a un
 13337quand il                      k@t il                        goût , quand il n'
 13361nous empêcher                 nuz @-pe-Se                   va pas nous empêcher de
 13364grand air                     gR@t ER                       mieux au grand air là
@@ -1233,7 +1233,7 @@
 14045les as                        lez a                         tu les as pas vues dans
 14047les as                        lez a                         oh tu les as balayées ,
 14056un esprit                     1n Es-pRi                     a pas un esprit trop
-14060on a                          §n a                          pas , on a *
+14060on a                          §n a                          pas , on a #
 14122autres histoires              otRz is-twaR                  racontes d' autres histoires ?
 14135les histoires                 lez is-twaR                   j' aime les histoires .
 14143les aura                      lez o-Ra                      qui les aura cassées ?
@@ -1269,12 +1269,12 @@
 14368en as                         @n a                          , t' en as bu
 14385dans une                      d@z yn                        se passe dans une ville
 14387dans une                      d@z yn                        c' est dans une ville avec
-14394on ira                        §n i-Ra                       croissant et on ira *
+14394on ira                        §n i-Ra                       croissant et on ira #
 14399dans une                      d@z yn                        , réunies dans une seule
 14446six heures                    siz 9R                        six heures , hélas .
 14504petit ennui                   p°-tit @-n8i                  a un petit ennui ,
 14524en avait                      @n a-vE                       ah y en avait un là
-14550les affaires                  lez a-fER                     eh * les affaires de madeleine
+14550les affaires                  lez a-fER                     eh # les affaires de madeleine
 14575quand on                      k@t §                         même pas quand on l'
 14629quand elle                    k@t El                        parce que quand elle en
 14629quand elle                    k@t El                        en , quand elle en
@@ -1303,7 +1303,7 @@
 14814on arrête                     §n a-REt                      fois qu' on arrête les
 14814les antibiotiques             lez @-ti-bjo-tik              on arrête les antibiotiques ,
 14827en a                          @n a                          il en a pas entamé un
-14839en attendant                  @n a-t@-d@                    un petit en attendant *
+14839en attendant                  @n a-t@-d@                    un petit en attendant #
 14849on y                          §n i                          , qu' on y faisait
 14876vas y                         vaz i                         ben , vas y ,
 14890des enfants                   dez @-f@                      y a des enfants qui chantent
@@ -1428,8 +1428,8 @@
 15979les emporte                   lez @-pORt                    que je les emporte dans
 15985un indien                     1n 5-dj5                      c' est un indien ?
 15986un arc                        1n aRk                        avec un arc et une flèche
-15987ils essayent                  ilz e-sej                     ils essayent de * mais ils
-15987ils y                         ilz i                         * mais ils y arrivent
+15987ils essayent                  ilz e-sej                     ils essayent de # mais ils
+15987ils y                         ilz i                         # mais ils y arrivent
 15996les images                    lez i-maZ                     les images sont statiques , ça
 15997les as                        lez a                         tu les as vus tous ceux
 16035en a                          @n a                          , y en a que
@@ -1437,14 +1437,14 @@
 16088des yeux                      dez j2                        elle a des yeux la
 16092des étoiles                   dez e-twal                    ah , des étoiles .
 16098un arbre                      1n aRbR                       ah , un arbre .
-16102un instant                    1n 5s-t@                      viens voir un instant *
+16102un instant                    1n 5s-t@                      viens voir un instant #
 16109on a                          §n a                          ou bien on a le
-16111on arrive                     §n a-Riv                      si on arrive * il faudrait
+16111on arrive                     §n a-Riv                      si on arrive # il faudrait
 16117son épée                      s§n e-pe                      faire avec son épée ?
 16172tout à                        tut a                         merci , tout à l'
 16174on en                         §n @                          viens , on en était ici
 16174en était                      @n e-tE                       , on en était ici
-16201petit ahuri                   p°-tit a-y-Ri                 * mon petit ahuri .
+16201petit ahuri                   p°-tit a-y-Ri                 # mon petit ahuri .
 16253un étoffe                     1n e-tOf                      et pas un étoffe ou
 16254en allemand                   @n al-m@                      tu parlais en allemand ,
 16262en avoir                      @n a-vwaR                     pas y en avoir puisqu'
@@ -1506,7 +1506,7 @@
 16851en alternant                  @n al-tER-n@                  chaque narine en alternant ,
 16864on a                          §n a                          comment on a fait ?
 16874dans une                      d@z yn                        dans une boîte .
-16882vous intéresserait            vuz 5-te-RE-sRE               * qui vous intéresserait ?
+16882vous intéresserait            vuz 5-te-RE-sRE               # qui vous intéresserait ?
 16893vas y                         vaz i                         vas y , compte les ,
 16913tout à                        tut a                         te montrerai tout à l'
 16914on appuie                     §n a-p8i                      on appuie sur deux boutons .
@@ -1579,7 +1579,7 @@
 17733en a                          @n a                          qu' y en a de
 17735très astucieux                tREz as-ty-sj2                très astucieux ça .
 17750on arrête                     §n a-REt                      dès qu' on arrête les antibiotiques
-17750les antibiotiques             lez @-ti-bjo-tik              on arrête les antibiotiques *
+17750les antibiotiques             lez @-ti-bjo-tik              on arrête les antibiotiques #
 17751nous a                        nuz a                         qu' il nous a dit
 17771dans un                       d@z 1                         dans un livre ?
 17801ces enfants                   sez @-f@                      là tous ces enfants ?
@@ -1647,7 +1647,7 @@
 18500en as                         @n a                          t' en as honte .
 18501en est                        @n e                          on s' en est aperçu tout
 18515en a                          @n a                          alors y en a deux
-18532on est                        §n e                          sales * on est en
+18532on est                        §n e                          sales # on est en
 18533un an                         1n @                          a eu un an pendant
 18534un an                         1n @                          a eu un an et
 18545son anniversaire              s§n a-ni-vER-sER              offert pour son anniversaire à
@@ -1674,13 +1674,13 @@
 18888en a                          @n a                          combien y en a ?
 18889en a                          @n a                          combien y en a là maintenant
 18890en as                         @n a                          tu m' en as donné
-18890en a                          @n a                          * y en a plus
+18890en a                          @n a                          # y en a plus
 18911les entiers                   lez @-tje                     ben porte les entiers .
 18914les entiers                   lez @-tje                     ben apporte les entiers .
 18916les apporter                  lez a-pOR-te                  veux pas les apporter entiers
 18924les agrafes                   lez a-gRaf                    tu les agrafes ?
 18930en a                          @n a                          si y en a .
-18934les autres                    lez otR                       tout , les autres *
+18934les autres                    lez otR                       tout , les autres #
 18941les agrafes                   lez a-gRaf                    alors tu les agrafes maintenant ?
 18942les agrafes                   lez a-gRaf                    tu les agrafes ?
 18977des arbres                    dez aRbR                      il coupe des arbres pour
@@ -1737,8 +1737,8 @@
 19796sacrés exercices              sa-kRez Eg-zER-sis            fais des sacrés exercices !
 19816en as                         @n a                          que tu en as vu
 19825en occupe                     @n o-kyp                      qui s' en occupe de
-19844dix heures                    diz 9R                        être à dix heures *
-19846dix heures                    diz 9R                        être à dix heures *
+19844dix heures                    diz 9R                        être à dix heures #
+19846dix heures                    diz 9R                        être à dix heures #
 19851vous étiez                    vuz e-tje                     dit que vous étiez dingues
 19858plus eu                       plyz y                        y a plus eu un
 19868mon opinion                   m§n o-pi-nj§                  mon opinion n' est pas faite
@@ -1850,10 +1850,10 @@
 20726ils étaient                   ilz e-tE                      , mais ils étaient enfermés
 20726les ours                      lez uRs                       étaient enfermés les ours ,
 20728les ours                      lez uRs                       pierre entre les ours et
-20731ils adorent                   ilz a-dOR                     ils adorent être caressés * .
+20731ils adorent                   ilz a-dOR                     ils adorent être caressés # .
 20735quand on                      k@t §                         tiens , quand on était aux
 20735on était                      §n e-tE                       , quand on était aux
-20744on en                         §n @                          on en voit comme ça *
+20744on en                         §n @                          on en voit comme ça #
 20749ils adorent                   ilz a-dOR                     et ils adorent être caressés .
 20750ils adorent                   ilz a-dOR                     barreaux et ils adorent se
 20757on a                          §n a                          on a aussi appris à écrire
@@ -1895,7 +1895,7 @@
 21241mêmes allumettes              mEmz a-ly-mEt                 est les mêmes allumettes que
 21244mêmes allumettes              mEmz a-ly-mEt                 est les mêmes allumettes que
 21252elles ont                     Elz §                         est-ce qu' elles ont d'
-21254en avait                      @n a-vE                       * il en avait un y
+21254en avait                      @n a-vE                       # il en avait un y
 21254un y                          1n i                          en avait un y a
 21262tout à                        tut a                         si , tout à l' heure
 21299des allumettes                dez a-ly-mEt                  joue avec des allumettes ,
@@ -1909,7 +1909,7 @@
 21403les enfants                   lez @-f@                      est prêt les enfants .
 21424des allumettes                dez a-ly-mEt                  vais chercher des allumettes .
 21427un allume                     1n a-lym                      il a un allume gaz
-21442vas y                         vaz i                         * vas y .
+21442vas y                         vaz i                         # vas y .
 21455quand on                      k@t §                         poussin , quand on te
 21463dans une                      d@z yn                        te mets dans une école
 21463on apprend                    §n a-pR@                      école où on apprend aux
@@ -1919,7 +1919,7 @@
 21480dans un                       d@z 1                         , mais dans un autre
 21480un autre                      1n otR                        mais dans un autre cinéma
 21490son expérience                s§n Ek-spe-Rj@s               vrai que son expérience étant
-21492des autres                    dez otR                       * des autres films .
+21492des autres                    dez otR                       # des autres films .
 21493un autre                      1n otR                        c' est un autre film
 21494un autre                      1n otR                        c' est un autre ,
 21501on est                        §n e                          parce qu' on est arrivés

@@ -17,7 +17,7 @@
 22 pas encore                     il a pas encore bien
 22 plutôt ouvrir                 c' est plutôt ouvrir .
 25 serait effectivement           enfin ce serait effectivement plutôt dans
-28 non il                         * , non il voit
+28 non il                         # , non il voit
 28 sinon il                       là , sinon il y
 36 fait il                        en fait il est compliqué ce
 37 est à                         ça c' est à victor
@@ -258,7 +258,7 @@
 1083 vas abîmer                    , tu vas abîmer le
 1103 chaussons à                   sont les chaussons à grégoire
 1131 dort un                        on dort un petit peu ?
-1138 est important                  oh c' est important * .
+1138 est important                  oh c' est important # .
 1140 liaison avec                   en liaison avec la poussée dentaire
 1148 est une                        c' est une fleur .
 1152 et où                         et où est le crocodile ?
@@ -303,7 +303,7 @@
 1297 endroits où                   montrer les endroits où la
 1297 maison est                     où la maison est complètement
 1298 pas un                         c' est pas un film
-1301 et on                          le * et on le
+1301 et on                          le # et on le
 1301 voit apparaître               on le voit apparaître quelques
 1309 est à                         c' est à grégoire ?
 1310 est une                        c' est une voiture à grégoire

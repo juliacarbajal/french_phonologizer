@@ -41,7 +41,7 @@
 25     l' usage                      ly-zaZ                       plutôt dans l' usage ,
 25     bon usage                     bO ny-zaZ                     dans le bon usage .
 26     c' est                        se                           ouais c' est plutôt .
-28     c' est                        se                           ça c' est * , non
+28     c' est                        se                           ça c' est # , non
 28     il y                          i li                          , sinon il y a
 28     l' intéresserait              l5-te-RE-sRE                 scène qui l' intéresserait .
 29     qu' est-ce                    kEs                          alors qu' est-ce que tu fais
@@ -528,7 +528,7 @@
 561    Victor est                    vik-tO Re                     et Victor est dans les bras
 569    c' est                        se                           parce que c' est dangereux
 570    c' est                        se                           afe , c' est .
-571    c' est                        se                           oui , c' est * .
+571    c' est                        se                           oui , c' est # .
 573    c' est                        se                           bien que c' est la
 576    n' as                         na                           que tu n' as pas
 578    t' asseoir                    ta-swaR                      le canapé t' asseoir !
@@ -689,7 +689,7 @@
 870    crocodile a                   kRo-ko-di la                  le crocodile a aussi des dents
 871    l' ou(rs)                     l#                           dents comme l' ou(rs) .
 878    il est                        i le                          tu vois il est caché sous
-879    faire un                      fE R1                         * va faire un joli dodo
+879    faire un                      fE R1                         # va faire un joli dodo
 879    tout est                      tu te                         ça , tout est tranquille
 887    fermes ou                     fER mu                        tu fermes ou tu tournes ?
 888    toujours au                   tu-Zu Ro                      on retourne toujours au connu .
@@ -798,7 +798,7 @@
 1115   vas y                         va zi                         allez , vas y .
 1116   l' enfiles                    l@-fil                       tu l' enfiles , mon chausson
 1121   c' est                        se                           c' est le gros lion qui
-1122   l' oreille                    lo-REj                       * moi l' oreille .
+1122   l' oreille                    lo-REj                       # moi l' oreille .
 1125   l' autre                      lotR                         l' autre .
 1127   d' oreilles                   do-REj                       as plus d' oreilles ?
 1130   c' est                        se                           oh mais c' est pas si
@@ -808,7 +808,7 @@
 1134   il est                        i le                          il est là le crocodile .
 1135   il est                        i le                          il est là le crocodile !
 1137   regarde encore                R°-gaR d@-kOR                 on le regarde encore ?
-1138   c' est                        se                           oh c' est important * .
+1138   c' est                        se                           oh c' est important # .
 1142   qu' il                        kil                          où est-ce qu' il est le
 1142   il est                        ki le                         est-ce qu' il est le
 1144   c' est                        se                           c' est très joli !
@@ -3406,7 +3406,7 @@
 4335   l' a                          la                           qui te l' a offert
 4336   l' a                          la                           qui te l' a rapporté
 4338   c' est                        se                           c' est Colline .
-4339   il est                        i le                          * il est beau , tu
+4339   il est                        i le                          # il est beau , tu
 4344   il a                          i la                          il a même dépassé le stade
 4344   j' ai                         ZE                           stade de j' ai pris
 4344   qu' il                        kil                          pris , qu' il a
@@ -3855,7 +3855,7 @@
 4760   qu' il                        kil                          des teignes qu' il lançait
 4762   c' est                        se                           et ça c' est le descente
 4762   descente entre                de-s@ t@t                     est le descente entre le
-4762   s' appelle                    sa-pEl                       puisque ça s' appelle *
+4762   s' appelle                    sa-pEl                       puisque ça s' appelle #
 4763   d' accord                     da-kOR                       d' accord .
 4765   c' était                      se-tE                        alors c' était la promenade .
 4768   c' est                        se                           c' est la promenade hein .

@@ -73,7 +73,7 @@
 444 coup et                        boire un coup et après
 444 et après                      un coup et après on
 444 après on                      coup et après on t'
-444 fait un                        on t' fait un *
+444 fait un                        on t' fait un #
 449 bib(e)ron il                   le bib(e)ron il est tombé !
 451 biberon est                    le biberon est tombé par terre
 456 filmes encore                  tu filmes encore combien de temps
@@ -147,199 +147,199 @@
 712 est où                        bouton il est où ?
 717 bouton adrien                  a un bouton adrien !
 721 donnes à                      tu donnes à papa ?
-729 est où                        il est où doudou ?
-731 est où                        , il est où doudou
-736 donner à                      viens le donner à papa
-740 comment il                     comment il s' appelle ?
-741 comment il                     comment il s' appelle adrien ?
-746 tiens attends                  tiens attends non non non ,
-748 lit adrien                     dans le lit adrien !
-751 peignes adrien                 tu te peignes adrien ?
-757 non elle                       maman non non elle a pas
-763 maman adrien                   maman adrien ?
-764 est où                        elle est où maman ?
-767 non il                         non il est là brr oui
-769 comment elle                   la vache comment elle fait
-772 comment il                     comment il fait le cheval adrien
-774 comment adrien                 elle fait comment adrien ?
-776 attends on                     attends on va le voir .
-777 lapin il                       oui le lapin il fait y
-777 fait y                         lapin il fait y y
-779 lapin oui                      est le lapin oui c'
-780 comment il                     et ça comment il fait ?
-781 non il                         non non non il fait bêêbêê
-783 attends attends                attends attends tends tends .
-784 comment ils                    comment ils font bêê !
-786 cochon il                      le cochon il fait * attends
-786 attends oh                     fait * attends oh !
-787 comment elle                   tu sais comment elle fait
-787 fait attends                   comment elle fait attends regarde
-788 adrien ah                      regarde adrien ah comment il fait
-788 comment il                     adrien ah comment il fait
-789 dis adrien                     tu dis adrien comment il fait
-789 comment il                     dis adrien comment il fait
-789 fait hue                       comment il fait hue ?
-790 et et                          oui , et et le et
-791 han hi                         âne hi han hi han
-792 hein adrien                    hein adrien tu dis hi han
-792 dis hi                         adrien tu dis hi han
-793 comment il                     comment il fait l' âne ?
-795 non il                         non il fait meuh !
-798 est à                         hé c' est à toi de
-798 toujours à                    est pas toujours à papa
-799 est à                         c' est à toi de faire
-800 comment il                     comment il fait l' âne adri(en)
-800 han hi                         âne hi han hi .
-802 cacher adrien                  vas te cacher adrien ?
-803 est où                        il est où adrien ?
-805 est où                        il est où adrien ?
-806 est où                        il est où , il est
-806 est où                        , il est où adrien
-812 adrien il                      adrien caché adrien il est
-812 est où                        adrien il est où adrien
-815 lit adrien                     dans le lit adrien !
-818 attends adrien                 attends adrien si tu veux jouer
-818 jouer avec                     tu veux jouer avec ça
-819 non on                         non non non on n'
-819 tout on                        enlève pas tout on va
-820 non adrien                     non adrien !
-821 tiens adrien                   tiens adrien !
-823 jouer avec                     va jouer avec ça adrien !
-825 joues avec                     joues tu joues avec ça
-826 mais oui                       mais oui adrien tiens !
-830 et enlève                     et enlève doudou !
-831 lit adrien                     dans le lit adrien !
-850 propres au                     les pieds propres au moins
-851 ben il                         ben il s' en fout !
-852 est où                        doudou il est où ,
-858 est intelligent                ah c' est intelligent elsa .
-858 intelligent elsa               c' est intelligent elsa .
-861 récupérer elsa               la , récupérer elsa !
-862 comment il                     mais comment il arrivera à la
-863 maman elle                     bon ben maman elle va jouer
-863 jouer alors                    elle va jouer alors ,
-872 maman elle                     non non maman elle donne
-873 maman on                       gâté avec maman on fait
-873 mais on                        tu veux mais on fait
-877 attention ouh                  là là attention ouh là
-877 attention adrien               là là attention adrien ouh
-877 adrien ouh                     là attention adrien ouh là
-877 attention adrien               là là attention adrien ouh
-877 adrien ouh                     là attention adrien ouh là
-880 fais adrien                    comment tu fais adrien tu montres
-881 comment il                     comment il fait papa , il
-885 non hein                       bien dire non hein !
-889 ouais ouais                    comme tu ouais ouais !
-890 est où                        il est où ton ballon ?
-896 coup hop                       donne un coup hop !
-900 non elsa                       c' est non elsa !
-901 alors adrien                   ou alors adrien si on prend
+728 est où                        il est où doudou ?
+730 est où                        , il est où doudou
+735 donner à                      viens le donner à papa
+739 comment il                     comment il s' appelle ?
+740 comment il                     comment il s' appelle adrien ?
+745 tiens attends                  tiens attends non non non ,
+747 lit adrien                     dans le lit adrien !
+750 peignes adrien                 tu te peignes adrien ?
+756 non elle                       maman non non elle a pas
+762 maman adrien                   maman adrien ?
+763 est où                        elle est où maman ?
+766 non il                         non il est là brr oui
+768 comment elle                   la vache comment elle fait
+771 comment il                     comment il fait le cheval adrien
+773 comment adrien                 elle fait comment adrien ?
+775 attends on                     attends on va le voir .
+776 lapin il                       oui le lapin il fait y
+776 fait y                         lapin il fait y y
+778 lapin oui                      est le lapin oui c'
+779 comment il                     et ça comment il fait ?
+780 non il                         non non non il fait bêêbêê
+782 attends attends                attends attends tends tends .
+783 comment ils                    comment ils font bêê !
+785 cochon il                      le cochon il fait # attends
+785 attends oh                     fait # attends oh !
+786 comment elle                   tu sais comment elle fait
+786 fait attends                   comment elle fait attends regarde
+787 adrien ah                      regarde adrien ah comment il fait
+787 comment il                     adrien ah comment il fait
+788 dis adrien                     tu dis adrien comment il fait
+788 comment il                     dis adrien comment il fait
+788 fait hue                       comment il fait hue ?
+789 et et                          oui , et et le et
+790 han hi                         âne hi han hi han
+791 hein adrien                    hein adrien tu dis hi han
+791 dis hi                         adrien tu dis hi han
+792 comment il                     comment il fait l' âne ?
+794 non il                         non il fait meuh !
+797 est à                         hé c' est à toi de
+797 toujours à                    est pas toujours à papa
+798 est à                         c' est à toi de faire
+799 comment il                     comment il fait l' âne adri(en)
+799 han hi                         âne hi han hi .
+801 cacher adrien                  vas te cacher adrien ?
+802 est où                        il est où adrien ?
+804 est où                        il est où adrien ?
+805 est où                        il est où , il est
+805 est où                        , il est où adrien
+811 adrien il                      adrien caché adrien il est
+811 est où                        adrien il est où adrien
+814 lit adrien                     dans le lit adrien !
+817 attends adrien                 attends adrien si tu veux jouer
+817 jouer avec                     tu veux jouer avec ça
+818 non on                         non non non on n'
+818 tout on                        enlève pas tout on va
+819 non adrien                     non adrien !
+820 tiens adrien                   tiens adrien !
+822 jouer avec                     va jouer avec ça adrien !
+824 joues avec                     joues tu joues avec ça
+825 mais oui                       mais oui adrien tiens !
+829 et enlève                     et enlève doudou !
+830 lit adrien                     dans le lit adrien !
+849 propres au                     les pieds propres au moins
+850 ben il                         ben il s' en fout !
+851 est où                        doudou il est où ,
+857 est intelligent                ah c' est intelligent elsa .
+857 intelligent elsa               c' est intelligent elsa .
+860 récupérer elsa               la , récupérer elsa !
+861 comment il                     mais comment il arrivera à la
+862 maman elle                     bon ben maman elle va jouer
+862 jouer alors                    elle va jouer alors ,
+871 maman elle                     non non maman elle donne
+872 maman on                       gâté avec maman on fait
+872 mais on                        tu veux mais on fait
+876 attention ouh                  là là attention ouh là
+876 attention adrien               là là attention adrien ouh
+876 adrien ouh                     là attention adrien ouh là
+876 attention adrien               là là attention adrien ouh
+876 adrien ouh                     là attention adrien ouh là
+879 fais adrien                    comment tu fais adrien tu montres
+880 comment il                     comment il fait papa , il
+884 non hein                       bien dire non hein !
+888 ouais ouais                    comme tu ouais ouais !
+889 est où                        il est où ton ballon ?
+895 coup hop                       donne un coup hop !
+899 non elsa                       c' est non elsa !
+900 alors adrien                   ou alors adrien si on prend
+901 veux aller                     tu veux aller faire dodo ?
 902 veux aller                     tu veux aller faire dodo ?
-903 veux aller                     tu veux aller faire dodo ?
-904 aurais un                      t' aurais un mouchoir sur toi
-905 veux aller                     tu veux aller faire dodo ?
-914 non hé                        non hé c' est moi qui
-919 non adrien                     non adrien doudou seulement !
-922 non elsa                       non elsa elsa mais arrête !
-922 mais arrête                   elsa elsa mais arrête !
-923 allez avec                     allez avec le vaccin mais arrête
-923 mais arrête                   le vaccin mais arrête un
-926 parler enfin                   pas beaucoup parler enfin *
-927 hein elsa                      hein elsa c' est nul il
-928 mais oui                       mais oui mais s' il pleure
-932 adrien où                     adrien où est-ce que tu te
-935 fois elsa                      caché dix fois elsa !
-944 as envie                       t' as envie de faire pipi
-946 veux aller                     tu veux aller sur le pot
-948 non enfin                      ben non enfin si mais ça
-953 non adrien                     non adrien non !
-959 continues à                   si tu continues à pas
-959 pas être                      continues à pas être sage
-961 adrien on                      par terre adrien on remet
-962 attention attention            est fini attention attention si
-965 apportes on                    me l' apportes on va
-968 affaires alors                 tomber les affaires alors .
-969 ben adrien                     ah ben adrien papa il t'
-969 viens on                       t' a viens on va
-969 viens on                       va manger viens on va
-970 non et                         non non non et ben
-970 ben écoute                    non et ben écoute fais
-973 viens on                       viens on va manger , tiens
-977 viens allez                    viens allez viens manger !
-981 allez adrien                   allez adrien tu viens on va
-981 viens on                       adrien tu viens on va
-982 viens on                       adrien tu viens on manger regarde
-983 maman elle                     viens maman elle a de l'
-989 viens on                       allez viens on va manger !
-992 maman elle                     maman elle t' a rien fait
-992 fait alors                     a rien fait alors tu
-995 viens on                       viens on va manger !
-996 viens on                       viens on va manger adrien !
-996 manger adrien                  on va manger adrien !
-997 maman elle                     viens maman elle va te donner
-997 donner un                      va te donner un bout
-997 pain on                        bout de pain on va
-999 viens on                       tu viens on va manger ?
-1003 maman elle                     tiens regarde maman elle le met
-1006 pain il                        bout de pain il est
-1009 pain il                        bout de pain il est
-1018 pain il                        bout de pain il est
-1024 moment il                      d' un moment il mange
-1026 viens on                       allez viens on va manger !
-1027 fais adrien                    comment tu fais adrien comme
-1033 pain et                        au pain et à l' eau
-1033 et à                          au pain et à l' eau
-1034 manges autre                   que tu manges autre chose
-1034 maman elle                     chose , maman elle ,
-1034 viens on                       d' avocat viens on va
-1037 viens on                       allez viens on va aller manger
-1038 viens on                       allez viens on va manger !
-1039 allez adrien                   allez adrien nous on va manger
-1039 nous on                        allez adrien nous on va manger
-1040 manger adrien                  tu viens manger adrien ?
-1042 tiens adrien                   tiens adrien !
-1047 est en                         il est en train de manger
-1048 est en                         qu' il est en train
-1051 manger elsa                    donne-lui à manger elsa je
-1052 allez on                       hop là allez on se met
-1052 dedans et                      se met dedans et on
-1052 et on                          met dedans et on va
-1053 toujours ou                    t' entend toujours ou pas
-1062 mets au                        je le mets au même endroit
-1062 endroit elsa                   au même endroit elsa les
-1064 mets au                        je le mets au même endroit
-1064 endroit elsa                   au même endroit elsa le
-1067 peux y                         regardes tu peux y faire
-1068 chauffer une                   me faire chauffer une assiette
-1069 deux en                        mettre les deux en même
-1069 temps elsa                     en même temps elsa !
-1073 ben ouais                      ben ouais !
-1076 et au                          et au micro ondes tu peux
-1076 crois aussi                    faire je crois aussi !
-1077 prends un                      tu prends un apéro naomi ?
-1078 accompagnes ou                 tu m' accompagnes ou .
-1079 ouais ouais                    ouais ouais .
-1084 vin ouvert                     as du vin ouvert je
-1089 mais il                        de bouteille mais il paraît
-1089 paraît elle                   mais il paraît elle est
-1089 est un                         paraît elle est un peu
-1097 est on                         ça y est on a
-1097 tiens est-ce                   avocat , tiens est-ce que
-1098 essuyer un                     juste essuyer un peu la bouche
-1104 mets à                        mon chéri mets à la
-1105 mets à                        tiens tu mets à la bouche
-1107 entends ou                     tu l' entends ou pas c'
-1108 ouais ouais                    ouais ouais franchement super !
-1110 pas en                         il va pas en vouloir
-1119 chaud elle                     est pas chaud elle est
-1119 pas allumée                   elle est pas allumée la
-1123 fort il                        c' est fort il faut
-1133 maman oui                      maman oui !
-1139 as assez                       biberon t' as assez bu
-1144 chaud attention                c' est chaud attention !
-1146 est un                         que c' est un volant
-1151 est un                         que c' est un volant
-1154 maman elle                     ah maman elle a taché ?
-1155 maman elle                     ah maman elle a fait une
-1155 fait une                       elle a fait une tache
-1161 dedans eau                     l' eau dedans eau !
+903 aurais un                      t' aurais un mouchoir sur toi
+904 veux aller                     tu veux aller faire dodo ?
+913 non hé                        non hé c' est moi qui
+918 non adrien                     non adrien doudou seulement !
+921 non elsa                       non elsa elsa mais arrête !
+921 mais arrête                   elsa elsa mais arrête !
+922 allez avec                     allez avec le vaccin mais arrête
+922 mais arrête                   le vaccin mais arrête un
+925 parler enfin                   pas beaucoup parler enfin #
+926 hein elsa                      hein elsa c' est nul il
+927 mais oui                       mais oui mais s' il pleure
+931 adrien où                     adrien où est-ce que tu te
+934 fois elsa                      caché dix fois elsa !
+943 as envie                       t' as envie de faire pipi
+945 veux aller                     tu veux aller sur le pot
+947 non enfin                      ben non enfin si mais ça
+952 non adrien                     non adrien non !
+958 continues à                   si tu continues à pas
+958 pas être                      continues à pas être sage
+960 adrien on                      par terre adrien on remet
+961 attention attention            est fini attention attention si
+964 apportes on                    me l' apportes on va
+967 affaires alors                 tomber les affaires alors .
+968 ben adrien                     ah ben adrien papa il t'
+968 viens on                       t' a viens on va
+968 viens on                       va manger viens on va
+969 non et                         non non non et ben
+969 ben écoute                    non et ben écoute fais
+972 viens on                       viens on va manger , tiens
+976 viens allez                    viens allez viens manger !
+980 allez adrien                   allez adrien tu viens on va
+980 viens on                       adrien tu viens on va
+981 viens on                       adrien tu viens on manger regarde
+982 maman elle                     viens maman elle a de l'
+988 viens on                       allez viens on va manger !
+991 maman elle                     maman elle t' a rien fait
+991 fait alors                     a rien fait alors tu
+994 viens on                       viens on va manger !
+995 viens on                       viens on va manger adrien !
+995 manger adrien                  on va manger adrien !
+996 maman elle                     viens maman elle va te donner
+996 donner un                      va te donner un bout
+996 pain on                        bout de pain on va
+998 viens on                       tu viens on va manger ?
+1002 maman elle                     tiens regarde maman elle le met
+1005 pain il                        bout de pain il est
+1008 pain il                        bout de pain il est
+1017 pain il                        bout de pain il est
+1023 moment il                      d' un moment il mange
+1025 viens on                       allez viens on va manger !
+1026 fais adrien                    comment tu fais adrien comme
+1032 pain et                        au pain et à l' eau
+1032 et à                          au pain et à l' eau
+1033 manges autre                   que tu manges autre chose
+1033 maman elle                     chose , maman elle ,
+1033 viens on                       d' avocat viens on va
+1036 viens on                       allez viens on va aller manger
+1037 viens on                       allez viens on va manger !
+1038 allez adrien                   allez adrien nous on va manger
+1038 nous on                        allez adrien nous on va manger
+1039 manger adrien                  tu viens manger adrien ?
+1041 tiens adrien                   tiens adrien !
+1046 est en                         il est en train de manger
+1047 est en                         qu' il est en train
+1050 manger elsa                    donne-lui à manger elsa je
+1051 allez on                       hop là allez on se met
+1051 dedans et                      se met dedans et on
+1051 et on                          met dedans et on va
+1052 toujours ou                    t' entend toujours ou pas
+1061 mets au                        je le mets au même endroit
+1061 endroit elsa                   au même endroit elsa les
+1063 mets au                        je le mets au même endroit
+1063 endroit elsa                   au même endroit elsa le
+1066 peux y                         regardes tu peux y faire
+1067 chauffer une                   me faire chauffer une assiette
+1068 deux en                        mettre les deux en même
+1068 temps elsa                     en même temps elsa !
+1072 ben ouais                      ben ouais !
+1075 et au                          et au micro ondes tu peux
+1075 crois aussi                    faire je crois aussi !
+1076 prends un                      tu prends un apéro naomi ?
+1077 accompagnes ou                 tu m' accompagnes ou .
+1078 ouais ouais                    ouais ouais .
+1083 vin ouvert                     as du vin ouvert je
+1088 mais il                        de bouteille mais il paraît
+1088 paraît elle                   mais il paraît elle est
+1088 est un                         paraît elle est un peu
+1096 est on                         ça y est on a
+1096 tiens est-ce                   avocat , tiens est-ce que
+1097 essuyer un                     juste essuyer un peu la bouche
+1103 mets à                        mon chéri mets à la
+1104 mets à                        tiens tu mets à la bouche
+1106 entends ou                     tu l' entends ou pas c'
+1107 ouais ouais                    ouais ouais franchement super !
+1109 pas en                         il va pas en vouloir
+1118 chaud elle                     est pas chaud elle est
+1118 pas allumée                   elle est pas allumée la
+1122 fort il                        c' est fort il faut
+1132 maman oui                      maman oui !
+1138 as assez                       biberon t' as assez bu
+1143 chaud attention                c' est chaud attention !
+1145 est un                         que c' est un volant
+1150 est un                         que c' est un volant
+1153 maman elle                     ah maman elle a taché ?
+1154 maman elle                     ah maman elle a fait une
+1154 fait une                       elle a fait une tache
+1160 dedans eau                     l' eau dedans eau !

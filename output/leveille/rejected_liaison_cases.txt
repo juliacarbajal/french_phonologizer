@@ -13,7 +13,7 @@
 52 chercher et                    allé en chercher et tu
 53 chercher une                   tu vas chercher une de tes
 66 peux aller                     tu peux aller voir .
-67 peux aller                     tu peux aller voir * .
+67 peux aller                     tu peux aller voir # .
 89 et une                         une petite et une grosse
 113 es allé                       ce tu es allé chercher
 119 fait à                        t' as fait à l'
@@ -28,7 +28,7 @@
 166 pas avec                       on joue pas avec assis
 168 est une                        , c' est une boîte
 188 commissions aussi              , les commissions aussi ?
-189 commissions aussi              * les commissions aussi ?
+189 commissions aussi              # les commissions aussi ?
 203 est avec                       c' est avec claire que tu
 204 pas une                        c' était pas une raquette
 204 était une                     , c' était une guitare
@@ -44,9 +44,9 @@
 232 bien alignés                  sont pas bien alignés tes
 240 est une                        c' est une peau de bête
 254 est arrivé                    il leur est arrivé aux
-266 allez hop                      boutons * allez hop *
+266 allez hop                      boutons # allez hop #
 272 veux un                        tu veux un verre ?
-281 es assoiffé                   * tu es assoiffé , mon
+281 es assoiffé                   # tu es assoiffé , mon
 287 mets encore                    je te mets encore de l'
 288 veux encore                    t' en veux encore ?
 303 mais on                        la soupe mais on boit
@@ -161,7 +161,7 @@
 908 appellent isabelle             garçons s' appellent isabelle .
 910 est isabelle                   qui est isabelle ?
 916 plutôt à                     ça ressemble plutôt à un escalier
-918 croissant à                   * un croissant à une échelle
+918 croissant à                   # un croissant à une échelle
 924 comment il                     comment il s' appelle ?
 925 comment il                     comment il s' appelle ce doigt
 931 as oublié                     tu l' as oublié celui là
@@ -206,8 +206,8 @@
 1052 rien à                        tu as rien à faire
 1068 viens ici                      tu viens ici , ma puce
 1085 rapport à                     par rapport à l' autre ?
-1088 aller à                       barbe d' aller à *
-1088 rouler en                      manteau * rouler en vélo
+1088 aller à                       barbe d' aller à #
+1088 rouler en                      manteau # rouler en vélo
 1106 est un                         , c' est un bouton
 1113 alors après                   perds , alors après je
 1113 plus où                       je saurai plus où elle
@@ -247,7 +247,7 @@
 1313 embêter encore                vais t' embêter encore ,
 1321 est un                         c' est un tambour ?
 1322 est un                         ben c' est un peu
-1325 pas assez                      tu tournes pas assez fort *
+1325 pas assez                      tu tournes pas assez fort #
 1326 pas avec                       tu joues pas avec les
 1335 nager ici                      le faire nager ici ,
 1343 clef assez                     tourné la clef assez longtemps
@@ -259,7 +259,7 @@
 1356 jouer à                       parti pour jouer à la
 1362 viens à                       tu viens à la halle aux
 1362 vins ou                        halle aux vins ou directement
-1362 directement à                 vins ou directement à *
+1362 directement à                 vins ou directement à #
 1363 vas en                         tu y vas en voiture ,
 1365 pas à                         me vois pas à sept
 1380 pas une                        c' est pas une voiture ,
@@ -277,7 +277,7 @@
 1443 faut un                        il en faut un autre
 1449 mis un                         t' ai mis un sucre
 1461 fait attention                 as pas fait attention ,
-1467 as une                         t' en as une * ,
+1467 as une                         t' en as une # ,
 1483 croissant en                   peu de croissant en attendant
 1485 pendant une                    souffle dessus pendant une heure
 1494 manger un                      veux pas manger un peu
@@ -333,7 +333,7 @@
 1731 pas évident                   c' est pas évident , non
 1732 morceaux épars                vu des morceaux épars par
 1741 étais aussi                   que tu étais aussi crasseux
-1744 mains aussi                    * les mains aussi , mon
+1744 mains aussi                    # les mains aussi , mon
 1766 viens ici                      puce , viens ici .
 1775 pas un                         y a pas un crayon
 1781 demander à                    tu vas demander à marc de
@@ -362,14 +362,14 @@
 1934 bon à                         plus être bon à grand
 1944 met un                         qu' on met un petit
 1951 pas envie                      tu as pas envie d' emporter
-1960 vais y                         je vais y aller * .
+1960 vais y                         je vais y aller # .
 1967 pas en                         c' est pas en écoutant
 2001 est une                        ça c' est une réussite .
 2002 mais où                       mais où est-ce que je vais
 2027 as enlevé                     t' as enlevé ta montre ,
 2028 as enlevée                    tu l' as enlevée ?
 2033 en une                         donne m' en une .
-2040 doit être                     * il doit être un peu
+2040 doit être                     # il doit être un peu
 2043 bien enrhumé                  tu es bien enrhumé mon pauvre
 2064 dit emmener                    il a dit emmener philippe ?
 2068 pas encore                     en vais pas encore .
@@ -415,7 +415,7 @@
 2304 puis après                    et puis après elle .
 2304 après elle                    et puis après elle .
 2305 est arrivé                    il lui est arrivé ?
-2306 est arrivé                    est-ce qui est arrivé *
+2306 est arrivé                    est-ce qui est arrivé #
 2316 pas idée                      n' a pas idée de
 2317 fait avec                      tu as fait avec ta
 2324 avez eu                        vous avez eu beau temps ?
@@ -433,12 +433,12 @@
 2365 fond on                        qu' au fond on n'
 2365 chocolat à                    moi le chocolat à la
 2371 rien à                        je comprends rien à ce que
-2374 mais oblige                    mais * mais oblige le à
+2374 mais oblige                    mais # mais oblige le à
 2380 ben il                         ben il a fourré sa main
 2389 doit aller                     est-ce qui doit aller par
 2403 as oublié                     tu as oublié ?
 2405 était à                      elle était à l' envers la
-2409 yeux au                        * les yeux au loin ,
+2409 yeux au                        # les yeux au loin ,
 2409 pas un                         vagues , pas un mot
 2421 veux ou                        tu le veux ou tu le
 2422 en un                          laisse m' en un bout
@@ -448,14 +448,14 @@
 2434 secrétariat et                dans le secrétariat et y
 2434 et y                           le secrétariat et y a
 2435 puis il                        approche et puis il dit
-2436 regardés avec                 s' est regardés avec *
-2436 alors on                       avec * alors on a
+2436 regardés avec                 s' est regardés avec #
+2436 alors on                       avec # alors on a
 2437 souvenait absolument           on se souvenait absolument pas .
 2439 entraînement auquel           avec l' entraînement auquel le
 2444 mieux y                        ça allait mieux y a
 2445 faut entretenir                , il faut entretenir ,
-2448 avait appris                   * lui avait appris le
-2448 et un                          * géologie et un jour
+2448 avait appris                   # lui avait appris le
+2448 et un                          # géologie et un jour
 2462 mais elle                      mais elle est propre , la
 2466 couler un                      fais couler un peu , ça
 2466 doit être                     , ça doit être chaud
@@ -471,7 +471,7 @@
 2494 pas elle                       c' est pas elle qui l'
 2503 manger aussi                   fini de manger aussi ?
 2508 fais un                        tu fais un peu des bêtises
-2521 es assez                       tu es assez grand pour *
+2521 es assez                       tu es assez grand pour #
 2524 pas une                        t' as pas une brosse ?
 2533 exagères un                   tu exagères un peu là .
 2535 as un                          , tu as un livre
@@ -487,13 +487,13 @@
 2584 aller en                       on va aller en voiture .
 2590 as une                         tu as une idée de l'
 2590 dont on                        de grandeur dont on a
-2596 pas une                        c' est pas une * du
+2596 pas une                        c' est pas une # du
 2596 est un                         , c' est un excellent
 2596 excellent appareil             est un excellent appareil .
 2609 pendant un                     t' aller pendant un mois
 2609 mois au                        pendant un mois au maximum
 2639 rien à                        y a rien à faire !
-2641 photos et                      * deux photos et le flash
+2641 photos et                      # deux photos et le flash
 2643 premier a                      si le premier a marché
 2650 doit être                     non ça doit être le ,
 2650 doit y                         , il doit y avoir
@@ -534,7 +534,7 @@
 2765 comment on                     comment on appelle ça ?
 2766 comment on                     janou , comment on appelle ça
 2785 attention au                   attention au fil , non ,
-2785 nez avec                       lever * nez avec la
+2785 nez avec                       lever # nez avec la
 2833 salement encore                le renverse salement encore !
 2843 pas acheté                    en as pas acheté ?
 2861 demanderas à                  tu demanderas à maman quand elle
@@ -560,7 +560,7 @@
 2979 vais y                         moi je vais y aller
 2983 pas attendre                   tu peux pas attendre un peu
 2984 mais il                        oui , mais il a les
-2985 ben alors                      eh ben alors tu * .
+2985 ben alors                      eh ben alors tu # .
 2986 vais y                         moi je vais y aller
 2992 viens ici                      philippe , viens ici , ma
 2994 viens ici                      pas , viens ici sur
@@ -571,9 +571,9 @@
 3016 fait alors                     tu as fait alors ?
 3018 fait une                       tu as fait une bêtise de
 3021 rien à                        a plus rien à faire
-3029 est incorporé                 le * est incorporé dedans
+3029 est incorporé                 le # est incorporé dedans
 3029 pendant un                     micro et pendant un quart
-3032 moins agréable                sera beaucoup moins agréable *
+3032 moins agréable                sera beaucoup moins agréable #
 3034 bien assis                     on est bien assis .
 3035 est aperçu                    il s' est aperçu que c'
 3035 était un                      que c' était un moyen
@@ -586,7 +586,7 @@
 3085 est un                         c' est un rond ça ?
 3090 est en                         , il est en train
 3094 vais en                        , je vais en faire
-3102 après on                      après on passera aux couleurs *
+3102 après on                      après on passera aux couleurs #
 3105 pas un                         non , pas un cor
 3116 crois avoir                    , je crois avoir compris
 3126 trucs à                       retrouvé les trucs à visser
@@ -607,14 +607,14 @@
 3164 as un                          , t' as un feu
 3165 as un                          mais t' as un feu
 3166 comment est-ce                 comment est-ce qu' on transcrit ce
-3168 cherches une                   * tu cherches une bande dessinée
+3168 cherches une                   # tu cherches une bande dessinée
 3169 question avant                 posé la question avant nous
 3177 viens ici                      , mais viens ici .
 3178 fait avec                      qu' on fait avec ça
 3182 et alors                       et alors ?
 3187 donneras une                   lui en donneras une quand
-3195 ben oui                        ben oui , mais * .
-3207 lendemain il                   * le lendemain il avait
+3195 ben oui                        ben oui , mais # .
+3207 lendemain il                   # le lendemain il avait
 3218 voudrais un                    j' en voudrais un peu
 3220 donnes un                      m' en donnes un peu
 3229 veux encore                    tu en veux encore un peu
@@ -629,7 +629,7 @@
 3287 vais essayer                   je vais essayer .
 3290 est en                         il est en deux morceaux ;
 3290 en un                          remets le en un morceau
-3291 faut appuyer                   * il faut appuyer plus
+3291 faut appuyer                   # il faut appuyer plus
 3318 regarderas un                  tu regarderas un peu plus la
 3318 télévision avec              plus la télévision avec grobonhomme
 3324 ressembleras à                après tu ressembleras à une vieille
@@ -773,7 +773,7 @@
 3943 sais on                        tu sais on va avoir du
 3945 comment ils                    oui , comment ils s' appellent
 3945 enfants avec                   appellent les enfants avec qui
-3953 es en                          tu es en train de *
+3953 es en                          tu es en train de #
 3953 bon on                         catastrophes , bon on va
 3956 comment ils                    comment ils s' appellent les enfants
 3956 enfants avec                   appellent les enfants avec qui
@@ -814,7 +814,7 @@
 4110 chansons à                    apprends des chansons à l'
 4111 chansons à                    apprends des chansons à l'
 4133 mais oui                       mais oui , y a pas
-4134 es un                          * t' es un peu inquiet
+4134 es un                          # t' es un peu inquiet
 4147 comment elle                   comment elle s' appelle ?
 4148 est un                         c' est un mot compliqué ,
 4149 comment elle                   comment elle s' appelle ?
@@ -907,7 +907,7 @@
 4578 peux écrire                   tu peux écrire quand même ,
 4578 peux appuyer                   , tu peux appuyer un
 4578 appuyer un                     tu peux appuyer un tout
-4579 peux appuyer                   * tu peux appuyer un peu
+4579 peux appuyer                   # tu peux appuyer un peu
 4579 appuyer un                     tu peux appuyer un peu
 4581 pas appuyer                    tu pouvais pas appuyer un
 4581 appuyer un                     pouvais pas appuyer un peu
@@ -1070,7 +1070,7 @@
 5265 es un                          „ tu es un grand
 5266 pas encore                     j' avais pas encore entendu ça
 5277 est à                         qu' elle est à l'
-5279 est à                         * elle est à l' école
+5279 est à                         # elle est à l' école
 5281 pas isabelle                   c' est pas isabelle ?
 5286 et isabelle                    et isabelle elle est partie aussi
 5291 pas aujourd'hui                non , pas aujourd'hui , mais
@@ -1240,12 +1240,12 @@
 5874 comment on                     comment on dit ?
 5875 comment on                     comment on appelle ça ?
 5880 avais oublié                  t' avais oublié ?
-5881 peut enlever                   * on peut enlever aussi ça
+5881 peut enlever                   # on peut enlever aussi ça
 5881 enlever aussi                  on peut enlever aussi ça
 5887 bien attends                   eh bien attends , enfin ,
 5887 chauffer à                    temps de chauffer à cette
 5896 combien elle                   sais pas combien elle en
-5906 bien appuyer                   il faudra bien appuyer * .
+5906 bien appuyer                   il faudra bien appuyer # .
 5907 bien à                        le mets bien à plat
 5910 est un                         que c' est un trou
 5910 alors on                       bosse , alors on va
@@ -1374,11 +1374,11 @@
 6167 appris en                      il avait appris en les
 6167 successifs et                  les deux successifs et puis
 6167 puis une                       successifs et puis une fois
-6167 avait appris                   qu' il avait appris *
+6167 avait appris                   qu' il avait appris #
 6168 et il                          toujours , et il a
 6169 était étonnée               alors bénédicte était étonnée .
 6171 fait une                       j' ai fait une bêtise
-6175 pantalon alors                 * le pantalon alors .
+6175 pantalon alors                 # le pantalon alors .
 6182 dit aussi                      on dit aussi une gueule .
 6186 as un                          et tu as un museau toi
 6189 chats et                       bouche des chats et des
@@ -1390,7 +1390,7 @@
 6202 maintenant il                  , si maintenant il commence
 6205 ait un                         il y ait un drame
 6212 peux écrire                   , tu peux écrire là
-6213 crayons ils                    * les crayons ils étaient là
+6213 crayons ils                    # les crayons ils étaient là
 6215 alors il                       alors il faut tenir la feuille
 6217 racontes un                    tu nous racontes un peu ce
 6217 écris aussi                   que tu écris aussi .
@@ -1432,7 +1432,7 @@
 6391 grand alors                    qui est grand alors ?
 6395 rien oublié                   j' ai rien oublié ?
 6401 est un                         , c' est un mot
-6402 est avec                       * c' est avec des trémas
+6402 est avec                       # c' est avec des trémas
 6409 est allés                     on y est allés un
 6409 allés un                      y est allés un jour
 6411 est allés                     on est allés un jour chez
@@ -1487,10 +1487,10 @@
 6603 étais en                      que tu étais en train
 6608 est en                         qu' il est en train
 6610 jambes à                      prends tes jambes à ton
-6612 vas acheter                    tu vas acheter du * .
+6612 vas acheter                    tu vas acheter du # .
 6619 veux un                        tu en veux un ?
 6622 vais oublier                   que je vais oublier comme
-6624 as encore                      tu as encore * .
+6624 as encore                      tu as encore # .
 6629 veux aller                     pourquoi tu veux aller à l'
 6629 aller à                       tu veux aller à l'
 6634 demander à                    il faut demander à ton
@@ -1506,7 +1506,7 @@
 6678 es un                          tu es un grand , tu
 6678 es un                          , tu es un grand
 6679 est un                         si c' est un progrès
-6679 progrès ou                    est un progrès ou *
+6679 progrès ou                    est un progrès ou #
 6680 non elle                       poussin , non elle est
 6683 jouets et                      sont des jouets et là
 6683 est une                        là c' est une boîte
@@ -1518,7 +1518,7 @@
 6707 est à                         , c' est à qui
 6709 est à                         alors c' est à qui ?
 6710 est à                         si c' est à mamie
-6713 main et                        est ma main et *
+6713 main et                        est ma main et #
 6716 fait acheter                   m' a fait acheter ça
 6720 mouton afghan                  fourrure de mouton afghan .
 6723 dedans alors                   de pied dedans alors .
@@ -1711,16 +1711,16 @@
 7343 et à                          à maman et à madeleine
 7350 suis émerveillée             je suis émerveillée , tu deviens
 7351 as entendu                     tu as entendu ce qu' il
-7353 et hop                         porte monnaie et hop *
+7353 et hop                         porte monnaie et hop #
 7354 passer à                      sucre pour passer à madeleine
-7357 est un                         c' est un peu chaud *
+7357 est un                         c' est un peu chaud #
 7360 et un                          un demi et un demi .
 7366 est un                         c' est un dessin .
-7368 est un                         * c' est un petit dessin
+7368 est un                         # c' est un petit dessin
 7371 pas à                         tu allais pas à l'
-7372 demain on                      * et demain on le ,
+7372 demain on                      # et demain on le ,
 7374 assez important                est même assez important .
-7390 sais il                        * tu sais il est pas
+7390 sais il                        # tu sais il est pas
 7390 pas immense                    il est pas immense le
 7390 coins et                       plein de coins et de
 7395 prend aussi                    , il prend aussi de
@@ -1739,7 +1739,7 @@
 7456 arts et                        , à arts et métiers
 7461 pas allé                      je suis pas allé jusque là
 7464 pas assez                      leur donnent pas assez d'
-7465 pas assez                      paie * pas assez d'
+7465 pas assez                      paie # pas assez d'
 7466 maintenant ils                 maintenant ils travaillent pas .
 7467 sont en                        , ils sont en grève
 7469 droit à                       ai eu droit à une
@@ -1771,7 +1771,7 @@
 7537 main ouverte                   avec ta main ouverte .
 7540 vais à                        si je vais à pied
 7543 bols aussi                     a deux bols aussi .
-7546 vient à                       * elle vient à dix heures
+7546 vient à                       # elle vient à dix heures
 7548 est un                         c' est un peu tôt ?
 7553 mains avec                     essuie tes mains avec ta serviette
 7556 fait une                       t' ai fait une tartine
@@ -1802,7 +1802,7 @@
 7617 puissent en                    de marouane puissent en manger
 7617 temps à                       manger de temps à autre
 7628 mieux attendre                 il vaut mieux attendre que ginette
-7630 longtemps il                   * pendant longtemps il a pas
+7630 longtemps il                   # pendant longtemps il a pas
 7630 tellement écouté             a pas tellement écouté et
 7630 puis il                        écouté et puis il s'
 7630 passion et                     pris de passion et maintenant
@@ -1828,7 +1828,7 @@
 7700 est arrivé                    que gronomme est arrivé philippe
 7701 dit hier                       lui ai dit hier .
 7703 ben écoute                    ben écoute , oui , tu
-7703 pourrais inviter               , tu pourrais inviter *
+7703 pourrais inviter               , tu pourrais inviter #
 7704 dit alors                      de suite dit alors tu
 7704 as acheté                     alors tu as acheté un
 7717 fais acheter                   tu lui fais acheter quoi
@@ -1917,7 +1917,7 @@
 8058 heures et                      à quatre heures et demie
 8058 évidemment il                 demie , évidemment il est
 8058 est un                         évidemment il est un peu
-8058 alors il                       chaud * alors il se
+8058 alors il                       chaud # alors il se
 8059 chez elle                      il passe chez elle , il
 8059 était allé                   qu' il était allé chez
 8060 as encore                      tu as encore des tickets de
@@ -1981,7 +1981,7 @@
 8275 après on                      et après on accroche la remorque
 8281 et y                           attelage , et y a
 8289 as une                         , tu as une voiture
-8297 est à                         elle est à langogne * .
+8297 est à                         elle est à langogne # .
 8333 et alors                       et alors ?
 8339 pas avec                       on joue pas avec les
 8340 mais on                        legos , mais on joue
@@ -2003,8 +2003,8 @@
 8401 comment elle                   comment elle est faite ?
 8402 bien au                        eh bien au début où on
 8402 début où                     bien au début où on
-8402 et après                      et * et après on
-8402 après on                      * et après on a
+8402 et après                      et # et après on
+8402 après on                      # et après on a
 8402 portes et                      mis les portes et les
 8402 fenêtres et                   et les fenêtres et puis
 8402 puis on                        fenêtres et puis on a
@@ -2060,7 +2060,7 @@
 8542 dedans et                      pétrole là dedans et puis
 8542 puis il                        dedans et puis il y
 8550 tomber en                      avait fait tomber en le
-8551 trop avec                      * pas trop avec les
+8551 trop avec                      # pas trop avec les
 8551 deux après                    retrouvera pas deux après .
 8555 montrer à                     va le montrer à marc ,
 8556 montrer à                     , va montrer à marc
@@ -2090,9 +2090,9 @@
 8666 rien à                        tu fais rien à l' école
 8670 est arrivé                    il lui est arrivé ?
 8678 puis il                        et puis il y en a
-8679 alors il                       alors il faut la * avec
+8679 alors il                       alors il faut la # avec
 8679 pied encore                    un troisième pied encore à
-8698 peut encore                    * elle peut encore rouler ?
+8698 peut encore                    # elle peut encore rouler ?
 8699 combien il                     combien il lui en reste des
 8710 est un                         mais c' est un peu
 8718 es idiot                       pourquoi tu es idiot ?
@@ -2108,7 +2108,7 @@
 8807 mais il                        non mais il allait le fermer
 8825 est un                         c' est un chauffe biberon .
 8839 est encore                     derrière c' est encore ,
-8843 est à                         c' est à * tout ça
+8843 est à                         c' est à # tout ça
 8844 est à                         ça c' est à porquerolles .
 8845 est à                         , on est à côté
 8856 pas entendu                    j' avais pas entendu .
@@ -2253,7 +2253,7 @@
 9314 puis ils                       section et puis ils viennent
 9319 souvent assez                  ils viennent souvent assez tôt le
 9320 avant onze                     avant onze heures .
-9321 avant onze                     * avant onze heures .
+9321 avant onze                     # avant onze heures .
 9322 mais avant                     non , mais avant onze heures
 9322 avant onze                     , mais avant onze heures
 9322 maintenant à                  est foutu maintenant à cause
@@ -2263,7 +2263,7 @@
 9332 bouquins et                    rendre ses bouquins et puis
 9332 déposer à                    peux les déposer à la
 9334 diras à                       tu diras à ginette de te
-9335 est uniquement                 a sali est uniquement *
+9335 est uniquement                 a sali est uniquement #
 9343 donnes à                      tu en donnes à madeleine
 9351 veux un                        tu en veux un peu plus
 9355 assis avec                     pour être assis avec nous ,
@@ -2273,7 +2273,7 @@
 9372 en un                          donnes en un autre à madeleine
 9378 est une                        , c' est une pochette
 9378 est une                        , c' est une sorte
-9379 bon on                         * bon on va la remettre
+9379 bon on                         # bon on va la remettre
 9392 veux envoyer                   si tu veux envoyer du
 9392 courrier à                    envoyer du courrier à bombay
 9395 mais ils                       oui mais ils vérifient .
@@ -2330,7 +2330,7 @@
 9550 pas oui                        ne réponds pas oui .
 9551 choisis en                     choisis en une .
 9551 en une                         choisis en une .
-9553 tiens y                        tiens y a un beau *
+9553 tiens y                        tiens y a un beau #
 9556 bien au                        la mettre bien au milieu
 9557 pas en                         ça tourne pas en rond
 9557 rond alors                     pas en rond alors .
@@ -2380,7 +2380,7 @@
 9732 écrit avec                    tu as écrit avec madeleine ?
 9738 pas un                         n' inventes pas un petit
 9749 comment on                     comment on demande ?
-9755 en un                          prends en un autre * .
+9755 en un                          prends en un autre # .
 9759 pas être                      il va pas être bon
 9759 bon après                     pas être bon après .
 9763 mis un                         on a mis un bout de
@@ -2390,10 +2390,10 @@
 9765 alors on                       le réveillait alors on a
 9766 comment on                     me montreras comment on met
 9766 mis un                         en ai mis un peu
-9767 est une                        * c' est une sorte de
+9767 est une                        # c' est une sorte de
 9767 dessous y                      dévisse et dessous y a
-9769 est encore                     * c' est encore facile
-9770 et encore                      * et encore maintenant je l'
+9769 est encore                     # c' est encore facile
+9770 et encore                      # et encore maintenant je l'
 9773 es une                         tu es une petite boule ?
 9775 étais une                     que tu étais une petite
 9776 pas une                        n' es pas une boule
@@ -2443,7 +2443,7 @@
 9998 boutons avant                  changer les boutons avant de
 10001 ben alors                      bon , ben alors , ça
 10007 est accroché                  il est accroché .
-10008 mais il                        non * mais il faut
+10008 mais il                        non # mais il faut
 10016 écouter avec                  va l' écouter avec madeleine la
 10029 enfin on                       pas , enfin on devrait
 10030 étiquettes à                 pas les étiquettes à l'
@@ -2458,7 +2458,7 @@
 10072 alors un                       alors un petit bébé quand ça
 10076 ben on                         ben on le tient , en
 10076 pieds et                       par les pieds et par
-10080 sursauter avec                 me fais sursauter avec *
+10080 sursauter avec                 me fais sursauter avec #
 10085 ben ils                        , eh ben ils se
 10089 sont à                        ils sont à l' endroit les
 10090 vois à                        je les vois à l'
@@ -2499,7 +2499,7 @@
 10191 comment on                     comment on va faire pour le
 10194 fois il                        cette fois il savait pas ,
 10194 comment il                     a demandé comment il fallait
-10197 puis après                    * et puis après c' est
+10197 puis après                    # et puis après c' est
 10198 avait accroché                hier il avait accroché ça à
 10198 et il                          lit , et il avait
 10199 est attachée                  barre qui est attachée des
@@ -2730,7 +2730,7 @@
 11072 est allés                     quand on est allés à
 11072 allés à                      on est allés à l'
 11074 ben y                          ben y avait , je suis
-11074 suis arrivé                   , je suis arrivé *
+11074 suis arrivé                   , je suis arrivé #
 11075 non on                         non on le met pas là
 11082 machin et                      dans le machin et puis
 11082 puis il                        machin et puis il .
@@ -2741,12 +2741,12 @@
 11110 est alors                      qu' il est alors ?
 11114 comment elle                   comment elle est la voix de
 11119 comment est                    comment est sa voix ?
-11123 mais écoute                   instant , mais écoute *
+11123 mais écoute                   instant , mais écoute #
 11134 es exaspérant                 tu es exaspérant , hein ?
 11140 non elle                       non elle est fraîche .
 11142 mais elle                      mais elle est pas glacée .
 11149 croissant en                   donc son croissant en deux
-11150 est encore                     * il est encore chaud ce
+11150 est encore                     # il est encore chaud ce
 11150 intérieurement et             croissant , intérieurement et le
 11154 vas imiter                     que tu vas imiter marc
 11154 plus et                        marc encore plus et que
@@ -2768,7 +2768,7 @@
 11226 dit avant                      il a dit avant alors
 11226 avant alors                    a dit avant alors il
 11226 alors il                       dit avant alors il veut
-11228 pas obsédé                   * pas obsédé .
+11228 pas obsédé                   # pas obsédé .
 11230 met une                        qu' on met une bande
 11235 mis une                        lui as mis une poupée
 11235 as enlevée                    tu lui as enlevée après
@@ -2781,7 +2781,7 @@
 11242 étais habillé                tu étais habillé ?
 11249 préfères être               tu préfères être habillé ou tout
 11258 vois une                       tu vois une petite cuillère ça
-11259 vais enlever                   * je vais enlever la cuillère
+11259 vais enlever                   # je vais enlever la cuillère
 11260 vas éclabousser               , tu vas éclabousser ,
 11260 vas éclabousser               , tu vas éclabousser partout
 11262 pas avec                       mais pas avec ton chocolat .
@@ -2826,11 +2826,11 @@
 11364 donner une                     vais te donner une fessée
 11364 et après                      une fessée et après tu
 11371 bon allez                      bon allez , récupère tes .
-11375 dégringoler et                tu * dégringoler et tu
+11375 dégringoler et                tu # dégringoler et tu
 11379 mis à                         t' es mis à la
 11380 et où                         et où est-ce que je vais
 11386 ben où                        eh ben où il est marc
-11387 orientation un                 * l' orientation un a
+11387 orientation un                 # l' orientation un a
 11387 trois en                       l' orientation trois en a
 11390 es au                          tu es au courant ?
 11392 fois à                        répéter quatre fois à charlie
@@ -2964,7 +2964,7 @@
 11849 fais exprès                   tu fais exprès de faire pipi
 11872 fait une                       j' ai fait une bêtise ?
 11876 depuis un                      est plus depuis un certain
-11883 mais il                        mais il va pas tomber *
+11883 mais il                        mais il va pas tomber #
 11884 froid aux                      va avoir froid aux pieds
 11889 es un                          tu es un grand garçon .
 11900 es allé                       midi tu es allé te
@@ -2992,10 +2992,10 @@
 11983 beaucoup avant                 y allais beaucoup avant ?
 11992 pas à                         j' arrive pas à m' habiller
 11998 es arrivé                     tu y es arrivé ?
-12007 puis hop                       * et puis hop là
+12007 puis hop                       # et puis hop là
 12014 veux encore                    t' en veux encore un peu
 12021 ben on                         eh ben on t' achètera un
-12031 et encore                      chercher * et encore je
+12031 et encore                      chercher # et encore je
 12040 est un                         , c' est un ,
 12040 est un                         , c' est un moyen
 12041 mis une                        t' as mis une goutte de
@@ -3061,7 +3061,7 @@
 12231 mathématiques et              sur les mathématiques et l'
 12235 est un                         l' auteur est un type
 12238 et à                          et à la halle aux vins
-12244 croissants au                  * les croissants au beurre il
+12244 croissants au                  # les croissants au beurre il
 12248 est un                         c' est un cheveu , un
 12250 mangeais un                    si tu mangeais un petit
 12252 veux un                        tu veux un peu d' argent
@@ -3077,7 +3077,7 @@
 12262 pantalon et                    acheter un pantalon et quand
 12262 suis enfoncé                  je me suis enfoncé .
 12263 vachement enfoncée            elle était vachement enfoncée ,
-12264 accumulation étonnante        * une accumulation étonnante .
+12264 accumulation étonnante        # une accumulation étonnante .
 12267 est arrivé                    ça m' est arrivé .
 12271 avait un                       , y avait un type
 12271 pas à                         qui arrivait pas à ouvrir
@@ -3126,7 +3126,7 @@
 12407 pas un                         c' est pas un jeu
 12407 est une                        , c' est une boîte
 12413 est une                        c' est une casquette ça ?
-12416 attraction et                  * attraction et partenaire .
+12416 attraction et                  # attraction et partenaire .
 12437 est alors                      que c' est alors ?
 12442 maman elle                     et ta maman elle a des
 12442 châteaux aussi                a des châteaux aussi ?
@@ -3208,11 +3208,11 @@
 12881 lesquelles encore              et puis lesquelles encore ?
 12885 pas à                         on arrive pas à le
 12886 ben oui                        ben oui , c' est lourd
-12888 part et                        pas quelque part et *
+12888 part et                        pas quelque part et #
 12891 vas avoir                      que tu vas avoir froid
 12891 froid aux                      vas avoir froid aux pieds
 12895 pas à                         je vois pas à travers
-12898 patin à                       * du patin à glace ?
+12898 patin à                       # du patin à glace ?
 12900 bien à                        il apprend bien à faire
 12900 patin à                       faire du patin à glace
 12922 loup il                        mais monsieur loup il me fait
@@ -3292,7 +3292,7 @@
 13149 après ils                     parce qu' après ils ont
 13152 viennes ici                    que tu viennes ici .
 13153 mais il                        mais il était déjà contagieux ,
-13153 maintenant il                  hein * maintenant il l'
+13153 maintenant il                  hein # maintenant il l'
 13154 est en                         qu' il est en train
 13155 ait aucun                      il y ait aucun contact
 13156 mais un                        oui , mais un contact direct
@@ -3330,8 +3330,8 @@
 13293 pas être                      tu veux pas être guéri ?
 13294 pas un                         c' est pas un vrai médicament
 13296 pas un                         c' est pas un vrai
-13298 puis on                        * et puis on lui
-13299 son yaourt                     * son yaourt , comme d'
+13298 puis on                        # et puis on lui
+13299 son yaourt                     # son yaourt , comme d'
 13307 comment il                     comment il dit ?
 13310 est aux                        , c' est aux .
 13315 fait aux                       tu as fait aux voitures
@@ -3341,7 +3341,7 @@
 13325 auras à                       tu l' auras à midi
 13326 montreras à                   tu montreras à madeleine ce qu'
 13331 est une                        que c' est une belle
-13337 strictement aucun              * strictement aucun goût , quand
+13337 strictement aucun              # strictement aucun goût , quand
 13346 pas avant                      ça gratte pas avant , ça
 13346 pas avant                      ça gratte pas avant l'
 13349 jours après                   trois jours après le début de
@@ -3353,7 +3353,7 @@
 13357 est un                         , c' est un monsieur
 13358 pas intérêt                  t' as pas intérêt à
 13358 intérêt à                   as pas intérêt à lui
-13360 ben attends                    ben attends * .
+13360 ben attends                    ben attends # .
 13364 mieux au                       il sera mieux au grand
 13365 faites attraper                vous lui faites attraper une
 13365 attraper une                   lui faites attraper une pneumonie
@@ -3408,7 +3408,7 @@
 13502 pas à                         j' arrive pas à monter si
 13502 haut avec                      monter si haut avec ma
 13512 avait un                       ta mamie avait un appartement
-13512 appartement ici                avait un appartement ici *
+13512 appartement ici                avait un appartement ici #
 13516 retrouver à                   tu vas retrouver à langogne
 13520 es en                          tu es en train de manger
 13520 manger une                     train de manger une pomme
@@ -3521,9 +3521,9 @@
 13947 mais où                       oui , mais où ?
 13961 est un                         c' est un rond , par
 13969 combien il                     combien il en a ?
-13974 est une                        c' est une séance * .
+13974 est une                        c' est une séance # .
 13975 fois en                        glissé plusieurs fois en croyant
-13975 mais à                        croyant * mais à la
+13975 mais à                        croyant # mais à la
 13975 fin il                         à la fin il le
 13975 ressort en                     il le ressort en forme
 13980 est allé                      il y est allé .
@@ -3537,8 +3537,8 @@
 14030 fait hier                      tu as fait hier quand
 14030 suis allée                    quand je suis allée faire
 14032 fait une                       tu avais fait une bêtise ?
-14034 pas hier                       pas hier , avant hier *
-14034 avant hier                     hier , avant hier *
+14034 pas hier                       pas hier , avant hier #
+14034 avant hier                     hier , avant hier #
 14046 fait avec                      tu as fait avec le
 14048 alors il                       alors il était tout fier parce
 14050 vois avec                      je le vois avec son
@@ -3558,14 +3558,14 @@
 14083 bois un                        bois un petit coup , va
 14084 es allé                       qui tu es allé chez
 14086 es allé                       tu es allé chez le docteur
-14100 fait une                       il a fait une croix *
+14100 fait une                       il a fait une croix #
 14105 comment il                     comment il s' appelle ?
 14106 comment il                     comment il s' appelle ?
 14107 comment il                     comment il s' appelle ce docteur
 14108 comment il                     comment il s' appelle ce docteur
 14109 fois et                        demandé plusieurs fois et je
 14110 comment il                     comment il s' appelle ?
-14114 comment il                     qui * comment il s'
+14114 comment il                     qui # comment il s'
 14123 bien aimé                     j' ai bien aimé le petit
 14129 noiraud et                     du chat noiraud et pouf
 14147 hasard il                      si par hasard il reste
@@ -3581,7 +3581,7 @@
 14183 devrait y                      il devrait y avoir une lame
 14184 jamais en                      en a jamais en plus
 14190 est un                         c' est un petit bout de
-14194 enfin il                       * enfin il s' est cassé
+14194 enfin il                       # enfin il s' est cassé
 14194 jamais été                   il a jamais été fait
 14196 un à                          en avoir un à chaque
 14200 est un                         , c' est un petit
@@ -3642,7 +3642,7 @@
 14350 chien et                       le chien et le singe ,
 14351 gens aussi                     a des gens aussi dans
 14356 poussin au                     mon petit poussin au lieu
-14358 bateaux après                 les petits bateaux après *
+14358 bateaux après                 les petits bateaux après #
 14361 promis une                     t' a promis une valise
 14361 étais un                      que tu étais un grand
 14366 montres un                     tu te montres un grand
@@ -3784,7 +3784,7 @@
 14924 faut une                       il faut une photocopie de ton
 14924 limoges au                     paye pour limoges au plus
 14924 sont en                        qu' ils sont en train
-14926 est idiot                      c' est idiot * .
+14926 est idiot                      c' est idiot # .
 14927 continuent à                  ils continuent à orsay à me
 14928 alors il                       alors il faut que je .
 14929 grimpés à                    qui sont grimpés à la
@@ -3871,10 +3871,10 @@
 15216 et alors                       et alors qu' est-ce qui arrive
 15218 et avec                        et avec le tonnerre .
 15222 as un                          tu as un moteur toi aussi
-15228 arrives à                     * t' arrives à te rhabiller
+15228 arrives à                     # t' arrives à te rhabiller
 15231 depuis hier                    toi , depuis hier soir
 15232 fait un                        on se fait un petit câlinou
-15241 raconter à                    va raconter à madeleine * elle
+15241 raconter à                    va raconter à madeleine # elle
 15257 mais où                       bon , mais où ?
 15261 coud aussi                     , il coud aussi ?
 15266 alors il                       ah alors il coud des fois
@@ -3983,7 +3983,7 @@
 15588 mais il                        tuer , mais il le
 15592 pas aimé                      il a pas aimé du tout
 15605 pas une                        c' est pas une tour ,
-15605 indiens ils                    , les indiens ils *
+15605 indiens ils                    , les indiens ils #
 15606 faisais avec                   comme tu faisais avec ton
 15607 est une                        c' est une tente .
 15608 est en                         c' est en tissu , tu
@@ -3998,8 +3998,8 @@
 15640 veux un                        tu veux un gâteau ?
 15642 demandais où                  je me demandais où il
 15642 ben il                         passé et ben il était
-15643 regardes ailleurs              * tu regardes ailleurs , c'
-15645 ben alors                      , eh ben alors *
+15643 regardes ailleurs              # tu regardes ailleurs , c'
+15645 ben alors                      , eh ben alors #
 15646 pas où                        je sais pas où elle est
 15657 blancs ou                      les blancs ou les bruns ?
 15663 joues au                       tu joues au toboggan ?
@@ -4048,7 +4048,7 @@
 15831 cochons ils                    , les cochons ils fuient
 15843 mais on                        estomac , mais on n'
 15847 disais aussi                   je me disais aussi qu'
-15853 matin on                       le matin on ne * personne
+15853 matin on                       le matin on ne # personne
 15864 pièges à                     tu nous pièges à des heures
 15864 heures impossibles             à des heures impossibles le
 15866 racontes une                   tu me racontes une petite histoire
@@ -4085,7 +4085,7 @@
 15982 comment on                     comment on fera ?
 15985 est un                         c' est un indien ?
 15986 et une                         un arc et une flèche
-15987 mais ils                       de * mais ils y
+15987 mais ils                       de # mais ils y
 15988 pourrais essayer               puis tu pourrais essayer de
 15988 parler à                      pas trop parler à sa
 16006 filet à                       un filet à papillons .
@@ -4101,7 +4101,7 @@
 16066 comment il                     et comment il va faire pour
 16067 mais y                         oui , mais y aura
 16068 comment il                     alors , comment il fera ?
-16069 manger alors                   * pour manger alors *
+16069 manger alors                   # pour manger alors #
 16074 comment il                     comment il fera ?
 16077 maintenant on                  maintenant on va regarder les pages
 16080 comment il                     oui , comment il la fait
@@ -4110,18 +4110,18 @@
 16099 est assise                     quoi elle est assise ?
 16101 est atroce                     c' est atroce .
 16102 jeter un                       viens jeter un coup d' oeil
-16105 faut acheter                   * il faut acheter .
+16105 faut acheter                   # il faut acheter .
 16109 bien on                        que ou bien on a
 16109 choix entre                    a le choix entre le
 16109 froid ou                       entre le froid ou l'
-16111 faudrait aussi                 * il faudrait aussi vérifier
+16111 faudrait aussi                 # il faudrait aussi vérifier
 16116 passer un                      faudrait peut-être passer un coup
 16119 quelqu'un il                   y avait quelqu'un il serait
 16119 serait asphyxié               quelqu'un il serait asphyxié là
 16130 chapeaux en                    faire les chapeaux en papier
 16151 et alors                       et alors , qu' est-ce qui
 16168 fait exprès                   ai pas fait exprès .
-16172 fumer une                      d' en fumer une *
+16172 fumer une                      d' en fumer une #
 16174 était ici                     on en était ici ,
 16176 quand est-ce                   quand est-ce que tu vas revenir
 16178 bien y                         t' aimes bien y aller à
@@ -4419,7 +4419,7 @@
 17282 question est                   , ma question est idiote
 17282 est idiote                     ma question est idiote ,
 17283 avait opéré                  on t' avait opéré .
-17290 pas ailleurs                   * pas ailleurs ?
+17290 pas ailleurs                   # pas ailleurs ?
 17296 mis un                         il a mis un petit chose
 17299 fait ici                       l' a fait ici ,
 17310 est une                        c' est une vraie poche ?
@@ -4571,7 +4571,7 @@
 17882 feras alors                    que tu feras alors chez
 17884 temps à                       passer son temps à cavaler
 17894 as une                         t' as une petite chambre ?
-17900 est intéressant               * c' est intéressant ça .
+17900 est intéressant               # c' est intéressant ça .
 17903 pas impossible                 c' est pas impossible .
 17905 dépasser un                   as fait dépasser un petit
 17907 est à                         , on est à table
@@ -4589,7 +4589,7 @@
 17951 et ils                         et ils sont en quoi ?
 17951 sont en                        et ils sont en quoi ?
 17952 sont en                        ils sont en métal aussi ?
-17960 tissus aussi                   * des tissus aussi .
+17960 tissus aussi                   # des tissus aussi .
 17962 meubles avec                   essuie les meubles avec du
 17963 chiffons en                    avec des chiffons en tissu ?
 17972 ben alors                      ben alors dépêche toi , de
@@ -4598,7 +4598,7 @@
 17987 intéressantes et              choses plus intéressantes et moins
 18004 fait et                        en as fait et je
 18007 comment elle                   jeanine , comment elle s'
-18012 ben écoute                    ben écoute , t' as *
+18012 ben écoute                    ben écoute , t' as #
 18013 ben écoute                    ben écoute , mon poussin ,
 18015 est un                         robert c' est un monsieur à
 18015 monsieur à                    est un monsieur à l'
@@ -4705,7 +4705,7 @@
 18472 premier et                     abord le premier et puis
 18472 puis après                    premier et puis après tu
 18475 es un                          , tu es un imbécile
-18476 pas avoir                      tard pour pas avoir *
+18476 pas avoir                      tard pour pas avoir #
 18479 pas à                         tu ressembles pas à un
 18481 quand en                       vas partir quand en vacances
 18482 quand est-ce                   quand est-ce qu' on part chez
@@ -4718,7 +4718,7 @@
 18524 est une                        c' est une araignée paresseuse .
 18527 comment une                    c' est comment une araignée ?
 18530 pas en                         c' est pas en faisant l'
-18532 est en                         * on est en train
+18532 est en                         # on est en train
 18533 trois ans                      tu avais trois ans ,
 18534 an et                          eu un an et une
 18534 et une                         un an et une bougie
@@ -4760,7 +4760,7 @@
 18694 est un                         c' est un chien hippie ,
 18694 chien hippie                   est un chien hippie ,
 18694 étaient en                    garçons qui étaient en train
-18698 chien il                       le chien il s' appelle *
+18698 chien il                       le chien il s' appelle #
 18699 est arrivé                    qui lui est arrivé ?
 18705 ben elle                       ben elle a dû sortir de
 18708 et il                          et il est , il est
@@ -4826,7 +4826,7 @@
 18946 reviens aux                    tu en reviens aux bons vieux
 18959 expliques alors                tu m' expliques alors la tour
 18966 et il                          et il a bon goût ,
-18969 est un                         * c' est un mot sans
+18969 est un                         # c' est un mot sans
 18970 un et                          écrit cerise un et cerise
 18973 pas écrit                     c' est pas écrit d' une
 18976 est une                        c' est une petite bête qui
@@ -4860,7 +4860,7 @@
 19070 trucs à                       avez des trucs à faire
 19071 mais on                        plus , mais on était
 19078 as eu                          que tu as eu ce
-19079 maman elle                     * maman elle t' a acheté
+19079 maman elle                     # maman elle t' a acheté
 19079 bottes et                      acheté des bottes et des
 19085 as acheté                     tu l' as acheté ou on
 19087 as acheté                     et tu as acheté des chaussures
@@ -4997,8 +4997,8 @@
 19837 pas enrhumé                   qui soit pas enrhumé .
 19838 pas enrhumé                   qui soit pas enrhumé .
 19842 fait à                        j' ai fait à mon
-19844 devais être                   * je devais être à dix
-19846 devais être                   * je devais être à dix
+19844 devais être                   # je devais être à dix
+19846 devais être                   # je devais être à dix
 19849 dit à                         j' ai dit à gérard
 19849 passiez une                    que vous passiez une seconde
 19849 mais ils                       a dit mais ils sont
@@ -5007,11 +5007,11 @@
 19864 puis après                    thèse et puis après la
 19866 pas évident                   c' est pas évident .
 19867 pas évident                   c' est pas évident ?
-19871 tellement encyclopédiques     sont déjà tellement encyclopédiques *
+19871 tellement encyclopédiques     sont déjà tellement encyclopédiques #
 19872 mais en                        mais en sciences , une première
 19872 peut être                     thèse ça peut être tellement
 19872 tellement étroitement         peut être tellement étroitement spécialisé
-19879 peux aller                     mais tu peux aller bouffer *
+19879 peux aller                     mais tu peux aller bouffer #
 19881 est une                        que c' est une réduction
 19884 est un                         ce qui est un peu
 19884 est anglais                    , c' est anglais .
@@ -5053,7 +5053,7 @@
 19966 est en                         comment il est en ce
 19967 pas un                         il est pas un peu cassé
 19971 accident avec                  eu un accident avec .
-19973 mais avec                      voitures * mais avec les
+19973 mais avec                      voitures # mais avec les
 19983 dedans ou                      tu es dedans ou dehors
 19986 prends un                      tu prends un peu de chocolat
 19993 arcs en                        mangeras les arcs en ciel
@@ -5082,7 +5082,7 @@
 20117 et alors                       et alors et ça ?
 20117 alors et                       et alors et ça ?
 20119 avais autour                   que j' avais autour du
-20120 avais un                       * j' avais un plâtre ,
+20120 avais un                       # j' avais un plâtre ,
 20121 comment est-ce                 ah comment est-ce qu' il avait
 20122 comment il                     comment il était son bras à
 20122 bras à                        était son bras à ton
@@ -5165,7 +5165,7 @@
 20454 veut apprendre                 quand il veut apprendre des mots
 20458 es en                          tu es en train de la
 20459 petit à                       ça diminue petit à petit
-20460 es en                          * tu es en train de
+20460 es en                          # tu es en train de
 20465 montres à                     tu montres à madeleine ?
 20466 expliques où                  tu lui expliques où sont les
 20469 voit encore                    on voit encore des tas de
@@ -5238,7 +5238,7 @@
 20663 ben alors                      ben alors il a été déçu
 20663 alors il                       ben alors il a été déçu
 20666 est ennuyeux                   c' est ennuyeux .
-20684 es un                          * tu es un petit cornichon
+20684 es un                          # tu es un petit cornichon
 20688 étais assoiffé               tu étais assoiffé .
 20697 trois heures                   dans trois heures ?
 20699 trois heures                   pas dit trois heures ,
@@ -5260,7 +5260,7 @@
 20727 pas aller                      tu pouvais pas aller à côté
 20727 aller à                       pouvais pas aller à côté
 20728 avait un                       y avait un petit mur en
-20731 adorent être                  ils adorent être caressés * .
+20731 adorent être                  ils adorent être caressés # .
 20732 est effroyablement             mais c' est effroyablement dangereux .
 20735 était aux                     quand on était aux etats-unis
 20735 puis on                        , et puis on dit
@@ -5333,7 +5333,7 @@
 20940 met un                         on met un petit caillou dedans
 20940 puis on                        , et puis on peut
 20940 est un                         que c' est un jeu
-20941 quelqu'un avec                 mal à quelqu'un avec *
+20941 quelqu'un avec                 mal à quelqu'un avec #
 20951 mais on                        mais on le dirait pas .
 20960 ait une                        il en ait une pour
 20961 est ici                        que c' est ici ?
@@ -5544,7 +5544,7 @@
 21933 toujours en                    qui reste toujours en bas
 21933 bas et                         toujours en bas et qui
 21936 autres ils                     , les autres ils ont
-21938 ben on                         ben on * on reste à
+21938 ben on                         ben on # on reste à
 21938 tombent on                     gens qui tombent on les
 21940 et après                      et après ?
 21944 après il                      parce qu' après il faudra que

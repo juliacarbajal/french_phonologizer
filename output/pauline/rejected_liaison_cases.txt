@@ -817,7 +817,7 @@
 6090 et un                          du vingt et un mais
 6092 fait il                        en fait il lui aurait fallu
 6092 vingt et                       fallu du vingt et un
-6092 et un                          du vingt et un *
+6092 et un                          du vingt et un #
 6097 cours un                       pi tu cours un peu
 6120 met à                         il se met à faire
 6122 alors y                        attends , alors y a celles
@@ -1103,8 +1103,8 @@
 7857 montres avec                   tu me montres avec ta
 7859 montres aussi                  tu me montres aussi avec
 7863 après on                      sieste , après on va
-7863 et après                      monsieur * et après on
-7863 après on                      * et après on revient
+7863 et après                      monsieur # et après on
+7863 après on                      # et après on revient
 7863 revient à                     après on revient à la
 7866 pas à                         je vais pas à paris
 7867 travailler à                  besoin de travailler à la
