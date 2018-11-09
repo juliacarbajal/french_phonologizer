@@ -431,7 +431,6 @@ def check_liaison(line, all_words, k) :
 			rejected_case = (current_word+' '+next_word).ljust(30)
 			print >> frejected, line+1, rejected_case, get_context(all_words, k)
 		
-		
 	return do_liaison
 
 def is_OL_cluster(current_word) :
@@ -582,7 +581,7 @@ for corpusdir in dirlist:
 	#### 1: FIRST TRANSCRIPTION + LIAISON ####
 	# Open output files:
 	f         = open(output_location + '/liaison_cases.txt', 'w')
-	foutput   = open(output_location + '/recoded_with_liaison.txt','w')
+	foutput   = open(output_location + '/phonologized_L.txt','w')
 	frejected = open(output_location + '/rejected_liaison_cases.txt', 'w')
 
 	# Read line by line, transcribe from dictionary and apply liaison if appropriate
@@ -643,7 +642,7 @@ for corpusdir in dirlist:
 	#### 2: LIQUID DELETION ####
 	# Open output files:
 	f2       = open(output_location + '/liquid_deletion_cases.txt', 'w')
-	foutput2 = open(output_location + '/recoded_L_D.txt', 'w')
+	foutput2 = open(output_location + '/phonologized_L_D.txt', 'w')
 
 	# Load orthographic transcription:
 	text_ort = []
@@ -651,7 +650,7 @@ for corpusdir in dirlist:
 		for line_ID, line_text in enumerate(original_file):
 			text_ort.append(line_text.strip())
 			
-	with open(output_location + '/recoded_with_liaison.txt') as input_file:
+	with open(output_location + '/phonologized_L.txt') as input_file:
 		for line_ID, line_text in enumerate(input_file):
 			newwords      = []
 			full_line     = line_text.split()
@@ -677,9 +676,9 @@ for corpusdir in dirlist:
 	if do_schwa_insertion:
 		# Open output files:
 		f3       = open(output_location + '/schwa_insertion_cases.txt', 'w')
-		foutput3 = open(output_location + '/recoded_L_D_S.txt', 'w')
+		foutput3 = open(output_location + '/phonologized_L_D_S.txt', 'w')
 
-		with open(output_location + '/recoded_L_D.txt') as input_file:
+		with open(output_location + '/phonologized_L_D.txt') as input_file:
 			for line_ID, line_text in enumerate(input_file):
 				newwords  = []
 				full_line = line_text.split()
@@ -705,13 +704,13 @@ for corpusdir in dirlist:
 	# Open output files:
 	f4       = open(output_location + '/enchainement_cases.txt', 'w')
 	if do_schwa_insertion:
-		foutput4 = open(output_location + '/recoded_L_D_S_E.txt', 'w')
-		previous_recoded_file_name = '/recoded_L_D_S.txt'
+		foutput4 = open(output_location + '/phonologized_L_D_S_E.txt', 'w')
+		previous_phonologized_file_name = '/phonologized_L_D_S.txt'
 	else:
-		foutput4 = open(output_location + '/recoded_L_D_E.txt', 'w')
-		previous_recoded_file_name = '/recoded_L_D.txt'
+		foutput4 = open(output_location + '/phonologized_L_D_E.txt', 'w')
+		previous_phonologized_file_name = '/phonologized_L_D.txt'
 
-	with open(output_location + previous_recoded_file_name) as input_file:
+	with open(output_location + previous_phonologized_file_name) as input_file:
 		for line_ID, line_text in enumerate(input_file):
 			newwords  = []
 			full_line = line_text.split()

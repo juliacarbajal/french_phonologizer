@@ -9,15 +9,39 @@ age_min_input = '0y0m' # Eventually make this input user-defined
 age_max_input = '2y0m'
 
 # Define which transcription to load (orthographic or phonological):
-phono_transcript = False # True for phonological transcription, False for orthographic transcription
-if phono_transcript:
-	folder = 'output'
-	filename = '/recoded_L_D_E.txt'  #'/recoded_L_D_S_E.txt' # Note: specify here which version of the phonologized corpus to use.
-	outname = 'phono'
-else:
+option = 4
+
+if option == 1:
+	# Orthographic transcription
+	phono_transcript = False
 	folder = 'corpora'
 	filename = '/clean/extract.txt'
 	outname = 'ortho'
+elif option == 2:
+	# Phonological transcription with Liaison (no other rules)
+	phono_transcript = True
+	folder = 'output'
+	filename = '/phonologized_L.txt'
+	outname = 'phono'
+elif option == 3:
+	# Phonological transcription with Liaison and Liquid Deletion
+	phono_transcript = True
+	folder = 'output'
+	filename = '/phonologized_L_D.txt'
+	outname = 'phono'
+elif option == 4:
+	# Phonological transcription with Liaison, Liquid Deletion and Enchainement (resyllabification)
+	phono_transcript = True
+	folder = 'output'
+	filename = '/phonologized_L_D_E.txt'
+	outname = 'phono'
+elif option == 5:
+	# Phonological transcription with Liaison, Liquid Deletion, Schwa Insertion and Enchainement (resyllabification)
+	phono_transcript = True
+	folder = 'output'
+	filename = '/phonologized_L_D_S_E.txt'
+	outname = 'phono'
+
 
 # Print fileID and age?
 printInfo = True
