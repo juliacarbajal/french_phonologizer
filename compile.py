@@ -9,7 +9,7 @@ age_min_input = '0y0m' # Eventually make this input user-defined
 age_max_input = '2y0m'
 
 # Define which transcription to load (orthographic or phonological):
-option = 4
+option = 1
 
 if option == 1:
 	# Orthographic transcription
@@ -90,8 +90,12 @@ def check_age(current_age):
 
 ###############################################################################################
 # COMPILE & PRINT
+
+if not os.path.exists('compiled_corpus'):
+	os.makedirs('compiled_corpus')
+	
 # Open output file for writing
-f = open('corpus_' + outname + '_' + age_min_input + '_' + age_max_input + printInfoTag + removeParenthesesTag + '.txt', 'w')
+f = open('compiled_corpus/corpus_' + outname + '_' + age_min_input + '_' + age_max_input + printInfoTag + removeParenthesesTag + '.txt', 'w')
 # List of files
 dirlist = [ item for item in os.listdir(folder) if os.path.isdir(os.path.join(folder, item)) ]
 
