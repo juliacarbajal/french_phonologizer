@@ -111,6 +111,13 @@ def correct_names_lyon_corpus(current_line, file):
 		current_line = current_line.replace('Chi ', 'Théotime ').replace('Mar ', 'Marie ')
 	return current_line
 
+def utterance_not_empty(current_line):
+	not_empty = False
+	for k in current_line:
+		if k not in [',', '.', ':', ';', '?', '!', ' ', '#', '*', '@']:
+			not_empty = True
+	return not_empty
+
 for corpusdir in dirlist:
 	print 'Processing corpus:', corpusdir
 	input_location = root + '\\' + corpusdir + '\\raw'
@@ -182,8 +189,8 @@ for corpusdir in dirlist:
 						# Print:
 						if (continue_line == 1):
 							continue_line, processed_lines = print_line(newline, processed_lines, f)
-						elif (continue_line == 0) and (newline != '.') and (newline != '# .') and (newline != '?') and (newline != '!'):
-							print >> f, file+' '+child_age+' ',
+						elif (continue_line == 0) and (utterance_not_empty(newline)): #(newline != '.') and (newline != '# .') and (newline != '?') and (newline != '!'):
+							print >> f, file + ' ' + child_age + ' ',
 							continue_line, processed_lines = print_line(newline, processed_lines, f)
 
 	f.close()
