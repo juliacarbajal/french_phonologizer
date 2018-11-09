@@ -8,12 +8,12 @@ dirlist = [ item for item in os.listdir(root) if os.path.isdir(os.path.join(root
 def clean_text(current_line):
 	# This function cleans the CHAT annotations based on the
 	# CHILDES transcription guidelines: http://talkbank.org/manuals/CHAT.pdf
-	new_line = current_line.replace('www','*') # Untranscribed material
+	new_line = current_line.replace('www','#') # Untranscribed material
+	new_line = new_line.replace('xxx','#')     # Unintelligible words
+	new_line = new_line.replace('yyy','#')
+	new_line = new_line.replace('xx','#')
+	new_line = new_line.replace('yy','#')
 	new_line = new_line.replace('0','')        # Note: In CHAT manual they say 0 means omitted word, but in York they use it a lot even in words that are not likely to be omitted, so I will ignore it for the moment.
-	new_line = new_line.replace('xxx','*')     # Unintelligible words
-	new_line = new_line.replace('yyy','*')
-	new_line = new_line.replace('xx','*')
-	new_line = new_line.replace('yy','*')
 	new_line = new_line.replace('["]',',')     # I decided to introduce a comma after a quote as there usually are prosodic boundaries.
 	new_line = new_line.replace('[*]','')	   # This is a replacement marker (ignore)
 	new_line = new_line.replace('[/]',',')	   # This marks a repetition, I will introduce a comma (in the manual it says: ...when a speaker begins to say something, stops and then repeats the earlier material...)

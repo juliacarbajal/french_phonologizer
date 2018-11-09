@@ -34,6 +34,7 @@ dico[";"] = ";"
 dico[":"] = ":"
 
 dico["\*"] = "#"  
+dico["#"]  = "#" 
 dico["l'"] = "l'" 
 dico["d'"] = "d'" 
 dico["m'"] = "m'" 
@@ -270,6 +271,7 @@ always_except['ces']       = exceptions_next
 always_except['quels']     = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['quelles']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
 
+
 # (2) Cases that apply only if followed by specific items:
 # Keys: Words that are considered to undergo mandatory liaison in specific contexts
 # Values: List of following words that trigger liaison for each Key.
@@ -308,12 +310,15 @@ only_before['bon']     = ['anniversaire', 'état', 'endroit', 'ordre', 'appui', 
 # Note: we only apply liaison to "bon" in these specific cases in which it was used as a prenominal adjective in the corpus,
 # since "bon" is most often used as an interjection, in which case it doesn't undergo liaison.
 
+
 # (3) Cases that apply only in specific phrases:
 # Some words undergo liaison in specific phrases that require checking a larger context involving preceding and succeeding words.
 # Examples: the word "était" in "il était une fois", or the word "plus" in "plus ou moins".
 # As this cannot be written into a simple dictionary, hese cases are written directly in the check_liaison function (see FUNCTIONS section below).
 
+
 #### OTHER DETAILS
+
 ## Denasalization cases:
 denasalization = {}
 denasalization['bon']      = 'bOn'
@@ -603,6 +608,7 @@ for corpusdir in dirlist:
 						if word in denasalization:
 							newwords[i] = denasalization[word]
 						print_applied_liaison(line_ID, words, i, newwords[i], f)
+						
 					# Special case: numbers six, neuf, dix
 					elif (word in special_numbers) and (next_word in V_nouns) and (next_word not in special_numbers[word]):
 						newwords[i] = newwords[i][:-1] + liaison[lastphon]
