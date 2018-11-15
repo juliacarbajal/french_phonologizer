@@ -187,7 +187,6 @@ for corpusdir in dirlist:
 	# Read and clean files:
 	for file in chafiles:
 		print "Analysing file: ", file
-		print age[file]
 		child_age = age[file]
 		if child_age[-1] == '.':
 			child_age = child_age + '00' # Add 00 days if days missing from age, e.g. age = "2;8."
