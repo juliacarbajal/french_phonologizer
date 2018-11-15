@@ -1,9 +1,26 @@
 # This Python file uses the following encoding: utf-8
+
+######################################################################################
+#
+#    CORPUS CLEANING SCRIPT FOR CHILDES TRANSCRIPTIONS (2018)
+#
+#    Authors: Julia Carbajal, Camillia Bouchon, Emmanuel Dupoux & Sharon Peperkamp
+#    Contact: carbajal.mjulia@gmail.com   or   sharon.peperkamp@ens.fr
+#
+######################################################################################
+
+# NOTE: Please verify that all corpora to be processed are located in corpora/corpus_name/raw/
+# (one folder per corpus, containing .cha files) and that you have a participants.txt file in
+# corpora/corpus_name/ before running this script.
+
 import re
 import os
 
 root='corpora'
 dirlist = [ item for item in os.listdir(root) if os.path.isdir(os.path.join(root, item)) ]
+
+######################################################################################
+#### FUNCTIONS ####
 
 def clean_text(current_line):
 	# This function cleans the CHAT annotations based on the
@@ -16,7 +33,7 @@ def clean_text(current_line):
 	new_line = new_line.replace('0','')        # Note: In CHAT manual they say 0 means omitted word, but in York they use it a lot even in words that are not likely to be omitted, so I will ignore it for the moment.
 	new_line = new_line.replace('["]',',')     # I decided to introduce a comma after a quote as there usually are prosodic boundaries.
 	new_line = new_line.replace('[*]','')	   # This is a replacement marker (ignore)
-	new_line = new_line.replace('[/]',',')	   # This marks a repetition, I will introduce a comma (in the manual it says: ...when a speaker begins to say something, stops and then repeats the earlier material...)
+	new_line = new_line.replace('[/]',',')	   # This marks a repetition after a pause, we introduce a comma
 	new_line = new_line.replace('(.)',',')     # Pauses, replaced by commas
 	new_line = new_line.replace('(..)',',')
 	new_line = new_line.replace('(...)',',')
@@ -117,6 +134,9 @@ def utterance_not_empty(current_line):
 		if k not in [',', '.', ':', ';', '?', '!', ' ', '#', '*', '@']:
 			not_empty = True
 	return not_empty
+
+######################################################################################
+#### CLEANING ####
 
 for corpusdir in dirlist:
 	print 'Processing corpus:', corpusdir

@@ -9,7 +9,13 @@
 #
 ######################################################################################
 
-# Note: the statement "This Python file uses the following encoding: utf-8" is necessary at the beginning of the script, even though it appears as a comment
+
+# NOTE: Please verify that you have successfully run clean_corpus.py before running this
+# script.
+
+# NOTE: The statement "This Python file uses the following encoding: utf-8" is necessary
+# at the beginning of the script, even though it appears as a comment.
+
 
 import re
 import os
@@ -23,6 +29,8 @@ do_schwa_insertion = False # Set to True or False
 if not os.path.exists('output'):
 	os.makedirs('output')
 
+
+#########################################################################################
 #### DICTIONARY ####
 # Special symbols to be added to dictionary:
 dico = {}
@@ -52,7 +60,7 @@ with open('auxiliary/french.dic') as dic:
 		if len(aux) == 2:
 			dico[aux[0]] = aux[1]
 
-
+#########################################################################################
 #### PHONEMES ####
 # Symbols used as in Lexique: http://www.lexique.org/outils/Manuel_Lexique.htm#_Toc108519023
 # Note: There is a problem with the encoding of the special characters § (nasal o) and ° (schwa),
@@ -103,7 +111,7 @@ pronunciation['f'] = 'f'
 pronunciation['x'] = ['s', 'z']
 pronunciation['r'] = 'R'
 
-
+#########################################################################################
 #### WORD LISTS ####
 # These lists contain all words in certain grammatical categories, necessary
 # for checking certain liaison contexts. They were obtained from Lexique380.
@@ -173,7 +181,7 @@ with open('auxiliary/output_VER3p.txt') as VER3plist:
 		line = line.strip().decode('cp1252').encode('utf-8')
 		verbs_3p.append(line)
 
-			
+#########################################################################################
 #### LIAISON EXCEPTIONS ####
 # These are words that will never trigger liaison:
 
@@ -202,7 +210,7 @@ other_exceptions                  = ['et', 'ou', 'où', 'oui', 'ouais', 'apparem
 
 exceptions_next = h_aspire + interjections + loanwords_with_initial_semivowels + names_of_letters + proper_names + other_exceptions
 
-
+#########################################################################################
 #### LIAISON CASES ####
 
 # (1) Cases that apply always except if followed by specific exception words
@@ -311,7 +319,7 @@ only_before['bon']     = ['anniversaire', 'état', 'endroit', 'ordre', 'appui', 
 # Examples: the word "était" in "il était une fois", or the word "plus" in "plus ou moins".
 # As this cannot be written into a simple dictionary, hese cases are written directly in the check_liaison function (see FUNCTIONS section below).
 
-
+#########################################################################################
 #### OTHER REQUIRED LISTS ####
 
 ## Denasalization cases:
@@ -333,7 +341,7 @@ denasalization['divin']    = 'di-vin'
 # Enchainement exceptions (hum, hein, op):
 enchainement_exceptions = ['9m','5', 'Op']
 
-
+#########################################################################################
 #### FUNCTIONS ####
 
 ## Functions to check phonological contexts ##
@@ -493,6 +501,7 @@ def check_enchainement(all_words, k) :
 	return do_enchainement
 	
 def apply_enchainement(newwords, i) :
+	# Note: This function applies enchainement and je-devoicing
 	currentword = newwords[i].replace("'","").replace('§', '4').replace('°', '6') # Remove apostrophes and replace special characters
 	# Select which consonants to resyllabify:
 	if not any(phoneme in vowels for phoneme in currentword):
@@ -504,15 +513,14 @@ def apply_enchainement(newwords, i) :
 	else:
 		final_consonants = currentword[-1] # Otherwise only final consonant
 		newwords[i] = currentword[:-1]
-		
+	# Devoicing of j(e) before voiceless obstruents:
 	if (final_consonants[-1] == 'Z') and (newwords[i+1][0] in unvoiced_obstruents):
-		final_consonants = final_consonants[:-1] + 'S'  # De-voicing of j(e) before unvoiced obstruents
+		final_consonants = final_consonants[:-1] + 'S'
 
 	newwords[i+1] = (final_consonants + newwords[i+1]).replace('4','§').replace('6','°') # Append consonants to next word and re-introduce special characters if any
 	newwords[i]   = newwords[i].replace('4','§').replace('6','°') # Remove from current word and re-introduce special characters if any
 	return newwords
 
-	
 ## Functions for printing results ##
 
 def get_context(line, k):
@@ -570,15 +578,17 @@ def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcrib
 	print >> file_name, (str(line_index + 1).ljust(7) + unedited + edited + context)
 
 	
-	
+#########################################################################################
 #### MAIN BODY OF PHONOLOGIZER CODE ####
+
 for corpusdir in dirlist:
 	print 'Phonologizing transcription of:', corpusdir
 	input_location  = 'corpora/' + corpusdir + '/clean'
 	output_location = 'output/'  + corpusdir
 	if not os.path.exists(output_location):
 		os.makedirs(output_location)
-		
+	
+	#####################################################################################
 	#### 1: FIRST TRANSCRIPTION + LIAISON ####
 	# Open output files:
 	f         = open(output_location + '/liaison_cases.txt', 'w')
@@ -640,7 +650,7 @@ for corpusdir in dirlist:
 	frejected.close()
 	last_phonologized_file_name = '/phonologized_L'
 
-
+	#####################################################################################
 	#### 2: LIQUID DELETION ####
 	# Open output files:
 	f2       = open(output_location + '/liquid_deletion_cases.txt', 'w')
@@ -674,7 +684,7 @@ for corpusdir in dirlist:
 	foutput2.close()
 	last_phonologized_file_name = last_phonologized_file_name + '_D'
 
-
+	#####################################################################################
 	#### 3: SCHWA INSERTION (OPTIONAL)####
 	# Note: to use this phonological rule, set do_schwa_insertion = TRUE at the top of the script
 	if do_schwa_insertion:
@@ -704,8 +714,8 @@ for corpusdir in dirlist:
 		foutput3.close()
 		last_phonologized_file_name = last_phonologized_file_name + '_S'
 
-
-	#### 4: ENCHAINEMENT ####
+	#####################################################################################
+	#### 4: ENCHAINEMENT + JE-DEVOICING ####
 	# Open output files:
 	f4       = open(output_location + '/enchainement_cases.txt', 'w')
 	foutput4 = open(output_location + last_phonologized_file_name + '_E.txt', 'w')

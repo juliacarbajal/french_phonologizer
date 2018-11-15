@@ -1,15 +1,28 @@
 # This Python file uses the following encoding: utf-8
+
+######################################################################################
+#
+#    CORPUS COMPILER (2018)
+#
+#    Authors: Julia Carbajal, Camillia Bouchon, Emmanuel Dupoux & Sharon Peperkamp
+#    Contact: carbajal.mjulia@gmail.com   or   sharon.peperkamp@ens.fr
+#
+######################################################################################
+
+# NOTE: Please verify that you have successfully run clean_corpus.py and phonologize.py
+# before running this script.
+
 import os
 
-###############################################################################################
 # SET PARAMETERS
 
 # Age limits (XyXm):
-age_min_input = '0y0m' # Eventually make this input user-defined
+age_min_input = '0y0m'
 age_max_input = '2y0m'
 
 # Define which transcription to load (orthographic or phonological):
-option = 1
+# Note: use option 4 for the phonologized corpus described in Carbajal, Bouchon, Dupoux & Peperkamp (2018)
+option = 4
 
 if option == 1:
 	# Orthographic transcription
@@ -17,31 +30,25 @@ if option == 1:
 	folder = 'corpora'
 	filename = '/clean/extract.txt'
 	outname = 'ortho'
-elif option == 2:
-	# Phonological transcription with Liaison (no other rules)
+elif option in [2,3,4,5]:
 	phono_transcript = True
 	folder = 'output'
-	filename = '/phonologized_L.txt'
-	outname = 'phono'
-elif option == 3:
-	# Phonological transcription with Liaison and Liquid Deletion
-	phono_transcript = True
-	folder = 'output'
-	filename = '/phonologized_L_D.txt'
-	outname = 'phono'
-elif option == 4:
-	# Phonological transcription with Liaison, Liquid Deletion and Enchainement (resyllabification)
-	phono_transcript = True
-	folder = 'output'
-	filename = '/phonologized_L_D_E.txt'
-	outname = 'phono'
-elif option == 5:
-	# Phonological transcription with Liaison, Liquid Deletion, Schwa Insertion and Enchainement (resyllabification)
-	phono_transcript = True
-	folder = 'output'
-	filename = '/phonologized_L_D_S_E.txt'
-	outname = 'phono'
-
+	if option == 2:
+		# Phonological transcription with Liaison (no other rules)
+		filename = '/phonologized_L.txt'
+		outname = 'phono_L'
+	elif option == 3:
+		# Phonological transcription with Liaison and Liquid Deletion
+		filename = '/phonologized_L_D.txt'
+		outname = 'phono_L_D'
+	elif option == 4:
+		# Phonological transcription with Liaison, Liquid Deletion and Enchainement plus Je-devoicing (resyllabification)
+		filename = '/phonologized_L_D_E.txt'
+		outname = 'phono_L_D_E'
+	elif option == 5:
+		# Phonological transcription with Liaison, Liquid Deletion, Schwa Insertion and Enchainement plus Je-devoicing (resyllabification)
+		filename = '/phonologized_L_D_S_E.txt'
+		outname = 'phono_L_D_S_E'
 
 # Print fileID and age?
 printInfo = True
@@ -62,7 +69,7 @@ if removeParentheses:
 else:
 	removeParenthesesTag = ''
 
-###############################################################################################
+###########################################################################################
 # FUNCTIONS
 
 def parse_age(age_string):
@@ -88,7 +95,7 @@ def check_age(current_age):
 		include = False
 	return include
 
-###############################################################################################
+###########################################################################################
 # COMPILE & PRINT
 
 if not os.path.exists('compiled_corpus'):
