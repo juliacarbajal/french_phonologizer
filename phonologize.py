@@ -571,9 +571,9 @@ def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcrib
 
 	
 	
-#### MAIN BODY OF TRANSCRIPTION CODE ####
+#### MAIN BODY OF PHONOLOGIZER CODE ####
 for corpusdir in dirlist:
-	print 'Recoding transcription of:', corpusdir
+	print 'Phonologizing transcription of:', corpusdir
 	input_location  = 'corpora/' + corpusdir + '/clean'
 	output_location = 'output/'  + corpusdir
 	if not os.path.exists(output_location):
@@ -638,12 +638,13 @@ for corpusdir in dirlist:
 	f.close()
 	foutput.close()
 	frejected.close()
+	last_phonologized_file_name = '/phonologized_L'
 
 
 	#### 2: LIQUID DELETION ####
 	# Open output files:
 	f2       = open(output_location + '/liquid_deletion_cases.txt', 'w')
-	foutput2 = open(output_location + '/phonologized_L_D.txt', 'w')
+	foutput2 = open(output_location + last_phonologized_file_name + '_D.txt', 'w')
 
 	# Load orthographic transcription:
 	text_ort = []
@@ -651,7 +652,7 @@ for corpusdir in dirlist:
 		for line_ID, line_text in enumerate(original_file):
 			text_ort.append(line_text.strip())
 			
-	with open(output_location + '/phonologized_L.txt') as input_file:
+	with open(output_location + last_phonologized_file_name + '.txt') as input_file:
 		for line_ID, line_text in enumerate(input_file):
 			newwords      = []
 			full_line     = line_text.split()
@@ -671,6 +672,7 @@ for corpusdir in dirlist:
 			
 	f2.close()
 	foutput2.close()
+	last_phonologized_file_name = last_phonologized_file_name + '_D'
 
 
 	#### 3: SCHWA INSERTION (OPTIONAL)####
@@ -678,9 +680,9 @@ for corpusdir in dirlist:
 	if do_schwa_insertion:
 		# Open output files:
 		f3       = open(output_location + '/schwa_insertion_cases.txt', 'w')
-		foutput3 = open(output_location + '/phonologized_L_D_S.txt', 'w')
+		foutput3 = open(output_location + last_phonologized_file_name + '_S.txt', 'w')
 
-		with open(output_location + '/phonologized_L_D.txt') as input_file:
+		with open(output_location + last_phonologized_file_name + '.txt') as input_file:
 			for line_ID, line_text in enumerate(input_file):
 				newwords  = []
 				full_line = line_text.split()
@@ -700,19 +702,15 @@ for corpusdir in dirlist:
 			
 		f3.close()
 		foutput3.close()
+		last_phonologized_file_name = last_phonologized_file_name + '_S'
 
 
 	#### 4: ENCHAINEMENT ####
 	# Open output files:
 	f4       = open(output_location + '/enchainement_cases.txt', 'w')
-	if do_schwa_insertion:
-		foutput4 = open(output_location + '/phonologized_L_D_S_E.txt', 'w')
-		previous_phonologized_file_name = '/phonologized_L_D_S.txt'
-	else:
-		foutput4 = open(output_location + '/phonologized_L_D_E.txt', 'w')
-		previous_phonologized_file_name = '/phonologized_L_D.txt'
+	foutput4 = open(output_location + last_phonologized_file_name + '_E.txt', 'w')
 
-	with open(output_location + previous_phonologized_file_name) as input_file:
+	with open(output_location + last_phonologized_file_name + '.txt') as input_file:
 		for line_ID, line_text in enumerate(input_file):
 			newwords  = []
 			full_line = line_text.split()
