@@ -135,6 +135,25 @@ def utterance_not_empty(current_line):
 			not_empty = True
 	return not_empty
 
+def get_participants(chafiles):
+	participants = []
+	age = {}
+	children = ['child','target_child','brother','sister','playmate','girl','boy','cousin']
+	for chafile in chafiles:
+		with open(input_location +'\\'+ chafile, mode = 'rU') as file:
+			for line in file:
+				aux = re.split(r'\t+', line.strip())
+				if aux[0] == '@ID:':
+					participant_info = aux[1].split('|')
+					participant_tag  = participant_info[2]
+					participant_type = participant_info[7]
+					participant_age  = participant_info[3]
+					if (participant_type.lower() not in children) and (participant_tag not in participants):
+						participants.append(participant_tag)
+					elif (participant_type.lower() == 'target_child') or (participant_tag == 'CHI') and (chafile not in age):
+						age[chafile] = participant_age
+	return participants, age
+
 ######################################################################################
 #### CLEANING ####
 
@@ -162,22 +181,13 @@ for corpusdir in dirlist:
 
 	print "Total files found:\t", counter
 
-	# Load participants and child's info:
-	participants = []
-	age = {}
-	with open(root + '\\' + corpusdir + '\\participants.txt') as Plist:
-		for line in Plist:
-			aux = line.split()
-			if (aux[0] == '0') and (aux[2] not in participants):
-				participants.append(aux[2])
-			if ('Target_Child' in aux[5]) or ((aux[2] == 'CHI') and (aux[1] not in age)):
-				child_info = aux[5].split('|')
-				age[aux[1]] = child_info[3]
-				
+	# Load participants and child's age:
+	participants, age = get_participants(chafiles)
 
 	# Read and clean files:
 	for file in chafiles:
 		print "Analysing file: ", file
+		print age[file]
 		child_age = age[file]
 		if child_age[-1] == '.':
 			child_age = child_age + '00' # Add 00 days if days missing from age, e.g. age = "2;8."
