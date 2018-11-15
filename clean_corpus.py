@@ -195,7 +195,7 @@ for corpusdir in dirlist:
 		child_age = re.sub('[;\.]',' ',child_age) # Replace age written as "y;m.d" by "y m d"
 		continue_line = 0
 		processed_lines = ''
-		with open(input_location +'\\'+ file) as corpus:	
+		with open(input_location +'\\'+ file, mode = 'rU') as corpus:	
 			for j, line in enumerate(corpus):
 				line = line.strip()
 				is_adult_speaking = ((line[0] == '*') and (line[1:4] in participants)) or (continue_line == 1)
