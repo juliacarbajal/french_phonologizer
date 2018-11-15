@@ -55,23 +55,21 @@ with open('auxiliary/french.dic') as dic:
 
 #### PHONEMES ####
 # Symbols used as in Lexique: http://www.lexique.org/outils/Manuel_Lexique.htm#_Toc108519023
+# Note: There is a problem with the encoding of the special characters § (nasal o) and ° (schwa),
+# these characters are not matching correctly. For the moment (01/08/17) I have failed to fix it.
+# The workaround is to replace these special characters with simple characters only for the parts
+# of script that require comparing vowels. I replace § with 4, and ° with 6 (both unused otherwise).
 
 ## Vowels:
 # vowels = ['a','i','e','E','o','O','u','y','§','1','5','2','9','@','°','3']
 vowels     = ['a','i','e','E','o','O','u','y','4','1','5','2','9','@','6','3']
 semivowels = ['j', '8', 'w']
-# Note: There is a problem with the encoding of the special characters § and °.
-# For the moment (01/08/17) I have failed to fix it, I have tried different
-# ways of encoding the text but my code still fails to find it in the list.
-# The workaround is to replace these special characters with simple characters 
-# only for the parts of script that require comparing vowels.
 
 ## Consonants:
 unvoiced_obstruents = ['p','t','k','f','s','S']
 voiced_obstruents   = ['b','d','g','v','z','Z']
 liquids             = ['l', 'R']
 nasals              = ['m', 'n', 'N']
-
 obstruents = unvoiced_obstruents + voiced_obstruents
 consonants = obstruents + liquids + nasals
 
@@ -112,7 +110,7 @@ pronunciation['r'] = 'R'
 
 V_initial_pronouns = ['il', 'elle', 'on', 'ils', 'elles']
 
-# Load the plural adjectives:
+## Plural adjectives ##
 # Only adjectives finishing in a liaison consonant
 plural_adjectives   = [] 
 with open('auxiliary/output_ADJ.txt') as ADJlist:
@@ -123,11 +121,10 @@ with open('auxiliary/output_ADJ.txt') as ADJlist:
 				plural_adjectives.append(line)
 plural_adjectives.append('gros') # Adding "gros"" which is not otherwise included (in Lexique it is not marked neither as s nor p)
 
-# Prenominal singular adjectives that may undergo liaison:
+## Prenominal singular adjectives that may undergo liaison ##
 singular_adjectives = ['petit','grand','gros','premier','dernier','certain','moyen','prochain','sain','lointain','ancien','vain','vilain','divin']
 
-
-# Load the plural nouns:
+## Nouns ##
 V_nouns_singular = [] # Vowel-initial singular nouns
 V_nouns_plural   = [] # Vowel-initial plural nouns
 C_nouns_singular = [] # Consonant-initial nouns
@@ -162,7 +159,7 @@ V_nouns_singular = V_nouns_singular + ['aimant', 'africain', 'indien', 'enclos']
 V_nouns = V_nouns_singular + V_nouns_plural
 C_nouns = C_nouns_singular + C_nouns_plural
 
-# Load 3rd person verbs:
+## 3rd person verbs ##
 verbs_3s = []
 with open('auxiliary/output_VER3s.txt') as VER3slist:
 	for line in VER3slist:
@@ -271,7 +268,6 @@ always_except['ces']       = exceptions_next
 always_except['quels']     = exceptions_next + ['il', 'ils', 'elle', 'elles']
 always_except['quelles']   = exceptions_next + ['il', 'ils', 'elle', 'elles']
 
-
 # (2) Cases that apply only if followed by specific items:
 # Keys: Words that are considered to undergo mandatory liaison in specific contexts
 # Values: List of following words that trigger liaison for each Key.
@@ -310,14 +306,13 @@ only_before['bon']     = ['anniversaire', 'état', 'endroit', 'ordre', 'appui', 
 # Note: we only apply liaison to "bon" in these specific cases in which it was used as a prenominal adjective in the corpus,
 # since "bon" is most often used as an interjection, in which case it doesn't undergo liaison.
 
-
 # (3) Cases that apply only in specific phrases:
 # Some words undergo liaison in specific phrases that require checking a larger context involving preceding and succeeding words.
 # Examples: the word "était" in "il était une fois", or the word "plus" in "plus ou moins".
 # As this cannot be written into a simple dictionary, hese cases are written directly in the check_liaison function (see FUNCTIONS section below).
 
 
-#### OTHER DETAILS
+#### OTHER REQUIRED LISTS ####
 
 ## Denasalization cases:
 denasalization = {}
@@ -340,6 +335,9 @@ enchainement_exceptions = ['9m','5', 'Op']
 
 
 #### FUNCTIONS ####
+
+## Functions to check phonological contexts ##
+
 def silent_consonant(letter, phone):
 	# Checks if a consonant is silent
 	if (letter in liaison) and (phone not in pronunciation[letter]):
@@ -514,6 +512,9 @@ def apply_enchainement(newwords, i) :
 	newwords[i]   = newwords[i].replace('4','§').replace('6','°') # Remove from current word and re-introduce special characters if any
 	return newwords
 
+	
+## Functions for printing results ##
+
 def get_context(line, k):
 	# This function retrieves (if possible) 5 words from an utterance,
 	# centered around a target word k (k=index of target word in utterance).
@@ -672,7 +673,8 @@ for corpusdir in dirlist:
 	foutput2.close()
 
 
-	#### 3: SCHWA INSERTION ####
+	#### 3: SCHWA INSERTION (OPTIONAL)####
+	# Note: to use this phonological rule, set do_schwa_insertion = TRUE at the top of the script
 	if do_schwa_insertion:
 		# Open output files:
 		f3       = open(output_location + '/schwa_insertion_cases.txt', 'w')
