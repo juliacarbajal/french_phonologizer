@@ -10,8 +10,7 @@
 ######################################################################################
 
 # NOTE: Please verify that all corpora to be processed are located in corpora/corpus_name/raw/
-# (one folder per corpus, containing .cha files) and that you have a participants.txt file in
-# corpora/corpus_name/ before running this script.
+# (one folder per corpus, containing .cha files) before running this script.
 
 import re
 import os
