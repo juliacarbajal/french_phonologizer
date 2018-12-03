@@ -546,10 +546,8 @@ def print_applied_liaison(line_index, all_words, k, transcribed_word, file_name)
 	# This prints a list of all the liaison cases that were applied.
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
-	unedited = concatenate_and_justify(current_word, next_word) #(current_word + ' ' + next_word).decode('utf-8').encode('cp1252').ljust(30) 
-	#unedited = unedited.decode('cp1252').encode('utf-8')                                   
-	edited   = concatenate_and_justify(transcribed_word, dico[next_word])#(transcribed_word + ' ' + dico[next_word]).decode('utf-8').encode('cp1252').ljust(30)
-	#edited   = edited.decode('cp1252').encode('utf-8')
+	unedited = concatenate_and_justify(current_word, next_word)                  
+	edited   = concatenate_and_justify(transcribed_word, dico[next_word])
 	# Add a part of the sentence to clarify the context:
 	context = get_context(all_words, k)
 	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
@@ -559,10 +557,8 @@ def print_applied_cases(line_index, all_words_phon, k, all_words_ort, transcribe
 	current_word_ort = all_words_ort[k]
 	next_word_ort    = all_words_ort[k+1]
 	next_word_phon   = all_words_phon[k+1]
-	unedited = (current_word_ort + ' ' + next_word_ort).decode('utf-8').encode('cp1252').ljust(30)
-	unedited = unedited.decode('cp1252').encode('utf-8')
-	edited   = (transcribed_word + ' ' + next_word_phon).decode('utf-8').encode('cp1252').ljust(30)
-	edited   = edited.decode('cp1252').encode('utf-8')
+	unedited = concatenate_and_justify(current_word_ort, next_word_ort)
+	edited   = concatenate_and_justify(transcribed_word, next_word_phon)
 	# Add context:
 	context = get_context(all_words_ort, k)
 	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)
@@ -572,10 +568,8 @@ def print_enchainement(line_index, k, all_words_ort, transcribed_word, transcrib
 	current_word_ort = all_words_ort[k]
 	next_word_ort    = all_words_ort[k+1]
 	#print line_index
-	unedited = (current_word_ort + ' ' + next_word_ort).decode('utf-8').encode('cp1252').ljust(30)
-	unedited = unedited.decode('cp1252').encode('utf-8')
-	edited   = (transcribed_word + ' ' + transcribed_word_2).decode('utf-8').encode('cp1252').ljust(30)
-	edited   = edited.decode('cp1252').encode('utf-8')
+	unedited = concatenate_and_justify(current_word_ort, next_word_ort)
+	edited   = concatenate_and_justify(transcribed_word, transcribed_word_2)
 	if (edited[0] == ' '): # Correct empty spaces when the first word was absorbed fully by second word
 		edited = edited[1:]
 	# Add context:

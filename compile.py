@@ -71,6 +71,9 @@ removeParentheses = False
 # Note: in many dialects of French, this contrast doesn't exist. E.g., "brun" and "brin" are both pronounced with nasal ɛ.
 collapseNasals = True
 
+# Remove geminates? (double consonats)
+removeGeminates = True
+
 ###########################################################################################
 # FUNCTIONS
 
@@ -149,7 +152,9 @@ for corpusdir in dirlist:
 				line_text = line_text.replace('(','').replace(')','')
 			line = line_text.split()
 			if phono_transcript and collapseNasals:
-				line[5:] = [text.replace('1','5') for text in line[5:]] # NOT WORKING (to do!)
+				line[5:] = [text.replace('1','5') for text in line[5:]]
+			if phono_transcript and removeGeminates:
+				# TO DO: Find a way to implement this.
 			age = [int(x) for x in line[1:4]]
 			if check_age(age):
 				if printInfo:
