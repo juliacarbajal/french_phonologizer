@@ -536,15 +536,20 @@ def get_context(line, k):
 		context = line[-6:]
 	context = ' '.join(context)
 	return context
+
+def concatenate_and_justify(word1, word2):
+	concatenated_text = (word1 + ' ' + word2).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
+	concatenated_text = concatenated_text.decode('cp1252').encode('utf-8')               # Back to unicode for printing
+	return concatenated_text
 	
 def print_applied_liaison(line_index, all_words, k, transcribed_word, file_name):
 	# This prints a list of all the liaison cases that were applied.
 	current_word = all_words[k]
 	next_word    = all_words[k+1]
-	unedited = (current_word + ' ' + next_word).decode('utf-8').encode('cp1252').ljust(30) # Reencode in ANSI to left-justify
-	unedited = unedited.decode('cp1252').encode('utf-8')                                   # Back to unicode for printing
-	edited   = (transcribed_word + ' ' + dico[next_word]).decode('utf-8').encode('cp1252').ljust(30)
-	edited   = edited.decode('cp1252').encode('utf-8')
+	unedited = concatenate_and_justify(current_word, next_word) #(current_word + ' ' + next_word).decode('utf-8').encode('cp1252').ljust(30) 
+	#unedited = unedited.decode('cp1252').encode('utf-8')                                   
+	edited   = concatenate_and_justify(transcribed_word, dico[next_word])#(transcribed_word + ' ' + dico[next_word]).decode('utf-8').encode('cp1252').ljust(30)
+	#edited   = edited.decode('cp1252').encode('utf-8')
 	# Add a part of the sentence to clarify the context:
 	context = get_context(all_words, k)
 	print >> file_name, (str(line_index + 1).ljust(5) + unedited + edited + context)

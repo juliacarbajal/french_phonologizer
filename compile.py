@@ -67,7 +67,7 @@ lowerCase = False
 # Remove parentheses? (They mark unpronounced parts of words - only useful in orthographic transcriptions)
 removeParentheses = False
 
-# Collapse nasal oe (symbol "1") and nasal ɛ (symbol "5") into single category (symbol "5")?
+# Collapse mid-front nasals (symbols "1" -nasal oe- and "5" -nasal ɛ-) into single category (symbol "5")?
 # Note: in many dialects of French, this contrast doesn't exist. E.g., "brun" and "brin" are both pronounced with nasal ɛ.
 collapseNasals = True
 
@@ -106,10 +106,10 @@ if not os.path.exists('compiled_corpus'):
 # Tags and options info:
 if printInfo:
 	printInfoTag = ''
-	infofullname = '*Print file ID and age: True'
+	infochoice = '*Print file ID and age: True'
 else:
 	printInfoTag = '_noFileInfo'
-	infofullname = '*Print file ID and age: False'
+	infochoice = '*Print file ID and age: False'
 if (not phono_transcript) and removeParentheses:
 	removeParenthesesTag = '_noParnths'
 	parenthesischoice = '*Print parentheses: False'
@@ -117,9 +117,9 @@ else:
 	removeParenthesesTag = ''
 	parenthesischoice = '*Print parentheses: True'
 if collapseNasals:
-	nasalsfullname = '*Collapse mid-front nasals: True'
+	nasalschoice = '*Collapse mid-front nasals: True'
 else:
-	nasalsfullname = '*Collapse mid-front nasals: False'
+	nasalschoice = '*Collapse mid-front nasals: False'
 
 # Open output file for writing
 f = open('compiled_corpus/corpus_' + outname + '_' + age_min_input + '_' + age_max_input + printInfoTag + removeParenthesesTag + '.txt', 'w')
@@ -131,11 +131,11 @@ dirlist = [ item for item in os.listdir(folder) if os.path.isdir(os.path.join(fo
 print '\nCompiling corpora with the following options:\n'
 print fullname
 print '*Age range: ' + age_min_input + ' - ' + age_max_input
-print infofullname
+print infochoice
 if (not phono_transcript):
 	print parenthesischoice
 else:
-	print nasalsfullname
+	print nasalschoice
 print '*Included corpora:'
 	
 for corpusdir in dirlist:
