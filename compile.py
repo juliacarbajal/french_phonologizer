@@ -67,12 +67,12 @@ lowerCase = False
 # Remove parentheses? (They mark unpronounced parts of words - only useful in orthographic transcriptions)
 removeParentheses = False
 
-# Collapse mid-front nasals (symbols "1" -nasal oe- and "5" -nasal ɛ-) into single category (symbol "5")?
+# Collapse mid-front nasals (symbols "1" -nasal oe- and "5" -nasal ɛ-) into one single category (symbol "5")?
 # Note: in many dialects of French, this contrast doesn't exist. E.g., "brun" and "brin" are both pronounced with nasal ɛ.
 collapseNasals = True
 
-# Remove geminates? (double consonats)
-removeGeminates = True
+# Remove geminates? (i.e. double consonats in word boundaries, e.g. elle la -> El la -> E la)
+removeGeminates = False
 
 ###########################################################################################
 # FUNCTIONS
@@ -145,7 +145,7 @@ if (not phono_transcript):
 else:
 	print nasalschoice
 	print geminatechoice
-print '*Included corpora:'
+print '\nIncluded corpora:'
 
 consonants = ['p','t','k','f','s','S','b','d','g','v','z','Z','l', 'R','m', 'n', 'N']
 
