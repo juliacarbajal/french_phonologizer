@@ -119,10 +119,15 @@ if (not phono_transcript) and removeParentheses:
 else:
 	removeParenthesesTag = ''
 	parenthesischoice = '*Print parentheses: True'
-if collapseNasals:
-	nasalschoice = '*Collapse mid-front nasals: True'
-else:
-	nasalschoice = '*Collapse mid-front nasals: False'
+if phono_transcript:
+	if collapseNasals:
+		nasalschoice = '*Collapse mid-front nasals: True'
+	else:
+		nasalschoice = '*Collapse mid-front nasals: False'
+	if removeGeminates:
+		geminatechoice = '*Remove geminates: True'
+	else:
+		geminatechoice = '*Remove geminates: False'
 
 # Open output file for writing
 f = open('compiled_corpus/corpus_' + outname + '_' + age_min_input + '_' + age_max_input + printInfoTag + removeParenthesesTag + '.txt', 'w')
@@ -139,8 +144,11 @@ if (not phono_transcript):
 	print parenthesischoice
 else:
 	print nasalschoice
+	print geminatechoice
 print '*Included corpora:'
-	
+
+consonants = ['p','t','k','f','s','S','b','d','g','v','z','Z','l', 'R','m', 'n', 'N']
+
 for corpusdir in dirlist:
 	print ' -' + corpusdir
 	location = folder + '/' + corpusdir
@@ -154,7 +162,16 @@ for corpusdir in dirlist:
 			if phono_transcript and collapseNasals:
 				line[5:] = [text.replace('1','5') for text in line[5:]]
 			if phono_transcript and removeGeminates:
-				# TO DO: Find a way to implement this.
+				phono_with_geminates = line[5:]
+				for k, word in enumerate(phono_with_geminates):
+					coda1 = word[-1]
+					if k < len(phono_with_geminates) -1:
+						onset2 = phono_with_geminates[k+1][0]
+					else:
+						onset2 = '#'
+					if (coda1 in consonants) and (onset2 == coda1):
+						phono_with_geminates[k] = word[:-1]
+				line[5:] = phono_with_geminates
 			age = [int(x) for x in line[1:4]]
 			if check_age(age):
 				if printInfo:
