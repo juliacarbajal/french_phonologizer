@@ -1,45 +1,26 @@
-# Liaison
-These scripts read a cleaned-up orthographic transcription of corpora from CHILDES and transcribes it phonologically based on the Lexique380 French dictionary. The script called **recode.py** only uses the dictionary transcriptions, while in **recode_v2.py** I automatised the implementation of 4 phonological rules of French, as described in Ngon et al. (2013): obligatory _liaison_, liquid deletion, schwa insertion and resyllabification (_enchainement_). All scripts are written for Python 2. No special libraries are required.
+# French Phonologizer
+These scripts allow to clean orthographic transcriptions of corpora from CHILDES and transform them into an approximate phonological transcription based on the Lexique380 French dictionary with the addition of several French phonological rules: obligatory _liaison_, liquid deletion, schwa insertion (optional), resyllabification (_enchainement_) and _je_-devoicing. All scripts are written for Python 2.
 
-## Phonological transcriptions without phonological rules
-The main script is called **recode.py**.
+## Main scripts
+The phonologizer is separated in three scripts: **clean_corpus.py**, **phonologize.py** and **compile.py**, to be used in that order.
 
 ### Input files
-The following files are required to run the code
-* **extract.txt**: This file contains a clean orthographic transcription of a corpus. Each line corresponds to one utterance, preceded by the name of the file and the age of the child at the moment the utterance was produced. An example is given in **test_corpus/short_extract.txt**.
-* **auxiliary/french.dic**: This is a simplified version of the Lexique380 French dictionary. It contains only two columns, one with the orthographic forms, and one with the phonological forms.
+These scripts work with CHILDES orthographic transcriptions of speech written in CHAT format. In order to process a corpus, you must download the collection of *.cha files for the given corpus from CHILDES, and store them in the directory **corpora/corpus_name/** under a new subdirectory called **raw/**. We do not provide the raw files for the corpora we have processed here, but they can be downloaded from https://childes.talkbank.org/ .
 
-### Output file
-The output will contain the phonological transcription line by line, preceded by the same info that precedes the input extract file.
+### Cleaning
+The cleaning script **clean_corpus.py** takes the orthographic transcriptions located under each **corpora/corpus_name/raw/** directory and cleans them up, returning a simplified transcription with no annotations. This transcription is a concatenation of all the *.cha files found in the directory. During this step, utterances from children are filters out. The output of this script is a single file called **extract.txt**, located under **corpora/corpus_name/clean/**.
 
-## Transcriptions with phonological rules
-The main script is called **recode_v2.py**. This script will process all corpora included in the **corpora** folder, separated in folders by corpus_name.
+### Phonologizing
+The script **phonologize.py** takes the cleaned-up files **extract.txt** from each corpus in the **corpora/** directory and produces an approximate phonological transcription based on the Lexique380 French dictionary, with the addition of the following French phonological rules: obligatory _liaison_, liquid deletion, schwa insertion (optional), resyllabification (_enchainement_) and _je_-devoicing. For more information on these rules please read the documentation.
 
-### Input
-The following files are required to run the code
-* **corpora/corpus_name/clean/extract.txt**: This file contains a clean orthographic transcription of a corpus. Each line corresponds to one utterance, preceded by the name of the file and the age of the child at the moment the utterance was produced.
-* **auxiliary/french.dic**: This is a simplified version of the Lexique380 French dictionary. It contains only two columns, one with the orthographic forms, and one with the phonological forms.
-* **auxiliary/output_ADJ.txt**: List of adjectives, extracted from Lexique380.
-* **auxiliary/output_NOMp.txt**: List of plural nouns, extracted from Lexique380.
-* **auxiliary/output_VER.txt**: List of verbs in 3rd person plural or singular, extracted from Lexique380.
-* **auxiliary/h_aspire.txt**: List of words beginning with h-aspiré, obtained from Wikipedia.
+As the rules are applied in a chain, an output file is produced after each rule, indicating the rules that have been applied so far with a letter: _L for _liaison_, _D for liquid deletion, _S for schwa insertion and _E for _enchaînement_ + _je_-devoicing. For instance, the output file with all rules except schwa insertion applied is called **phonologized_L_D_E.txt**. These files will be saved in the directory **output/corpus_name/**. Additionally, lists of applied cases (and also rejected cases for _liaison_ only) will be printed after each rule for debugging. These can be found in the same directory as the phonologized output.
 
-### Output
-The following output files are generated when running recode_v2.py. These files will be created separately for each corpus and organised by corpus_name inside an **output** folder.
+Auxiliary files containing lists of words and dictionaries necessary for processing the phonological rules are contained in the directory **auxiliary/**.
 
-Note that all phonological rules output lists include line number, orthographic form and context to facilitate checking the output.
+### Compiling several corpora
+To obtain one final compiled corpus composed of multiple corpora, use the **compile.py** script. This script will gather all output files of a specified kind (e.g., orthographic or phonological transcriptions) located in **output/** and concatenate them to obtain one single corpus. This script allows to define several parameters, such as the age range of the children at the moment of the recording, the inclusion of file info at the beginning of each utterance, as well as some final modifications to the phonological transcription, namely the merging of mid-front nasals (not contrastive in many European French dialects) and the removal of geminates (double consonants).
 
-* **liaison_cases.txt**: List of all cases where liaison was applied.
-* **rejected_liaison_cases.txt**: List of all potential liaison cases where liaison was *not* applied.
-* **liquid_deletion_cases.txt**: List of all cases where liquid deletion was applied.
-* **schwa_insertion_cases.txt**: List of all cases where schwa insertion was applied.
-* **enchainement_cases.txt**: List of all cases where enchainement was applied. Note that the script is sequential and so enchainement cases are printed as they are applied. This means that enchainement cases involving more than one word will appear through several successive lines. To check the final output, note the line number and check the corresponding line in recoded_L_D_S_E.txt.
-* **recoded_with_liaison.txt**: Phonological transcription of the corpus with only liaison applied.
-* **recoded_L_D.txt**: Phonological transcription of the corpus with liaison + liquid deletion.
-* **recoded_L_D_S.txt**: Phonological transcription of the corpus with liaison + liquid deletion + schwa insertion.
-* **recoded_L_D_S_E.txt**: Phonological transcription of the corpus with liaison + liquid deletion + schwa insertion + enchainement.
+The resulting compilation will be saved in the directory **compiled_corpus.txt**. 
 
-## To Do
-* Fix problem with "i(l) s ont".
-* Turn phonological rules into modules, merge with recode.py and give options of which modules to run.
+
 
