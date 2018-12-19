@@ -1,5 +1,5 @@
 # A toolbox for phonologizing French infant-directed speech corpora
-These scripts allow to clean orthographic transcriptions of corpora from CHILDES and transform them into an approximate phonological transcription based on the Lexique380 French dictionary with the addition of several French phonological rules: obligatory _liaison_, liquid deletion, schwa insertion (optional), resyllabification (_enchainement_) and _je_-devoicing. All scripts are written in Python 2.
+These scripts allow to clean orthographic transcriptions of corpora from CHILDES and transform them into an approximate phonological transcription based on the Lexique380 French dictionary with the addition of several French phonological rules: obligatory _liaison_, liquid deletion, schwa insertion (optional), resyllabification (_enchaînement_) and _je_-devoicing. All scripts are written in Python 2.
 
 ## Input files
 This phonologizer works with CHILDES orthographic transcriptions of speech written in CHAT format. In order to process a corpus, you must download the collection of *.cha files for the given corpus from CHILDES, and store them in the directory **corpora/corpus_name/** under a new subdirectory called **raw/**. We do not provide the *.cha files for the corpora we have processed here, but they can be downloaded from https://childes.talkbank.org/ .
