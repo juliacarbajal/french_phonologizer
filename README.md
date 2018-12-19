@@ -22,4 +22,4 @@ Auxiliary files containing lists of words and dictionaries necessary for process
 ### Compiling corpora
 To obtain one final compiled corpus composed of multiple corpora, use the **compile.py** script. This script will gather all output files of a specified kind (e.g., orthographic or phonological transcriptions) located in **output/** and concatenate them to obtain one single corpus. This script allows to define several parameters, such as the age range of the children at the moment of the recording, the inclusion of file info at the beginning of each utterance, as well as some final modifications to the phonological transcription, namely the merging of mid-front nasals (not contrastive in many European French dialects) and the removal of geminates (double consonants).
 
-The resulting compilation will be saved in the directory **compiled_corpus.txt**. 
+The resulting compilation will be saved in the directory **compiled_corpus/**. 
